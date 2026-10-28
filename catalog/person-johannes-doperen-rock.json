@@ -1,0 +1,64 @@
+{
+  "id": "person-johannes-doperen-rock",
+  "title": "A Voice in the Wilderness",
+  "kind": "person",
+  "anchor": {
+    "person": "johannes-doperen"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 19,
+      "verseEnd": 36
+    },
+    {
+      "bookId": 40,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verseStart": 27,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "obedience"
+    ],
+    "themes": [
+      "dapen",
+      "ydmykhet"
+    ],
+    "stories": [
+      "johannes-doperen-forbereder-veien",
+      "doperen-johannes-forkynner",
+      "johannes-vitner-om-messias"
+    ],
+    "persons": [
+      "johannes-doperen",
+      "jesus",
+      "elia",
+      "jesaja"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, roots rock, gritty powerful male vocal, overdriven electric guitar, bass, driving drums, Hammond organ, raw and urgent, 118 BPM",
+    "lyrics": "[Verse]\nOut in the wilderness of Judea in the burning heat of day\nA man in camel's hair was calling and he would not walk away\nLocusts and wild honey and a leather belt of hide\nAll Jerusalem came out to him down by the Jordan's side\nRepent, for the kingdom of heaven has come near\nAnd they went down in the river with their sins confessed and clear\n\n[Chorus]\nI am a voice crying out in the wilderness\nMake straight the way of the Lord\nMake straight the way of the Lord\n\n[Verse]\nThe priests came from the city asking who he claimed to be\nNot the Christ and not Elijah, not the one they came to see\nI baptize with water\nAmong you stands one you do not know\nThe one who comes after me\nWhose sandal strap I am not worthy to untie\n\n[Chorus]\nI am a voice crying out in the wilderness\nMake straight the way of the Lord\nMake straight the way of the Lord\n\n[Bridge]\nThe next day he saw Jesus coming toward him\nLook, the Lamb of God\nWho takes away the sin of the world\n\n[Chorus]\nI am a voice crying out in the wilderness\nMake straight the way of the Lord\nMake straight the way of the Lord\n\n[Outro]\nHe must increase\nI must decrease\nHe must increase; I must decrease",
+    "cot": "full",
+    "seed": 20105
+  }
+}

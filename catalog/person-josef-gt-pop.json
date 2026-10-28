@@ -1,0 +1,82 @@
+{
+  "id": "person-josef-gt-pop",
+  "title": "Meant for Good",
+  "kind": "person",
+  "anchor": {
+    "person": "josef-gt"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 50,
+      "verseStart": 19,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 1,
+      "chapter": 37,
+      "verseStart": 3,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 1,
+      "chapter": 39,
+      "verseStart": 2,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 1,
+      "chapter": 41,
+      "verseStart": 25,
+      "verseEnd": 43
+    },
+    {
+      "bookId": 1,
+      "chapter": 45,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "josef",
+      "tilgivelse",
+      "lidelse"
+    ],
+    "stories": [
+      "josefs-drommer",
+      "josef-kastes-i-bronnen",
+      "josef-og-potifars-hustru",
+      "josef-tyder-faraos-drommer",
+      "josefs-opphoyelse-i-egypt",
+      "josefs-forsoning-med-brodrene"
+    ],
+    "persons": [
+      "josef-gt",
+      "jakob-israel",
+      "farao-i-josefs-tid",
+      "potifar",
+      "benjamin"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, uplifting pop, clear male tenor vocal, piano, synth pads, electric guitar, punchy drums, anthemic chorus, 104 BPM",
+    "lyrics": "[Verse]\nSeventeen with a head full of dreams\nSheaves in the field bowing down to me\nWore my father's robe in the morning sun\nDidn't see the anger I'd begun\nDown in a dry pit under the sky\nTwenty pieces of silver and a caravan goodbye\n\n[Pre-Chorus]\nA slave in a stranger's house\nA prisoner in chains\nBut the LORD was with Joseph\nThrough the long and lonely days\n\n[Chorus]\nYou intended evil against me\nBut God intended it for good\nEvery pit and every prison\nBrought me where I stood\nNow I see it from the palace\nWhat I never understood\nYou intended evil against me\nBut God intended it for good\n\n[Verse]\nPharaoh dreamed of cattle and of seven ears of grain\nSeven years of plenty, then seven years of pain\nThey called me from the prison to stand before the throne\nAnd all the land of Egypt was put under my hand alone\n\n[Bridge]\nBrothers came for bread and bowed down to the ground\nJust like in the dream, the sheaves had all come round\nI am Joseph, your brother\nCome closer to me\nDo not be distressed\nGod sent me ahead of you to preserve life\n\n[Chorus]\nYou intended evil against me\nBut God intended it for good\nEvery pit and every prison\nBrought me where I stood\nNow I see it from the palace\nWhat I never understood\nYou intended evil against me\nBut God intended it for good",
+    "cot": "full",
+    "seed": 20103
+  }
+}

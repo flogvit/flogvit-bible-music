@@ -1,0 +1,67 @@
+{
+  "id": "person-debora-celtic",
+  "title": "Awake, Deborah",
+  "kind": "person",
+  "anchor": {
+    "person": "debora"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 3,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 19,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 31,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro"
+    ],
+    "stories": [
+      "debora-og-barak"
+    ],
+    "persons": [
+      "debora",
+      "barak",
+      "sisera",
+      "jael"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic folk, strong clear female vocal, fiddle, Celtic harp, tin whistle, bouzouki, bodhran, stirring and bright, 100 BPM",
+    "lyrics": "[Verse]\nIn the hill country of Ephraim, between Ramah and Bethel's stones\nSat Deborah beneath the palm while Israel cried and groaned\nNine hundred iron chariots had kept them twenty years\nThe highways lay empty\nAnd travelers kept to the winding trails\n\n[Verse]\nShe sent for Barak in Naphtali and gave him the LORD's command\nGo, march to Mount Tabor\nWith ten thousand at your hand\nIf you go with me, I will go\nI will surely go with you, she said\n\n[Chorus]\nAwake, awake, Deborah\nAwake, awake, break into song\nI will sing to the LORD, I myself will sing\nI will make music to the LORD, the God of Israel\n\n[Verse]\nThe chariots came thundering across the Kishon plain\nThe earth shook, the heavens poured\nThe clouds poured down water\nFrom the heavens they fought\nThe river Kishon swept them away\n\n[Bridge]\nVillage life in Israel ceased\nUntil I, Deborah, arose\nUntil I arose, a mother in Israel\n\n[Chorus]\nAwake, awake, Deborah\nAwake, awake, break into song\nI will sing to the LORD, I myself will sing\nI will make music to the LORD, the God of Israel\n\n[Outro]\nMay those who love you be like the sun\nWhen it rises in its strength\nAnd the land had rest for forty years",
+    "cot": "full",
+    "seed": 20113
+  }
+}

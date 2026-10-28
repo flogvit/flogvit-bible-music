@@ -1,0 +1,73 @@
+{
+  "id": "person-jesaja-orchestral",
+  "title": "Here I Am, Send Me",
+  "kind": "person",
+  "anchor": {
+    "person": "jesaja"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 23,
+      "chapter": 7,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 23,
+      "chapter": 9,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 23,
+      "chapter": 53,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "obedience"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [
+      "jesajas-kall",
+      "jesaja-om-fredsfyrsten"
+    ],
+    "persons": [
+      "jesaja",
+      "ussia-asarja",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, epic orchestral, soaring male tenor vocal with mixed choir, full orchestra, brass, strings, choir, timpani, awe-filled and majestic, 72 BPM",
+    "lyrics": "[Verse]\nIn the year that King Uzziah died\nI saw the Lord seated on a high and lofty throne\nAnd the train of his robe filled the temple\nAbove him stood seraphim, each with six wings\n\n[Chorus]\nHoly, holy, holy is the LORD of hosts\nThe whole earth is full of his glory\nHoly, holy, holy is the LORD of hosts\nThe whole earth is full of his glory\n\n[Verse]\nThe doorposts of the thresholds shook\nAnd the house was filled with smoke\nWoe to me! I am ruined\nFor I am a man of unclean lips\nAnd my eyes have seen the King, the LORD of hosts\n\n[Verse]\nThen one of the seraphim flew to me\nHolding a glowing coal\nHe touched my mouth with it and said\nSee, this has touched your lips\nYour guilt is taken away, and your sin is atoned for\n\n[Bridge]\nThen I heard the voice of the Lord saying\nWhom shall I send? And who will go for us?\nAnd I said, Here I am. Send me!\nHere I am. Send me!\n\n[Verse]\nSo he went out to a people who would hear but never understand\nHe spoke of a virgin's son, a sign from the Lord's own hand\nOf a child who would be born to us, the Prince of Peace\nHe was pierced for our transgressions\nAnd by his wounds we are healed\n\n[Chorus]\nHoly, holy, holy is the LORD of hosts\nThe whole earth is full of his glory\n\n[Outro]\nHere I am. Send me!",
+    "cot": "full",
+    "seed": 20110
+  }
+}

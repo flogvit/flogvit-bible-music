@@ -1,0 +1,62 @@
+{
+  "id": "theme-den-hellige-and-gospel",
+  "title": "Another Advocate",
+  "kind": "theme",
+  "anchor": {
+    "theme": "den-hellige-and"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 16,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "pinse"
+    ],
+    "stories": [
+      "pinsedagen",
+      "talsmannen-og-vitnet",
+      "lofte-om-talsmannen-og-veiledning"
+    ],
+    "persons": [
+      "jesus",
+      "peter"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary gospel, soaring male lead vocal, gospel choir, Hammond B3 organ, piano, bass, drums, hand claps, building with Spirit-filled joy, 98 BPM",
+    "lyrics": "[Verse]\nOn the night before he suffered, in an upper room they sat\nWith the bread upon the table and their hearts were full of fear\nHe said, I am going to the Father, but you will not be alone\nAnd he spoke a word of promise for the days when he'd be gone\n\n[Chorus]\nI will ask the Father, and he will give you another Advocate\nTo be with you forever\nThe Spirit of truth\nI will not leave you as orphans; I am coming to you\n\n[Verse]\nWhen the day of Pentecost had come, they were all together in one place\nSuddenly a sound came from heaven like a rushing, violent wind\nTongues as of fire appeared to them\nThey were all filled with the Holy Spirit\n\n[Chorus]\nI will ask the Father, and he will give you another Advocate\nTo be with you forever\nThe Spirit of truth\nI will not leave you as orphans; I am coming to you\n\n[Bridge]\nBut the Advocate, the Holy Spirit\nWhom the Father will send in my name\nWill teach you all things\nAnd remind you of everything I have said to you\n\n[Outro]\nI will not leave you as orphans\nI am coming to you",
+    "cot": "full",
+    "seed": 20123
+  }
+}

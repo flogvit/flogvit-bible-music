@@ -1,0 +1,68 @@
+{
+  "id": "person-maria-magdalena-folk",
+  "title": "Rabboni",
+  "kind": "person",
+  "anchor": {
+    "person": "maria-magdalena"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 20,
+      "verseStart": 11,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 43,
+      "chapter": 20,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 42,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 43,
+      "chapter": 19,
+      "verseStart": 25,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "oppstandelsen"
+    ],
+    "stories": [
+      "jesu-oppstandelse",
+      "oppstandelsesvitnene"
+    ],
+    "persons": [
+      "maria-magdalena",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic folk, tender clear female vocal, fingerpicked acoustic guitar, mandolin, cello, soft harmonies, hushed like dawn and rising to joy, 76 BPM",
+    "lyrics": "[Verse]\nShe followed him from Galilee when he had set her free\nShe stood beside the cross of him where others feared to be\nShe watched them lay him in the tomb and roll the stone in place\nAnd came before the morning light to weep for his dear face\n\n[Verse]\nThe tomb was standing open and the stone was rolled away\nThey have taken away my Lord\nAnd I don't know where they have put him\nShe turned around and saw a man there in the early grey\nThinking he was the gardener, she said\nSir, if you have carried him off\nTell me where you have put him\n\n[Chorus]\nJesus said to her, Mary\nShe turned to him\nRabboni\nI have seen the Lord\nI have seen the Lord\n\n[Bridge]\nDo not hold on to me\nGo to my brothers and tell them\nI am ascending to my Father and your Father\nTo my God and your God\n\n[Chorus]\nJesus said to her, Mary\nShe turned to him\nRabboni\nI have seen the Lord\nI have seen the Lord\n\n[Outro]\nMary Magdalene went and announced to the disciples\nI have seen the Lord",
+    "cot": "full",
+    "seed": 20104
+  }
+}

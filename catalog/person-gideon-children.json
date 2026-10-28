@@ -1,0 +1,66 @@
+{
+  "id": "person-gideon-children",
+  "title": "Trumpets, Jars and Torches",
+  "kind": "person",
+  "anchor": {
+    "person": "gideon"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 7,
+      "chapter": 6,
+      "verseStart": 36,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 7,
+      "chapter": 7,
+      "verseStart": 2,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 7,
+      "chapter": 7,
+      "verseStart": 16,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "tro"
+    ],
+    "stories": [
+      "gideons-kall",
+      "gideons-seier"
+    ],
+    "persons": [
+      "gideon"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, bright children's choir with cheerful male lead, ukulele, glockenspiel, toy trumpet, hand claps, marching snare, bouncy bass, sing-along, 116 BPM",
+    "lyrics": "[Verse]\nGideon was hiding, threshing wheat where none could see\nScared of all the Midianites, like locusts on the trees\nThen an angel sat beneath the oak and said to him\nThe LORD is with you, mighty warrior\nWho, me? said Gideon, I am the least of all\nBut God said, I will be with you, and God is never small\n\n[Chorus]\nBlow your trumpet, toot toot toot\nSmash your jar, crash crash crash\nHold your torch up shining bright\nA sword for the LORD and for Gideon\nGod can win with just a few\nWhen we trust him, me and you\n\n[Verse]\nGideon was nervous, so he laid a woolly fleece\nOn the threshing floor at night and said, God, show me please\nIn the morning, wet fleece, and the ground was dry all round\nNext night, dry fleece, and dew on all the ground\n\n[Verse]\nThirty-two thousand soldiers came to stand at Gideon's side\nToo many, said the LORD, or they will boast in pride\nDown to ten thousand, then down to the stream they went\nThree hundred lapped the water, and those were the ones God sent\n\n[Chorus]\nBlow your trumpet, toot toot toot\nSmash your jar, crash crash crash\nHold your torch up shining bright\nA sword for the LORD and for Gideon\nGod can win with just a few\nWhen we trust him, me and you\n\n[Bridge]\nOne hundred, two hundred, three hundred men\nAll around the camp in the dark night\nReady, steady, blow, smash, shine\nAnd the LORD made it right",
+    "cot": "full",
+    "seed": 20111
+  }
+}

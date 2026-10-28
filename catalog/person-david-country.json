@@ -1,0 +1,87 @@
+{
+  "id": "person-david-country",
+  "title": "The LORD Looks at the Heart",
+  "kind": "person",
+  "anchor": {
+    "person": "david"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 16,
+      "verseStart": 7,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 9,
+      "chapter": 17,
+      "verseStart": 40,
+      "verseEnd": 50
+    },
+    {
+      "bookId": 9,
+      "chapter": 16,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 10,
+      "chapter": 11,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 10,
+      "chapter": 12,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 3,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "tilgivelse",
+      "synden"
+    ],
+    "stories": [
+      "david-salves-til-konge",
+      "david-og-goliat",
+      "david-blir-sauls-harpespiller",
+      "david-og-batseba",
+      "natan-formaner-david"
+    ],
+    "persons": [
+      "david",
+      "samuel",
+      "goliat",
+      "saul",
+      "natan",
+      "batseba"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic country, warm baritone male vocal with twang, acoustic guitar, pedal steel, fiddle, upright bass, brushed snare, storytelling ballad, 80 BPM",
+    "lyrics": "[Verse]\nOut on the hills by Bethlehem a ruddy shepherd boy\nKept his father's flock by night and sang his songs of joy\nSeven brothers passed the prophet, tall and fine to see\nBut the LORD looks at the heart, and the youngest one was he\n\n[Verse]\nDown in the Valley of Elah a giant cursed and roared\nThe soldiers stood there trembling, every hand upon a sword\nA boy ran out with just a sling, a stone and nothing more\nAnd the giant fell before him, for the battle belongs to the LORD\n\n[Chorus]\nShepherd boy and giant-slayer, harp-player and king\nA heart that ran to God in every song he'd sing\nHe fell and he got up again, he wept and he believed\nThe LORD looks at the heart, and a broken heart's received\n\n[Verse]\nUp on a palace rooftop in the evening's fading light\nA king took what was not his and hid it out of sight\nThen Nathan stood before him and said, You are the man\nAnd David fell before the LORD and wept with empty hands\n\n[Bridge]\nHave mercy on me, O God\nWash me, and I will be whiter than snow\nCreate in me a clean heart, O God\nRenew a steadfast spirit within me\n\n[Chorus]\nShepherd boy and giant-slayer, harp-player and king\nA heart that ran to God in every song he'd sing\nHe fell and he got up again, he wept and he believed\nThe LORD looks at the heart, and a broken heart's received\n\n[Outro]\nThe LORD looks at the heart",
+    "cot": "full",
+    "seed": 20102
+  }
+}

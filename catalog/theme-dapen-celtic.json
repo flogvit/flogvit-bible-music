@@ -1,0 +1,70 @@
+{
+  "id": "theme-dapen-celtic",
+  "title": "Newness of Life",
+  "kind": "theme",
+  "anchor": {
+    "theme": "dapen"
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 6,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 40,
+      "chapter": 28,
+      "verseStart": 18,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 40,
+      "chapter": 3,
+      "verseStart": 13,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 44,
+      "chapter": 8,
+      "verseStart": 35,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "dapen",
+      "frelsen"
+    ],
+    "stories": [
+      "jesu-dap",
+      "filip-og-den-etiopiske-hoffmannen",
+      "misjonsbefalingen"
+    ],
+    "persons": [
+      "jesus",
+      "johannes-doperen",
+      "filip-evangelisten"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic folk duet, male and female vocals, Celtic harp, fiddle, uilleann pipes, acoustic guitar, bodhran, flowing like a river, 90 BPM",
+    "lyrics": "[Verse]\nDown to the Jordan the Son of God came walking\nJohn held him in the water as the river rolled along\nAs soon as Jesus was baptized, he came up out of the water\nAnd behold, a voice from heaven said\nThis is my beloved Son, in whom I am well pleased\n\n[Chorus]\nSo through baptism we were buried with him into death\nIn order that, just as Christ was raised from the dead\nBy the glory of the Father\nWe too might walk in newness of life\n\n[Verse]\nOn the desert road from Jerusalem a chariot was turning\nPhilip told the good news about Jesus as they rode\nLook, here is water\nWhat is to keep me from being baptized\nAnd he went on his way rejoicing down the road\n\n[Chorus]\nSo through baptism we were buried with him into death\nIn order that, just as Christ was raised from the dead\nBy the glory of the Father\nWe too might walk in newness of life\n\n[Bridge]\nGo and make disciples of all nations\nBaptizing them in the name of the Father\nAnd of the Son and of the Holy Spirit\nAnd remember, I am with you always\nTo the very end of the age\n\n[Outro]\nWe too might walk in newness of life\nNewness of life",
+    "cot": "full",
+    "seed": 20122
+  }
+}

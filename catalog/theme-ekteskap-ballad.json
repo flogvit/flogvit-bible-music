@@ -1,0 +1,62 @@
+{
+  "id": "theme-ekteskap-ballad",
+  "title": "A Cord of Three Strands",
+  "kind": "theme",
+  "anchor": {
+    "theme": "ekteskap"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verseStart": 18,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 22,
+      "chapter": 8,
+      "verseStart": 6,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 21,
+      "chapter": 4,
+      "verseStart": 9,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "covenant"
+    ],
+    "themes": [
+      "ekteskap",
+      "kjerlighet",
+      "skapelsen"
+    ],
+    "stories": [
+      "adam-og-eva-i-eden",
+      "kjaerlighetens-lovsang-i-hoysangen"
+    ],
+    "persons": [
+      "adam",
+      "eva"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, romantic ballad, male and female duet, piano, strings, acoustic guitar, soft drums, tender and warm, 68 BPM",
+    "lyrics": "[Verse]\nIn the garden at the dawn of days the LORD God looked and said\nIt is not good for the man to be alone\nHe made a helper suitable, and the man awoke and saw\nThis one at last is bone of my bones and flesh of my flesh\n\n[Verse]\nSo here we stand together in the presence of the LORD\nWith the people that we love around us and a promise in our hands\nThat is why a man leaves his father and mother\nAnd holds fast to his wife, and they become one flesh\n\n[Chorus]\nSet me as a seal upon your heart\nAs a seal upon your arm\nFor love is as strong as death\nMany waters cannot quench love\nNor can rivers wash it away\n\n[Bridge]\nTwo are better than one\nIf one of them falls, the other can lift him up\nAnd if two lie down together, they keep warm\nThough someone may overpower one alone, two can stand against him\nAnd a cord of three strands is not easily broken\n\n[Chorus]\nSet me as a seal upon your heart\nAs a seal upon your arm\nFor love is as strong as death\nMany waters cannot quench love\nNor can rivers wash it away\n\n[Outro]\nA cord of three strands\nIs not easily broken",
+    "cot": "full",
+    "seed": 20125
+  }
+}

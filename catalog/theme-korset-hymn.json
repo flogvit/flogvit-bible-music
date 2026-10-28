@@ -1,0 +1,72 @@
+{
+  "id": "theme-korset-hymn",
+  "title": "The Message of the Cross",
+  "kind": "theme",
+  "anchor": {
+    "theme": "korset"
+  },
+  "references": [
+    {
+      "bookId": 48,
+      "chapter": 6,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 46,
+      "chapter": 1,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 58,
+      "chapter": 13,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 40,
+      "chapter": 27,
+      "verseStart": 35,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 43,
+      "chapter": 19,
+      "verseStart": 34,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "korset",
+      "frelsen",
+      "ydmykhet"
+    ],
+    "stories": [
+      "korsfestelsen"
+    ],
+    "persons": [
+      "jesus",
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional hymn, mixed four-part choir, pipe organ, brass quartet, timpani on the last verse, reverent and stately, 72 BPM",
+    "lyrics": "[Verse]\nUpon a hill outside the gate\nThey raised a cross of wood\nAnd there the Son of God was hung\nWhere we ourselves had stood\n\n[Chorus]\nBut may I never boast in anything\nExcept the cross of our Lord Jesus Christ\nThrough which the world has been crucified to me\nAnd I to the world\n\n[Verse]\nThe crowd went by and shook their heads\nAnd mocked him as he died\nThe soldiers gambled for his clothes\nAnd pierced him in his side\n\n[Chorus]\nBut may I never boast in anything\nExcept the cross of our Lord Jesus Christ\nThrough which the world has been crucified to me\nAnd I to the world\n\n[Bridge]\nFor the message of the cross is foolishness\nTo those who are perishing\nBut to us who are being saved\nIt is the power of God\n\n[Verse]\nNow let the proud lay down their crowns\nThe wise their clever word\nFor in this foolishness we find\nThe wisdom of the Lord\n\n[Chorus]\nBut may I never boast in anything\nExcept the cross of our Lord Jesus Christ\nThrough which the world has been crucified to me\nAnd I to the world",
+    "cot": "full",
+    "seed": 20121
+  }
+}

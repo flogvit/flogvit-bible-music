@@ -1,0 +1,65 @@
+{
+  "id": "person-samuel-acoustic",
+  "title": "Speak, LORD",
+  "kind": "person",
+  "anchor": {
+    "person": "samuel"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 9,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 9,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [
+      "hanna-ber-om-en-sonn",
+      "samuel-kalles-av-gud",
+      "david-salves-til-konge"
+    ],
+    "persons": [
+      "samuel",
+      "hanna",
+      "eli",
+      "isai",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic singer-songwriter, soft warm female vocal, fingerpicked acoustic guitar, piano, light strings, quiet and reverent, 74 BPM",
+    "lyrics": "[Verse]\nHannah wept at Shiloh and her lips moved with no sound\nOld Eli thought she'd had the wine, but grief had brought her down\nShe came back with a little boy and gave him with both hands\nI prayed for this child\nSo now I give him to the LORD\n\n[Verse]\nIn those days the word of the LORD was rare\nThe lamp of God had not yet gone out\nThe boy lay in the temple in the quiet midnight air\nWhen a voice called out his name and he ran to Eli's side\nHere I am; you called me\n\n[Chorus]\nSpeak, LORD, for your servant is listening\nIn the stillness of the night\nSpeak, LORD, for your servant is listening\nTill the lamp gives way to light\n\n[Verse]\nYears went by and Samuel came with oil to Bethlehem\nSeven sons passed by him, and the LORD chose none of them\nThey sent out for the youngest one who kept the sheep that day\nRise and anoint him; this is the one\n\n[Bridge]\nMan looks at the outward appearance\nBut the LORD looks at the heart\nMan looks at the outward appearance\nBut the LORD looks at the heart\n\n[Chorus]\nSpeak, LORD, for your servant is listening\nIn the stillness of the night\nSpeak, LORD, for your servant is listening\nTill the lamp gives way to light\n\n[Outro]\nSpeak, LORD\nFor your servant is listening",
+    "cot": "full",
+    "seed": 20108
+  }
+}

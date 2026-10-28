@@ -1,0 +1,70 @@
+{
+  "id": "theme-hap-acoustic",
+  "title": "Living Hope",
+  "kind": "theme",
+  "anchor": {
+    "theme": "hap"
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 15,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 60,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 55,
+      "verseEnd": 57
+    },
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 31,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "hap",
+      "oppstandelsen",
+      "lidelse"
+    ],
+    "stories": [
+      "jesu-oppstandelse"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic ballad, soft warm female vocal, fingerpicked acoustic guitar, piano, cello, gentle and consoling, 70 BPM",
+    "lyrics": "[Verse]\nThere's an empty chair beside me and the evening light is thin\nI have held a hand grown cold now, I have let the silence in\nBut I have not been left with nothing, though my eyes are wet with grief\nThere's a word that holds me steady like an anchor underneath\n\n[Chorus]\nMay the God of hope fill you with all joy and peace\nAs you trust in him\nSo that you may overflow with hope\nBy the power of the Holy Spirit\n\n[Verse]\nBlessed be the God and Father of our Lord Jesus Christ\nIn his great mercy he has given us new birth into a living hope\nThrough the resurrection of Jesus Christ from the dead\nThe stone is rolled away, and the morning light has come\n\n[Chorus]\nMay the God of hope fill you with all joy and peace\nAs you trust in him\nSo that you may overflow with hope\nBy the power of the Holy Spirit\n\n[Bridge]\nWhere, O death, is your victory\nWhere, O death, is your sting\nBut thanks be to God, who gives us the victory\nThrough our Lord Jesus Christ\n\n[Verse]\nThose who hope in the LORD will renew their strength\nThey will rise on wings like eagles\nThey will run and not grow weary\nThey will walk and not be faint\n\n[Outro]\nSo that you may overflow with hope\nA living hope",
+    "cot": "full",
+    "seed": 20117
+  }
+}

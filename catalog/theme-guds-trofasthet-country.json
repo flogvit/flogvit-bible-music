@@ -1,0 +1,82 @@
+{
+  "id": "theme-guds-trofasthet-country",
+  "title": "New Every Morning",
+  "kind": "theme",
+  "anchor": {
+    "theme": "guds-trofasthet"
+  },
+  "references": [
+    {
+      "bookId": 25,
+      "chapter": 3,
+      "verseStart": 22,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 19,
+      "chapter": 36,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 55,
+      "chapter": 2,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 2,
+      "chapter": 16,
+      "verseStart": 14,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 42,
+      "chapter": 22,
+      "verseStart": 54,
+      "verseEnd": 62
+    },
+    {
+      "bookId": 43,
+      "chapter": 21,
+      "verseStart": 15,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade"
+    ],
+    "stories": [
+      "manna-fra-himmelen",
+      "peter-fornekter-jesus",
+      "peters-gjenoppreisning"
+    ],
+    "persons": [
+      "moses",
+      "peter",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm country gospel, heartfelt female vocal, acoustic guitar, pedal steel, fiddle, piano, brushed drums, gentle and grateful, 82 BPM",
+    "lyrics": "[Verse]\nOut in the desert every morning there was bread upon the ground\nThin and flaky, fine as frost, and not a soul went without\nEven when they grumbled and they turned their hearts around\nEvery single morning there was manna to be found\n\n[Chorus]\nThe LORD's acts of mercy never cease\nHis compassions never come to an end\nThey are new every morning\nGreat is your faithfulness\nLORD, your mercy reaches to the heavens\nYour faithfulness to the clouds\n\n[Verse]\nPeter swore he'd never leave him, but he warmed his hands that night\nBy a fire in the courtyard he denied him three times\nThen beside the lake one morning, in the early light so pale\nThree times he asked him, Do you love me, and his mercy did not fail\n\n[Chorus]\nThe LORD's acts of mercy never cease\nHis compassions never come to an end\nThey are new every morning\nGreat is your faithfulness\nLORD, your mercy reaches to the heavens\nYour faithfulness to the clouds\n\n[Bridge]\nIf we are faithless, he remains faithful\nFor he cannot deny himself\nIf we are faithless, he remains faithful\nFor he cannot deny himself\n\n[Outro]\nThey are new every morning\nGreat is your faithfulness",
+    "cot": "full",
+    "seed": 20124
+  }
+}

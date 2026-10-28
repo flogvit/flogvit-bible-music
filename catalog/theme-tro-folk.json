@@ -1,0 +1,67 @@
+{
+  "id": "theme-tro-folk",
+  "title": "Mustard Seed",
+  "kind": "theme",
+  "anchor": {
+    "theme": "tro"
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 40,
+      "chapter": 17,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 42,
+      "chapter": 17,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 29,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "abraham"
+    ],
+    "stories": [
+      "troens-vitner",
+      "sennepsfroet"
+    ],
+    "persons": [
+      "noah",
+      "abraham",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, folk duet, male and female vocals in harmony, acoustic guitars, mandolin, fiddle, upright bass, warm and steady, 96 BPM",
+    "lyrics": "[Verse]\nBy faith old Noah built an ark before the rain came down\nBy faith went Abraham from home across the unknown ground\nBy faith the people crossed the sea as if on solid land\nBy faith the walls of Jericho fell down at God's command\n\n[Chorus]\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nSmall as a mustard seed in my hand\nBut it rests on the One who carries me\n\n[Verse]\nThe apostles said to the Lord, Give us more faith\nAnd he spoke of the smallest seed a farmer ever sows\nIf you have faith like a mustard seed\nYou will say to this mountain, Move from here to there\nAnd it will move\nNothing will be impossible for you\n\n[Chorus]\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nSmall as a mustard seed in my hand\nBut it rests on the One who carries me\n\n[Bridge]\nWithout faith it is impossible to please him\nFor whoever comes to God must believe that he exists\nAnd that he rewards those who seek him\n\n[Chorus]\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nSmall as a mustard seed in my hand\nBut it rests on the One who carries me\n\n[Outro]\nThe conviction of what we do not see",
+    "cot": "full",
+    "seed": 20116
+  }
+}

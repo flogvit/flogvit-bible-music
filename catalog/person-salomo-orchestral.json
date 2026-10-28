@@ -1,0 +1,105 @@
+{
+  "id": "person-salomo-orchestral",
+  "title": "A Listening Heart",
+  "kind": "person",
+  "anchor": {
+    "person": "salomo"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 3,
+      "verseStart": 5,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 11,
+      "chapter": 5,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 11,
+      "chapter": 6,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 11,
+      "chapter": 6,
+      "verseStart": 38,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 11,
+      "chapter": 8,
+      "verseStart": 10,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 11,
+      "chapter": 8,
+      "verseStart": 27,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 20,
+      "chapter": 9,
+      "verseStart": 10,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 11,
+      "chapter": 11,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 21,
+      "chapter": 1,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 21,
+      "chapter": 12,
+      "verseStart": 13,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "holiness"
+    ],
+    "themes": [
+      "visdom"
+    ],
+    "stories": [
+      "salomo-ber-om-visdom",
+      "salomos-tempel",
+      "salomos-innvielsesbonn",
+      "salomos-frafall",
+      "forkynneren-om-livets-forgjengelighet"
+    ],
+    "persons": [
+      "salomo",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, cinematic orchestral, rich female mezzo vocal, string orchestra, harp, French horn, woodwinds, timpani, majestic and reflective, 76 BPM",
+    "lyrics": "[Verse]\nAt Gibeon the LORD appeared to Solomon in a dream by night\nAsk what I should give you\nI am only a young man\nI do not know how to go out or come in\nNot gold, not years, not victory, but this is what he prayed\n\n[Chorus]\nGive your servant a listening heart\nTo judge your people\nTo discern between good and evil\nA listening heart, a listening heart\n\n[Verse]\nSeven years of cedar and of stone cut at the quarry\nNo hammer and no iron tool was heard upon the hill\nThe cloud filled the house of the LORD\nAnd the priests could not stand to minister\nBut will God really dwell on the earth\nThe heavens, even the highest heaven, cannot contain you\n\n[Verse]\nThree thousand proverbs flowed from him like rivers to the sea\nHis fame went out to every land and kings came there to see\nThe fear of the LORD is the beginning of wisdom\nAnd knowledge of the Holy One is understanding\n\n[Bridge]\nBut when Solomon grew old his heart was led astray\nTo other gods and silver, and he wandered from the way\nFutility of futilities\nEverything is futile\nThe end of the matter, now that all has been heard\nFear God and keep his commandments\n\n[Chorus]\nGive your servant a listening heart\nTo judge your people\nTo discern between good and evil\nA listening heart, a listening heart",
+    "cot": "full",
+    "seed": 20109
+  }
+}

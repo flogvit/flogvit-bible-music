@@ -1,0 +1,60 @@
+{
+  "id": "theme-glede-pop",
+  "title": "The Joy of the LORD",
+  "kind": "theme",
+  "anchor": {
+    "theme": "glede"
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 4,
+      "verseStart": 4,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 52,
+      "chapter": 5,
+      "verseStart": 16,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "glede",
+      "bonn"
+    ],
+    "stories": [
+      "esras-opplesing-av-loven"
+    ],
+    "persons": [
+      "paulus",
+      "esra",
+      "nehemja"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, upbeat pop, bright joyful female vocal with group backing vocals, piano, acoustic guitar, synths, hand claps, punchy drums, 122 BPM",
+    "lyrics": "[Verse]\nPaul sat in a prison cell with chains upon his hands\nWriting to his friends in Philippi in a far-off land\nNot a word of bitterness and not a word of fear\nJust a line that rings out down the years, so loud and clear\n\n[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice\nLet your gentleness be evident to everyone\nThe Lord is near\n\n[Verse]\nIn Jerusalem at daybreak Ezra read the law aloud\nThe people wept to hear it, every head among them bowed\nGo, eat what is rich and drink what is sweet\nDo not grieve\nFor the joy of the LORD is your strength\n\n[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice\nLet your gentleness be evident to everyone\nThe Lord is near\n\n[Bridge]\nRejoice always\nPray without ceasing\nGive thanks in all circumstances\nRejoice always\nPray without ceasing\nGive thanks in all circumstances\n\n[Outro]\nThe joy of the LORD is your strength\nRejoice in the Lord always",
+    "cot": "full",
+    "seed": 20118
+  }
+}

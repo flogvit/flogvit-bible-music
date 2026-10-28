@@ -1,0 +1,75 @@
+{
+  "id": "theme-bonn-soul",
+  "title": "Pray Without Ceasing",
+  "kind": "theme",
+  "anchor": {
+    "theme": "bonn"
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 52,
+      "chapter": 5,
+      "verseStart": 16,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 27,
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 9,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 42,
+      "chapter": 22,
+      "verseStart": 41,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "frykt"
+    ],
+    "stories": [
+      "hanna-ber-om-en-sonn",
+      "daniel-i-lovehulen",
+      "getsemane"
+    ],
+    "persons": [
+      "hanna",
+      "daniel",
+      "jesus",
+      "paulus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smooth soul, warm expressive female vocal, Rhodes electric piano, Hammond organ, warm bass, soft drums, gentle backing vocals, prayerful and intimate, 72 BPM",
+    "lyrics": "[Verse]\nThere's a list upon the table and a weight upon my chest\nA thousand things I'm carrying that never let me rest\nBut I hear the word again\nDo not be anxious about anything\nIn everything, by prayer and petition, with thanksgiving\nPresent your requests to God\n\n[Chorus]\nPray without ceasing\nMorning, noon and night\nLike Daniel at his window\nOpen to the light\nPray without ceasing\nGive thanks in all circumstances\nLay it all before him\nHe hears me when I call\n\n[Verse]\nHannah prayed at Shiloh and her lips moved with no sound\nJesus knelt down in the garden and his sweat fell to the ground\nEven he cried to the Father with his heart laid open wide\nYet not my will, but yours be done\nAn angel from heaven appeared to him and strengthened him\n\n[Chorus]\nPray without ceasing\nMorning, noon and night\nLike Daniel at his window\nOpen to the light\nPray without ceasing\nGive thanks in all circumstances\nLay it all before him\nHe hears me when I call\n\n[Bridge]\nAnd the peace of God, which surpasses all understanding\nWill guard your hearts and your minds in Christ Jesus\n\n[Outro]\nPray without ceasing\nMorning, noon and night",
+    "cot": "full",
+    "seed": 20120
+  }
+}

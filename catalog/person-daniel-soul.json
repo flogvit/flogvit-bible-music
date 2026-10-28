@@ -1,0 +1,77 @@
+{
+  "id": "person-daniel-soul",
+  "title": "Just as He Had Always Done",
+  "kind": "person",
+  "anchor": {
+    "person": "daniel"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 8,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 27,
+      "chapter": 2,
+      "verseStart": 20,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 27,
+      "chapter": 2,
+      "verseStart": 31,
+      "verseEnd": 45
+    },
+    {
+      "bookId": 27,
+      "chapter": 5,
+      "verseStart": 25,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "bonn",
+      "tro"
+    ],
+    "stories": [
+      "daniel-og-vennene-i-babel",
+      "daniel-tyder-nebukadnesars-drom",
+      "skriften-pa-veggen",
+      "daniel-i-lovehulen"
+    ],
+    "persons": [
+      "daniel",
+      "nebukadnesar",
+      "belsasar"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic soul, rich soulful female vocal, Rhodes electric piano, warm bass, horn section, soft backing vocals, steady and steadfast, 84 BPM",
+    "lyrics": "[Verse]\nTaken from Jerusalem, a young man far from home\nBabylon had golden halls and gods of wood and stone\nThey set the king's food on his table, poured the king's own wine\nBut Daniel resolved in his heart\nNot to defile himself\n\n[Chorus]\nThree times a day he got down on his knees and prayed\nGiving thanks to his God\nJust as he had always done\nKings may rise and kings may fall\nHe kept on praying through it all\n\n[Verse]\nThe king dreamed of a statue made of gold and iron and clay\nA stone not cut by human hands came and broke it all away\nDaniel blessed the God of heaven who knows what lies in the dark\nHe changes times and seasons\nHe removes kings and sets up kings\n\n[Verse]\nAt Belshazzar's feast a hand wrote letters on the wall\nThe cups of gold were shaking and the king began to fall\nYou have been weighed on the scales and found too light\nAnd the kingdom ended in the dark of that same night\n\n[Chorus]\nThree times a day he got down on his knees and prayed\nGiving thanks to his God\nJust as he had always done\nKings may rise and kings may fall\nHe kept on praying through it all\n\n[Bridge]\nThey threw him in the lions' den and sealed it with a ring\nAnd sleep fled from the palace, sleep fled from the king\nAt the first light of dawn the king got up and hurried to the lions' den\nMy God sent his angel and shut the mouths of the lions",
+    "cot": "full",
+    "seed": 20106
+  }
+}

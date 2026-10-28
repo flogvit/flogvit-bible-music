@@ -1,0 +1,69 @@
+{
+  "id": "person-miriam-gospel",
+  "title": "Horse and Rider",
+  "kind": "person",
+  "anchor": {
+    "person": "miriam"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 15,
+      "verseStart": 19,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 2,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 2,
+      "chapter": 14,
+      "verseStart": 21,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "moses"
+    ],
+    "stories": [
+      "moses-fodsel",
+      "israelittene-gar-gjennom-rodehavet",
+      "moses-sang-ved-havet"
+    ],
+    "persons": [
+      "miriam",
+      "moses",
+      "aron",
+      "faraos-datter"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel, joyful powerful female lead vocal, full gospel choir with call and response, tambourines, hand claps, Hammond B3 organ, piano, bass, drums, celebratory, 120 BPM",
+    "lyrics": "[Verse]\nDown by the Nile where the tall reeds grow\nA baby cried in a basket boat\nHis sister stood at a distance\nTo see what would happen to him\nThen his sister said to Pharaoh's daughter\nShall I go and find you a Hebrew woman to nurse the child for you\n\n[Verse]\nYears of brick and straw and the whip upon the back\nThen Moses stretched out his hand and the sea rolled back\nThe Israelites walked through the sea on dry ground\nAnd the LORD brought the waters of the sea back over them\n\n[Pre-Chorus]\nThen Miriam the prophetess, Aaron's sister\nTook a tambourine in her hand\nAnd all the women followed her\nWith tambourines and dancing\n\n[Chorus]\nSing to the LORD, for he is highly exalted\nHorse and rider he hurled into the sea\nSing to the LORD, for he is highly exalted\nHorse and rider he hurled into the sea\n\n[Bridge]\nThe LORD is my strength and my song\nHe has become my salvation\nHe is my God, and I will praise him\nThe God of my father, and I will exalt him\n\n[Chorus]\nSing to the LORD, for he is highly exalted\nHorse and rider he hurled into the sea\nSing to the LORD, for he is highly exalted\nHorse and rider he hurled into the sea\n\n[Outro]\nSing to the LORD\nHorse and rider he hurled into the sea",
+    "cot": "full",
+    "seed": 20114
+  }
+}

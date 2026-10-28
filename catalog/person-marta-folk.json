@@ -1,0 +1,57 @@
+{
+  "id": "person-marta-folk",
+  "title": "The Good Portion",
+  "kind": "person",
+  "anchor": {
+    "person": "marta"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 10,
+      "verseStart": 38,
+      "verseEnd": 42
+    },
+    {
+      "bookId": 43,
+      "chapter": 11,
+      "verseStart": 17,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "oppstandelsen"
+    ],
+    "stories": [
+      "maria-og-marta",
+      "oppvekkelsen-av-lasarus"
+    ],
+    "persons": [
+      "marta",
+      "maria-betania",
+      "lasarus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm folk, bright honest female vocal, acoustic guitar, banjo, upright bass, light percussion, homely and tender, 92 BPM",
+    "lyrics": "[Verse]\nThe Teacher came to Bethany and Martha opened wide\nHer door, her bread, her table, and the fire burned inside\nHer sister sat at the Lord's feet and listened to his word\nWhile Martha served alone and felt that no one saw or heard\nLord, don't you care that my sister has left me to serve alone\nTell her to help me\n\n[Chorus]\nMartha, Martha, anxious over many things\nFew things are needed, only one\nThe good portion at his feet\nWill not be taken away\n\n[Verse]\nThen sorrow came to Bethany, her brother in the grave\nFour days in the tomb and nothing left to save\nShe ran to meet him on the road before the others came\nLord, if you had been here, my brother would not have died\nJesus said to her, I am the resurrection and the life\n\n[Bridge]\nDo you believe this\nYes, Lord\nI believe that you are the Christ, the Son of God\nThe one coming into the world\n\n[Chorus]\nMartha, Martha, anxious over many things\nFew things are needed, only one\nThe good portion at his feet\nWill not be taken away\n\n[Outro]\nFew things are needed, only one\nWill not be taken away",
+    "cot": "full",
+    "seed": 20115
+  }
+}

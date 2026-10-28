@@ -1,0 +1,83 @@
+{
+  "id": "person-job-blues",
+  "title": "The LORD Gave",
+  "kind": "person",
+  "anchor": {
+    "person": "job"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 1,
+      "verseStart": 20,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 18,
+      "chapter": 19,
+      "verseStart": 23,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 18,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 18,
+      "chapter": 2,
+      "verseStart": 7,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 18,
+      "chapter": 38,
+      "verseStart": 1,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "lidelse",
+      "tro",
+      "hap"
+    ],
+    "stories": [
+      "jobs-lidelse",
+      "jobs-utholdenhet",
+      "jobs-erkjennelse-om-gjenloeseren",
+      "jobs-gjenopprettelse"
+    ],
+    "persons": [
+      "job"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow Delta blues, weathered deep male vocal, slide guitar, acoustic guitar, harmonica, upright bass, brushed drums, heavy and soulful, 66 BPM",
+    "lyrics": "[Verse]\nI had sons and I had daughters, I had cattle on the plain\nI was known in all the East and my barns were full of grain\nThen the messengers came running and they told me one by one\nFire and raiders and a great wind, and my children all were gone\n\n[Chorus]\nNaked I came from my mother's womb\nAnd naked I will return\nThe LORD gave, and the LORD has taken away\nBlessed be the name of the LORD\n\n[Verse]\nSores from my head down to my feet, I sat in ash and dust\nMy friends said I must have sinned, for God is always just\nI cried into the silence and no answer came around\nOh, that my words were written down\n\n[Bridge]\nBut I know that my Redeemer lives\nAnd in the end he will stand upon the dust\nYet in my flesh I will see God\nI myself will see him\nMy own eyes will behold him\n\n[Verse]\nThen the LORD answered Job out of the storm\nWhere were you when I laid the earth's foundation\nI put my hand upon my mouth, I'd talked of things too high\nI had heard of you by the hearing of the ear\nBut now my eye has seen you\n\n[Chorus]\nNaked I came from my mother's womb\nAnd naked I will return\nThe LORD gave, and the LORD has taken away\nBlessed be the name of the LORD\n\n[Outro]\nI know that my Redeemer lives\nBlessed be the name of the LORD",
+    "cot": "full",
+    "seed": 20107
+  }
+}

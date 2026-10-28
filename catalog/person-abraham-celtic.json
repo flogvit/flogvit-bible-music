@@ -1,0 +1,66 @@
+{
+  "id": "person-abraham-celtic",
+  "title": "Count the Stars",
+  "kind": "person",
+  "anchor": {
+    "person": "abraham"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "abraham",
+      "tro",
+      "pakten"
+    ],
+    "stories": [
+      "abrahams-kall",
+      "guds-pakt-med-abram",
+      "abrahams-tro-og-rettferdighet",
+      "isaks-binding"
+    ],
+    "persons": [
+      "abraham",
+      "sara",
+      "isak"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic folk, weathered warm male vocal, uilleann pipes, fiddle, Celtic harp, bouzouki, bodhran, open and journeying, 88 BPM",
+    "lyrics": "[Verse]\nAn old man in Haran with his flocks and with his kin\nHeard a voice that called him out to where he'd never been\nLeave your land, your kindred, and your father's house\nAnd go to the land I will show you\nSo Abram went, as the LORD had told him\nWith Sarai by his side and the long road in his eyes\n\n[Verse]\nThe years went by in Canaan and the cradle still stood bare\nLord GOD, what will you give me\nI remain childless\nHe brought him outside\nAnd told the childless man to lift his weary eyes\n\n[Chorus]\nLook up at the sky and count the stars\nIf you can count them\nSo shall your offspring be\nAbram believed the LORD\nAnd he credited it to him as righteousness\n\n[Bridge]\nUp the mountain walked a father with the son he loved\nHere are the fire and the wood\nBut where is the lamb\nGod himself will provide the lamb\nAnd the two of them walked on together\n\n[Chorus]\nLook up at the sky and count the stars\nIf you can count them\nSo shall your offspring be\nAbram believed the LORD\nAnd he credited it to him as righteousness\n\n[Outro]\nCount the stars\nIf you can count them\nSo shall your offspring be",
+    "cot": "full",
+    "seed": 20101
+  }
+}

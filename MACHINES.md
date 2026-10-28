@@ -15,7 +15,7 @@ middle). Output: `YuE/outputs/catalog/<id>/` on Home Mac.
 | song | status |
 |---|---|
 | verse-43-3-16-gospel | done 2026-10-28 17:59, 3:18, sheets in sheets/ |
-| verse-40-11-28-folk | taken |
+| verse-40-11-28-folk | done 2026-10-28 18:29, 3:02, sheets in sheets/ |
 | verse-24-29-11-gospel | done 2026-10-28 19:00, 4:04, sheets in sheets/ |
 | theme-tilgivelse-country | taken |
 | story-david-og-goliat-children | taken |

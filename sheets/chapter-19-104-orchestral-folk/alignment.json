@@ -1,0 +1,4670 @@
+{
+ "id": "chapter-19-104-orchestral-folk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-104-orchestral-folk",
+ "offset_seconds": -3.3000000000001855,
+ "words_heard": 576,
+ "words": 583,
+ "lines": [
+  {
+   "text": "Bless the LORD, my soul!",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "LORD my God, you are very great;",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "you are clothed in splendor and majesty,",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "wrapped in light as with a robe, stretching out the heavens like a tent.",
+   "heard": 14,
+   "words": 14,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He lays the beams of his upper rooms on the waters, makes the clouds his chariot, and rides on the wings of the wind.",
+   "heard": 24,
+   "words": 24,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He makes the winds his messengers, flames of fire his servants.",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He set the earth on its foundations;",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "it shall never be shaken.",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You covered it with the deep as with a garment;",
+   "heard": 9,
+   "words": 10,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "the waters stood above the mountains.",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "At your rebuke they fled;",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "at the sound of your thunder they took to flight.",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They rose over the mountains, they ran down into the valleys, to the place you appointed for them.",
+   "heard": 17,
+   "words": 18,
+   "error_s": 0.21,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "You set a boundary they may not cross;",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "never again will they cover the earth.",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He sends the springs into the ravines;",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "they flow between the mountains.",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.25,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "They give drink to every beast of the field;",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.81,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "the wild donkeys quench their thirst.",
+   "heard": 6,
+   "words": 6,
+   "error_s": 3.55,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Beside them the birds of the sky make their home;",
+   "heard": 10,
+   "words": 10,
+   "error_s": 3.58,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "they sing among the branches.",
+   "heard": 5,
+   "words": 5,
+   "error_s": 4.42,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "He waters the mountains from his upper rooms;",
+   "heard": 8,
+   "words": 8,
+   "error_s": 5.21,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "the earth is satisfied with the fruit of your work.",
+   "heard": 10,
+   "words": 10,
+   "error_s": 4.87,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "He makes grass grow for the cattle and plants for people to cultivate, bringing forth bread from the earth,",
+   "heard": 19,
+   "words": 19,
+   "error_s": 10.75,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "and wine that gladdens the human heart, oil to make the face shine, and bread to sustain the heart.",
+   "heard": 19,
+   "words": 19,
+   "error_s": 10.28,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The trees of the LORD drink their fill, the cedars of Lebanon that he planted,",
+   "heard": 14,
+   "words": 15,
+   "error_s": 15.1,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "where the birds build their nests;",
+   "heard": 6,
+   "words": 6,
+   "error_s": 16.86,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "the stork has her home in the fir trees.",
+   "heard": 9,
+   "words": 9,
+   "error_s": 14.0,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The high mountains belong to the wild goats;",
+   "heard": 8,
+   "words": 8,
+   "error_s": 13.64,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "the crags are a refuge for the rock badgers.",
+   "heard": 9,
+   "words": 9,
+   "error_s": 15.86,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He made the moon to mark the seasons;",
+   "heard": 8,
+   "words": 8,
+   "error_s": 16.11,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "the sun knows when to set.",
+   "heard": 6,
+   "words": 6,
+   "error_s": 16.02,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "You bring darkness, and it is night, when all the beasts of the forest prowl.",
+   "heard": 15,
+   "words": 15,
+   "error_s": 13.94,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The young lions roar for their prey, seeking their food from God.",
+   "heard": 12,
+   "words": 12,
+   "error_s": 14.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The sun rises, and they steal away and lie down in their dens.",
+   "heard": 13,
+   "words": 13,
+   "error_s": 6.2,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Then people go out to their work, to their labor until evening.",
+   "heard": 12,
+   "words": 12,
+   "error_s": 6.31,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "How many are your works, LORD!",
+   "heard": 6,
+   "words": 6,
+   "error_s": 6.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In wisdom you made them all;",
+   "heard": 6,
+   "words": 6,
+   "error_s": 8.58,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "the earth is full of your creatures.",
+   "heard": 7,
+   "words": 7,
+   "error_s": 10.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "There is the sea, vast and wide, teeming with creatures beyond number, living things both small and great.",
+   "heard": 18,
+   "words": 18,
+   "error_s": 8.36,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "There the ships move along, and Leviathan, which you formed to play in it.",
+   "heard": 12,
+   "words": 14,
+   "error_s": 4.29,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "All of them look to you to give them their food at the proper time.",
+   "heard": 15,
+   "words": 15,
+   "error_s": 0.54,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "When you give it to them, they gather it up;",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.86,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "when you open your hand, they are filled with good things.",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When you hide your face, they are terrified;",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "when you take away their breath, they die and return to the dust.",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.33,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "When you send forth your Spirit, they are created, and you renew the face of the earth.",
+   "heard": 17,
+   "words": 17,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "May the glory of the LORD endure forever;",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "may the LORD rejoice in his works \u2014",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "he who looks at the earth, and it trembles, who touches the mountains, and they smoke.",
+   "heard": 16,
+   "words": 16,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will sing to the LORD all my life;",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will sing praise to my God as long as I live.",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "May my meditation please him;",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will rejoice in the LORD.",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But may sinners vanish from the earth and the wicked be no more.",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bless the LORD, my soul!",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD!",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bless the LORD, my soul!",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "LORD my God, you are very great;",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "you are clothed in splendor and majesty,",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Bless",
+   "time": 16.52,
+   "weight": 0.0,
+   "note_time": 31.74
+  },
+  {
+   "text": "the",
+   "time": 16.92,
+   "weight": 0.76,
+   "note_time": 31.92
+  },
+  {
+   "text": "LORD,",
+   "time": 32.78,
+   "weight": 0.28,
+   "note_time": 32.09
+  },
+  {
+   "text": "my",
+   "time": 32.9,
+   "weight": 0.65,
+   "note_time": 32.79
+  },
+  {
+   "text": "soul!",
+   "time": 33.7,
+   "weight": 0.66,
+   "note_time": 33.49
+  },
+  {
+   "text": "LORD",
+   "time": 34.86,
+   "weight": 0.39,
+   "note_time": 35.58
+  },
+  {
+   "text": "my",
+   "time": 36.6,
+   "weight": 0.98,
+   "note_time": 36.28
+  },
+  {
+   "text": "God,",
+   "time": 36.94,
+   "weight": 0.98,
+   "note_time": 36.98
+  },
+  {
+   "text": "you",
+   "time": 37.74,
+   "weight": 0.5,
+   "note_time": 37.15
+  },
+  {
+   "text": "are",
+   "time": 37.96,
+   "weight": 1.0,
+   "note_time": 37.33
+  },
+  {
+   "text": "ve",
+   "time": 38.34,
+   "weight": 0.99,
+   "note_time": 37.67
+  },
+  {
+   "text": "ry",
+   "time": 38.69,
+   "weight": 0.99,
+   "note_time": 38.37
+  },
+  {
+   "text": "great;",
+   "time": 39.04,
+   "weight": 0.99,
+   "note_time": 39.07
+  },
+  {
+   "text": "you",
+   "time": 41.58,
+   "weight": 0.95,
+   "note_time": 41.16
+  },
+  {
+   "text": "are",
+   "time": 42.04,
+   "weight": 0.99,
+   "note_time": 41.34
+  },
+  {
+   "text": "clothed",
+   "time": 42.38,
+   "weight": 0.98,
+   "note_time": 41.86
+  },
+  {
+   "text": "in",
+   "time": 43.02,
+   "weight": 0.99,
+   "note_time": 42.56
+  },
+  {
+   "text": "splen",
+   "time": 43.64,
+   "weight": 0.95,
+   "note_time": 43.26
+  },
+  {
+   "text": "dor",
+   "time": 43.99,
+   "weight": 0.95,
+   "note_time": 43.78
+  },
+  {
+   "text": "and",
+   "time": 44.88,
+   "weight": 1.0,
+   "note_time": 44.3
+  },
+  {
+   "text": "ma",
+   "time": 45.34,
+   "weight": 0.99,
+   "note_time": 44.65
+  },
+  {
+   "text": "jes",
+   "time": 45.65,
+   "weight": 0.99,
+   "note_time": 45.17
+  },
+  {
+   "text": "ty,",
+   "time": 45.95,
+   "weight": 0.99,
+   "note_time": 45.7
+  },
+  {
+   "text": "wrapped",
+   "time": 53.66,
+   "weight": 0.98,
+   "note_time": 53.02
+  },
+  {
+   "text": "in",
+   "time": 54.12,
+   "weight": 1.0,
+   "note_time": 53.37
+  },
+  {
+   "text": "light",
+   "time": 54.36,
+   "weight": 1.0,
+   "note_time": 53.72
+  },
+  {
+   "text": "as",
+   "time": 54.72,
+   "weight": 0.94,
+   "note_time": 54.07
+  },
+  {
+   "text": "with",
+   "time": 55.16,
+   "weight": 0.99,
+   "note_time": 54.42
+  },
+  {
+   "text": "a",
+   "time": 55.42,
+   "weight": 0.95,
+   "note_time": 54.59
+  },
+  {
+   "text": "robe,",
+   "time": 55.56,
+   "weight": 0.61,
+   "note_time": 54.94
+  },
+  {
+   "text": "stretch",
+   "time": 56.32,
+   "weight": 0.92,
+   "note_time": 55.81
+  },
+  {
+   "text": "ing",
+   "time": 56.55,
+   "weight": 0.92,
+   "note_time": 56.16
+  },
+  {
+   "text": "out",
+   "time": 56.78,
+   "weight": 1.0,
+   "note_time": 56.34
+  },
+  {
+   "text": "the",
+   "time": 57.44,
+   "weight": 0.99,
+   "note_time": 56.86
+  },
+  {
+   "text": "heav",
+   "time": 57.8,
+   "weight": 0.99,
+   "note_time": 57.03
+  },
+  {
+   "text": "ens",
+   "time": 58.05,
+   "weight": 0.99,
+   "note_time": 57.38
+  },
+  {
+   "text": "like",
+   "time": 58.3,
+   "weight": 0.99,
+   "note_time": 57.91
+  },
+  {
+   "text": "a",
+   "time": 58.84,
+   "weight": 0.99,
+   "note_time": 58.26
+  },
+  {
+   "text": "tent.",
+   "time": 59.2,
+   "weight": 1.0,
+   "note_time": 58.43
+  },
+  {
+   "text": "He",
+   "time": 60.92,
+   "weight": 0.79,
+   "note_time": 60.87
+  },
+  {
+   "text": "lays",
+   "time": 61.72,
+   "weight": 0.97,
+   "note_time": 61.05
+  },
+  {
+   "text": "the",
+   "time": 62.0,
+   "weight": 1.0,
+   "note_time": 61.22
+  },
+  {
+   "text": "beams",
+   "time": 62.12,
+   "weight": 1.0,
+   "note_time": 61.4
+  },
+  {
+   "text": "of",
+   "time": 62.56,
+   "weight": 0.99,
+   "note_time": 62.09
+  },
+  {
+   "text": "his",
+   "time": 63.08,
+   "weight": 0.57,
+   "note_time": 62.44
+  },
+  {
+   "text": "up",
+   "time": 63.4,
+   "weight": 0.98,
+   "note_time": 62.79
+  },
+  {
+   "text": "per",
+   "time": 63.64,
+   "weight": 0.98,
+   "note_time": 62.97
+  },
+  {
+   "text": "rooms",
+   "time": 63.88,
+   "weight": 0.89,
+   "note_time": 63.31
+  },
+  {
+   "text": "on",
+   "time": 64.44,
+   "weight": 0.94,
+   "note_time": 63.84
+  },
+  {
+   "text": "the",
+   "time": 64.8,
+   "weight": 1.0,
+   "note_time": 64.01
+  },
+  {
+   "text": "wa",
+   "time": 64.9,
+   "weight": 0.99,
+   "note_time": 64.19
+  },
+  {
+   "text": "ters,",
+   "time": 65.13,
+   "weight": 0.99,
+   "note_time": 64.36
+  },
+  {
+   "text": "makes",
+   "time": 65.36,
+   "weight": 0.43,
+   "note_time": 64.88
+  },
+  {
+   "text": "the",
+   "time": 65.8,
+   "weight": 1.0,
+   "note_time": 65.23
+  },
+  {
+   "text": "clouds",
+   "time": 66.12,
+   "weight": 1.0,
+   "note_time": 65.41
+  },
+  {
+   "text": "his",
+   "time": 66.5,
+   "weight": 0.99,
+   "note_time": 65.93
+  },
+  {
+   "text": "char",
+   "time": 66.9,
+   "weight": 1.0,
+   "note_time": 66.28
+  },
+  {
+   "text": "i",
+   "time": 67.17,
+   "weight": 1.0,
+   "note_time": 66.63
+  },
+  {
+   "text": "ot,",
+   "time": 67.45,
+   "weight": 1.0,
+   "note_time": 66.8
+  },
+  {
+   "text": "and",
+   "time": 67.72,
+   "weight": 0.81,
+   "note_time": 68.2
+  },
+  {
+   "text": "rides",
+   "time": 68.4,
+   "weight": 1.0,
+   "note_time": 68.37
+  },
+  {
+   "text": "on",
+   "time": 69.32,
+   "weight": 1.0,
+   "note_time": 68.72
+  },
+  {
+   "text": "the",
+   "time": 69.68,
+   "weight": 1.0,
+   "note_time": 68.9
+  },
+  {
+   "text": "wings",
+   "time": 69.8,
+   "weight": 1.0,
+   "note_time": 69.07
+  },
+  {
+   "text": "of",
+   "time": 70.12,
+   "weight": 1.0,
+   "note_time": 69.42
+  },
+  {
+   "text": "the",
+   "time": 70.38,
+   "weight": 0.94,
+   "note_time": 69.59
+  },
+  {
+   "text": "wind.",
+   "time": 70.5,
+   "weight": 1.0,
+   "note_time": 69.77
+  },
+  {
+   "text": "He",
+   "time": 72.36,
+   "weight": 0.99,
+   "note_time": 72.38
+  },
+  {
+   "text": "makes",
+   "time": 73.16,
+   "weight": 1.0,
+   "note_time": 73.08
+  },
+  {
+   "text": "the",
+   "time": 73.6,
+   "weight": 1.0,
+   "note_time": 73.6
+  },
+  {
+   "text": "winds",
+   "time": 73.84,
+   "weight": 1.0,
+   "note_time": 73.95
+  },
+  {
+   "text": "his",
+   "time": 74.18,
+   "weight": 1.0,
+   "note_time": 74.13
+  },
+  {
+   "text": "mes",
+   "time": 74.5,
+   "weight": 1.0,
+   "note_time": 74.3
+  },
+  {
+   "text": "sen",
+   "time": 74.81,
+   "weight": 1.0,
+   "note_time": 74.48
+  },
+  {
+   "text": "gers,",
+   "time": 75.11,
+   "weight": 1.0,
+   "note_time": 75.35
+  },
+  {
+   "text": "flames",
+   "time": 75.42,
+   "weight": 0.98,
+   "note_time": 75.7
+  },
+  {
+   "text": "of",
+   "time": 76.6,
+   "weight": 0.87,
+   "note_time": 76.05
+  },
+  {
+   "text": "fire",
+   "time": 76.66,
+   "weight": 1.0,
+   "note_time": 76.22
+  },
+  {
+   "text": "his",
+   "time": 77.12,
+   "weight": 0.95,
+   "note_time": 76.4
+  },
+  {
+   "text": "ser",
+   "time": 77.44,
+   "weight": 1.0,
+   "note_time": 76.74
+  },
+  {
+   "text": "vants.",
+   "time": 77.79,
+   "weight": 1.0,
+   "note_time": 77.27
+  },
+  {
+   "text": "He",
+   "time": 78.22,
+   "weight": 1.0,
+   "note_time": 78.66
+  },
+  {
+   "text": "set",
+   "time": 79.5,
+   "weight": 0.99,
+   "note_time": 79.53
+  },
+  {
+   "text": "the",
+   "time": 79.76,
+   "weight": 1.0,
+   "note_time": 79.88
+  },
+  {
+   "text": "earth",
+   "time": 80.06,
+   "weight": 1.0,
+   "note_time": 80.23
+  },
+  {
+   "text": "on",
+   "time": 80.52,
+   "weight": 1.0,
+   "note_time": 80.58
+  },
+  {
+   "text": "its",
+   "time": 80.9,
+   "weight": 1.0,
+   "note_time": 80.93
+  },
+  {
+   "text": "foun",
+   "time": 81.26,
+   "weight": 0.98,
+   "note_time": 81.1
+  },
+  {
+   "text": "da",
+   "time": 81.61,
+   "weight": 0.98,
+   "note_time": 81.28
+  },
+  {
+   "text": "tions;",
+   "time": 81.96,
+   "weight": 0.98,
+   "note_time": 81.45
+  },
+  {
+   "text": "it",
+   "time": 84.52,
+   "weight": 0.99,
+   "note_time": 84.42
+  },
+  {
+   "text": "shall",
+   "time": 85.32,
+   "weight": 1.0,
+   "note_time": 84.77
+  },
+  {
+   "text": "ne",
+   "time": 85.64,
+   "weight": 1.0,
+   "note_time": 85.12
+  },
+  {
+   "text": "ver",
+   "time": 85.95,
+   "weight": 1.0,
+   "note_time": 85.29
+  },
+  {
+   "text": "be",
+   "time": 86.26,
+   "weight": 1.0,
+   "note_time": 85.81
+  },
+  {
+   "text": "shak",
+   "time": 86.72,
+   "weight": 1.0,
+   "note_time": 86.51
+  },
+  {
+   "text": "en.",
+   "time": 87.07,
+   "weight": 1.0,
+   "note_time": 87.03
+  },
+  {
+   "text": "You",
+   "time": 87.86,
+   "weight": 0.15,
+   "note_time": 91.92
+  },
+  {
+   "text": "cov",
+   "time": 88.8,
+   "weight": 0.37,
+   "note_time": 92.09
+  },
+  {
+   "text": "ered",
+   "time": 89.15,
+   "weight": 0.37,
+   "note_time": 92.27
+  },
+  {
+   "text": "it",
+   "time": 93.1,
+   "weight": 0.99,
+   "note_time": 92.44
+  },
+  {
+   "text": "with",
+   "time": 93.42,
+   "weight": 0.99,
+   "note_time": 92.79
+  },
+  {
+   "text": "the",
+   "time": 93.72,
+   "weight": 0.98,
+   "note_time": 93.14
+  },
+  {
+   "text": "deep",
+   "time": 94.0,
+   "weight": 0.9,
+   "note_time": 93.31
+  },
+  {
+   "text": "as",
+   "time": 94.42,
+   "weight": 0.94,
+   "note_time": 93.84
+  },
+  {
+   "text": "with",
+   "time": 94.8,
+   "weight": 0.98,
+   "note_time": 94.19
+  },
+  {
+   "text": "a",
+   "time": 95.14,
+   "weight": 0.0,
+   "note_time": 94.53
+  },
+  {
+   "text": "gar",
+   "time": 95.48,
+   "weight": 0.91,
+   "note_time": 94.71
+  },
+  {
+   "text": "ment;",
+   "time": 95.73,
+   "weight": 0.91,
+   "note_time": 95.23
+  },
+  {
+   "text": "the",
+   "time": 95.98,
+   "weight": 0.33,
+   "note_time": 97.5
+  },
+  {
+   "text": "wa",
+   "time": 98.44,
+   "weight": 0.89,
+   "note_time": 97.85
+  },
+  {
+   "text": "ters",
+   "time": 98.62,
+   "weight": 0.89,
+   "note_time": 98.37
+  },
+  {
+   "text": "stood",
+   "time": 98.8,
+   "weight": 0.99,
+   "note_time": 98.72
+  },
+  {
+   "text": "a",
+   "time": 99.2,
+   "weight": 0.99,
+   "note_time": 98.9
+  },
+  {
+   "text": "bove",
+   "time": 99.49,
+   "weight": 0.99,
+   "note_time": 99.77
+  },
+  {
+   "text": "the",
+   "time": 99.78,
+   "weight": 0.97,
+   "note_time": 100.12
+  },
+  {
+   "text": "moun",
+   "time": 101.02,
+   "weight": 0.97,
+   "note_time": 100.29
+  },
+  {
+   "text": "tains.",
+   "time": 101.35,
+   "weight": 0.97,
+   "note_time": 100.81
+  },
+  {
+   "text": "At",
+   "time": 103.0,
+   "weight": 0.73,
+   "note_time": 102.91
+  },
+  {
+   "text": "your",
+   "time": 103.8,
+   "weight": 0.87,
+   "note_time": 103.26
+  },
+  {
+   "text": "re",
+   "time": 104.22,
+   "weight": 0.99,
+   "note_time": 103.6
+  },
+  {
+   "text": "buke",
+   "time": 104.53,
+   "weight": 0.99,
+   "note_time": 103.78
+  },
+  {
+   "text": "they",
+   "time": 104.84,
+   "weight": 0.99,
+   "note_time": 104.13
+  },
+  {
+   "text": "fled;",
+   "time": 105.04,
+   "weight": 0.98,
+   "note_time": 104.48
+  },
+  {
+   "text": "at",
+   "time": 105.46,
+   "weight": 0.93,
+   "note_time": 105.7
+  },
+  {
+   "text": "the",
+   "time": 106.64,
+   "weight": 1.0,
+   "note_time": 106.05
+  },
+  {
+   "text": "sound",
+   "time": 106.72,
+   "weight": 1.0,
+   "note_time": 106.4
+  },
+  {
+   "text": "of",
+   "time": 107.16,
+   "weight": 1.0,
+   "note_time": 106.57
+  },
+  {
+   "text": "your",
+   "time": 107.38,
+   "weight": 0.98,
+   "note_time": 106.74
+  },
+  {
+   "text": "thun",
+   "time": 107.48,
+   "weight": 1.0,
+   "note_time": 107.09
+  },
+  {
+   "text": "der",
+   "time": 107.64,
+   "weight": 1.0,
+   "note_time": 107.27
+  },
+  {
+   "text": "they",
+   "time": 107.8,
+   "weight": 0.99,
+   "note_time": 107.44
+  },
+  {
+   "text": "took",
+   "time": 108.18,
+   "weight": 1.0,
+   "note_time": 107.79
+  },
+  {
+   "text": "to",
+   "time": 108.44,
+   "weight": 1.0,
+   "note_time": 107.97
+  },
+  {
+   "text": "flight.",
+   "time": 108.7,
+   "weight": 0.96,
+   "note_time": 108.49
+  },
+  {
+   "text": "They",
+   "time": 108.98,
+   "weight": 0.97,
+   "note_time": 108.84
+  },
+  {
+   "text": "rose",
+   "time": 109.46,
+   "weight": 1.0,
+   "note_time": 109.53
+  },
+  {
+   "text": "o",
+   "time": 109.9,
+   "weight": 1.0,
+   "note_time": 109.71
+  },
+  {
+   "text": "ver",
+   "time": 110.23,
+   "weight": 1.0,
+   "note_time": 109.88
+  },
+  {
+   "text": "the",
+   "time": 110.56,
+   "weight": 1.0,
+   "note_time": 110.06
+  },
+  {
+   "text": "moun",
+   "time": 110.63,
+   "weight": 0.0,
+   "note_time": 110.58
+  },
+  {
+   "text": "tains,",
+   "time": 110.71,
+   "weight": 0.0,
+   "note_time": 111.28
+  },
+  {
+   "text": "they",
+   "time": 110.78,
+   "weight": 0.15,
+   "note_time": 111.63
+  },
+  {
+   "text": "ran",
+   "time": 111.88,
+   "weight": 0.78,
+   "note_time": 111.98
+  },
+  {
+   "text": "down",
+   "time": 112.46,
+   "weight": 0.99,
+   "note_time": 112.33
+  },
+  {
+   "text": "in",
+   "time": 112.9,
+   "weight": 0.98,
+   "note_time": 112.67
+  },
+  {
+   "text": "to",
+   "time": 113.14,
+   "weight": 0.98,
+   "note_time": 112.85
+  },
+  {
+   "text": "the",
+   "time": 113.38,
+   "weight": 1.0,
+   "note_time": 113.02
+  },
+  {
+   "text": "val",
+   "time": 113.72,
+   "weight": 0.98,
+   "note_time": 113.55
+  },
+  {
+   "text": "leys,",
+   "time": 114.07,
+   "weight": 0.98,
+   "note_time": 114.07
+  },
+  {
+   "text": "to",
+   "time": 114.44,
+   "weight": 0.62,
+   "note_time": 114.24
+  },
+  {
+   "text": "the",
+   "time": 114.92,
+   "weight": 0.99,
+   "note_time": 114.42
+  },
+  {
+   "text": "place",
+   "time": 115.1,
+   "weight": 0.99,
+   "note_time": 115.12
+  },
+  {
+   "text": "you",
+   "time": 115.6,
+   "weight": 0.45,
+   "note_time": 115.47
+  },
+  {
+   "text": "ap",
+   "time": 116.08,
+   "weight": 0.99,
+   "note_time": 115.64
+  },
+  {
+   "text": "point",
+   "time": 116.29,
+   "weight": 0.99,
+   "note_time": 116.16
+  },
+  {
+   "text": "ed",
+   "time": 116.51,
+   "weight": 0.99,
+   "note_time": 116.86
+  },
+  {
+   "text": "for",
+   "time": 116.72,
+   "weight": 1.0,
+   "note_time": 117.03
+  },
+  {
+   "text": "them.",
+   "time": 117.74,
+   "weight": 1.0,
+   "note_time": 117.21
+  },
+  {
+   "text": "You",
+   "time": 119.03,
+   "weight": 0.0,
+   "note_time": 119.48
+  },
+  {
+   "text": "set",
+   "time": 120.32,
+   "weight": 0.99,
+   "note_time": 119.65
+  },
+  {
+   "text": "a",
+   "time": 120.56,
+   "weight": 1.0,
+   "note_time": 119.83
+  },
+  {
+   "text": "bound",
+   "time": 120.76,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "ary",
+   "time": 121.04,
+   "weight": 1.0,
+   "note_time": 120.52
+  },
+  {
+   "text": "they",
+   "time": 121.32,
+   "weight": 0.97,
+   "note_time": 121.05
+  },
+  {
+   "text": "may",
+   "time": 122.0,
+   "weight": 0.99,
+   "note_time": 121.4
+  },
+  {
+   "text": "not",
+   "time": 122.36,
+   "weight": 1.0,
+   "note_time": 122.09
+  },
+  {
+   "text": "cross;",
+   "time": 123.1,
+   "weight": 1.0,
+   "note_time": 122.79
+  },
+  {
+   "text": "ne",
+   "time": 125.56,
+   "weight": 0.91,
+   "note_time": 125.58
+  },
+  {
+   "text": "ver",
+   "time": 125.91,
+   "weight": 0.91,
+   "note_time": 125.76
+  },
+  {
+   "text": "a",
+   "time": 126.56,
+   "weight": 1.0,
+   "note_time": 126.28
+  },
+  {
+   "text": "gain",
+   "time": 126.86,
+   "weight": 1.0,
+   "note_time": 126.63
+  },
+  {
+   "text": "will",
+   "time": 127.16,
+   "weight": 0.99,
+   "note_time": 126.8
+  },
+  {
+   "text": "they",
+   "time": 127.54,
+   "weight": 0.99,
+   "note_time": 126.98
+  },
+  {
+   "text": "cov",
+   "time": 127.7,
+   "weight": 1.0,
+   "note_time": 127.15
+  },
+  {
+   "text": "er",
+   "time": 127.91,
+   "weight": 1.0,
+   "note_time": 128.02
+  },
+  {
+   "text": "the",
+   "time": 128.12,
+   "weight": 1.0,
+   "note_time": 128.2
+  },
+  {
+   "text": "earth.",
+   "time": 128.96,
+   "weight": 0.94,
+   "note_time": 128.37
+  },
+  {
+   "text": "He",
+   "time": 134.12,
+   "weight": 0.96,
+   "note_time": 134.3
+  },
+  {
+   "text": "sends",
+   "time": 135.12,
+   "weight": 0.99,
+   "note_time": 134.65
+  },
+  {
+   "text": "the",
+   "time": 135.62,
+   "weight": 0.99,
+   "note_time": 135.0
+  },
+  {
+   "text": "springs",
+   "time": 135.88,
+   "weight": 0.99,
+   "note_time": 135.17
+  },
+  {
+   "text": "in",
+   "time": 136.16,
+   "weight": 0.99,
+   "note_time": 135.7
+  },
+  {
+   "text": "to",
+   "time": 136.5,
+   "weight": 0.99,
+   "note_time": 136.05
+  },
+  {
+   "text": "the",
+   "time": 136.84,
+   "weight": 1.0,
+   "note_time": 136.4
+  },
+  {
+   "text": "ra",
+   "time": 137.3,
+   "weight": 0.96,
+   "note_time": 136.57
+  },
+  {
+   "text": "vines;",
+   "time": 137.65,
+   "weight": 0.96,
+   "note_time": 136.74
+  },
+  {
+   "text": "they",
+   "time": 138.0,
+   "weight": 0.08,
+   "note_time": 136.92
+  },
+  {
+   "text": "flow",
+   "time": 140.02,
+   "weight": 0.72,
+   "note_time": 137.09
+  },
+  {
+   "text": "be",
+   "time": 140.44,
+   "weight": 0.99,
+   "note_time": 139.19
+  },
+  {
+   "text": "tween",
+   "time": 140.79,
+   "weight": 0.99,
+   "note_time": 139.53
+  },
+  {
+   "text": "the",
+   "time": 141.56,
+   "weight": 0.99,
+   "note_time": 140.58
+  },
+  {
+   "text": "moun",
+   "time": 142.86,
+   "weight": 1.0,
+   "note_time": 140.93
+  },
+  {
+   "text": "tains.",
+   "time": 143.18,
+   "weight": 1.0,
+   "note_time": 141.98
+  },
+  {
+   "text": "They",
+   "time": 143.5,
+   "weight": 0.25,
+   "note_time": 142.15
+  },
+  {
+   "text": "give",
+   "time": 145.58,
+   "weight": 1.0,
+   "note_time": 142.33
+  },
+  {
+   "text": "drink",
+   "time": 146.08,
+   "weight": 0.99,
+   "note_time": 142.67
+  },
+  {
+   "text": "to",
+   "time": 146.68,
+   "weight": 1.0,
+   "note_time": 144.77
+  },
+  {
+   "text": "ev",
+   "time": 147.04,
+   "weight": 1.0,
+   "note_time": 145.12
+  },
+  {
+   "text": "ery",
+   "time": 147.33,
+   "weight": 1.0,
+   "note_time": 145.64
+  },
+  {
+   "text": "beast",
+   "time": 147.62,
+   "weight": 1.0,
+   "note_time": 146.16
+  },
+  {
+   "text": "of",
+   "time": 148.14,
+   "weight": 0.99,
+   "note_time": 146.51
+  },
+  {
+   "text": "the",
+   "time": 148.5,
+   "weight": 1.0,
+   "note_time": 146.69
+  },
+  {
+   "text": "field;",
+   "time": 148.62,
+   "weight": 0.99,
+   "note_time": 147.03
+  },
+  {
+   "text": "the",
+   "time": 150.48,
+   "weight": 0.98,
+   "note_time": 147.56
+  },
+  {
+   "text": "wild",
+   "time": 151.28,
+   "weight": 1.0,
+   "note_time": 147.73
+  },
+  {
+   "text": "don",
+   "time": 151.6,
+   "weight": 1.0,
+   "note_time": 147.91
+  },
+  {
+   "text": "keys",
+   "time": 151.95,
+   "weight": 1.0,
+   "note_time": 148.08
+  },
+  {
+   "text": "quench",
+   "time": 152.74,
+   "weight": 1.0,
+   "note_time": 148.26
+  },
+  {
+   "text": "their",
+   "time": 153.34,
+   "weight": 1.0,
+   "note_time": 150.35
+  },
+  {
+   "text": "thirst.",
+   "time": 153.76,
+   "weight": 1.0,
+   "note_time": 150.52
+  },
+  {
+   "text": "Be",
+   "time": 155.7,
+   "weight": 0.4,
+   "note_time": 150.7
+  },
+  {
+   "text": "side",
+   "time": 156.05,
+   "weight": 0.4,
+   "note_time": 151.4
+  },
+  {
+   "text": "them",
+   "time": 157.38,
+   "weight": 1.0,
+   "note_time": 151.74
+  },
+  {
+   "text": "the",
+   "time": 157.66,
+   "weight": 0.8,
+   "note_time": 152.09
+  },
+  {
+   "text": "birds",
+   "time": 158.18,
+   "weight": 1.0,
+   "note_time": 152.79
+  },
+  {
+   "text": "of",
+   "time": 158.68,
+   "weight": 1.0,
+   "note_time": 153.49
+  },
+  {
+   "text": "the",
+   "time": 159.0,
+   "weight": 1.0,
+   "note_time": 156.1
+  },
+  {
+   "text": "sky",
+   "time": 159.58,
+   "weight": 1.0,
+   "note_time": 156.28
+  },
+  {
+   "text": "make",
+   "time": 160.04,
+   "weight": 0.95,
+   "note_time": 156.63
+  },
+  {
+   "text": "their",
+   "time": 160.56,
+   "weight": 1.0,
+   "note_time": 157.33
+  },
+  {
+   "text": "home;",
+   "time": 161.08,
+   "weight": 1.0,
+   "note_time": 157.5
+  },
+  {
+   "text": "they",
+   "time": 161.58,
+   "weight": 0.98,
+   "note_time": 157.67
+  },
+  {
+   "text": "sing",
+   "time": 162.44,
+   "weight": 1.0,
+   "note_time": 158.02
+  },
+  {
+   "text": "a",
+   "time": 162.92,
+   "weight": 0.99,
+   "note_time": 158.72
+  },
+  {
+   "text": "mong",
+   "time": 163.27,
+   "weight": 0.99,
+   "note_time": 159.07
+  },
+  {
+   "text": "the",
+   "time": 164.16,
+   "weight": 1.0,
+   "note_time": 159.59
+  },
+  {
+   "text": "branch",
+   "time": 165.18,
+   "weight": 1.0,
+   "note_time": 160.12
+  },
+  {
+   "text": "es.",
+   "time": 165.52,
+   "weight": 1.0,
+   "note_time": 160.47
+  },
+  {
+   "text": "He",
+   "time": 167.14,
+   "weight": 0.57,
+   "note_time": 161.51
+  },
+  {
+   "text": "wa",
+   "time": 167.92,
+   "weight": 0.87,
+   "note_time": 161.86
+  },
+  {
+   "text": "ters",
+   "time": 168.2,
+   "weight": 0.87,
+   "note_time": 162.91
+  },
+  {
+   "text": "the",
+   "time": 168.48,
+   "weight": 0.99,
+   "note_time": 163.26
+  },
+  {
+   "text": "moun",
+   "time": 169.36,
+   "weight": 0.99,
+   "note_time": 164.3
+  },
+  {
+   "text": "tains",
+   "time": 169.61,
+   "weight": 0.99,
+   "note_time": 164.48
+  },
+  {
+   "text": "from",
+   "time": 169.86,
+   "weight": 0.96,
+   "note_time": 164.65
+  },
+  {
+   "text": "his",
+   "time": 170.78,
+   "weight": 0.58,
+   "note_time": 165.0
+  },
+  {
+   "text": "up",
+   "time": 171.0,
+   "weight": 0.92,
+   "note_time": 167.09
+  },
+  {
+   "text": "per",
+   "time": 171.16,
+   "weight": 0.92,
+   "note_time": 167.44
+  },
+  {
+   "text": "rooms;",
+   "time": 171.32,
+   "weight": 0.9,
+   "note_time": 167.97
+  },
+  {
+   "text": "the",
+   "time": 172.22,
+   "weight": 0.53,
+   "note_time": 168.49
+  },
+  {
+   "text": "earth",
+   "time": 173.54,
+   "weight": 0.86,
+   "note_time": 168.66
+  },
+  {
+   "text": "is",
+   "time": 173.94,
+   "weight": 1.0,
+   "note_time": 168.84
+  },
+  {
+   "text": "sat",
+   "time": 174.32,
+   "weight": 1.0,
+   "note_time": 169.19
+  },
+  {
+   "text": "is",
+   "time": 174.59,
+   "weight": 1.0,
+   "note_time": 169.88
+  },
+  {
+   "text": "fied",
+   "time": 174.87,
+   "weight": 1.0,
+   "note_time": 170.06
+  },
+  {
+   "text": "with",
+   "time": 175.14,
+   "weight": 0.92,
+   "note_time": 170.23
+  },
+  {
+   "text": "the",
+   "time": 176.38,
+   "weight": 1.0,
+   "note_time": 170.41
+  },
+  {
+   "text": "fruit",
+   "time": 176.5,
+   "weight": 0.99,
+   "note_time": 170.76
+  },
+  {
+   "text": "of",
+   "time": 176.86,
+   "weight": 1.0,
+   "note_time": 172.15
+  },
+  {
+   "text": "your",
+   "time": 177.46,
+   "weight": 0.96,
+   "note_time": 172.67
+  },
+  {
+   "text": "work.",
+   "time": 177.72,
+   "weight": 0.98,
+   "note_time": 172.85
+  },
+  {
+   "text": "He",
+   "time": 180.56,
+   "weight": 0.84,
+   "note_time": 173.02
+  },
+  {
+   "text": "makes",
+   "time": 181.34,
+   "weight": 1.0,
+   "note_time": 173.37
+  },
+  {
+   "text": "grass",
+   "time": 181.68,
+   "weight": 0.99,
+   "note_time": 173.72
+  },
+  {
+   "text": "grow",
+   "time": 182.02,
+   "weight": 0.99,
+   "note_time": 173.9
+  },
+  {
+   "text": "for",
+   "time": 182.36,
+   "weight": 0.99,
+   "note_time": 174.24
+  },
+  {
+   "text": "the",
+   "time": 182.6,
+   "weight": 0.98,
+   "note_time": 174.42
+  },
+  {
+   "text": "cat",
+   "time": 182.7,
+   "weight": 1.0,
+   "note_time": 175.47
+  },
+  {
+   "text": "tle",
+   "time": 182.88,
+   "weight": 1.0,
+   "note_time": 175.64
+  },
+  {
+   "text": "and",
+   "time": 183.06,
+   "weight": 0.19,
+   "note_time": 175.81
+  },
+  {
+   "text": "plants",
+   "time": 183.24,
+   "weight": 0.99,
+   "note_time": 176.51
+  },
+  {
+   "text": "for",
+   "time": 183.68,
+   "weight": 1.0,
+   "note_time": 176.69
+  },
+  {
+   "text": "peo",
+   "time": 183.88,
+   "weight": 0.99,
+   "note_time": 177.21
+  },
+  {
+   "text": "ple",
+   "time": 184.03,
+   "weight": 0.99,
+   "note_time": 195.17
+  },
+  {
+   "text": "to",
+   "time": 184.18,
+   "weight": 1.0,
+   "note_time": 195.35
+  },
+  {
+   "text": "cul",
+   "time": 184.42,
+   "weight": 1.0,
+   "note_time": 195.7
+  },
+  {
+   "text": "ti",
+   "time": 184.59,
+   "weight": 1.0,
+   "note_time": 195.87
+  },
+  {
+   "text": "vate,",
+   "time": 184.75,
+   "weight": 1.0,
+   "note_time": 196.05
+  },
+  {
+   "text": "bring",
+   "time": 185.77,
+   "weight": 0.96,
+   "note_time": 196.57
+  },
+  {
+   "text": "ing",
+   "time": 185.97,
+   "weight": 0.96,
+   "note_time": 196.74
+  },
+  {
+   "text": "forth",
+   "time": 186.16,
+   "weight": 1.0,
+   "note_time": 196.92
+  },
+  {
+   "text": "bread",
+   "time": 186.52,
+   "weight": 0.99,
+   "note_time": 197.27
+  },
+  {
+   "text": "from",
+   "time": 186.92,
+   "weight": 0.99,
+   "note_time": 197.79
+  },
+  {
+   "text": "the",
+   "time": 187.32,
+   "weight": 0.99,
+   "note_time": 198.14
+  },
+  {
+   "text": "earth,",
+   "time": 187.44,
+   "weight": 0.97,
+   "note_time": 198.31
+  },
+  {
+   "text": "and",
+   "time": 187.72,
+   "weight": 0.95,
+   "note_time": 198.66
+  },
+  {
+   "text": "wine",
+   "time": 188.88,
+   "weight": 1.0,
+   "note_time": 198.84
+  },
+  {
+   "text": "that",
+   "time": 189.4,
+   "weight": 0.99,
+   "note_time": 199.01
+  },
+  {
+   "text": "glad",
+   "time": 189.74,
+   "weight": 1.0,
+   "note_time": 199.36
+  },
+  {
+   "text": "dens",
+   "time": 190.01,
+   "weight": 1.0,
+   "note_time": 199.88
+  },
+  {
+   "text": "the",
+   "time": 190.28,
+   "weight": 1.0,
+   "note_time": 200.06
+  },
+  {
+   "text": "hu",
+   "time": 190.5,
+   "weight": 1.0,
+   "note_time": 200.23
+  },
+  {
+   "text": "man",
+   "time": 190.63,
+   "weight": 1.0,
+   "note_time": 200.58
+  },
+  {
+   "text": "heart,",
+   "time": 190.76,
+   "weight": 1.0,
+   "note_time": 201.28
+  },
+  {
+   "text": "oil",
+   "time": 191.24,
+   "weight": 0.49,
+   "note_time": 201.45
+  },
+  {
+   "text": "to",
+   "time": 192.72,
+   "weight": 0.96,
+   "note_time": 201.63
+  },
+  {
+   "text": "make",
+   "time": 193.08,
+   "weight": 1.0,
+   "note_time": 202.33
+  },
+  {
+   "text": "the",
+   "time": 193.3,
+   "weight": 0.99,
+   "note_time": 203.02
+  },
+  {
+   "text": "face",
+   "time": 193.44,
+   "weight": 0.99,
+   "note_time": 203.72
+  },
+  {
+   "text": "shine,",
+   "time": 193.72,
+   "weight": 1.0,
+   "note_time": 206.16
+  },
+  {
+   "text": "and",
+   "time": 194.14,
+   "weight": 0.62,
+   "note_time": 206.51
+  },
+  {
+   "text": "bread",
+   "time": 194.44,
+   "weight": 0.99,
+   "note_time": 207.21
+  },
+  {
+   "text": "to",
+   "time": 194.66,
+   "weight": 0.99,
+   "note_time": 207.38
+  },
+  {
+   "text": "sus",
+   "time": 194.94,
+   "weight": 1.0,
+   "note_time": 207.73
+  },
+  {
+   "text": "tain",
+   "time": 195.17,
+   "weight": 1.0,
+   "note_time": 207.91
+  },
+  {
+   "text": "the",
+   "time": 195.4,
+   "weight": 0.95,
+   "note_time": 208.26
+  },
+  {
+   "text": "heart.",
+   "time": 195.7,
+   "weight": 0.99,
+   "note_time": 208.6
+  },
+  {
+   "text": "The",
+   "time": 195.84,
+   "weight": 0.0,
+   "note_time": 208.95
+  },
+  {
+   "text": "trees",
+   "time": 195.98,
+   "weight": 0.54,
+   "note_time": 209.13
+  },
+  {
+   "text": "of",
+   "time": 196.44,
+   "weight": 1.0,
+   "note_time": 209.3
+  },
+  {
+   "text": "the",
+   "time": 196.64,
+   "weight": 0.99,
+   "note_time": 209.65
+  },
+  {
+   "text": "LORD",
+   "time": 196.78,
+   "weight": 0.93,
+   "note_time": 211.74
+  },
+  {
+   "text": "drink",
+   "time": 197.12,
+   "weight": 0.95,
+   "note_time": 212.09
+  },
+  {
+   "text": "their",
+   "time": 197.56,
+   "weight": 0.98,
+   "note_time": 212.62
+  },
+  {
+   "text": "fill,",
+   "time": 197.9,
+   "weight": 0.84,
+   "note_time": 212.97
+  },
+  {
+   "text": "the",
+   "time": 198.3,
+   "weight": 0.62,
+   "note_time": 213.31
+  },
+  {
+   "text": "ce",
+   "time": 198.68,
+   "weight": 0.99,
+   "note_time": 213.49
+  },
+  {
+   "text": "dars",
+   "time": 199.03,
+   "weight": 0.99,
+   "note_time": 214.19
+  },
+  {
+   "text": "of",
+   "time": 199.4,
+   "weight": 1.0,
+   "note_time": 214.53
+  },
+  {
+   "text": "Le",
+   "time": 199.58,
+   "weight": 1.0,
+   "note_time": 214.71
+  },
+  {
+   "text": "ba",
+   "time": 199.73,
+   "weight": 1.0,
+   "note_time": 214.88
+  },
+  {
+   "text": "non",
+   "time": 199.89,
+   "weight": 1.0,
+   "note_time": 215.23
+  },
+  {
+   "text": "that",
+   "time": 200.04,
+   "weight": 0.99,
+   "note_time": 217.33
+  },
+  {
+   "text": "he",
+   "time": 200.78,
+   "weight": 0.6,
+   "note_time": 217.67
+  },
+  {
+   "text": "plant",
+   "time": 200.96,
+   "weight": 1.0,
+   "note_time": 218.37
+  },
+  {
+   "text": "ed,",
+   "time": 201.16,
+   "weight": 1.0,
+   "note_time": 218.72
+  },
+  {
+   "text": "where",
+   "time": 201.36,
+   "weight": 0.96,
+   "note_time": 218.9
+  },
+  {
+   "text": "the",
+   "time": 202.16,
+   "weight": 1.0,
+   "note_time": 219.07
+  },
+  {
+   "text": "birds",
+   "time": 202.36,
+   "weight": 1.0,
+   "note_time": 219.24
+  },
+  {
+   "text": "build",
+   "time": 202.94,
+   "weight": 0.94,
+   "note_time": 219.77
+  },
+  {
+   "text": "their",
+   "time": 203.34,
+   "weight": 0.99,
+   "note_time": 220.12
+  },
+  {
+   "text": "nests;",
+   "time": 204.06,
+   "weight": 0.99,
+   "note_time": 220.29
+  },
+  {
+   "text": "the",
+   "time": 206.3,
+   "weight": 0.99,
+   "note_time": 220.47
+  },
+  {
+   "text": "stork",
+   "time": 207.1,
+   "weight": 0.99,
+   "note_time": 220.81
+  },
+  {
+   "text": "has",
+   "time": 207.82,
+   "weight": 1.0,
+   "note_time": 220.99
+  },
+  {
+   "text": "her",
+   "time": 208.14,
+   "weight": 1.0,
+   "note_time": 221.16
+  },
+  {
+   "text": "home",
+   "time": 208.38,
+   "weight": 1.0,
+   "note_time": 222.91
+  },
+  {
+   "text": "in",
+   "time": 208.9,
+   "weight": 0.99,
+   "note_time": 223.26
+  },
+  {
+   "text": "the",
+   "time": 209.6,
+   "weight": 1.0,
+   "note_time": 223.6
+  },
+  {
+   "text": "fir",
+   "time": 209.78,
+   "weight": 1.0,
+   "note_time": 223.78
+  },
+  {
+   "text": "trees.",
+   "time": 210.1,
+   "weight": 0.98,
+   "note_time": 224.3
+  },
+  {
+   "text": "The",
+   "time": 211.8,
+   "weight": 0.99,
+   "note_time": 224.65
+  },
+  {
+   "text": "high",
+   "time": 212.6,
+   "weight": 0.99,
+   "note_time": 225.35
+  },
+  {
+   "text": "moun",
+   "time": 213.04,
+   "weight": 1.0,
+   "note_time": 225.7
+  },
+  {
+   "text": "tains",
+   "time": 213.39,
+   "weight": 1.0,
+   "note_time": 226.05
+  },
+  {
+   "text": "be",
+   "time": 213.76,
+   "weight": 1.0,
+   "note_time": 226.4
+  },
+  {
+   "text": "long",
+   "time": 214.05,
+   "weight": 1.0,
+   "note_time": 228.49
+  },
+  {
+   "text": "to",
+   "time": 214.34,
+   "weight": 1.0,
+   "note_time": 228.84
+  },
+  {
+   "text": "the",
+   "time": 215.04,
+   "weight": 1.0,
+   "note_time": 229.53
+  },
+  {
+   "text": "wild",
+   "time": 215.4,
+   "weight": 0.99,
+   "note_time": 230.23
+  },
+  {
+   "text": "goats;",
+   "time": 215.9,
+   "weight": 0.92,
+   "note_time": 230.93
+  },
+  {
+   "text": "the",
+   "time": 216.4,
+   "weight": 0.07,
+   "note_time": 231.63
+  },
+  {
+   "text": "crags",
+   "time": 218.16,
+   "weight": 0.74,
+   "note_time": 233.9
+  },
+  {
+   "text": "are",
+   "time": 219.08,
+   "weight": 0.99,
+   "note_time": 234.07
+  },
+  {
+   "text": "a",
+   "time": 219.36,
+   "weight": 0.94,
+   "note_time": 234.42
+  },
+  {
+   "text": "re",
+   "time": 219.64,
+   "weight": 1.0,
+   "note_time": 234.94
+  },
+  {
+   "text": "fuge",
+   "time": 219.91,
+   "weight": 1.0,
+   "note_time": 236.34
+  },
+  {
+   "text": "for",
+   "time": 220.18,
+   "weight": 0.98,
+   "note_time": 236.51
+  },
+  {
+   "text": "the",
+   "time": 220.7,
+   "weight": 0.99,
+   "note_time": 236.69
+  },
+  {
+   "text": "rock",
+   "time": 221.02,
+   "weight": 0.66,
+   "note_time": 237.21
+  },
+  {
+   "text": "bad",
+   "time": 221.44,
+   "weight": 0.82,
+   "note_time": 237.38
+  },
+  {
+   "text": "gers.",
+   "time": 221.79,
+   "weight": 0.82,
+   "note_time": 237.56
+  },
+  {
+   "text": "He",
+   "time": 222.26,
+   "weight": 0.72,
+   "note_time": 239.65
+  },
+  {
+   "text": "made",
+   "time": 223.74,
+   "weight": 1.0,
+   "note_time": 240.0
+  },
+  {
+   "text": "the",
+   "time": 224.24,
+   "weight": 1.0,
+   "note_time": 240.35
+  },
+  {
+   "text": "moon",
+   "time": 224.5,
+   "weight": 0.96,
+   "note_time": 240.52
+  },
+  {
+   "text": "to",
+   "time": 224.86,
+   "weight": 1.0,
+   "note_time": 241.05
+  },
+  {
+   "text": "mark",
+   "time": 225.22,
+   "weight": 1.0,
+   "note_time": 241.22
+  },
+  {
+   "text": "the",
+   "time": 225.7,
+   "weight": 1.0,
+   "note_time": 241.4
+  },
+  {
+   "text": "sea",
+   "time": 226.26,
+   "weight": 0.99,
+   "note_time": 242.09
+  },
+  {
+   "text": "sons;",
+   "time": 226.61,
+   "weight": 0.99,
+   "note_time": 242.79
+  },
+  {
+   "text": "the",
+   "time": 228.32,
+   "weight": 0.97,
+   "note_time": 245.41
+  },
+  {
+   "text": "sun",
+   "time": 229.38,
+   "weight": 0.98,
+   "note_time": 245.58
+  },
+  {
+   "text": "knows",
+   "time": 229.84,
+   "weight": 1.0,
+   "note_time": 246.28
+  },
+  {
+   "text": "when",
+   "time": 230.62,
+   "weight": 0.99,
+   "note_time": 246.45
+  },
+  {
+   "text": "to",
+   "time": 231.28,
+   "weight": 1.0,
+   "note_time": 246.8
+  },
+  {
+   "text": "set.",
+   "time": 231.82,
+   "weight": 1.0,
+   "note_time": 246.98
+  },
+  {
+   "text": "You",
+   "time": 233.68,
+   "weight": 0.89,
+   "note_time": 247.67
+  },
+  {
+   "text": "bring",
+   "time": 234.74,
+   "weight": 0.99,
+   "note_time": 247.85
+  },
+  {
+   "text": "dark",
+   "time": 234.98,
+   "weight": 1.0,
+   "note_time": 248.37
+  },
+  {
+   "text": "ness,",
+   "time": 235.33,
+   "weight": 1.0,
+   "note_time": 248.55
+  },
+  {
+   "text": "and",
+   "time": 235.84,
+   "weight": 0.83,
+   "note_time": 248.72
+  },
+  {
+   "text": "it",
+   "time": 237.28,
+   "weight": 1.0,
+   "note_time": 251.16
+  },
+  {
+   "text": "is",
+   "time": 237.46,
+   "weight": 1.0,
+   "note_time": 251.51
+  },
+  {
+   "text": "night,",
+   "time": 237.82,
+   "weight": 1.0,
+   "note_time": 252.21
+  },
+  {
+   "text": "when",
+   "time": 239.52,
+   "weight": 0.98,
+   "note_time": 252.56
+  },
+  {
+   "text": "all",
+   "time": 240.58,
+   "weight": 1.0,
+   "note_time": 253.26
+  },
+  {
+   "text": "the",
+   "time": 240.98,
+   "weight": 0.99,
+   "note_time": 253.95
+  },
+  {
+   "text": "beasts",
+   "time": 241.28,
+   "weight": 1.0,
+   "note_time": 256.74
+  },
+  {
+   "text": "of",
+   "time": 241.62,
+   "weight": 1.0,
+   "note_time": 259.01
+  },
+  {
+   "text": "the",
+   "time": 242.02,
+   "weight": 1.0,
+   "note_time": 259.19
+  },
+  {
+   "text": "for",
+   "time": 242.08,
+   "weight": 0.99,
+   "note_time": 259.53
+  },
+  {
+   "text": "est",
+   "time": 242.43,
+   "weight": 0.99,
+   "note_time": 260.06
+  },
+  {
+   "text": "prowl.",
+   "time": 243.0,
+   "weight": 0.4,
+   "note_time": 260.41
+  },
+  {
+   "text": "The",
+   "time": 245.72,
+   "weight": 0.58,
+   "note_time": 260.58
+  },
+  {
+   "text": "young",
+   "time": 246.32,
+   "weight": 0.99,
+   "note_time": 260.93
+  },
+  {
+   "text": "li",
+   "time": 246.58,
+   "weight": 0.96,
+   "note_time": 261.28
+  },
+  {
+   "text": "ons",
+   "time": 246.93,
+   "weight": 0.96,
+   "note_time": 261.45
+  },
+  {
+   "text": "roar",
+   "time": 247.42,
+   "weight": 0.97,
+   "note_time": 261.98
+  },
+  {
+   "text": "for",
+   "time": 247.86,
+   "weight": 0.99,
+   "note_time": 262.33
+  },
+  {
+   "text": "their",
+   "time": 248.56,
+   "weight": 0.99,
+   "note_time": 262.67
+  },
+  {
+   "text": "prey,",
+   "time": 248.9,
+   "weight": 1.0,
+   "note_time": 263.02
+  },
+  {
+   "text": "seek",
+   "time": 249.4,
+   "weight": 0.29,
+   "note_time": 263.2
+  },
+  {
+   "text": "ing",
+   "time": 249.75,
+   "weight": 0.29,
+   "note_time": 263.55
+  },
+  {
+   "text": "their",
+   "time": 252.32,
+   "weight": 1.0,
+   "note_time": 264.77
+  },
+  {
+   "text": "food",
+   "time": 253.12,
+   "weight": 1.0,
+   "note_time": 265.12
+  },
+  {
+   "text": "from",
+   "time": 253.54,
+   "weight": 1.0,
+   "note_time": 265.29
+  },
+  {
+   "text": "God.",
+   "time": 254.32,
+   "weight": 0.99,
+   "note_time": 265.64
+  },
+  {
+   "text": "The",
+   "time": 258.84,
+   "weight": 0.92,
+   "note_time": 265.81
+  },
+  {
+   "text": "sun",
+   "time": 259.72,
+   "weight": 0.94,
+   "note_time": 266.16
+  },
+  {
+   "text": "ris",
+   "time": 260.14,
+   "weight": 0.99,
+   "note_time": 266.34
+  },
+  {
+   "text": "es,",
+   "time": 260.49,
+   "weight": 0.99,
+   "note_time": 266.51
+  },
+  {
+   "text": "and",
+   "time": 260.88,
+   "weight": 0.89,
+   "note_time": 267.21
+  },
+  {
+   "text": "they",
+   "time": 261.32,
+   "weight": 0.99,
+   "note_time": 267.38
+  },
+  {
+   "text": "steal",
+   "time": 261.48,
+   "weight": 0.99,
+   "note_time": 267.73
+  },
+  {
+   "text": "a",
+   "time": 261.88,
+   "weight": 1.0,
+   "note_time": 267.91
+  },
+  {
+   "text": "way",
+   "time": 262.12,
+   "weight": 1.0,
+   "note_time": 268.08
+  },
+  {
+   "text": "and",
+   "time": 262.36,
+   "weight": 0.55,
+   "note_time": 268.6
+  },
+  {
+   "text": "lie",
+   "time": 262.94,
+   "weight": 0.99,
+   "note_time": 268.95
+  },
+  {
+   "text": "down",
+   "time": 263.22,
+   "weight": 1.0,
+   "note_time": 269.3
+  },
+  {
+   "text": "in",
+   "time": 263.64,
+   "weight": 1.0,
+   "note_time": 269.65
+  },
+  {
+   "text": "their",
+   "time": 264.0,
+   "weight": 1.0,
+   "note_time": 270.35
+  },
+  {
+   "text": "dens.",
+   "time": 264.16,
+   "weight": 0.98,
+   "note_time": 270.7
+  },
+  {
+   "text": "Then",
+   "time": 265.22,
+   "weight": 0.7,
+   "note_time": 270.87
+  },
+  {
+   "text": "peo",
+   "time": 265.68,
+   "weight": 0.99,
+   "note_time": 271.22
+  },
+  {
+   "text": "ple",
+   "time": 265.91,
+   "weight": 0.99,
+   "note_time": 271.74
+  },
+  {
+   "text": "go",
+   "time": 266.14,
+   "weight": 1.0,
+   "note_time": 272.09
+  },
+  {
+   "text": "out",
+   "time": 266.5,
+   "weight": 0.99,
+   "note_time": 272.79
+  },
+  {
+   "text": "to",
+   "time": 266.86,
+   "weight": 0.99,
+   "note_time": 273.31
+  },
+  {
+   "text": "their",
+   "time": 267.02,
+   "weight": 0.99,
+   "note_time": 273.49
+  },
+  {
+   "text": "work,",
+   "time": 267.26,
+   "weight": 1.0,
+   "note_time": 273.84
+  },
+  {
+   "text": "to",
+   "time": 267.68,
+   "weight": 0.64,
+   "note_time": 274.01
+  },
+  {
+   "text": "their",
+   "time": 268.06,
+   "weight": 1.0,
+   "note_time": 274.19
+  },
+  {
+   "text": "la",
+   "time": 268.36,
+   "weight": 0.6,
+   "note_time": 274.53
+  },
+  {
+   "text": "bor",
+   "time": 268.65,
+   "weight": 0.6,
+   "note_time": 274.71
+  },
+  {
+   "text": "un",
+   "time": 268.94,
+   "weight": 0.89,
+   "note_time": 275.93
+  },
+  {
+   "text": "til",
+   "time": 269.29,
+   "weight": 0.89,
+   "note_time": 276.1
+  },
+  {
+   "text": "eve",
+   "time": 269.66,
+   "weight": 0.98,
+   "note_time": 276.28
+  },
+  {
+   "text": "ning.",
+   "time": 270.01,
+   "weight": 0.98,
+   "note_time": 276.63
+  },
+  {
+   "text": "How",
+   "time": 270.52,
+   "weight": 0.4,
+   "note_time": 276.98
+  },
+  {
+   "text": "ma",
+   "time": 271.2,
+   "weight": 0.99,
+   "note_time": 277.15
+  },
+  {
+   "text": "ny",
+   "time": 271.42,
+   "weight": 0.99,
+   "note_time": 277.33
+  },
+  {
+   "text": "are",
+   "time": 271.64,
+   "weight": 0.99,
+   "note_time": 277.67
+  },
+  {
+   "text": "your",
+   "time": 272.14,
+   "weight": 0.59,
+   "note_time": 278.2
+  },
+  {
+   "text": "works,",
+   "time": 272.68,
+   "weight": 0.94,
+   "note_time": 280.99
+  },
+  {
+   "text": "LORD!",
+   "time": 273.48,
+   "weight": 0.97,
+   "note_time": 281.16
+  },
+  {
+   "text": "In",
+   "time": 274.08,
+   "weight": 0.62,
+   "note_time": 281.51
+  },
+  {
+   "text": "wis",
+   "time": 274.26,
+   "weight": 1.0,
+   "note_time": 281.86
+  },
+  {
+   "text": "dom",
+   "time": 274.47,
+   "weight": 1.0,
+   "note_time": 282.56
+  },
+  {
+   "text": "you",
+   "time": 274.68,
+   "weight": 0.73,
+   "note_time": 283.26
+  },
+  {
+   "text": "made",
+   "time": 274.92,
+   "weight": 0.96,
+   "note_time": 283.6
+  },
+  {
+   "text": "them",
+   "time": 275.16,
+   "weight": 1.0,
+   "note_time": 283.95
+  },
+  {
+   "text": "all;",
+   "time": 275.46,
+   "weight": 1.0,
+   "note_time": 284.65
+  },
+  {
+   "text": "the",
+   "time": 275.98,
+   "weight": 0.48,
+   "note_time": 284.83
+  },
+  {
+   "text": "earth",
+   "time": 276.8,
+   "weight": 0.97,
+   "note_time": 285.0
+  },
+  {
+   "text": "is",
+   "time": 277.18,
+   "weight": 1.0,
+   "note_time": 287.44
+  },
+  {
+   "text": "full",
+   "time": 277.58,
+   "weight": 1.0,
+   "note_time": 287.62
+  },
+  {
+   "text": "of",
+   "time": 277.9,
+   "weight": 1.0,
+   "note_time": 287.97
+  },
+  {
+   "text": "your",
+   "time": 278.1,
+   "weight": 0.99,
+   "note_time": 288.14
+  },
+  {
+   "text": "crea",
+   "time": 278.3,
+   "weight": 1.0,
+   "note_time": 288.49
+  },
+  {
+   "text": "tures.",
+   "time": 278.65,
+   "weight": 1.0,
+   "note_time": 288.84
+  },
+  {
+   "text": "There",
+   "time": 280.92,
+   "weight": 0.92,
+   "note_time": 289.01
+  },
+  {
+   "text": "is",
+   "time": 281.88,
+   "weight": 1.0,
+   "note_time": 289.53
+  },
+  {
+   "text": "the",
+   "time": 282.16,
+   "weight": 0.99,
+   "note_time": 289.88
+  },
+  {
+   "text": "sea,",
+   "time": 282.4,
+   "weight": 0.99,
+   "note_time": 290.23
+  },
+  {
+   "text": "vast",
+   "time": 283.06,
+   "weight": 1.0,
+   "note_time": 290.41
+  },
+  {
+   "text": "and",
+   "time": 284.24,
+   "weight": 1.0,
+   "note_time": 290.76
+  },
+  {
+   "text": "wide,",
+   "time": 284.9,
+   "weight": 0.99,
+   "note_time": 291.28
+  },
+  {
+   "text": "teem",
+   "time": 287.74,
+   "weight": 0.99,
+   "note_time": 291.63
+  },
+  {
+   "text": "ing",
+   "time": 288.09,
+   "weight": 0.99,
+   "note_time": 292.33
+  },
+  {
+   "text": "with",
+   "time": 288.7,
+   "weight": 1.0,
+   "note_time": 293.02
+  },
+  {
+   "text": "crea",
+   "time": 288.84,
+   "weight": 1.0,
+   "note_time": 295.81
+  },
+  {
+   "text": "tures",
+   "time": 289.09,
+   "weight": 1.0,
+   "note_time": 298.26
+  },
+  {
+   "text": "be",
+   "time": 289.34,
+   "weight": 1.0,
+   "note_time": 298.43
+  },
+  {
+   "text": "yond",
+   "time": 289.66,
+   "weight": 1.0,
+   "note_time": 298.6
+  },
+  {
+   "text": "num",
+   "time": 289.98,
+   "weight": 0.99,
+   "note_time": 299.3
+  },
+  {
+   "text": "ber,",
+   "time": 290.33,
+   "weight": 0.99,
+   "note_time": 299.65
+  },
+  {
+   "text": "liv",
+   "time": 290.78,
+   "weight": 0.88,
+   "note_time": 299.83
+  },
+  {
+   "text": "ing",
+   "time": 291.01,
+   "weight": 0.88,
+   "note_time": 300.0
+  },
+  {
+   "text": "things",
+   "time": 291.24,
+   "weight": 1.0,
+   "note_time": 300.7
+  },
+  {
+   "text": "both",
+   "time": 291.88,
+   "weight": 0.85,
+   "note_time": 301.05
+  },
+  {
+   "text": "small",
+   "time": 292.24,
+   "weight": 1.0,
+   "note_time": 301.22
+  },
+  {
+   "text": "and",
+   "time": 292.8,
+   "weight": 1.0,
+   "note_time": 301.4
+  },
+  {
+   "text": "great.",
+   "time": 293.38,
+   "weight": 1.0,
+   "note_time": 301.74
+  },
+  {
+   "text": "There",
+   "time": 296.22,
+   "weight": 0.0,
+   "note_time": 304.19
+  },
+  {
+   "text": "the",
+   "time": 299.06,
+   "weight": 0.56,
+   "note_time": 304.53
+  },
+  {
+   "text": "ships",
+   "time": 299.28,
+   "weight": 0.99,
+   "note_time": 304.88
+  },
+  {
+   "text": "move",
+   "time": 299.68,
+   "weight": 0.99,
+   "note_time": 305.23
+  },
+  {
+   "text": "a",
+   "time": 300.24,
+   "weight": 0.99,
+   "note_time": 305.41
+  },
+  {
+   "text": "long,",
+   "time": 300.57,
+   "weight": 0.99,
+   "note_time": 305.58
+  },
+  {
+   "text": "and",
+   "time": 301.17,
+   "weight": 0.0,
+   "note_time": 306.28
+  },
+  {
+   "text": "Leviathan,",
+   "time": 301.76,
+   "weight": 0.88,
+   "note_time": 306.63
+  },
+  {
+   "text": "which",
+   "time": 304.4,
+   "weight": 0.79,
+   "note_time": 306.98
+  },
+  {
+   "text": "you",
+   "time": 305.12,
+   "weight": 0.97,
+   "note_time": 308.37
+  },
+  {
+   "text": "formed",
+   "time": 305.48,
+   "weight": 0.83,
+   "note_time": 309.77
+  },
+  {
+   "text": "to",
+   "time": 305.96,
+   "weight": 0.99,
+   "note_time": 309.94
+  },
+  {
+   "text": "play",
+   "time": 306.18,
+   "weight": 0.99,
+   "note_time": 310.12
+  },
+  {
+   "text": "in",
+   "time": 306.42,
+   "weight": 0.98,
+   "note_time": 310.47
+  },
+  {
+   "text": "it.",
+   "time": 307.32,
+   "weight": 1.0,
+   "note_time": 310.81
+  },
+  {
+   "text": "All",
+   "time": 310.02,
+   "weight": 0.92,
+   "note_time": 310.99
+  },
+  {
+   "text": "of",
+   "time": 310.74,
+   "weight": 0.99,
+   "note_time": 311.16
+  },
+  {
+   "text": "them",
+   "time": 310.9,
+   "weight": 1.0,
+   "note_time": 311.51
+  },
+  {
+   "text": "look",
+   "time": 311.12,
+   "weight": 0.98,
+   "note_time": 311.69
+  },
+  {
+   "text": "to",
+   "time": 311.5,
+   "weight": 1.0,
+   "note_time": 312.03
+  },
+  {
+   "text": "you",
+   "time": 311.68,
+   "weight": 0.95,
+   "note_time": 312.21
+  },
+  {
+   "text": "to",
+   "time": 312.02,
+   "weight": 0.76,
+   "note_time": 312.56
+  },
+  {
+   "text": "give",
+   "time": 312.42,
+   "weight": 0.99,
+   "note_time": 312.91
+  },
+  {
+   "text": "them",
+   "time": 312.66,
+   "weight": 0.99,
+   "note_time": 313.08
+  },
+  {
+   "text": "their",
+   "time": 313.0,
+   "weight": 0.99,
+   "note_time": 313.26
+  },
+  {
+   "text": "food",
+   "time": 313.18,
+   "weight": 1.0,
+   "note_time": 313.43
+  },
+  {
+   "text": "at",
+   "time": 313.54,
+   "weight": 0.91,
+   "note_time": 313.78
+  },
+  {
+   "text": "the",
+   "time": 313.84,
+   "weight": 1.0,
+   "note_time": 315.0
+  },
+  {
+   "text": "prop",
+   "time": 313.94,
+   "weight": 1.0,
+   "note_time": 315.17
+  },
+  {
+   "text": "er",
+   "time": 314.1,
+   "weight": 1.0,
+   "note_time": 315.35
+  },
+  {
+   "text": "time.",
+   "time": 314.26,
+   "weight": 1.0,
+   "note_time": 315.52
+  },
+  {
+   "text": "When",
+   "time": 314.82,
+   "weight": 0.96,
+   "note_time": 315.87
+  },
+  {
+   "text": "you",
+   "time": 315.88,
+   "weight": 1.0,
+   "note_time": 316.05
+  },
+  {
+   "text": "give",
+   "time": 316.06,
+   "weight": 1.0,
+   "note_time": 316.4
+  },
+  {
+   "text": "it",
+   "time": 316.3,
+   "weight": 1.0,
+   "note_time": 316.74
+  },
+  {
+   "text": "to",
+   "time": 316.5,
+   "weight": 1.0,
+   "note_time": 317.09
+  },
+  {
+   "text": "them,",
+   "time": 316.74,
+   "weight": 1.0,
+   "note_time": 317.79
+  },
+  {
+   "text": "they",
+   "time": 317.12,
+   "weight": 1.0,
+   "note_time": 317.97
+  },
+  {
+   "text": "gath",
+   "time": 317.28,
+   "weight": 1.0,
+   "note_time": 318.14
+  },
+  {
+   "text": "er",
+   "time": 317.58,
+   "weight": 1.0,
+   "note_time": 320.58
+  },
+  {
+   "text": "it",
+   "time": 317.88,
+   "weight": 1.0,
+   "note_time": 320.76
+  },
+  {
+   "text": "up;",
+   "time": 318.74,
+   "weight": 0.99,
+   "note_time": 320.93
+  },
+  {
+   "text": "when",
+   "time": 320.58,
+   "weight": 0.61,
+   "note_time": 321.45
+  },
+  {
+   "text": "you",
+   "time": 321.46,
+   "weight": 0.88,
+   "note_time": 321.98
+  },
+  {
+   "text": "o",
+   "time": 321.64,
+   "weight": 0.98,
+   "note_time": 322.33
+  },
+  {
+   "text": "pen",
+   "time": 321.86,
+   "weight": 0.98,
+   "note_time": 323.02
+  },
+  {
+   "text": "your",
+   "time": 322.08,
+   "weight": 0.96,
+   "note_time": 323.2
+  },
+  {
+   "text": "hand,",
+   "time": 322.78,
+   "weight": 0.94,
+   "note_time": 323.72
+  },
+  {
+   "text": "they",
+   "time": 323.7,
+   "weight": 0.99,
+   "note_time": 324.24
+  },
+  {
+   "text": "are",
+   "time": 323.9,
+   "weight": 1.0,
+   "note_time": 324.77
+  },
+  {
+   "text": "filled",
+   "time": 324.18,
+   "weight": 1.0,
+   "note_time": 325.12
+  },
+  {
+   "text": "with",
+   "time": 324.66,
+   "weight": 1.0,
+   "note_time": 326.16
+  },
+  {
+   "text": "good",
+   "time": 325.26,
+   "weight": 1.0,
+   "note_time": 326.34
+  },
+  {
+   "text": "things.",
+   "time": 325.72,
+   "weight": 1.0,
+   "note_time": 326.51
+  },
+  {
+   "text": "When",
+   "time": 326.6,
+   "weight": 0.45,
+   "note_time": 326.86
+  },
+  {
+   "text": "you",
+   "time": 327.04,
+   "weight": 1.0,
+   "note_time": 327.21
+  },
+  {
+   "text": "hide",
+   "time": 327.24,
+   "weight": 1.0,
+   "note_time": 328.6
+  },
+  {
+   "text": "your",
+   "time": 327.56,
+   "weight": 1.0,
+   "note_time": 328.78
+  },
+  {
+   "text": "face,",
+   "time": 327.8,
+   "weight": 1.0,
+   "note_time": 329.3
+  },
+  {
+   "text": "they",
+   "time": 328.78,
+   "weight": 1.0,
+   "note_time": 329.48
+  },
+  {
+   "text": "are",
+   "time": 329.46,
+   "weight": 1.0,
+   "note_time": 329.83
+  },
+  {
+   "text": "ter",
+   "time": 329.78,
+   "weight": 1.0,
+   "note_time": 331.74
+  },
+  {
+   "text": "ri",
+   "time": 330.09,
+   "weight": 1.0,
+   "note_time": 331.92
+  },
+  {
+   "text": "fied;",
+   "time": 330.39,
+   "weight": 1.0,
+   "note_time": 332.09
+  },
+  {
+   "text": "when",
+   "time": 331.8,
+   "weight": 0.99,
+   "note_time": 332.44
+  },
+  {
+   "text": "you",
+   "time": 332.68,
+   "weight": 1.0,
+   "note_time": 332.62
+  },
+  {
+   "text": "take",
+   "time": 332.84,
+   "weight": 1.0,
+   "note_time": 332.97
+  },
+  {
+   "text": "a",
+   "time": 333.04,
+   "weight": 1.0,
+   "note_time": 333.31
+  },
+  {
+   "text": "way",
+   "time": 333.28,
+   "weight": 1.0,
+   "note_time": 333.49
+  },
+  {
+   "text": "their",
+   "time": 333.52,
+   "weight": 1.0,
+   "note_time": 334.53
+  },
+  {
+   "text": "breath,",
+   "time": 333.96,
+   "weight": 1.0,
+   "note_time": 334.88
+  },
+  {
+   "text": "they",
+   "time": 334.76,
+   "weight": 1.0,
+   "note_time": 335.58
+  },
+  {
+   "text": "die",
+   "time": 335.44,
+   "weight": 1.0,
+   "note_time": 335.93
+  },
+  {
+   "text": "and",
+   "time": 335.88,
+   "weight": 0.99,
+   "note_time": 336.1
+  },
+  {
+   "text": "re",
+   "time": 336.6,
+   "weight": 1.0,
+   "note_time": 336.28
+  },
+  {
+   "text": "turn",
+   "time": 336.8,
+   "weight": 1.0,
+   "note_time": 336.98
+  },
+  {
+   "text": "to",
+   "time": 337.0,
+   "weight": 1.0,
+   "note_time": 337.33
+  },
+  {
+   "text": "the",
+   "time": 337.86,
+   "weight": 1.0,
+   "note_time": 337.5
+  },
+  {
+   "text": "dust.",
+   "time": 338.2,
+   "weight": 1.0,
+   "note_time": 337.67
+  },
+  {
+   "text": "When",
+   "time": 342.94,
+   "weight": 0.99,
+   "note_time": 342.91
+  },
+  {
+   "text": "you",
+   "time": 343.82,
+   "weight": 1.0,
+   "note_time": 343.08
+  },
+  {
+   "text": "send",
+   "time": 343.98,
+   "weight": 1.0,
+   "note_time": 343.26
+  },
+  {
+   "text": "forth",
+   "time": 344.22,
+   "weight": 1.0,
+   "note_time": 343.78
+  },
+  {
+   "text": "your",
+   "time": 344.78,
+   "weight": 0.98,
+   "note_time": 344.3
+  },
+  {
+   "text": "Spir",
+   "time": 345.26,
+   "weight": 0.78,
+   "note_time": 344.65
+  },
+  {
+   "text": "it,",
+   "time": 345.61,
+   "weight": 0.78,
+   "note_time": 345.17
+  },
+  {
+   "text": "they",
+   "time": 346.18,
+   "weight": 1.0,
+   "note_time": 345.7
+  },
+  {
+   "text": "are",
+   "time": 346.6,
+   "weight": 1.0,
+   "note_time": 346.05
+  },
+  {
+   "text": "cre",
+   "time": 347.04,
+   "weight": 0.86,
+   "note_time": 346.74
+  },
+  {
+   "text": "at",
+   "time": 347.39,
+   "weight": 0.86,
+   "note_time": 347.09
+  },
+  {
+   "text": "ed,",
+   "time": 347.74,
+   "weight": 0.86,
+   "note_time": 347.79
+  },
+  {
+   "text": "and",
+   "time": 348.2,
+   "weight": 0.15,
+   "note_time": 348.49
+  },
+  {
+   "text": "you",
+   "time": 349.36,
+   "weight": 0.76,
+   "note_time": 348.84
+  },
+  {
+   "text": "re",
+   "time": 349.7,
+   "weight": 0.99,
+   "note_time": 349.19
+  },
+  {
+   "text": "new",
+   "time": 349.94,
+   "weight": 0.99,
+   "note_time": 349.36
+  },
+  {
+   "text": "the",
+   "time": 350.18,
+   "weight": 0.99,
+   "note_time": 349.88
+  },
+  {
+   "text": "face",
+   "time": 350.78,
+   "weight": 1.0,
+   "note_time": 350.23
+  },
+  {
+   "text": "of",
+   "time": 351.28,
+   "weight": 1.0,
+   "note_time": 350.93
+  },
+  {
+   "text": "the",
+   "time": 351.92,
+   "weight": 1.0,
+   "note_time": 351.28
+  },
+  {
+   "text": "earth.",
+   "time": 352.16,
+   "weight": 0.97,
+   "note_time": 351.45
+  },
+  {
+   "text": "May",
+   "time": 353.84,
+   "weight": 0.75,
+   "note_time": 353.72
+  },
+  {
+   "text": "the",
+   "time": 354.58,
+   "weight": 1.0,
+   "note_time": 354.24
+  },
+  {
+   "text": "glo",
+   "time": 354.94,
+   "weight": 0.99,
+   "note_time": 354.77
+  },
+  {
+   "text": "ry",
+   "time": 355.14,
+   "weight": 0.99,
+   "note_time": 354.94
+  },
+  {
+   "text": "of",
+   "time": 355.34,
+   "weight": 1.0,
+   "note_time": 355.47
+  },
+  {
+   "text": "the",
+   "time": 355.92,
+   "weight": 1.0,
+   "note_time": 355.64
+  },
+  {
+   "text": "LORD",
+   "time": 356.32,
+   "weight": 0.97,
+   "note_time": 356.16
+  },
+  {
+   "text": "en",
+   "time": 356.72,
+   "weight": 0.98,
+   "note_time": 356.51
+  },
+  {
+   "text": "dure",
+   "time": 356.98,
+   "weight": 0.98,
+   "note_time": 357.03
+  },
+  {
+   "text": "for",
+   "time": 357.24,
+   "weight": 0.98,
+   "note_time": 357.21
+  },
+  {
+   "text": "ev",
+   "time": 357.56,
+   "weight": 0.98,
+   "note_time": 357.38
+  },
+  {
+   "text": "er;",
+   "time": 357.88,
+   "weight": 0.98,
+   "note_time": 357.56
+  },
+  {
+   "text": "may",
+   "time": 358.2,
+   "weight": 0.39,
+   "note_time": 359.3
+  },
+  {
+   "text": "the",
+   "time": 360.18,
+   "weight": 1.0,
+   "note_time": 359.65
+  },
+  {
+   "text": "LORD",
+   "time": 360.52,
+   "weight": 1.0,
+   "note_time": 359.83
+  },
+  {
+   "text": "re",
+   "time": 361.0,
+   "weight": 1.0,
+   "note_time": 361.05
+  },
+  {
+   "text": "joice",
+   "time": 361.35,
+   "weight": 1.0,
+   "note_time": 361.22
+  },
+  {
+   "text": "in",
+   "time": 362.1,
+   "weight": 1.0,
+   "note_time": 362.09
+  },
+  {
+   "text": "his",
+   "time": 363.04,
+   "weight": 0.53,
+   "note_time": 362.27
+  },
+  {
+   "text": "works \u2014",
+   "time": 363.3,
+   "weight": 0.99,
+   "note_time": 362.79
+  },
+  {
+   "text": "he",
+   "time": 364.08,
+   "weight": 0.38,
+   "note_time": 365.23
+  },
+  {
+   "text": "who",
+   "time": 366.2,
+   "weight": 0.92,
+   "note_time": 365.58
+  },
+  {
+   "text": "looks",
+   "time": 366.32,
+   "weight": 1.0,
+   "note_time": 366.28
+  },
+  {
+   "text": "at",
+   "time": 366.78,
+   "weight": 1.0,
+   "note_time": 366.63
+  },
+  {
+   "text": "the",
+   "time": 367.24,
+   "weight": 1.0,
+   "note_time": 366.8
+  },
+  {
+   "text": "earth,",
+   "time": 367.5,
+   "weight": 0.99,
+   "note_time": 367.67
+  },
+  {
+   "text": "and",
+   "time": 368.04,
+   "weight": 0.95,
+   "note_time": 367.85
+  },
+  {
+   "text": "it",
+   "time": 368.62,
+   "weight": 1.0,
+   "note_time": 368.37
+  },
+  {
+   "text": "trembles,",
+   "time": 368.88,
+   "weight": 1.0,
+   "note_time": 368.72
+  },
+  {
+   "text": "who",
+   "time": 370.42,
+   "weight": 0.97,
+   "note_time": 371.16
+  },
+  {
+   "text": "touch",
+   "time": 371.66,
+   "weight": 1.0,
+   "note_time": 371.51
+  },
+  {
+   "text": "es",
+   "time": 371.91,
+   "weight": 1.0,
+   "note_time": 372.21
+  },
+  {
+   "text": "the",
+   "time": 372.16,
+   "weight": 1.0,
+   "note_time": 372.38
+  },
+  {
+   "text": "moun",
+   "time": 373.08,
+   "weight": 1.0,
+   "note_time": 372.91
+  },
+  {
+   "text": "tains,",
+   "time": 373.36,
+   "weight": 1.0,
+   "note_time": 373.26
+  },
+  {
+   "text": "and",
+   "time": 373.64,
+   "weight": 0.99,
+   "note_time": 373.43
+  },
+  {
+   "text": "they",
+   "time": 374.2,
+   "weight": 1.0,
+   "note_time": 373.95
+  },
+  {
+   "text": "smoke.",
+   "time": 374.36,
+   "weight": 0.99,
+   "note_time": 374.13
+  },
+  {
+   "text": "I",
+   "time": 374.92,
+   "weight": 0.18,
+   "note_time": 376.05
+  },
+  {
+   "text": "will",
+   "time": 376.94,
+   "weight": 0.97,
+   "note_time": 376.4
+  },
+  {
+   "text": "sing",
+   "time": 377.32,
+   "weight": 0.99,
+   "note_time": 376.74
+  },
+  {
+   "text": "to",
+   "time": 377.68,
+   "weight": 0.9,
+   "note_time": 377.44
+  },
+  {
+   "text": "the",
+   "time": 378.26,
+   "weight": 0.98,
+   "note_time": 377.79
+  },
+  {
+   "text": "LORD",
+   "time": 378.66,
+   "weight": 0.96,
+   "note_time": 377.97
+  },
+  {
+   "text": "all",
+   "time": 379.22,
+   "weight": 0.98,
+   "note_time": 378.84
+  },
+  {
+   "text": "my",
+   "time": 379.82,
+   "weight": 1.0,
+   "note_time": 379.19
+  },
+  {
+   "text": "life;",
+   "time": 380.14,
+   "weight": 1.0,
+   "note_time": 379.53
+  },
+  {
+   "text": "I",
+   "time": 381.42,
+   "weight": 0.69,
+   "note_time": 381.63
+  },
+  {
+   "text": "will",
+   "time": 382.58,
+   "weight": 1.0,
+   "note_time": 382.33
+  },
+  {
+   "text": "sing",
+   "time": 382.94,
+   "weight": 1.0,
+   "note_time": 383.02
+  },
+  {
+   "text": "praise",
+   "time": 383.36,
+   "weight": 0.99,
+   "note_time": 383.72
+  },
+  {
+   "text": "to",
+   "time": 384.24,
+   "weight": 1.0,
+   "note_time": 384.42
+  },
+  {
+   "text": "my",
+   "time": 385.28,
+   "weight": 1.0,
+   "note_time": 385.29
+  },
+  {
+   "text": "God",
+   "time": 385.6,
+   "weight": 1.0,
+   "note_time": 385.47
+  },
+  {
+   "text": "as",
+   "time": 386.12,
+   "weight": 0.86,
+   "note_time": 386.16
+  },
+  {
+   "text": "long",
+   "time": 387.2,
+   "weight": 1.0,
+   "note_time": 386.51
+  },
+  {
+   "text": "as",
+   "time": 387.44,
+   "weight": 1.0,
+   "note_time": 387.03
+  },
+  {
+   "text": "I",
+   "time": 388.02,
+   "weight": 1.0,
+   "note_time": 387.56
+  },
+  {
+   "text": "live.",
+   "time": 388.48,
+   "weight": 1.0,
+   "note_time": 387.91
+  },
+  {
+   "text": "May",
+   "time": 393.22,
+   "weight": 0.95,
+   "note_time": 393.49
+  },
+  {
+   "text": "my",
+   "time": 394.38,
+   "weight": 1.0,
+   "note_time": 393.84
+  },
+  {
+   "text": "med",
+   "time": 394.76,
+   "weight": 0.99,
+   "note_time": 394.19
+  },
+  {
+   "text": "i",
+   "time": 395.02,
+   "weight": 0.99,
+   "note_time": 394.53
+  },
+  {
+   "text": "ta",
+   "time": 395.28,
+   "weight": 0.99,
+   "note_time": 394.88
+  },
+  {
+   "text": "tion",
+   "time": 395.54,
+   "weight": 0.99,
+   "note_time": 395.58
+  },
+  {
+   "text": "please",
+   "time": 395.8,
+   "weight": 1.0,
+   "note_time": 396.28
+  },
+  {
+   "text": "him;",
+   "time": 397.24,
+   "weight": 0.86,
+   "note_time": 396.98
+  },
+  {
+   "text": "I",
+   "time": 399.34,
+   "weight": 0.87,
+   "note_time": 399.07
+  },
+  {
+   "text": "will",
+   "time": 399.92,
+   "weight": 1.0,
+   "note_time": 399.59
+  },
+  {
+   "text": "re",
+   "time": 400.54,
+   "weight": 1.0,
+   "note_time": 400.12
+  },
+  {
+   "text": "joice",
+   "time": 400.89,
+   "weight": 1.0,
+   "note_time": 400.47
+  },
+  {
+   "text": "in",
+   "time": 401.38,
+   "weight": 1.0,
+   "note_time": 401.16
+  },
+  {
+   "text": "the",
+   "time": 402.14,
+   "weight": 1.0,
+   "note_time": 401.51
+  },
+  {
+   "text": "LORD.",
+   "time": 402.38,
+   "weight": 1.0,
+   "note_time": 401.69
+  },
+  {
+   "text": "But",
+   "time": 402.94,
+   "weight": 0.11,
+   "note_time": 404.3
+  },
+  {
+   "text": "may",
+   "time": 404.8,
+   "weight": 0.78,
+   "note_time": 404.65
+  },
+  {
+   "text": "sin",
+   "time": 405.14,
+   "weight": 0.99,
+   "note_time": 404.83
+  },
+  {
+   "text": "ners",
+   "time": 405.44,
+   "weight": 0.99,
+   "note_time": 406.05
+  },
+  {
+   "text": "van",
+   "time": 405.74,
+   "weight": 0.91,
+   "note_time": 406.22
+  },
+  {
+   "text": "ish",
+   "time": 406.09,
+   "weight": 0.91,
+   "note_time": 406.74
+  },
+  {
+   "text": "from",
+   "time": 407.04,
+   "weight": 1.0,
+   "note_time": 407.09
+  },
+  {
+   "text": "the",
+   "time": 407.66,
+   "weight": 0.99,
+   "note_time": 407.62
+  },
+  {
+   "text": "earth",
+   "time": 407.94,
+   "weight": 0.97,
+   "note_time": 407.79
+  },
+  {
+   "text": "and",
+   "time": 409.84,
+   "weight": 0.59,
+   "note_time": 409.88
+  },
+  {
+   "text": "the",
+   "time": 410.54,
+   "weight": 0.99,
+   "note_time": 410.23
+  },
+  {
+   "text": "wic",
+   "time": 410.7,
+   "weight": 1.0,
+   "note_time": 410.41
+  },
+  {
+   "text": "ked",
+   "time": 410.98,
+   "weight": 1.0,
+   "note_time": 411.63
+  },
+  {
+   "text": "be",
+   "time": 411.26,
+   "weight": 1.0,
+   "note_time": 412.33
+  },
+  {
+   "text": "no",
+   "time": 412.52,
+   "weight": 1.0,
+   "note_time": 412.5
+  },
+  {
+   "text": "more.",
+   "time": 413.24,
+   "weight": 1.0,
+   "note_time": 413.02
+  },
+  {
+   "text": "Bless",
+   "time": 415.94,
+   "weight": 0.93,
+   "note_time": 415.81
+  },
+  {
+   "text": "the",
+   "time": 416.86,
+   "weight": 0.99,
+   "note_time": 416.86
+  },
+  {
+   "text": "LORD,",
+   "time": 417.76,
+   "weight": 0.95,
+   "note_time": 417.03
+  },
+  {
+   "text": "my",
+   "time": 418.42,
+   "weight": 0.99,
+   "note_time": 417.91
+  },
+  {
+   "text": "soul!",
+   "time": 418.78,
+   "weight": 1.0,
+   "note_time": 418.6
+  },
+  {
+   "text": "Praise",
+   "time": 421.0,
+   "weight": 0.84,
+   "note_time": 421.4
+  },
+  {
+   "text": "the",
+   "time": 422.4,
+   "weight": 1.0,
+   "note_time": 422.79
+  },
+  {
+   "text": "LORD!",
+   "time": 423.62,
+   "weight": 0.4,
+   "note_time": 424.19
+  },
+  {
+   "text": "Bless",
+   "time": 426.64,
+   "weight": 0.98,
+   "note_time": 426.98
+  },
+  {
+   "text": "the",
+   "time": 428.04,
+   "weight": 1.0,
+   "note_time": 428.02
+  },
+  {
+   "text": "LORD,",
+   "time": 428.92,
+   "weight": 1.0,
+   "note_time": 428.2
+  },
+  {
+   "text": "my",
+   "time": 429.68,
+   "weight": 1.0,
+   "note_time": 429.07
+  },
+  {
+   "text": "soul!",
+   "time": 430.04,
+   "weight": 1.0,
+   "note_time": 429.77
+  },
+  {
+   "text": "LORD",
+   "time": 430.82,
+   "weight": 0.24,
+   "note_time": 431.86
+  },
+  {
+   "text": "my",
+   "time": 432.72,
+   "weight": 0.73,
+   "note_time": 432.56
+  },
+  {
+   "text": "God,",
+   "time": 433.1,
+   "weight": 0.99,
+   "note_time": 433.26
+  },
+  {
+   "text": "you",
+   "time": 433.92,
+   "weight": 0.56,
+   "note_time": 433.43
+  },
+  {
+   "text": "are",
+   "time": 434.18,
+   "weight": 1.0,
+   "note_time": 433.6
+  },
+  {
+   "text": "ve",
+   "time": 434.52,
+   "weight": 0.99,
+   "note_time": 433.95
+  },
+  {
+   "text": "ry",
+   "time": 434.87,
+   "weight": 0.99,
+   "note_time": 434.65
+  },
+  {
+   "text": "great;",
+   "time": 435.34,
+   "weight": 0.99,
+   "note_time": 435.35
+  },
+  {
+   "text": "you",
+   "time": 436.44,
+   "weight": 0.23,
+   "note_time": 437.44
+  },
+  {
+   "text": "are",
+   "time": 438.4,
+   "weight": 1.0,
+   "note_time": 437.62
+  },
+  {
+   "text": "clothed",
+   "time": 438.68,
+   "weight": 0.99,
+   "note_time": 438.14
+  },
+  {
+   "text": "in",
+   "time": 439.64,
+   "weight": 1.0,
+   "note_time": 438.84
+  },
+  {
+   "text": "splen",
+   "time": 439.96,
+   "weight": 0.95,
+   "note_time": 439.53
+  },
+  {
+   "text": "dor",
+   "time": 440.31,
+   "weight": 0.95,
+   "note_time": 440.06
+  },
+  {
+   "text": "and",
+   "time": 441.06,
+   "weight": 1.0,
+   "note_time": 440.58
+  },
+  {
+   "text": "ma",
+   "time": 441.62,
+   "weight": 1.0,
+   "note_time": 440.93
+  },
+  {
+   "text": "jes",
+   "time": 441.91,
+   "weight": 1.0,
+   "note_time": 441.45
+  },
+  {
+   "text": "ty,",
+   "time": 442.19,
+   "weight": 1.0,
+   "note_time": 441.98
+  }
+ ],
+ "chord_sheet_pages": 2,
+ "lilypond_warnings": [],
+ "quality": "33 of 60 lyric lines sit clearly on their notes; 27 are uncertain and printed in grey italics."
+}

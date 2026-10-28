@@ -1,0 +1,28 @@
+diff --git a/examples/generate.py b/examples/generate.py
+index fdb5d11..cfe00b7 100644
+--- a/examples/generate.py
++++ b/examples/generate.py
+@@ -30,7 +30,7 @@ def main():
+ 
+     with YuE2Pipeline.from_pretrained(
+         args.model, vae=args.vae, revision=args.revision,
+-        vae_revision=args.vae_revision, device="cuda",
++        vae_revision=args.vae_revision, device="auto",
+     ) as pipe:
+         song = pipe(**request)
+         song.save_artifacts(args.output)
+diff --git a/src/yue2/sampling.py b/src/yue2/sampling.py
+index 9673842..e53c562 100644
+--- a/src/yue2/sampling.py
++++ b/src/yue2/sampling.py
+@@ -136,6 +136,10 @@ def generate_tokens(model, prefix, sampling, seed, phase, negative=None, cfg_sca
+                     if negative_cache is not None:
+                         unconditional = model(next_id, past_key_values=negative_cache, use_cache=True,
+                                               logits_to_keep=1).logits[:, -1, :]
++                    # MPS caches every growing per-step attention buffer; ~2 GiB per 500 tokens
++                    # until macOS kills the process past ~6000 tokens on a 128 GB machine.
++                    if device.type == "mps" and step % 500 == 499:
++                        torch.mps.empty_cache()
+         synchronize(device)
+         seconds = time.perf_counter() - start
+         count = len(history) + int(eos)

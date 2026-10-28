@@ -1,0 +1,60 @@
+{
+  "id": "person-rut-celtic",
+  "title": "Where You Go",
+  "kind": "person",
+  "anchor": {
+    "person": "rut"
+  },
+  "references": [
+    {
+      "bookId": 8,
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 8,
+      "chapter": 2,
+      "verseStart": 2,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 8,
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "rut",
+      "noomi",
+      "boas",
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic folk ballad, clear gentle female vocal, tin whistle, fiddle, Celtic harp, bodhran, acoustic guitar, flowing and heartfelt, 92 BPM",
+    "lyrics": "[Verse]\nOn the road from Moab the dust was cold and grey\nNaomi turned to her daughters and she told them go away\nGo back home to your mothers, find a husband and a bed\nBut Ruth held on to her and this is what she said\n\n[Chorus]\nWhere you go I will go\nAnd where you stay I will stay\nYour people will be my people\nAnd your God my God\nWhere you die I will die\nAnd there I will be buried\nNothing but death will part you and me\n\n[Verse]\nIn the fields of Bethlehem she gathered fallen grain\nWalking behind the reapers in the sun and in the rain\nA kind man named Boaz saw the stranger at his door\nSaid may you find your refuge under the wings of the LORD\n\n[Chorus]\nWhere you go I will go\nAnd where you stay I will stay\nYour people will be my people\nAnd your God my God\nWhere you die I will die\nAnd there I will be buried\nNothing but death will part you and me\n\n[Bridge]\nAnd she bore a son called Obed\nWho was father to Jesse\nWho was father to David\nA king came from a stranger's faithful heart\n\n[Outro]\nWhere you go I will go\nYour God my God",
+    "cot": "full",
+    "seed": 816
+  }
+}

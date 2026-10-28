@@ -1,0 +1,45 @@
+{
+  "id": "chapter-46-13-soul",
+  "title": "The Greatest of These",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 13
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul",
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic soul ballad, smooth expressive female vocal, Rhodes electric piano, lush strings, warm bass, soft drums, tender and soaring, 70 BPM",
+    "lyrics": "[Verse]\nI could sing like the angels\nI could speak in every tongue\nBut without love I'm a clanging gong\nA song that's never sung\nI could move every mountain\nGive away all that I own\nBut without love I gain nothing\nI'm standing here alone\n\n[Chorus]\nLove is patient, love is kind\nKeeps no record of wrongs\nIt bears all things, believes all things\nHopes all things, endures all things\nLove never ends\n\n[Verse]\nWhen I was a child I spoke like a child\nThought the way that children do\nNow we see a dim reflection in a mirror\nBut then face to face with you\n\n[Chorus]\nLove is patient, love is kind\nKeeps no record of wrongs\nIt bears all things, believes all things\nHopes all things, endures all things\nLove never ends\n\n[Bridge]\nFaith and hope and love remain\nThese three, these three\nBut the greatest of these\nThe greatest of these is love\n\n[Outro]\nLove never ends\nLove never ends",
+    "cot": "full",
+    "seed": 4613
+  }
+}

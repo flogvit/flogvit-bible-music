@@ -1,0 +1,49 @@
+{
+  "id": "story-david-og-goliat-children",
+  "title": "Five Smooth Stones",
+  "kind": "story",
+  "anchor": {
+    "story": "david-og-goliat"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 58
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "tro"
+    ],
+    "stories": [
+      "david-og-goliat"
+    ],
+    "persons": [
+      "david",
+      "goliat",
+      "saul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, cheerful female lead vocal with kids choir, ukulele, glockenspiel, hand claps, bouncy bass, bright and playful, sing-along, 112 BPM",
+    "lyrics": "[Verse]\nFor forty days the giant shouted\nMorning and evening, loud and tall\nAll the soldiers shook and trembled\nNo one dared to fight at all\nThen a shepherd boy came running\nBringing bread for brothers three\nSaid why is everybody hiding\nGod is bigger, come and see\n\n[Chorus]\nFive smooth stones from the stream\nA sling and a shepherd's bag\nNot a sword and not a spear\nBut a heart that trusts in the LORD\nOne, two, three, four, five\nLittle David, brave and wise\n\n[Verse]\nKing Saul gave him his heavy armor\nBronze helmet shining on his head\nDavid tried to walk and wobbled\nI'm not used to these, he said\nSo he took his staff and pebbles\nRan to meet the giant there\nI come in the name of the LORD of hosts\nThe God of Israel everywhere\n\n[Chorus]\nFive smooth stones from the stream\nA sling and a shepherd's bag\nNot a sword and not a spear\nBut a heart that trusts in the LORD\nOne, two, three, four, five\nLittle David, brave and wise\n\n[Bridge]\nSwing it round and let it go\nDown the giant fell, oh whoa\nThe LORD does not save with sword or spear\nWhen you are small, God is near\n\n[Outro]\nOne, two, three, four, five\nLittle David, brave and wise",
+    "cot": "full",
+    "seed": 1749
+  }
+}

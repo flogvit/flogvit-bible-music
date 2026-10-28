@@ -1,0 +1,52 @@
+{
+  "id": "theme-tilgivelse-country",
+  "title": "Seventy-Seven Times",
+  "kind": "theme",
+  "anchor": {
+    "theme": "tilgivelse"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 18,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 42,
+      "chapter": 15,
+      "verseStart": 11,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "tilgivelse",
+      "nade",
+      "lignelsene"
+    ],
+    "stories": [],
+    "persons": [
+      "peter",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, heartfelt country, warm male vocal with gentle twang, acoustic guitar, pedal steel, fiddle, brushed drums, honest storytelling, 84 BPM",
+    "lyrics": "[Verse]\nPeter asked the Teacher on a dusty afternoon\nHow many times must I forgive my brother, is seven times enough\nJesus looked him in the eye and gave a gentle smile\nNot seven times, my friend, but seventy-seven times\n\n[Chorus]\nSeventy-seven times and then a little more\nLeave the light on in the window, keep a key beneath the door\n'Cause the grace I've been given is the grace I'm meant to give\nSeventy-seven times, that's the way I want to live\n\n[Verse]\nThere's a boy who took his money and he ran off to the town\nSpent it all on easy living till the money ran out\nHe came walking home in rags, rehearsing what he'd say\nBut his father saw him coming from a long, long way\n\n[Chorus]\nSeventy-seven times and then a little more\nLeave the light on in the window, keep a key beneath the door\n'Cause the grace I've been given is the grace I'm meant to give\nSeventy-seven times, that's the way I want to live\n\n[Bridge]\nHe ran to him and held him tight\nThrew a party on that night\nHe was lost and now he's found\nHe was dead and he's alive\n\n[Outro]\nSeventy-seven times\nThat's the way I want to live",
+    "cot": "full",
+    "seed": 1822
+  }
+}

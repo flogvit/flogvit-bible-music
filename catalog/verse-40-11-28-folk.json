@@ -1,0 +1,45 @@
+{
+  "id": "verse-40-11-28-folk",
+  "title": "Come to Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 11,
+    "verseStart": 28,
+    "verseEnd": 30
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 11,
+      "verseStart": 28,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "acoustic",
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic folk worship, warm male vocal, fingerpicked acoustic guitar, cello, soft background harmonies, intimate and peaceful, 72 BPM",
+    "lyrics": "[Verse]\nLong road and heavy shoulders\nDust of every mile I've known\nCarried more than I could carry\nThought that I would walk alone\nThen a voice beside the water\nGentle as the evening light\nCalling out to all the weary\nCalling me by name tonight\n\n[Chorus]\nCome to me, all you who are weary and burdened\nAnd I will give you rest\nTake my yoke upon you and learn from me\nFor I am gentle and humble in heart\n\n[Verse]\nSet them down, the stones I gathered\nEvery failure, every fear\nHe who made the hills and rivers\nBends to meet me, draws me near\n\n[Chorus]\nCome to me, all you who are weary and burdened\nAnd I will give you rest\nTake my yoke upon you and learn from me\nFor I am gentle and humble in heart\n\n[Bridge]\nMy yoke is easy\nMy burden is light\nYou will find rest for your souls\nRest for your souls tonight\n\n[Outro]\nCome to me\nAnd I will give you rest",
+    "cot": "full",
+    "seed": 1128
+  }
+}

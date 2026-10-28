@@ -1,0 +1,9 @@
+# YuE2 clone with its own .venv; set up from README, local changes in patches/
+YuE/
+**/outputs/
+.venv*
+*.flac
+*.wav
+*.mp3
+.env
+.DS_Store

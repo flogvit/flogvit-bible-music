@@ -1,8 +1,9 @@
 # Which machine generates what
 
 Audio is not in git, so each machine says here which catalog songs it has taken, to avoid generating the
-same song twice. Before starting a batch, pull this branch (`home-mac-claims`) and skip songs another machine
-has taken; add your own before you start.
+same song twice. Before starting a batch, pull main and skip songs another machine has taken; add your own and
+push before you start. A song is `taken` while it waits or generates, and `done` when its audio and sheets are
+made.
 
 Every song made before 2026-10-28 16:20 ran on torch 2.10 and counts as not done (see README).
 
@@ -10,7 +11,8 @@ Every song made before 2026-10-28 16:20 ran on torch 2.10 and counts as not done
 
 Started 2026-10-28 with `configs/long-12000.json`, torch 2.14.1, one song at a time under `taskpolicy -b`,
 in this order (reverse catalog order, so a machine working through the catalog from the top meets it in the
-middle). Output: `YuE/outputs/catalog/<id>/` on Home Mac.
+middle), then the catalog portions added after it, most-known songs first. Output: `YuE/outputs/catalog/<id>/`
+on Home Mac.
 
 | song | status |
 |---|---|

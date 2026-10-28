@@ -76,6 +76,22 @@ One file per song in `catalog/<id>.json`:
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
 | `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed` |
 
+Check new or changed songs before committing them:
+
+```bash
+bun scripts/validate-catalog.ts [song-id ...]
+```
+
+It checks the fields above, that every anchor and reference exists in the osen text, and that every tag, story,
+person and theme exists in free-bible (looked up next to this repo, or at `$FREE_BIBLE`), so each song points
+to a real page on bible.flogvit.com.
+
+### Which machine makes which song
+
+Audio is not in git, so `MACHINES.md` lists the songs each machine has taken, in the order it generates them,
+and marks them done. Before generating, pull main and skip songs another machine has taken; add your own and
+push before you start.
+
 ## Generate
 
 ```bash

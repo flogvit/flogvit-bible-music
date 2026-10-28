@@ -14,7 +14,7 @@ middle). Output: `YuE/outputs/catalog/<id>/` on Home Mac.
 
 | song | status |
 |---|---|
-| verse-43-3-16-gospel | taken |
+| verse-43-3-16-gospel | done 2026-10-28 17:59, 3:18, sheets in sheets/ |
 | verse-40-11-28-folk | taken |
 | verse-24-29-11-gospel | taken |
 | theme-tilgivelse-country | taken |

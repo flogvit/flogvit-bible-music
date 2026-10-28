@@ -823,6 +823,7 @@ def lead_sheet(score: Score, lyrics: Lyrics, out_bars: list[OutBar], lines: list
 \\header {{
 {header}
   tagline = ##f
+  copyright = \\markup \\small \\wordwrap {{ {ly_markup_words(note_text)} }}
 }}
 \\paper {{
   #(set-paper-size "a4")
@@ -854,8 +855,6 @@ words = \\lyricmode {{ {" ".join(words)} }}
     }}
   }}
 }}
-\\markup \\vspace #1
-\\markup \\small \\wordwrap {{ {ly_markup_words(note_text)} }}
 """
 
 
@@ -952,7 +951,9 @@ def chord_blocks(score: Score, lyrics: Lyrics, out_bars: list[OutBar]) -> list[B
             continue
         same_section = (li is not None and li + 1 < len(lyrics.lines)
                         and lyrics.lines[li].section == lyrics.lines[li + 1].section)
-        bars_in_gap = [k for k, (b0, b1) in enumerate(bar_times) if b0 >= g0 - beat and b1 <= g1 + beat]
+        # a pickup is not a bar of its own on the chord sheet; its chord carries into the first full bar
+        bars_in_gap = [k for k, (b0, b1) in enumerate(bar_times)
+                       if b0 >= g0 - beat and b1 <= g1 + beat and not out_bars[k].partial]
         if li is not None and (same_section or len(bars_in_gap) < 4):
             trailing.setdefault(li, []).extend(s for _, s in inside)
             continue
@@ -970,6 +971,8 @@ def chord_blocks(score: Score, lyrics: Lyrics, out_bars: list[OutBar]) -> list[B
             in_bar = [s for t, s in changes if b0 <= t < b1]
             held = [s for t, s in changes if t < b0][-1:]
             cells.append(in_bar if in_bar else held or ["–"])
+        if any(base_name(sec.name) == base_name(name) for sec in lyrics.sections):
+            name += " (instrumental)"  # e.g. a sung outro followed by a played one
         instrumental[li] = Block("bars", name, bar_chords=cells)
 
     if None in instrumental:
@@ -1007,6 +1010,33 @@ def same_block(a: Block, b: Block) -> bool:
     return a.kind == b.kind == "lyrics" and a.lines == b.lines
 
 
+def bar_rows(cells: list[list[str]]) -> list[tuple[list[list[str]], int]]:
+    """Group bars into rows of up to four; a pattern of up to eight bars repeated over eight bars or more
+    becomes one row × n."""
+    rows, i, plain = [], 0, []
+    while i < len(cells):
+        best = None
+        for period in range(1, 9):
+            pattern = cells[i:i + period]
+            times = 1
+            while cells[i + times * period: i + (times + 1) * period] == pattern:
+                times += 1
+            if len(pattern) == period and times >= 2 and period * times >= 8 \
+                    and (best is None or period * times > best[0] * best[1]):
+                best = (period, times)
+        if best:
+            rows += [(plain[k:k + 4], 1) for k in range(0, len(plain), 4)]
+            plain = []
+            period, times = best
+            rows.append((cells[i:i + period], times))
+            i += period * times
+        else:
+            plain.append(cells[i])
+            i += 1
+    rows += [(plain[k:k + 4], 1) for k in range(0, len(plain), 4)]
+    return rows
+
+
 def chordpro(blocks: list[Block], lyrics: Lyrics, meta: dict, key: str, bpm: float, meter: str) -> str:
     out = [f"{{title: {meta['title']}}}"]
     if meta.get("subtitle"):
@@ -1015,7 +1045,10 @@ def chordpro(blocks: list[Block], lyrics: Lyrics, meta: dict, key: str, bpm: flo
     printed: list[Block] = []
     for b in blocks:
         if b.kind == "bars":
-            out.append(f"{{comment: {b.label}: | " + " | ".join(" ".join(c) for c in b.bar_chords) + " |}")
+            out.append(f"{{comment: {b.label}}}")
+            for row, times in bar_rows(b.bar_chords):
+                out.append("| " + " | ".join(" ".join(f"[{c}]" for c in cell) for cell in row) + " |"
+                           + (f" ×{times}" if times > 1 else ""))
             out.append("")
             continue
         kind = base_name(lyrics.sections[b.section].name)
@@ -1040,9 +1073,12 @@ def chord_sheet_html(blocks: list[Block], meta: dict, info: str, footer: str, co
     printed: list[Block] = []
     for b in blocks:
         if b.kind == "bars":
-            cells = "".join(f"<span class=cell>{' '.join(pretty_chord(c) for c in cell)}</span>"
-                            for cell in b.bar_chords)
-            parts.append(f"<section class=bars><h2>{html.escape(b.label)}</h2><div class=grid>{cells}</div></section>")
+            rows = "".join(
+                "<div class=row>" + "".join(f"<span class=cell>{'&nbsp;'.join(pretty_chord(c) for c in cell)}</span>"
+                                            for cell in row)
+                + (f"<span class=times>×{times}</span>" if times > 1 else "") + "</div>"
+                for row, times in bar_rows(b.bar_chords))
+            parts.append(f"<section class=bars><h2>{html.escape(b.label)}</h2><div class=grid>{rows}</div></section>")
             continue
         if any(same_block(b, p) and p.label == b.label for p in printed):
             parts.append(f"<section class=repeat><h2>{html.escape(b.label)}</h2><p class=again>(repeat)</p></section>")
@@ -1077,7 +1113,9 @@ h2 {{ font: 600 {size * 0.8:.1f}pt "Helvetica Neue", Helvetica, sans-serif; text
 .chunk i.mid .hy {{ flex: 1; text-align: center; }}
 .grid {{ font: 700 {size * 0.92:.1f}pt "Helvetica Neue", Helvetica, sans-serif; color: #8a5a00; }}
 .cell {{ display: inline-block; min-width: 3.2em; border-left: 1px solid #bbb; padding: 0 .5em; }}
-.cell:last-child {{ border-right: 1px solid #bbb; }}
+.row {{ white-space: nowrap; margin-bottom: 2pt; }}
+.cell:last-of-type {{ border-right: 1px solid #bbb; }}
+.times {{ font-weight: 400; color: #555; padding-left: .5em; }}
 .again {{ margin: 0; font-style: italic; color: #555; }}
 </style></head><body>
 <h1>{html.escape(meta['title'])}</h1>{subtitle}<p class=info>{html.escape(info)}</p>

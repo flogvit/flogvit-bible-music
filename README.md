@@ -87,10 +87,19 @@ uv venv --python 3.12 .venv
 uv pip install --python .venv/bin/python .
 ```
 
-`patches/yue2-mps.patch` holds the two local changes to upstream: `examples/generate.py` uses
-`device="auto"`, and `src/yue2/sampling.py` empties the MPS cache every 500 tokens (without it,
-songs past ~6000 tokens, about 4 minutes, are killed by macOS when memory runs out). After editing
-`src/`, reinstall with `uv pip install --python .venv/bin/python --reinstall-package yue2-infer .`
+`patches/yue2-mps.patch` holds the local changes to upstream that make YuE2 correct and lean on
+Apple GPUs:
+
+- `examples/generate.py` uses `device="auto"` instead of `"cuda"`.
+- `src/yue2/modeling_yue2.py` and `src/yue2/nar.py` use native grouped-query attention instead of
+  copying K/V with `repeat_interleave` on MPS.
+- Each decode step attends over the KV cache padded to a multiple of 512 with a mask
+  (`StaticKVCache.bucketed`). On MPS, attention over a slice of the cache without a mask returns
+  wrong values (cosine similarity 0.5–0.8 against the CPU result in tests), and a new key length
+  every step made the process grow past 100 GB on a six-minute song. With the change a 6:34 song
+  peaks at 21 GB.
+
+After editing `src/`, reinstall with `uv pip install --python .venv/bin/python --reinstall-package yue2-infer .`
 and refresh the patch with `git -C YuE diff > patches/yue2-mps.patch`.
 
 Model weights download from Hugging Face on first run, into the Hugging Face cache.

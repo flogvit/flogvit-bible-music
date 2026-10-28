@@ -41,6 +41,20 @@ After editing anything under `YuE/`, reinstall with
 `uv pip install --python .venv/bin/python --reinstall-package yue2-infer .` and refresh the patch with
 `git -C YuE diff > patches/yue2-mps.patch`.
 
+### Songs made with torch 2.10
+
+Everything generated before 2026-10-28 16:20 ran on torch 2.10 and has the attention error described above,
+including the audio behind the sheets in `sheets/`. Audio is not in the repo, so on a new machine generate the
+whole catalog once and rebuild the sheets from it:
+
+```bash
+bun scripts/build-batch.ts YuE/requests/catalog.jsonl
+cd YuE
+.venv/bin/yue2 batch --input requests/catalog.jsonl --output outputs/catalog --config ../configs/long-12000.json --resume
+cd ..
+taskpolicy -b .venv-sheets/bin/python scripts/song-sheets.py YuE/outputs/catalog/*/
+```
+
 ### Memory
 
 A 6:53 song (Psalm 104 with `configs/long-12000.json`) peaked at 12 GB for the whole run, so a 64 GB Mac has
@@ -72,7 +86,9 @@ cd YuE
 
 Each song lands in `YuE/outputs/<batch>/<id>/audio.flac` with its score (`score.abc`).
 `--resume` skips songs that are already finished, so an interrupted batch continues where it stopped.
-On an M5 Max a 6:53 song took 12 minutes from request to audio.
+On an M5 Max a 6:53 song took 12 minutes from request to audio. The GPU sits at 70–90% while the song's audio
+tokens are generated (one token at a time, with a round-trip to the CPU for each) and at 100% during the audio
+synthesis that follows; both are normal.
 
 YuE2 stops a song at 9,000 audio tokens, about 6 minutes, and marks it `"semantic": true` under `truncated` in
 `result.json`. For longer texts (whole long psalms), add `--config ../configs/long-12000.json`, which raises the

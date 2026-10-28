@@ -1,0 +1,59 @@
+{
+  "id": "verse-6-1-9-rock",
+  "title": "Be Strong and Courageous",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 6,
+    "chapter": 1,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 6,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 6,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "tro",
+      "frykt",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "josva-utvelges-som-moses-etterfolger"
+    ],
+    "persons": [
+      "josva",
+      "moses",
+      "gud"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, anthemic Christian rock, strong gritty male vocal, distorted electric guitars, driving bass, big drums, gang vocals on the chorus, bold and determined, 128 BPM",
+    "lyrics": "[Verse]\nThe old man sleeps in Moab and the forty years are through\nThe servant of the LORD is gone, the people look to you\nThe Jordan's rolling wide ahead, the far bank out of sight\nAnd Joshua son of Nun stands listening at the river's side\n\n[Pre-Chorus]\nMoses my servant is dead\nNow get up and cross this Jordan\nAs I was with Moses, so I will be with you\nI will not fail you or forsake you\n\n[Chorus]\nHave I not commanded you\nBe strong and courageous\nDo not be terrified or dismayed\nFor the LORD your God is with you wherever you go\n\n[Verse]\nKeep the law upon your lips and think on it by day and night\nNever turning from the road to the left hand or the right\nWhen the walls ahead are high and your knees begin to shake\nRemember who has spoken and the promise he won't break\n\n[Pre-Chorus]\nMoses my servant is dead\nNow get up and cross this Jordan\nAs I was with Moses, so I will be with you\nI will not fail you or forsake you\n\n[Chorus]\nHave I not commanded you\nBe strong and courageous\nDo not be terrified or dismayed\nFor the LORD your God is with you wherever you go\n\n[Bridge]\nEvery place where the sole of your foot treads I have given you\nNo one will be able to stand against you\nBe strong and very courageous\nBe strong and very courageous\n\n[Outro]\nThe LORD your God is with you wherever you go",
+    "cot": "full",
+    "seed": 20011
+  }
+}

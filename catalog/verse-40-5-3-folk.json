@@ -1,0 +1,56 @@
+{
+  "id": "verse-40-5-3-folk",
+  "title": "Blessed",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 3,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 3,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "bergprekenen",
+      "ydmykhet"
+    ],
+    "stories": [
+      "bergprekenen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Americana folk, male and female duet harmonies, acoustic guitar, banjo, mandolin, upright bass, light percussion, warm and hopeful, 98 BPM",
+    "lyrics": "[Verse]\nHe saw the crowds and climbed the mountain, sat down on the ground\nHis followers came close to him, the people gathered round\nHe looked upon the weary ones, the poor and the oppressed\nAnd he began to teach them, saying who is truly blessed\n\n[Chorus]\nBlessed are the poor in spirit, for theirs is the kingdom of heaven\nBlessed are those who mourn, for they will be comforted\nBlessed are the meek, for they will inherit the earth\n\n[Verse]\nThe widow at the graveside and the farmer in the drought\nThe ones who long for justice while the powerful shut them out\nThe ones who pardon freely and the hearts that hold no lie\nThe ones who build a bridge of peace where angry words go by\n\n[Chorus]\nBlessed are those who hunger and thirst for righteousness, for they will be filled\nBlessed are the merciful, for they will receive mercy\nBlessed are the pure in heart, for they will see God\nBlessed are the peacemakers, for they will be called sons of God\n\n[Bridge]\nBlessed are you when people insult you and persecute you\nRejoice and be glad, for your reward is great in heaven\n\n[Chorus]\nBlessed are the poor in spirit, for theirs is the kingdom of heaven\nBlessed are those who mourn, for they will be comforted\nBlessed are the meek, for they will inherit the earth\n\n[Outro]\nTheirs is the kingdom of heaven",
+    "cot": "full",
+    "seed": 20010
+  }
+}

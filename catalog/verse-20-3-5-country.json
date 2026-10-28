@@ -1,0 +1,54 @@
+{
+  "id": "verse-20-3-5-country",
+  "title": "Straight Paths",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 20,
+    "chapter": 3,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 20,
+      "chapter": 3,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 20,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "visdom",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "salomo"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, heartfelt acoustic country, warm female vocal with light twang, acoustic guitar, dobro, fiddle, upright bass, brushed drums, nostalgic and trusting, 92 BPM",
+    "lyrics": "[Verse]\nMama kept her Bible on the windowsill by the sink\nPages soft as flour sacks and underlined in pencil ink\nShe said, child, when the road forks and you don't know where to go\nThere's a word I want you holding more than anything you know\n\n[Chorus]\nTrust in the LORD with all your heart\nAnd do not lean on your own understanding\nIn all your ways acknowledge him\nAnd he will make your paths straight\n\n[Verse]\nI've been lost on county highways with a map across my knee\nSure that I was smart enough to find the way for me\nBut the roads I chose kept winding and the dust got in my eyes\nTill I pulled off on the shoulder and I let go of my pride\n\n[Chorus]\nTrust in the LORD with all your heart\nAnd do not lean on your own understanding\nIn all your ways acknowledge him\nAnd he will make your paths straight\n\n[Bridge]\nDo not be wise in your own eyes\nFear the LORD and turn away from evil\nBind them around your neck\nWrite them on the tablet of your heart\n\n[Chorus]\nTrust in the LORD with all your heart\nAnd do not lean on your own understanding\nIn all your ways acknowledge him\nAnd he will make your paths straight\n\n[Outro]\nHe will make your paths straight\nMama, I still hear you say",
+    "cot": "full",
+    "seed": 20008
+  }
+}

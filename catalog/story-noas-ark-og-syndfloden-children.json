@@ -1,0 +1,68 @@
+{
+  "id": "story-noas-ark-og-syndfloden-children",
+  "title": "Two by Two",
+  "kind": "story",
+  "anchor": {
+    "story": "noas-ark-og-syndfloden"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verseStart": 13,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verseStart": 6,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verseStart": 8,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "noas-ark-og-syndfloden",
+      "noahs-pakt-med-gud"
+    ],
+    "persons": [
+      "noa",
+      "noas-hustru",
+      "gud"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's sing-along, cheerful male lead vocal with kids choir, ukulele, xylophone, hand claps, tuba bass, playful percussion, bouncy and fun, 116 BPM",
+    "lyrics": "[Verse]\nNoah built a great big boat\nCypress wood and pitch to coat\nThree decks high, a door in the side\nGod said, Noah, come inside\n\n[Chorus]\nTwo by two, two by two\nBirds that fly and bugs that crawl\nTwo by two, two by two\nGod took care of one and all\nFlap your wings and stomp your feet\nTwo by two, two by two\n\n[Verse]\nDown came rain, the clouds were grey\nForty nights and forty days\nUp went the water, deep and wide\nNoah's family safe inside\n\n[Chorus]\nTwo by two, two by two\nBirds that fly and bugs that crawl\nTwo by two, two by two\nGod took care of one and all\nFlap your wings and stomp your feet\nTwo by two, two by two\n\n[Verse]\nNoah opened up the window wide\nSent a little dove outside\nBack she came with an olive leaf\nDry land coming, what a relief\n\n[Bridge]\nI have set my bow in the clouds\nRed and orange, yellow, green and blue\nNever again a flood, God said\nThat's a promise made to me and you\n\n[Chorus]\nTwo by two, two by two\nBirds that fly and bugs that crawl\nTwo by two, two by two\nGod took care of one and all\nFlap your wings and stomp your feet\nTwo by two, two by two\n\n[Outro]\nTwo by two, two by two\nGod took care of one and all",
+    "cot": "full",
+    "seed": 20014
+  }
+}

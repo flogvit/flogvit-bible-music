@@ -1,0 +1,64 @@
+{
+  "id": "theme-pinse-worship",
+  "title": "Wind and Fire",
+  "kind": "theme",
+  "anchor": {
+    "theme": "pinse"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 29,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 4,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "pinse",
+      "den-hellige-and",
+      "menigheten"
+    ],
+    "stories": [
+      "pinsedagen",
+      "joels-profeti-om-aanden"
+    ],
+    "persons": [
+      "den-hellige-and",
+      "peter",
+      "joel",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, energetic modern worship, bright female worship-leader vocal with choir, electric guitars, synth pads, driving drums, bass, rising and celebratory, 118 BPM",
+    "lyrics": "[Verse]\nThey were all together in one place when Pentecost had come\nWaiting for the promise as the Lord had told them, every one\nThen a sound came from heaven like a rushing, violent wind\nAnd tongues as of fire came down and rested on each of them\n\n[Chorus]\nI will pour out my Spirit on all flesh\nYour sons and your daughters will prophesy\nYour young men will see visions\nAnd your old men will dream dreams\n\n[Verse]\nFrom every nation under heaven came a crowd to hear the sound\nEach one heard them in his own language, and amazement spread around\nSome mocked them, full of new wine, but Peter stood up with the eleven\nAnd raised his voice to tell them of the promise sent from heaven\n\n[Pre-Chorus]\nThis is what was spoken through the prophet Joel\n\n[Chorus]\nI will pour out my Spirit on all flesh\nYour sons and your daughters will prophesy\nYour young men will see visions\nAnd your old men will dream dreams\n\n[Bridge]\nEveryone who calls on the name of the Lord will be saved\nEveryone who calls on the name of the Lord\nWill be saved\nCome, Holy Spirit, like wind and fire\n\n[Chorus]\nI will pour out my Spirit on all flesh\nYour sons and your daughters will prophesy\nYour young men will see visions\nAnd your old men will dream dreams\n\n[Outro]\nI will pour out my Spirit on all flesh",
+    "cot": "full",
+    "seed": 20025
+  }
+}

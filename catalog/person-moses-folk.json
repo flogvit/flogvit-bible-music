@@ -1,0 +1,90 @@
+{
+  "id": "person-moses-folk",
+  "title": "Let My People Go",
+  "kind": "person",
+  "anchor": {
+    "person": "moses"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 2,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 2,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 2,
+      "chapter": 19,
+      "verseStart": 16,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 2,
+      "chapter": 20,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 5,
+      "chapter": 34,
+      "verseStart": 1,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "moses",
+      "de-ti-bud",
+      "pakten"
+    ],
+    "stories": [
+      "moses-fodsel",
+      "den-brennende-busken",
+      "moses-og-farao",
+      "guds-forberedelse-til-givelsen-pa-sinai",
+      "de-ti-bud",
+      "moses-dod"
+    ],
+    "persons": [
+      "moses",
+      "aron",
+      "miriam",
+      "faraos-datter",
+      "jetro-reuel",
+      "farao-exodus",
+      "gud"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional storytelling folk, weathered male vocal, acoustic guitar, harmonica, upright bass, fiddle, frame drum, earnest and epic, 90 BPM",
+    "lyrics": "[Verse]\nHis mother hid him three months long till she could hide no more\nShe laid him in a papyrus basket by the Nile's reedy shore\nHis sister watched from a distance as Pharaoh's daughter came\nI drew him out of the water, and Moses was his name\n\n[Verse]\nHe kept the flock of Jethro, and at Horeb's mountain height\nHe saw a bush that burned but was not consumed, a great sight\nGod called to him out of the bush, and he stood on holy ground\nThe LORD had seen his people's misery and heard their cry resound\n\n[Chorus]\nI AM WHO I AM\nI AM has sent me to you\nThis is what the LORD, the God of Israel, says\nLet my people go\n\n[Verse]\nOn Sinai there was thunder and the mountain shook with fire\nThe horn grew loud and louder as the smoke rose ever higher\nI am the LORD your God, who brought you out of the land of Egypt\nYou shall have no other gods before me\n\n[Chorus]\nI AM WHO I AM\nI AM has sent me to you\nThis is what the LORD, the God of Israel, says\nLet my people go\n\n[Verse]\nHe climbed Mount Nebo, Pisgah's top, and looked across the land\nFrom Gilead as far as Dan, down to the Negev sand\nI have let you see it with your own eyes\nBut you will not cross over into it\n\n[Outro]\nSo Moses, the servant of the LORD, died there in the land of Moab\nLet my people go",
+    "cot": "full",
+    "seed": 20019
+  }
+}

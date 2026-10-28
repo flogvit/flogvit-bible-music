@@ -1,0 +1,56 @@
+{
+  "id": "verse-23-40-31-worship",
+  "title": "Wings Like Eagles",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 40,
+    "verseStart": 31,
+    "verseEnd": 31
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 26,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "hap",
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "jesaja",
+      "gud"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary worship anthem, strong male worship-leader vocal, ambient electric guitar with delay, piano, synth pads, building drums, congregation-style backing vocals, soaring and hopeful, 72 BPM",
+    "lyrics": "[Verse]\nI have run until my strength gave way\nI have stumbled on the stony ground\nEven the young grow tired by the end of day\nAnd the strongest legs go falling down\n\n[Pre-Chorus]\nDo you not know? Have you not heard?\nThe LORD is the everlasting God\nThe Creator of the ends of the earth\nHe does not grow tired or weary\n\n[Chorus]\nBut those who hope in the LORD will renew their strength\nThey will rise on wings like eagles\nThey will run and not grow weary\nThey will walk and not be faint\n\n[Verse]\nI lift my eyes on high to see the stars\nHe brings them out and calls each one by name\nNot one is missing from the host he holds\nAnd the one who knows them knows my way the same\n\n[Pre-Chorus]\nDo you not know? Have you not heard?\nThe LORD is the everlasting God\nThe Creator of the ends of the earth\nHe does not grow tired or weary\n\n[Chorus]\nBut those who hope in the LORD will renew their strength\nThey will rise on wings like eagles\nThey will run and not grow weary\nThey will walk and not be faint\n\n[Bridge]\nHe gives strength to the weary\nAnd increases the power of the weak\nHe gives strength to the weary\nAnd increases the power of the weak\n\n[Outro]\nThey will rise on wings like eagles\nThey will run and not grow weary\nThey will walk and not be faint",
+    "cot": "full",
+    "seed": 20007
+  }
+}

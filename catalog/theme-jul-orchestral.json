@@ -1,0 +1,63 @@
+{
+  "id": "theme-jul-orchestral",
+  "title": "Prince of Peace",
+  "kind": "theme",
+  "anchor": {
+    "theme": "jul"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "jesu-fodsel"
+    ],
+    "persons": [
+      "jesus",
+      "jesaja",
+      "gud"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, festive orchestral Christmas anthem, mixed choir with children's choir descant, full orchestra, French horns, tubular bells, timpani, harp, glowing and majestic, 76 BPM",
+    "lyrics": "[Verse]\nThe prophets watched through ages for the one the LORD would send\nA king to reign on David's throne whose peace would have no end\nThen in the fields of Bethlehem the shepherds kept the night\nAnd the glory of the Lord shone round them, a great and holy light\n\n[Pre-Chorus]\nThe people who walked in darkness have seen a great light\nOn those who lived in a land of deep shadow, light has dawned\n\n[Chorus]\nFor to us a child is born, to us a son is given\nAnd the government will rest on his shoulders\nAnd his name shall be called Wonderful Counselor, Mighty God\nEverlasting Father, Prince of Peace\n\n[Verse]\nHe came to what was his own, and his own did not receive\nBut to all who took him in, to all who would believe\nThe one through whom all things were made, the light of all mankind\nLay wrapped in cloths and in a manger, as the angel said they'd find\n\n[Chorus]\nFor to us a child is born, to us a son is given\nAnd the government will rest on his shoulders\nAnd his name shall be called Wonderful Counselor, Mighty God\nEverlasting Father, Prince of Peace\n\n[Bridge]\nAnd the Word became flesh and made his dwelling among us\nAnd we have seen his glory\nFull of grace and truth\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Outro]\nEverlasting Father, Prince of Peace\nGlory to God in the highest",
+    "cot": "full",
+    "seed": 20023
+  }
+}

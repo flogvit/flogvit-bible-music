@@ -1,0 +1,54 @@
+{
+  "id": "story-jesu-oppstandelse-gospel",
+  "title": "He Is Not Here",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-oppstandelse"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 28,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 43,
+      "chapter": 20,
+      "verseStart": 11,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "oppstandelsen"
+    ],
+    "stories": [
+      "jesu-oppstandelse"
+    ],
+    "persons": [
+      "jesus",
+      "maria-magdalena"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, joyful black gospel, powerful male lead vocal with full gospel choir call and response, Hammond organ, gospel piano, electric bass, drums, tambourine, hand claps, triumphant Easter morning, 104 BPM",
+    "lyrics": "[Verse]\nEarly on the first day at the breaking of the dawn\nThe women walked to see the tomb, their every hope was gone\nThen the earth began to tremble and the guards became like dead men\nAn angel rolled the stone away and sat upon it then\n\n[Pre-Chorus]\nDo not be afraid\nI know that you are looking for Jesus, who was crucified\n\n[Chorus]\nHe is not here\nHe has risen, just as he said\nCome and see the place where he lay\nHe is not here\nHe has risen from the dead\n\n[Verse]\nMary stood outside the tomb and wept for her lost Lord\nShe thought he was the gardener, till she heard a single word\nHe called her by her name, and Mary turned and knew his face\nRabboni, Teacher, there he stood alive in that same place\n\n[Pre-Chorus]\nDo not be afraid\nI know that you are looking for Jesus, who was crucified\n\n[Chorus]\nHe is not here\nHe has risen, just as he said\nCome and see the place where he lay\nHe is not here\nHe has risen from the dead\n\n[Bridge]\nI have seen the Lord\nI have seen the Lord\nGo and tell my brothers\nI have seen the Lord\nFilled with fear and great joy\nRan to tell his disciples\n\n[Outro]\nHe has risen, just as he said\nHe is not here\nHe has risen from the dead",
+    "cot": "full",
+    "seed": 20002
+  }
+}

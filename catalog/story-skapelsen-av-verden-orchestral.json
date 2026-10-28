@@ -1,0 +1,54 @@
+{
+  "id": "story-skapelsen-av-verden-orchestral",
+  "title": "And God Saw That It Was Good",
+  "kind": "story",
+  "anchor": {
+    "story": "skapelsen-av-verden"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "skapelsen"
+    ],
+    "stories": [
+      "skapelsen-av-verden"
+    ],
+    "persons": [
+      "gud",
+      "adam",
+      "eva"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, cinematic orchestral hymn, soprano lead with mixed choir, full string section, French horns, harp, timpani, celesta, majestic and full of wonder, 80 BPM",
+    "lyrics": "[Verse]\nIn the beginning God created the heavens and the earth\nThe earth was formless and empty\nDarkness lay over the face of the deep\nAnd the Spirit of God hovered over the face of the waters\n\n[Chorus]\nAnd God said, Let there be light, and there was light\nAnd God saw that it was good\nAnd there was evening, and there was morning\nAnd God saw that it was good\n\n[Verse]\nHe spread the vault among the waters and he named the heavens high\nHe gathered seas into one place, and the dry land met the sky\nThe land brought forth its green growth, every seed and fruit and tree\nHe set the lights to rule the day and night, and stars for all to see\n\n[Chorus]\nAnd God said, Let there be light, and there was light\nAnd God saw that it was good\nAnd there was evening, and there was morning\nAnd God saw that it was good\n\n[Verse]\nThe waters teemed with living creatures and the birds took to the air\nThe great sea creatures filled the deep, and life was everywhere\nThe livestock and the wild things and the creeping things that roam\nEach according to its kind, and the earth became their home\n\n[Bridge]\nSo God created man in his own image\nIn the image of God he created him\nMale and female he created them\nGod saw all that he had made, and behold, it was very good\n\n[Outro]\nOn the seventh day he rested from all the work he had done\nThen God blessed the seventh day and made it holy\nAnd God saw that it was good",
+    "cot": "full",
+    "seed": 20015
+  }
+}

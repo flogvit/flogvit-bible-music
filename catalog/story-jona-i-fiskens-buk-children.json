@@ -1,0 +1,64 @@
+{
+  "id": "story-jona-i-fiskens-buk-children",
+  "title": "Down in the Belly of the Fish",
+  "kind": "story",
+  "anchor": {
+    "story": "jona-i-fiskens-buk"
+  },
+  "references": [
+    {
+      "bookId": 32,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 32,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 32,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy",
+      "obedience"
+    ],
+    "themes": [
+      "bonn",
+      "frelsen",
+      "nade"
+    ],
+    "stories": [
+      "jona-i-fiskens-buk",
+      "jona-flykter-fra-gud",
+      "jona-i-ninive"
+    ],
+    "persons": [
+      "jona",
+      "gud"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's action song, bright female lead vocal with kids choir, acoustic guitar, glockenspiel, accordion, hand claps, bouncy bass, splashy fun percussion, playful sing-along, 120 BPM",
+    "lyrics": "[Verse]\nGod said, Jonah, go to Nineveh\nJonah ran the other way\nHopped aboard a ship to Tarshish\nSailing far, far away\n\n[Verse]\nWhoosh went the wind and splash went the waves\nThe ship began to creak and shake\nThe sailors cried, but Jonah slept\nDown below, not yet awake\n\n[Verse]\nOver the side went Jonah, splash\nAnd the stormy sea grew calm\nThen along came a great big fish\nAnd gulp, it swallowed Jonah down\n\n[Chorus]\nDown, down in the belly of the fish\nThree days and three nights\nJonah called to God from way down deep\nAnd God heard him, God heard him\nClap your hands, God heard him\n\n[Bridge]\nIn my distress I called to the LORD, and he answered me\nSalvation belongs to the LORD\nSplash, the fish spat Jonah out\nOnto dry land\n\n[Verse]\nThen God spoke to Jonah a second time\nGet up, go to Nineveh\nThis time Jonah got right up\nAnd off he went to Nineveh\n\n[Chorus]\nDown, down in the belly of the fish\nThree days and three nights\nJonah called to God from way down deep\nAnd God heard him, God heard him\nClap your hands, God heard him\n\n[Outro]\nA second time, a second chance\nGod heard him, God heard him",
+    "cot": "full",
+    "seed": 20018
+  }
+}

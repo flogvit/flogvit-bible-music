@@ -1,0 +1,63 @@
+{
+  "id": "person-paulus-rock",
+  "title": "I Have Fought the Good Fight",
+  "kind": "person",
+  "anchor": {
+    "person": "paulus"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 44,
+      "chapter": 27,
+      "verseStart": 20,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 55,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "paulus",
+      "tro"
+    ],
+    "stories": [
+      "saulus-omvendelse",
+      "skipbruddet-pa-vei-til-rom",
+      "paulus-andre-brev-til-timoteus"
+    ],
+    "persons": [
+      "paulus",
+      "jesus",
+      "ananias-damascus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, driving blues rock, raspy powerful male vocal, overdriven electric guitars, Hammond organ, bass, hard-hitting drums, defiant and triumphant, 120 BPM",
+    "lyrics": "[Verse]\nWith the high priest's letters and a fire in my veins\nI set out for Damascus to bring the Way in chains\nThen a light from heaven flashed around me on the road\nI fell down to the ground and heard a voice that spoke\n\n[Pre-Chorus]\nSaul, Saul, why are you persecuting me\nWho are you, Lord\nI am Jesus, whom you are persecuting\n\n[Verse]\nThree days I sat in darkness and I would not eat or drink\nTill a brother laid his hands on me and pulled me from the brink\nThen something like scales fell from my eyes and I could see again\nI got up and was baptized and was sent to carry his name\n\n[Chorus]\nI have fought the good fight\nI have finished the race\nI have kept the faith\nI have kept the faith\n\n[Verse]\nNo sun or stars for many days, the storm kept raging on\nAnd all our hope of being saved was finally gone\nThen an angel stood beside me and said, Do not be afraid, Paul\nThe stern broke in the pounding surf, but not one life was lost at all\n\n[Chorus]\nI have fought the good fight\nI have finished the race\nI have kept the faith\nI have kept the faith\n\n[Bridge]\nI am already being poured out like a drink offering\nThe time of my departure has come\nThere is reserved for me the crown of righteousness\n\n[Chorus]\nI have fought the good fight\nI have finished the race\nI have kept the faith\n\n[Outro]\nI have kept the faith",
+    "cot": "full",
+    "seed": 20022
+  }
+}

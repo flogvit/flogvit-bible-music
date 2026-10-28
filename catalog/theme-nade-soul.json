@@ -1,0 +1,58 @@
+{
+  "id": "theme-nade-soul",
+  "title": "Not From Works",
+  "kind": "theme",
+  "anchor": {
+    "theme": "nade"
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 2,
+      "verseStart": 4,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 47,
+      "chapter": 12,
+      "verseStart": 7,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "nade",
+      "frelsen",
+      "lidelse"
+    ],
+    "stories": [
+      "guds-nade-gjor-de-dode-levende",
+      "paulus-torn-i-kjodet"
+    ],
+    "persons": [
+      "paulus",
+      "jesus",
+      "gud"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow neo-soul ballad, male and female duet, Rhodes electric piano, warm strings, soft bass, brushed drums, gentle gospel backing vocals, intimate and grateful, 72 BPM",
+    "lyrics": "[Verse]\nI kept a ledger in my head of every wrong and right\nCounting up my better days and lying awake at night\nThought that I could earn a place if I just tried some more\nPay a debt I couldn't pay and knock on heaven's door\n\n[Verse]\nBut God, who is rich in mercy, found me dead in all my sin\nBecause of the great love he had, he made me live again\nHe made me alive together with Christ, though I had nothing to bring\nAnd raised me up and seated me with him beside the King\n\n[Chorus]\nBy grace you have been saved through faith\nAnd this is not from yourselves\nIt is the gift of God\nNot from works, so that no one may boast\n\n[Verse]\nThere's a thorn I've carried and I begged him, take it away\nThree times I pleaded with the Lord, three times I knelt to pray\nBut he did not remove it, and he gave a better word\nThe truest answer to a prayer that I have ever heard\n\n[Bridge]\nMy grace is enough for you\nFor my power is brought to its fullness in weakness\nWhen I am weak, then I am strong\n\n[Chorus]\nBy grace you have been saved through faith\nAnd this is not from yourselves\nIt is the gift of God\nNot from works, so that no one may boast\n\n[Outro]\nIt is the gift of God\nGrace, only grace",
+    "cot": "full",
+    "seed": 20024
+  }
+}

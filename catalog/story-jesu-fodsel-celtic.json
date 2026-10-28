@@ -1,0 +1,52 @@
+{
+  "id": "story-jesu-fodsel-celtic",
+  "title": "Glory in the Highest",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-fodsel"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "jesu-fodsel"
+    ],
+    "persons": [
+      "jesus",
+      "maria-jesu-mor",
+      "josef-nt",
+      "augustus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic Christmas carol, clear warm female vocal with soft harmonies, Celtic harp, tin whistle, fiddle, bodhran, acoustic guitar, joyful and luminous, 92 BPM",
+    "lyrics": "[Verse]\nA decree went out from Caesar that the whole world be enrolled\nSo Joseph walked with Mary down to David's town of old\nAnd there in Bethlehem the time had come for her to bear\nShe laid him in a manger, for no room was waiting there\n\n[Verse]\nOut in the fields nearby the shepherds watched their flock by night\nAn angel of the Lord appeared, the glory shining bright\nThey trembled on the hillside, they were terrified and still\nThen the angel spoke to them across the darkness of the hill\n\n[Chorus]\nDo not be afraid\nI bring you good news of great joy that is for all the people\nToday in the city of David a Savior has been born to you\nHe is Christ the Lord\n\n[Verse]\nSuddenly a host of heaven filled the sky with song\nLet's go to Bethlehem, they said, and hurried right along\nThey found Mary and Joseph and the baby where he lay\nThey told what they'd been told, and all were amazed that day\n\n[Bridge]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest\n\n[Chorus]\nDo not be afraid\nI bring you good news of great joy that is for all the people\nToday in the city of David a Savior has been born to you\nHe is Christ the Lord\n\n[Outro]\nBut Mary treasured up all these things\nAnd pondered them in her heart\nHe is Christ the Lord",
+    "cot": "full",
+    "seed": 20001
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "story-daniel-i-lovehulen-soul",
+  "title": "Three Times a Day",
+  "kind": "story",
+  "anchor": {
+    "story": "daniel-i-lovehulen"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "bonn",
+      "tro",
+      "frykt"
+    ],
+    "stories": [
+      "daniel-i-lovehulen"
+    ],
+    "persons": [
+      "daniel",
+      "dareios-mederen",
+      "gud"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep southern soul, smooth male soul vocal with backing singers, Rhodes electric piano, Hammond organ, horn section, warm bass, steady drums, steadfast and stirring, 84 BPM",
+    "lyrics": "[Verse]\nThey searched his life for something wrong, but not a fault was there to see\nSo they went to King Darius with a ban and a decree\nFor thirty days, no prayer to any god or man but you\nAnd the law of Medes and Persians says that no one can undo\n\n[Verse]\nWhen Daniel learned the ban was signed, he went home and climbed the stair\nTo the upper room with windows open toward Jerusalem in prayer\n\n[Chorus]\nThree times a day he got down on his knees\nGiving thanks to his God\nJust as he had always done\nThree times a day, three times a day\n\n[Verse]\nThey threw him in the lions' den, a stone was laid upon the door\nThe king sealed it with his signet ring, and he could do no more\nHe went back to his palace and he fasted through the night\nAnd sleep fled from him, till he ran to the den at first light\n\n[Verse]\nDaniel, servant of the living God, the king cried out in fear\nHas the God you serve continually been able to save you here\nAnd Daniel called, O king, live forever, no harm has come to me\nThey lifted him out of the den, and not a wound was there to see\n\n[Bridge]\nMy God sent his angel and shut the mouths of the lions\nHe rescues and he saves\nHe is the living God, enduring forever\n\n[Chorus]\nThree times a day he got down on his knees\nGiving thanks to his God\nJust as he had always done\nThree times a day, three times a day\n\n[Outro]\nJust as he had always done",
+    "cot": "full",
+    "seed": 20017
+  }
+}

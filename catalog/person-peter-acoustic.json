@@ -1,0 +1,72 @@
+{
+  "id": "person-peter-acoustic",
+  "title": "Do You Love Me",
+  "kind": "person",
+  "anchor": {
+    "person": "peter"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 40,
+      "chapter": 14,
+      "verseStart": 25,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 42,
+      "chapter": 22,
+      "verseStart": 54,
+      "verseEnd": 62
+    },
+    {
+      "bookId": 43,
+      "chapter": 21,
+      "verseStart": 15,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "peter",
+      "tilgivelse",
+      "tro"
+    ],
+    "stories": [
+      "den-store-fiskefangsten",
+      "jesus-gar-pa-vannet",
+      "peter-fornekter-jesus",
+      "peters-gjenoppreisning"
+    ],
+    "persons": [
+      "peter",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, intimate acoustic singer-songwriter, honest male vocal, fingerpicked acoustic guitar, soft cajon, cello, light harmonies, reflective and hopeful, 86 BPM",
+    "lyrics": "[Verse]\nAll night we fished on Gennesaret and the nets came up bare\nHe said put out into the deep and let them down from there\nSo full of fish the nets were tearing, both boats began to sink\nI fell down at his knees and I could hardly speak or think\n\n[Chorus]\nSimon son of John, do you love me\nYes, Lord\nYou know that I love you\nFeed my lambs\nTake care of my sheep\nFollow me, follow me\n\n[Verse]\nIn the fourth watch of the night we saw him walking on the sea\nI asked him, call me out to you, and Come, he said to me\nI walked on the water till I saw how strong the wind could be\nThen sinking down I cried, Lord, save me, and he reached his hand to me\n\n[Chorus]\nSimon son of John, do you love me\nYes, Lord\nYou know that I love you\nFeed my lambs\nTake care of my sheep\nFollow me, follow me\n\n[Verse]\nBy the fire in the courtyard a servant girl looked at my face\nI don't know him, I said, three times I fell from grace\nThe rooster crowed, the Lord turned round and looked straight at me\nAnd I went out into the night and wept so bitterly\n\n[Bridge]\nThree times I said I don't know him\nThree times he asked me, do you love me\nLord, you know everything\nYou know that I love you\n\n[Chorus]\nSimon son of John, do you love me\nYes, Lord\nYou know that I love you\nFeed my lambs\nTake care of my sheep\nFollow me, follow me\n\n[Outro]\nFollow me",
+    "cot": "full",
+    "seed": 20021
+  }
+}

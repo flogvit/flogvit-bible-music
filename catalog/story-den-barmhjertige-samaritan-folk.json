@@ -1,0 +1,45 @@
+{
+  "id": "story-den-barmhjertige-samaritan-folk",
+  "title": "Who Is My Neighbor",
+  "kind": "story",
+  "anchor": {
+    "story": "den-barmhjertige-samaritan"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 10,
+      "verseStart": 25,
+      "verseEnd": 37
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "mercy"
+    ],
+    "themes": [
+      "kjerlighet",
+      "lignelsene"
+    ],
+    "stories": [
+      "den-barmhjertige-samaritan"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, intimate acoustic folk, clear female vocal, fingerpicked acoustic guitar, fiddle, harmonica, upright bass, gentle storytelling, 88 BPM",
+    "lyrics": "[Verse]\nAn expert in the law stood up\nTo test him in the crowd\nTeacher, what must I do to live\nHe asked the question loud\nLove God with all your heart and soul\nYour neighbor as yourself\nBut who then is my neighbor, sir\nHe asked, to clear himself\n\n[Chorus]\nWho is my neighbor\nWho will stop along the road\nThe one who showed him mercy\nGo and do likewise\nGo and do likewise\n\n[Verse]\nA man went down to Jericho\nAnd robbers struck him down\nThey stripped him and they beat him there\nAnd left him on the ground\nA priest came by and saw him lie\nAnd passed the other side\nA Levite came and did the same\nAnd left him there to die\n\n[Verse]\nBut a Samaritan drew near\nAnd saw him where he lay\nAnd he was moved with compassion\nHe would not turn away\nHe bound his wounds with oil and wine\nHe set him on his own\nAnd brought him to an inn and stayed\nAnd did not leave him alone\n\n[Chorus]\nWho is my neighbor\nWho will stop along the road\nThe one who showed him mercy\nGo and do likewise\nGo and do likewise\n\n[Bridge]\nTake care of him\nAnd whatever more you spend\nI will repay you when I return\n\n[Outro]\nGo and do likewise",
+    "cot": "full",
+    "seed": 20013
+  }
+}

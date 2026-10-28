@@ -1,0 +1,55 @@
+{
+  "id": "story-korsfestelsen-ballad",
+  "title": "Father, Forgive Them",
+  "kind": "story",
+  "anchor": {
+    "story": "korsfestelsen"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 27,
+      "verseStart": 32,
+      "verseEnd": 56
+    },
+    {
+      "bookId": 42,
+      "chapter": 23,
+      "verseStart": 33,
+      "verseEnd": 46
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "korset",
+      "tilgivelse"
+    ],
+    "stories": [
+      "korsfestelsen"
+    ],
+    "persons": [
+      "jesus",
+      "simon-fra-kyrene",
+      "maria-magdalena"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn piano ballad, tender male vocal, piano, cello, string quartet, soft low choir in the final chorus, sorrowful and reverent, 66 BPM",
+    "lyrics": "[Verse]\nThey met a man from Cyrene as they led the Lord away\nAnd Simon bore the heavy cross up to the Skull that day\nThey crucified him there between two rebels, left and right\nAnd cast lots for his clothing in the open morning light\n\n[Chorus]\nFather, forgive them\nFor they do not know what they are doing\nFather, forgive them\nFor they do not know what they are doing\n\n[Verse]\nThe rulers sneered, the soldiers mocked, the passers shook their heads\nHe saved others, but he cannot save himself, they said\nOne criminal hurled insults from the cross there at his side\nBut the other said, this man has done nothing wrong, and cried\n\n[Bridge]\nJesus, remember me when you come into your kingdom\nTruly I tell you, today you will be with me in paradise\n\n[Verse]\nFrom the sixth hour to the ninth a darkness fell on all the land\nThe sun's light failed, and far away the watching women stand\nMy God, my God, why have you forsaken me, he cried\nAnd with a loud voice he called out once more before he died\n\n[Chorus]\nFather, into your hands I commit my spirit\nFather, into your hands I commit my spirit\n\n[Outro]\nThe curtain of the temple was torn in two\nTruly this was the Son of God\nFather, forgive them",
+    "cot": "full",
+    "seed": 20003
+  }
+}

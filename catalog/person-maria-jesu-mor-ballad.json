@@ -1,0 +1,74 @@
+{
+  "id": "person-maria-jesu-mor-ballad",
+  "title": "My Soul Magnifies the Lord",
+  "kind": "person",
+  "anchor": {
+    "person": "maria-jesu-mor"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 26,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 46,
+      "verseEnd": 55
+    },
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 6,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 43,
+      "chapter": 19,
+      "verseStart": 25,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "faith",
+      "mercy"
+    ],
+    "themes": [
+      "jul",
+      "ydmykhet",
+      "tro"
+    ],
+    "stories": [
+      "engelen-gabriel-besoker-maria",
+      "marias-lovsang",
+      "jesu-fodsel",
+      "korsfestelsen"
+    ],
+    "persons": [
+      "maria-jesu-mor",
+      "jesus",
+      "gabriel",
+      "johannes-apostel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, tender piano ballad, pure gentle female vocal, piano, cello, string ensemble, soft choir pads in the last chorus, reflective and adoring, 68 BPM",
+    "lyrics": "[Verse]\nIn Nazareth the angel came to a girl pledged to be wed\nGreetings, you who are favored, the Lord is with you, he said\nShe was troubled at his words, but he told her not to be afraid\nShe would bear the Son of the Most High, whose kingdom will not fade\n\n[Pre-Chorus]\nI am the Lord's servant\nMay it be to me according to your word\n\n[Chorus]\nMy soul magnifies the Lord\nAnd my spirit rejoices in God my Savior\nFor he has looked upon the humble state of his servant\nHoly is his name\n\n[Verse]\nIn Bethlehem she laid her son down in a manger bed\nThe shepherds came and told the word that the angel said\nMary treasured up all these things\nAnd pondered them in her heart\n\n[Chorus]\nMy soul magnifies the Lord\nAnd my spirit rejoices in God my Savior\nFor he has looked upon the humble state of his servant\nHoly is his name\n\n[Verse]\nYears later by the cross of Jesus, there his mother stood\nWith the disciple whom he loved, beneath the cruel wood\nWoman, here is your son\nHere is your mother\n\n[Bridge]\nHis mercy extends to those who fear him\nFrom generation to generation\nHe has brought down rulers from their thrones\nAnd lifted up the humble\n\n[Chorus]\nMy soul magnifies the Lord\nAnd my spirit rejoices in God my Savior\nFor he has looked upon the humble state of his servant\nHoly is his name\n\n[Outro]\nHoly is his name",
+    "cot": "full",
+    "seed": 20020
+  }
+}

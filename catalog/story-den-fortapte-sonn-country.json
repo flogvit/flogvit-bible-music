@@ -1,0 +1,48 @@
+{
+  "id": "story-den-fortapte-sonn-country",
+  "title": "A Long Way Off",
+  "kind": "story",
+  "anchor": {
+    "story": "den-fortapte-sonn"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 15,
+      "verseStart": 11,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "love"
+    ],
+    "themes": [
+      "tilgivelse",
+      "lignelsene",
+      "nade"
+    ],
+    "stories": [
+      "den-fortapte-sonn"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic storytelling country, deep warm male baritone vocal, acoustic guitar, pedal steel, fiddle, piano, slow shuffle drums, tender and redemptive, 76 BPM",
+    "lyrics": "[Verse]\nI was the younger son and I wanted it all now\nSaid, Father, give me my share, I'm through behind this plow\nHe divided up his property, I gathered everything\nAnd I left for a distant country where the money made me king\n\n[Verse]\nBut the money ran like water and the famine came to town\nI was feeding pigs for strangers with my head hung down\nI longed to eat the pods they ate, but no one gave me a crumb\nThen I came to myself and I thought of where I'd come from\n\n[Pre-Chorus]\nI will get up and go to my father\nI am no longer worthy to be called your son\nTreat me as one of your hired hands\n\n[Chorus]\nWhile I was still a long way off\nMy father saw me on the road\nHe ran to me and held me tight\nHe kissed me and he brought me home\nThis son of mine was dead and is alive again\nHe was lost and is found\n\n[Verse]\nMy brother heard the music as he came in from the field\nHe stood outside in anger and his heart would not yield\nSo our father came outside to him and pleaded with him there\nMy child, you're always with me, all I have is yours to share\n\n[Bridge]\nWe had to celebrate and rejoice\nBecause this brother of yours was dead and is alive\nHe was lost and is found\n\n[Chorus]\nWhile I was still a long way off\nMy father saw me on the road\nHe ran to me and held me tight\nHe kissed me and he brought me home\nThis son of mine was dead and is alive again\nHe was lost and is found",
+    "cot": "full",
+    "seed": 20012
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "verse-50-4-13-pop",
+  "title": "Through Him Who Gives Me Strength",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 50,
+    "chapter": 4,
+    "verseStart": 13,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 50,
+      "chapter": 4,
+      "verseStart": 10,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 50,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "paulus",
+      "glede"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, uplifting Christian pop, bright female vocal, piano, synth pads, electric guitar, punchy drums, bass, hopeful and confident, 100 BPM",
+    "lyrics": "[Verse]\nHe wrote a word of thanks to friends who'd sent him help again\nHe was writing from a prison, he was sitting there in chains\nHe had known the crowded table and he'd known the empty bowl\nBut whatever came, a quiet strength was rooted in his soul\n\n[Pre-Chorus]\nI have learned to be content whatever my circumstances\n\n[Chorus]\nI can do all things through him who gives me strength\nI can do all things\nThrough him who gives me strength\n\n[Verse]\nWhen the paycheck's gone too early and the rent is due again\nWhen the doctor's words are heavy and I cannot see the end\nWhen the house is full of laughter and the cupboards overflow\nIn every single season he's the only strength I know\n\n[Pre-Chorus]\nI have learned to be content whatever my circumstances\n\n[Chorus]\nI can do all things through him who gives me strength\nI can do all things\nThrough him who gives me strength\n\n[Bridge]\nI know what it is to have little\nAnd I know what it is to have plenty\nWhether well fed or hungry\nWhether living in abundance or in want\n\n[Chorus]\nI can do all things through him who gives me strength\nI can do all things\nThrough him who gives me strength\n\n[Outro]\nThrough him who gives me strength",
+    "cot": "full",
+    "seed": 20005
+  }
+}

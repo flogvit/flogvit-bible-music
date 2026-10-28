@@ -1,0 +1,49 @@
+{
+  "id": "verse-40-6-9-choral",
+  "title": "Our Father in Heaven",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 6,
+    "verseStart": 9,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 6,
+      "verseStart": 9,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "bergprekenen"
+    ],
+    "stories": [
+      "bergprekenen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, sacred choral anthem, mixed SATB choir, pipe organ, soft strings, cathedral reverb, reverent and prayerful, 60 BPM",
+    "lyrics": "[Verse]\nOur Father in heaven\nHallowed be your name\nYour kingdom come\nYour will be done\nOn earth as it is in heaven\n\n[Verse]\nGive us today our daily bread\nAnd forgive us our debts\nAs we also have forgiven our debtors\nAnd lead us not into temptation\nBut deliver us from evil\n\n[Chorus]\nOur Father in heaven\nHallowed be your name\nHallowed be your name\n\n[Verse]\nYour kingdom come\nYour will be done\nOn earth as it is in heaven\nGive us today our daily bread\nAnd forgive us our debts\nAs we also have forgiven our debtors\n\n[Chorus]\nOur Father in heaven\nHallowed be your name\nYour kingdom come\nYour will be done\nOn earth as it is in heaven\n\n[Outro]\nAnd lead us not into temptation\nBut deliver us from evil\nOur Father in heaven\nHallowed be your name",
+    "cot": "full",
+    "seed": 20004
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "verse-45-8-28-soul",
+  "title": "All Things for Good",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 28,
+    "verseEnd": 28
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "hap"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm classic soul, rich female vocal with backing singers, Rhodes electric piano, Hammond organ, horn section, bass, laid-back drums, soulful and reassuring, 78 BPM",
+    "lyrics": "[Verse]\nWhen the night is long and the morning's slow to come\nWhen the news is hard and my heart is going numb\nI can't see the whole design, I only hold a thread\nBut I'm standing on the word the apostle Paul once said\n\n[Chorus]\nAnd we know that in all things\nGod works for the good of those who love him\nWho are called according to his purpose\nIn all things, in all things\n\n[Verse]\nEvery closing door and every winding road\nEvery empty chair and every heavy load\nThe God who gave his Son for me will not forget me now\nSo I lay down every worry and I let my spirit bow\n\n[Chorus]\nAnd we know that in all things\nGod works for the good of those who love him\nWho are called according to his purpose\nIn all things, in all things\n\n[Bridge]\nIf God is for us, who can be against us\nWho will separate us from the love of Christ\nIn all these things we are more than conquerors\nThrough him who loved us\n\n[Chorus]\nAnd we know that in all things\nGod works for the good of those who love him\nWho are called according to his purpose\nIn all things, in all things\n\n[Outro]\nNeither death nor life\nNor anything else in all creation\nWill be able to separate us\nFrom the love of God that is in Christ Jesus our Lord",
+    "cot": "full",
+    "seed": 20006
+  }
+}

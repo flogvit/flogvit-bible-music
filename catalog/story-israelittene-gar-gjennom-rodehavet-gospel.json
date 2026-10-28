@@ -1,0 +1,58 @@
+{
+  "id": "story-israelittene-gar-gjennom-rodehavet-gospel",
+  "title": "Horse and Rider",
+  "kind": "story",
+  "anchor": {
+    "story": "israelittene-gar-gjennom-rodehavet"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 14,
+      "verseStart": 10,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 2,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel",
+      "spiritual"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "moses",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "israelittene-gar-gjennom-rodehavet",
+      "moses-sang-ved-havet"
+    ],
+    "persons": [
+      "moses",
+      "farao-exodus",
+      "gud"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional gospel spiritual, soaring female lead vocal with gospel choir, gospel piano, Hammond organ, tambourine, hand claps, stomping drums, bass, jubilant and rousing, 112 BPM",
+    "lyrics": "[Verse]\nPharaoh's chariots behind us and the sea before our face\nIsrael cried out to the LORD, there was no hiding place\nWas it for want of graves in Egypt that you brought us here to die\nBut Moses answered all the people with his staff held high\n\n[Pre-Chorus]\nDo not be afraid\nStand firm and see the deliverance the LORD will bring you today\nThe LORD will fight for you\nYou need only be still\n\n[Verse]\nMoses stretched his hand out and the east wind blew all night\nThe waters were divided and the pillar gave them light\nThey walked through on dry ground with a wall on either hand\nAnd when the morning came they were standing on the farther sand\n\n[Chorus]\nI will sing to the LORD, for he is highly exalted\nHorse and rider he hurled into the sea\nThe LORD is my strength and my song\nHe has become my salvation\n\n[Bridge]\nThrough the sea on dry ground\nThrough the sea on dry ground\nWith a wall of water on their right and on their left\nHe is my God, and I will praise him\nThe God of my father, and I will exalt him\n\n[Chorus]\nI will sing to the LORD, for he is highly exalted\nHorse and rider he hurled into the sea\nThe LORD is my strength and my song\nHe has become my salvation\n\n[Outro]\nHorse and rider he hurled into the sea\nThe LORD is my strength and my song",
+    "cot": "full",
+    "seed": 20016
+  }
+}

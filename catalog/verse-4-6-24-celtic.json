@@ -1,0 +1,60 @@
+{
+  "id": "verse-4-6-24-celtic",
+  "title": "The LORD Bless You and Keep You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 4,
+    "chapter": 6,
+    "verseStart": 24,
+    "verseEnd": 26
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 6,
+      "verseStart": 24,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 4,
+      "chapter": 6,
+      "verseStart": 22,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "den-prestelige-velsignelsen"
+    ],
+    "persons": [
+      "aron",
+      "moses",
+      "gud"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic benediction hymn, gentle male and female duet, Celtic harp, low whistle, uilleann pipes, soft strings, frame drum, peaceful and blessing, 66 BPM",
+    "lyrics": "[Verse]\nThe LORD bless you and keep you\nThe LORD make his face shine on you\nAnd be gracious to you\nThe LORD look upon you with favor\nAnd give you peace\n\n[Chorus]\nThe LORD bless you and keep you\nThe LORD bless you and keep you\nAnd give you peace\n\n[Verse]\nThe LORD bless you and keep you\nThe LORD make his face shine on you\nAnd be gracious to you\nThe LORD look upon you with favor\nAnd give you peace\n\n[Bridge]\nSo they will put my name on the Israelites\nAnd I will bless them\nAnd I will bless them\n\n[Chorus]\nThe LORD bless you and keep you\nThe LORD bless you and keep you\nAnd give you peace\n\n[Outro]\nThe LORD make his face shine on you\nAnd be gracious to you\nThe LORD look upon you with favor\nAnd give you peace",
+    "cot": "full",
+    "seed": 20009
+  }
+}

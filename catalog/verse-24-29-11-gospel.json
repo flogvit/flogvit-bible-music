@@ -1,0 +1,56 @@
+{
+  "id": "verse-24-29-11-gospel",
+  "title": "A Future and a Hope",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 24,
+    "chapter": 29,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 29,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 19,
+      "chapter": 137,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel",
+      "soul",
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "hap",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "jeremia"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel soul ballad, warm deep male lead vocal, gospel choir answering, piano, Hammond organ swells, soft bass and drums, hopeful and tender, building to a powerful final chorus, 68 BPM",
+    "lyrics": "[Verse]\nFar from home by a foreign river\nHung my harp on the willow tree\nEvery road I knew was broken\nEvery dream was lost to me\nThen a letter came one dusty morning\nBuild your house and plant the vine\nSeek the peace of the city you live in\nI have not forgotten mine\n\n[Chorus]\nI hold the thoughts I think of you\nThoughts of peace and not of harm\nA future and a hope, my child\nHeld forever in my arms\n\n[Verse]\nSeventy years is a long time waiting\nChildren grow and the old ones sigh\nBut the One who counts the sparrows\nWrites tomorrow in the sky\n\n[Chorus]\nI hold the thoughts I think of you\nThoughts of peace and not of harm\nA future and a hope, my child\nHeld forever in my arms\n\n[Bridge]\nWhen you seek me, you will find me\nWhen you search with all your heart\nI will bring you home again\nI will mend the broken parts\n\n[Chorus]\nI hold the thoughts I think of you\nThoughts of peace and not of harm\nA future and a hope, my child\nHeld forever in my arms\n\n[Outro]\nA future and a hope\nA future and a hope\nPeace and not harm\nA future and a hope",
+    "cot": "full",
+    "seed": 2911
+  }
+}

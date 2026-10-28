@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-3-16-gospel",
+  "title": "Everlasting Life",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 3,
+    "verseStart": 16,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verseStart": 16,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "kjv",
+  "request": {
+    "style": "English, gospel, powerful soulful female lead vocal, full gospel choir with call and response, Hammond B3 organ, gospel piano, electric bass, drums and hand claps, 12/8 feel, uplifting, building to a triumphant final chorus, 76 BPM",
+    "lyrics": "[Verse]\nI was wandering in the valley, lost and low\nCarrying a burden that I couldn't let go\nThen I heard a promise from an old worn page\nWords that broke the chains and opened up the cage\n\n[Chorus]\nFor God so loved the world\nThat He gave His only begotten Son\nThat whosoever believeth in Him\nShould not perish, but have everlasting life\n\n[Verse]\nMama sang it softly when the night was long\nGrandpa hummed it working, made the weary strong\nNot a single soul is standing out of reach\nLove so wide and deep that only grace can teach\n\n[Chorus]\nFor God so loved the world\nThat He gave His only begotten Son\nThat whosoever believeth in Him\nShould not perish, but have everlasting life\n\n[Bridge]\nWhosoever, that means you\nWhosoever, that means me\nWhosoever, lift your voice\nSing it out and be set free\n\n[Chorus]\nFor God so loved the world\nThat He gave His only begotten Son\nThat whosoever believeth in Him\nShould not perish, but have everlasting life\n\n[Outro]\nEverlasting life, everlasting life\nJohn three sixteen, everlasting life",
+    "cot": "full",
+    "seed": 316
+  }
+}

@@ -94,13 +94,3 @@ songs past ~6000 tokens, about 4 minutes, are killed by macOS when memory runs o
 and refresh the patch with `git -C YuE diff > patches/yue2-mps.patch`.
 
 Model weights download from Hugging Face on first run, into the Hugging Face cache.
-
-## Files that live in the YuE clone
-
-Some request files sit in `YuE/requests/` and are not in this repo:
-
-- `pilot.jsonl`: built from `catalog/` by `scripts/build-batch.ts`; rebuild it rather than copy it.
-- `john316-gospel.json` and `jeremiah2911-gospel.json`: single Bible songs written by hand before
-  the catalog existed. They belong here; move them into `catalog/` (with anchor and tags) to keep them.
-- `grensesnitt-*.json` and the melodies they use in `YuE/edits/*.abc` are unrelated to the Bible
-  songs and stay in the clone.

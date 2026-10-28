@@ -11,80 +11,17 @@ index fdb5d11..cfe00b7 100644
      ) as pipe:
          song = pipe(**request)
          song.save_artifacts(args.output)
-diff --git a/src/yue2/modeling_yue2.py b/src/yue2/modeling_yue2.py
-index 9e2b992..0f5481e 100644
---- a/src/yue2/modeling_yue2.py
-+++ b/src/yue2/modeling_yue2.py
-@@ -18,14 +18,12 @@ from transformers.modeling_outputs import CausalLMOutputWithPast
- 
- 
- def sdpa(query, key, value, *, attn_mask=None, is_causal=False):
--    """Use native grouped-query attention, including a portable MPS fallback."""
-+    """Use native grouped-query attention (MPS supports enable_gqa in the pinned torch 2.10).
-+
-+    A repeat_interleave fallback copied the whole growing K/V cache on every decode
-+    step, which made the MPS allocator retain tens of GiB on long songs.
-+    """
-     grouped = query.shape[1] != key.shape[1]
--    if grouped and query.device.type == "mps":
--        # PyTorch's MPS attention does not implement enable_gqa on every release.
--        groups = query.shape[1] // key.shape[1]
--        key = key.repeat_interleave(groups, dim=1)
--        value = value.repeat_interleave(groups, dim=1)
--        grouped = False
-     return F.scaled_dot_product_attention(
-         query, key, value, attn_mask=attn_mask, is_causal=is_causal,
-         enable_gqa=grouped,
-@@ -208,6 +206,9 @@ class Attention(nn.Module):
- 
-         if attention_mask is not None:
-             out = sdpa(q, k, v, attn_mask=attention_mask[..., :k.shape[2]])
-+        elif T == 1 and k.device.type == "mps" and isinstance(past_key_value, StaticKVCache):
-+            k, v, mask = past_key_value.bucketed(layer_idx, k.shape[2])
-+            out = sdpa(q, k, v, attn_mask=mask)
-         else:
-             out = sdpa(q, k, v, is_causal=(T > 1 and k.shape[2] == T))
-         return self.o_proj(out.transpose(1, 2).reshape(B, T, -1))
-@@ -354,6 +355,9 @@ class AudioPositionEmbedding(nn.Module):
- # ══════════════════════════════════════════════════════════════════════════════
- 
- 
-+MPS_KEY_BUCKET = 512
-+
-+
- class StaticKVCache:
-     """Bounded, append-only cache for the explicit single-request AR loop.
- 
-@@ -392,6 +396,17 @@ class StaticKVCache:
-             self._seen_tokens = end
-         return self.key_cache[layer_idx][:, :, :end], self.value_cache[layer_idx][:, :, :end]
- 
-+    def bucketed(self, layer_idx, length):
-+        """Return K/V padded to a multiple of MPS_KEY_BUCKET plus a mask of the used slots.
-+
-+        MPS retains memory for every distinct attention shape; a new key length per
-+        decode step grew the process past 100 GiB on a six-minute song.
-+        """
-+        padded = min(-(-length // MPS_KEY_BUCKET) * MPS_KEY_BUCKET, self.max_seq_len)
-+        keys, values = self.key_cache[layer_idx], self.value_cache[layer_idx]
-+        mask = (torch.arange(padded, device=keys.device) < length)[None, None, None]
-+        return keys[:, :, :padded], values[:, :, :padded], mask
-+
-     def reset(self):
-         self._seen_tokens = 0
- 
-diff --git a/src/yue2/nar.py b/src/yue2/nar.py
-index cb0bccc..f10627c 100644
---- a/src/yue2/nar.py
-+++ b/src/yue2/nar.py
-@@ -72,10 +72,6 @@ def attention(q, k, v, *, causal=False, backend="sdpa", query_chunk_size=None):
-     key = k.transpose(0, 1).unsqueeze(0)
-     value = v.transpose(0, 1).unsqueeze(0)
-     grouped = query.shape[1] != key.shape[1]
--    if grouped and q.device.type == "mps":
--        groups = query.shape[1] // key.shape[1]
--        key, value = key.repeat_interleave(groups, 1), value.repeat_interleave(groups, 1)
--        grouped = False
-     context = nullcontext()
-     if backend != "sdpa":
-         from torch.nn.attention import SDPBackend, sdpa_kernel
+diff --git a/pyproject.toml b/pyproject.toml
+index 513c0c4..2631d1b 100644
+--- a/pyproject.toml
++++ b/pyproject.toml
+@@ -11,7 +11,8 @@ requires-python = ">=3.10"
+ license = "Apache-2.0"
+ license-files = ["LICENSE", "MODEL_LICENSE", "THIRD_PARTY_NOTICES.md", "licenses/*.txt"]
+ dependencies = [
+-    "torch==2.10.0",
++    "torch==2.10.0; sys_platform != 'darwin'",
++    "torch==2.14.1; sys_platform == 'darwin'",
+     "transformers==4.57.6",
+     "huggingface-hub==0.36.2",
+     "safetensors==0.7.0",

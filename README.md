@@ -3,6 +3,49 @@
 Songs generated locally with [YuE2](https://github.com/multimodal-art-projection/YuE) (cloned in `YuE/`),
 each linked to a verse, chapter, story, theme or person on bible.flogvit.com.
 
+## Set up a new machine
+
+Needs an Apple Silicon Mac with macOS 14 or later, [uv](https://docs.astral.sh/uv/) and [bun](https://bun.sh)
+(`brew install uv oven-sh/bun/bun`). `YuE/` is not part of this repo (see `.gitignore`); it is the upstream
+YuE2 code at a fixed commit plus `patches/yue2-mps.patch`.
+
+```bash
+git clone git@github.com:flogvit/flogvit-bible-music.git music
+cd music
+git clone https://github.com/multimodal-art-projection/YuE.git YuE
+cd YuE
+git checkout 1647252
+git apply ../patches/yue2-mps.patch
+uv venv --python 3.12 .venv
+uv pip install --python .venv/bin/python .
+.venv/bin/yue2 doctor
+```
+
+`doctor` should print `"torch": "2.14.1"` and `"mps_available": true`. If it says torch 2.10.0, the patch was
+not applied: see below for why that matters.
+
+The first generation downloads the model weights (YuE2-3B 6.8 GB, YuE2-Vae 0.5 GB) into the Hugging Face cache
+(`~/.cache/huggingface`). No Hugging Face account is needed.
+
+### What the patch changes
+
+- `pyproject.toml` installs **torch 2.14.1 on macOS** (upstream pins 2.10.0 for everyone). torch 2.10's Apple GPU
+  attention writes past its scratch buffers once the KV cache holds 1,024 keys (upstream issue #268): the
+  output is wrong (cosine similarity 0.5–0.8 against the CPU result in our tests), the same seed gives different
+  songs, and memory grows with every new cache length until macOS kills the process (past 100 GB on a
+  six-minute song). torch 2.14.1 fixes all three without code changes, and the audio synthesis step runs about
+  4× faster (84 s instead of 319 s for a 3:33 song). Other platforms keep 2.10.0.
+- `examples/generate.py` uses `device="auto"` instead of `"cuda"`.
+
+After editing anything under `YuE/`, reinstall with
+`uv pip install --python .venv/bin/python --reinstall-package yue2-infer .` and refresh the patch with
+`git -C YuE diff > patches/yue2-mps.patch`.
+
+### Memory
+
+A 6:53 song (Psalm 104 with `configs/long-12000.json`) peaked at 12 GB for the whole run, so a 64 GB Mac has
+room to spare. Generation runs one song at a time; `yue2 batch` loads the model once for the whole batch.
+
 ## Catalog
 
 One file per song in `catalog/<id>.json`:
@@ -29,7 +72,11 @@ cd YuE
 
 Each song lands in `YuE/outputs/<batch>/<id>/audio.flac` with its score (`score.abc`).
 `--resume` skips songs that are already finished, so an interrupted batch continues where it stopped.
-A song takes 6–12 minutes on the M5 Max (Apple GPU).
+On an M5 Max a 6:53 song took 12 minutes from request to audio.
+
+YuE2 stops a song at 9,000 audio tokens, about 6 minutes, and marks it `"semantic": true` under `truncated` in
+`result.json`. For longer texts (whole long psalms), add `--config ../configs/long-12000.json`, which raises the
+cap to 12,000 tokens (about 8 minutes); the model's context leaves room for that.
 
 ## Sheet music
 
@@ -73,33 +120,3 @@ uv pip install --python .venv-sheets/bin/python faster-whisper weasyprint pyphen
 WeasyPrint draws the chord sheet with Pango from Homebrew (`cairo` and `pango` formulae); the script points
 macOS at `/opt/homebrew/lib` itself. The Whisper model (about 3 GB) downloads to the Hugging Face cache on
 the first run.
-
-## YuE2 setup
-
-`YuE/` is not part of this repo (see `.gitignore`). On a new machine, from the repo root:
-
-```bash
-git clone https://github.com/multimodal-art-projection/YuE.git YuE
-cd YuE
-git checkout 1647252
-git apply ../patches/yue2-mps.patch
-uv venv --python 3.12 .venv
-uv pip install --python .venv/bin/python .
-```
-
-`patches/yue2-mps.patch` holds the local changes to upstream that make YuE2 correct and lean on
-Apple GPUs:
-
-- `examples/generate.py` uses `device="auto"` instead of `"cuda"`.
-- `src/yue2/modeling_yue2.py` and `src/yue2/nar.py` use native grouped-query attention instead of
-  copying K/V with `repeat_interleave` on MPS.
-- Each decode step attends over the KV cache padded to a multiple of 512 with a mask
-  (`StaticKVCache.bucketed`). On MPS, attention over a slice of the cache without a mask returns
-  wrong values (cosine similarity 0.5–0.8 against the CPU result in tests), and a new key length
-  every step made the process grow past 100 GB on a six-minute song. With the change a 6:34 song
-  peaks at 21 GB.
-
-After editing `src/`, reinstall with `uv pip install --python .venv/bin/python --reinstall-package yue2-infer .`
-and refresh the patch with `git -C YuE diff > patches/yue2-mps.patch`.
-
-Model weights download from Hugging Face on first run, into the Hugging Face cache.

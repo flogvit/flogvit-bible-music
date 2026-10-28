@@ -141,6 +141,14 @@ YuE writes in 2/4 are printed in 4/4 when the chords change every other bar.
 The first run of a song takes about 6 minutes (Whisper on the CPU, so the GPU stays free for YuE); a rerun with
 `whisper.json` in place takes seconds. `taskpolicy -b` keeps it from slowing down a YuE batch.
 
+When a song has been generated again, delete its old `whisper.json` and `alignment.json` first, or the new sheets
+are aligned to what Whisper heard in the old audio.
+
+On an M1 Max (two efficiency cores), run the sheets with `nice -n 20` instead of `taskpolicy -b` while a
+`taskpolicy -b` YuE batch is running. Both background jobs land on the same two efficiency cores: Whisper then
+takes 20 minutes per song and YuE drops from 7.5 to 2.5 tokens per second. With `nice -n 20`, Whisper runs on
+the idle performance cores in about 2 minutes and YuE keeps its speed.
+
 ### Setup
 
 ```bash

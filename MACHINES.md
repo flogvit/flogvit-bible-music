@@ -22,7 +22,7 @@ on Home Mac.
 | theme-tilgivelse-country | done 2026-10-28 19:42, 2:59, sheets in sheets/ |
 | story-david-og-goliat-children | done 2026-10-28 20:13, 2:04, sheets in sheets/ |
 | person-rut-celtic | done 2026-10-28 20:55, 3:24, sheets in sheets/ |
-| chapter-46-13-soul | taken |
+| chapter-46-13-soul | done 2026-10-28 21:42, 3:54, sheets in sheets/ |
 | chapter-19-23-worship | taken |
 | chapter-19-104-orchestral-folk | taken |
 | chapter-19-103-gospel | taken |

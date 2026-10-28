@@ -1,0 +1,72 @@
+{
+  "id": "person-ester-orchestral",
+  "title": "Such a Time as This",
+  "kind": "person",
+  "anchor": {
+    "person": "ester"
+  },
+  "references": [
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 17,
+      "chapter": 2,
+      "verseStart": 7,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 17,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 17,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frykt",
+      "bonn"
+    ],
+    "stories": [
+      "ester-blir-dronning",
+      "ester-redder-sitt-folk",
+      "mordekai-fremmes-og-esters-bon"
+    ],
+    "persons": [
+      "ester",
+      "mordekai",
+      "haman",
+      "ahasverus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, epic orchestral ballad, strong regal female vocal, full string orchestra, French horns, oud, frame drums, harp, timpani, building from intrigue to courage, 84 BPM",
+    "lyrics": "[Verse]\nAn orphan girl in Susa, raised by Mordecai's hand\nWas chosen for the palace, crowned a queen at the king's command\nBut Haman cast the lot and had the king's decree sent out\nTo wipe away the Jews in every province round about\n\n[Verse]\nMordecai sat at the gate in sackcloth and in tears\nHe sent his word to Esther and he would not spare her fears\nDo not imagine that you alone of all the Jews will escape\nBecause you are in the king's house\n\n[Chorus]\nIf you keep silent at a time like this\nRelief and deliverance will arise for the Jews from another place\nAnd who knows?\nPerhaps you have come to the throne\nFor just such a time as this\n\n[Bridge]\nGo, gather all the Jews in Susa and fast for me\nThen I will go to the king, even though it is against the law\nAnd if I perish, I perish\n\n[Verse]\nOn the third day in royal robes she stood before the throne\nThe whole court held its breath to see if she would stand alone\nThe king held out the golden scepter, she found favor in his eyes\nAnd on the gallows Haman built, the wicked Haman died\n\n[Chorus]\nIf you keep silent at a time like this\nRelief and deliverance will arise for the Jews from another place\nAnd who knows?\nPerhaps you have come to the throne\nFor just such a time as this\n\n[Outro]\nIf I perish, I perish\nFor just such a time as this",
+    "cot": "full",
+    "seed": 20049
+  }
+}

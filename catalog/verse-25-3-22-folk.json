@@ -1,0 +1,54 @@
+{
+  "id": "verse-25-3-22-folk",
+  "title": "New Every Morning",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 25,
+    "chapter": 3,
+    "verseStart": 22,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 25,
+      "chapter": 3,
+      "verseStart": 22,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 25,
+      "chapter": 3,
+      "verseStart": 19,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "hap",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Americana folk, clear honest female vocal, acoustic guitar, mandolin, fiddle, upright bass, gentle harmonies on the chorus, hopeful dawn feeling, 86 BPM",
+    "lyrics": "[Verse]\nThe city walls lay broken and the gates were black with flame\nI sat among the ashes and I could not speak his name\nI tasted only wormwood and I swallowed only gall\nMy soul remembered every wound and sank beneath it all\n\n[Pre-Chorus]\nYet this I call to mind\nAnd therefore I have hope\n\n[Chorus]\nThe LORD's acts of mercy never cease\nHis compassions never come to an end\nThey are new every morning\nGreat is your faithfulness\nThe LORD is my portion, says my soul\nTherefore I will hope in him\n\n[Verse]\nThe grey light finds the window and the dark begins to fade\nThe night that I was dreading is a night that he has made\nI did not earn the morning and I could not pay the cost\nBut mercy came to find me in the places I had lost\n\n[Pre-Chorus]\nYet this I call to mind\nAnd therefore I have hope\n\n[Chorus]\nThe LORD's acts of mercy never cease\nHis compassions never come to an end\nThey are new every morning\nGreat is your faithfulness\nThe LORD is my portion, says my soul\nTherefore I will hope in him\n\n[Bridge]\nThe LORD is good to those who wait for him\nTo the soul that seeks him\nIt is good to wait in silence\nFor the salvation of the LORD\n\n[Outro]\nThey are new every morning\nGreat is your faithfulness",
+    "cot": "full",
+    "seed": 20028
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "chapter-19-139-ballad",
+  "title": "Search Me and Know Me",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 139
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 139,
+      "verseStart": 1,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "love"
+    ],
+    "themes": [
+      "skapelsen",
+      "bonn",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, piano ballad, tender breathy female vocal, felt piano, warm strings, soft pads, slow build to a full final chorus, reflective and wondering, 68 BPM",
+    "lyrics": "[Verse]\nLORD, you have searched me and you know me\nYou know when I sit down and when I rise\nYou discern my thoughts from far away\nYou are familiar with all my ways\n\n[Chorus]\nSearch me, O God, and know my heart\nTest me and know my anxious thoughts\nSee if there is any offensive way in me\nAnd lead me in the way everlasting\n\n[Verse]\nI tried to run where the dark is deep\nWhere the sea runs out and the shadows sleep\nI rode the wings of the early dawn\nBut your hand was there as I travelled on\nEven the darkness is not dark to you\nThe night shines like the day\n\n[Chorus]\nSearch me, O God, and know my heart\nTest me and know my anxious thoughts\nSee if there is any offensive way in me\nAnd lead me in the way everlasting\n\n[Verse]\nBefore my mother knew my face\nYou knit me in a hidden place\nYou wove my frame where no eye could look\nAnd wrote my days into your book\nI praise you, for I am awesomely and wonderfully made\nYour works are wonderful; my soul knows it well\n\n[Bridge]\nHow precious to me are your thoughts, O God!\nHow vast is their number!\nIf I could count them, they would outnumber the grains of sand\nWhen I awake, I am still with you\n\n[Chorus]\nSearch me, O God, and know my heart\nTest me and know my anxious thoughts\nSee if there is any offensive way in me\nAnd lead me in the way everlasting\n\n[Outro]\nLead me in the way everlasting",
+    "cot": "full",
+    "seed": 20030
+  }
+}

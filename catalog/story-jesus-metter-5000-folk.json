@@ -1,0 +1,60 @@
+{
+  "id": "story-jesus-metter-5000-folk",
+  "title": "Five Loaves and Two Fish",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-metter-5000"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 6,
+      "verseStart": 5,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 40,
+      "chapter": 14,
+      "verseStart": 15,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 41,
+      "chapter": 6,
+      "verseStart": 41,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [
+      "jesus-metter-5000"
+    ],
+    "persons": [
+      "jesus",
+      "andreas",
+      "filip"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, storytelling folk, friendly baritone male vocal, acoustic guitar, banjo, fiddle, upright bass, foot-stomp percussion, warm and lively, 100 BPM",
+    "lyrics": "[Verse]\nThe day was long on the grassy hill, the sun was sinking low\nFive thousand hungry people and nowhere else to go\nSend them to the villages, the twelve said, let them go and buy their bread\nYou give them something to eat, the Master simply said\n\n[Verse]\nAndrew found a little boy with a basket at his side\nFive barley loaves and two small fish was all he could provide\nBut what is that among so many? Andrew asked aloud\nBring them here to me, said Jesus, and he looked out on the crowd\n\n[Chorus]\nFive loaves and two fish\nIn the Master's hands\nHe looked up to heaven, gave thanks and broke the bread\nAnd every one was fed\nThey all ate and were satisfied\nTwelve baskets left besides\n\n[Verse]\nHave the people sit, he said, there was plenty of green grass\nHe broke the bread and gave it out to every hand to pass\nFrom hand to hand it did not end, and no one could say how\nGather up the leftover pieces, so that nothing is wasted now\n\n[Bridge]\nWhat is that among so many?\nBring them here to me\nLittle in a boy's two hands\nWas plenty there for all to see\n\n[Chorus]\nFive loaves and two fish\nIn the Master's hands\nHe looked up to heaven, gave thanks and broke the bread\nAnd every one was fed\nThey all ate and were satisfied\nTwelve baskets left besides\n\n[Outro]\nFive loaves and two fish\nIn the Master's hands",
+    "cot": "full",
+    "seed": 20041
+  }
+}

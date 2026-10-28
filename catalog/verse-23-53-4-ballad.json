@@ -1,0 +1,59 @@
+{
+  "id": "verse-23-53-4-ballad",
+  "title": "By His Wounds",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 53,
+    "verseStart": 3,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 53,
+      "verseStart": 3,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 23,
+      "chapter": 53,
+      "verseStart": 1,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "korset",
+      "lidelse",
+      "frelsen",
+      "nade"
+    ],
+    "stories": [
+      "den-lidende-tjener"
+    ],
+    "persons": [
+      "jesaja",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn piano ballad, deep tender male vocal, piano, cello, sustained strings, sparse and reverent, swelling on the chorus, 64 BPM",
+    "lyrics": "[Verse]\nHe grew up like a tender shoot\nA root in thirsty ground\nNo beauty there to hold our eyes\nNo glory to be found\nHe was despised and rejected by men\nA man of sorrows, acquainted with grief\n\n[Chorus]\nBut he was pierced for our transgressions\nCrushed for our iniquities\nThe punishment that brought us peace was laid upon him\nAnd by his wounds we are healed\n\n[Verse]\nWe hid our faces when he passed\nWe thought that God had struck him down\nWe never knew the weight he bore\nWas ours and not his own\nYet it was our griefs he bore\nOur sorrows he carried\n\n[Chorus]\nBut he was pierced for our transgressions\nCrushed for our iniquities\nThe punishment that brought us peace was laid upon him\nAnd by his wounds we are healed\n\n[Bridge]\nAll of us have strayed like sheep\nEach one has turned to his own way\nAnd the LORD has laid on him\nThe iniquity of us all\nLike a lamb led to the slaughter\nHe did not open his mouth\n\n[Chorus]\nBut he was pierced for our transgressions\nCrushed for our iniquities\nThe punishment that brought us peace was laid upon him\nAnd by his wounds we are healed\n\n[Outro]\nBy his wounds we are healed",
+    "cot": "full",
+    "seed": 20033
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "verse-66-21-3-orchestral",
+  "title": "All Things New",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 21,
+    "verseStart": 1,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 21,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "endetiden",
+      "hap",
+      "lidelse"
+    ],
+    "stories": [
+      "den-nye-himmel-og-den-nye-jord"
+    ],
+    "persons": [
+      "johannes-apostel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, orchestral hymn, male and female duet with mixed choir, string orchestra, French horn, harp, celesta, timpani, from hushed grief to radiant hope, 70 BPM",
+    "lyrics": "[Verse]\nThen I saw a new heaven and a new earth\nThe first heaven and the first earth had passed away\nAnd the sea was no more\nI saw the holy city, the new Jerusalem\nComing down out of heaven from God\nPrepared as a bride adorned for her husband\n\n[Chorus]\nLook, God's dwelling is with humanity\nHe will dwell with them\nHe will wipe away every tear from their eyes\nDeath will be no more\nThere will be no more grief or crying or pain\nThe former things have passed away\n\n[Verse]\nWe stood beside the graveside with the flowers in our hands\nWe said goodbye in sorrow that our hearts could hardly stand\nBut a voice came from the throne across the valley of our grief\nAnd it spoke a word of comfort to the ones who still believe\n\n[Chorus]\nLook, God's dwelling is with humanity\nHe will dwell with them\nHe will wipe away every tear from their eyes\nDeath will be no more\nThere will be no more grief or crying or pain\nThe former things have passed away\n\n[Bridge]\nLook, I am making all things new\nThese words are trustworthy and true\nLook, I am making all things new\nThese words are trustworthy and true\n\n[Chorus]\nLook, God's dwelling is with humanity\nHe will dwell with them\nHe will wipe away every tear from their eyes\nDeath will be no more\nThere will be no more grief or crying or pain\nThe former things have passed away\n\n[Outro]\nHe will wipe away every tear\nDeath will be no more",
+    "cot": "full",
+    "seed": 20034
+  }
+}

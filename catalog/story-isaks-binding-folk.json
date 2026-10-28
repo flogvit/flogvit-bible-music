@@ -1,0 +1,50 @@
+{
+  "id": "story-isaks-binding-folk",
+  "title": "God Will Provide the Lamb",
+  "kind": "story",
+  "anchor": {
+    "story": "isaks-binding"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience",
+      "covenant"
+    ],
+    "themes": [
+      "abraham",
+      "tro",
+      "pakten"
+    ],
+    "stories": [
+      "isaks-binding"
+    ],
+    "persons": [
+      "abraham",
+      "isak"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, sparse modal folk, haunting low female vocal, open-tuned acoustic guitar, hammered dulcimer, cello drone, frame drum, solemn and searching, 84 BPM",
+    "lyrics": "[Verse]\nEarly in the morning Abraham got up before the light\nSaddled up the donkey, split the wood and tied it tight\nTook the boy he loved, his only son, and walked for three long days\nTill he saw the mountain rising in the distance through the haze\n\n[Verse]\nHe laid the wood on Isaac and he took the fire and knife\nAnd the boy looked up and asked him on the road toward the height\nHere are the fire and the wood\nBut where is the lamb for the burnt offering?\n\n[Chorus]\nGod himself will provide the lamb for the burnt offering, my son\nAnd the two of them walked on together\nOn the mountain of the LORD it will be provided\n\n[Verse]\nHe built an altar on the hill and laid the wood in place\nHe bound the boy and raised the knife with sorrow on his face\nAn angel of the LORD called out, Abraham, from the sky\nAnd there behind him in a thicket was a ram caught nearby\n\n[Bridge]\nHere I am\nDo not lay a hand on the boy\nNow I know that you fear God\nSince you have not withheld your son, your only son\n\n[Chorus]\nGod himself will provide the lamb for the burnt offering, my son\nAnd the two of them walked on together\nOn the mountain of the LORD it will be provided\n\n[Outro]\nThe LORD Will Provide\nThe LORD Will Provide",
+    "cot": "full",
+    "seed": 20047
+  }
+}

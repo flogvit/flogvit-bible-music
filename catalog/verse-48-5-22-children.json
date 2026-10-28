@@ -1,0 +1,52 @@
+{
+  "id": "verse-48-5-22-children",
+  "title": "Nine Little Fruits",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 48,
+    "chapter": 5,
+    "verseStart": 22,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 48,
+      "chapter": 5,
+      "verseStart": 22,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "glede",
+      "kjerlighet"
+    ],
+    "stories": [
+      "aandens-frukt"
+    ],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, bright children's choir, ukulele, glockenspiel, hand claps, shaker, bouncy bass, playful counting sing-along, 116 BPM",
+    "lyrics": "[Verse]\nLove says I will share my bread\nJoy goes jumping on ahead\nPeace sits quiet, calm and still\nPatience waits and always will\n\n[Chorus]\nThe fruit of the Spirit is love, joy, peace\nPatience, kindness, goodness, faithfulness\nGentleness, self-control\nAgainst such things there is no law\n\n[Verse]\nKindness helps a friend who falls\nGoodness does what is right for all\nFaithful keeps the words it said\nGentle tucks the lamb in bed\nSelf-control says stop and wait\nTake a breath and count to eight\n\n[Chorus]\nThe fruit of the Spirit is love, joy, peace\nPatience, kindness, goodness, faithfulness\nGentleness, self-control\nAgainst such things there is no law\n\n[Bridge]\nNine little fruits on the Spirit tree\nGrowing in you and growing in me\nOne, two, three, four, five, six, seven, eight, nine\nGrowing in you and growing in me\n\n[Chorus]\nThe fruit of the Spirit is love, joy, peace\nPatience, kindness, goodness, faithfulness\nGentleness, self-control\nAgainst such things there is no law\n\n[Outro]\nLove, joy, peace\nPatience, kindness, goodness, faithfulness\nGentleness, self-control",
+    "cot": "full",
+    "seed": 20035
+  }
+}

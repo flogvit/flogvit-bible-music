@@ -1,0 +1,46 @@
+{
+  "id": "verse-21-3-1-folk",
+  "title": "A Time for Everything",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 21,
+    "chapter": 3,
+    "verseStart": 1,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 21,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [],
+    "themes": [
+      "visdom"
+    ],
+    "stories": [
+      "forkynneren-om-livets-forgjengelighet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle folk duet, male and female voices trading lines and joining in harmony, acoustic guitars, banjo, upright bass, light percussion, steady and thoughtful, 96 BPM",
+    "lyrics": "[Chorus]\nFor everything there is a season\nA time for every matter under heaven\n\n[Verse]\nA time to be born and a time to die\nA time to plant and a time to uproot what is planted\nA time to kill and a time to heal\nA time to tear down and a time to build\n\n[Chorus]\nFor everything there is a season\nA time for every matter under heaven\n\n[Verse]\nA time to weep and a time to laugh\nA time to mourn and a time to dance\nA time to scatter stones and a time to gather them\nA time to embrace and a time to refrain from embracing\n\n[Chorus]\nFor everything there is a season\nA time for every matter under heaven\n\n[Verse]\nA time to seek and a time to lose\nA time to keep and a time to throw away\nA time to tear and a time to mend\nA time to be silent and a time to speak\n\n[Bridge]\nA time to love and a time to hate\nA time for war and a time for peace\n\n[Chorus]\nFor everything there is a season\nA time for every matter under heaven\n\n[Outro]\nA time for every matter under heaven",
+    "cot": "full",
+    "seed": 20038
+  }
+}

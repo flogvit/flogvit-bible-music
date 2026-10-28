@@ -1,0 +1,50 @@
+{
+  "id": "story-pinsedagen-gospel",
+  "title": "Poured Out on All Flesh",
+  "kind": "story",
+  "anchor": {
+    "story": "pinsedagen"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 41
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "pinse",
+      "den-hellige-and",
+      "menigheten",
+      "dapen"
+    ],
+    "stories": [
+      "pinsedagen"
+    ],
+    "persons": [
+      "peter",
+      "joel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, uptempo celebratory gospel, strong male lead vocal with mass choir, Hammond organ, piano, slap bass, drums, tambourine, hand claps, joyful and fiery, 120 BPM",
+    "lyrics": "[Verse]\nFifty days from Passover they gathered in one place\nA sound came down from heaven like a wind that filled the space\nTongues as of fire were dividing, one on every head\nThey were all filled with the Holy Spirit, speaking as the Spirit led\n\n[Chorus]\nI will pour out my Spirit on all flesh\nYour sons and your daughters will prophesy\nYour young men will see visions\nAnd your old men will dream dreams\nEveryone who calls on the name of the Lord will be saved\n\n[Verse]\nParthians and Medes and Elamites, from Egypt and from Rome\nEach heard the mighty works of God in the language of his home\nSome were amazed and others mocked, they are full of new wine\nThen Peter stood up with the eleven and he raised his voice on high\n\n[Bridge]\nThis Jesus God has raised up\nAnd of that we are all witnesses\nRepent and be baptized, every one of you\nAnd you will receive the gift of the Holy Spirit\nThe promise is for you and for your children\nAnd for all who are far off\n\n[Chorus]\nI will pour out my Spirit on all flesh\nYour sons and your daughters will prophesy\nYour young men will see visions\nAnd your old men will dream dreams\nEveryone who calls on the name of the Lord will be saved\n\n[Outro]\nAbout three thousand souls were added that day\nEveryone who calls on the name of the Lord will be saved",
+    "cot": "full",
+    "seed": 20045
+  }
+}

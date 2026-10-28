@@ -1,0 +1,58 @@
+{
+  "id": "story-josef-moter-brodrene-country",
+  "title": "God Intended It for Good",
+  "kind": "story",
+  "anchor": {
+    "story": "josef-moter-brodrene"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 45,
+      "verseStart": 1,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 1,
+      "chapter": 50,
+      "verseStart": 15,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "love"
+    ],
+    "themes": [
+      "josef",
+      "tilgivelse",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "josef-moter-brodrene",
+      "josefs-forsoning-med-brodrene"
+    ],
+    "persons": [
+      "josef-gt",
+      "benjamin",
+      "jakob-israel",
+      "juda"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, heartfelt country, male and female duet in close harmony, acoustic guitar, pedal steel, fiddle, piano, brushed drums, warm storytelling, 88 BPM",
+    "lyrics": "[Verse]\nThe famine came to Canaan and the fields were cracked and bare\nOld Jacob sent his sons to Egypt, there was grain for buying there\nThey bowed before the governor, they did not know his face\nThe brother that they sold away was standing in that place\n\n[Verse]\nHe could not hold it any longer, so he cleared the room\nAnd wept so loud that all of Pharaoh's household heard it too\nI am Joseph, your brother, whom you sold into Egypt\nCome closer to me\n\n[Chorus]\nYou intended evil against me\nBut God intended it for good\nTo accomplish what is now being done\nThe saving of many lives\nSo do not be afraid\nI will provide for you and your children\n\n[Bridge]\nDo not be distressed, and do not be angry with yourselves that you sold me here\nGod sent me ahead of you to preserve life\nIt was not you who sent me here, but God\n\n[Verse]\nThe years went by and Jacob died, the brothers shook with fear\nWhat if he holds a grudge against us, now our father is not here\nThey fell down at his feet and said, we are your slaves today\nBut Joseph wept and spoke to them, and kindly he would say\n\n[Chorus]\nYou intended evil against me\nBut God intended it for good\nTo accomplish what is now being done\nThe saving of many lives\nSo do not be afraid\nI will provide for you and your children\n\n[Outro]\nBut God intended it for good\nThe saving of many lives",
+    "cot": "full",
+    "seed": 20046
+  }
+}

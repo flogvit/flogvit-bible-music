@@ -1,0 +1,67 @@
+{
+  "id": "theme-oppstandelsen-worship",
+  "title": "Swallowed Up in Victory",
+  "kind": "theme",
+  "anchor": {
+    "theme": "oppstandelsen"
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 51,
+      "verseEnd": 57
+    },
+    {
+      "bookId": 40,
+      "chapter": 28,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 12,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "oppstandelsen",
+      "hap",
+      "endetiden"
+    ],
+    "stories": [
+      "jesu-oppstandelse",
+      "kroppens-forvandling-og-seieren-over-doden",
+      "oppstandelsens-logikk-adam-og-kristus"
+    ],
+    "persons": [
+      "jesus",
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary worship anthem, bright male worship leader with congregation choir, electric guitars with delay, piano, synth pads, bass, building drums, triumphant and joyful, 76 BPM",
+    "lyrics": "[Verse]\nThe women came at sunrise with their spices and their tears\nAn angel met them at the tomb and spoke against their fears\nHe is not here; he has risen, just as he said\nCome and see the place where he lay\n\n[Chorus]\nDeath has been swallowed up in victory\nWhere, O death, is your victory?\nWhere, O death, is your sting?\nThanks be to God, who gives us the victory\nThrough our Lord Jesus Christ\n\n[Verse]\nIf Christ had not been raised, our hope would be an empty word\nWe would still be in our sins, the saddest people on the earth\nBut in fact Christ has been raised from the dead\nThe firstfruits of those who have fallen asleep\n\n[Chorus]\nDeath has been swallowed up in victory\nWhere, O death, is your victory?\nWhere, O death, is your sting?\nThanks be to God, who gives us the victory\nThrough our Lord Jesus Christ\n\n[Bridge]\nIn an instant, in the blink of an eye, at the last trumpet\nThe trumpet will sound, and the dead will be raised imperishable\nAnd we will be changed\nAnd we will be changed\n\n[Chorus]\nDeath has been swallowed up in victory\nWhere, O death, is your victory?\nWhere, O death, is your sting?\nThanks be to God, who gives us the victory\nThrough our Lord Jesus Christ\n\n[Outro]\nHe is not here; he has risen\nThanks be to God",
+    "cot": "full",
+    "seed": 20050
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "verse-33-6-8-blues",
+  "title": "What the LORD Requires",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 33,
+    "chapter": 6,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 33,
+      "chapter": 6,
+      "verseStart": 8,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 33,
+      "chapter": 6,
+      "verseStart": 6,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "mercy",
+      "holiness"
+    ],
+    "themes": [
+      "ydmykhet",
+      "nade"
+    ],
+    "stories": [
+      "herrens-anklage-mot-israel"
+    ],
+    "persons": [
+      "mika"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow Delta blues, gravelly weathered male vocal, resonator slide guitar, harmonica, upright bass, brushed kick and snare, earnest and searching, 76 BPM",
+    "lyrics": "[Verse]\nWith what shall I come before the LORD, and bow down before God on high\nWith what shall I come before the LORD, and bow down before God on high\nShall I burn him a year-old calf and send the smoke up to the sky\n\n[Verse]\nWill the LORD be pleased with thousands of rams, with ten thousand rivers of oil\nWill the LORD be pleased with thousands of rams, with ten thousand rivers of oil\nShall I give my firstborn for my transgression, the fruit of my body for the sin of my soul\n\n[Chorus]\nHe has told you, O man, what is good\nAnd what the LORD requires of you\nOnly to do justice\nTo love mercy\nAnd to walk humbly with your God\n\n[Verse]\nI have seen the altar smoking while the widow's door was shut\nSeen a hand raised up in worship while the other filled its cup\nHe is not after cattle and he is not after show\nHe wants an honest heart and a humble road to go\n\n[Chorus]\nHe has told you, O man, what is good\nAnd what the LORD requires of you\nOnly to do justice\nTo love mercy\nAnd to walk humbly with your God\n\n[Outro]\nTo do justice, to love mercy, and to walk humbly with your God",
+    "cot": "full",
+    "seed": 20031
+  }
+}

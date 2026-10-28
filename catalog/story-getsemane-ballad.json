@@ -1,0 +1,58 @@
+{
+  "id": "story-getsemane-ballad",
+  "title": "Not My Will",
+  "kind": "story",
+  "anchor": {
+    "story": "getsemane"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 36,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 42,
+      "chapter": 22,
+      "verseStart": 42,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "korset",
+      "lidelse"
+    ],
+    "stories": [
+      "getsemane"
+    ],
+    "persons": [
+      "jesus",
+      "peter",
+      "jakob-sebedeus",
+      "johannes-apostel",
+      "judas-iskariot"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, dark acoustic ballad, aching intimate male vocal, nylon-string guitar, cello, low piano, distant choir pad, sorrowful and still, 62 BPM",
+    "lyrics": "[Verse]\nThey came out to the garden when the Passover was through\nThe olive trees were silver and the night was cold and blue\nHe took Peter and the brothers and he walked a little way\nThen he fell down on his face and he began to pray\n\n[Chorus]\nMy Father, if it is possible, let this cup pass from me\nYet not as I will, but as you will\nNot my will, but yours be done\n\n[Verse]\nHe came back to the others and he found them fast asleep\nTheir eyes were heavy with the night, too heavy now to keep\nSo you could not keep watch with me for even one hour?\nHe asked them in the garden while the night held all its power\n\n[Pre-Chorus]\nKeep watch and pray that you may not fall into temptation\nThe spirit is willing, but the flesh is weak\n\n[Chorus]\nMy Father, if it is possible, let this cup pass from me\nYet not as I will, but as you will\nNot my will, but yours be done\n\n[Verse]\nAn angel came from heaven and it strengthened him to stand\nHis sweat became like drops of blood that fell upon the land\nHe prayed a second time and then he prayed a third\nAnd every time he knelt to pray he prayed the same words\n\n[Bridge]\nMy Father, if this cannot pass unless I drink it\nYour will be done\nGet up, let us go\nLook, my betrayer is here\n\n[Chorus]\nMy Father, if it is possible, let this cup pass from me\nYet not as I will, but as you will\nNot my will, but yours be done\n\n[Outro]\nNot my will, but yours be done",
+    "cot": "full",
+    "seed": 20044
+  }
+}

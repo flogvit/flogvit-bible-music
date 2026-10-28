@@ -1,0 +1,63 @@
+{
+  "id": "verse-43-11-25-gospel",
+  "title": "I Am the Resurrection",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 11,
+    "verseStart": 25,
+    "verseEnd": 26
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 11,
+      "verseStart": 25,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 43,
+      "chapter": 11,
+      "verseStart": 17,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "oppstandelsen",
+      "tro",
+      "hap"
+    ],
+    "stories": [
+      "oppvekkelsen-av-lasarus"
+    ],
+    "persons": [
+      "jesus",
+      "marta",
+      "lasarus",
+      "maria-betania"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional gospel, powerful female lead vocal with gospel choir responses, Hammond organ, piano, bass, drums, slow swell to joyful release, 74 BPM",
+    "lyrics": "[Verse]\nFour days he lay in the Bethany tomb\nThe mourners wept in every room\nMartha ran out to meet him on the road\nCarrying a sorrow too heavy to hold\n\n[Pre-Chorus]\nLord, if you had been here, my brother would not have died\nYour brother will rise again\n\n[Chorus]\nI am the resurrection and the life\nWhoever believes in me will live, even though he dies\nEveryone who lives and believes in me will never die\nDo you believe this?\n\n[Verse]\nHe came up to the cave with the stone laid across\nAnd Jesus wept beside them as they grieved for their loss\nThen he lifted up his eyes and he thanked the Father there\nAnd his voice like thunder went ringing through the air\n\n[Bridge]\nLazarus, come out!\nUnbind him and let him go\nYes, Lord. I believe that you are the Christ\nThe Son of God\n\n[Chorus]\nI am the resurrection and the life\nWhoever believes in me will live, even though he dies\nEveryone who lives and believes in me will never die\nDo you believe this?\n\n[Outro]\nI am the resurrection and the life\nDo you believe this?\nYes, Lord",
+    "cot": "full",
+    "seed": 20032
+  }
+}

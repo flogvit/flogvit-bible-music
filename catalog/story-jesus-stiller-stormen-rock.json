@@ -1,0 +1,59 @@
+{
+  "id": "story-jesus-stiller-stormen-rock",
+  "title": "Even the Wind and the Sea",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-stiller-stormen"
+  },
+  "references": [
+    {
+      "bookId": 41,
+      "chapter": 4,
+      "verseStart": 35,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 40,
+      "chapter": 8,
+      "verseStart": 23,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 42,
+      "chapter": 8,
+      "verseStart": 22,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frykt",
+      "tro"
+    ],
+    "stories": [
+      "jesus-stiller-stormen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, hard-driving rock, powerful raspy male vocal, distorted guitars, thundering drums, growling bass, stormy verses breaking into a sudden quiet then a huge chorus, 138 BPM",
+    "lyrics": "[Verse]\nLet's cross over to the other side, he said when evening fell\nWe left the crowd along the shore and rode into the swell\nThe sky went black, the squall came down, the water filled the hull\nAnd Jesus in the stern was sleeping on a cushion through it all\n\n[Pre-Chorus]\nTeacher, don't you care that we're going to drown?\n\n[Chorus]\nHe got up and rebuked the wind\nQuiet! Be still!\nThe wind died down, and there was a great calm\nWho is this?\nEven the wind and the sea obey him!\n\n[Verse]\nWe bailed with buckets, bailed with hands, we shouted through the roar\nThe waves broke over every side, we could not see the shore\nWe fishermen who knew the lake were certain we would drown\nAnd still he slept there in the stern while the sea was crashing down\n\n[Pre-Chorus]\nTeacher, don't you care that we're going to drown?\n\n[Chorus]\nHe got up and rebuked the wind\nQuiet! Be still!\nThe wind died down, and there was a great calm\nWho is this?\nEven the wind and the sea obey him!\n\n[Bridge]\nWhy are you so afraid?\nDo you still have no faith?\nWhy are you so afraid?\nDo you still have no faith?\n\n[Chorus]\nHe got up and rebuked the wind\nQuiet! Be still!\nThe wind died down, and there was a great calm\nWho is this?\nEven the wind and the sea obey him!\n\n[Outro]\nWho is this?\nEven the wind and the sea obey him!",
+    "cot": "full",
+    "seed": 20040
+  }
+}

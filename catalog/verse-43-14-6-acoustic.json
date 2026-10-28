@@ -1,0 +1,56 @@
+{
+  "id": "verse-43-14-6-acoustic",
+  "title": "Many Rooms",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 1,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "frykt",
+      "hap"
+    ],
+    "stories": [
+      "johannes-veien-sannheten-og-livet"
+    ],
+    "persons": [
+      "jesus",
+      "tomas"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic singer-songwriter, warm unhurried male vocal, fingerpicked acoustic guitar, upright bass, soft brushed snare, light cello, intimate and reassuring, 78 BPM",
+    "lyrics": "[Verse]\nThe lamps were low in the upper room\nThe bread was broken, the night came soon\nHe told his friends that he had to go\nTheir faces fell and their hearts sank low\n\n[Chorus]\nDo not let your hearts be troubled\nTrust in God, and trust in me\nIn my Father's house there are many rooms\nI am the way and the truth and the life\n\n[Verse]\nI go ahead to make it ready there\nA place for you, prepared with care\nI will come back and take you to myself\nSo that where I am, you may be also\n\n[Chorus]\nDo not let your hearts be troubled\nTrust in God, and trust in me\nIn my Father's house there are many rooms\nI am the way and the truth and the life\n\n[Verse]\nThen Thomas spoke for all the rest\nWith a worried heart and an honest guess\nLord, we do not know where you are going\nHow can we know the way?\n\n[Bridge]\nI am the way and the truth and the life\nNo one comes to the Father except through me\n\n[Chorus]\nDo not let your hearts be troubled\nTrust in God, and trust in me\nIn my Father's house there are many rooms\nI am the way and the truth and the life\n\n[Outro]\nDo not let your hearts be troubled\nTrust in God, and trust in me",
+    "cot": "full",
+    "seed": 20026
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chapter-19-121-celtic",
+  "title": "I Lift My Eyes to the Mountains",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 121
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 121,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic pilgrim song, clear male tenor vocal, uilleann pipes, Celtic harp, fiddle, low whistle, bodhran, open and walking, 80 BPM",
+    "lyrics": "[Verse]\nI lift my eyes to the mountains\nWhere will my help come from?\nMy help comes from the LORD\nWho made heaven and earth\n\n[Chorus]\nMy help comes from the LORD\nWho made heaven and earth\n\n[Verse]\nHe will not let your foot slip\nHe who watches over you will not slumber\nSee, he who watches over Israel\nWill neither slumber nor sleep\n\n[Chorus]\nMy help comes from the LORD\nWho made heaven and earth\n\n[Verse]\nThe LORD watches over you\nThe LORD is your shade at your right side\nThe sun will not strike you by day\nNor the moon by night\n\n[Chorus]\nMy help comes from the LORD\nWho made heaven and earth\n\n[Bridge]\nThe LORD will keep you from all harm\nHe will watch over your life\nThe LORD will watch over your going out and your coming in\nNow and forevermore\n\n[Chorus]\nMy help comes from the LORD\nWho made heaven and earth\n\n[Outro]\nYour going out and your coming in\nNow and forevermore",
+    "cot": "full",
+    "seed": 20029
+  }
+}

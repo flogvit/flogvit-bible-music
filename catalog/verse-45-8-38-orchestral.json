@@ -1,0 +1,53 @@
+{
+  "id": "verse-45-8-38-orchestral",
+  "title": "Nothing in All Creation",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 35,
+    "verseEnd": 39
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 35,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "kjerlighet",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, cinematic orchestral anthem, soaring female soprano lead with full mixed choir, strings, French horns, timpani, harp, piano, rising from quiet to triumphant, 72 BPM",
+    "lyrics": "[Verse]\nWhen the road is hard and the night is long\nWhen the bread runs out and the strength is gone\nWhen the sword is drawn and the danger near\nThere is one question that rises over fear\n\n[Pre-Chorus]\nWho will separate us from the love of Christ?\n\n[Chorus]\nI am convinced that neither death nor life\nNeither angels nor rulers\nNeither the present nor the future, nor any powers\nNeither height nor depth\nNor anything else in all creation\nWill be able to separate us from the love of God\nThat is in Christ Jesus our Lord\n\n[Verse]\nHardship or distress or persecution\nFamine or nakedness or danger or the sword\nFor your sake we are being put to death all day long\nWe are regarded as sheep to be slaughtered\n\n[Pre-Chorus]\nWho will separate us from the love of Christ?\n\n[Chorus]\nI am convinced that neither death nor life\nNeither angels nor rulers\nNeither the present nor the future, nor any powers\nNeither height nor depth\nNor anything else in all creation\nWill be able to separate us from the love of God\nThat is in Christ Jesus our Lord\n\n[Bridge]\nNo, in all these things\nWe are more than conquerors\nThrough him who loved us\n\n[Outro]\nNothing can separate us\nFrom the love of God\nThat is in Christ Jesus our Lord",
+    "cot": "full",
+    "seed": 20027
+  }
+}

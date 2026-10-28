@@ -1,0 +1,51 @@
+{
+  "id": "story-sakkeus-children",
+  "title": "Zacchaeus, Hurry Down",
+  "kind": "story",
+  "anchor": {
+    "story": "sakkeus"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 19,
+      "verseStart": 1,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "frelsen",
+      "nade",
+      "tilgivelse",
+      "penger"
+    ],
+    "stories": [
+      "sakkeus"
+    ],
+    "persons": [
+      "sakkeus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, cheerful male lead vocal with kids choir answering, acoustic guitar, piano, glockenspiel, hand claps, stomps, upbeat action song, 120 BPM",
+    "lyrics": "[Verse]\nZacchaeus was a little man\nA rich man, short and small\nHe could not see when Jesus came\nThe crowd was much too tall\nSo he ran ahead, he ran ahead\nAnd climbed up in a tree\nUp in the leaves of the sycamore\nNow Jesus I can see\n\n[Chorus]\nZacchaeus, hurry down\nFor today I must stay at your house\nZacchaeus, hurry down\nHe came to seek and to save what was lost\n\n[Verse]\nHe hurried down with a happy face\nHe welcomed him with joy\nThe people grumbled, grumble, grumble\nWhat a sinful man\nBut Jesus went in through his door\nHe did not stay away\nHe loved the man that no one loved\nAnd came to stay that day\n\n[Chorus]\nZacchaeus, hurry down\nFor today I must stay at your house\nZacchaeus, hurry down\nHe came to seek and to save what was lost\n\n[Verse]\nZacchaeus stood up tall that day\nHalf of all I own\nI give it to the poor, he said\nTo every hungry home\nAnd if I cheated anyone\nI pay back four times more\nOne, two, three, four, count it out\nAnd open wide the door\n\n[Bridge]\nToday salvation has come to this house\nToday, today, today\nToday salvation has come to this house\nClap your hands and say\n\n[Chorus]\nZacchaeus, hurry down\nFor today I must stay at your house\nZacchaeus, hurry down\nHe came to seek and to save what was lost\n\n[Outro]\nZacchaeus, hurry down\nHe came to seek and to save what was lost",
+    "cot": "full",
+    "seed": 20042
+  }
+}

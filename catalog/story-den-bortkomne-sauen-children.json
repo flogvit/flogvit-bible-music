@@ -1,0 +1,57 @@
+{
+  "id": "story-den-bortkomne-sauen-children",
+  "title": "Ninety-Nine and One",
+  "kind": "story",
+  "anchor": {
+    "story": "den-bortkomne-sauen"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 40,
+      "chapter": 18,
+      "verseStart": 12,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "lignelsene",
+      "nade",
+      "kjerlighet"
+    ],
+    "stories": [
+      "den-bortkomne-sauen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, warm female lead vocal with kids choir, acoustic guitar, glockenspiel, xylophone, hand claps, gentle bouncy rhythm, counting sing-along, 108 BPM",
+    "lyrics": "[Verse]\nA shepherd had a hundred sheep\nHe counted them before his sleep\nNinety-seven, ninety-eight\nNinety-nine, but wait, wait, wait\n\n[Chorus]\nNinety-nine and one, ninety-nine and one\nHe will not stop looking till the lost one comes\nUp on his shoulders, home we go\nRejoice with me, for I have found my lost sheep\n\n[Verse]\nHe left the ninety-nine to graze\nAnd searched the hills and rocky ways\nBehind a bush, beneath a tree\nBaa, baa, here I am, it is me\n\n[Chorus]\nNinety-nine and one, ninety-nine and one\nHe will not stop looking till the lost one comes\nUp on his shoulders, home we go\nRejoice with me, for I have found my lost sheep\n\n[Verse]\nHe did not scold, he did not frown\nHe laid it on his shoulders, homeward bound\nHe called his neighbors and his friends\nCome and rejoice, the lost is found again\n\n[Bridge]\nThere is joy in heaven, joy, joy, joy\nWhen one who was lost comes home\nIt is not the will of your Father in heaven\nThat one of these little ones should be lost\n\n[Chorus]\nNinety-nine and one, ninety-nine and one\nHe will not stop looking till the lost one comes\nUp on his shoulders, home we go\nRejoice with me, for I have found my lost sheep\n\n[Outro]\nNinety-nine and one\nHe found the one",
+    "cot": "full",
+    "seed": 20039
+  }
+}

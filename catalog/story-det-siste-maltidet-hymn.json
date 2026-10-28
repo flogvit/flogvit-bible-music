@@ -1,0 +1,74 @@
+{
+  "id": "story-det-siste-maltidet-hymn",
+  "title": "In Remembrance of Me",
+  "kind": "story",
+  "anchor": {
+    "story": "det-siste-maltidet"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 17,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 46,
+      "chapter": 11,
+      "verseStart": 23,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 42,
+      "chapter": 22,
+      "verseStart": 14,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 43,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn",
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "nattverden",
+      "korset",
+      "pakten"
+    ],
+    "stories": [
+      "det-siste-maltidet",
+      "jesus-vasker-disiplenes-fotter",
+      "paulus-om-herrens-maltid-og-ordningen-av-det"
+    ],
+    "persons": [
+      "jesus",
+      "peter",
+      "paulus",
+      "judas-iskariot"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional church hymn, four-part SATB choir, pipe organ, soft strings, stately and reverent, steady hymn meter, 66 BPM",
+    "lyrics": "[Verse]\nUpon the night he was betrayed\nWithin the upper room\nThe Lord sat down among his friends\nBeneath the gathering gloom\nHe took a basin and a towel\nAnd knelt upon the floor\nThe Teacher and the Lord of all\nWashed feet and asked no more\n\n[Chorus]\nThis is my body, which is for you\nDo this in remembrance of me\nThis cup is the new covenant in my blood\nDo this in remembrance of me\n\n[Verse]\nHe took the bread and gave God thanks\nAnd broke it, saying, Take\nHe passed the cup of covenant\nPoured out for sinners' sake\nI will not drink this fruit again\nHe told the twelve that night\nUntil I drink it new with you\nIn my Father's kingdom bright\n\n[Chorus]\nThis is my body, which is for you\nDo this in remembrance of me\nThis cup is the new covenant in my blood\nDo this in remembrance of me\n\n[Bridge]\nAs often as you eat this bread and drink this cup\nYou proclaim the Lord's death until he comes\n\n[Verse]\nThey sang a hymn and rose to go\nOut to the olive hill\nThe Lamb walked out into the night\nTo do his Father's will\n\n[Chorus]\nThis is my body, which is for you\nDo this in remembrance of me\nThis cup is the new covenant in my blood\nDo this in remembrance of me\n\n[Outro]\nDo this in remembrance of me",
+    "cot": "full",
+    "seed": 20043
+  }
+}

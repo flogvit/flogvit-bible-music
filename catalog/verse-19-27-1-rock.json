@@ -1,0 +1,56 @@
+{
+  "id": "verse-19-27-1-rock",
+  "title": "Whom Shall I Fear",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 27,
+    "verseStart": 1,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 27,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 19,
+      "chapter": 27,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frykt",
+      "tro",
+      "david"
+    ],
+    "stories": [],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, driving anthemic rock, strong gritty male vocal, overdriven electric guitars, bass, pounding live drums, big gang vocals on the chorus, defiant and confident, 128 BPM",
+    "lyrics": "[Verse]\nWhen the wicked close around me and they come to tear me down\nThey are the ones who stumble and they crash onto the ground\nLet an army camp against me, let the war break out tonight\nEven then I will be confident, the LORD is my light\n\n[Chorus]\nThe LORD is my light and my salvation\nWhom shall I fear?\nThe LORD is the stronghold of my life\nOf whom shall I be afraid?\n\n[Verse]\nOne thing I ask of the LORD, this is what I seek\nTo dwell in the house of the LORD all the days of my life\nTo gaze on the beauty of the LORD\nAnd to seek him in his temple\n\n[Chorus]\nThe LORD is my light and my salvation\nWhom shall I fear?\nThe LORD is the stronghold of my life\nOf whom shall I be afraid?\n\n[Bridge]\nIn the day of trouble he will keep me safe in his shelter\nHe will hide me under the cover of his tent\nAnd set me high upon a rock\n\n[Chorus]\nThe LORD is my light and my salvation\nWhom shall I fear?\nThe LORD is the stronghold of my life\nOf whom shall I be afraid?\n\n[Outro]\nWait for the LORD\nBe strong, and let your heart take courage\nWait for the LORD",
+    "cot": "full",
+    "seed": 20037
+  }
+}

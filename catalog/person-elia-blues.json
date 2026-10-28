@@ -1,0 +1,73 @@
+{
+  "id": "person-elia-blues",
+  "title": "A Low Whisper",
+  "kind": "person",
+  "anchor": {
+    "person": "elia"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 11,
+      "chapter": 18,
+      "verseStart": 20,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 11,
+      "chapter": 19,
+      "verseStart": 3,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 12,
+      "chapter": 2,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "bonn",
+      "tro",
+      "frykt"
+    ],
+    "stories": [
+      "elia-ved-bekken-kerit",
+      "elia-og-baalsprofetene",
+      "elia-flykter-fra-jesabel",
+      "elia-pa-horeb",
+      "elias-himmelfart"
+    ],
+    "persons": [
+      "elia",
+      "akab",
+      "jesabel",
+      "elisja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Chicago electric blues, gritty soulful male vocal, electric slide guitar, harmonica, Hammond organ, walking bass, shuffle drums, swaggering then hushed, 92 BPM",
+    "lyrics": "[Verse]\nElijah stood before King Ahab, said no dew and no rain\nElijah stood before King Ahab, said no dew and no rain\nThen the ravens brought him bread and meat, morning and evening again\n\n[Verse]\nDown in Zarephath a widow had one handful of flour\nDown in Zarephath a widow had one handful of flour\nBut the jar did not run out and the oil kept pouring every hour\n\n[Verse]\nHow long will you keep limping between two opinions, he said\nFour hundred fifty prophets danced and shouted till the day was dead\nHe soaked the wood three times with water, filled the trench up to the brim\nThen the fire of the LORD came down and licked it up for him\n\n[Chorus]\nThe LORD, he is God\nThe LORD, he is God\nFire fell on Carmel and the people cried\nThe LORD, he is God\n\n[Verse]\nThen he ran from Jezebel and lay down underneath a broom bush\nSaid, Enough, LORD, take my life; I am no better than my fathers\nBut an angel touched him, get up and eat, a loaf on burning stones\nForty days and forty nights he walked to Horeb all alone\n\n[Bridge]\nNot in the wind\nNot in the earthquake\nNot in the fire\nBut the sound of a low whisper\nWhat are you doing here, Elijah?\n\n[Chorus]\nThe LORD, he is God\nThe LORD, he is God\nFire fell on Carmel and the people cried\nThe LORD, he is God\n\n[Outro]\nA chariot of fire and horses of fire\nHe went up to heaven in a whirlwind\nMy father! My father!",
+    "cot": "full",
+    "seed": 20048
+  }
+}

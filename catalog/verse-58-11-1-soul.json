@@ -1,0 +1,56 @@
+{
+  "id": "verse-58-11-1-soul",
+  "title": "The Assurance of Things Hoped For",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 11,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 4,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "hap"
+    ],
+    "stories": [
+      "troens-vitner"
+    ],
+    "persons": [
+      "abel",
+      "enok"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic soul, rich warm female vocal with backing singers, Rhodes electric piano, Hammond organ, warm bass, tight drums, horn section stabs, slow groove, 82 BPM",
+    "lyrics": "[Verse]\nBefore a single star was hung, before the hills were made\nGod spoke a word into the dark and all the worlds obeyed\nThe things we see were fashioned out of what no eye had seen\nBy faith we understand it, and on that word we lean\n\n[Chorus]\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nIt was by faith that the people of old received God's approval\n\n[Verse]\nAbel brought a better gift and God called him righteous\nThough he is dead, his faith still speaks across the years to us\nEnoch walked to please the Lord and never did see death\nGod took him up and he was not found, gone like a morning breath\n\n[Chorus]\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\n\n[Bridge]\nWithout faith it is impossible to please him\nWhoever comes to God must believe that he exists\nAnd that he rewards those who seek him\n\n[Chorus]\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\nFaith is the assurance of what we hope for\nThe conviction of what we do not see\n\n[Outro]\nWhat we do not see\nWhat we do not see",
+    "cot": "full",
+    "seed": 20036
+  }
+}

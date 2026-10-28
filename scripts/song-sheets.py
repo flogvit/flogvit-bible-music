@@ -405,8 +405,10 @@ class Listener:
             print(f"  listening {offset:.1f}-{end or len(self.audio) / SAMPLE_RATE:.1f} s", flush=True)
             segments, _ = self.model.transcribe(clip, language="en", word_timestamps=True, initial_prompt=prompt,
                                                 condition_on_previous_text=False, beam_size=5)
-            self.cache[key] = [dict(w=w.word.strip(), s=round(w.start + offset, 3), e=round(w.end + offset, 3),
-                                    p=round(w.probability, 3)) for seg in segments for w in seg.words]
+            # plain floats: Whisper hands back numpy numbers, which json cannot write further on
+            self.cache[key] = [dict(w=w.word.strip(), s=round(float(w.start) + offset, 3),
+                                    e=round(float(w.end) + offset, 3), p=round(float(w.probability), 3))
+                               for seg in segments for w in seg.words]
             self.cache_path.write_text(json.dumps(self.cache, indent=1))
         return self.cache[key]
 

@@ -1,0 +1,49 @@
+{
+  "id": "story-jesus-vasker-disiplenes-fotter-ballad",
+  "title": "As I Have Done",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-vasker-disiplenes-fotter"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "ydmykhet",
+      "kjerlighet",
+      "nattverden"
+    ],
+    "stories": [
+      "jesus-vasker-disiplenes-fotter"
+    ],
+    "persons": [
+      "jesus",
+      "peter",
+      "judas-iskariot"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, reverent acoustic ballad, warm tender male vocal, piano, nylon-string guitar, cello, soft strings, quiet and humble, 70 BPM",
+    "lyrics": "[Verse]\nOn the night before the Passover, the supper on the board\nThe one who came from God and was going back to God\nRose up from the table and he laid his robe aside\nTook a towel and a basin and he tied the cloth around\n\n[Verse]\nHe knelt before the fishermen with dust upon their feet\nHe washed them one by one and dried them with the towel he wore\nHe came to Simon Peter, who pulled his feet away\nYou shall never wash my feet\nUnless I wash you, you have no share with me\nLord, then not only my feet, but my hands and my head as well\n\n[Chorus]\nI have given you an example\nSo that you also should do as I have done for you\nYou also ought to wash one another's feet\nAs I have done for you\n\n[Bridge]\nHaving loved his own who were in the world\nHe loved them to the very end\nYou call me Teacher and Lord, and you are right\nNo servant is greater than his master\nIf you know these things, you are blessed when you do them\n\n[Chorus]\nI have given you an example\nSo that you also should do as I have done for you\nYou also ought to wash one another's feet\nAs I have done for you\n\n[Outro]\nHe loved them to the very end\nAs I have done for you",
+    "cot": "full",
+    "seed": 20094
+  }
+}

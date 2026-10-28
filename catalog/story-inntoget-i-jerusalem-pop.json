@@ -1,0 +1,49 @@
+{
+  "id": "story-inntoget-i-jerusalem-pop",
+  "title": "Hosanna in the Highest",
+  "kind": "story",
+  "anchor": {
+    "story": "inntoget-i-jerusalem"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 21,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 42,
+      "chapter": 19,
+      "verseStart": 37,
+      "verseEnd": 40
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "inntoget-i-jerusalem"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, uplifting pop, bright female lead vocal with gang vocals on the chorus, piano, synth pads, electric guitar, driving drums, hand claps, joyful and festive, 118 BPM",
+    "lyrics": "[Verse]\nDown from the Mount of Olives on a borrowed colt he rides\nNo sword and no chariot, no soldiers at his side\nThe people throw their cloaks out on the dusty road ahead\nThey cut the branches from the trees and lay them down instead\n\n[Pre-Chorus]\nSay to the daughter of Zion\nLook, your king is coming to you\nGentle and riding on a donkey\n\n[Chorus]\nHosanna to the Son of David\nBlessed is he who comes in the name of the Lord\nHosanna in the highest\nHosanna in the highest\n\n[Verse]\nThe city wakes and wonders and the question fills the air\nWho is this that's riding in, who is this coming here\nThis is Jesus, the prophet from Nazareth in Galilee\nAnd save us now, we pray, is the cry from every street\n\n[Pre-Chorus]\nSay to the daughter of Zion\nLook, your king is coming to you\nGentle and riding on a donkey\n\n[Chorus]\nHosanna to the Son of David\nBlessed is he who comes in the name of the Lord\nHosanna in the highest\nHosanna in the highest\n\n[Bridge]\nTeacher, rebuke your disciples\nI tell you, if they keep silent, the stones will cry out\nPeace in heaven and glory in the highest\n\n[Outro]\nHosanna to the Son of David\nHosanna in the highest",
+    "cot": "full",
+    "seed": 20076
+  }
+}

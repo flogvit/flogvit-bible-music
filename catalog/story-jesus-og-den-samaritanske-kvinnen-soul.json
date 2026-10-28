@@ -1,0 +1,47 @@
+{
+  "id": "story-jesus-og-den-samaritanske-kvinnen-soul",
+  "title": "Living Water",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-og-den-samaritanske-kvinnen"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 42
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "nade"
+    ],
+    "stories": [
+      "jesus-og-den-samaritanske-kvinnen"
+    ],
+    "persons": [
+      "jesus",
+      "kvinnen-ved-bronnen"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm classic soul, rich female lead vocal with backing singers, Rhodes electric piano, horn section, round bass, tight drums, tambourine, smooth and uplifting, 90 BPM",
+    "lyrics": "[Verse]\nIt was about noon at Jacob's well, the sun was beating down\nI came to draw my water when nobody was around\nA tired Jewish stranger sitting quiet by the stone\nSaid give me a drink, and I said why ask me, you should leave me alone\n\n[Verse]\nIf you knew the gift of God and who it is who speaks to you\nYou would have asked him for a drink, and he'd have given you\nLiving water, and I said sir, the well is deep and wide\nYou have nothing to draw with, where's the water you supply\n\n[Chorus]\nEveryone who drinks this water will be thirsty again\nBut whoever drinks the water I give will never thirst again\nThe water I give will become in them\nA spring of water welling up to eternal life\nSir, give me this water\n\n[Verse]\nHe told me everything I ever did, and still he did not go\nHe said the hour is coming when the true worshipers will know\nGod is spirit, and those who worship him must worship in spirit and truth\nI said Messiah is coming, and he said I am he\n\n[Chorus]\nEveryone who drinks this water will be thirsty again\nBut whoever drinks the water I give will never thirst again\nThe water I give will become in them\nA spring of water welling up to eternal life\nSir, give me this water\n\n[Bridge]\nI left my water jar and ran back to the town\nCome and see a man who told me everything I ever did\nCould this be the Christ\nThis man really is the Savior of the world\n\n[Outro]\nNever thirst again\nLiving water",
+    "cot": "full",
+    "seed": 20090
+  }
+}

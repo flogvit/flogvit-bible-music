@@ -1,0 +1,48 @@
+{
+  "id": "story-den-gode-gjeteren-celtic",
+  "title": "He Calls His Own by Name",
+  "kind": "story",
+  "anchor": {
+    "story": "den-gode-gjeteren"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "korset"
+    ],
+    "stories": [
+      "den-gode-gjeteren"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic folk hymn, clear gentle tenor male vocal, uilleann pipes, Celtic harp, fiddle, bodhran, low whistle, tender and steady, 84 BPM",
+    "lyrics": "[Verse]\nAt the gate of the sheepfold in the early light of day\nThe gatekeeper opens and the shepherd leads the way\nHe calls his own sheep by name and leads them out\nAnd they follow where he goes, for they know his voice\n\n[Chorus]\nI am the good shepherd\nThe good shepherd lays down his life for the sheep\nI know my own and my own know me\nAnd I lay down my life for the sheep\n\n[Verse]\nThe thief comes only to steal and kill and destroy\nBut the shepherd brings his flock to pasture and to joy\nWhen the wolf comes down the hired hand will run\nBut the shepherd stands his ground for every single one\n\n[Chorus]\nI am the good shepherd\nThe good shepherd lays down his life for the sheep\nI know my own and my own know me\nAnd I lay down my life for the sheep\n\n[Bridge]\nI am the gate. Whoever enters through me will be saved\nI came that they may have life, and have it in abundance\nI have other sheep that are not of this fold\nThere will be one flock, one shepherd\n\n[Chorus]\nI am the good shepherd\nThe good shepherd lays down his life for the sheep\nI know my own and my own know me\nAnd I lay down my life for the sheep\n\n[Outro]\nThey know his voice\nOne flock, one shepherd",
+    "cot": "full",
+    "seed": 20092
+  }
+}

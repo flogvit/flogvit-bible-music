@@ -1,0 +1,49 @@
+{
+  "id": "story-esekiels-syn-av-de-torre-knokler-gospel",
+  "title": "Can These Bones Live",
+  "kind": "story",
+  "anchor": {
+    "story": "esekiels-syn-av-de-torre-knokler"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 37,
+      "verseStart": 1,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "hap",
+      "oppstandelsen"
+    ],
+    "stories": [
+      "esekiels-syn-av-de-torre-knokler"
+    ],
+    "persons": [
+      "esekiel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, foot-stomping traditional gospel, strong male lead vocal with call-and-response gospel choir, Hammond organ, piano, bass, drums, hand claps, rising and jubilant, 116 BPM",
+    "lyrics": "[Verse]\nThe hand of the LORD came down on me and set me in a valley wide\nAnd it was full of bones, very many, very dry\nHe led me all around them and he asked me can they rise\nSon of man, can these bones live\nO Lord GOD, you know\n\n[Chorus]\nDry bones, hear the word of the LORD\nI am going to put breath in you, and you will live\nDry bones, hear the word of the LORD\nAnd you will know that I am the LORD\n\n[Verse]\nSo I prophesied as I was commanded\nAnd there was a sound, a rattling\nAnd the bones came together, bone to bone\nSinews on them, flesh had grown, and skin had covered them over\nBut there was no breath in them\n\n[Chorus]\nDry bones, hear the word of the LORD\nI am going to put breath in you, and you will live\nDry bones, hear the word of the LORD\nAnd you will know that I am the LORD\n\n[Bridge]\nCome from the four winds, O breath\nAnd breathe into these slain, that they may live\nThe breath came into them\nThey came to life and stood on their feet\nOur bones are dried up, our hope is gone\nI am going to open your graves\nI will put my Spirit in you, and you will live\n\n[Chorus]\nDry bones, hear the word of the LORD\nI am going to put breath in you, and you will live\nDry bones, hear the word of the LORD\nAnd you will know that I am the LORD",
+    "cot": "full",
+    "seed": 20098
+  }
+}

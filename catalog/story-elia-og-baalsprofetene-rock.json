@@ -1,0 +1,48 @@
+{
+  "id": "story-elia-og-baalsprofetene-rock",
+  "title": "The LORD, He Is God",
+  "kind": "story",
+  "anchor": {
+    "story": "elia-og-baalsprofetene"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 18,
+      "verseStart": 20,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "bonn",
+      "guds-hellighet"
+    ],
+    "stories": [
+      "elia-og-baalsprofetene"
+    ],
+    "persons": [
+      "elia",
+      "akab"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, hard rock anthem, raw powerful male vocal, crunchy electric guitars, bass, heavy drums, choir shouts on the chorus, fiery and defiant, 140 BPM",
+    "lyrics": "[Verse]\nAhab called all Israel up to Carmel's height\nFour hundred fifty prophets came to win the fight\nOne man stood before them with the people standing round\nTwo bulls on the wood and not a spark upon the ground\n\n[Pre-Chorus]\nHow long will you keep limping between two opinions\nIf the LORD is God, follow him\nThe god who answers with fire, he is God\n\n[Verse]\nFrom morning until noon they called on Baal by name\nThey danced around their altar but no answer ever came\nThey cut themselves with swords and spears until the evening hour\nNo sound, no answer, no response, no fire and no power\n\n[Verse]\nElijah took twelve stones, one for each tribe of Jacob's sons\nHe built the LORD an altar where the broken one had come\nFill four jars with water, pour it out on wood and stone\nDo it a third time, till the trench is overflown\n\n[Bridge]\nAnswer me, LORD, answer me\nSo that this people may know that you, LORD, are God\n\n[Chorus]\nThen the fire of the LORD fell\nAnd consumed the burnt offering, the wood, the stones, and the dust\nAnd it licked up the water in the trench\nThe LORD, he is God\nThe LORD, he is God\n\n[Outro]\nThe LORD, he is God\nThe LORD, he is God",
+    "cot": "full",
+    "seed": 20083
+  }
+}

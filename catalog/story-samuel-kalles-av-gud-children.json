@@ -1,0 +1,47 @@
+{
+  "id": "story-samuel-kalles-av-gud-children",
+  "title": "Speak, LORD",
+  "kind": "story",
+  "anchor": {
+    "story": "samuel-kalles-av-gud"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [
+      "samuel-kalles-av-gud"
+    ],
+    "persons": [
+      "samuel",
+      "eli"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle children's song, warm female lead vocal with children's choir, nylon-string guitar, glockenspiel, soft piano, light shaker, quiet and wondering, 96 BPM",
+    "lyrics": "[Verse]\nIn the temple late at night\nThe lamp of God was burning bright\nLittle Samuel lay down\nThen he heard a calling sound\nSamuel, Samuel\nHe jumped up and ran to Eli\nHere I am; you called me\nI did not call. Go back and lie down\n\n[Chorus]\nSpeak, LORD, for your servant is listening\nSpeak, LORD, for your servant is listening\nEars wide open, sitting still\nTell me, LORD, and I will\n\n[Verse]\nOnce again the voice came near\nSamuel, Samuel, can you hear\nUp he got and ran once more\nDown the hall to Eli's door\nHere I am; you called me\nI did not call, my son\nA third time the LORD called Samuel\nThen Eli understood\n\n[Chorus]\nSpeak, LORD, for your servant is listening\nSpeak, LORD, for your servant is listening\nEars wide open, sitting still\nTell me, LORD, and I will\n\n[Bridge]\nThen the LORD came and stood there\nCalling as before\nSamuel! Samuel!\nSpeak, for your servant is listening\nSamuel grew up, and the LORD was with him\n\n[Chorus]\nSpeak, LORD, for your servant is listening\nSpeak, LORD, for your servant is listening\nEars wide open, sitting still\nTell me, LORD, and I will",
+    "cot": "full",
+    "seed": 20087
+  }
+}

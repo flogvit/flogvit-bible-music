@@ -1,0 +1,58 @@
+{
+  "id": "story-lignelsen-om-samannen-folk",
+  "title": "Good Soil",
+  "kind": "story",
+  "anchor": {
+    "story": "lignelsen-om-samannen"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 41,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 42,
+      "chapter": 8,
+      "verseStart": 4,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "lignelsene",
+      "tro"
+    ],
+    "stories": [
+      "lignelsen-om-samannen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, rootsy Americana folk, earthy male vocal, acoustic guitar, banjo, harmonica, upright bass, foot stomps, plain and wise, 100 BPM",
+    "lyrics": "[Verse]\nA sower went out to sow his seed in the morning sun\nHe scattered it with open hands and didn't miss a one\nSome fell along the hard-packed path where people come and go\nThe birds came down and ate it up before it had a chance to grow\n\n[Chorus]\nListen, listen, whoever has ears\nLet him hear the word that the sower brings\nSome fell here and some fell there\nBut the good soil bears a hundredfold\n\n[Verse]\nSome fell on the rocky ground with little soil to keep\nIt sprang up quick and green and proud, but the roots were never deep\nWhen the sun rose it was scorched and withered in the heat\nLike a heart that takes the word with joy but falls when trouble meets\n\n[Verse]\nSome fell in among the thorns that grew up thick and tall\nThe worries of this life came in and choked it, leaf and all\nAnd the deceitfulness of wealth wound round it like a chain\nIt grew but never bore a fruit, it never filled with grain\n\n[Chorus]\nListen, listen, whoever has ears\nLet him hear the word that the sower brings\nSome fell here and some fell there\nBut the good soil bears a hundredfold\n\n[Verse]\nBut other seed fell on good soil, in the soft and open ground\nIt heard the word and understood, and the roots went deep and down\nIt bore a crop of thirtyfold and sixty in the field\nAnd a hundredfold of harvest from the little seed it held\n\n[Outro]\nSome fell here and some fell there\nBut the good soil bears a hundredfold\nWhoever has ears, let him hear",
+    "cot": "full",
+    "seed": 20093
+  }
+}

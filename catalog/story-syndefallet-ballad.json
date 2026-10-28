@@ -1,0 +1,59 @@
+{
+  "id": "story-syndefallet-ballad",
+  "title": "Where Are You",
+  "kind": "story",
+  "anchor": {
+    "story": "syndefallet"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "synden",
+      "skapelsen"
+    ],
+    "stories": [
+      "syndefallet"
+    ],
+    "persons": [
+      "adam",
+      "eva"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, melancholic folk ballad, male and female duet, solo piano, cello, soft acoustic guitar, sparse and aching, 66 BPM",
+    "lyrics": "[Verse]\nIn the garden God had planted every tree was good for food\nAnd the tree of life was growing where the tree of knowledge stood\nThen the serpent, more cunning than any creature of the field\nWhispered did God really say, and the doubt began to build\n\n[Verse]\nYou will certainly not die, you'll be like God, the serpent lied\nSo she took the fruit and ate it, gave her husband at her side\nThen the eyes of both were opened and they knew that they were bare\nSo they sewed the fig leaves together, hid among the trees in fear\n\n[Chorus]\nIn the cool of the day\nThe LORD God called to the man\nWhere are you\nWhere are you\nI heard your voice in the garden, and I was afraid\nSo I hid\n\n[Verse]\nThorns and thistles in the ground, and bread by sweat of brow\nThe flaming sword is at the gate, there's no way back in now\nFor dust you are, and to dust you will return\nEast of Eden walking out, with a lesson hard to learn\n\n[Chorus]\nIn the cool of the day\nThe LORD God called to the man\nWhere are you\nWhere are you\nI heard your voice in the garden, and I was afraid\nSo I hid\n\n[Bridge]\nYet before they left the garden\nThe LORD God made garments of skin for the man and his wife\nAnd clothed them\nAnd a word was left behind for the serpent's ear\nHe will strike your head\n\n[Outro]\nWhere are you\nWhere are you",
+    "cot": "full",
+    "seed": 20089
+  }
+}

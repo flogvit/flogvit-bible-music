@@ -1,0 +1,48 @@
+{
+  "id": "story-tomas-tviler-og-tror-acoustic",
+  "title": "My Lord and My God",
+  "kind": "story",
+  "anchor": {
+    "story": "tomas-tviler-og-tror"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 20,
+      "verseStart": 24,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "oppstandelsen",
+      "tro"
+    ],
+    "stories": [
+      "tomas-tviler-og-tror"
+    ],
+    "persons": [
+      "tomas",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, intimate acoustic singer-songwriter, soft breathy male vocal, fingerpicked steel-string guitar, cello, light piano, honest and searching, 76 BPM",
+    "lyrics": "[Verse]\nThey came to me with open hands and said we've seen the Lord\nI shook my head and turned away, I would not take their word\nUnless I see the mark of nails and touch them with my hand\nUnless I touch his wounded side, I cannot understand\n\n[Verse]\nEight days later we were gathered and the doors were locked again\nHe came and stood among us and he spoke to all of them\nPeace be with you, said the Master, and he turned his eyes to me\nHe did not scold, he did not shame, he showed his hands to me\n\n[Pre-Chorus]\nPut your finger here\nLook at my hands\nReach out your hand and put it into my side\nStop doubting and believe\n\n[Chorus]\nMy Lord and my God\nMy Lord and my God\nBlessed are those who have not seen and yet have believed\n\n[Bridge]\nWe never saw the empty tomb, we never touched his hand\nBut the word has come to us across the sea and land\nSo we are in the blessing that he spoke inside that room\nFor those who have not seen him risen from the tomb\n\n[Chorus]\nMy Lord and my God\nMy Lord and my God\nBlessed are those who have not seen and yet have believed\n\n[Outro]\nMy Lord and my God",
+    "cot": "full",
+    "seed": 20078
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "story-jerikos-mur-children",
+  "title": "Round and Round Jericho",
+  "kind": "story",
+  "anchor": {
+    "story": "jerikos-mur"
+  },
+  "references": [
+    {
+      "bookId": 6,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "tro"
+    ],
+    "stories": [
+      "jerikos-mur"
+    ],
+    "persons": [
+      "josva",
+      "rahab"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's marching song, cheerful male lead vocal with kids choir, marching snare drum, trumpet, tuba, glockenspiel, hand claps and stomps, playful and bold, 120 BPM",
+    "lyrics": "[Verse]\nJericho was shut up tight\nNo one out and no one in\nWalls so high and gates so strong\nHow could Israel ever win\nBut the LORD said to Joshua\nSee, I give this town to you\nMarch around it, trust in me\nThat is all you have to do\n\n[Chorus]\nMarch, march, round and round\nRam's horn trumpets make a sound\nOne, two, three, four, five, six, seven\nShout to the LORD, the God of heaven\n\n[Verse]\nDay one, day two, round we go\nFeet go stamping, nice and slow\nNot a word and not a cheer\nOnly trumpets loud and clear\nDay three, day four, five and six\nOnce around and back to camp\nQuiet mouths and listening ears\nStamp, stamp, stamp, stamp\n\n[Chorus]\nMarch, march, round and round\nRam's horn trumpets make a sound\nOne, two, three, four, five, six, seven\nShout to the LORD, the God of heaven\n\n[Verse]\nOn day seven, up at dawn\nRound and round and round and on\nSeven times they marched around\nThen the trumpets, what a sound\nShout! For the LORD has given you the city\nEverybody, take a breath\nShout! For the LORD has given you the city\nAnd the wall fell down flat\n\n[Bridge]\nRahab's house was safe inside\nWith the red cord at the wall\nGod keeps every promise made\nGod is stronger than it all\n\n[Chorus]\nMarch, march, round and round\nRam's horn trumpets make a sound\nOne, two, three, four, five, six, seven\nShout to the LORD, the God of heaven",
+    "cot": "full",
+    "seed": 20082
+  }
+}

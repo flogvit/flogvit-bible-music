@@ -1,0 +1,47 @@
+{
+  "id": "story-salomo-ber-om-visdom-folk",
+  "title": "A Listening Heart",
+  "kind": "story",
+  "anchor": {
+    "story": "salomo-ber-om-visdom"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 3,
+      "verseStart": 4,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience"
+    ],
+    "themes": [
+      "visdom",
+      "bonn"
+    ],
+    "stories": [
+      "salomo-ber-om-visdom"
+    ],
+    "persons": [
+      "salomo",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle chamber folk, warm clear female vocal, fingerpicked acoustic guitar, viola, flute, light hand percussion, thoughtful and hopeful, 90 BPM",
+    "lyrics": "[Verse]\nAt Gibeon in the night the LORD came in a dream\nTo a young king newly crowned and not yet sure of anything\nAsk what I should give you, said the LORD to Solomon\nAnd the king looked at his hands, still a boy and not a man\n\n[Verse]\nYou were kind to David, my father, all his days\nAnd you set his son upon his throne to walk in all his ways\nBut I am only a young man, I don't know how to go out or come in\nAmong a people so numerous they cannot be counted in\n\n[Chorus]\nGive your servant a listening heart\nTo judge your people\nTo discern between good and evil\nNot for gold and not for years\nGive me ears to hear\n\n[Verse]\nIt pleased the LORD that Solomon had asked for this alone\nNot for riches, not long life, not for enemies overthrown\nI give you a heart so wise and discerning, said the LORD\nAnd what you did not ask for, riches and honor, I will pour\n\n[Chorus]\nGive your servant a listening heart\nTo judge your people\nTo discern between good and evil\nNot for gold and not for years\nGive me ears to hear\n\n[Bridge]\nIf you walk in my ways\nKeeping my statutes and my commandments\nAs your father David walked\nI will lengthen your days\n\n[Chorus]\nGive your servant a listening heart\nTo discern between good and evil\nGive me ears to hear",
+    "cot": "full",
+    "seed": 20099
+  }
+}

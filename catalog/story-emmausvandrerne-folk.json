@@ -1,0 +1,48 @@
+{
+  "id": "story-emmausvandrerne-folk",
+  "title": "Stay With Us",
+  "kind": "story",
+  "anchor": {
+    "story": "emmausvandrerne"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 24,
+      "verseStart": 13,
+      "verseEnd": 35
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "oppstandelsen",
+      "nattverden"
+    ],
+    "stories": [
+      "emmausvandrerne"
+    ],
+    "persons": [
+      "jesus",
+      "kleopas",
+      "de-elleve"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm acoustic folk, male and female duet in close harmony, fingerpicked acoustic guitar, mandolin, upright bass, soft fiddle, walking pace and hopeful, 88 BPM",
+    "lyrics": "[Verse]\nSeven miles from Jerusalem the evening shadows grow\nTwo friends are walking slowly with their faces hanging low\nA stranger joins them on the road and asks them why they grieve\nWe had hoped he was the one, they say, now what can we believe\n\n[Chorus]\nWere not our hearts burning within us\nWhile he talked with us on the road\nAnd opened the Scriptures to us\nStay with us, for it is nearly evening\nThe day is almost over\n\n[Verse]\nBeginning there with Moses and the prophets one by one\nHe showed them in the Scriptures all that spoke of God's own Son\nHow the Christ would have to suffer, then enter in his glory\nAnd mile by mile the stranger walked them through the ancient story\n\n[Chorus]\nWere not our hearts burning within us\nWhile he talked with us on the road\nAnd opened the Scriptures to us\nStay with us, for it is nearly evening\nThe day is almost over\n\n[Bridge]\nHe took the bread, blessed it, broke it\nThen their eyes were opened and they recognized him\nThey got up that very hour and returned to Jerusalem\nThe Lord has risen and has appeared to Simon\nHe was made known to them in the breaking of the bread\n\n[Chorus]\nWere not our hearts burning within us\nWhile he talked with us on the road\nAnd opened the Scriptures to us\n\n[Outro]\nMade known in the breaking of the bread",
+    "cot": "full",
+    "seed": 20077
+  }
+}

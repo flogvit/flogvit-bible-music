@@ -1,0 +1,62 @@
+{
+  "id": "story-josef-kastes-i-bronnen-country",
+  "title": "Twenty Pieces of Silver",
+  "kind": "story",
+  "anchor": {
+    "story": "josef-kastes-i-bronnen"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 37,
+      "verseStart": 12,
+      "verseEnd": 36
+    },
+    {
+      "bookId": 1,
+      "chapter": 37,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 1,
+      "chapter": 39,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "josef",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "josef-kastes-i-bronnen"
+    ],
+    "persons": [
+      "josef-gt",
+      "jakob-israel",
+      "ruben",
+      "juda",
+      "potifar"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, storytelling country, warm baritone male vocal with light twang, acoustic guitar, pedal steel, fiddle, dobro, brushed drums, sorrowful but steady, 92 BPM",
+    "lyrics": "[Verse]\nJacob had twelve sons, but one he loved the best\nThe son of his old age, set apart from all the rest\nHe made a richly ornamented robe for him to wear\nAnd his brothers couldn't speak a kind word to him there\n\n[Verse]\nOut in the fields of Dothan they saw him coming on\nHere comes that dreamer, let us kill him and be done\nReuben said don't shed his blood, just throw him in the pit\nThey stripped him of his robe and they dropped him down in it\n\n[Chorus]\nTwenty pieces of silver\nFor their brother, their own flesh\nOn a caravan to Egypt\nWith the balm and gum and myrrh\nAnd the boy who wore the robe\nWas a slave upon the road\n\n[Verse]\nThey dipped the robe in goat's blood and they sent it home to say\nWe found this, is it your son's, and the old man turned away\nIt is my son's robe, he cried, a wild animal has torn him\nAnd he would not be comforted, the father went on mourning\n\n[Chorus]\nTwenty pieces of silver\nFor their brother, their own flesh\nOn a caravan to Egypt\nWith the balm and gum and myrrh\nAnd the boy who wore the robe\nWas a slave upon the road\n\n[Bridge]\nSold again in Egypt to Potiphar the guard\nFar from his father's tent and the fields of home so far\nBut the brothers did not see it and the boy did not yet know\nThe LORD was with Joseph\nEverywhere that he would go\n\n[Outro]\nTwenty pieces of silver\nThe LORD was with Joseph",
+    "cot": "full",
+    "seed": 20085
+  }
+}

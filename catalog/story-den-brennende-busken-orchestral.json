@@ -1,0 +1,53 @@
+{
+  "id": "story-den-brennende-busken-orchestral",
+  "title": "Holy Ground",
+  "kind": "story",
+  "anchor": {
+    "story": "den-brennende-busken"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "moses",
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [
+      "den-brennende-busken"
+    ],
+    "persons": [
+      "moses",
+      "jetro-reuel",
+      "abraham",
+      "isak",
+      "jakob-israel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, cinematic orchestral, deep baritone male soloist with full mixed choir, strings, French horns, low brass, harp, timpani, awe-filled and majestic, 72 BPM",
+    "lyrics": "[Verse]\nBeyond the wilderness he led the flock of Jethro on\nTo Horeb, the mountain of God, where the desert wind had blown\nA bush was blazing in the rocks and still it was not burned\nHe turned aside to see the sight, and God called as he turned\nMoses, Moses\nHere I am\n\n[Chorus]\nTake off your sandals\nFor the place where you are standing is holy ground\nI AM WHO I AM\nI AM has sent me to you\n\n[Verse]\nI have surely seen the misery of my people in Egypt\nI have heard them crying out\nI know their sufferings\nSo I have come down to rescue them\nInto a good and spacious land\nA land flowing with milk and honey\n\n[Chorus]\nTake off your sandals\nFor the place where you are standing is holy ground\nI AM WHO I AM\nI AM has sent me to you\n\n[Bridge]\nWho am I, that I should go to Pharaoh\nI will be with you\nThe God of Abraham, the God of Isaac, and the God of Jacob\nThis is my name forever\nFrom generation to generation\n\n[Chorus]\nTake off your sandals\nFor the place where you are standing is holy ground\nI AM WHO I AM\nI AM has sent me to you\n\n[Outro]\nHoly ground",
+    "cot": "full",
+    "seed": 20080
+  }
+}

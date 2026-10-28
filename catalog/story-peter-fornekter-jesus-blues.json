@@ -1,0 +1,60 @@
+{
+  "id": "story-peter-fornekter-jesus-blues",
+  "title": "Before the Rooster Crows",
+  "kind": "story",
+  "anchor": {
+    "story": "peter-fornekter-jesus"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 69,
+      "verseEnd": 75
+    },
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 33,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 42,
+      "chapter": 22,
+      "verseStart": 54,
+      "verseEnd": 62
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "peter",
+      "tilgivelse",
+      "lidelse"
+    ],
+    "stories": [
+      "peter-fornekter-jesus"
+    ],
+    "persons": [
+      "peter",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow minor-key blues, aching soulful male vocal, clean electric blues guitar, Hammond organ, upright bass, brushed drums, heavy-hearted, 66 BPM",
+    "lyrics": "[Verse]\nI told him even if they all fall away, Lord, I never will\nEven if I must die with you, I'd be standing with you still\nHe looked at me and told me what this very night would bring\nBefore the rooster crows, you will deny me three times\n\n[Verse]\nThey led him to the high priest's house, I followed far behind\nThey kindled a fire in the courtyard and I sat down in the light\nA servant girl looked close at me and said this man was with him too\nI said woman, I don't know him, and I didn't know what to do\n\n[Chorus]\nBefore the rooster crows\nBefore the rooster crows\nYou will deny me three times\nAnd he went outside and wept bitterly\n\n[Verse]\nA little later someone said, you are one of them too\nI said man, I am not, I don't know what you're talking to\nAn hour later, your accent gives you away, they swore\nAnd I began to curse and swear, I do not know the man, no more\n\n[Chorus]\nBefore the rooster crows\nBefore the rooster crows\nYou will deny me three times\nAnd he went outside and wept bitterly\n\n[Bridge]\nAt that very moment, while he was still speaking, the rooster crowed\nThe Lord turned and looked straight at Peter\nAnd Peter remembered the word the Lord had spoken\nThree times I said I never knew him\nThe one who knew me best of all\n\n[Outro]\nHe went outside and wept bitterly\nBefore the rooster crows",
+    "cot": "full",
+    "seed": 20095
+  }
+}

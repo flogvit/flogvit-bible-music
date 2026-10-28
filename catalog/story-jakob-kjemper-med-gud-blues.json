@@ -1,0 +1,47 @@
+{
+  "id": "story-jakob-kjemper-med-gud-blues",
+  "title": "I Will Not Let You Go",
+  "kind": "story",
+  "anchor": {
+    "story": "jakob-kjemper-med-gud"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 32,
+      "verseStart": 22,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "bonn",
+      "pakten"
+    ],
+    "stories": [
+      "jakob-kjemper-med-gud"
+    ],
+    "persons": [
+      "jakob-israel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow Delta blues, gravelly weathered male vocal, slide guitar, harmonica, upright bass, brushed snare, stomping and raw, 72 BPM",
+    "lyrics": "[Verse]\nI sent my wives and children across the Jabbok ford\nI sent the gift on ahead of me, every flock and herd\nThen I was left alone there on the river bank that night\nA man came out of the darkness and he wrestled me till light\n\n[Chorus]\nI will not let you go unless you bless me\nWrestled all night long until the day was breaking\nHe touched my hip and wrenched it but I'm holding on\nI will not let you go unless you bless me\n\n[Verse]\nHe asked me what's your name, I said Jacob is my name\nThe heel-grabber, the schemer, the man who carried shame\nYour name will no longer be Jacob, but Israel\nYou have struggled with God and with men and have prevailed\n\n[Chorus]\nI will not let you go unless you bless me\nWrestled all night long until the day was breaking\nHe touched my hip and wrenched it but I'm holding on\nI will not let you go unless you bless me\n\n[Bridge]\nI named that place Peniel\nI have seen God face to face\nAnd yet my life was spared\nThe sun rose above him as he passed Penuel\nAnd he was limping because of his hip\n\n[Outro]\nLimping in the sunrise\nBlessed and holding on\nI will not let you go",
+    "cot": "full",
+    "seed": 20088
+  }
+}

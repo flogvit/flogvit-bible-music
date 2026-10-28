@@ -1,0 +1,55 @@
+{
+  "id": "story-jesu-himmelfart-orchestral",
+  "title": "This Same Jesus",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-himmelfart"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 6,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 42,
+      "chapter": 24,
+      "verseStart": 50,
+      "verseEnd": 53
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "endetiden",
+      "hap"
+    ],
+    "stories": [
+      "jesu-himmelfart"
+    ],
+    "persons": [
+      "jesus",
+      "de-elleve"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soaring orchestral hymn, full mixed choir with soprano solo, strings, brass, organ, harp, timpani, rising and radiant, 80 BPM",
+    "lyrics": "[Verse]\nOn the hill above the city the disciples gathered near\nLord, will you now restore the kingdom, will it be this year\nNot for you to know the seasons that the Father's hand has set\nBut he gave a mission and a promise they would not forget\n\n[Chorus]\nYou will receive power when the Holy Spirit comes upon you\nAnd you will be my witnesses\nIn Jerusalem, in all Judea and Samaria\nAnd to the ends of the earth\n\n[Verse]\nWhen he had said this, as they watched, he was lifted up\nAnd a cloud took him from their sight\nLifting up his hands, he blessed them\nAnd was carried up into heaven\n\n[Chorus]\nYou will receive power when the Holy Spirit comes upon you\nAnd you will be my witnesses\nIn Jerusalem, in all Judea and Samaria\nAnd to the ends of the earth\n\n[Bridge]\nMen of Galilee\nWhy do you stand here looking into the sky\nThis same Jesus, who has been taken from you into heaven\nWill come back in the same way you have seen him go\n\n[Verse]\nAnd they worshiped him and returned to Jerusalem with great joy\nAnd they were continually in the temple, praising God\n\n[Outro]\nThis same Jesus will come back\nTo the ends of the earth",
+    "cot": "full",
+    "seed": 20097
+  }
+}

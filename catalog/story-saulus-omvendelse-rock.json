@@ -1,0 +1,50 @@
+{
+  "id": "story-saulus-omvendelse-rock",
+  "title": "Scales Fall Down",
+  "kind": "story",
+  "anchor": {
+    "story": "saulus-omvendelse"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "paulus",
+      "nade",
+      "dapen"
+    ],
+    "stories": [
+      "saulus-omvendelse"
+    ],
+    "persons": [
+      "paulus",
+      "ananias-damascus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, driving rock, gritty powerful male vocal, distorted electric guitars, bass, pounding drums, organ swells in the bridge, urgent and dramatic, 132 BPM",
+    "lyrics": "[Verse]\nBreathing threats and murder with the letters in his hand\nSaul is riding to Damascus with a warrant and a plan\nEvery man and every woman who belongs to the Way\nHe will drag them back in chains to Jerusalem that day\n\n[Pre-Chorus]\nSuddenly a light from heaven flashed around him\nHe fell to the ground\n\n[Chorus]\nSaul, Saul, why are you persecuting me\nWho are you, Lord\nI am Jesus, whom you are persecuting\nGet up and go into the city\nLight on the Damascus road\n\n[Verse]\nThree days in the darkness, and he would not eat or drink\nEyes wide open seeing nothing, nothing left to do but think\nIn a house on Straight Street there the blinded man would pray\nWhile the Lord called Ananias and sent him on his way\n\n[Pre-Chorus]\nSuddenly a light from heaven flashed around him\nHe fell to the ground\n\n[Chorus]\nSaul, Saul, why are you persecuting me\nWho are you, Lord\nI am Jesus, whom you are persecuting\nGet up and go into the city\nLight on the Damascus road\n\n[Bridge]\nBrother Saul, the Lord Jesus\nHas sent me so that you may see again\nSomething like scales fell from his eyes\nHe got up and was baptized\nThe hunter of the church became the Lord's chosen instrument\n\n[Outro]\nLight on the Damascus road\nScales fall down and he can see",
+    "cot": "full",
+    "seed": 20079
+  }
+}

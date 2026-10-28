@@ -1,0 +1,49 @@
+{
+  "id": "story-misjonsbefalingen-rock",
+  "title": "To the End of the Age",
+  "kind": "story",
+  "anchor": {
+    "story": "misjonsbefalingen"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 28,
+      "verseStart": 16,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "menigheten",
+      "dapen",
+      "oppstandelsen"
+    ],
+    "stories": [
+      "misjonsbefalingen"
+    ],
+    "persons": [
+      "jesus",
+      "de-elleve"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, anthemic rock, male and female duet lead vocals with gang vocals, electric guitars, bass, big drums, piano, open and driving, 128 BPM",
+    "lyrics": "[Verse]\nEleven men went to Galilee, up the mountain path\nWhere the risen Lord had told them that they'd see his face at last\nWhen they saw him they worshiped him, though some of them still doubted\nAnd Jesus came and spoke to them, and the hills around them sounded\n\n[Pre-Chorus]\nAll authority in heaven and on earth\nHas been given to me\n\n[Chorus]\nTherefore go and make disciples of all nations\nBaptizing them in the name of the Father and of the Son and of the Holy Spirit\nTeaching them to keep everything I have commanded you\nAnd remember, I am with you always, to the very end of the age\n\n[Verse]\nNot just the strong and not just sure, he sent the ones who doubted\nFishermen and tax collectors, all the ones he'd counted\nFrom the mountain into every town, to every land and nation\nThe word goes out from Galilee to every generation\n\n[Pre-Chorus]\nAll authority in heaven and on earth\nHas been given to me\n\n[Chorus]\nTherefore go and make disciples of all nations\nBaptizing them in the name of the Father and of the Son and of the Holy Spirit\nTeaching them to keep everything I have commanded you\nAnd remember, I am with you always, to the very end of the age\n\n[Bridge]\nI am with you always\nI am with you always\nTo the very end of the age\n\n[Outro]\nGo and make disciples of all nations\nI am with you always",
+    "cot": "full",
+    "seed": 20100
+  }
+}

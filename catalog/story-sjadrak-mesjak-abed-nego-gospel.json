@@ -1,0 +1,50 @@
+{
+  "id": "story-sjadrak-mesjak-abed-nego-gospel",
+  "title": "Four Men in the Fire",
+  "kind": "story",
+  "anchor": {
+    "story": "sjadrak-mesjak-abed-nego"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "lidelse"
+    ],
+    "stories": [
+      "sjadrak-mesjak-abed-nego"
+    ],
+    "persons": [
+      "sjadrach-hananja",
+      "mesjach-misjael",
+      "abed-nego-asarja",
+      "nebukadnesar"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, powerful gospel, soaring female lead vocal with full gospel choir, Hammond organ, piano, bass, drums, call and response, bold and triumphant, 104 BPM",
+    "lyrics": "[Verse]\nThe king set up a golden image high upon the plain\nWhen the music played the nations bowed, they bowed and bowed again\nBut three young men stood upright when the horn began to sound\nShadrach, Meshach, and Abednego would not bow down\n\n[Chorus]\nOur God whom we serve is able to deliver us from the blazing furnace\nAnd he will deliver us from your hand, O king\nBut if not, know this, O king\nWe will not serve your gods\nAnd we will not worship the golden image you have set up\n\n[Verse]\nSeven times hotter roared the fire, the king was full of rage\nThey bound them in their robes and turbans, threw them in the blaze\nThe flames leapt out and killed the guards who brought them to the door\nBut the king rose up astonished at the sight he saw once more\n\n[Bridge]\nDid we not throw three men, bound, into the fire\nI see four men, unbound, walking around in the middle of the fire\nAnd the fourth looks like a son of the gods\nNot a hair of their heads was singed\nNo smell of fire clung to them\n\n[Chorus]\nOur God whom we serve is able to deliver us from the blazing furnace\nAnd he will deliver us from your hand, O king\nBut if not, know this, O king\nWe will not serve your gods\nAnd we will not worship the golden image you have set up\n\n[Outro]\nBlessed be the God of Shadrach, Meshach, and Abednego\nWho sent his angel and rescued his servants who trusted in him",
+    "cot": "full",
+    "seed": 20084
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "story-hanna-ber-om-en-sonn-ballad",
+  "title": "Pouring Out My Soul",
+  "kind": "story",
+  "anchor": {
+    "story": "hanna-ber-om-en-sonn"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 9,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "glede"
+    ],
+    "stories": [
+      "hanna-ber-om-en-sonn"
+    ],
+    "persons": [
+      "hanna",
+      "elkana",
+      "eli",
+      "samuel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, tender piano ballad, expressive female vocal, grand piano, string quartet, soft swelling pads, building from fragile to radiant, 68 BPM",
+    "lyrics": "[Verse]\nYear after year we went up to Shiloh\nYear after year I came home with empty arms\nPeninnah's children running round the table\nAnd every word she said cut deep and sharp\nElkanah asked me why my heart was heavy\nAm I not more to you than ten sons\n\n[Verse]\nWith tears I poured my prayer out at the doorpost of the LORD\nMy lips were moving but no sound came out\nEli watched my mouth and thought that I was drunk\nNo, my lord\nI am a woman in deep distress\nI have been pouring out my soul before the LORD\n\n[Pre-Chorus]\nGo in peace\nAnd may the God of Israel grant what you have asked of him\n\n[Chorus]\nMy heart exults in the LORD\nIn the LORD my horn is lifted high\nNo one is holy like the LORD\nThere is none besides you\nAnd no rock like our God\n\n[Verse]\nThe LORD remembered me and gave me a son\nI named him Samuel, for I had asked\nI asked the LORD for him\nWhen he was weaned I brought him to the temple\nTo the very place I stood and wept and prayed\nI prayed for this child\nAnd the LORD has granted me what I asked of him\n\n[Chorus]\nMy heart exults in the LORD\nIn the LORD my horn is lifted high\nNo one is holy like the LORD\nThere is none besides you\nAnd no rock like our God\n\n[Outro]\nSo now I give him to the LORD",
+    "cot": "full",
+    "seed": 20086
+  }
+}

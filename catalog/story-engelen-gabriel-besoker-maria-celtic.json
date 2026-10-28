@@ -1,0 +1,54 @@
+{
+  "id": "story-engelen-gabriel-besoker-maria-celtic",
+  "title": "Let It Be to Me",
+  "kind": "story",
+  "anchor": {
+    "story": "engelen-gabriel-besoker-maria"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 26,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "jul",
+      "tro"
+    ],
+    "stories": [
+      "engelen-gabriel-besoker-maria"
+    ],
+    "persons": [
+      "maria-jesu-mor",
+      "gabriel",
+      "jesus",
+      "josef-marias-mann",
+      "elisabet"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic advent carol, pure gentle female vocal, Celtic harp, tin whistle, fiddle, soft bodhran, drone, luminous and hushed, 80 BPM",
+    "lyrics": "[Verse]\nIn the sixth month in Nazareth, a town of Galilee\nGod sent the angel Gabriel to a girl of low degree\nPromised to a man named Joseph, from the house of David's line\nAnd the virgin's name was Mary, and the hour was God's design\n\n[Verse]\nGreetings, you who are favored! The Lord is with you\nShe was deeply troubled and she wondered at his word\nDo not be afraid, Mary; you have found favor with God\nYou will conceive and give birth to a son, and you are to name him Jesus\n\n[Chorus]\nI am the Lord's servant\nMay it be to me according to your word\nI am the Lord's servant\nMay it be to me according to your word\n\n[Verse]\nHe will be great and will be called the Son of the Most High\nHe will reign over the house of Jacob forever\nHis kingdom will never end\nHow will this be, she asked him, how can it come to be\nThe Holy Spirit will come upon you, said the angel tenderly\n\n[Chorus]\nI am the Lord's servant\nMay it be to me according to your word\nI am the Lord's servant\nMay it be to me according to your word\n\n[Bridge]\nAnd consider your relative Elizabeth\nIn her old age with a son\nFor nothing will be impossible with God\n\n[Outro]\nMay it be to me according to your word\nAnd the angel left her",
+    "cot": "full",
+    "seed": 20096
+  }
+}

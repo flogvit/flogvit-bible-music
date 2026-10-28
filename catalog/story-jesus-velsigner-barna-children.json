@@ -1,0 +1,57 @@
+{
+  "id": "story-jesus-velsigner-barna-children",
+  "title": "Let the Little Children Come",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-velsigner-barna"
+  },
+  "references": [
+    {
+      "bookId": 41,
+      "chapter": 10,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 40,
+      "chapter": 19,
+      "verseStart": 13,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 42,
+      "chapter": 18,
+      "verseStart": 15,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [
+      "jesus-velsigner-barna"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, sweet children's song, kind female lead vocal with children's choir, ukulele, acoustic guitar, glockenspiel, soft hand claps, warm and sing-along, 108 BPM",
+    "lyrics": "[Verse]\nMothers and fathers came along\nBringing children, small and young\nBabies, sisters, brothers too\nJesus, we have come to you\nBut the disciples said go away\nHe's too busy here today\nJesus saw it and he said\nBring them here to me instead\n\n[Chorus]\nLet the little children come to me\nDo not hinder them\nFor the kingdom of God belongs to such as these\nLet the little children come\n\n[Verse]\nArms wide open, here I come\nJesus loves me, everyone\nBig or small or short or tall\nJesus has a hug for all\nHe took them in his arms\nLaid his hands on them\nAnd blessed them\n\n[Chorus]\nLet the little children come to me\nDo not hinder them\nFor the kingdom of God belongs to such as these\nLet the little children come\n\n[Bridge]\nHands up high and hands down low\nJesus wants us all to know\nWhoever does not receive the kingdom of God like a little child\nWill never enter it\n\n[Chorus]\nLet the little children come to me\nDo not hinder them\nFor the kingdom of God belongs to such as these\nLet the little children come",
+    "cot": "full",
+    "seed": 20091
+  }
+}

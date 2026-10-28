@@ -1,0 +1,48 @@
+{
+  "id": "chapter-19-23-worship",
+  "title": "The LORD Is My Shepherd",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 23
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship",
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary worship ballad, warm intimate female vocal, piano, ambient pads, cello, gentle build with choir joining in the final chorus, peaceful and trusting, 70 BPM",
+    "lyrics": "[Verse]\nThe LORD is my shepherd\nI lack nothing\nHe lets me lie down in green pastures\nHe leads me beside still waters\nHe restores my soul\nHe guides me along right paths\nFor his name's sake\n\n[Chorus]\nThe LORD is my shepherd\nI lack nothing\nThe LORD is my shepherd\nI lack nothing\n\n[Verse]\nEven though I walk through the valley of the shadow of death\nI fear no evil, for you are with me\nYour rod and your staff, they comfort me\nYou set a table before me in the presence of my enemies\nYou anoint my head with oil\nMy cup overflows\n\n[Chorus]\nThe LORD is my shepherd\nI lack nothing\nThe LORD is my shepherd\nI lack nothing\n\n[Bridge]\nSurely goodness and mercy will pursue me\nAll the days of my life\nAnd I will dwell in the house of the LORD\nFor length of days\n\n[Chorus]\nThe LORD is my shepherd\nI lack nothing\nThe LORD is my shepherd\nI lack nothing\n\n[Outro]\nI will dwell in the house of the LORD\nFor length of days",
+    "cot": "full",
+    "seed": 1923
+  }
+}

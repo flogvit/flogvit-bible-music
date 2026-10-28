@@ -1,0 +1,43 @@
+{
+  "id": "chapter-19-103-gospel",
+  "title": "Bless the LORD, O My Soul",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 103
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 103,
+      "verseStart": 1,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "nade",
+      "tilgivelse"
+    ],
+    "stories": [],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel, powerful male lead vocal, full gospel choir, Hammond B3 organ, piano, bass, drums, hand claps, joyful praise building through every verse, 96 BPM",
+    "lyrics": "[Chorus]\nBless the LORD, my soul;\nall that is within me, bless his holy name.\nBless the LORD, my soul, and do not forget all his benefits—\n\n[Verse]\nhe forgives all your sin and heals all your diseases;\nhe redeems your life from the pit and crowns you with steadfast love and mercy;\nhe satisfies you with good as long as you live, so your youth is renewed like the eagle's.\nThe LORD does what is right and brings justice to all who are oppressed.\n\n[Verse]\nHe made known his ways to Moses, his deeds to the people of Israel.\nThe LORD is merciful and gracious, slow to anger and abounding in steadfast love.\nHe will not always accuse, nor hold his anger forever.\nHe does not treat us as our sins deserve or repay us according to our guilt.\n\n[Verse]\nFor as high as the heavens are above the earth, so great is his steadfast love toward those who fear him.\nAs far as the east is from the west, so far has he removed our transgressions from us.\nAs a father has compassion on his children, so the LORD has compassion on those who fear him.\nFor he knows how we are formed;\nhe remembers that we are dust.\n\n[Verse]\nAs for man, his days are like grass;\nhe blooms like a flower of the field—\nfor the wind passes over it, and it is gone, and its place knows it no more.\nBut the steadfast love of the LORD rests from everlasting to everlasting on those who fear him, and his righteousness on their children's children—\nto those who keep his covenant and remember to obey his precepts.\n\n[Verse]\nThe LORD has established his throne in the heavens, and his kingdom rules over all.\nBless the LORD, you his angels, you mighty ones who do his word, obeying the voice of his word.\nBless the LORD, all his hosts, you his servants who do his will.\nBless the LORD, all his works, in every place of his dominion.\nBless the LORD, my soul.\n\n[Chorus]\nBless the LORD, my soul;\nall that is within me, bless his holy name.\nBless the LORD, my soul, and do not forget all his benefits—",
+    "cot": "full",
+    "seed": 10301
+  }
+}

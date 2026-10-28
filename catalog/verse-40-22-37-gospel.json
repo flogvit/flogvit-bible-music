@@ -1,0 +1,56 @@
+{
+  "id": "verse-40-22-37-gospel",
+  "title": "With All Your Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 22,
+    "verseStart": 37,
+    "verseEnd": 40
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 22,
+      "verseStart": 37,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 40,
+      "chapter": 22,
+      "verseStart": 34,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "obedience"
+    ],
+    "themes": [
+      "kjerlighet",
+      "de-ti-bud"
+    ],
+    "stories": [
+      "det-storste-budet"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary gospel, powerful male lead with gospel choir call and response, Hammond organ, piano, slap bass, drums, hand claps, driving and joyful, 98 BPM",
+    "lyrics": "[Verse]\nAn expert in the law stood up to test him in the crowd\nTeacher, which is the greatest commandment, he asked aloud\nJesus did not hesitate, his answer came out plain\nHe gave them back the ancient words they'd heard and heard again\n\n[Chorus]\nYou shall love the Lord your God with all your heart\nWith all your soul, and with all your mind\nThis is the great and first commandment\nAnd the second is like it\nYou shall love your neighbor as yourself\n\n[Verse]\nLove him when you're rising and love him when you rest\nLove him with your thinking and the heart within your chest\nAnd the one who lives beside you and the stranger at your door\nLove them like you love yourself, that's what the law is for\n\n[Chorus]\nYou shall love the Lord your God with all your heart\nWith all your soul, and with all your mind\nThis is the great and first commandment\nAnd the second is like it\nYou shall love your neighbor as yourself\n\n[Bridge]\nOn these two commandments hang the whole law and the prophets\nWith all your heart\nWith all your soul\nWith all your mind\n\n[Outro]\nYou shall love your neighbor as yourself\nWith all your heart",
+    "cot": "full",
+    "seed": 20064
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "verse-23-26-3-acoustic",
+  "title": "Perfect Peace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 26,
+    "verseStart": 3,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 26,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 23,
+      "chapter": 26,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "sang-om-judas-sterke-by-og-guds-dom"
+    ],
+    "persons": [
+      "jesaja"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic singer-songwriter, soft clear female vocal, fingerpicked acoustic guitar, cello, light piano, gentle shaker, still and steady, 72 BPM",
+    "lyrics": "[Verse]\nWhen the night is long and restless and my mind will not lie still\nAnd my thoughts run like a river, running anywhere they will\nI set my mind upon you like a city on the stone\nWith salvation for its walls, and I am not alone\n\n[Chorus]\nYou keep in perfect peace the mind that is steadfast\nBecause it trusts in you\nTrust in the LORD forever\nFor in the LORD, the LORD himself, is an everlasting rock\n\n[Verse]\nEvery storm that shakes the windows, every wave against the shore\nBreaks upon a rock that stood a thousand years before\nI will lean my weight upon you, I will build my house on you\nYou are steady in the morning and the evening through\n\n[Chorus]\nYou keep in perfect peace the mind that is steadfast\nBecause it trusts in you\nTrust in the LORD forever\nFor in the LORD, the LORD himself, is an everlasting rock\n\n[Bridge]\nPerfect peace, perfect peace\nThe mind that is steadfast\nBecause it trusts in you\n\n[Outro]\nTrust in the LORD forever\nAn everlasting rock",
+    "cot": "full",
+    "seed": 20066
+  }
+}

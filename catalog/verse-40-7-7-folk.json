@@ -1,0 +1,50 @@
+{
+  "id": "verse-40-7-7-folk",
+  "title": "Ask, Seek, Knock",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 7,
+    "verseStart": 7,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 7,
+      "verseStart": 7,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "bergprekenen"
+    ],
+    "stories": [
+      "bergprekenen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Americana folk, male and female duet, acoustic guitar, banjo, upright bass, harmonica, light stomp percussion, hopeful and earthy, 96 BPM",
+    "lyrics": "[Verse]\nIf your son should ask for bread, would you hand him a stone\nIf he asks you for a fish, would you give him a snake\nIf even we know how to give good gifts to our own\nHow much more will the Father give, for his children's sake\n\n[Chorus]\nAsk, and it will be given to you\nSeek, and you will find\nKnock, and the door will be opened to you\nAsk, seek, knock\n\n[Verse]\nI come with empty hands and I knock upon the door\nI'm asking for the daily bread like I have asked before\nMy Father hears me knocking and he knows the things I need\nHe will not give me stones, he gives good gifts indeed\n\n[Chorus]\nAsk, and it will be given to you\nSeek, and you will find\nKnock, and the door will be opened to you\nAsk, seek, knock\n\n[Bridge]\nFor everyone who asks receives\nAnd the one who seeks finds\nAnd to the one who knocks the door will be opened\nHow much more will your Father in heaven\nGive good things to those who ask him\n\n[Outro]\nKnock, and the door will be opened to you\nAsk, seek, knock",
+    "cot": "full",
+    "seed": 20062
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "story-oppvekkelsen-av-lasarus-gospel",
+  "title": "Lazarus, Come Out",
+  "kind": "story",
+  "anchor": {
+    "story": "oppvekkelsen-av-lasarus"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "oppstandelsen",
+      "hap",
+      "lidelse"
+    ],
+    "stories": [
+      "oppvekkelsen-av-lasarus"
+    ],
+    "persons": [
+      "jesus",
+      "lasarus",
+      "marta",
+      "maria-betania"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Sunday gospel, rich alto female lead with gospel choir, Hammond organ, piano, bass, drums, hand claps, from lament to shout, 88 BPM",
+    "lyrics": "[Verse]\nIn Bethany a man lay sick, the one the Lord held dear\nThe sisters sent a message, Lord, the one you love is ill\nBut four days in the tomb had passed before the Lord came near\nAnd Martha ran to meet him, while Mary stayed home still\n\n[Verse]\nLord, if you had been here, my brother would not have died\nYour brother will rise again, the Teacher answered her\nAnd when he saw them weeping, he was troubled deep inside\nWhere have you laid him, he asked, and they said, come and see\n\n[Chorus]\nI am the resurrection and the life\nWhoever believes in me will live, even though he dies\nAnd everyone who lives and believes in me will never die\nDo you believe this\n\n[Verse]\nJesus wept\nAnd they said, see how he loved him\nTake away the stone, he said, though four days had gone by\nHe lifted up his eyes and thanked the Father in the sky\n\n[Bridge]\nThen he called out in a loud voice\nLazarus, come out\nLazarus, come out\nUnbind him and let him go\n\n[Chorus]\nI am the resurrection and the life\nWhoever believes in me will live, even though he dies\nAnd everyone who lives and believes in me will never die\nDo you believe this\n\n[Outro]\nYes, Lord, I believe\nLazarus, come out",
+    "cot": "full",
+    "seed": 20075
+  }
+}

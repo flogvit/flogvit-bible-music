@@ -1,0 +1,52 @@
+{
+  "id": "verse-23-43-1-celtic",
+  "title": "Called by Name",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 43,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 43,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "frykt",
+      "guds-trofasthet",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": [
+      "jesaja",
+      "jakob-israel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic ballad, clear tender female vocal, uilleann pipes, fiddle, Celtic harp, bodhran, low whistle, steady and consoling, 80 BPM",
+    "lyrics": "[Verse]\nBefore you took your first breath, before you knew the land\nThe One who made you, Jacob, held you in his hand\nThe One who formed you, Israel, will not let go of you\nHe gave Egypt for your ransom, Cush and Seba too\n\n[Chorus]\nDo not be afraid, for I have redeemed you\nI have called you by name; you are mine\nWhen you pass through the waters, I will be with you\nI have called you by name; you are mine\n\n[Verse]\nWhen the rivers rise around you and the current pulls you down\nThey will not sweep you away, you will not drown\nWhen you walk through fire, you will not be burned\nThe flames will not consume you, he is with you every turn\n\n[Chorus]\nDo not be afraid, for I have redeemed you\nI have called you by name; you are mine\nWhen you pass through the waters, I will be with you\nI have called you by name; you are mine\n\n[Bridge]\nFor I am the LORD your God\nThe Holy One of Israel, your Savior\nYou are mine, you are mine\n\n[Outro]\nI have called you by name\nYou are mine",
+    "cot": "full",
+    "seed": 20059
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chapter-19-91-gospel",
+  "title": "Under His Wings",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 91
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 91,
+      "verseStart": 1,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frykt",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional gospel, rich soulful female lead with full gospel choir, Hammond organ, piano, bass, drums, hand claps, steady and assuring, 76 BPM",
+    "lyrics": "[Verse]\nI have made the LORD my refuge, the Most High my dwelling place\nThrough the snare and through the sickness I am sheltered by his grace\nA thousand fall beside me and ten thousand at my right\nBut it will not come near me, for I'm hidden in his sight\n\n[Chorus]\nHe will cover you with his pinions\nAnd under his wings you will find refuge\nHis faithfulness is your shield and rampart\nWhoever dwells in the shelter of the Most High\nWill rest in the shadow of the Almighty\n\n[Verse]\nI won't fear the terror of the night or arrows in the day\nHe will command his angels to guard me in all my way\nThey will lift me in their hands so my foot won't strike a stone\nI will tread upon the lion and the cobra, not alone\n\n[Chorus]\nHe will cover you with his pinions\nAnd under his wings you will find refuge\nHis faithfulness is your shield and rampart\nWhoever dwells in the shelter of the Most High\nWill rest in the shadow of the Almighty\n\n[Bridge]\nBecause he clings to me in love, I will rescue him\nHe will call on me, and I will answer him\nI will be with him in trouble\nWith long life I will satisfy him\nAnd I will show him my salvation\n\n[Outro]\nUnder his wings you will find refuge\nUnder his wings",
+    "cot": "full",
+    "seed": 20052
+  }
+}

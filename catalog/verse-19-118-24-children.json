@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-118-24-children",
+  "title": "This Is the Day",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 118,
+    "verseStart": 24,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 118,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 19,
+      "chapter": 118,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, children's choir with cheerful male lead, ukulele, glockenspiel, hand claps, bouncy bass, light drums, sing-along, 116 BPM",
+    "lyrics": "[Verse]\nWhen the sun comes up and I open my eyes\nI can see the morning in the bright blue sky\nI stretch up tall and I jump out of bed\nI remember what the Bible said\n\n[Chorus]\nThis is the day the LORD has made\nLet us rejoice and be glad in it\nThis is the day the LORD has made\nLet us rejoice and be glad in it\n\n[Verse]\nClap, clap, clap when the sun is high\nStomp, stomp, stomp when the rain comes by\nTurn around and jump and sing\nGod has made each day and everything\n\n[Chorus]\nThis is the day the LORD has made\nLet us rejoice and be glad in it\nThis is the day the LORD has made\nLet us rejoice and be glad in it\n\n[Bridge]\nMonday, Tuesday, Wednesday, Thursday\nFriday, Saturday, Sunday too\nGive thanks to the LORD, for he is good\nHis steadfast love endures forever\n\n[Chorus]\nThis is the day the LORD has made\nLet us rejoice and be glad in it\nThis is the day the LORD has made\nLet us rejoice and be glad in it\n\n[Outro]\nRejoice and be glad\nRejoice and be glad in it",
+    "cot": "full",
+    "seed": 20061
+  }
+}

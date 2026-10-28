@@ -1,0 +1,54 @@
+{
+  "id": "verse-23-9-6-orchestral",
+  "title": "Prince of Peace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 9,
+    "verseStart": 1,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "jesaja-om-fredsfyrsten"
+    ],
+    "persons": [
+      "jesus",
+      "jesaja",
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, majestic orchestral, soaring male tenor with full choir, strings, French horns, trumpets, timpani, celesta, slow build to a radiant climax, 72 BPM",
+    "lyrics": "[Verse]\nThe people who walked in darkness have seen a great light\nOn those who lived in a land of deep shadow, light has dawned\n\n[Verse]\nThe yoke upon their shoulders and the bar across their back\nThe rod of the oppressor lies shattered in its track\nEvery boot that tramped in tumult, every cloak rolled in blood\nIs fuel now for the fire, and joy comes like a flood\nThey rejoice as at the harvest when the sheaves are carried in\nThe long night is ending and the morning will begin\n\n[Chorus]\nFor to us a child is born, to us a son is given\nAnd the government will rest on his shoulders\nAnd his name shall be called Wonderful Counselor\nMighty God, Everlasting Father, Prince of Peace\n\n[Verse]\nHe will sit on David's throne and over all his land\nWith justice and with righteousness upheld by his hand\nFrom now until forever his kingdom will not cease\nThe zeal of the LORD of hosts will accomplish this\n\n[Chorus]\nFor to us a child is born, to us a son is given\nAnd the government will rest on his shoulders\nAnd his name shall be called Wonderful Counselor\nMighty God, Everlasting Father, Prince of Peace\n\n[Bridge]\nOf the increase of his government and of peace there will be no end\nThe zeal of the LORD of hosts will accomplish this\n\n[Outro]\nWonderful Counselor, Mighty God\nEverlasting Father, Prince of Peace",
+    "cot": "full",
+    "seed": 20055
+  }
+}

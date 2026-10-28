@@ -1,0 +1,53 @@
+{
+  "id": "story-vismennene-fra-osten-orchestral",
+  "title": "We Saw His Star",
+  "kind": "story",
+  "anchor": {
+    "story": "vismennene-fra-osten"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany",
+      "christmas"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "vismennene-fra-osten",
+      "jesu-fodsel"
+    ],
+    "persons": [
+      "jesus",
+      "maria-jesu-mor",
+      "herodes-den-store",
+      "vismennene",
+      "de-vise-menn"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, epic orchestral carol, warm male baritone with choir, strings, oboe, harp, French horns, timpani, frame drum, a long journey under the stars, 80 BPM",
+    "lyrics": "[Verse]\nFar away in the east we watched the night sky turn\nA new star was rising and we saw it burn\nOver desert and mountain we followed its light\nTo Jerusalem's gates and King Herod's court by night\n\n[Chorus]\nWhere is the one who has been born king of the Jews\nWe saw his star when it rose\nAnd we have come to worship him\n\n[Verse]\nThe king was disturbed and Jerusalem too\nThe scribes searched the scrolls till they found what was true\nIn Bethlehem of Judea the ruler will be born\nSo we rode on in the darkness before the morn\n\n[Chorus]\nWhere is the one who has been born king of the Jews\nWe saw his star when it rose\nAnd we have come to worship him\n\n[Verse]\nThe star went ahead till it stopped where he lay\nWe rejoiced with exceedingly great joy that day\nWe saw the child with Mary and we fell down at his feet\nGold, frankincense, and myrrh we gave, our journey was complete\n\n[Bridge]\nAnd you, Bethlehem, in the land of Judah\nAre by no means least among the rulers of Judah\nFor out of you will come a ruler\nWho will shepherd my people Israel\n\n[Outro]\nWarned in a dream, we went home by another way\nWe have come to worship him",
+    "cot": "full",
+    "seed": 20071
+  }
+}

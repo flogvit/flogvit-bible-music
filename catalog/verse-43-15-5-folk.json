@@ -1,0 +1,51 @@
+{
+  "id": "verse-43-15-5-folk",
+  "title": "Remain in Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 15,
+    "verseStart": 1,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "acoustic"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "tro",
+      "glede"
+    ],
+    "stories": [
+      "vintreet-og-grenene"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm acoustic folk, gentle male vocal, fingerpicked acoustic guitar, mandolin, upright bass, light hand percussion, unhurried and pastoral, 88 BPM",
+    "lyrics": "[Verse]\nThe Father is the gardener who tends the vine with care\nHe takes away the barren wood and prunes the branches there\nSo every branch that bears its fruit will bear its fruit the more\nAnd we are clean already by the word he spoke before\n\n[Chorus]\nI am the vine; you are the branches\nWhoever remains in me and I in him bears much fruit\nFor apart from me you can do nothing\nRemain in me, and I in you\n\n[Verse]\nA branch can't bear fruit by itself, it needs the vine to grow\nIt withers when it's broken off and lies in dust below\nBut if you stay with me, he said, and my words in you remain\nThen ask whatever you may wish, you will not ask in vain\n\n[Chorus]\nI am the vine; you are the branches\nWhoever remains in me and I in him bears much fruit\nFor apart from me you can do nothing\nRemain in me, and I in you\n\n[Bridge]\nThis is how my Father is glorified\nThat you bear much fruit\nAnd so prove to be my disciples\n\n[Outro]\nRemain in me, and I in you\nI am the vine; you are the branches",
+    "cot": "full",
+    "seed": 20057
+  }
+}

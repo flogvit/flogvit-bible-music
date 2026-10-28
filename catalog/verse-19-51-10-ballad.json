@@ -1,0 +1,63 @@
+{
+  "id": "verse-19-51-10-ballad",
+  "title": "Create in Me a Clean Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 51,
+    "verseStart": 12,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 12,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 3,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness"
+    ],
+    "themes": [
+      "synden",
+      "tilgivelse",
+      "david"
+    ],
+    "stories": [],
+    "persons": [
+      "david",
+      "natan",
+      "batseba"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, piano ballad, intimate broken male vocal, solo piano, cello, soft string pads, quiet and confessional, 68 BPM",
+    "lyrics": "[Verse]\nAgainst you, you alone, have I sinned\nAnd my sin is always there before me again\nI have done what is evil in your sight, I know\nHave mercy on me, O God, and do not let me go\n\n[Chorus]\nCreate in me a clean heart, O God\nAnd renew a steadfast spirit within me\nDo not cast me from your presence\nAnd do not take your holy Spirit from me\n\n[Verse]\nCleanse me with hyssop, and I will be clean\nWash me, and I will be whiter than snow\nThe bones that you have broken, let them sing\nLet me hear the joy and gladness that you bring\n\n[Chorus]\nCreate in me a clean heart, O God\nAnd renew a steadfast spirit within me\nDo not cast me from your presence\nAnd do not take your holy Spirit from me\n\n[Bridge]\nRestore to me the joy of your salvation\nAnd sustain me with a willing spirit\nA broken and crushed heart, O God, you will not despise\n\n[Outro]\nCreate in me a clean heart, O God\nCreate in me a clean heart",
+    "cot": "full",
+    "seed": 20063
+  }
+}

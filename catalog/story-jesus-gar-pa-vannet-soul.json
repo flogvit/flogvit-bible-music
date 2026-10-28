@@ -1,0 +1,60 @@
+{
+  "id": "story-jesus-gar-pa-vannet-soul",
+  "title": "Take Heart, It Is I",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-gar-pa-vannet"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 14,
+      "verseStart": 22,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 41,
+      "chapter": 6,
+      "verseStart": 45,
+      "verseEnd": 52
+    },
+    {
+      "bookId": 43,
+      "chapter": 6,
+      "verseStart": 16,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "frykt",
+      "peter"
+    ],
+    "stories": [
+      "jesus-gar-pa-vannet"
+    ],
+    "persons": [
+      "jesus",
+      "peter"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep soul, impassioned male vocal with backing choir, Hammond organ, electric guitar, bass, drums, swelling strings, from storm to calm, 82 BPM",
+    "lyrics": "[Verse]\nHe sent us out across the sea and climbed the hill to pray\nThe night came down around us and the land was far away\nThe wind was hard against us and the waves were breaking high\nWe were straining at the oars beneath a black and starless sky\n\n[Verse]\nIn the fourth watch of the night he came walking on the sea\nIt's a ghost, we cried in terror, there was nowhere we could flee\nBut his voice came through the thunder like a light across the deep\nTake heart, it is I, do not be afraid\n\n[Chorus]\nTake heart, it is I\nDo not be afraid\nWhen the wind is high and the water is wide\nTake heart, it is I\n\n[Verse]\nPeter said, Lord, if it's you, then tell me, come to you\nHe stepped out on the water and he walked a step or two\nBut he saw how strong the wind was and he started going down\nLord, save me, cried the fisherman, I'm going to drown\n\n[Chorus]\nTake heart, it is I\nDo not be afraid\nWhen the wind is high and the water is wide\nTake heart, it is I\n\n[Bridge]\nAt once he reached his hand out and caught hold of him\nWhy did you doubt, why did you doubt\nThey climbed into the boat and the wind died down\nTruly you are the Son of God\n\n[Outro]\nTake heart, it is I\nDo not be afraid",
+    "cot": "full",
+    "seed": 20074
+  }
+}

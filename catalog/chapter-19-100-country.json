@@ -1,0 +1,44 @@
+{
+  "id": "chapter-19-100-country",
+  "title": "Shout for Joy",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 100
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 100,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "covenant"
+    ],
+    "themes": [
+      "glede",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, upbeat country gospel, male and female duet in close harmony, acoustic guitar, banjo, fiddle, pedal steel, upright bass, foot-stomping and joyful, 108 BPM",
+    "lyrics": "[Verse]\nShout for joy to the LORD, all the earth\nServe the LORD with gladness\nCome before him with joyful song\n\n[Verse]\nKnow that the LORD is God\nHe made us, and we are his\nWe are his people\nAnd the sheep of his pasture\n\n[Chorus]\nEnter his gates with thanksgiving\nHis courts with praise\nGive thanks to him, bless his name\nShout for joy to the LORD, all the earth\n\n[Verse]\nFor the LORD is good\nHis steadfast love endures forever\nAnd his faithfulness to all generations\n\n[Chorus]\nEnter his gates with thanksgiving\nHis courts with praise\nGive thanks to him, bless his name\nShout for joy to the LORD, all the earth\n\n[Bridge]\nWe are his people\nAnd the sheep of his pasture\nFor the LORD is good\nHis steadfast love endures forever\n\n[Outro]\nHis faithfulness to all generations\nShout for joy to the LORD, all the earth",
+    "cot": "full",
+    "seed": 20053
+  }
+}

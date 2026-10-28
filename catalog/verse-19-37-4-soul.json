@@ -1,0 +1,54 @@
+{
+  "id": "verse-19-37-4-soul",
+  "title": "Take Your Delight",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 37,
+    "verseStart": 3,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 37,
+      "verseStart": 3,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 19,
+      "chapter": 37,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "glede"
+    ],
+    "stories": [],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow soul, smooth male vocal with female backing singers, Rhodes piano, warm bass, muted guitar, soft horns, laid-back drums, patient and calm, 78 BPM",
+    "lyrics": "[Verse]\nI see the man whose way prospers, every scheme he makes goes right\nAnd the anger starts to burn in me and keeps me up at night\nBut the psalm is singing softly, do not burn and do not fret\nDwell in the land and do what's good, his word will hold you yet\n\n[Chorus]\nTake your delight in the LORD\nAnd he will give you what your heart asks\nCommit your way to the LORD\nTrust in him, and he will act\nBe still before the LORD and wait patiently for him\n\n[Verse]\nLike the morning breaking slowly over hills of grey and blue\nHe will bring your righteousness to light and let it shine for you\nLike the noonday sun your justice will be plain for all to see\nSo I lay my worry down and let him walk ahead of me\n\n[Chorus]\nTake your delight in the LORD\nAnd he will give you what your heart asks\nCommit your way to the LORD\nTrust in him, and he will act\nBe still before the LORD and wait patiently for him\n\n[Bridge]\nTrust in the LORD and do good\nDwell in the land and make faithfulness your pasture\nBe still, be still\nWait patiently for him\n\n[Outro]\nTake your delight in the LORD\nTrust in him, and he will act",
+    "cot": "full",
+    "seed": 20065
+  }
+}

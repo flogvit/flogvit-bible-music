@@ -1,0 +1,44 @@
+{
+  "id": "chapter-19-46-rock",
+  "title": "Be Still and Know",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 46
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 46,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frykt",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, anthemic rock, strong raspy male vocal, overdriven electric guitars, bass guitar, pounding drums, organ swells, defiant and unshaken, 118 BPM",
+    "lyrics": "[Verse]\nThough the earth gives way beneath us and the mountains start to fall\nDown into the heart of the sea, we will not fear at all\nLet the waters roar and foam and the hills shake at their swell\nWe have found a stronger shelter than the walls in which we dwell\n\n[Chorus]\nGod is our refuge and strength\nA help in troubles, always to be found\nThe LORD of hosts is with us\nThe God of Jacob is our fortress\n\n[Verse]\nThere's a river in the city and its streams run clear and wide\nGod is in her midst, she will not be shaken, he is at her side\nNations rage and kingdoms totter, at his voice the earth melts down\nHe breaks the bow and shatters spears and burns the chariots to the ground\n\n[Chorus]\nGod is our refuge and strength\nA help in troubles, always to be found\nThe LORD of hosts is with us\nThe God of Jacob is our fortress\n\n[Bridge]\nBe still, and know that I am God\nI will be exalted among the nations\nI will be exalted in the earth\nBe still, and know that I am God\n\n[Chorus]\nGod is our refuge and strength\nA help in troubles, always to be found\nThe LORD of hosts is with us\nThe God of Jacob is our fortress\n\n[Outro]\nBe still, and know that I am God\nThe LORD of hosts is with us",
+    "cot": "full",
+    "seed": 20051
+  }
+}

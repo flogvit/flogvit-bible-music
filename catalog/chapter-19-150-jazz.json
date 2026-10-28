@@ -1,0 +1,40 @@
+{
+  "id": "chapter-19-150-jazz",
+  "title": "Let Everything That Breathes",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 150
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 150,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, swinging big band jazz, bright female lead with mixed vocal ensemble, trumpets, trombones, saxophone section, piano, walking upright bass, ride cymbal drums, exuberant, 132 BPM",
+    "lyrics": "[Verse]\nPraise the LORD\nPraise God in his sanctuary\nPraise him in his mighty heavens\nPraise him for his powerful deeds\nPraise him for his surpassing greatness\n\n[Verse]\nPraise him with the blast of the ram's horn\nPraise him with harp and lyre\nPraise him with tambourine and dancing\nPraise him with strings and pipe\n\n[Verse]\nPraise him with ringing cymbals\nPraise him with crashing cymbals\n\n[Chorus]\nLet everything that breathes praise the LORD\nPraise the LORD\nLet everything that breathes praise the LORD\nPraise the LORD\n\n[Bridge]\nPraise him with the blast of the ram's horn\nPraise him with tambourine and dancing\nPraise him with ringing cymbals\nPraise him with crashing cymbals\n\n[Chorus]\nLet everything that breathes praise the LORD\nPraise the LORD\nLet everything that breathes praise the LORD\nPraise the LORD\n\n[Outro]\nLet everything that breathes praise the LORD\nPraise the LORD",
+    "cot": "full",
+    "seed": 20054
+  }
+}

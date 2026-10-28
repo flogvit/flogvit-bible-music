@@ -1,0 +1,57 @@
+{
+  "id": "verse-43-1-1-orchestral",
+  "title": "The Word Became Flesh",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 1,
+    "verseStart": 1,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "jul",
+      "nade",
+      "skapelsen"
+    ],
+    "stories": [
+      "ordet-blir-kjod"
+    ],
+    "persons": [
+      "jesus",
+      "johannes-doperen",
+      "johannes-apostel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, cinematic orchestral hymn, pure female soprano with choir, strings, harp, oboe, French horn, soft timpani, reverent and luminous, 66 BPM",
+    "lyrics": "[Verse]\nBefore the hills, before the sea, before the dawn of days\nThe Word was there with God, and he was God in all his ways\nAll things came into being through him, not one thing apart\nIn him was life, and that life was the light of every heart\n\n[Chorus]\nIn the beginning was the Word\nAnd the Word was with God, and the Word was God\nThe light shines in the darkness\nAnd the darkness has not overcome it\n\n[Verse]\nThere came a man sent from God, and John was his name\nTo testify about the light, a witness, so he came\nThe true light came into the world that through him came to be\nThe world did not know him, and his own would not receive\n\n[Verse]\nBut to all who did receive him, who believed in his name\nHe gave the right to become children of God\nNot born of blood or human will, but born of God above\nHeld in the Father's mercy and carried in his love\n\n[Chorus]\nIn the beginning was the Word\nAnd the Word was with God, and the Word was God\nThe light shines in the darkness\nAnd the darkness has not overcome it\n\n[Bridge]\nAnd the Word became flesh and made his dwelling among us\nAnd we have seen his glory\nThe glory of the Father's only Son\nFull of grace and truth\n\n[Outro]\nThe Word became flesh\nFull of grace and truth",
+    "cot": "full",
+    "seed": 20056
+  }
+}

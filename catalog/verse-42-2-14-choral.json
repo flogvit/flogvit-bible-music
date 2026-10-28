@@ -1,0 +1,50 @@
+{
+  "id": "verse-42-2-14-choral",
+  "title": "Glory to God in the Highest",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 13,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "jesu-fodsel"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, sacred choral anthem, full mixed choir with soprano descant, pipe organ, strings, brass fanfare, bells, radiant and jubilant, 84 BPM",
+    "lyrics": "[Verse]\nSuddenly a great company of the heavenly host\nAppeared with the angel\nPraising God and saying\n\n[Chorus]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest\nAnd on earth peace\n\n[Verse]\nA great company of the heavenly host\nPraising God and saying\n\n[Chorus]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest\nAnd on earth peace\n\n[Bridge]\nGlory to God\nGlory to God in the highest\nGlory to God\nGlory to God in the highest\n\n[Outro]\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest",
+    "cot": "full",
+    "seed": 20070
+  }
+}

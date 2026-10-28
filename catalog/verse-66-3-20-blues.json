@@ -1,0 +1,56 @@
+{
+  "id": "verse-66-3-20-blues",
+  "title": "Standing at the Door",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 3,
+    "verseStart": 20,
+    "verseEnd": 20
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 3,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 66,
+      "chapter": 3,
+      "verseStart": 15,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "menigheten"
+    ],
+    "stories": [
+      "brevet-til-menigheten-i-laodikea"
+    ],
+    "persons": [
+      "jesus",
+      "johannes-apostel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow electric blues, gravelly weathered male vocal, slide guitar, harmonica, upright bass, brushed drums, Hammond organ, aching and patient, 70 BPM",
+    "lyrics": "[Verse]\nI said I'm rich, I've prospered, and I don't need a thing\nNot cold and not hot, just a lukewarm offering\nBut I was poor and blind and naked and I didn't even know\nAnd through the rain somebody's knocking, soft and slow\n\n[Chorus]\nLook, I am standing at the door and knocking\nIf anyone hears my voice and opens the door\nI will come in to him and eat with him\nAnd he with me\n\n[Verse]\nHe said buy from me gold that's refined by the fire\nWhite garments for your shame and salve for your eyes\nThose whom I love I rebuke and discipline\nSo be earnest, and repent, and let me in\n\n[Chorus]\nLook, I am standing at the door and knocking\nIf anyone hears my voice and opens the door\nI will come in to him and eat with him\nAnd he with me\n\n[Bridge]\nKnock, knock, on a rainy night\nI hear your voice\nLord, I'm opening the door\n\n[Outro]\nI will come in to him and eat with him\nAnd he with me",
+    "cot": "full",
+    "seed": 20069
+  }
+}

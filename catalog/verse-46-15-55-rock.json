@@ -1,0 +1,55 @@
+{
+  "id": "verse-46-15-55-rock",
+  "title": "Where, O Death",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 15,
+    "verseStart": 51,
+    "verseEnd": 57
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 51,
+      "verseEnd": 57
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise",
+      "praise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "oppstandelsen",
+      "hap"
+    ],
+    "stories": [
+      "kroppens-forvandling-og-seieren-over-doden"
+    ],
+    "persons": [
+      "paulus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, anthemic rock, powerful female rock vocal, layered electric guitars, bass guitar, big drums, piano, trumpet call in the bridge, triumphant through grief, 112 BPM",
+    "lyrics": "[Verse]\nListen, I tell you a mystery, it is written in the word\nWe will not all sleep, but the trumpet will be heard\nIn an instant, in the blink of an eye\nThe dead will be raised imperishable, and we will be changed\n\n[Chorus]\nWhere, O death, is your victory\nWhere, O death, is your sting\nDeath has been swallowed up in victory\nBut thanks be to God, who gives us the victory\nThrough our Lord Jesus Christ\n\n[Verse]\nEvery body that is breaking, every friend we laid to rest\nWill put on the imperishable and rise up from the dust\nThe sting of death is sin, and the power of sin is the law\nBut the victory is given us, the grave has lost its claw\n\n[Chorus]\nWhere, O death, is your victory\nWhere, O death, is your sting\nDeath has been swallowed up in victory\nBut thanks be to God, who gives us the victory\nThrough our Lord Jesus Christ\n\n[Bridge]\nFor the trumpet will sound\nAnd the dead will be raised imperishable\nAnd we will be changed\nThis mortal body must put on immortality\n\n[Outro]\nWhere, O death, is your sting\nThanks be to God",
+    "cot": "full",
+    "seed": 20068
+  }
+}

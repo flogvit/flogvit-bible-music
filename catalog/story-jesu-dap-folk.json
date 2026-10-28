@@ -1,0 +1,70 @@
+{
+  "id": "story-jesu-dap-folk",
+  "title": "My Beloved Son",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-dap"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 3,
+      "verseStart": 13,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 41,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 29,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "obedience",
+      "salvation"
+    ],
+    "themes": [
+      "dapen",
+      "den-hellige-and"
+    ],
+    "stories": [
+      "jesu-dap"
+    ],
+    "persons": [
+      "jesus",
+      "johannes-doperen",
+      "den-hellige-and",
+      "gud"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle folk, clear female vocal with soft male harmony, acoustic guitar, fiddle, dobro, upright bass, flowing like a river, 84 BPM",
+    "lyrics": "[Verse]\nDown from Galilee he came along the river road\nTo the muddy Jordan where the crowds and waters flowed\nJohn tried to stop him at the edge, for he knew who it must be\nI need to be baptized by you, and yet you come to me\n\n[Verse]\nLet it be so for now, the Teacher answered low\nTo fulfill all righteousness, this is the way to go\nSo John took him in the river, down beneath the stream\nAnd Jesus rose up out of it like waking from a dream\n\n[Chorus]\nThis is my beloved Son\nIn whom I am well pleased\nHeaven opened, the Spirit came down\nLike a dove, like a dove\n\n[Verse]\nThe day after, John saw him walking on the shore\nAnd he called out to the people what he had come for\nLook, the Lamb of God, who takes away the sin of the world\nI have seen it, and I testify, he is the Chosen One of God\n\n[Chorus]\nThis is my beloved Son\nIn whom I am well pleased\nHeaven opened, the Spirit came down\nLike a dove, like a dove\n\n[Bridge]\nAnd behold, the heavens were opened\nAnd he saw the Spirit of God descending like a dove\nAnd coming upon him\n\n[Outro]\nThis is my beloved Son\nIn whom I am well pleased",
+    "cot": "full",
+    "seed": 20072
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-62-4-7-soul",
+  "title": "Because God Is Love",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 62,
+    "chapter": 4,
+    "verseStart": 7,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 62,
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "jesus",
+      "johannes-apostel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic soul, warm smoky female vocal with backing singers, Rhodes piano, horn section, round bass, laid-back drums, tender and sincere, 84 BPM",
+    "lyrics": "[Verse]\nNobody has seen the Father, nobody has seen his face\nBut love has come among us and it's living in this place\nHe sent his only Son to us so we might live through him\nThat's how his love was shown to us, his love was shown in him\n\n[Chorus]\nDear friends, let us love one another\nFor love is from God\nWhoever does not love does not know God\nBecause God is love\n\n[Verse]\nIt was not that we loved him first, we never reached that high\nBut he loved us and sent his Son for our sins to die\nSo if God loved us like this, then we know what to do\nWe ought to love each other like he loved me and you\n\n[Chorus]\nDear friends, let us love one another\nFor love is from God\nWhoever does not love does not know God\nBecause God is love\n\n[Bridge]\nThis is love: not that we have loved God\nBut that he loved us and sent his Son\nAs the atoning sacrifice for our sins\nNo one has ever seen God\nBut if we love one another, God remains in us\n\n[Outro]\nBecause God is love\nDear friends, let us love one another",
+    "cot": "full",
+    "seed": 20058
+  }
+}

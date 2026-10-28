@@ -1,0 +1,59 @@
+{
+  "id": "verse-5-31-6-country",
+  "title": "He Goes Before You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 5,
+    "chapter": 31,
+    "verseStart": 6,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 5,
+      "chapter": 31,
+      "verseStart": 6,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 5,
+      "chapter": 31,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "frykt",
+      "guds-trofasthet",
+      "moses"
+    ],
+    "stories": [
+      "josva-utvelges-som-moses-etterfolger"
+    ],
+    "persons": [
+      "moses",
+      "josva"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, heartland country, steady baritone male vocal, acoustic guitar, pedal steel, fiddle, harmonica, brushed drums, resolute and encouraging, 92 BPM",
+    "lyrics": "[Verse]\nOld Moses stood by the Jordan, a hundred and twenty years\nHe could not cross the river, but he did not speak with fear\nThe LORD your God himself will cross over ahead of you\nAnd Joshua will lead you, as the LORD has said he'd do\n\n[Chorus]\nBe strong and courageous\nDo not be afraid, do not be terrified\nFor the LORD your God goes with you\nHe will never fail you or forsake you\n\n[Verse]\nThen he called young Joshua in the sight of all the land\nSaid the road ahead is yours now, and the people in your hand\nYou will bring them to the country that the LORD swore long ago\nTo the fathers as their inheritance, so take it, and go\n\n[Chorus]\nBe strong and courageous\nDo not be afraid, do not be terrified\nFor the LORD your God goes with you\nHe will never fail you or forsake you\n\n[Bridge]\nThe LORD himself goes before you; he will be with you\nHe will never fail you or forsake you\nDo not be afraid; do not be dismayed\n\n[Outro]\nBe strong and courageous\nHe will never fail you or forsake you",
+    "cot": "full",
+    "seed": 20060
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "verse-49-2-8-gospel",
+  "title": "By Grace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 2,
+    "verseStart": 4,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 2,
+      "verseStart": 4,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 49,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "nade",
+      "frelsen",
+      "oppstandelsen"
+    ],
+    "stories": [
+      "guds-nade-gjor-de-dode-levende"
+    ],
+    "persons": [
+      "paulus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, uptempo gospel, full gospel choir with soaring choir leads, Hammond organ, piano, bass, drums, tambourine, hand claps, celebratory, 104 BPM",
+    "lyrics": "[Verse]\nI was dead in my trespasses, I was lying in the grave\nI had nothing I could offer and no strength that I could save\nBut God, who is rich in mercy, out of love so deep and wide\nMade us alive together with Christ, he raised us at his side\n\n[Chorus]\nFor by grace you have been saved through faith\nAnd this is not from yourselves\nIt is the gift of God\nNot from works, so that no one may boast\n\n[Verse]\nHe raised us up together and he seated us with him\nSo the riches of his kindness shine through every age to come\nWe are his workmanship, created in Christ Jesus for good works\nWhich God prepared beforehand so that we would walk in them\n\n[Chorus]\nFor by grace you have been saved through faith\nAnd this is not from yourselves\nIt is the gift of God\nNot from works, so that no one may boast\n\n[Bridge]\nBut God, who is rich in mercy\nBecause of the great love with which he loved us\nMade us alive together with Christ\nBy grace you have been saved\n\n[Outro]\nIt is the gift of God\nBy grace you have been saved",
+    "cot": "full",
+    "seed": 20067
+  }
+}

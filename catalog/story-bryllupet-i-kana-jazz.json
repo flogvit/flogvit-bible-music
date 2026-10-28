@@ -1,0 +1,50 @@
+{
+  "id": "story-bryllupet-i-kana-jazz",
+  "title": "The Good Wine Until Now",
+  "kind": "story",
+  "anchor": {
+    "story": "bryllupet-i-kana"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz",
+      "swing"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "ekteskap",
+      "glede"
+    ],
+    "stories": [
+      "bryllupet-i-kana"
+    ],
+    "persons": [
+      "jesus",
+      "maria-jesu-mor"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, small-combo swing jazz, playful bright female vocal, clarinet, muted trumpet, piano, upright bass, brushed drums, festive and warm, 122 BPM",
+    "lyrics": "[Verse]\nThere's a wedding up in Cana on the third day of the week\nThe tables full of family and the music's at its peak\nBut the servants start to whisper and the steward starts to frown\nThe wine is running out before the sun is going down\n\n[Verse]\nHis mother leans toward him, says they have no more wine\nHe tells her that his hour has not yet come, not yet the time\nBut she turns to the servants with a quiet knowing nod\nDo whatever he tells you, and she leaves the rest to God\n\n[Chorus]\nYou have kept the good wine until now\nSix stone jars filled to the brim somehow\nWater poured and wine came out\nYou have kept the good wine until now\n\n[Verse]\nFill the jars with water, so they fill them to the top\nNow draw some out and take it, and they don't spill a drop\nThe steward takes a sip of it and calls the bridegroom near\nEveryone serves the good wine first, but the best is only here\n\n[Chorus]\nYou have kept the good wine until now\nSix stone jars filled to the brim somehow\nWater poured and wine came out\nYou have kept the good wine until now\n\n[Bridge]\nThe first of his signs at Cana in Galilee\nHe revealed his glory for his friends to see\nAnd his disciples believed in him\n\n[Outro]\nYou have kept the good wine\nThe good wine until now",
+    "cot": "full",
+    "seed": 20073
+  }
+}

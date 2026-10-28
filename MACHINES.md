@@ -21,7 +21,7 @@ on Home Mac.
 | verse-24-29-11-gospel | done 2026-10-28 19:00, 4:04, sheets in sheets/ |
 | theme-tilgivelse-country | done 2026-10-28 19:42, 2:59, sheets in sheets/ |
 | story-david-og-goliat-children | done 2026-10-28 20:13, 2:04, sheets in sheets/ |
-| person-rut-celtic | taken |
+| person-rut-celtic | done 2026-10-28 20:55, 3:24, sheets in sheets/ |
 | chapter-46-13-soul | taken |
 | chapter-19-23-worship | taken |
 | chapter-19-104-orchestral-folk | taken |

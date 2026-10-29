@@ -164,13 +164,13 @@ export const wellFormed = (lyrics: string | undefined) =>
   !!lyrics && /^\[[A-Za-z -]+\]$/m.test(lyrics) && lyrics.split('\n').some((l) => l.trim() && !l.startsWith('['));
 
 /**
- * What to do with the song: keep it as it is, keep it with the sung lyrics, or make it again. A "correct" with
- * differences listed is kept too when the judge gave sung lyrics; "adopt" without usable sung lyrics, "unsure"
- * and "wrong" are made again.
+ * What to do with the song: keep it as it is, keep it with the sung lyrics, or make it again. The judge lists
+ * every difference it found, the fine ones too, so "correct" keeps the song whatever it lists; "adopt" without
+ * usable sung lyrics, "unsure" and "wrong" are made again.
  */
 export function outcome(v: Verdict): 'ok' | 'adopt' | 'reject' {
-  if (v.verdict === 'correct' && v.problems.length === 0) return 'ok';
-  if ((v.verdict === 'adopt' || v.verdict === 'correct') && wellFormed(v.sung_lyrics)) return 'adopt';
+  if (v.verdict === 'correct') return 'ok';
+  if (v.verdict === 'adopt' && wellFormed(v.sung_lyrics)) return 'adopt';
   return 'reject';
 }
 

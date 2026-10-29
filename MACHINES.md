@@ -39,7 +39,7 @@ on Home Mac.
 | verse-6-1-9-rock | done 2026-10-29 04:59, 4:08, sheets in sheets/ |
 | story-den-fortapte-sonn-country | done 2026-10-29 05:27, 3:29, sheets in sheets/ |
 | story-den-barmhjertige-samaritan-folk | done 2026-10-29 05:51, 2:53, sheets in sheets/ |
-| story-noas-ark-og-syndfloden-children | taken |
+| story-noas-ark-og-syndfloden-children | done 2026-10-29 06:04, 1:36, sheets in sheets/ |
 | story-skapelsen-av-verden-orchestral | taken |
 | story-israelittene-gar-gjennom-rodehavet-gospel | taken |
 | story-daniel-i-lovehulen-soul | taken |

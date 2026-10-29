@@ -1,6 +1,8 @@
 # YuE2 clone with its own .venv; set up from README, local changes in patches/
 YuE/
 **/outputs/
+# One folder per finished song with audio, sheets and info.json; see README "Library"
+library/
 .venv*
 *.flac
 *.wav

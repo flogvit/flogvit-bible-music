@@ -160,3 +160,48 @@ uv pip install --python .venv-sheets/bin/python faster-whisper weasyprint pyphen
 WeasyPrint draws the chord sheet with Pango from Homebrew (`cairo` and `pango` formulae); the script points
 macOS at `/opt/homebrew/lib` itself. The Whisper model (about 3 GB) downloads to the Hugging Face cache on
 the first run.
+
+## Library
+
+`library/<id>/` holds everything about one finished song in one place: the audio, both sheets and an
+`info.json` with the song's text, tags, links and how it was made. It sits next to `YuE/` and is not in git.
+
+### Build it
+
+After a song's sheets are made, run on the machine that generated it:
+
+```bash
+MUSIC_MACHINE="Home Mac (M1 Max, 64 GB)" python3 scripts/build-library.py YuE/outputs/<batch>/<id> [...]
+MUSIC_MACHINE="..." python3 scripts/build-library.py YuE/outputs/*/*/   # every finished song
+```
+
+It needs `ffmpeg` (`brew install ffmpeg`) and free-bible next to this repo (or `$FREE_BIBLE`) for the titles of
+stories, persons and themes. A song without sheets is reported and skipped. Running it again replaces the
+folder's files, so rebuild after regenerating a song or its sheets.
+
+### What is in a folder
+
+| file | what it is |
+|---|---|
+| `audio.flac` | the song as YuE2 made it, 48 kHz (a hard link to the file in `YuE/outputs/`, so it takes no extra space) |
+| `audio.mp3` | the same as MP3, LAME V0 (about 240 kbit/s), tagged with title, genre and the passage with its link |
+| `chords.pdf`, `chords.cho` | the chord sheet, as PDF and ChordPro (see Sheet music) |
+| `leadsheet.pdf` | the lead sheet: melody with chords and lyrics |
+| `info.json` | everything about the song, below |
+
+### info.json
+
+| field | meaning |
+|---|---|
+| `id`, `title`, `kind` | from the catalog |
+| `anchor`, `url` | what the song is about, with a readable `label` (`Joshua 1:9`, `David and Goliath`) and its page on bible.flogvit.com |
+| `references` | every passage the song draws on, each with `label` and `url` |
+| `style`, `styleDescription` | the genre tags, and the style line YuE2 got |
+| `tags` | `sentiment`, `liturgy` and `theme` ids, and `themes`, `stories`, `persons` as `{slug, title, url}` (persons also have `epithet`) |
+| `lyrics` | `sections` (`[{section, lines}]`) and the full `text` as YuE2 got it |
+| `lyricsMode`, `textSource`, `textCredit` | how the lyrics use the Bible text, and the credit line for that translation |
+| `music` | `duration`, `durationSeconds`, and `key`, `meter`, `bpm` from YuE2's score |
+| `seed` | the seed, so the song can be made again |
+| `lyricsOnNotes` | how well the words sit on the melody (the Whisper check behind the lead sheet): lines on their notes, the uncertain lines, words heard |
+| `generated` | `machine`, `date`, and `yue`: package and torch versions, the YuE commit and whether the patch was applied, model repos with revision and sha256, generation config, whether the song was cut off |
+| `files` | the file names in the folder |

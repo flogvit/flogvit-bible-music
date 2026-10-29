@@ -1,0 +1,1180 @@
+{
+ "id": "story-sennepsfroet-children",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-sennepsfroet-children",
+ "offset_seconds": -0.8200000000002383,
+ "words_heard": 141,
+ "words": 141,
+ "lines": [
+  {
+   "text": "I've got a seed so very small",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You can hardly see it at all",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Put it in the ground and wait",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God will make it grow so great",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It is the smallest of all seeds",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But when it has grown it becomes a tree",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So that the birds of the air come",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And nest in its branches",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Rain comes down and sun comes round",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Little shoot pokes from the ground",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bigger, bigger, branch and leaf",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God's kingdom grows beyond belief",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It is the smallest of all seeds",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But when it has grown it becomes a tree",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So that the birds of the air come",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And nest in its branches",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Little faith, little hand",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Little kindness, little plan",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God can take the smallest thing",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And make the whole world sing",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The kingdom of heaven is like a mustard seed",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A mustard seed",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I've",
+   "time": 5.62,
+   "weight": 0.49,
+   "note_time": 5.31
+  },
+  {
+   "text": "got",
+   "time": 6.32,
+   "weight": 0.99,
+   "note_time": 5.62
+  },
+  {
+   "text": "a",
+   "time": 6.54,
+   "weight": 0.98,
+   "note_time": 5.78
+  },
+  {
+   "text": "seed",
+   "time": 6.78,
+   "weight": 1.0,
+   "note_time": 6.09
+  },
+  {
+   "text": "so",
+   "time": 7.08,
+   "weight": 0.97,
+   "note_time": 6.56
+  },
+  {
+   "text": "ve",
+   "time": 7.42,
+   "weight": 1.0,
+   "note_time": 6.88
+  },
+  {
+   "text": "ry",
+   "time": 7.63,
+   "weight": 1.0,
+   "note_time": 7.03
+  },
+  {
+   "text": "small",
+   "time": 7.84,
+   "weight": 1.0,
+   "note_time": 7.34
+  },
+  {
+   "text": "You",
+   "time": 8.32,
+   "weight": 0.32,
+   "note_time": 10.62
+  },
+  {
+   "text": "can",
+   "time": 11.56,
+   "weight": 1.0,
+   "note_time": 10.78
+  },
+  {
+   "text": "hard",
+   "time": 11.72,
+   "weight": 0.99,
+   "note_time": 11.09
+  },
+  {
+   "text": "ly",
+   "time": 11.99,
+   "weight": 0.99,
+   "note_time": 11.56
+  },
+  {
+   "text": "see",
+   "time": 12.26,
+   "weight": 1.0,
+   "note_time": 11.88
+  },
+  {
+   "text": "it",
+   "time": 12.8,
+   "weight": 1.0,
+   "note_time": 12.03
+  },
+  {
+   "text": "at",
+   "time": 13.04,
+   "weight": 0.99,
+   "note_time": 12.19
+  },
+  {
+   "text": "all",
+   "time": 13.16,
+   "weight": 1.0,
+   "note_time": 12.34
+  },
+  {
+   "text": "Put",
+   "time": 13.52,
+   "weight": 0.38,
+   "note_time": 15.62
+  },
+  {
+   "text": "it",
+   "time": 16.6,
+   "weight": 0.99,
+   "note_time": 15.78
+  },
+  {
+   "text": "in",
+   "time": 16.78,
+   "weight": 0.99,
+   "note_time": 16.09
+  },
+  {
+   "text": "the",
+   "time": 17.16,
+   "weight": 1.0,
+   "note_time": 16.56
+  },
+  {
+   "text": "ground",
+   "time": 17.42,
+   "weight": 1.0,
+   "note_time": 16.72
+  },
+  {
+   "text": "and",
+   "time": 17.82,
+   "weight": 0.99,
+   "note_time": 17.19
+  },
+  {
+   "text": "wait",
+   "time": 18.2,
+   "weight": 1.0,
+   "note_time": 17.5
+  },
+  {
+   "text": "God",
+   "time": 18.54,
+   "weight": 0.39,
+   "note_time": 20.0
+  },
+  {
+   "text": "will",
+   "time": 21.02,
+   "weight": 0.99,
+   "note_time": 20.31
+  },
+  {
+   "text": "make",
+   "time": 21.22,
+   "weight": 1.0,
+   "note_time": 20.47
+  },
+  {
+   "text": "it",
+   "time": 21.54,
+   "weight": 1.0,
+   "note_time": 20.94
+  },
+  {
+   "text": "grow",
+   "time": 21.84,
+   "weight": 1.0,
+   "note_time": 21.25
+  },
+  {
+   "text": "so",
+   "time": 22.18,
+   "weight": 1.0,
+   "note_time": 21.88
+  },
+  {
+   "text": "great",
+   "time": 22.72,
+   "weight": 1.0,
+   "note_time": 22.5
+  },
+  {
+   "text": "It",
+   "time": 25.24,
+   "weight": 0.21,
+   "note_time": 25.31
+  },
+  {
+   "text": "is",
+   "time": 26.14,
+   "weight": 0.88,
+   "note_time": 25.62
+  },
+  {
+   "text": "the",
+   "time": 26.6,
+   "weight": 0.98,
+   "note_time": 25.94
+  },
+  {
+   "text": "smal",
+   "time": 26.8,
+   "weight": 0.99,
+   "note_time": 26.09
+  },
+  {
+   "text": "lest",
+   "time": 27.11,
+   "weight": 0.99,
+   "note_time": 26.56
+  },
+  {
+   "text": "of",
+   "time": 27.42,
+   "weight": 0.99,
+   "note_time": 26.88
+  },
+  {
+   "text": "all",
+   "time": 27.78,
+   "weight": 1.0,
+   "note_time": 27.03
+  },
+  {
+   "text": "seeds",
+   "time": 28.08,
+   "weight": 0.95,
+   "note_time": 27.5
+  },
+  {
+   "text": "But",
+   "time": 29.7,
+   "weight": 0.59,
+   "note_time": 29.69
+  },
+  {
+   "text": "when",
+   "time": 30.6,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "it",
+   "time": 31.0,
+   "weight": 1.0,
+   "note_time": 30.47
+  },
+  {
+   "text": "has",
+   "time": 31.44,
+   "weight": 0.99,
+   "note_time": 30.94
+  },
+  {
+   "text": "grown",
+   "time": 31.9,
+   "weight": 1.0,
+   "note_time": 31.25
+  },
+  {
+   "text": "it",
+   "time": 32.26,
+   "weight": 0.75,
+   "note_time": 31.72
+  },
+  {
+   "text": "be",
+   "time": 32.76,
+   "weight": 0.99,
+   "note_time": 32.19
+  },
+  {
+   "text": "comes",
+   "time": 33.07,
+   "weight": 0.99,
+   "note_time": 32.5
+  },
+  {
+   "text": "a",
+   "time": 33.38,
+   "weight": 1.0,
+   "note_time": 33.12
+  },
+  {
+   "text": "tree",
+   "time": 34.04,
+   "weight": 1.0,
+   "note_time": 33.75
+  },
+  {
+   "text": "So",
+   "time": 34.7,
+   "weight": 0.91,
+   "note_time": 35.31
+  },
+  {
+   "text": "that",
+   "time": 36.18,
+   "weight": 0.99,
+   "note_time": 35.62
+  },
+  {
+   "text": "the",
+   "time": 36.52,
+   "weight": 0.98,
+   "note_time": 35.94
+  },
+  {
+   "text": "birds",
+   "time": 36.8,
+   "weight": 1.0,
+   "note_time": 36.09
+  },
+  {
+   "text": "of",
+   "time": 37.26,
+   "weight": 0.99,
+   "note_time": 36.56
+  },
+  {
+   "text": "the",
+   "time": 37.5,
+   "weight": 0.99,
+   "note_time": 36.88
+  },
+  {
+   "text": "air",
+   "time": 37.74,
+   "weight": 1.0,
+   "note_time": 37.03
+  },
+  {
+   "text": "come",
+   "time": 38.08,
+   "weight": 0.92,
+   "note_time": 37.5
+  },
+  {
+   "text": "And",
+   "time": 38.34,
+   "weight": 0.69,
+   "note_time": 38.44
+  },
+  {
+   "text": "nest",
+   "time": 39.34,
+   "weight": 1.0,
+   "note_time": 38.75
+  },
+  {
+   "text": "in",
+   "time": 39.8,
+   "weight": 1.0,
+   "note_time": 39.22
+  },
+  {
+   "text": "its",
+   "time": 40.24,
+   "weight": 0.98,
+   "note_time": 39.69
+  },
+  {
+   "text": "branch",
+   "time": 40.68,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "es",
+   "time": 41.03,
+   "weight": 1.0,
+   "note_time": 40.62
+  },
+  {
+   "text": "Rain",
+   "time": 45.58,
+   "weight": 0.92,
+   "note_time": 45.62
+  },
+  {
+   "text": "comes",
+   "time": 46.48,
+   "weight": 1.0,
+   "note_time": 45.94
+  },
+  {
+   "text": "down",
+   "time": 46.84,
+   "weight": 1.0,
+   "note_time": 46.25
+  },
+  {
+   "text": "and",
+   "time": 47.32,
+   "weight": 0.97,
+   "note_time": 46.56
+  },
+  {
+   "text": "sun",
+   "time": 47.54,
+   "weight": 0.94,
+   "note_time": 46.88
+  },
+  {
+   "text": "comes",
+   "time": 47.78,
+   "weight": 1.0,
+   "note_time": 47.19
+  },
+  {
+   "text": "round",
+   "time": 48.18,
+   "weight": 0.85,
+   "note_time": 47.81
+  },
+  {
+   "text": "Lit",
+   "time": 50.62,
+   "weight": 0.56,
+   "note_time": 50.62
+  },
+  {
+   "text": "tle",
+   "time": 50.97,
+   "weight": 0.56,
+   "note_time": 50.78
+  },
+  {
+   "text": "shoot",
+   "time": 51.56,
+   "weight": 0.81,
+   "note_time": 51.09
+  },
+  {
+   "text": "pokes",
+   "time": 52.04,
+   "weight": 0.94,
+   "note_time": 51.56
+  },
+  {
+   "text": "from",
+   "time": 52.64,
+   "weight": 1.0,
+   "note_time": 51.88
+  },
+  {
+   "text": "the",
+   "time": 52.86,
+   "weight": 0.99,
+   "note_time": 52.19
+  },
+  {
+   "text": "ground",
+   "time": 53.04,
+   "weight": 0.99,
+   "note_time": 52.34
+  },
+  {
+   "text": "Big",
+   "time": 55.88,
+   "weight": 0.77,
+   "note_time": 55.62
+  },
+  {
+   "text": "ger,",
+   "time": 56.23,
+   "weight": 0.77,
+   "note_time": 55.78
+  },
+  {
+   "text": "big",
+   "time": 56.82,
+   "weight": 0.99,
+   "note_time": 56.09
+  },
+  {
+   "text": "ger,",
+   "time": 56.98,
+   "weight": 0.99,
+   "note_time": 56.41
+  },
+  {
+   "text": "branch",
+   "time": 57.14,
+   "weight": 0.78,
+   "note_time": 56.72
+  },
+  {
+   "text": "and",
+   "time": 57.72,
+   "weight": 0.99,
+   "note_time": 57.19
+  },
+  {
+   "text": "leaf",
+   "time": 58.18,
+   "weight": 1.0,
+   "note_time": 57.5
+  },
+  {
+   "text": "God's",
+   "time": 59.8,
+   "weight": 0.98,
+   "note_time": 59.69
+  },
+  {
+   "text": "kin",
+   "time": 60.74,
+   "weight": 0.86,
+   "note_time": 60.0
+  },
+  {
+   "text": "gdom",
+   "time": 60.88,
+   "weight": 0.86,
+   "note_time": 60.31
+  },
+  {
+   "text": "grows",
+   "time": 61.02,
+   "weight": 1.0,
+   "note_time": 60.47
+  },
+  {
+   "text": "be",
+   "time": 61.42,
+   "weight": 1.0,
+   "note_time": 60.94
+  },
+  {
+   "text": "yond",
+   "time": 61.77,
+   "weight": 1.0,
+   "note_time": 61.25
+  },
+  {
+   "text": "be",
+   "time": 62.18,
+   "weight": 0.99,
+   "note_time": 61.88
+  },
+  {
+   "text": "lief",
+   "time": 62.53,
+   "weight": 0.99,
+   "note_time": 62.5
+  },
+  {
+   "text": "It",
+   "time": 65.34,
+   "weight": 0.92,
+   "note_time": 65.31
+  },
+  {
+   "text": "is",
+   "time": 66.28,
+   "weight": 0.99,
+   "note_time": 65.62
+  },
+  {
+   "text": "the",
+   "time": 66.6,
+   "weight": 0.99,
+   "note_time": 65.94
+  },
+  {
+   "text": "smal",
+   "time": 66.78,
+   "weight": 1.0,
+   "note_time": 66.09
+  },
+  {
+   "text": "lest",
+   "time": 67.09,
+   "weight": 1.0,
+   "note_time": 66.56
+  },
+  {
+   "text": "of",
+   "time": 67.4,
+   "weight": 1.0,
+   "note_time": 66.88
+  },
+  {
+   "text": "all",
+   "time": 67.8,
+   "weight": 1.0,
+   "note_time": 67.03
+  },
+  {
+   "text": "seeds",
+   "time": 68.08,
+   "weight": 0.99,
+   "note_time": 67.5
+  },
+  {
+   "text": "But",
+   "time": 69.68,
+   "weight": 0.94,
+   "note_time": 69.69
+  },
+  {
+   "text": "when",
+   "time": 70.62,
+   "weight": 0.99,
+   "note_time": 70.0
+  },
+  {
+   "text": "it",
+   "time": 71.04,
+   "weight": 1.0,
+   "note_time": 70.47
+  },
+  {
+   "text": "has",
+   "time": 71.42,
+   "weight": 0.99,
+   "note_time": 70.94
+  },
+  {
+   "text": "grown",
+   "time": 71.88,
+   "weight": 1.0,
+   "note_time": 71.25
+  },
+  {
+   "text": "it",
+   "time": 72.24,
+   "weight": 0.77,
+   "note_time": 71.72
+  },
+  {
+   "text": "be",
+   "time": 72.72,
+   "weight": 1.0,
+   "note_time": 72.19
+  },
+  {
+   "text": "comes",
+   "time": 73.04,
+   "weight": 1.0,
+   "note_time": 72.5
+  },
+  {
+   "text": "a",
+   "time": 73.36,
+   "weight": 1.0,
+   "note_time": 73.12
+  },
+  {
+   "text": "tree",
+   "time": 74.04,
+   "weight": 1.0,
+   "note_time": 73.75
+  },
+  {
+   "text": "So",
+   "time": 74.7,
+   "weight": 0.4,
+   "note_time": 75.31
+  },
+  {
+   "text": "that",
+   "time": 76.16,
+   "weight": 0.93,
+   "note_time": 75.62
+  },
+  {
+   "text": "the",
+   "time": 76.54,
+   "weight": 0.99,
+   "note_time": 75.94
+  },
+  {
+   "text": "birds",
+   "time": 76.78,
+   "weight": 0.99,
+   "note_time": 76.09
+  },
+  {
+   "text": "of",
+   "time": 77.22,
+   "weight": 0.98,
+   "note_time": 76.56
+  },
+  {
+   "text": "the",
+   "time": 77.48,
+   "weight": 1.0,
+   "note_time": 76.88
+  },
+  {
+   "text": "air",
+   "time": 77.72,
+   "weight": 1.0,
+   "note_time": 77.03
+  },
+  {
+   "text": "come",
+   "time": 78.08,
+   "weight": 0.98,
+   "note_time": 77.5
+  },
+  {
+   "text": "And",
+   "time": 78.34,
+   "weight": 0.52,
+   "note_time": 78.44
+  },
+  {
+   "text": "nest",
+   "time": 79.38,
+   "weight": 1.0,
+   "note_time": 78.75
+  },
+  {
+   "text": "in",
+   "time": 79.82,
+   "weight": 0.99,
+   "note_time": 79.22
+  },
+  {
+   "text": "its",
+   "time": 80.24,
+   "weight": 0.97,
+   "note_time": 79.69
+  },
+  {
+   "text": "branch",
+   "time": 80.68,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "es",
+   "time": 81.03,
+   "weight": 1.0,
+   "note_time": 80.62
+  },
+  {
+   "text": "Lit",
+   "time": 84.48,
+   "weight": 0.66,
+   "note_time": 84.38
+  },
+  {
+   "text": "tle",
+   "time": 84.83,
+   "weight": 0.66,
+   "note_time": 84.53
+  },
+  {
+   "text": "faith,",
+   "time": 85.36,
+   "weight": 0.96,
+   "note_time": 85.0
+  },
+  {
+   "text": "lit",
+   "time": 86.2,
+   "weight": 0.99,
+   "note_time": 85.62
+  },
+  {
+   "text": "tle",
+   "time": 86.46,
+   "weight": 0.99,
+   "note_time": 85.78
+  },
+  {
+   "text": "hand",
+   "time": 86.72,
+   "weight": 1.0,
+   "note_time": 86.25
+  },
+  {
+   "text": "Lit",
+   "time": 87.58,
+   "weight": 0.99,
+   "note_time": 86.88
+  },
+  {
+   "text": "tle",
+   "time": 87.74,
+   "weight": 0.99,
+   "note_time": 87.03
+  },
+  {
+   "text": "kind",
+   "time": 87.9,
+   "weight": 1.0,
+   "note_time": 87.34
+  },
+  {
+   "text": "ness,",
+   "time": 88.25,
+   "weight": 1.0,
+   "note_time": 87.81
+  },
+  {
+   "text": "lit",
+   "time": 88.74,
+   "weight": 1.0,
+   "note_time": 88.12
+  },
+  {
+   "text": "tle",
+   "time": 88.91,
+   "weight": 1.0,
+   "note_time": 88.28
+  },
+  {
+   "text": "plan",
+   "time": 89.08,
+   "weight": 0.92,
+   "note_time": 88.59
+  },
+  {
+   "text": "God",
+   "time": 89.58,
+   "weight": 0.95,
+   "note_time": 89.38
+  },
+  {
+   "text": "can",
+   "time": 90.28,
+   "weight": 1.0,
+   "note_time": 89.69
+  },
+  {
+   "text": "take",
+   "time": 90.58,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "the",
+   "time": 91.0,
+   "weight": 1.0,
+   "note_time": 90.31
+  },
+  {
+   "text": "smal",
+   "time": 91.24,
+   "weight": 1.0,
+   "note_time": 90.47
+  },
+  {
+   "text": "lest",
+   "time": 91.43,
+   "weight": 1.0,
+   "note_time": 90.94
+  },
+  {
+   "text": "thing",
+   "time": 91.62,
+   "weight": 1.0,
+   "note_time": 91.25
+  },
+  {
+   "text": "And",
+   "time": 92.24,
+   "weight": 0.89,
+   "note_time": 92.19
+  },
+  {
+   "text": "make",
+   "time": 93.14,
+   "weight": 1.0,
+   "note_time": 92.5
+  },
+  {
+   "text": "the",
+   "time": 93.54,
+   "weight": 1.0,
+   "note_time": 93.44
+  },
+  {
+   "text": "whole",
+   "time": 94.32,
+   "weight": 1.0,
+   "note_time": 93.75
+  },
+  {
+   "text": "world",
+   "time": 94.76,
+   "weight": 1.0,
+   "note_time": 94.38
+  },
+  {
+   "text": "sing",
+   "time": 95.5,
+   "weight": 1.0,
+   "note_time": 95.0
+  },
+  {
+   "text": "The",
+   "time": 97.34,
+   "weight": 0.98,
+   "note_time": 97.34
+  },
+  {
+   "text": "kin",
+   "time": 98.22,
+   "weight": 0.8,
+   "note_time": 97.5
+  },
+  {
+   "text": "gdom",
+   "time": 98.45,
+   "weight": 0.8,
+   "note_time": 97.97
+  },
+  {
+   "text": "of",
+   "time": 98.68,
+   "weight": 1.0,
+   "note_time": 98.44
+  },
+  {
+   "text": "heav",
+   "time": 99.42,
+   "weight": 0.94,
+   "note_time": 98.75
+  },
+  {
+   "text": "en",
+   "time": 99.63,
+   "weight": 0.94,
+   "note_time": 98.91
+  },
+  {
+   "text": "is",
+   "time": 99.84,
+   "weight": 0.98,
+   "note_time": 100.31
+  },
+  {
+   "text": "like",
+   "time": 101.26,
+   "weight": 1.0,
+   "note_time": 100.62
+  },
+  {
+   "text": "a",
+   "time": 101.58,
+   "weight": 1.0,
+   "note_time": 100.94
+  },
+  {
+   "text": "mus",
+   "time": 101.86,
+   "weight": 1.0,
+   "note_time": 101.25
+  },
+  {
+   "text": "tard",
+   "time": 102.21,
+   "weight": 1.0,
+   "note_time": 101.88
+  },
+  {
+   "text": "seed",
+   "time": 102.58,
+   "weight": 1.0,
+   "note_time": 102.5
+  },
+  {
+   "text": "A",
+   "time": 105.36,
+   "weight": 0.62,
+   "note_time": 105.94
+  },
+  {
+   "text": "mus",
+   "time": 106.76,
+   "weight": 0.96,
+   "note_time": 106.25
+  },
+  {
+   "text": "tard",
+   "time": 107.11,
+   "weight": 0.96,
+   "note_time": 106.88
+  },
+  {
+   "text": "seed",
+   "time": 107.62,
+   "weight": 1.0,
+   "note_time": 107.5
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 22 lyric lines sit on their notes."
+}

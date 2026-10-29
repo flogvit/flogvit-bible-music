@@ -2,7 +2,9 @@
 /**
  * Did the singing deliver the lyrics the song asked for? A local LLM (Ollama) compares the requested lyrics,
  * with their sections, against what Whisper heard in the song (whisper.json from song-sheets.py, with times).
- * Only a confident "correct" lets a song through; generate.ts makes the song again otherwise.
+ * Three outcomes: "correct" (sung as written), "adopt" (sung differently but as good, singable lyrics: the song
+ * is kept and its lyrics become what was sung, in `sung_lyrics`), and "wrong" (broken: garbled, content lost,
+ * an unintended repeat, or a meaning that misrepresents the passage), which generate.ts makes again.
  *
  * Usage: bun scripts/lyrics-check.ts <song-id> [whisper.json]   (default sheets/<id>/whisper.json)
  * Environment: MUSIC_JUDGE_MODEL (default qwen3.8:27b), OLLAMA_HOST (default http://localhost:11434).
@@ -15,7 +17,13 @@ const OLLAMA = process.env.OLLAMA_HOST ?? 'http://localhost:11434';
 
 type Heard = { w: string; s: number; e: number; p: number };
 export type Problem = { time: string; kind: 'wrong words' | 'missing' | 'unrequested repeat' | 'other'; detail: string };
-export type Verdict = { verdict: 'correct' | 'wrong' | 'unsure'; problems: Problem[]; summary: string };
+export type Verdict = {
+  verdict: 'correct' | 'adopt' | 'wrong' | 'unsure';
+  problems: Problem[];
+  summary: string;
+  /** With "adopt": the lyrics as sung, in the requested section layout. */
+  sung_lyrics?: string;
+};
 
 /** whisper.json holds one full pass over the song and second listens over stretches the first pass missed. */
 export function heardText(whisper: Record<string, Heard[]>): string {
@@ -46,18 +54,30 @@ export function heardText(whisper: Record<string, Heard[]>): string {
 
 const RULES = `You check AI-generated songs before they are published. The singer was asked to sing the requested
 lyrics below, section by section, in that order. Whisper (speech recognition, prompted with the lyrics) wrote
-down what was actually sung, in phrases with start–end seconds. Decide whether the singing delivers the
-requested lyrics.
+down what was actually sung, in phrases with start–end seconds. Decide which of three outcomes fits.
 
-It is WRONG when any of these happen:
-- a requested line, or a part of it that carries meaning, is not sung (also a missing ending or outro);
-- a line is replaced by another line, or two lines are merged so that part of each is lost;
-- a word that carries meaning is sung as a different word that does not sound like it (Bless -> Praise,
-  see God -> seek out);
-- a verse line or a whole verse is sung again where the structure does not repeat it, or a chorus line is
-  sung twice where the next requested line should be.
-A repeat is only fine when every requested line is still sung: a repeat that takes the place of a requested
-line is wrong.
+"correct": every requested line is sung as written, apart from what is FINE below.
+
+"adopt": the singing differs from the requested lyrics, but what was sung is itself good, coherent, singable
+lyrics that still say what the requested lyrics say about their Bible passage: a line reworded, a word sung
+as another word that makes sense, an outro or ad-lib sung in other words, a line left out of a list where the
+song still holds together, sections in a slightly different order. The song is kept and its published lyrics
+become what was sung. Prefer "adopt" over "wrong" whenever the sung words make sense. Then write the lyrics
+as sung in "sung_lyrics": the requested lyrics with every line changed to what was actually sung, in the same
+section layout ([Verse], [Chorus], ... on their own lines, a blank line between sections), with normal
+capitals and punctuation, keeping the requested wording wherever the difference is only what is FINE below.
+
+"wrong": only for a song that is broken:
+- garbled or unintelligible singing: words that are not words, or that make no sense in the line;
+- content lost: a verse, chorus or several lines not sung at all, so that the song no longer says what it is
+  about (one line left out of a list is "adopt");
+- an unintended repeat: a verse line or a whole verse sung again where the structure does not repeat it, in
+  place of the next requested line;
+- sung words that change the meaning so that the song misrepresents its Bible passage.
+Before calling a line missing, look at the times: Whisper often writes nothing for a line sung right after the
+same words (a chorus that repeats the end of a verse, a refrain sung twice). When there is a gap in what was
+heard long enough for the missing line, the line was most likely sung there and only not written down: that is
+FINE.
 
 It is FINE, and not a problem to report, when:
 - the chorus, or part of it, is sung more times than written: an extra chorus at the end, a chorus line or
@@ -75,15 +95,18 @@ It is FINE, and not a problem to report, when:
 Words marked (?) were heard with low confidence. Phrases from a "second listen" cover a stretch the first
 pass missed; use them in place of that stretch.
 
-Go through the requested lyrics line by line and find each line in what was heard, in order. Answer "correct"
-only when you are confident every requested line was sung and nothing was repeated beyond what is fine above.
-Answer "wrong" when you found a problem, and "unsure" when you cannot tell. List each problem with the
-time it is heard at.`;
+- Whisper hears a long or drawn-out sung word as other words that sound alike when sung (endures -> can do),
+  most of all when the same line is heard right elsewhere in the song.
+
+Go through the requested lyrics line by line and find each line in what was heard, in order. List each
+difference you found with the time it is heard at, also for "adopt". Answer "unsure" only when you cannot tell
+at all.`;
 
 const SCHEMA = {
   type: 'object',
   properties: {
-    verdict: { type: 'string', enum: ['correct', 'wrong', 'unsure'] },
+    verdict: { type: 'string', enum: ['correct', 'adopt', 'wrong', 'unsure'] },
+    sung_lyrics: { type: 'string' },
     problems: {
       type: 'array',
       items: {
@@ -136,8 +159,23 @@ export async function judge(lyrics: string, whisper: Record<string, Heard[]>): P
   return JSON.parse((await r.json() as { message: { content: string } }).message.content) as Verdict;
 }
 
-/** Only a confident "correct" with nothing found passes. */
-export const passes = (v: Verdict) => v.verdict === 'correct' && v.problems.length === 0;
+/** Lyrics in the catalog's layout: section tags on their own lines and at least one line of text. */
+export const wellFormed = (lyrics: string | undefined) =>
+  !!lyrics && /^\[[A-Za-z -]+\]$/m.test(lyrics) && lyrics.split('\n').some((l) => l.trim() && !l.startsWith('['));
+
+/**
+ * What to do with the song: keep it as it is, keep it with the sung lyrics, or make it again. The judge lists
+ * every difference it found, the fine ones too, so "correct" keeps the song whatever it lists; "adopt" without
+ * usable sung lyrics, "unsure" and "wrong" are made again.
+ */
+export function outcome(v: Verdict): 'ok' | 'adopt' | 'reject' {
+  if (v.verdict === 'correct') return 'ok';
+  if (v.verdict === 'adopt' && wellFormed(v.sung_lyrics)) return 'adopt';
+  return 'reject';
+}
+
+/** The song is kept, as it is or with its sung lyrics. */
+export const passes = (v: Verdict) => outcome(v) !== 'reject';
 
 export function catalogLyrics(id: string): string {
   return JSON.parse(readFileSync(path.join(import.meta.dir, '..', 'catalog', `${id}.json`), 'utf8')).request.lyrics;
@@ -152,5 +190,5 @@ if (import.meta.main) {
   const whisper = JSON.parse(readFileSync(file ?? path.join(import.meta.dir, '..', 'sheets', id, 'whisper.json'), 'utf8'));
   const v = await judge(catalogLyrics(id), whisper);
   console.log(JSON.stringify(v, null, 2));
-  process.exit(passes(v) ? 0 : 2);
+  process.exit({ ok: 0, adopt: 3, reject: 2 }[outcome(v)]);
 }

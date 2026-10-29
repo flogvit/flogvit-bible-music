@@ -26,7 +26,7 @@ python=$(command -v python3) || { echo "python3 not found" >&2; exit 1; }
 args=${1:+<string>$1</string>}
 # The lyrics check's settings (README, Lyrics check), passed on when set here.
 extra=
-for key in MUSIC_MAX_ATTEMPTS MUSIC_JUDGE_MODEL; do
+for key in MUSIC_MAX_ATTEMPTS MUSIC_JUDGE_MODEL MUSIC_NICE; do
   [[ -n ${(P)key:-} ]] && extra+="
     <key>$key</key><string>${(P)key}</string>"
 done

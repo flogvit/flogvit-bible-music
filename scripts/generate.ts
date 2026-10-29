@@ -15,15 +15,17 @@
  *   bun scripts/generate.ts status             every song in catalog/order.txt with its state
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
+ *   bun scripts/generate.ts rejudge <id>       judge a set-aside song's kept takes again, keep the first that passes
  *
  * Before a song gets its sheets, scripts/lyrics-check.ts judges whether the singing delivers its lyrics. A song
- * that does not pass is made again with the next seed; after MUSIC_MAX_ATTEMPTS (default 3) it is set aside in
- * aside/<id>.json and the run goes on with the next song.
+ * sung as written is kept; one sung differently but as good lyrics is kept with the lyrics as sung
+ * (lyrics-sung.txt in its folder, used by its sheets and library). Only a broken song is made again with the next
+ * seed; after MUSIC_MAX_ATTEMPTS (default 3) it is set aside in aside/<id>.json and the run goes on.
  */
 import { existsSync, mkdirSync, openSync, readdirSync, readFileSync, renameSync, rmSync, statSync, writeFileSync } from 'fs';
 import { hostname } from 'os';
 import path from 'path';
-import { judge, JUDGE_MODEL, judgeReady, passes, type Verdict } from './lyrics-check';
+import { judge, JUDGE_MODEL, judgeReady, outcome, type Verdict } from './lyrics-check';
 
 const REPO = path.join(import.meta.dir, '..');
 // YuE/, .venv-sheets and library/ live in the main checkout, also when this runs from a worktree.
@@ -40,6 +42,8 @@ const MACHINE = process.env.MUSIC_MACHINE ?? hostname();
 // A song whose lyrics check fails this many times in a row is set aside in aside/ instead of made again.
 const MAX_ATTEMPTS = Number(process.env.MUSIC_MAX_ATTEMPTS ?? 3);
 const ASIDE = path.join(REPO, 'aside');
+// The lyrics as sung, in a song folder, when the lyrics check adopted them.
+const SUNG_LYRICS = 'lyrics-sung.txt';
 
 // rejected: the lyrics check failed and the song is free to make again; aside: it failed MAX_ATTEMPTS times;
 // retry: put back by hand after being set aside.
@@ -119,10 +123,11 @@ const efficiencyCores = Number(Bun.spawnSync(['sysctl', '-n', 'hw.perflevel1.phy
 const sheetsPriority = efficiencyCores < 4 ? ['nice', '-n', '20'] : ['taskpolicy', '-b'];
 
 /**
- * For a song whose audio is done: Whisper listens, the lyrics check judges what it heard, and only a song that
- * passes gets its sheets, library folder and sheets commit. A song that does not pass is rejected or set aside.
+ * For a song whose audio is done: Whisper listens, the lyrics check judges what it heard (or `given`, a verdict
+ * already made), and a song that is kept, with its lyrics as written or as sung, gets its sheets, library folder
+ * and sheets commit. A broken song is rejected or set aside.
  */
-async function finish(id: string, fresh: boolean): Promise<Outcome> {
+async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outcome> {
   const songDir = path.join(OUTPUTS, id);
   const sheets = path.join(REPO, 'sheets', id);
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
@@ -133,11 +138,21 @@ async function finish(id: string, fresh: boolean): Promise<Outcome> {
     return 'failed';
   }
   const lyrics = JSON.parse(readFileSync(path.join(songDir, 'request.json'), 'utf8')).lyrics;
-  const verdict = await judge(lyrics, JSON.parse(readFileSync(path.join(sheets, 'whisper.json'), 'utf8')));
+  const verdict = given ?? await judge(lyrics, JSON.parse(readFileSync(path.join(sheets, 'whisper.json'), 'utf8')));
   writeFileSync(path.join(songDir, 'lyrics-check.json'), JSON.stringify({ model: JUDGE_MODEL, ...verdict }, null, 1));
-  if (!passes(verdict)) return reject(id, verdict);
-  log(`LYRICS OK ${id}`);
-  if (fresh || !existsSync(path.join(sheets, `${id}-lead-sheet.pdf`))) {
+  const result = outcome(verdict);
+  if (result === 'reject') return reject(id, verdict);
+  const sung = path.join(songDir, SUNG_LYRICS);
+  if (result === 'adopt') {
+    // The song is kept, and its sheets and library show the lyrics as sung (song-sheets.py and build-library.py
+    // read lyrics-sung.txt before request.json); request.json keeps what was asked for.
+    writeFileSync(sung, verdict.sung_lyrics!.trim() + '\n');
+    log(`LYRICS ADOPTED ${id}: ${verdict.summary}`);
+  } else {
+    rmSync(sung, { force: true });
+    log(`LYRICS OK ${id}`);
+  }
+  if (fresh || result === 'adopt' || !existsSync(path.join(sheets, `${id}-lead-sheet.pdf`))) {
     if (await run([...sheetsPriority, py, 'scripts/song-sheets.py', songDir], REPO, logFile).exited !== 0) {
       log(`SHEETS FAILED ${id} (see ${logFile})`);
       return 'failed';
@@ -261,7 +276,10 @@ async function generate(id: string, tip: string): Promise<Lock | undefined> {
   }
   mkdirSync(OUTPUTS, { recursive: true });
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
-  const child = run(['taskpolicy', '-b', '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
+  // YuE runs in the background by default; MUSIC_NICE=<n> gives it normal priority at that niceness instead,
+  // for a machine where generation should come before other work.
+  const yuePriority = process.env.MUSIC_NICE ? ['nice', '-n', process.env.MUSIC_NICE] : ['taskpolicy', '-b'];
+  const child = run([...yuePriority, '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
     '--config', path.join(REPO, 'configs', 'long-12000.json'), '--resume'], YUE, logFile);
   children.add(child);
   // On power, the Mac stays awake while the song generates; asleep, its lock would go stale after 20 minutes.
@@ -401,7 +419,53 @@ if (command === 'run') {
       console.log(`${id} is free again, for ${MAX_ATTEMPTS} more attempts`);
     }
   }
+} else if (command === 'rejudge' && args[0]) {
+  // A song set aside here: judge its kept takes again under the current rules, and keep the first that passes.
+  const id = args[0];
+  const c = readClaims().get(id);
+  if (c?.state !== 'aside') {
+    console.log(`${id} is not set aside (${c?.state ?? 'free'})`);
+    process.exit(1);
+  }
+  const takes = readdirSync(OUTPUTS).filter((d) => d.startsWith(`${id}-rejected-`)).sort();
+  if (!takes.length) {
+    console.log(`${id}: no kept takes here in ${OUTPUTS}; rejudge it on the machine that set it aside`);
+    process.exit(1);
+  }
+  const notReady = await judgeReady();
+  if (notReady) throw new Error(notReady);
+  let kept: string | undefined;
+  for (const take of takes) {
+    const dir = path.join(OUTPUTS, take);
+    if (!existsSync(path.join(dir, 'whisper.json'))) continue;
+    const lyrics = JSON.parse(readFileSync(path.join(dir, 'request.json'), 'utf8')).lyrics;
+    const verdict = await judge(lyrics, JSON.parse(readFileSync(path.join(dir, 'whisper.json'), 'utf8')));
+    log(`REJUDGED ${take}: ${outcome(verdict)}: ${verdict.summary}`);
+    if (outcome(verdict) === 'reject') continue;
+    // Put the take back as the song, with its Whisper pass where finish() looks for it.
+    const sheets = path.join(REPO, 'sheets', id);
+    mkdirSync(sheets, { recursive: true });
+    renameSync(path.join(dir, 'whisper.json'), path.join(sheets, 'whisper.json'));
+    rmSync(path.join(OUTPUTS, id), { recursive: true, force: true });
+    renameSync(dir, path.join(OUTPUTS, id));
+    if (await finish(id, false, verdict) !== 'done') {
+      log(`REJUDGE FAILED ${id}: ${take} passed but its sheets or library failed`);
+      process.exit(1);
+    }
+    kept = take;
+    break;
+  }
+  if (!kept) {
+    console.log(`${id}: no take passes; it stays set aside`);
+    process.exit(2);
+  }
+  await recordSurely(id, readClaims().get(id)?.sha, 'done');
+  if (existsSync(path.join(ASIDE, `${id}.json`))) {
+    rmSync(path.join(ASIDE, `${id}.json`));
+    commitAndPush(path.join('aside', `${id}.json`), `${id} taken out of aside: ${kept} kept under the current lyrics check`);
+  }
+  console.log(`${id}: kept ${kept}`);
 } else {
-  console.error('Usage: bun scripts/generate.ts run [--from-end] | status | claim <id> | retry <id>');
+  console.error('Usage: bun scripts/generate.ts run [--from-end] | status | claim <id> | retry <id> | rejudge <id>');
   process.exit(1);
 }

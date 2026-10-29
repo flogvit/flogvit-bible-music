@@ -1189,7 +1189,9 @@ def run(song_dir: Path, out_root: Path, listen_only: bool = False) -> dict | Non
     print(f"{meta['id']}: {song_dir}", flush=True)
 
     score = parse_abc((song_dir / "score.abc").read_text())
-    lyrics = parse_lyrics(request["lyrics"])
+    # When the lyrics check kept the song with its lyrics as sung, the sheets follow what is sung.
+    sung = song_dir / "lyrics-sung.txt"
+    lyrics = parse_lyrics(sung.read_text() if sung.exists() else request["lyrics"])
     listen(lyrics, Listener(song_dir / "audio.flac", out / "whisper.json"))
     if listen_only:
         return None

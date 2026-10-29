@@ -1,0 +1,52 @@
+{
+  "id": "story-pasken-og-uttoget-gospel",
+  "title": "When I See the Blood",
+  "kind": "story",
+  "anchor": {
+    "story": "pasken-og-uttoget"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 42
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "frelsen",
+      "moses",
+      "nattverden"
+    ],
+    "stories": [
+      "pasken-og-uttoget",
+      "israelittene-gar-gjennom-rodehavet"
+    ],
+    "persons": [
+      "moses",
+      "aron",
+      "farao-exodus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional spiritual, deep male lead with gospel choir answering, hand claps, foot stomps, Hammond organ, bass, slow and powerful, 72 BPM",
+    "lyrics": "[Verse]\nDown in the land of Egypt where the bricks were made with tears\nThe people cried for freedom for four hundred years\nThen Moses said, get ready now, put your sandals on your feet\nTake a lamb for every household and the bread without the yeast\n\n[Chorus]\nWhen I see the blood, I will pass over you\nNo plague will come upon you\nWhen I see the blood, I will pass over you\nI will pass over you\n\n[Verse]\nPaint the doorposts, paint the lintel, stay inside until the dawn\nEat it standing, eat it hurried, with your staff and your cloak on\nAt midnight came the crying all across the land\nBut the houses with the blood were held in the LORD's own hand\n\n[Chorus]\nWhen I see the blood, I will pass over you\nNo plague will come upon you\nWhen I see the blood, I will pass over you\nI will pass over you\n\n[Bridge]\nThis day shall be a day of remembrance for you\nAnd you shall keep it as a festival to the LORD\nThroughout your generations\n\n[Outro]\nWhen I see the blood\nI will pass over you",
+    "cot": "full",
+    "seed": 20150
+  }
+}

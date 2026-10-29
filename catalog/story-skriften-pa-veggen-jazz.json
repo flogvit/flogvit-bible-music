@@ -1,0 +1,46 @@
+{
+  "id": "story-skriften-pa-veggen-jazz",
+  "title": "Weighed on the Scales",
+  "kind": "story",
+  "anchor": {
+    "story": "skriften-pa-veggen"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz",
+      "blues"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "synden",
+      "ydmykhet"
+    ],
+    "stories": [
+      "skriften-pa-veggen"
+    ],
+    "persons": [
+      "daniel",
+      "belsasar"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smoky swing jazz, sultry female vocal, big band horns, walking bass, piano, brushed swing drums, dark and dramatic, 108 BPM",
+    "lyrics": "[Verse]\nKing Belshazzar threw a party for a thousand of his lords\nThey drank the wine from the temple cups and laughed at the holy things\nThey praised the gods of silver and the gods of gold and stone\nThen a hand came out of nowhere and the laughter died alone\n\n[Verse]\nThe fingers wrote upon the plaster by the lampstand's light\nThe king's face turned to ashes and his knees knocked in the night\nNo wise man in the city could read the words or tell\nSo they called for the old exile, Daniel, who knew God well\n\n[Chorus]\nMENE, MENE, TEKEL, and PARSIN\nYou have been weighed on the scales\nAnd found too light\nWeighed on the scales and found too light\n\n[Bridge]\nGod has numbered the days of your kingdom\nAnd brought it to an end\nYour kingdom has been divided\nAnd given to the Medes and Persians\n\n[Chorus]\nMENE, MENE, TEKEL, and PARSIN\nYou have been weighed on the scales\nAnd found too light\nWeighed on the scales and found too light\n\n[Outro]\nThat very night the king was slain\nWeighed on the scales",
+    "cot": "full",
+    "seed": 20154
+  }
+}

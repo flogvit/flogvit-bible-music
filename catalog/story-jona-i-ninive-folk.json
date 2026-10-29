@@ -1,0 +1,54 @@
+{
+  "id": "story-jona-i-ninive-folk",
+  "title": "Should I Not Care",
+  "kind": "story",
+  "anchor": {
+    "story": "jona-i-ninive"
+  },
+  "references": [
+    {
+      "bookId": 32,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 32,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "nade",
+      "tilgivelse"
+    ],
+    "stories": [
+      "jona-i-ninive",
+      "jona-i-fiskens-buk",
+      "jonas-vrede-og-guds-naade"
+    ],
+    "persons": [
+      "jona"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle folk storytelling, male vocal with soft female harmony, fingerpicked guitar, accordion, cello, light percussion, warm and wry, 88 BPM",
+    "lyrics": "[Verse]\nJonah walked through Nineveh, three days wide and tall\nHe shouted forty days and then your city's going to fall\nThe king came down from his throne and sat down in the dust\nAnd the whole great city turned around, they put away their lust\n\n[Verse]\nWhen God saw what they did, how they turned from their evil way\nHe relented concerning the disaster and he spared them on that day\nBut Jonah sat outside the town and sulked beneath a vine\nHe said I knew you'd be like this, you're merciful and kind\n\n[Chorus]\nShould I not then care about Nineveh, that great city\nMore than a hundred and twenty thousand people\nWho do not know their right hand from their left\nAnd also many animals\n\n[Verse]\nThe little plant that gave him shade, it withered in a night\nAnd Jonah cried about the plant and said it isn't right\nYou cared about this plant, which you did not labor for\nI care for every soul, said God, and so much more\n\n[Chorus]\nShould I not then care about Nineveh, that great city\nMore than a hundred and twenty thousand people\nWho do not know their right hand from their left\nAnd also many animals",
+    "cot": "full",
+    "seed": 20155
+  }
+}

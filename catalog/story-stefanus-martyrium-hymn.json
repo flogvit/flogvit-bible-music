@@ -1,0 +1,60 @@
+{
+  "id": "story-stefanus-martyrium-hymn",
+  "title": "I See Heaven Opened",
+  "kind": "story",
+  "anchor": {
+    "story": "stefanus-martyrium"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 6,
+      "verseStart": 8,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 44,
+      "chapter": 7,
+      "verseStart": 54,
+      "verseEnd": 60
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "mercy"
+    ],
+    "themes": [
+      "tilgivelse",
+      "lidelse",
+      "den-hellige-and"
+    ],
+    "stories": [
+      "stefanus-martyrium",
+      "saulus-omvendelse"
+    ],
+    "persons": [
+      "stefanus",
+      "jesus",
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn modern hymn, clear male tenor with mixed choir, piano, strings, soft organ, reverent and luminous, 68 BPM",
+    "lyrics": "[Verse]\nHe served the widows at the table\nHe spoke with wisdom and with grace\nAnd all who sat in the council\nSaw a face like an angel's face\n\n[Verse]\nThey could not stand against his wisdom\nThey could not answer what he said\nSo they covered their ears and screamed\nAnd they rushed at him instead\n\n[Chorus]\nLook, I see heaven opened\nAnd the Son of Man standing at the right hand of God\nLord Jesus, receive my spirit\nLord Jesus, receive my spirit\n\n[Verse]\nThey dragged him out of the city\nThey laid their cloaks at Saul's feet\nAnd as the stones were falling\nHis prayer was strong and sweet\n\n[Chorus]\nLook, I see heaven opened\nAnd the Son of Man standing at the right hand of God\nLord Jesus, receive my spirit\nLord Jesus, receive my spirit\n\n[Bridge]\nThen he fell to his knees and cried out with a loud voice\nLord, do not hold this sin against them\nAnd with these words he fell asleep\n\n[Outro]\nLord Jesus, receive my spirit",
+    "cot": "full",
+    "seed": 20165
+  }
+}

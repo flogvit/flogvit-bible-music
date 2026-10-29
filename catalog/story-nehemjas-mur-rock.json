@@ -1,0 +1,62 @@
+{
+  "id": "story-nehemjas-mur-rock",
+  "title": "Let Us Start Rebuilding",
+  "kind": "story",
+  "anchor": {
+    "story": "nehemjas-mur"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 2,
+      "verseStart": 17,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 16,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 16,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "menigheten",
+      "bonn"
+    ],
+    "stories": [
+      "nehemjas-mur",
+      "nehemjas-bonn-og-kall",
+      "motstanden-mot-nehemjas-byggearbeid"
+    ],
+    "persons": [
+      "nehemja",
+      "sanballat"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, anthemic rock, strong female vocal with gang shouts, crunchy rhythm guitars, bass, big drums, determined and uplifting, 124 BPM",
+    "lyrics": "[Verse]\nThe walls were down, the gates were burned\nThe city lay in shame\nNehemiah rode by moonlight\nAnd he came back with a flame\n\n[Chorus]\nCome, let us rebuild the wall of Jerusalem\nLet us start rebuilding\nThe God of heaven will give us success\nLet us start rebuilding\n\n[Verse]\nSanballat laughed and Tobiah sneered\nWhat is this you are doing\nBut they set their hands to the good work\nAnd they kept on with the building\n\n[Chorus]\nCome, let us rebuild the wall of Jerusalem\nLet us start rebuilding\nThe God of heaven will give us success\nLet us start rebuilding\n\n[Bridge]\nA trowel in one hand, a sword in the other\nSister by sister and brother by brother\nIn fifty-two days the wall was finished\nFor this work had been accomplished by our God\n\n[Outro]\nLet us start rebuilding\nLet us start rebuilding",
+    "cot": "full",
+    "seed": 20168
+  }
+}

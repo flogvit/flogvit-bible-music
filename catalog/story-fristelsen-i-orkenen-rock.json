@@ -1,0 +1,45 @@
+{
+  "id": "story-fristelsen-i-orkenen-rock",
+  "title": "Not by Bread Alone",
+  "kind": "story",
+  "anchor": {
+    "story": "fristelsen-i-orkenen"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "synden"
+    ],
+    "stories": [
+      "fristelsen-i-orkenen"
+    ],
+    "persons": [
+      "jesus",
+      "satan"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, desert rock, gritty male vocal, fuzzy baritone guitar, droning bass, tom-heavy drums, sparse and tense, 96 BPM",
+    "lyrics": "[Verse]\nForty days in the wilderness, forty nights alone\nSun like a hammer and sand like a bone\nThen a voice came out of the heat haze, smooth as oil\nIf you are the Son of God, tell these stones to become bread\n\n[Chorus]\nIt is written\nMan shall not live by bread alone\nBut by every word that comes from the mouth of God\nIt is written\n\n[Verse]\nUp on the temple's edge, the city far below\nThrow yourself down, the angels will catch you, you know\nUp on the mountain, all the kingdoms shining bright\nAll of this is yours if you bow down tonight\n\n[Chorus]\nIt is written\nMan shall not live by bread alone\nBut by every word that comes from the mouth of God\nIt is written\n\n[Bridge]\nAway with you, Satan\nYou shall worship the Lord your God\nAnd him alone shall you serve\nThen the devil left him, and behold, angels came\n\n[Outro]\nIt is written",
+    "cot": "full",
+    "seed": 20157
+  }
+}

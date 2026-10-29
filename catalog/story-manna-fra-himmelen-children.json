@@ -1,0 +1,45 @@
+{
+  "id": "story-manna-fra-himmelen-children",
+  "title": "What Is It?",
+  "kind": "story",
+  "anchor": {
+    "story": "manna-fra-himmelen"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "manna-fra-himmelen"
+    ],
+    "persons": [
+      "moses"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, playful male lead with kids choir, acoustic guitar, xylophone, toy piano, claps, tuba bass, bouncy and silly, 112 BPM",
+    "lyrics": "[Verse]\nIn the desert, hot and dry\nHungry tummies, hear them cry\nMoses prayed and God replied\nI'll feed you from the sky\n\n[Verse]\nIn the morning, look around\nWhite and flaky on the ground\nFine as frost on the ground\nWhat is this that we have found\n\n[Chorus]\nWhat is it, what is it\nNobody knows\nWhat is it, what is it\nEverybody goes\nIt is the bread the LORD has given you to eat\nThank you, God, for something sweet\n\n[Verse]\nTake enough for just one day\nDon't you try to stash away\nEvery morning, rain or shine\nGod gives bread, and right on time\n\n[Chorus]\nWhat is it, what is it\nNobody knows\nWhat is it, what is it\nEverybody goes\nIt is the bread the LORD has given you to eat\nThank you, God, for something sweet\n\n[Outro]\nManna, manna, every day\nThank you, God, we shout hooray",
+    "cot": "full",
+    "seed": 20151
+  }
+}

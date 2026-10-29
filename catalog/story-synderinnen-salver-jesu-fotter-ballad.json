@@ -1,0 +1,47 @@
+{
+  "id": "story-synderinnen-salver-jesu-fotter-ballad",
+  "title": "She Loved Much",
+  "kind": "story",
+  "anchor": {
+    "story": "synderinnen-salver-jesu-fotter"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 7,
+      "verseStart": 36,
+      "verseEnd": 50
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "love"
+    ],
+    "themes": [
+      "tilgivelse",
+      "nade"
+    ],
+    "stories": [
+      "synderinnen-salver-jesu-fotter"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, intimate piano ballad, tender female vocal, piano, cello, soft strings, quiet and emotional, 66 BPM",
+    "lyrics": "[Verse]\nShe came into the Pharisee's house uninvited\nWith an alabaster jar and a name everyone knew\nShe knelt at his feet and the tears came falling\nShe wiped them with her hair, she didn't know what else to do\n\n[Verse]\nSimon watched from the table and he thought within his heart\nIf this man were a prophet he would know who she is\nBut Jesus turned toward the woman and said to Simon\nDo you see this woman\n\n[Chorus]\nHer many sins have been forgiven\nFor she loved much\nBut the one who is forgiven little\nLoves little\n\n[Verse]\nYou gave me no water for my feet\nBut she has wet my feet with her tears\nYou gave me no kiss\nBut she has not stopped kissing my feet\n\n[Chorus]\nHer many sins have been forgiven\nFor she loved much\nBut the one who is forgiven little\nLoves little\n\n[Outro]\nYour sins are forgiven\nYour faith has saved you\nGo in peace",
+    "cot": "full",
+    "seed": 20167
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "story-arbeiderne-i-vingarden-folk",
+  "title": "The Last Will Be First",
+  "kind": "story",
+  "anchor": {
+    "story": "arbeiderne-i-vingarden"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 20,
+      "verseStart": 1,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "nade",
+      "lignelsene"
+    ],
+    "stories": [
+      "arbeiderne-i-vingarden"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, rootsy folk, male vocal with group harmonies, acoustic guitar, mandolin, fiddle, upright bass, foot stomp, swinging, 104 BPM",
+    "lyrics": "[Verse]\nEarly in the morning, the landowner went\nTo hire some workers, a denarius was meant\nAt the third hour, at the sixth and the ninth\nHe went to the marketplace, he called them in line\n\n[Verse]\nAt the eleventh hour some were standing around\nWhy have you been standing here idle all day\nBecause no one has hired us, the men all replied\nYou also go into the vineyard, he said with a smile\n\n[Chorus]\nSo the last will be first\nAnd the first last\nGrace is not wages\nGrace is a gift that holds fast\n\n[Verse]\nWhen evening came, they lined up for pay\nThe last ones got a denarius for one hour of the day\nThe first ones grumbled, we bore the scorching heat\nFriend, I am doing you no wrong, take what is yours and eat\n\n[Chorus]\nSo the last will be first\nAnd the first last\nGrace is not wages\nGrace is a gift that holds fast\n\n[Bridge]\nAm I not allowed to do what I want with what is mine\nOr are you envious because I am generous\n\n[Outro]\nSo the last will be first\nAnd the first last",
+    "cot": "full",
+    "seed": 20164
+  }
+}

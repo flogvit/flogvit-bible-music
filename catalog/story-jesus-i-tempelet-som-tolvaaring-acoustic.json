@@ -1,0 +1,49 @@
+{
+  "id": "story-jesus-i-tempelet-som-tolvaaring-acoustic",
+  "title": "In My Father's House",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-i-tempelet-som-tolvaaring"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 41,
+      "verseEnd": 52
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "obedience"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "jesus-i-tempelet-som-tolvaaring"
+    ],
+    "persons": [
+      "jesus",
+      "maria-jesu-mor",
+      "josef-marias-mann"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm acoustic pop, clear young male vocal with female harmony, acoustic guitars, piano, light strings, soft percussion, gentle and bright, 90 BPM",
+    "lyrics": "[Verse]\nThe Passover was over and the caravans went home\nMary thought he walked with cousins, Joseph thought he'd gone on\nA day out on the road they searched among the friends\nBut he was nowhere to be found when the day came to its end\n\n[Verse]\nAfter three days they found him in the temple\nSitting among the teachers\nListening to them and asking them questions\nEveryone who heard him was astounded\n\n[Chorus]\nWhy were you searching for me\nDid you not know that I must be in my Father's house\nWhy were you searching for me\nI must be in my Father's house\n\n[Verse]\nChild, why have you done this to us, his mother said in tears\nYour father and I have been searching for you in anguish\nHe went down with them to Nazareth and continued to obey them\nAnd his mother treasured all these things in her heart\n\n[Chorus]\nWhy were you searching for me\nDid you not know that I must be in my Father's house\nWhy were you searching for me\nI must be in my Father's house",
+    "cot": "full",
+    "seed": 20156
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "story-filip-og-den-etiopiske-hoffmannen-gospel",
+  "title": "Here Is Water",
+  "kind": "story",
+  "anchor": {
+    "story": "filip-og-den-etiopiske-hoffmannen"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 8,
+      "verseStart": 26,
+      "verseEnd": 40
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel",
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "dapen",
+      "frelsen",
+      "glede"
+    ],
+    "stories": [
+      "filip-og-den-etiopiske-hoffmannen"
+    ],
+    "persons": [
+      "filip-evangelisten"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Afro-gospel, joyful male lead with choir, talking drums, congas, bright guitars, piano, bass, celebratory groove, 118 BPM",
+    "lyrics": "[Verse]\nOn the desert road to Gaza rolled a chariot in the sun\nAn official of the queen of Ethiopia, a long way he had come\nHe was reading from Isaiah, but he could not see the way\nThen Philip ran up beside him and he heard the reader say\n\n[Verse]\nLike a sheep he was led to the slaughter\nAnd like a lamb silent before its shearer\nDo you understand what you are reading\nHow can I, unless someone guides me\n\n[Chorus]\nLook, here is water\nWhat is to keep me from being baptized\nLook, here is water\nAnd he went on his way rejoicing\n\n[Verse]\nPhilip began with that passage of Scripture\nAnd told him the good news about Jesus\nHe ordered the chariot to stop\nAnd both of them went down into the water\n\n[Chorus]\nLook, here is water\nWhat is to keep me from being baptized\nLook, here is water\nAnd he went on his way rejoicing\n\n[Outro]\nHe went on his way rejoicing\nRejoicing, rejoicing",
+    "cot": "full",
+    "seed": 20166
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "story-abrahams-kall-folk",
+  "title": "So Abram Went",
+  "kind": "story",
+  "anchor": {
+    "story": "abrahams-kall"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "acoustic"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "obedience"
+    ],
+    "themes": [
+      "abraham",
+      "tro",
+      "pakten"
+    ],
+    "stories": [
+      "abrahams-kall"
+    ],
+    "persons": [
+      "abraham",
+      "sara",
+      "lot"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Americana folk, weathered male vocal with female harmony, acoustic guitar, banjo, pedal steel, upright bass, soft kick drum, journeying feel, 92 BPM",
+    "lyrics": "[Verse]\nHe was seventy-five with his roots in the ground\nHis fathers' graves were all around\nThen a voice came through the evening air\nAnd it called him out to who knows where\n\n[Chorus]\nLeave your land, your kindred, and your father's house\nAnd go to the land I will show you\nI will make you into a great nation\nAnd in you all the families of the earth will be blessed\n\n[Verse]\nSarah packed the tent and the cooking pot\nLot drove the flocks from the family plot\nNo map to follow, no road to see\nJust a promise and a God he could not see\n\n[Chorus]\nLeave your land, your kindred, and your father's house\nAnd go to the land I will show you\nI will make you into a great nation\nAnd in you all the families of the earth will be blessed\n\n[Bridge]\nSo Abram went, as the LORD had told him\nSo Abram went, not knowing where\nSo Abram went, as the LORD had told him\nAnd the promise walked beside him there\n\n[Outro]\nAnd you will be a blessing\nYou will be a blessing",
+    "cot": "full",
+    "seed": 20147
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "story-kain-og-abel-blues",
+  "title": "My Brother's Keeper",
+  "kind": "story",
+  "anchor": {
+    "story": "kain-og-abel"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "mercy"
+    ],
+    "themes": [
+      "synden"
+    ],
+    "stories": [
+      "kain-og-abel"
+    ],
+    "persons": [
+      "kain",
+      "abel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Delta blues, raw male vocal, resonator slide guitar, stomp box, harmonica, sparse and haunting, 70 BPM",
+    "lyrics": "[Verse]\nTwo brothers working the morning land\nOne with the flock and one with the plough in his hand\nAbel brought the firstborn and the best of what he had\nCain brought his offering and his heart was turning bad\n\n[Verse]\nSin was crouching at the door like a hungry dog\nCain let it in and the evening turned to fog\nOut in the field where nobody could see\nHe rose up against his brother by the old fig tree\n\n[Chorus]\nWhere is your brother Abel\nI do not know\nAm I my brother's keeper\nAm I my brother's keeper\n\n[Verse]\nWhat have you done\nListen, your brother's blood is crying out to me from the ground\nCain went out wandering, the earth no longer his\nBut God put a mark on him, that's how mercy is\n\n[Chorus]\nWhere is your brother Abel\nI do not know\nAm I my brother's keeper\nAm I my brother's keeper\n\n[Outro]\nYes, I am my brother's keeper\nLord, make me my brother's keeper",
+    "cot": "full",
+    "seed": 20149
+  }
+}

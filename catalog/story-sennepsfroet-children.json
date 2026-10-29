@@ -1,0 +1,46 @@
+{
+  "id": "story-sennepsfroet-children",
+  "title": "The Littlest Seed",
+  "kind": "story",
+  "anchor": {
+    "story": "sennepsfroet"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 13,
+      "verseStart": 31,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "lignelsene"
+    ],
+    "stories": [
+      "sennepsfroet"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's song, gentle female vocal with kids choir, ukulele, glockenspiel, soft piano, shaker, warm and simple, 98 BPM",
+    "lyrics": "[Verse]\nI've got a seed so very small\nYou can hardly see it at all\nPut it in the ground and wait\nGod will make it grow so great\n\n[Chorus]\nIt is the smallest of all seeds\nBut when it has grown it becomes a tree\nSo that the birds of the air come\nAnd nest in its branches\n\n[Verse]\nRain comes down and sun comes round\nLittle shoot pokes from the ground\nBigger, bigger, branch and leaf\nGod's kingdom grows beyond belief\n\n[Chorus]\nIt is the smallest of all seeds\nBut when it has grown it becomes a tree\nSo that the birds of the air come\nAnd nest in its branches\n\n[Bridge]\nLittle faith, little hand\nLittle kindness, little plan\nGod can take the smallest thing\nAnd make the whole world sing\n\n[Outro]\nThe kingdom of heaven is like a mustard seed\nA mustard seed",
+    "cot": "full",
+    "seed": 20169
+  }
+}

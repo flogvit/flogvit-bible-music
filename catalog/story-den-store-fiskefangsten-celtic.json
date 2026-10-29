@@ -1,0 +1,51 @@
+{
+  "id": "story-den-store-fiskefangsten-celtic",
+  "title": "Put Out into Deep Water",
+  "kind": "story",
+  "anchor": {
+    "story": "den-store-fiskefangsten"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "peter",
+      "tro"
+    ],
+    "stories": [
+      "den-store-fiskefangsten"
+    ],
+    "persons": [
+      "jesus",
+      "peter",
+      "jakob-sebedeus",
+      "johannes-apostel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic sea-shanty folk, rugged male vocal with crew-style group chorus, fiddle, accordion, bodhran, bouzouki, rolling 6/8 swing, 100 BPM",
+    "lyrics": "[Verse]\nWe rowed out on the dark lake when the stars were in the sky\nWe cast and hauled the empty nets till the morning sun came high\nWe were washing out the tackle when the Teacher came along\nHe climbed into my boat and said, now push us out from shore\n\n[Chorus]\nPut out into deep water\nAnd let down your nets for a catch\nMaster, we worked hard all night and caught nothing\nBut at your word I will let down the nets\n\n[Verse]\nThe nets began to tear, boys, the fish came leaping in\nWe signaled to our partners, they came rowing to the din\nWe filled both boats so full of fish that they began to sink\nAnd I fell down before him and I couldn't even think\n\n[Chorus]\nPut out into deep water\nAnd let down your nets for a catch\nMaster, we worked hard all night and caught nothing\nBut at your word I will let down the nets\n\n[Bridge]\nGo away from me, Lord, for I am a sinful man\nDo not be afraid\nFrom now on you will be catching people\nSo they brought their boats to shore, left everything behind\nAnd followed him\n\n[Outro]\nAt your word I will let down the nets",
+    "cot": "full",
+    "seed": 20159
+  }
+}

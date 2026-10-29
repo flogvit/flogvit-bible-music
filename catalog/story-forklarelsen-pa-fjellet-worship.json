@@ -1,0 +1,52 @@
+{
+  "id": "story-forklarelsen-pa-fjellet-worship",
+  "title": "Listen to Him",
+  "kind": "story",
+  "anchor": {
+    "story": "forklarelsen-pa-fjellet"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [
+      "forklarelsen-pa-fjellet"
+    ],
+    "persons": [
+      "jesus",
+      "peter",
+      "jakob-sebedeus",
+      "johannes-apostel",
+      "moses",
+      "elia"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, atmospheric worship, female lead vocal with male harmony, ambient electric guitar swells, piano, synth pads, slow-building drums, luminous, 70 BPM",
+    "lyrics": "[Verse]\nUp the mountain, six days later\nPeter, James and John\nFar above the noisy valley\nWhere the light was coming on\n\n[Chorus]\nHis face shone like the sun\nAnd his clothes became white as the light\nThis is my beloved Son, in whom I am well pleased\nListen to him\n\n[Verse]\nMoses and Elijah appeared\nTalking with him there\nLord, it is good for us to be here\nPeter spoke into the air\n\n[Chorus]\nHis face shone like the sun\nAnd his clothes became white as the light\nThis is my beloved Son, in whom I am well pleased\nListen to him\n\n[Bridge]\nA bright cloud overshadowed them\nThey fell face down, terrified\nBut Jesus came and touched them\nGet up, do not be afraid\nAnd they saw no one but Jesus alone\n\n[Outro]\nListen to him\nListen to him",
+    "cot": "full",
+    "seed": 20158
+  }
+}

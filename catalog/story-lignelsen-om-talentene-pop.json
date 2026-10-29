@@ -1,0 +1,47 @@
+{
+  "id": "story-lignelsen-om-talentene-pop",
+  "title": "Good and Faithful",
+  "kind": "story",
+  "anchor": {
+    "story": "lignelsen-om-talentene"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 25,
+      "verseStart": 14,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "lignelsene",
+      "penger"
+    ],
+    "stories": [
+      "lignelsen-om-talentene"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, upbeat acoustic pop, bright male vocal, acoustic guitar strums, piano, glockenspiel, claps, bass, drums, encouraging, 112 BPM",
+    "lyrics": "[Verse]\nThe master went away on a journey\nHe gave his servants what he had\nFive to one and two to another\nOne to the last, and he wasn't glad\n\n[Verse]\nThe first one traded and he doubled it\nThe second one did the same\nBut the third one dug a hole in the ground\nAnd hid it away in shame\n\n[Chorus]\nWell done, good and faithful servant\nYou have been faithful with a little\nI will put you in charge of much\nCome and share your master's joy\n\n[Verse]\nWhatever you have, a song or a story\nA pair of hands, a listening ear\nDon't bury it under your fear and worry\nTake it out and use it here\n\n[Chorus]\nWell done, good and faithful servant\nYou have been faithful with a little\nI will put you in charge of much\nCome and share your master's joy\n\n[Bridge]\nDon't hide it, don't bury it\nBring it to the light\nDon't hide it, don't bury it\nLet it shine bright\n\n[Outro]\nCome and share your master's joy",
+    "cot": "full",
+    "seed": 20163
+  }
+}

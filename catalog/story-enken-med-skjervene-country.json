@@ -1,0 +1,48 @@
+{
+  "id": "story-enken-med-skjervene-country",
+  "title": "Two Small Coins",
+  "kind": "story",
+  "anchor": {
+    "story": "enken-med-skjervene"
+  },
+  "references": [
+    {
+      "bookId": 41,
+      "chapter": 12,
+      "verseStart": 41,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "country",
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "penger",
+      "ydmykhet"
+    ],
+    "stories": [
+      "enken-med-skjervene"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, quiet country ballad, soft female vocal, acoustic guitar, dobro, piano, light strings, simple and moving, 74 BPM",
+    "lyrics": "[Verse]\nThe rich men came in their fine clothes\nTheir purses heavy, their noses high\nThey dropped their silver in the treasury\nAnd made sure everyone saw it fly\n\n[Verse]\nThen came a widow, thin and gray\nTwo copper coins in her worn hand\nShe dropped them in without a sound\nAnd no one there would understand\n\n[Chorus]\nThis poor widow has put in more than all the others\nFor they all gave out of their abundance\nBut she, out of her poverty, put in everything she owned\nAll she had to live on\n\n[Verse]\nJesus sat down across the way\nAnd watched the people as they gave\nHe saw the coins that no one heard\nHe saw the faith that makes us brave\n\n[Chorus]\nThis poor widow has put in more than all the others\nFor they all gave out of their abundance\nBut she, out of her poverty, put in everything she owned\nAll she had to live on\n\n[Outro]\nTwo small coins\nAll she had to live on",
+    "cot": "full",
+    "seed": 20161
+  }
+}

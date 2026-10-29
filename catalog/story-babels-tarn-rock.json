@@ -1,0 +1,44 @@
+{
+  "id": "story-babels-tarn-rock",
+  "title": "Tower to the Heavens",
+  "kind": "story",
+  "anchor": {
+    "story": "babels-tarn"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "synden",
+      "ydmykhet"
+    ],
+    "stories": [
+      "babels-tarn"
+    ],
+    "persons": [
+      "gud"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, heavy blues rock, powerful male vocal, distorted guitars, Hammond organ, bass, pounding drums, building tension, 104 BPM",
+    "lyrics": "[Verse]\nThey baked the bricks and they burned them hard\nThey mixed the tar in the city yard\nOne people with one language, one dream in every eye\nWe'll build ourselves a tower that will scrape against the sky\n\n[Chorus]\nCome, let us build ourselves a city\nWith a tower that reaches to the heavens\nAnd make a name for ourselves\nMake a name, make a name for ourselves\n\n[Verse]\nHigher went the scaffolding, higher went the pride\nNothing we set our minds to could be denied\nBut the LORD came down to see the city and the tower\nThat the children of man were building in their hour\n\n[Chorus]\nCome, let us build ourselves a city\nWith a tower that reaches to the heavens\nAnd make a name for ourselves\nMake a name, make a name for ourselves\n\n[Bridge]\nThen the words began to tangle and the voices turned to noise\nThe foreman couldn't call them and the builders lost their poise\nSo the LORD scattered them from there over the face of the whole earth\nAnd they stopped building the city\n\n[Outro]\nA name for ourselves\nIt was never ours to make",
+    "cot": "full",
+    "seed": 20148
+  }
+}

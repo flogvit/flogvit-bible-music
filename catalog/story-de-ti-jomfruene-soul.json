@@ -1,0 +1,48 @@
+{
+  "id": "story-de-ti-jomfruene-soul",
+  "title": "Here Is the Bridegroom",
+  "kind": "story",
+  "anchor": {
+    "story": "de-ti-jomfruene"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 25,
+      "verseStart": 1,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "endetiden",
+      "lignelsene",
+      "hap"
+    ],
+    "stories": [
+      "de-ti-jomfruene"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Motown soul, female lead vocal with girl-group backing harmonies, bass groove, tambourine, electric piano, horns, strings, lively, 116 BPM",
+    "lyrics": "[Verse]\nTen young girls with their lamps all ready\nWaiting for the wedding night\nFive of them were foolish, five of them were wise\nFive brought oil to keep their lamps alight\n\n[Verse]\nThe bridegroom was a long time in coming\nSo they all grew drowsy and fell asleep\nBut at midnight there came a shout\nAnd the wise ones had their oil to keep\n\n[Chorus]\nHere is the bridegroom\nCome out to meet him\nKeep your lamp burning\nKeep watch, keep watch\n\n[Verse]\nGive us some of your oil, our lamps are going out\nThe foolish ones cried, but the wise ones said no\nWhile they were away the bridegroom came\nAnd the door was shut, and they had nowhere to go\n\n[Chorus]\nHere is the bridegroom\nCome out to meet him\nKeep your lamp burning\nKeep watch, keep watch\n\n[Bridge]\nSo keep watch\nBecause you do not know the day or the hour\nKeep watch\nBecause you do not know the day or the hour\n\n[Outro]\nHere is the bridegroom\nCome out to meet him",
+    "cot": "full",
+    "seed": 20162
+  }
+}

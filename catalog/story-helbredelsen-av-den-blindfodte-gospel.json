@@ -1,0 +1,48 @@
+{
+  "id": "story-helbredelsen-av-den-blindfodte-gospel",
+  "title": "I Was Blind, and Now I See",
+  "kind": "story",
+  "anchor": {
+    "story": "helbredelsen-av-den-blindfodte"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 41
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "frelsen",
+      "tro"
+    ],
+    "stories": [
+      "helbredelsen-av-den-blindfodte",
+      "jeg-er-verdens-lys"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, joyful gospel, male lead vocal with call-and-response choir, piano, Hammond organ, bass, drums, tambourine, uplifting, 110 BPM",
+    "lyrics": "[Verse]\nBorn in the dark, I sat by the road\nBegging for coins with a heavy load\nHe spat on the ground and he made some clay\nHe put it on my eyes and he said, go wash it away\n\n[Verse]\nI went to the pool and I washed my face\nAnd light came pouring into that place\nThe neighbors asked, isn't this the beggar man\nThe leaders asked me who and how, they did not understand\n\n[Chorus]\nWhether he is a sinner I do not know\nOne thing I do know\nI was blind, and now I see\nI was blind, and now I see\n\n[Verse]\nThey questioned my mother, they questioned me twice\nThey wanted an answer to fit their device\nBut all I can tell you is what he has done\nHe opened my eyes and I'm seeing the sun\n\n[Chorus]\nWhether he is a sinner I do not know\nOne thing I do know\nI was blind, and now I see\nI was blind, and now I see\n\n[Outro]\nI am the light of the world\nI was blind, and now I see",
+    "cot": "full",
+    "seed": 20160
+  }
+}

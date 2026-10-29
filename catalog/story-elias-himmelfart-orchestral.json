@@ -1,0 +1,47 @@
+{
+  "id": "story-elias-himmelfart-orchestral",
+  "title": "Chariot of Fire",
+  "kind": "story",
+  "anchor": {
+    "story": "elias-himmelfart"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "oppstandelsen"
+    ],
+    "stories": [
+      "elias-himmelfart"
+    ],
+    "persons": [
+      "elia",
+      "elisja"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, epic orchestral, male tenor lead with choir, full strings, brass, timpani, harp glissandi, rising from hush to triumph, 84 BPM",
+    "lyrics": "[Verse]\nFrom Gilgal down to Bethel, from Bethel down to the river\nThe old prophet and his servant walked the road together\nStay here, the old man told him, but Elisha would not stay\nAs the LORD lives, I will not leave you, I will walk with you today\n\n[Verse]\nAt the Jordan Elijah rolled his cloak and struck the water\nIt parted left and right, they crossed on the dry ground\nAsk what I may do for you before I am taken from you\nLet me receive a double portion of your spirit\n\n[Chorus]\nSuddenly a chariot of fire and horses of fire appeared\nAnd Elijah went up to heaven in a whirlwind\nMy father, my father\nThe chariots and horsemen of Israel\n\n[Bridge]\nAnd he saw him no more\nHe picked up the cloak that had fallen\nHe struck the river as the old man had\nAnd the water parted for him\n\n[Chorus]\nSuddenly a chariot of fire and horses of fire appeared\nAnd Elijah went up to heaven in a whirlwind\nMy father, my father\nThe chariots and horsemen of Israel",
+    "cot": "full",
+    "seed": 20153
+  }
+}

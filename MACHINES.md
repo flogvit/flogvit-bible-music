@@ -46,7 +46,7 @@ on Home Mac.
 | story-jona-i-fiskens-buk-children | done 2026-10-29 08:08, 2:27, sheets in sheets/ |
 | person-moses-folk | done 2026-10-29 08:39, 3:32, sheets in sheets/ |
 | person-maria-jesu-mor-ballad | done 2026-10-29 09:12, 4:09, sheets in sheets/ |
-| person-peter-acoustic | taken |
+| person-peter-acoustic | done 2026-10-29 09:41, 3:14, sheets in sheets/ |
 | person-paulus-rock | taken |
 | theme-jul-orchestral | taken |
 | theme-nade-soul | taken |

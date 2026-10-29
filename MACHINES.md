@@ -1,5 +1,8 @@
 # Which machine generates what
 
+**Replaced by the locks in `refs/claims/*` on 2026-10-29:** `bun scripts/generate.ts status` shows who makes
+what (README, Generate). This file is the record from before, kept by hand.
+
 Audio is not in git, so each machine says here which catalog songs it has taken, to avoid generating the
 same song twice. Before starting a batch, pull main and skip songs another machine has taken; add your own and
 push before you start. A song is `taken` while it waits or generates, and `done` when its audio and sheets are
@@ -51,38 +54,3 @@ on Home Mac.
 | theme-jul-orchestral | taken |
 | theme-nade-soul | taken |
 | theme-pinse-worship | taken |
-
-## M5 (MacBook Pro, M5 Max, 128 GB)
-
-Started 2026-10-29 with `configs/long-12000.json`, torch 2.14.1, one song at a time under `taskpolicy -b`. It
-takes catalog portion 7 (the 24 stories added last), last song first, so it stays clear of Home Mac, which
-works through the portions from 1. Output: `YuE/outputs/catalog/<id>/` and `library/<id>/` on M5; its sheets
-are on the branch `worktree-m5-claims` until that is merged. To copy a finished song to Home Mac:
-`rsync -av ~/WebstormProjects/flogvit/music/library/<id> 192.168.2.209:WebstormProjects/flogvit/music/library/`
-
-| song | status |
-|---|---|
-| story-jesus-er-livets-brod-worship | done 2026-10-29 08:51, 2:58, sheets in sheets/, library/story-jesus-er-livets-brod-worship on M5 |
-| story-sennepsfroet-children | done 2026-10-29 08:56, 1:52, sheets in sheets/, library/story-sennepsfroet-children on M5 |
-| story-nehemjas-mur-rock | done 2026-10-29 09:05, 2:52, sheets in sheets/, library/story-nehemjas-mur-rock on M5 |
-| story-synderinnen-salver-jesu-fotter-ballad | done 2026-10-29 09:12, 2:52, sheets in sheets/, library/story-synderinnen-salver-jesu-fotter-ballad on M5 |
-| story-filip-og-den-etiopiske-hoffmannen-gospel | done 2026-10-29 09:23, 2:30, sheets in sheets/, library/story-filip-og-den-etiopiske-hoffmannen-gospel on M5 |
-| story-stefanus-martyrium-hymn | done 2026-10-29 09:32, 3:04, sheets in sheets/, library/story-stefanus-martyrium-hymn on M5 |
-| story-arbeiderne-i-vingarden-folk | done 2026-10-29 09:41, 3:08, sheets in sheets/, library/story-arbeiderne-i-vingarden-folk on M5 |
-| story-lignelsen-om-talentene-pop | done 2026-10-29 09:46, 2:20, sheets in sheets/, library/story-lignelsen-om-talentene-pop on M5 |
-| story-de-ti-jomfruene-soul | taken |
-| story-enken-med-skjervene-country | taken |
-| story-helbredelsen-av-den-blindfodte-gospel | taken |
-| story-den-store-fiskefangsten-celtic | taken |
-| story-forklarelsen-pa-fjellet-worship | taken |
-| story-fristelsen-i-orkenen-rock | taken |
-| story-jesus-i-tempelet-som-tolvaaring-acoustic | taken |
-| story-jona-i-ninive-folk | taken |
-| story-skriften-pa-veggen-jazz | taken |
-| story-elias-himmelfart-orchestral | taken |
-| story-david-salves-til-konge-country | taken |
-| story-manna-fra-himmelen-children | taken |
-| story-pasken-og-uttoget-gospel | taken |
-| story-kain-og-abel-blues | taken |
-| story-babels-tarn-rock | taken |
-| story-abrahams-kall-folk | taken |

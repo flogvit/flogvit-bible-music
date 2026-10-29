@@ -47,7 +47,7 @@ on Home Mac.
 | person-moses-folk | done 2026-10-29 08:39, 3:32, sheets in sheets/ |
 | person-maria-jesu-mor-ballad | done 2026-10-29 09:12, 4:09, sheets in sheets/ |
 | person-peter-acoustic | done 2026-10-29 09:41, 3:14, sheets in sheets/ |
-| person-paulus-rock | taken |
+| person-paulus-rock | done 2026-10-29 10:24, 4:36, sheets in sheets/ |
 | theme-jul-orchestral | taken |
 | theme-nade-soul | taken |
 | theme-pinse-worship | taken |

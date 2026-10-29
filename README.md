@@ -208,6 +208,7 @@ folder's files, so rebuild after regenerating a song or its sheets.
 | `audio.mp3` | the same as MP3, LAME V0 (about 240 kbit/s), tagged with title, genre and the passage with its link |
 | `chords.pdf`, `chords.cho` | the chord sheet, as PDF and ChordPro (see Sheet music) |
 | `leadsheet.pdf` | the lead sheet: melody with chords and lyrics |
+| `alignment.json` | when each syllable is sung (from the sheets), for highlighting the lyrics |
 | `info.json` | everything about the song, below |
 
 ### info.json

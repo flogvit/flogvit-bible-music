@@ -45,8 +45,7 @@ BOOKS = [
 # ---------------------------------------------------------------- ABC score
 
 SHARP_ORDER, FLAT_ORDER = "FCGDAEB", "BEADGCF"
-MAJOR_FIFTHS = {"C": 0, "G": 1, "D": 2, "A": 3, "E": 4, "B": 5, "F#": 6, "C#": 7,
-                "F": -1, "Bb": -2, "Eb": -3, "Ab": -4, "Db": -5, "Gb": -6, "Cb": -7}
+LETTER_FIFTHS = {"F": -1, "C": 0, "G": 1, "D": 2, "A": 3, "E": 4, "B": 5}
 MODE_OFFSET = {"": 0, "maj": 0, "ion": 0, "mix": -1, "dor": -2, "m": -3, "min": -3, "aeo": -3,
                "phr": -4, "loc": -5, "lyd": 1}
 TOKEN = re.compile(r'"(?P<chord>[^"]*)"|(?P<bar>\|)|(?P<tie>-)|(?P<space>\s+)'
@@ -156,7 +155,10 @@ def parse_abc(text: str, voice: str = "Vocal") -> Score:
                 tonic, mode = k.group(1), k.group(2).lower()[:3]
                 if mode not in MODE_OFFSET:
                     raise ValueError(f"unsupported key mode {value!r}")
-                fifths = MAJOR_FIFTHS[tonic] + MODE_OFFSET[mode]
+                # Major-key fifths for any tonic (a sharp adds seven, a flat takes seven), so YuE's rarer
+                # keys such as D#m (six sharps) work too.
+                fifths = LETTER_FIFTHS[tonic[0]] + 7 * tonic[1:].count("#") - 7 * tonic[1:].count("b") \
+                    + MODE_OFFSET[mode]
             continue
         if current != voice:
             continue

@@ -42,7 +42,7 @@ const PUBLIC: [string, keyof Song["files"], string][] = [
 
 interface Sink {
   /** Writes the file unless an identical one is already there; returns whether it wrote. */
-  put(key: string, body: Uint8Array, type: string, options?: { cold?: boolean; cache?: string }): Promise<boolean>;
+  put(key: string, body: Uint8Array, type: string, options?: { cold?: boolean }): Promise<boolean>;
   read(key: string): Promise<string | null>;
   collections(): Promise<string[]>;
 }
@@ -67,8 +67,7 @@ function s3Sink(): Sink {
         await client.write(full, body, {
           type, acl: options.cold ? "private" : "public-read",
           ...(options.cold ? { storageClass: "GLACIER" as const } : {}),
-          ...(options.cache ? { cacheControl: options.cache } : {}),
-        } as Parameters<S3Client["write"]>[2]);
+        });
       }
       return true;
     },
@@ -123,7 +122,7 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
       delete alignment.song; // the song folder on the publisher's disk
       body = json(alignment);
     }
-    if (await sink.put(`${base}/${name}`, body, type, { cache: "public, max-age=86400" })) written++;
+    if (await sink.put(`${base}/${name}`, body, type)) written++;
     files[field] = `${base}/${name}`;
   }
   if (!opt.out && existsSync(join(folder, "audio.flac"))) {
@@ -133,7 +132,7 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   if (info.generated) delete info.generated.source;
   info.collection = collection;
   info.files = Object.fromEntries(Object.entries(files).map(([k, v]) => [k, v.slice(base.length + 1)]));
-  if (await sink.put(`${base}/info.json`, json(info), "application/json", { cache: "public, max-age=3600" })) written++;
+  if (await sink.put(`${base}/info.json`, json(info), "application/json")) written++;
   songs.push({
     id: info.id, collection, title: info.title, kind: info.kind, anchor: info.anchor, references: info.references ?? [],
     style: info.style ?? [], styleDescription: info.styleDescription, tags: info.tags ?? {},
@@ -142,7 +141,7 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   });
 }
 
-if (await sink.put(`${collection}/songs.json`, json(songs), "application/json", { cache: "public, max-age=300" })) written++;
+if (await sink.put(`${collection}/songs.json`, json(songs), "application/json")) written++;
 
 // The index covers every collection on the host, not just this one.
 const all: Record<string, Song[]> = { [collection]: songs };
@@ -154,7 +153,7 @@ for (const name of await sink.collections()) {
 const index = buildIndex(all);
 const previous = await sink.read("index.json");
 const unchanged = previous && JSON.stringify({ ...JSON.parse(previous), generated: "" }) === JSON.stringify({ ...index, generated: "" });
-if (!unchanged && await sink.put("index.json", json(index), "application/json", { cache: "public, max-age=300" })) written++;
+if (!unchanged && await sink.put("index.json", json(index), "application/json")) written++;
 
 console.log(`${opt["dry-run"] ? "would write" : "wrote"} ${written} files; ${songs.length} songs in ${collection}, ` +
   `${index.songs.length} in the index (${index.collections.join(", ")})`);

@@ -35,7 +35,7 @@ on Home Mac.
 | verse-23-40-31-worship | done 2026-10-29 03:05, 4:11, sheets in sheets/ |
 | verse-20-3-5-country | done 2026-10-29 03:33, 3:27, sheets in sheets/ |
 | verse-4-6-24-celtic | done 2026-10-29 03:53, 2:37, sheets in sheets/ |
-| verse-40-5-3-folk | taken |
+| verse-40-5-3-folk | done 2026-10-29 04:22, 3:29, sheets in sheets/ |
 | verse-6-1-9-rock | taken |
 | story-den-fortapte-sonn-country | taken |
 | story-den-barmhjertige-samaritan-folk | taken |

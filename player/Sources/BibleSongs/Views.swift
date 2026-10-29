@@ -107,7 +107,7 @@ struct SongDetail: View {
                 }
                 HStack {
                     if let url = song.chordSheet { Link("Akkordark", destination: url) }
-                    if let url = song.leadSheet { Link("Notear", destination: url) }
+                    if let url = song.leadSheet { Link("Noteark", destination: url) }
                     Button("Vis i Finder") { NSWorkspace.shared.activateFileViewerSelecting([song.audio]) }
                         .buttonStyle(.link)
                 }
@@ -192,11 +192,13 @@ struct SingAlong: View {
         }
     }
 
-    /// The line being sung: started (a moment early, so the eye gets there first) and not long finished.
+    /// The line being sung, a moment early so the eye gets there first. In the intro, between verses and in
+    /// an instrumental break the light waits on the line sung next; after the last line it stays on that one.
     private static func current(_ rows: [Row], at t: TimeInterval) -> Int? {
         let timed = rows.filter { $0.timing != nil }
-        guard let row = timed.last(where: { $0.timing!.start <= t + 0.15 }) else { return nil }
-        return t < row.timing!.syllables.last!.time + 2.5 ? row.id : nil
+        let row = timed.last(where: { $0.timing!.start <= t + 0.15 })
+        if let row, t < row.timing!.syllables.last!.time + 2.5 { return row.id }
+        return timed.first(where: { $0.timing!.start > t })?.id ?? row?.id
     }
 
     private static func styled(_ row: Row, sungUntil t: TimeInterval?, dimmed: Bool) -> AttributedString {

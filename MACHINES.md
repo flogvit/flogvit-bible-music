@@ -41,7 +41,7 @@ on Home Mac.
 | story-den-barmhjertige-samaritan-folk | done 2026-10-29 05:51, 2:53, sheets in sheets/ |
 | story-noas-ark-og-syndfloden-children | done 2026-10-29 06:04, 1:36, sheets in sheets/ |
 | story-skapelsen-av-verden-orchestral | done 2026-10-29 06:37, 4:07, sheets in sheets/ |
-| story-israelittene-gar-gjennom-rodehavet-gospel | taken |
+| story-israelittene-gar-gjennom-rodehavet-gospel | done 2026-10-29 07:04, 3:25, sheets in sheets/ |
 | story-daniel-i-lovehulen-soul | taken |
 | story-jona-i-fiskens-buk-children | taken |
 | person-moses-folk | taken |

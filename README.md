@@ -110,6 +110,21 @@ YuE2 stops a song at 9,000 audio tokens, about 6 minutes, and marks it `"semanti
 `result.json`. For longer texts (whole long psalms), add `--config ../configs/long-12000.json`, which raises the
 cap to 12,000 tokens (about 8 minutes); the model's context leaves room for that.
 
+## Listening app
+
+`player/` is a small native Mac app, Bibelsanger, for listening to the songs in a loop:
+
+```bash
+player/build.sh --install     # builds and installs ~/Applications/Bibelsanger.app (needs Xcode)
+```
+
+It lists the published songs in `library/` first, then every finished song in `YuE/outputs/` that is not
+published yet, grouped by batch. New songs appear on their own while a batch runs (it looks every 15 s).
+Double-click a song to play it; the list as shown (search included) plays in a loop. The bar at the
+bottom has shuffle and repeat all / one / off, and the Mac's media keys work. The right side shows the
+song's lyrics, its Bible passages (linked to bible.flogvit.com) and its chord and lead sheets. The app
+looks for the repo at `~/WebstormProjects/flogvit/music`; pick another folder with ⌘O.
+
 ## Sheet music
 
 `scripts/song-sheets.py` turns finished songs into something people can play and sing from:

@@ -31,7 +31,7 @@ on Home Mac.
 | story-korsfestelsen-ballad | done 2026-10-29 01:21, 3:48, sheets in sheets/ |
 | verse-40-6-9-choral | done 2026-10-29 01:43, 3:01, sheets in sheets/ |
 | verse-50-4-13-pop | done 2026-10-29 02:02, 2:24, sheets in sheets/ |
-| verse-45-8-28-soul | taken |
+| verse-45-8-28-soul | done 2026-10-29 02:30, 3:33, sheets in sheets/ |
 | verse-23-40-31-worship | taken |
 | verse-20-3-5-country | taken |
 | verse-4-6-24-celtic | taken |

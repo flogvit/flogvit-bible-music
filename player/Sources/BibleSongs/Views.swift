@@ -22,6 +22,16 @@ struct ContentView: View {
     }
 
     var body: some View {
+        VStack(spacing: 0) {
+            split
+            PlayerBar(player: player)
+        }
+        .onChange(of: shown) { _, songs in player.updateQueue(songs) }
+        // When the next song starts, show it.
+        .onChange(of: player.current?.id) { _, id in if let id { selection = id } }
+    }
+
+    private var split: some View {
         NavigationSplitView {
             List(selection: $selection) {
                 ForEach(groups, id: \.0) { group, songs in
@@ -45,14 +55,12 @@ struct ContentView: View {
             }
         } detail: {
             if let song = model.songs.first(where: { $0.id == (selection ?? player.current?.id) }) {
-                SongDetail(song: song) { player.play(song, queue: shown) }
+                SongDetail(song: song, player: player) { player.play(song, queue: shown) }
             } else {
                 ContentUnavailableView("Velg en sang", systemImage: "music.note.list",
                                        description: Text("Dobbeltklikk for å spille. Lista spilles i loop."))
             }
         }
-        .safeAreaInset(edge: .bottom, spacing: 0) { PlayerBar(player: player) }
-        .onChange(of: shown) { _, songs in player.updateQueue(songs) }
     }
 }
 
@@ -77,10 +85,11 @@ struct SongRow: View {
 
 struct SongDetail: View {
     let song: Song
+    let player: Player
     let play: () -> Void
 
     var body: some View {
-        ScrollView {
+        ScrollViewReader { proxy in ScrollView {
             VStack(alignment: .leading, spacing: 14) {
                 HStack(alignment: .firstTextBaseline) {
                     Text(song.title).font(.largeTitle.bold())
@@ -101,11 +110,11 @@ struct SongDetail: View {
                         .buttonStyle(.link)
                 }
                 Divider()
-                Lyrics(text: song.lyrics)
+                SingAlong(song: song, player: player, proxy: proxy, play: play)
             }
             .padding(24)
             .frame(maxWidth: 720, alignment: .leading)
-        }
+        } }
     }
 }
 
@@ -121,22 +130,103 @@ struct FlowLinks: View {
     }
 }
 
-struct Lyrics: View {
-    let text: String
+/// The lyrics, with the line being sung lit up and its syllables filling in as they are sung.
+/// Lines without timing (or a song without alignment.json) are shown as plain text.
+struct SingAlong: View {
+    let song: Song
+    let player: Player
+    let proxy: ScrollViewProxy
+    let play: () -> Void
+
+    private struct Row: Identifiable {
+        let id: Int
+        let text: String
+        let header: Bool
+        let timing: LineTiming?
+    }
+
+    private var rows: [Row] {
+        var next = 0
+        return song.lyrics.components(separatedBy: "\n").enumerated().map { index, line in
+            let header = line.hasPrefix("[")
+            var timing: LineTiming?
+            if !header, !line.isEmpty {
+                // Sung lines come in the order of the lyrics; skip ahead a little if one is missing.
+                let letters = LineTiming.letters(line)
+                if let k = song.timing[next...].prefix(4).firstIndex(where: { LineTiming.letters($0.text) == letters }) {
+                    timing = song.timing[k]
+                    next = k + 1
+                }
+            }
+            return Row(id: index, text: header ? line.trimmingCharacters(in: CharacterSet(charactersIn: "[]")) : line,
+                       header: header, timing: timing)
+        }
+    }
 
     var body: some View {
+        let rows = rows
+        let now = player.current?.id == song.id ? player.currentTime : nil
+        let current = now.flatMap { t in Self.current(rows, at: t) }
         VStack(alignment: .leading, spacing: 2) {
-            ForEach(Array(text.components(separatedBy: "\n").enumerated()), id: \.offset) { _, line in
-                if line.hasPrefix("[") {
-                    Text(line.trimmingCharacters(in: CharacterSet(charactersIn: "[]")))
+            ForEach(rows) { row in
+                if row.header {
+                    Text(row.text)
                         .font(.caption.weight(.semibold)).foregroundStyle(.secondary).textCase(.uppercase)
                         .padding(.top, 10)
                 } else {
-                    Text(line.isEmpty ? " " : line).font(.title3)
+                    Text(Self.styled(row, sungUntil: row.id == current ? now : nil, dimmed: current != nil))
+                        .font(.title3.weight(row.id == current ? .semibold : .regular))
+                        .padding(.vertical, 1)
+                        .contentShape(Rectangle())
+                        .onTapGesture { jump(to: row) }
+                        .id(row.id)
                 }
             }
         }
         .textSelection(.enabled)
+        .onChange(of: current) { _, line in
+            if let line { withAnimation(.easeInOut(duration: 0.4)) { proxy.scrollTo(line, anchor: .center) } }
+        }
+    }
+
+    /// The line being sung: started (a moment early, so the eye gets there first) and not long finished.
+    private static func current(_ rows: [Row], at t: TimeInterval) -> Int? {
+        let timed = rows.filter { $0.timing != nil }
+        guard let row = timed.last(where: { $0.timing!.start <= t + 0.15 }) else { return nil }
+        return t < row.timing!.syllables.last!.time + 2.5 ? row.id : nil
+    }
+
+    private static func styled(_ row: Row, sungUntil t: TimeInterval?, dimmed: Bool) -> AttributedString {
+        var text = AttributedString(row.text.isEmpty ? " " : row.text)
+        guard let t else {
+            if dimmed { text.foregroundColor = .secondary }
+            return text
+        }
+        guard let timing = row.timing, !timing.uncertain else {
+            text.foregroundColor = .accentColor
+            return text
+        }
+        // Each letter belongs to the syllable that spells it; punctuation goes with the letter before it.
+        var syllable = 0, used = 0, sung = false
+        for index in text.characters.indices {
+            let ch = text.characters[index]
+            if ch.isLetter || ch.isNumber {
+                while syllable < timing.syllables.count, used >= timing.syllables[syllable].letters.count {
+                    syllable += 1; used = 0
+                }
+                used += 1
+                sung = syllable < timing.syllables.count && timing.syllables[syllable].time <= t
+            }
+            let next = text.characters.index(after: index)
+            text[index..<next].foregroundColor = sung ? .accentColor : .primary
+        }
+        return text
+    }
+
+    private func jump(to row: Row) {
+        guard let start = row.timing?.start else { return }
+        if player.current?.id != song.id { play() }
+        player.seek(to: max(0, start - 0.3))
     }
 }
 

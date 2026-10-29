@@ -124,7 +124,7 @@ final class Player: NSObject, AVAudioPlayerDelegate {
             isPlaying = false
         }
         ticker?.invalidate()
-        ticker = Timer.scheduledTimer(withTimeInterval: 0.25, repeats: true) { [weak self] _ in
+        ticker = Timer.scheduledTimer(withTimeInterval: 0.05, repeats: true) { [weak self] _ in
             MainActor.assumeIsolated { self?.currentTime = self?.audio?.currentTime ?? 0 }
         }
         publish()

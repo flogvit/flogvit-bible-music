@@ -16,9 +16,27 @@ struct Song: Identifiable, Hashable, Sendable {
     let audio: URL
     let chordSheet: URL?
     let leadSheet: URL?
+    let timing: [LineTiming]    // sung lines in order, empty when the song has no alignment
 
     var searchText: String {
         ([title, group, styleDescription] + styles + references.map(\.label)).joined(separator: " ").lowercased()
+    }
+}
+
+struct SyllableTiming: Hashable, Sendable {
+    let letters: String
+    let time: TimeInterval
+}
+
+struct LineTiming: Hashable, Sendable {
+    let text: String
+    let uncertain: Bool         // Whisper heard too little of it: highlight the line, not the syllables
+    let syllables: [SyllableTiming]
+
+    var start: TimeInterval { syllables[0].time }
+
+    static func letters(_ text: String) -> String {
+        String(text.lowercased().filter { $0.isLetter || $0.isNumber })
     }
 }
 
@@ -60,7 +78,9 @@ enum Library {
                 references: anchor + refs,
                 audio: audio,
                 chordSheet: files["chordSheet"].map { dir.appending(path: $0) }.flatMap(existing),
-                leadSheet: files["leadSheet"].map { dir.appending(path: $0) }.flatMap(existing)))
+                leadSheet: files["leadSheet"].map { dir.appending(path: $0) }.flatMap(existing),
+                timing: timing(dir.appending(path: "alignment.json"))
+                    ?? timing(root.appending(path: "sheets/\(dir.lastPathComponent)/alignment.json")) ?? []))
         }
 
         let outputs = root.appending(path: "YuE/outputs")
@@ -87,12 +107,43 @@ enum Library {
                     references: [],
                     audio: audio,
                     chordSheet: existing(sheets.appending(path: "\(id)-chords.pdf")),
-                    leadSheet: existing(sheets.appending(path: "\(id)-lead-sheet.pdf"))))
+                    leadSheet: existing(sheets.appending(path: "\(id)-lead-sheet.pdf")),
+                    timing: timing(sheets.appending(path: "alignment.json"), for: dir) ?? []))
             }
         }
         songs.sort { $0.title.localizedStandardCompare($1.title) == .orderedAscending }
         generated.sort { ($0.group, $0.title) < ($1.group, $1.title) }
         return songs + generated
+    }
+
+    /// When each sung syllable starts in the audio, from scripts/song-sheets.py. Its times are on the
+    /// score's clock; `offset_seconds` moves them onto the audio's. With `song` given, the alignment
+    /// must have been made from that output (an older take of the same id is ignored).
+    private static func timing(_ url: URL, for song: URL? = nil) -> [LineTiming]? {
+        guard let data = json(url),
+              let lines = data["lines"] as? [[String: Any]],
+              let syllables = data["syllables"] as? [[String: Any]] else { return nil }
+        if let song, let made = data["song"] as? String,
+           URL(filePath: made).standardizedFileURL.path != song.standardizedFileURL.path { return nil }
+        let offset = data["offset_seconds"] as? Double ?? 0
+        var queue = syllables.compactMap { s -> SyllableTiming? in
+            guard let text = s["text"] as? String, let time = s["time"] as? Double else { return nil }
+            return SyllableTiming(letters: LineTiming.letters(text), time: time + offset)
+        }[...]
+        var result: [LineTiming] = []
+        for line in lines {
+            guard let text = line["text"] as? String else { return nil }
+            // Hand out syllables until they spell the line.
+            var wanted = LineTiming.letters(text)
+            var own: [SyllableTiming] = []
+            while !wanted.isEmpty, let next = queue.first, wanted.hasPrefix(next.letters) {
+                wanted.removeFirst(next.letters.count)
+                own.append(queue.removeFirst())
+            }
+            guard wanted.isEmpty, !own.isEmpty else { return nil }
+            result.append(LineTiming(text: text, uncertain: line["uncertain"] as? Bool ?? false, syllables: own))
+        }
+        return result
     }
 
     /// Library lyrics are `{sections: [{section, lines}]}`; YuE2 requests carry the tagged text itself.

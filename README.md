@@ -125,6 +125,11 @@ bottom has shuffle and repeat all / one / off, and the Mac's media keys work. Th
 song's lyrics, its Bible passages (linked to bible.flogvit.com) and its chord and lead sheets. The app
 looks for the repo at `~/WebstormProjects/flogvit/music`; pick another folder with ⌘O.
 
+While a song plays, the line being sung lights up and its syllables fill in as they are sung; the lyrics
+scroll along, and clicking a line jumps there. The timing comes from the song's `alignment.json` (made by
+`scripts/song-sheets.py`), read from `library/<id>/` or else `sheets/<id>/`. Lines the sheets mark as
+uncertain light up as a whole line; songs without sheets show plain lyrics.
+
 ## Sheet music
 
 `scripts/song-sheets.py` turns finished songs into something people can play and sing from:

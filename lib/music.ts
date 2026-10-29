@@ -76,7 +76,7 @@ export interface MusicIndex {
 /** Merges the collections' song lists into one index, with the book names their passages use. */
 export function buildIndex(collections: Record<string, Song[]>, generated = new Date().toISOString()): MusicIndex {
   const names = Object.keys(collections).sort();
-  const songs = names.flatMap((c) => collections[c]).sort((a, b) => a.title.localeCompare(b.title));
+  const songs = names.flatMap((c) => collections[c] ?? []).sort((a, b) => a.title.localeCompare(b.title));
   const books: Record<string, Book> = {};
   for (const ref of songs.flatMap((s) => s.references)) {
     if (books[ref.bookId] || !ref.label) continue;
@@ -113,7 +113,7 @@ const fold = (s: string) => s.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g
 export function parseVerse(text: string, books: Record<string, Book>): VerseRange | null {
   const m = fold(text.trim()).match(/^(.+?)\.?\s*(\d+)(?::(\d+)(?:\s*[-–]\s*(\d+))?)?$/);
   if (!m) return null;
-  const wanted = m[1].replace(/\s+/g, " ").trim();
+  const wanted = (m[1] ?? "").replace(/\s+/g, " ").trim();
   const entry = Object.entries(books).find(([, b]) =>
     fold(b.name) === wanted || (b.short && fold(b.short) === wanted.replace(/\s/g, "")));
   const prefix = entry ?? Object.entries(books).find(([, b]) => fold(b.name).startsWith(wanted));
@@ -202,8 +202,8 @@ export function lineTimes(alignment: {
     // Hand out syllables until they spell the line.
     let wanted = letters(line.text);
     const own: SyllableTime[] = [];
-    while (wanted && queue.length && wanted.startsWith(queue[0].letters)) {
-      wanted = wanted.slice(queue[0].letters.length);
+    for (let next = queue[0]; wanted && next && wanted.startsWith(next.letters); next = queue[0]) {
+      wanted = wanted.slice(next.letters.length);
       own.push(queue.shift()!);
     }
     if (wanted || !own.length) return null;

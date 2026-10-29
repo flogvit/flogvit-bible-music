@@ -261,7 +261,10 @@ async function generate(id: string, tip: string): Promise<Lock | undefined> {
   }
   mkdirSync(OUTPUTS, { recursive: true });
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
-  const child = run(['taskpolicy', '-b', '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
+  // YuE runs in the background by default; MUSIC_NICE=<n> gives it normal priority at that niceness instead,
+  // for a machine where generation should come before other work.
+  const yuePriority = process.env.MUSIC_NICE ? ['nice', '-n', process.env.MUSIC_NICE] : ['taskpolicy', '-b'];
+  const child = run([...yuePriority, '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
     '--config', path.join(REPO, 'configs', 'long-12000.json'), '--resume'], YUE, logFile);
   children.add(child);
   // On power, the Mac stays awake while the song generates; asleep, its lock would go stale after 20 minutes.

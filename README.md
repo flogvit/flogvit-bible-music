@@ -186,8 +186,9 @@ the first run.
 
 ## Library
 
-`library/<id>/` holds everything about one finished song in one place: the audio, both sheets and an
-`info.json` with the song's text, tags, links and how it was made. It sits next to `YuE/` and is not in git.
+`library/<id>/` holds everything about one finished song in one place: the audio, both sheets, the
+syllable timing (`alignment.json`, which the Bibelsanger app uses to light up the words as they are sung)
+and an `info.json` with the song's text, tags, links and how it was made. It sits next to `YuE/` and is not in git.
 
 ### Build it
 

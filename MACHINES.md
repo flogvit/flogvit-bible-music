@@ -64,7 +64,7 @@ are on the branch `worktree-m5-claims` until that is merged. To copy a finished 
 |---|---|
 | story-jesus-er-livets-brod-worship | done 2026-10-29 08:51, 2:58, sheets in sheets/, library/story-jesus-er-livets-brod-worship on M5 |
 | story-sennepsfroet-children | done 2026-10-29 08:56, 1:52, sheets in sheets/, library/story-sennepsfroet-children on M5 |
-| story-nehemjas-mur-rock | taken |
+| story-nehemjas-mur-rock | done 2026-10-29 09:05, 2:52, sheets in sheets/, library/story-nehemjas-mur-rock on M5 |
 | story-synderinnen-salver-jesu-fotter-ballad | taken |
 | story-filip-og-den-etiopiske-hoffmannen-gospel | taken |
 | story-stefanus-martyrium-hymn | taken |

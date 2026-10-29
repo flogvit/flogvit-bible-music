@@ -17,9 +17,10 @@ struct Song: Identifiable, Hashable, Sendable {
     let chordSheet: URL?
     let leadSheet: URL?
     let timing: [LineTiming]    // sung lines in order, empty when the song has no alignment
+    let tags: [String]          // themes, stories, persons and mood, as words to search for
 
     var searchText: String {
-        ([title, group, styleDescription] + styles + references.map(\.label)).joined(separator: " ").lowercased()
+        ([title, group, styleDescription] + styles + references.map(\.label) + tags).joined(separator: " ").lowercased()
     }
 }
 
@@ -80,7 +81,8 @@ enum Library {
                 chordSheet: files["chordSheet"].map { dir.appending(path: $0) }.flatMap(existing),
                 leadSheet: files["leadSheet"].map { dir.appending(path: $0) }.flatMap(existing),
                 timing: timing(dir.appending(path: "alignment.json"))
-                    ?? timing(root.appending(path: "sheets/\(dir.lastPathComponent)/alignment.json")) ?? []))
+                    ?? timing(root.appending(path: "sheets/\(dir.lastPathComponent)/alignment.json")) ?? [],
+                tags: tagWords(info["tags"])))
         }
 
         let outputs = root.appending(path: "YuE/outputs")
@@ -108,7 +110,8 @@ enum Library {
                     audio: audio,
                     chordSheet: existing(sheets.appending(path: "\(id)-chords.pdf")),
                     leadSheet: existing(sheets.appending(path: "\(id)-lead-sheet.pdf")),
-                    timing: timing(sheets.appending(path: "alignment.json"), for: dir) ?? []))
+                    timing: timing(sheets.appending(path: "alignment.json"), for: dir) ?? [],
+                    tags: tagWords(catalog?["tags"])))
             }
         }
         songs.sort { $0.title.localizedStandardCompare($1.title) == .orderedAscending }
@@ -144,6 +147,16 @@ enum Library {
             result.append(LineTiming(text: text, uncertain: line["uncertain"] as? Bool ?? false, syllables: own))
         }
         return result
+    }
+
+    /// Every tag as plain words: theme ids, sentiment and liturgy, and the titles and slugs of the
+    /// themes, stories and persons a song is linked to.
+    private static func tagWords(_ value: Any?) -> [String] {
+        guard let tags = value as? [String: Any] else { return [] }
+        return tags.values.flatMap { value -> [String] in
+            if let words = value as? [String] { return words }
+            return (value as? [[String: Any]] ?? []).flatMap { [$0["title"] as? String, $0["slug"] as? String].compactMap { $0 } }
+        }
     }
 
     /// Library lyrics are `{sections: [{section, lines}]}`; YuE2 requests carry the tagged text itself.

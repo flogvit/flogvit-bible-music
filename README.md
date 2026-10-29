@@ -225,3 +225,49 @@ folder's files, so rebuild after regenerating a song or its sheets.
 | `lyricsOnNotes` | how well the words sit on the melody (the Whisper check behind the lead sheet): lines on their notes, the uncertain lines, words heard |
 | `generated` | `machine`, `date`, and `yue`: package and torch versions, the YuE commit and whether the patch was applied, model repos with revision and sha256, generation config, whether the song was cut off |
 | `files` | the file names in the folder |
+
+## Publish
+
+The songs are free to use. We serve them at **https://media.flogvit.com/music/**, and anyone can publish
+their own copy from this repo to any static host or S3-compatible bucket.
+
+`scripts/publish.ts` takes every finished song in `library/` and publishes it as a collection (`bible` by
+default; other music gets its own collection with `--collection <name>`):
+
+```bash
+bun scripts/publish.ts                    # to the S3 bucket in .env (see .env.example)
+bun scripts/publish.ts --out site/music   # to a folder, for any static web host
+bun scripts/publish.ts --dry-run          # say what would change, change nothing
+```
+
+It only uploads files that changed, so it can run after every new song. What it publishes:
+
+| path | what it is |
+|---|---|
+| `index.json` | every song in every collection on the host: title, collection, kind, Bible passages, style, tags (sentiment, liturgy, themes, stories, persons), lyrics, music facts and file paths |
+| `<collection>/songs.json` | the songs of one collection; `index.json` is built from these |
+| `<collection>/<id>/audio.mp3` | the song |
+| `<collection>/<id>/info.json` | everything about the song, as in `library/` |
+| `<collection>/<id>/alignment.json` | when each syllable is sung, for highlighting the lyrics |
+| `<collection>/<id>/chords.pdf`, `chords.cho`, `leadsheet.pdf` | chord sheet, ChordPro and lead sheet |
+
+File paths in `index.json` are relative to `index.json` itself, so a copy works wherever it is served. In
+a bucket, the public tree goes under `MEDIA_PREFIX` (default `system/music/`). The FLAC masters go to
+`masters/<collection>/<id>/audio.flac` in the same bucket, private and in cold storage. Serve the public
+prefix at a stable hostname, through a redirect or a CDN, so apps never depend on where the files are stored.
+
+## Search
+
+`lib/music.ts` searches `index.json` without a server. Clients load the index and filter it:
+
+```bash
+bun scripts/search.ts bread                        # words in title, lyrics, style, passages and tags
+bun scripts/search.ts --verse "John 6:35"          # songs on a passage that includes the verse
+bun scripts/search.ts --theme salvation --style worship
+bun scripts/search.ts --story nehemjas-mur --json  # matching songs as JSON with absolute file URLs
+```
+
+Other filters: `--collection`, `--kind`, `--sentiment`, `--liturgy`, `--person`. `--verse` takes book
+names as the passages spell them (`John`, `1 Corinthians`), the short names in bible.flogvit.com URLs (`joh`,
+`1kor`), or the start of a name (`1 Cor`). The index defaults to `https://media.flogvit.com/music/index.json`;
+`--index <file or URL>` points elsewhere. Tests: `bun test lib`.

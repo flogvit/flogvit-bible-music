@@ -45,7 +45,7 @@ struct ContentView: View {
                     player.play(song, queue: shown)
                 }
             }
-            .searchable(text: $search, placement: .sidebar, prompt: "Søk i tittel, stil, vers")
+            .searchable(text: $search, placement: .sidebar, prompt: "Tittel, stil, vers, tema, person")
             .navigationSplitViewColumnWidth(min: 260, ideal: 320)
             .overlay {
                 if model.songs.isEmpty {

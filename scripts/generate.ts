@@ -128,47 +128,61 @@ async function finish(id: string, fresh: boolean): Promise<boolean> {
   return true;
 }
 
-function markDone(id: string, tip: string | undefined) {
-  const r = push(id, tip, 'done');
-  log(r.result === 'ok' ? `DONE ${id}` : `DONE NOT RECORDED ${id}: ${r.detail}`);
+function record(id: string, tip: string | undefined, state: State) {
+  const r = push(id, tip, state);
+  log(r.result === 'ok' ? `${state.toUpperCase()} ${id}` : `${state.toUpperCase()} NOT RECORDED ${id}: ${r.detail}`);
 }
 
-let current: { id: string; tip: string; child?: ReturnType<typeof Bun.spawn> } | undefined;
+/** A song this machine holds: an `alive` commit every minute until it is done, failed or given back. */
+class Lock {
+  lost = false;
+  private beat: ReturnType<typeof setInterval>;
 
-async function generate(id: string, tip: string): Promise<boolean> {
-  current = { id, tip };
+  constructor(readonly id: string, private tip: string, onLost: () => void) {
+    held.add(this);
+    this.beat = setInterval(() => {
+      const r = push(id, this.tip, 'alive');
+      if (r.result === 'ok') this.tip = r.sha!;
+      else if (r.result === 'rejected') {
+        this.lost = true;
+        log(`LOST ${id}: another machine took it, stopping`);
+        this.end();
+        onLost();
+      } else log(`HEARTBEAT FAILED ${id} (no network?), retrying`);
+    }, HEARTBEAT_MS);
+  }
+
+  end(state?: State) {
+    clearInterval(this.beat);
+    held.delete(this);
+    if (state && !this.lost) record(this.id, this.tip, state);
+  }
+}
+
+const held = new Set<Lock>();
+const children = new Set<ReturnType<typeof Bun.spawn>>();
+
+/** Generate one claimed song; its lock comes back while the song still needs its sheets. */
+async function generate(id: string, tip: string): Promise<Lock | undefined> {
   const batch = path.join(YUE, 'requests', `${id}.jsonl`);
   if (Bun.spawnSync(['bun', 'scripts/build-batch.ts', batch, id], { cwd: REPO }).exitCode !== 0) throw new Error(`build-batch ${id}`);
   mkdirSync(OUTPUTS, { recursive: true });
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
   const child = run(['taskpolicy', '-b', '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
     '--config', path.join(REPO, 'configs', 'long-12000.json'), '--resume'], YUE, logFile);
-  current.child = child;
-  let lost = false;
-  const beat = setInterval(() => {
-    const r = push(id, current!.tip, 'alive');
-    if (r.result === 'ok') current!.tip = r.sha!;
-    else if (r.result === 'rejected') {
-      lost = true;
-      log(`LOST ${id}: another machine took it, stopping`);
-      child.kill();
-    } else log(`HEARTBEAT FAILED ${id} (no network?), retrying`);
-  }, HEARTBEAT_MS);
+  children.add(child);
+  const lock = new Lock(id, tip, () => child.kill());
   const code = await child.exited;
-  clearInterval(beat);
-  current.child = undefined;
-  if (lost) return false;
+  children.delete(child);
+  if (lock.lost) return;
   if (code !== 0 || !isComplete(id)) {
     log(`GENERATION FAILED ${id} (exit ${code}, see ${logFile})`);
-    push(id, current.tip, 'failed');
-    return false;
+    lock.end('failed');
+    return;
   }
   const seconds = Math.round(JSON.parse(readFileSync(path.join(OUTPUTS, id, 'result.json'), 'utf8')).audio_seconds);
   log(`SONG DONE ${id} ${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, '0')}`);
-  if (await finish(id, true)) markDone(id, current.tip);
-  else push(id, current.tip, 'failed');
-  current = undefined;
-  return true;
+  return lock;
 }
 
 /** Songs this machine already made (also before the claims existed) are finished and marked done. */
@@ -177,7 +191,7 @@ async function finishLocal() {
   for (const id of order()) {
     const c = claims.get(id);
     if (!isComplete(id) || c?.state === 'done' || (c && c.machine !== MACHINE && !isFree(c))) continue;
-    if (await finish(id, false)) markDone(id, c?.sha);
+    if (await finish(id, false)) record(id, c?.sha, 'done');
   }
 }
 
@@ -195,10 +209,8 @@ function claimNext(fromEnd: boolean, skip: Set<string>): { id: string; tip: stri
 }
 
 function release() {
-  if (!current) process.exit(1);
-  current.child?.kill();
-  const r = push(current.id, current.tip, 'released');
-  log(r.result === 'ok' ? `RELEASED ${current.id}` : `RELEASE FAILED ${current.id}; it frees itself in 20 minutes`);
+  for (const child of children) child.kill();
+  for (const lock of held) lock.end('released');
   process.exit(1);
 }
 
@@ -210,10 +222,26 @@ if (command === 'run') {
   log(`RUN START on ${MACHINE}${fromEnd ? ', from the end of catalog/order.txt' : ''}`);
   await finishLocal();
   const failed = new Set<string>();
+  // A song's sheets are made while the next song generates (Whisper on the CPU, YuE on the GPU), one at a time.
+  let sheets = Promise.resolve();
   for (let next = claimNext(fromEnd, failed); next; next = claimNext(fromEnd, failed)) {
     log(`CLAIMED ${next.id}`);
-    if (!(await generate(next.id, next.tip))) failed.add(next.id);
+    const lock = await generate(next.id, next.tip);
+    if (!lock) {
+      failed.add(next.id);
+      continue;
+    }
+    sheets = sheets.then(async () => {
+      let ok = false;
+      try {
+        ok = await finish(lock.id, true);
+      } catch (e) {
+        log(`SHEETS FAILED ${lock.id}: ${e}`);
+      }
+      lock.end(ok ? 'done' : 'failed');
+    });
   }
+  await sheets;
   log('RUN END: no free songs left');
 } else if (command === 'status') {
   const claims = readClaims();

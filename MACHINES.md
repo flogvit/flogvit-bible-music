@@ -30,7 +30,7 @@ on Home Mac.
 | story-jesu-oppstandelse-gospel | done 2026-10-29 00:51, 2:46, sheets in sheets/ |
 | story-korsfestelsen-ballad | done 2026-10-29 01:21, 3:48, sheets in sheets/ |
 | verse-40-6-9-choral | done 2026-10-29 01:43, 3:01, sheets in sheets/ |
-| verse-50-4-13-pop | taken |
+| verse-50-4-13-pop | done 2026-10-29 02:02, 2:24, sheets in sheets/ |
 | verse-45-8-28-soul | taken |
 | verse-23-40-31-worship | taken |
 | verse-20-3-5-country | taken |

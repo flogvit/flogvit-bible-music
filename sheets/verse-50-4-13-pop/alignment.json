@@ -1,0 +1,1748 @@
+{
+ "id": "verse-50-4-13-pop",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-50-4-13-pop",
+ "offset_seconds": -3.1600000000001884,
+ "words_heard": 210,
+ "words": 212,
+ "lines": [
+  {
+   "text": "He wrote a word of thanks to friends who'd sent him help again",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He was writing from a prison, he was sitting there in chains",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He had known the crowded table and he'd known the empty bowl",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But whatever came, a quiet strength was rooted in his soul",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I have learned to be content whatever my circumstances",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I can do all things through him who gives me strength",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I can do all things",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through him who gives me strength",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the paycheck's gone too early and the rent is due again",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the doctor's words are heavy and I cannot see the end",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the house is full of laughter and the cupboards overflow",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In every single season he's the only strength I know",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.35,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "I have learned to be content whatever my circumstances",
+   "heard": 7,
+   "words": 9,
+   "error_s": 0.36,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "I can do all things through him who gives me strength",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I can do all things",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through him who gives me strength",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I know what it is to have little",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And I know what it is to have plenty",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whether well fed or hungry",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whether living in abundance or in want",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I can do all things through him who gives me strength",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I can do all things",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through him who gives me strength",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through him who gives me strength",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "He",
+   "time": 12.18,
+   "weight": 0.15,
+   "note_time": 12.15
+  },
+  {
+   "text": "wrote",
+   "time": 12.9,
+   "weight": 0.97,
+   "note_time": 12.3
+  },
+  {
+   "text": "a",
+   "time": 13.28,
+   "weight": 1.0,
+   "note_time": 12.45
+  },
+  {
+   "text": "word",
+   "time": 13.44,
+   "weight": 0.99,
+   "note_time": 12.6
+  },
+  {
+   "text": "of",
+   "time": 13.7,
+   "weight": 1.0,
+   "note_time": 12.9
+  },
+  {
+   "text": "thanks",
+   "time": 13.88,
+   "weight": 1.0,
+   "note_time": 13.05
+  },
+  {
+   "text": "to",
+   "time": 14.12,
+   "weight": 1.0,
+   "note_time": 13.35
+  },
+  {
+   "text": "friends",
+   "time": 14.28,
+   "weight": 0.99,
+   "note_time": 13.65
+  },
+  {
+   "text": "who'd",
+   "time": 14.66,
+   "weight": 0.85,
+   "note_time": 14.1
+  },
+  {
+   "text": "sent",
+   "time": 15.18,
+   "weight": 0.3,
+   "note_time": 14.7
+  },
+  {
+   "text": "him",
+   "time": 15.64,
+   "weight": 0.98,
+   "note_time": 14.85
+  },
+  {
+   "text": "help",
+   "time": 15.82,
+   "weight": 1.0,
+   "note_time": 15.0
+  },
+  {
+   "text": "a",
+   "time": 16.1,
+   "weight": 0.99,
+   "note_time": 15.3
+  },
+  {
+   "text": "gain",
+   "time": 16.3,
+   "weight": 0.99,
+   "note_time": 15.45
+  },
+  {
+   "text": "He",
+   "time": 16.5,
+   "weight": 0.67,
+   "note_time": 16.5
+  },
+  {
+   "text": "was",
+   "time": 17.3,
+   "weight": 1.0,
+   "note_time": 16.65
+  },
+  {
+   "text": "writ",
+   "time": 17.6,
+   "weight": 0.24,
+   "note_time": 16.8
+  },
+  {
+   "text": "ing",
+   "time": 17.77,
+   "weight": 0.24,
+   "note_time": 17.1
+  },
+  {
+   "text": "from",
+   "time": 17.94,
+   "weight": 1.0,
+   "note_time": 17.25
+  },
+  {
+   "text": "a",
+   "time": 18.26,
+   "weight": 0.94,
+   "note_time": 17.55
+  },
+  {
+   "text": "pri",
+   "time": 18.5,
+   "weight": 1.0,
+   "note_time": 17.85
+  },
+  {
+   "text": "son,",
+   "time": 18.79,
+   "weight": 1.0,
+   "note_time": 18.15
+  },
+  {
+   "text": "he",
+   "time": 19.36,
+   "weight": 0.99,
+   "note_time": 18.6
+  },
+  {
+   "text": "was",
+   "time": 19.52,
+   "weight": 1.0,
+   "note_time": 18.9
+  },
+  {
+   "text": "sit",
+   "time": 19.88,
+   "weight": 0.98,
+   "note_time": 19.2
+  },
+  {
+   "text": "ting",
+   "time": 20.06,
+   "weight": 0.98,
+   "note_time": 19.35
+  },
+  {
+   "text": "there",
+   "time": 20.24,
+   "weight": 1.0,
+   "note_time": 19.65
+  },
+  {
+   "text": "in",
+   "time": 20.64,
+   "weight": 1.0,
+   "note_time": 19.95
+  },
+  {
+   "text": "chains",
+   "time": 21.02,
+   "weight": 1.0,
+   "note_time": 20.4
+  },
+  {
+   "text": "He",
+   "time": 21.46,
+   "weight": 0.99,
+   "note_time": 21.3
+  },
+  {
+   "text": "had",
+   "time": 22.2,
+   "weight": 0.98,
+   "note_time": 21.45
+  },
+  {
+   "text": "known",
+   "time": 22.44,
+   "weight": 0.75,
+   "note_time": 21.9
+  },
+  {
+   "text": "the",
+   "time": 22.84,
+   "weight": 1.0,
+   "note_time": 22.05
+  },
+  {
+   "text": "crowd",
+   "time": 23.02,
+   "weight": 0.83,
+   "note_time": 22.2
+  },
+  {
+   "text": "ed",
+   "time": 23.16,
+   "weight": 0.83,
+   "note_time": 22.5
+  },
+  {
+   "text": "ta",
+   "time": 23.3,
+   "weight": 1.0,
+   "note_time": 22.65
+  },
+  {
+   "text": "ble",
+   "time": 23.59,
+   "weight": 1.0,
+   "note_time": 22.95
+  },
+  {
+   "text": "and",
+   "time": 23.88,
+   "weight": 0.82,
+   "note_time": 23.4
+  },
+  {
+   "text": "he'd",
+   "time": 24.46,
+   "weight": 0.98,
+   "note_time": 23.7
+  },
+  {
+   "text": "known",
+   "time": 24.78,
+   "weight": 0.99,
+   "note_time": 24.3
+  },
+  {
+   "text": "the",
+   "time": 25.24,
+   "weight": 1.0,
+   "note_time": 24.45
+  },
+  {
+   "text": "emp",
+   "time": 25.42,
+   "weight": 1.0,
+   "note_time": 24.6
+  },
+  {
+   "text": "ty",
+   "time": 25.56,
+   "weight": 1.0,
+   "note_time": 24.9
+  },
+  {
+   "text": "bowl",
+   "time": 25.7,
+   "weight": 1.0,
+   "note_time": 25.05
+  },
+  {
+   "text": "But",
+   "time": 26.1,
+   "weight": 0.99,
+   "note_time": 26.1
+  },
+  {
+   "text": "what",
+   "time": 27.08,
+   "weight": 0.98,
+   "note_time": 26.25
+  },
+  {
+   "text": "ev",
+   "time": 27.17,
+   "weight": 0.98,
+   "note_time": 26.4
+  },
+  {
+   "text": "er",
+   "time": 27.27,
+   "weight": 0.98,
+   "note_time": 26.55
+  },
+  {
+   "text": "came,",
+   "time": 27.36,
+   "weight": 0.98,
+   "note_time": 26.85
+  },
+  {
+   "text": "a",
+   "time": 28.2,
+   "weight": 0.99,
+   "note_time": 27.3
+  },
+  {
+   "text": "qui",
+   "time": 28.26,
+   "weight": 1.0,
+   "note_time": 27.45
+  },
+  {
+   "text": "et",
+   "time": 28.41,
+   "weight": 1.0,
+   "note_time": 27.75
+  },
+  {
+   "text": "strength",
+   "time": 28.56,
+   "weight": 0.99,
+   "note_time": 28.05
+  },
+  {
+   "text": "was",
+   "time": 29.02,
+   "weight": 0.96,
+   "note_time": 28.5
+  },
+  {
+   "text": "root",
+   "time": 29.5,
+   "weight": 0.99,
+   "note_time": 28.8
+  },
+  {
+   "text": "ed",
+   "time": 29.59,
+   "weight": 0.99,
+   "note_time": 28.95
+  },
+  {
+   "text": "in",
+   "time": 29.68,
+   "weight": 1.0,
+   "note_time": 29.25
+  },
+  {
+   "text": "his",
+   "time": 30.32,
+   "weight": 1.0,
+   "note_time": 29.55
+  },
+  {
+   "text": "soul",
+   "time": 30.58,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "I",
+   "time": 31.06,
+   "weight": 0.08,
+   "note_time": 31.8
+  },
+  {
+   "text": "have",
+   "time": 32.68,
+   "weight": 0.92,
+   "note_time": 32.25
+  },
+  {
+   "text": "learned",
+   "time": 33.08,
+   "weight": 0.99,
+   "note_time": 32.7
+  },
+  {
+   "text": "to",
+   "time": 33.44,
+   "weight": 1.0,
+   "note_time": 32.85
+  },
+  {
+   "text": "be",
+   "time": 33.64,
+   "weight": 1.0,
+   "note_time": 33.15
+  },
+  {
+   "text": "con",
+   "time": 33.78,
+   "weight": 1.0,
+   "note_time": 33.6
+  },
+  {
+   "text": "tent",
+   "time": 34.13,
+   "weight": 1.0,
+   "note_time": 34.5
+  },
+  {
+   "text": "what",
+   "time": 34.96,
+   "weight": 0.96,
+   "note_time": 34.65
+  },
+  {
+   "text": "ev",
+   "time": 35.16,
+   "weight": 0.96,
+   "note_time": 34.95
+  },
+  {
+   "text": "er",
+   "time": 35.36,
+   "weight": 0.96,
+   "note_time": 35.1
+  },
+  {
+   "text": "my",
+   "time": 35.56,
+   "weight": 1.0,
+   "note_time": 35.4
+  },
+  {
+   "text": "cir",
+   "time": 36.08,
+   "weight": 0.99,
+   "note_time": 35.7
+  },
+  {
+   "text": "cum",
+   "time": 36.29,
+   "weight": 0.99,
+   "note_time": 36.0
+  },
+  {
+   "text": "stan",
+   "time": 36.5,
+   "weight": 0.99,
+   "note_time": 36.6
+  },
+  {
+   "text": "ces",
+   "time": 36.71,
+   "weight": 0.99,
+   "note_time": 36.9
+  },
+  {
+   "text": "I",
+   "time": 39.2,
+   "weight": 0.81,
+   "note_time": 39.6
+  },
+  {
+   "text": "can",
+   "time": 40.34,
+   "weight": 1.0,
+   "note_time": 39.9
+  },
+  {
+   "text": "do",
+   "time": 40.7,
+   "weight": 1.0,
+   "note_time": 40.2
+  },
+  {
+   "text": "all",
+   "time": 40.88,
+   "weight": 1.0,
+   "note_time": 40.8
+  },
+  {
+   "text": "things",
+   "time": 41.34,
+   "weight": 1.0,
+   "note_time": 41.25
+  },
+  {
+   "text": "through",
+   "time": 41.94,
+   "weight": 0.25,
+   "note_time": 43.2
+  },
+  {
+   "text": "him",
+   "time": 43.56,
+   "weight": 0.84,
+   "note_time": 44.1
+  },
+  {
+   "text": "who",
+   "time": 44.26,
+   "weight": 0.86,
+   "note_time": 44.4
+  },
+  {
+   "text": "gives",
+   "time": 45.02,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "me",
+   "time": 45.52,
+   "weight": 1.0,
+   "note_time": 45.6
+  },
+  {
+   "text": "strength",
+   "time": 45.98,
+   "weight": 1.0,
+   "note_time": 46.5
+  },
+  {
+   "text": "I",
+   "time": 49.23,
+   "weight": 0.95,
+   "note_time": 49.2
+  },
+  {
+   "text": "can",
+   "time": 49.8,
+   "weight": 1.0,
+   "note_time": 49.5
+  },
+  {
+   "text": "do",
+   "time": 50.34,
+   "weight": 1.0,
+   "note_time": 49.8
+  },
+  {
+   "text": "all",
+   "time": 50.5,
+   "weight": 1.0,
+   "note_time": 50.4
+  },
+  {
+   "text": "things",
+   "time": 50.98,
+   "weight": 1.0,
+   "note_time": 50.85
+  },
+  {
+   "text": "Through",
+   "time": 51.64,
+   "weight": 0.4,
+   "note_time": 52.2
+  },
+  {
+   "text": "him",
+   "time": 53.18,
+   "weight": 1.0,
+   "note_time": 52.8
+  },
+  {
+   "text": "who",
+   "time": 53.86,
+   "weight": 1.0,
+   "note_time": 53.7
+  },
+  {
+   "text": "gives",
+   "time": 54.64,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "me",
+   "time": 55.06,
+   "weight": 1.0,
+   "note_time": 54.45
+  },
+  {
+   "text": "strength",
+   "time": 55.48,
+   "weight": 1.0,
+   "note_time": 54.9
+  },
+  {
+   "text": "When",
+   "time": 57.96,
+   "weight": 0.15,
+   "note_time": 57.9
+  },
+  {
+   "text": "the",
+   "time": 58.78,
+   "weight": 0.98,
+   "note_time": 58.5
+  },
+  {
+   "text": "pay",
+   "time": 58.96,
+   "weight": 0.89,
+   "note_time": 58.8
+  },
+  {
+   "text": "check's",
+   "time": 59.3,
+   "weight": 0.89,
+   "note_time": 59.1
+  },
+  {
+   "text": "gone",
+   "time": 59.64,
+   "weight": 1.0,
+   "note_time": 59.25
+  },
+  {
+   "text": "too",
+   "time": 59.8,
+   "weight": 0.99,
+   "note_time": 59.7
+  },
+  {
+   "text": "ear",
+   "time": 60.04,
+   "weight": 1.0,
+   "note_time": 60.3
+  },
+  {
+   "text": "ly",
+   "time": 60.32,
+   "weight": 1.0,
+   "note_time": 60.45
+  },
+  {
+   "text": "and",
+   "time": 60.6,
+   "weight": 0.49,
+   "note_time": 60.6
+  },
+  {
+   "text": "the",
+   "time": 61.22,
+   "weight": 0.99,
+   "note_time": 60.9
+  },
+  {
+   "text": "rent",
+   "time": 61.36,
+   "weight": 1.0,
+   "note_time": 61.05
+  },
+  {
+   "text": "is",
+   "time": 61.64,
+   "weight": 0.98,
+   "note_time": 61.35
+  },
+  {
+   "text": "due",
+   "time": 61.9,
+   "weight": 1.0,
+   "note_time": 61.5
+  },
+  {
+   "text": "a",
+   "time": 62.08,
+   "weight": 1.0,
+   "note_time": 62.1
+  },
+  {
+   "text": "gain",
+   "time": 62.28,
+   "weight": 1.0,
+   "note_time": 62.25
+  },
+  {
+   "text": "When",
+   "time": 62.48,
+   "weight": 0.87,
+   "note_time": 62.4
+  },
+  {
+   "text": "the",
+   "time": 63.0,
+   "weight": 1.0,
+   "note_time": 62.7
+  },
+  {
+   "text": "doc",
+   "time": 63.2,
+   "weight": 1.0,
+   "note_time": 62.85
+  },
+  {
+   "text": "tor's",
+   "time": 63.46,
+   "weight": 1.0,
+   "note_time": 63.15
+  },
+  {
+   "text": "words",
+   "time": 63.72,
+   "weight": 1.0,
+   "note_time": 63.45
+  },
+  {
+   "text": "are",
+   "time": 63.94,
+   "weight": 1.0,
+   "note_time": 63.75
+  },
+  {
+   "text": "hea",
+   "time": 64.2,
+   "weight": 1.0,
+   "note_time": 64.2
+  },
+  {
+   "text": "vy",
+   "time": 64.44,
+   "weight": 1.0,
+   "note_time": 64.5
+  },
+  {
+   "text": "and",
+   "time": 64.68,
+   "weight": 1.0,
+   "note_time": 64.8
+  },
+  {
+   "text": "I",
+   "time": 65.24,
+   "weight": 1.0,
+   "note_time": 64.95
+  },
+  {
+   "text": "can",
+   "time": 65.48,
+   "weight": 1.0,
+   "note_time": 65.25
+  },
+  {
+   "text": "not",
+   "time": 65.68,
+   "weight": 1.0,
+   "note_time": 65.55
+  },
+  {
+   "text": "see",
+   "time": 65.88,
+   "weight": 1.0,
+   "note_time": 66.0
+  },
+  {
+   "text": "the",
+   "time": 66.2,
+   "weight": 1.0,
+   "note_time": 66.9
+  },
+  {
+   "text": "end",
+   "time": 66.5,
+   "weight": 1.0,
+   "note_time": 67.05
+  },
+  {
+   "text": "When",
+   "time": 67.06,
+   "weight": 1.0,
+   "note_time": 67.5
+  },
+  {
+   "text": "the",
+   "time": 67.82,
+   "weight": 1.0,
+   "note_time": 67.95
+  },
+  {
+   "text": "house",
+   "time": 68.02,
+   "weight": 1.0,
+   "note_time": 68.4
+  },
+  {
+   "text": "is",
+   "time": 68.66,
+   "weight": 1.0,
+   "note_time": 68.55
+  },
+  {
+   "text": "full",
+   "time": 69.0,
+   "weight": 1.0,
+   "note_time": 68.85
+  },
+  {
+   "text": "of",
+   "time": 69.36,
+   "weight": 1.0,
+   "note_time": 69.3
+  },
+  {
+   "text": "laugh",
+   "time": 69.58,
+   "weight": 1.0,
+   "note_time": 69.9
+  },
+  {
+   "text": "ter",
+   "time": 69.89,
+   "weight": 1.0,
+   "note_time": 70.05
+  },
+  {
+   "text": "and",
+   "time": 70.2,
+   "weight": 0.97,
+   "note_time": 70.2
+  },
+  {
+   "text": "the",
+   "time": 70.88,
+   "weight": 1.0,
+   "note_time": 70.35
+  },
+  {
+   "text": "cup",
+   "time": 70.98,
+   "weight": 1.0,
+   "note_time": 70.65
+  },
+  {
+   "text": "boards",
+   "time": 71.2,
+   "weight": 1.0,
+   "note_time": 70.95
+  },
+  {
+   "text": "o",
+   "time": 71.42,
+   "weight": 1.0,
+   "note_time": 71.25
+  },
+  {
+   "text": "ver",
+   "time": 71.57,
+   "weight": 1.0,
+   "note_time": 71.7
+  },
+  {
+   "text": "flow",
+   "time": 71.73,
+   "weight": 1.0,
+   "note_time": 71.85
+  },
+  {
+   "text": "In",
+   "time": 71.88,
+   "weight": 0.46,
+   "note_time": 72.0
+  },
+  {
+   "text": "ev",
+   "time": 72.66,
+   "weight": 1.0,
+   "note_time": 72.15
+  },
+  {
+   "text": "ery",
+   "time": 72.88,
+   "weight": 1.0,
+   "note_time": 72.45
+  },
+  {
+   "text": "sin",
+   "time": 73.1,
+   "weight": 1.0,
+   "note_time": 72.75
+  },
+  {
+   "text": "gle",
+   "time": 73.36,
+   "weight": 1.0,
+   "note_time": 73.05
+  },
+  {
+   "text": "sea",
+   "time": 73.62,
+   "weight": 1.0,
+   "note_time": 73.35
+  },
+  {
+   "text": "son",
+   "time": 73.96,
+   "weight": 1.0,
+   "note_time": 74.1
+  },
+  {
+   "text": "he's",
+   "time": 74.6,
+   "weight": 0.76,
+   "note_time": 74.25
+  },
+  {
+   "text": "the",
+   "time": 75.08,
+   "weight": 1.0,
+   "note_time": 74.4
+  },
+  {
+   "text": "on",
+   "time": 75.18,
+   "weight": 1.0,
+   "note_time": 74.55
+  },
+  {
+   "text": "ly",
+   "time": 75.32,
+   "weight": 1.0,
+   "note_time": 74.85
+  },
+  {
+   "text": "strength",
+   "time": 75.46,
+   "weight": 1.0,
+   "note_time": 75.15
+  },
+  {
+   "text": "I",
+   "time": 75.92,
+   "weight": 0.99,
+   "note_time": 75.6
+  },
+  {
+   "text": "know",
+   "time": 76.2,
+   "weight": 1.0,
+   "note_time": 77.4
+  },
+  {
+   "text": "I",
+   "time": 77.02,
+   "weight": 0.0,
+   "note_time": 77.7
+  },
+  {
+   "text": "have",
+   "time": 77.84,
+   "weight": 0.0,
+   "note_time": 77.85
+  },
+  {
+   "text": "learned",
+   "time": 78.66,
+   "weight": 1.0,
+   "note_time": 78.3
+  },
+  {
+   "text": "to",
+   "time": 78.98,
+   "weight": 1.0,
+   "note_time": 78.45
+  },
+  {
+   "text": "be",
+   "time": 79.24,
+   "weight": 1.0,
+   "note_time": 78.75
+  },
+  {
+   "text": "con",
+   "time": 79.4,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "tent",
+   "time": 79.73,
+   "weight": 1.0,
+   "note_time": 80.1
+  },
+  {
+   "text": "what",
+   "time": 80.06,
+   "weight": 0.65,
+   "note_time": 80.25
+  },
+  {
+   "text": "ev",
+   "time": 80.41,
+   "weight": 0.65,
+   "note_time": 80.55
+  },
+  {
+   "text": "er",
+   "time": 80.76,
+   "weight": 0.65,
+   "note_time": 80.7
+  },
+  {
+   "text": "my",
+   "time": 81.12,
+   "weight": 1.0,
+   "note_time": 81.0
+  },
+  {
+   "text": "cir",
+   "time": 81.66,
+   "weight": 0.94,
+   "note_time": 81.3
+  },
+  {
+   "text": "cum",
+   "time": 81.89,
+   "weight": 0.94,
+   "note_time": 81.6
+  },
+  {
+   "text": "stan",
+   "time": 82.12,
+   "weight": 0.94,
+   "note_time": 82.5
+  },
+  {
+   "text": "ces",
+   "time": 82.35,
+   "weight": 0.94,
+   "note_time": 83.7
+  },
+  {
+   "text": "I",
+   "time": 85.14,
+   "weight": 0.15,
+   "note_time": 85.2
+  },
+  {
+   "text": "can",
+   "time": 86.02,
+   "weight": 0.63,
+   "note_time": 85.35
+  },
+  {
+   "text": "do",
+   "time": 86.26,
+   "weight": 0.98,
+   "note_time": 85.5
+  },
+  {
+   "text": "all",
+   "time": 86.48,
+   "weight": 0.93,
+   "note_time": 85.8
+  },
+  {
+   "text": "things",
+   "time": 86.96,
+   "weight": 0.95,
+   "note_time": 86.4
+  },
+  {
+   "text": "through",
+   "time": 87.56,
+   "weight": 0.31,
+   "note_time": 88.8
+  },
+  {
+   "text": "him",
+   "time": 89.18,
+   "weight": 0.83,
+   "note_time": 89.7
+  },
+  {
+   "text": "who",
+   "time": 89.84,
+   "weight": 0.9,
+   "note_time": 90.0
+  },
+  {
+   "text": "gives",
+   "time": 90.64,
+   "weight": 1.0,
+   "note_time": 90.6
+  },
+  {
+   "text": "me",
+   "time": 91.04,
+   "weight": 1.0,
+   "note_time": 91.2
+  },
+  {
+   "text": "strength",
+   "time": 91.6,
+   "weight": 1.0,
+   "note_time": 92.1
+  },
+  {
+   "text": "I",
+   "time": 94.72,
+   "weight": 0.55,
+   "note_time": 94.8
+  },
+  {
+   "text": "can",
+   "time": 95.6,
+   "weight": 0.53,
+   "note_time": 95.1
+  },
+  {
+   "text": "do",
+   "time": 95.9,
+   "weight": 1.0,
+   "note_time": 95.4
+  },
+  {
+   "text": "all",
+   "time": 96.1,
+   "weight": 1.0,
+   "note_time": 96.0
+  },
+  {
+   "text": "things",
+   "time": 96.62,
+   "weight": 1.0,
+   "note_time": 96.45
+  },
+  {
+   "text": "Through",
+   "time": 97.22,
+   "weight": 0.4,
+   "note_time": 97.8
+  },
+  {
+   "text": "him",
+   "time": 98.8,
+   "weight": 1.0,
+   "note_time": 98.4
+  },
+  {
+   "text": "who",
+   "time": 99.46,
+   "weight": 1.0,
+   "note_time": 99.3
+  },
+  {
+   "text": "gives",
+   "time": 100.32,
+   "weight": 1.0,
+   "note_time": 99.6
+  },
+  {
+   "text": "me",
+   "time": 100.64,
+   "weight": 1.0,
+   "note_time": 100.05
+  },
+  {
+   "text": "strength",
+   "time": 101.08,
+   "weight": 1.0,
+   "note_time": 100.5
+  },
+  {
+   "text": "I",
+   "time": 105.42,
+   "weight": 0.98,
+   "note_time": 105.3
+  },
+  {
+   "text": "know",
+   "time": 106.3,
+   "weight": 1.0,
+   "note_time": 106.65
+  },
+  {
+   "text": "what",
+   "time": 106.62,
+   "weight": 1.0,
+   "note_time": 106.8
+  },
+  {
+   "text": "it",
+   "time": 107.44,
+   "weight": 1.0,
+   "note_time": 106.95
+  },
+  {
+   "text": "is",
+   "time": 107.64,
+   "weight": 1.0,
+   "note_time": 107.1
+  },
+  {
+   "text": "to",
+   "time": 107.78,
+   "weight": 1.0,
+   "note_time": 107.4
+  },
+  {
+   "text": "have",
+   "time": 107.9,
+   "weight": 1.0,
+   "note_time": 107.7
+  },
+  {
+   "text": "lit",
+   "time": 108.14,
+   "weight": 1.0,
+   "note_time": 107.85
+  },
+  {
+   "text": "tle",
+   "time": 108.31,
+   "weight": 1.0,
+   "note_time": 108.15
+  },
+  {
+   "text": "And",
+   "time": 108.48,
+   "weight": 0.35,
+   "note_time": 108.3
+  },
+  {
+   "text": "I",
+   "time": 109.0,
+   "weight": 1.0,
+   "note_time": 108.6
+  },
+  {
+   "text": "know",
+   "time": 109.26,
+   "weight": 1.0,
+   "note_time": 108.9
+  },
+  {
+   "text": "what",
+   "time": 109.6,
+   "weight": 1.0,
+   "note_time": 109.05
+  },
+  {
+   "text": "it",
+   "time": 109.88,
+   "weight": 1.0,
+   "note_time": 109.2
+  },
+  {
+   "text": "is",
+   "time": 110.02,
+   "weight": 1.0,
+   "note_time": 109.35
+  },
+  {
+   "text": "to",
+   "time": 110.18,
+   "weight": 1.0,
+   "note_time": 109.5
+  },
+  {
+   "text": "have",
+   "time": 110.32,
+   "weight": 1.0,
+   "note_time": 109.8
+  },
+  {
+   "text": "plen",
+   "time": 110.5,
+   "weight": 1.0,
+   "note_time": 110.1
+  },
+  {
+   "text": "ty",
+   "time": 110.79,
+   "weight": 1.0,
+   "note_time": 110.25
+  },
+  {
+   "text": "Whet",
+   "time": 111.08,
+   "weight": 0.47,
+   "note_time": 110.7
+  },
+  {
+   "text": "her",
+   "time": 111.41,
+   "weight": 0.47,
+   "note_time": 111.0
+  },
+  {
+   "text": "well",
+   "time": 111.74,
+   "weight": 0.93,
+   "note_time": 111.6
+  },
+  {
+   "text": "fed",
+   "time": 112.1,
+   "weight": 0.76,
+   "note_time": 111.9
+  },
+  {
+   "text": "or",
+   "time": 112.54,
+   "weight": 0.99,
+   "note_time": 112.2
+  },
+  {
+   "text": "hun",
+   "time": 112.86,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "gry",
+   "time": 113.15,
+   "weight": 1.0,
+   "note_time": 112.65
+  },
+  {
+   "text": "Whet",
+   "time": 113.44,
+   "weight": 0.87,
+   "note_time": 113.1
+  },
+  {
+   "text": "her",
+   "time": 113.78,
+   "weight": 0.87,
+   "note_time": 113.4
+  },
+  {
+   "text": "liv",
+   "time": 114.12,
+   "weight": 0.76,
+   "note_time": 113.55
+  },
+  {
+   "text": "ing",
+   "time": 114.28,
+   "weight": 0.76,
+   "note_time": 113.7
+  },
+  {
+   "text": "in",
+   "time": 114.44,
+   "weight": 1.0,
+   "note_time": 113.85
+  },
+  {
+   "text": "a",
+   "time": 114.72,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "bun",
+   "time": 114.89,
+   "weight": 1.0,
+   "note_time": 114.3
+  },
+  {
+   "text": "dance",
+   "time": 115.07,
+   "weight": 1.0,
+   "note_time": 114.6
+  },
+  {
+   "text": "or",
+   "time": 115.24,
+   "weight": 0.98,
+   "note_time": 114.9
+  },
+  {
+   "text": "in",
+   "time": 115.6,
+   "weight": 1.0,
+   "note_time": 115.2
+  },
+  {
+   "text": "want",
+   "time": 115.9,
+   "weight": 0.85,
+   "note_time": 116.4
+  },
+  {
+   "text": "I",
+   "time": 116.82,
+   "weight": 0.98,
+   "note_time": 116.55
+  },
+  {
+   "text": "can",
+   "time": 117.3,
+   "weight": 1.0,
+   "note_time": 116.7
+  },
+  {
+   "text": "do",
+   "time": 117.5,
+   "weight": 1.0,
+   "note_time": 117.0
+  },
+  {
+   "text": "all",
+   "time": 117.7,
+   "weight": 1.0,
+   "note_time": 117.6
+  },
+  {
+   "text": "things",
+   "time": 118.12,
+   "weight": 1.0,
+   "note_time": 118.05
+  },
+  {
+   "text": "through",
+   "time": 119.4,
+   "weight": 0.47,
+   "note_time": 120.0
+  },
+  {
+   "text": "him",
+   "time": 120.36,
+   "weight": 0.91,
+   "note_time": 120.9
+  },
+  {
+   "text": "who",
+   "time": 121.02,
+   "weight": 0.77,
+   "note_time": 121.2
+  },
+  {
+   "text": "gives",
+   "time": 121.86,
+   "weight": 1.0,
+   "note_time": 121.8
+  },
+  {
+   "text": "me",
+   "time": 122.28,
+   "weight": 1.0,
+   "note_time": 122.4
+  },
+  {
+   "text": "strength",
+   "time": 122.82,
+   "weight": 1.0,
+   "note_time": 123.3
+  },
+  {
+   "text": "I",
+   "time": 125.98,
+   "weight": 0.98,
+   "note_time": 126.0
+  },
+  {
+   "text": "can",
+   "time": 126.94,
+   "weight": 1.0,
+   "note_time": 126.3
+  },
+  {
+   "text": "do",
+   "time": 127.12,
+   "weight": 1.0,
+   "note_time": 126.6
+  },
+  {
+   "text": "all",
+   "time": 127.3,
+   "weight": 1.0,
+   "note_time": 127.2
+  },
+  {
+   "text": "things",
+   "time": 127.74,
+   "weight": 1.0,
+   "note_time": 127.65
+  },
+  {
+   "text": "Through",
+   "time": 128.44,
+   "weight": 0.39,
+   "note_time": 129.0
+  },
+  {
+   "text": "him",
+   "time": 130.04,
+   "weight": 1.0,
+   "note_time": 129.6
+  },
+  {
+   "text": "who",
+   "time": 130.68,
+   "weight": 0.99,
+   "note_time": 130.5
+  },
+  {
+   "text": "gives",
+   "time": 131.44,
+   "weight": 1.0,
+   "note_time": 130.8
+  },
+  {
+   "text": "me",
+   "time": 131.86,
+   "weight": 1.0,
+   "note_time": 131.25
+  },
+  {
+   "text": "strength",
+   "time": 132.28,
+   "weight": 1.0,
+   "note_time": 131.7
+  },
+  {
+   "text": "Through",
+   "time": 138.2,
+   "weight": 0.88,
+   "note_time": 138.6
+  },
+  {
+   "text": "him",
+   "time": 139.5,
+   "weight": 0.73,
+   "note_time": 139.2
+  },
+  {
+   "text": "who",
+   "time": 140.22,
+   "weight": 0.9,
+   "note_time": 140.1
+  },
+  {
+   "text": "gives",
+   "time": 141.02,
+   "weight": 1.0,
+   "note_time": 140.4
+  },
+  {
+   "text": "me",
+   "time": 141.44,
+   "weight": 1.0,
+   "note_time": 140.85
+  },
+  {
+   "text": "strength",
+   "time": 141.84,
+   "weight": 1.0,
+   "note_time": 141.3
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 24 lyric lines sit on their notes."
+}

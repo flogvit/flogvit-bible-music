@@ -1,0 +1,48 @@
+{
+  "id": "verse-26-36-26-soul",
+  "title": "A New Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 26,
+    "chapter": 36,
+    "verseStart": 25,
+    "verseEnd": 28
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 36,
+      "verseStart": 25,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul",
+      "gospel"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "pakten",
+      "den-hellige-and",
+      "tilgivelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow soul ballad, rich female lead vocal, gospel backing trio, electric piano, organ, warm bass, soft drums, string swells, tender and hopeful, 70 BPM",
+    "lyrics": "[Verse]\nI built a wall around my heart, I made it out of stone\nI thought that it would keep me safe, it only left me alone\nI couldn't cry, I couldn't pray, I couldn't feel the sun\nThen you came knocking softly and you said, it can be undone\n\n[Chorus]\nI will give you a new heart\nAnd put a new spirit within you\nI will remove your heart of stone\nAnd give you a heart of flesh\n\n[Verse]\nI will sprinkle clean water on you, and you will be clean\nI will cleanse you from all your impurities\nI will put my Spirit within you\nYou will be my people, and I will be your God\n\n[Chorus]\nI will give you a new heart\nAnd put a new spirit within you\nI will remove your heart of stone\nAnd give you a heart of flesh\n\n[Bridge]\nTake this stone, take this stone\nMake it flesh and make it home\nTake this stone, take this stone\nMake it flesh and make it home\n\n[Outro]\nA heart of flesh\nA new heart",
+    "cot": "full",
+    "seed": 20145
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "verse-23-61-1-soul",
+  "title": "Good News to the Poor",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 61,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 61,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 42,
+      "chapter": 4,
+      "verseStart": 16,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "frelsen",
+      "den-hellige-and"
+    ],
+    "stories": [],
+    "persons": [
+      "jesaja",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, classic soul, warm male lead vocal with female backing singers, Rhodes piano, horn section, bass, tight drums, hopeful groove, 92 BPM",
+    "lyrics": "[Verse]\nIn a little town called Nazareth upon the Sabbath day\nHe stood up in the synagogue the way he did each week\nThey handed him the scroll of the prophet Isaiah\nHe found the place where it was written and he began to speak\n\n[Chorus]\nThe Spirit of the Lord GOD is upon me\nBecause the LORD has anointed me\nTo bring good news to the poor\nHe has sent me to bind up the brokenhearted\n\n[Verse]\nTo proclaim liberty to the captives\nAnd release to those who are bound\nTo comfort all who mourn\nTo proclaim the year of the LORD's favor\n\n[Chorus]\nThe Spirit of the Lord GOD is upon me\nBecause the LORD has anointed me\nTo bring good news to the poor\nHe has sent me to bind up the brokenhearted\n\n[Bridge]\nA crown instead of ashes\nThe oil of gladness instead of mourning\nA garment of praise instead of a faint spirit\nToday this Scripture has been fulfilled in your hearing\n\n[Outro]\nGood news to the poor\nGood news to the poor",
+    "cot": "full",
+    "seed": 20134
+  }
+}

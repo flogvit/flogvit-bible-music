@@ -1,0 +1,48 @@
+{
+  "id": "verse-47-5-17-pop",
+  "title": "New Creation",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 47,
+    "chapter": 5,
+    "verseStart": 17,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 47,
+      "chapter": 5,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "nade"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, upbeat pop, bright female vocal, synth bass, electric piano, clean guitars, claps, punchy drums, euphoric chorus, 118 BPM",
+    "lyrics": "[Verse]\nI kept the photographs of every time I fell\nI kept the receipts of every wrong, I knew them all too well\nI wore my yesterday like a coat in summer heat\nThen grace came walking in and set me on my feet\n\n[Chorus]\nIf anyone is in Christ, there is a new creation\nThe old has passed away\nLook, the new has come\nLook, the new has come\n\n[Verse]\nThrow the curtains open, let the morning in\nEvery day a first day, every page begin\nI don't have to carry what he carried on the cross\nEverything I gave up was never any loss\n\n[Chorus]\nIf anyone is in Christ, there is a new creation\nThe old has passed away\nLook, the new has come\nLook, the new has come\n\n[Bridge]\nAll this is from God\nWho reconciled us to himself through Christ\nAnd gave us the ministry of reconciliation\n\n[Outro]\nLook, the new has come\nLook, the new has come",
+    "cot": "full",
+    "seed": 20139
+  }
+}

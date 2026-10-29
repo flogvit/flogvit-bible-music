@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-10-10-country",
+  "title": "Life in Abundance",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 10,
+    "verseStart": 7,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 10,
+      "verseStart": 7,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [
+      "den-gode-gjeteren"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, country ballad, warm male vocal, steel guitar, acoustic guitar, fiddle, piano, brushed drums, open and heartfelt, 78 BPM",
+    "lyrics": "[Verse]\nMy granddad kept a flock of sheep out past the county line\nHe knew them every one by name and they all knew his sign\nHe'd sleep across the gateway when the coyotes came around\nAnd not a lamb was taken while he lay upon the ground\n\n[Chorus]\nI came that they may have life\nAnd have it in abundance\nI am the good shepherd\nThe good shepherd lays down his life for the sheep\n\n[Verse]\nI am the gate\nWhoever enters through me will be saved\nHe will come in and go out and find pasture\nThe thief comes only to steal and kill and destroy\n\n[Chorus]\nI came that they may have life\nAnd have it in abundance\nI am the good shepherd\nThe good shepherd lays down his life for the sheep\n\n[Bridge]\nI've wandered from the gateway and I've heard the stranger call\nBut I know my shepherd's voice now and I know he gave it all\n\n[Outro]\nI came that they may have life\nAnd have it in abundance",
+    "cot": "full",
+    "seed": 20137
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "verse-40-5-13-children",
+  "title": "Salt and Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 13,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 13,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "children",
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "love"
+    ],
+    "themes": [
+      "bergprekenen",
+      "menigheten"
+    ],
+    "stories": [
+      "bergprekenen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's pop sing-along, kids choir with cheerful female lead, ukulele, piano, hand claps, shakers, bouncy bass, bright and fun, 116 BPM",
+    "lyrics": "[Verse]\nA little pinch of salt makes the dinner taste so good\nA little candle shines in the dark the way it should\nJesus looked at all his friends sitting on the hill\nAnd he told them who they are and he tells us still\n\n[Chorus]\nYou are the salt of the earth\nYou are the light of the world\nA city set on a hill cannot be hidden\nShine, shine, shine\n\n[Verse]\nNo one lights a lamp and puts it under a basket\nThey set it on a stand\nAnd it gives light to everyone in the house\nSo hold your little light up high in your hand\n\n[Chorus]\nYou are the salt of the earth\nYou are the light of the world\nA city set on a hill cannot be hidden\nShine, shine, shine\n\n[Bridge]\nHelp your friend, share your bread\nSay a kind word, like Jesus said\nLet your light shine before others\nSo that they may see your good works\nAnd glorify your Father in heaven\n\n[Outro]\nYou are the light of the world\nShine, shine, shine",
+    "cot": "full",
+    "seed": 20136
+  }
+}

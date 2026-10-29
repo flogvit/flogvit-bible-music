@@ -1,0 +1,52 @@
+{
+  "id": "verse-40-6-25-acoustic",
+  "title": "Consider the Lilies",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 6,
+    "verseStart": 25,
+    "verseEnd": 34
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 6,
+      "verseStart": 25,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bergprekenen",
+      "frykt",
+      "tro"
+    ],
+    "stories": [
+      "bergprekenen"
+    ],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle acoustic singer-songwriter, soft female vocal, fingerpicked guitar, light piano, glockenspiel, airy and calm, 82 BPM",
+    "lyrics": "[Verse]\nI lie awake and count the bills, I count the hours till day\nI write the lists of all I need and the lists of what I'll say\nThen in the morning on the step a sparrow comes to sing\nHe doesn't know where lunch will come from, he isn't worrying\n\n[Chorus]\nLook at the birds of the air\nThey do not sow or reap or gather into barns\nAnd yet your heavenly Father feeds them\nAre you not worth far more than they\n\n[Verse]\nConsider how the lilies of the field grow\nThey do not labor or spin\nYet not even Solomon in all his splendor\nWas dressed like one of these\n\n[Chorus]\nLook at the birds of the air\nThey do not sow or reap or gather into barns\nAnd yet your heavenly Father feeds them\nAre you not worth far more than they\n\n[Bridge]\nBut seek first his kingdom and his righteousness\nAnd all these things will be given to you as well\nSo do not worry about tomorrow\nFor tomorrow will worry about itself\n\n[Outro]\nYour heavenly Father knows that you need them all\nYour heavenly Father knows",
+    "cot": "full",
+    "seed": 20135
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chapter-19-8-orchestral",
+  "title": "How Majestic Is Your Name",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 8,
+      "verseStart": 2,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "skapelsen"
+    ],
+    "stories": [
+      "skapelsen-av-verden"
+    ],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, cinematic orchestral hymn, soaring female soprano lead with mixed choir, strings, French horns, timpani, harp, celesta, awe-filled and spacious, 70 BPM",
+    "lyrics": "[Chorus]\nLORD, our Lord, how majestic is your name in all the earth\nYou have set your splendor above the heavens\nLORD, our Lord, how majestic is your name in all the earth\n\n[Verse]\nFrom the mouths of children and infants\nYou have established strength because of your foes\nTo silence the enemy and the avenger\n\n[Verse]\nWhen I look at your heavens, the work of your fingers\nThe moon and the stars that you set in place\nWhat is a human being that you remember him\nA son of man that you care for him\n\n[Chorus]\nLORD, our Lord, how majestic is your name in all the earth\nYou have set your splendor above the heavens\nLORD, our Lord, how majestic is your name in all the earth\n\n[Bridge]\nYou made him a little lower than God\nAnd crowned him with glory and honor\nYou gave him dominion over the works of your hands\nYou put everything under his feet\nAll the flocks and herds, and the beasts of the field as well\nThe birds of the sky and the fish of the sea\nWhatever passes along the paths of the seas\n\n[Outro]\nLORD, our Lord, how majestic is your name in all the earth",
+    "cot": "full",
+    "seed": 20127
+  }
+}

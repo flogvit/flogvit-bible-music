@@ -1,0 +1,54 @@
+{
+  "id": "verse-58-12-1-rock",
+  "title": "Run the Race",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 12,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "korset"
+    ],
+    "stories": [],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, anthemic rock, gritty male vocal, driving electric guitars, bass, big drums, gang vocals in the chorus, determined and energetic, 132 BPM",
+    "lyrics": "[Verse]\nMy legs are burning, my lungs are on fire\nThe road is long and the hill is higher\nBut I can hear them cheering from the stands\nThe ones who ran before me with their open hands\n\n[Chorus]\nSince we are surrounded by such a great cloud of witnesses\nLet us throw off every weight\nAnd let us run with endurance the race set before us\nFixing our eyes on Jesus\n\n[Verse]\nAbraham and Moses, Rahab at the wall\nThey didn't see the finish but they gave it all\nNow the baton's in my hand and the time is now\nI'm going to run this race, I'm going to show you how\n\n[Chorus]\nSince we are surrounded by such a great cloud of witnesses\nLet us throw off every weight\nAnd let us run with endurance the race set before us\nFixing our eyes on Jesus\n\n[Bridge]\nThe pioneer and perfecter of faith\nWho for the joy set before him endured the cross\nScorning its shame\nAnd has taken his seat at the right hand of the throne of God\n\n[Outro]\nFixing our eyes on Jesus\nFixing our eyes on Jesus",
+    "cot": "full",
+    "seed": 20141
+  }
+}

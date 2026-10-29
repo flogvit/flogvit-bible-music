@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-12-1-worship",
+  "title": "Living Sacrifice",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "obedience"
+    ],
+    "themes": [
+      "paulus"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary worship, male lead vocal with congregation-style backing, electric guitars with delay, piano, synth pad, bass, building drums, earnest and rising, 72 BPM",
+    "lyrics": "[Verse]\nHere are my hands, the work I do\nHere are my days, I give them to you\nNot just a song on a Sunday morning\nAll of my life laid down before you\n\n[Chorus]\nBy the mercies of God\nI offer my body as a living sacrifice\nHoly and pleasing to God\nThis is my spiritual worship\n\n[Verse]\nDo not be conformed to this age\nBut be transformed by the renewing of your mind\nSo that you can discern what God's will is\nWhat is good and pleasing and perfect\n\n[Chorus]\nBy the mercies of God\nI offer my body as a living sacrifice\nHoly and pleasing to God\nThis is my spiritual worship\n\n[Bridge]\nRenew my mind, renew my heart\nMake me new in every part\nRenew my mind, renew my heart\nMake me new in every part\n\n[Outro]\nHoly and pleasing to God\nThis is my spiritual worship",
+    "cot": "full",
+    "seed": 20138
+  }
+}

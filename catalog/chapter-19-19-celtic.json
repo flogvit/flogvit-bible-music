@@ -1,0 +1,48 @@
+{
+  "id": "chapter-19-19-celtic",
+  "title": "The Heavens Declare",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 19
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 19,
+      "verseStart": 2,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic",
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "obedience"
+    ],
+    "themes": [
+      "skapelsen"
+    ],
+    "stories": [
+      "skapelsen-av-verden"
+    ],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic folk, clear female vocal joined by male harmony, Celtic harp, tin whistle, fiddle, bodhran, bouzouki, bright morning feel, 96 BPM",
+    "lyrics": "[Verse]\nBefore the larks were singing, before the kettle's call\nThe light came over the mountain and spilled across the wall\nNo word was ever spoken, no voice was ever heard\nBut all the sky was preaching and every cloud a word\n\n[Chorus]\nThe heavens declare the glory of God\nThe skies proclaim the work of his hands\nDay after day they pour forth speech\nNight after night they reveal knowledge\n\n[Verse]\nThe sun comes like a bridegroom, rejoicing in his strength\nHe runs from end to end of heaven the whole of the day's length\nAnd nothing hides from his warming, no valley and no stone\nAnd so the word of the LORD goes out to make his goodness known\n\n[Chorus]\nThe heavens declare the glory of God\nThe skies proclaim the work of his hands\nDay after day they pour forth speech\nNight after night they reveal knowledge\n\n[Bridge]\nThe law of the LORD is perfect, reviving the soul\nMore desirable than gold, than much pure gold\nSweeter than honey, than honey from the comb\n\n[Outro]\nMay the words of my mouth and the meditation of my heart\nBe pleasing in your sight, O LORD, my rock and my redeemer",
+    "cot": "full",
+    "seed": 20128
+  }
+}

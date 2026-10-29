@@ -1,0 +1,43 @@
+{
+  "id": "chapter-19-1-folk",
+  "title": "Like a Tree by the Water",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "acoustic"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience"
+    ],
+    "themes": [
+      "visdom"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic folk, warm male vocal, fingerpicked acoustic guitar, upright bass, mandolin, soft brushed drums, steady and grounded, 84 BPM",
+    "lyrics": "[Verse]\nBlessed is the one who does not walk in the counsel of the wicked\nWho does not stand in the way of sinners\nWho does not sit in the seat of mockers\nBut whose delight is in the instruction of the LORD\nAnd who murmurs over his instruction day and night\n\n[Chorus]\nHe is like a tree transplanted beside channels of water\nYielding its fruit in season, its leaf never withering\nIn all that he does, he thrives\nLike a tree transplanted beside channels of water\n\n[Verse]\nNot so the wicked\nThey are like chaff that the wind blows away\nTherefore the wicked will not stand in the judgment\nNor sinners in the assembly of the righteous\n\n[Chorus]\nHe is like a tree transplanted beside channels of water\nYielding its fruit in season, its leaf never withering\nIn all that he does, he thrives\nLike a tree transplanted beside channels of water\n\n[Outro]\nFor the LORD knows the way of the righteous\nBut the way of the wicked will perish\nThe LORD knows the way of the righteous",
+    "cot": "full",
+    "seed": 20126
+  }
+}

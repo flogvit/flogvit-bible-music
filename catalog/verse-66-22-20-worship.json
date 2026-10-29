@@ -1,0 +1,63 @@
+{
+  "id": "verse-66-22-20-worship",
+  "title": "Come, Lord Jesus",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 22,
+    "verseStart": 20,
+    "verseEnd": 21
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 22,
+      "verseStart": 20,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 66,
+      "chapter": 22,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 66,
+      "chapter": 22,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship",
+      "celtic"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "endetiden",
+      "hap",
+      "jul"
+    ],
+    "stories": [],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, advent worship with Celtic colours, warm male and female duet, low whistle, acoustic guitar, piano, cello, soft pads, slow build, 76 BPM",
+    "lyrics": "[Verse]\nThe night is long, the lamps are lit\nWe wait like watchmen at the gate\nThe world is weary, hearts are cold\nWe hold the promise that was told\n\n[Chorus]\nYes, I am coming soon\nAmen. Come, Lord Jesus\nYes, I am coming soon\nAmen. Come, Lord Jesus\n\n[Verse]\nI am the Alpha and the Omega\nThe First and the Last, the Beginning and the End\nI am the Root and the Offspring of David\nThe bright Morning Star\n\n[Chorus]\nYes, I am coming soon\nAmen. Come, Lord Jesus\nYes, I am coming soon\nAmen. Come, Lord Jesus\n\n[Bridge]\nThe Spirit and the bride say, Come\nLet the one who is thirsty come\nLet the one who desires take the water of life as a gift\n\n[Outro]\nThe grace of the Lord Jesus be with all\nCome, Lord Jesus",
+    "cot": "full",
+    "seed": 20146
+  }
+}

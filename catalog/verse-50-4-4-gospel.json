@@ -1,0 +1,48 @@
+{
+  "id": "verse-50-4-4-gospel",
+  "title": "Rejoice in the Lord Always",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 50,
+    "chapter": 4,
+    "verseStart": 4,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 4,
+      "verseStart": 4,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "glede",
+      "bonn"
+    ],
+    "stories": [],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, upbeat gospel, female lead vocal with gospel choir, Hammond organ, piano, slap bass, drums, tambourine, joyful shuffle, 120 BPM",
+    "lyrics": "[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice\n\n[Verse]\nPaul was writing letters from a prison cell\nHe had chains on his ankles, he had stories to tell\nBut he didn't write of sorrow and he didn't write of fear\nHe wrote a song of gladness: the Lord is near\n\n[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice\n\n[Verse]\nDo not be anxious about anything\nBut in everything, by prayer and petition, with thanksgiving\nPresent your requests to God\nPresent your requests to God\n\n[Bridge]\nAnd the peace of God, which surpasses all understanding\nWill guard your hearts and your minds in Christ Jesus\nWill guard your hearts, will guard your minds\nIn Christ Jesus\n\n[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice",
+    "cot": "full",
+    "seed": 20140
+  }
+}

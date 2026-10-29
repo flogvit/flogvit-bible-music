@@ -1,0 +1,50 @@
+{
+  "id": "chapter-19-136-gospel",
+  "title": "His Steadfast Love Endures Forever",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 136
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 136,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 19,
+      "chapter": 136,
+      "verseStart": 23,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel call and response, strong male lead answered by full gospel choir, Hammond organ, piano, bass, drums, hand claps, joyful and driving, 104 BPM",
+    "lyrics": "[Verse]\nGive thanks to the LORD, for he is good\nHis steadfast love endures forever\nGive thanks to the God of gods\nHis steadfast love endures forever\nGive thanks to the Lord of lords\nHis steadfast love endures forever\n\n[Chorus]\nHis steadfast love endures forever\nHis steadfast love endures forever\n\n[Verse]\nTo him who alone does great wonders\nHis steadfast love endures forever\nTo him who made the heavens with understanding\nHis steadfast love endures forever\nTo him who spread out the earth upon the waters\nHis steadfast love endures forever\n\n[Verse]\nTo him who made the great lights\nHis steadfast love endures forever\nThe sun to rule over the day\nHis steadfast love endures forever\nThe moon and stars to rule over the night\nHis steadfast love endures forever\n\n[Chorus]\nHis steadfast love endures forever\nHis steadfast love endures forever\n\n[Verse]\nWho remembered us when we were brought low\nHis steadfast love endures forever\nAnd broke us free from our foes\nHis steadfast love endures forever\nWho gives food to all flesh\nHis steadfast love endures forever\n\n[Outro]\nGive thanks to the God of heaven\nHis steadfast love endures forever\nHis steadfast love endures forever",
+    "cot": "full",
+    "seed": 20131
+  }
+}

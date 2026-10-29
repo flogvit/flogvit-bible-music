@@ -1,0 +1,58 @@
+{
+  "id": "verse-23-40-1-orchestral",
+  "title": "Comfort, Comfort My People",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 40,
+    "verseStart": 1,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 40,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral",
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul",
+      "hap"
+    ],
+    "stories": [],
+    "persons": [
+      "jesaja",
+      "johannes-doperen"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, advent orchestral folk, gentle female vocal with male choir in the chorus, strings, oboe, acoustic guitar, harp, timpani swells, expectant and tender, 74 BPM",
+    "lyrics": "[Verse]\nThe candles in the window, the winter on the hill\nA people long in exile, and waiting, waiting still\nThen over the dark water there came a gentle word\nThe kindest voice of heaven that ever earth had heard\n\n[Chorus]\nComfort, comfort my people, says your God\nSpeak tenderly to Jerusalem\nIn the wilderness prepare the way of the LORD\nMake straight in the desert a highway for our God\n\n[Verse]\nEvery valley shall be lifted up\nEvery mountain and hill made low\nAnd the glory of the LORD will be revealed\nAnd all flesh together will see it\n\n[Chorus]\nComfort, comfort my people, says your God\nSpeak tenderly to Jerusalem\nIn the wilderness prepare the way of the LORD\nMake straight in the desert a highway for our God\n\n[Bridge]\nThe grass withers, the flower fades\nBut the word of our God stands forever\nHe tends his flock like a shepherd\nHe gathers the lambs in his arms\nAnd carries them close to his heart\n\n[Outro]\nHere is your God\nHere is your God",
+    "cot": "full",
+    "seed": 20132
+  }
+}

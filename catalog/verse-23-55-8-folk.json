@@ -1,0 +1,49 @@
+{
+  "id": "verse-23-55-8-folk",
+  "title": "Higher Than the Heavens",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 55,
+    "verseStart": 6,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 55,
+      "verseStart": 6,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk",
+      "country"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "nade",
+      "glede"
+    ],
+    "stories": [],
+    "persons": [
+      "jesaja"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, upbeat folk, bright male vocal with female harmony, acoustic guitars, banjo, fiddle, upright bass, foot-stomp percussion, joyful, 112 BPM",
+    "lyrics": "[Verse]\nI had it all planned out from the morning to the night\nI had a map for every road and a reason for each fight\nBut the rain came down on the dusty field and the seed began to grow\nAnd it taught me there's a wisdom that I'm never going to know\n\n[Chorus]\nFor my thoughts are not your thoughts\nNor are your ways my ways, declares the LORD\nAs the heavens are higher than the earth\nSo are my ways higher than your ways\n\n[Verse]\nSeek the LORD while he may be found\nCall on him while he is near\nLet him return to the LORD, and he will have mercy on him\nAnd to our God, for he will freely pardon\n\n[Chorus]\nFor my thoughts are not your thoughts\nNor are your ways my ways, declares the LORD\nAs the heavens are higher than the earth\nSo are my ways higher than your ways\n\n[Bridge]\nSo is my word that goes out from my mouth\nIt will not return to me empty\nYou will go out with joy and be led forth in peace\n\n[Outro]\nThe mountains and hills will break into song before you\nAnd all the trees of the field will clap their hands",
+    "cot": "full",
+    "seed": 20133
+  }
+}

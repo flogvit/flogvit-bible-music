@@ -1,0 +1,48 @@
+{
+  "id": "chapter-19-90-hymn",
+  "title": "Teach Us to Number Our Days",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 90
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 90,
+      "verseStart": 1,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn",
+      "choral"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "hap",
+      "visdom"
+    ],
+    "stories": [],
+    "persons": [
+      "moses"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, traditional hymn, warm male baritone lead with four-part choir, pipe organ, soft strings, stately and reflective, 66 BPM",
+    "lyrics": "[Verse]\nLord, you have been our dwelling place\nThrough all generations\nBefore the mountains were born\nFrom everlasting to everlasting you are God\n\n[Verse]\nA thousand years in your sight\nAre like a day that has just gone by\nLike grass that springs up in the morning\nBy evening it withers and dries up\n\n[Chorus]\nTeach us to number our days\nThat we may gain a heart of wisdom\nTeach us to number our days\nThat we may gain a heart of wisdom\n\n[Verse]\nSeventy years, that is the span of our life\nOr eighty, if we have the strength\nThey pass quickly, and we fly away\nTurn back, LORD, have compassion on your servants\n\n[Chorus]\nTeach us to number our days\nThat we may gain a heart of wisdom\nTeach us to number our days\nThat we may gain a heart of wisdom\n\n[Bridge]\nSatisfy us in the morning with your steadfast love\nThat we may sing for joy and be glad all our days\n\n[Outro]\nMay the favor of the Lord our God rest upon us\nEstablish the work of our hands\nYes, establish the work of our hands",
+    "cot": "full",
+    "seed": 20130
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "verse-60-5-7-blues",
+  "title": "He Cares for You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 60,
+    "chapter": 5,
+    "verseStart": 6,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 60,
+      "chapter": 5,
+      "verseStart": 6,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "peter"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, slow blues, weathered male vocal, slide guitar, Hammond organ, upright bass, brushed drums, harmonica fills, soulful and warm, 64 BPM",
+    "lyrics": "[Verse]\nI been carrying my troubles like a sack of stones\nCarrying them down the highway, carrying them home\nCarried them to bed at night and woke up with them too\nLord, I'm tired of carrying, don't know what to do\n\n[Chorus]\nCasting all your anxiety on him\nBecause he cares for you\nCasting all your anxiety on him\nBecause he cares for you\n\n[Verse]\nOld fisherman Peter learned it hard and slow\nHe wrote it in a letter so the rest of us would know\nHumble yourselves under God's mighty hand\nSo that he may lift you up in due time\n\n[Chorus]\nCasting all your anxiety on him\nBecause he cares for you\nCasting all your anxiety on him\nBecause he cares for you\n\n[Bridge]\nSet it down, set it down\nLay your heavy burden on the ground\nSet it down, set it down\nHe cares for you\n\n[Outro]\nBecause he cares for you\nBecause he cares for you",
+    "cot": "full",
+    "seed": 20142
+  }
+}

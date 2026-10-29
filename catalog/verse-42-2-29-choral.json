@@ -1,0 +1,58 @@
+{
+  "id": "verse-42-2-29-choral",
+  "title": "Now, Master, Let Your Servant Depart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 29,
+    "verseEnd": 32
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 29,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 25,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral",
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral",
+      "epiphany"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "hap",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "jesus"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osen",
+  "request": {
+    "style": "English, a cappella choral anthem, mixed SATB choir with solo tenor, sacred and luminous, slow and peaceful, 60 BPM",
+    "lyrics": "[Verse]\nNow, Master, you may let your servant depart in peace\nAccording to your word\nFor my eyes have seen your salvation\nWhich you have prepared in the sight of all peoples\n\n[Chorus]\nA light for revelation to the Gentiles\nAnd the glory of your people Israel\nA light for revelation to the Gentiles\nAnd the glory of your people Israel\n\n[Verse]\nNow, Master, you may let your servant depart in peace\nAccording to your word\nFor my eyes have seen your salvation\nWhich you have prepared in the sight of all peoples\n\n[Chorus]\nA light for revelation to the Gentiles\nAnd the glory of your people Israel\n\n[Outro]\nDepart in peace\nAccording to your word",
+    "cot": "full",
+    "seed": 20143
+  }
+}

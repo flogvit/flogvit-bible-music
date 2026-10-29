@@ -1,0 +1,52 @@
+{
+  "id": "verse-19-42-2-ballad",
+  "title": "As a Deer Longs",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 42,
+    "verseStart": 2,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 42,
+      "verseStart": 2,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 19,
+      "chapter": 42,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad",
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "hap",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, intimate piano ballad, tender female vocal, solo piano, cello, soft string pad, longing and hopeful, 68 BPM",
+    "lyrics": "[Verse]\nI remember Sunday mornings and the singing in the hall\nHow I walked among the people and I felt you over all\nNow the house is very quiet and the nights are very long\nAnd I search for you in silence where I used to find a song\n\n[Chorus]\nAs a deer longs for streams of water\nSo my soul longs for you, O God\nMy soul thirsts for God, for the living God\nWhen shall I come and appear before God's face\n\n[Verse]\nMy tears have been my food day and night\nAnd still the voices ask me where you are\nI pour my heart out on the kitchen floor\nI hold on to the memory of the light\n\n[Chorus]\nAs a deer longs for streams of water\nSo my soul longs for you, O God\nMy soul thirsts for God, for the living God\nWhen shall I come and appear before God's face\n\n[Bridge]\nWhy are you cast down, my soul\nAnd why do you groan within me\nHope in God, for I will praise him again\n\n[Outro]\nAs a deer longs for streams of water\nSo my soul longs for you, O God",
+    "cot": "full",
+    "seed": 20129
+  }
+}

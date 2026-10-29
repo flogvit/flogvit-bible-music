@@ -24,6 +24,12 @@ repo=${0:A:h:h}
 bun=$(command -v bun) || { echo "bun not found" >&2; exit 1; }
 python=$(command -v python3) || { echo "python3 not found" >&2; exit 1; }
 args=${1:+<string>$1</string>}
+# The lyrics check's settings (README, Lyrics check), passed on when set here.
+extra=
+for key in MUSIC_MAX_ATTEMPTS MUSIC_JUDGE_MODEL; do
+  [[ -n ${(P)key:-} ]] && extra+="
+    <key>$key</key><string>${(P)key}</string>"
+done
 
 mkdir -p ${plist:h}
 cat > $plist <<EOF
@@ -37,7 +43,7 @@ cat > $plist <<EOF
   <key>WorkingDirectory</key><string>$repo</string>
   <key>EnvironmentVariables</key>
   <dict>
-    <key>MUSIC_MACHINE</key><string>$MUSIC_MACHINE</string>
+    <key>MUSIC_MACHINE</key><string>$MUSIC_MACHINE</string>$extra
     <key>PATH</key><string>${bun:h}:${python:h}:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
   </dict>
   <key>RunAtLoad</key><true/>

@@ -169,10 +169,11 @@ bun test scripts                                # the judge on a real doubled ch
 ```
 
 `MUSIC_MAX_ATTEMPTS` sets the number of attempts (default 3), and `MUSIC_JUDGE_MODEL` the Ollama model
-(default `qwen3.8:27b`). For the launchd agent, add them to `EnvironmentVariables` in
-`~/Library/LaunchAgents/com.flogvit.music-generate.plist` and install it again. The judge takes about a minute per song
-on an M5 Max. Ollama unloads the model after each song, so YuE gets the memory back. The judge runs in Ollama's
-own process, so `taskpolicy -b` does not reach it.
+(default `qwen3.8:27b`). For the launchd agent, set them when installing it, for example
+`MUSIC_MAX_ATTEMPTS=5 MUSIC_MACHINE="…" scripts/install-generator.sh --from-end`. The judge takes 1–5 minutes
+per song on an M5 Max, more when the Mac is busy; it works while the next song generates. Ollama unloads the
+model after each song, so YuE gets the memory back. The judge runs in Ollama's own process, so `taskpolicy -b`
+does not reach it.
 
 ### Single songs or your own batch
 

@@ -67,6 +67,8 @@ It is FINE, and not a problem to report, when:
   or gets punctuation and capital letters wrong;
 - Whisper wrote a word that sounds almost the same as the requested one (this/theirs, Lot/God, eagle's/eagles),
   most of all when it is marked (?);
+- a word or short phrase the lyrics repeat in a row (shine, shine, shine; holy, holy, holy) is written down
+  fewer times: Whisper often writes such a run only once;
 - "Thank you", "Thanks for watching", "Amen" or a word or two is heard in silence or after the singing ends:
   Whisper invents such words on quiet audio;
 - there are wordless vocals (ooh, ah, la) or instrumental parts.
@@ -113,6 +115,9 @@ export async function judgeReady(): Promise<string | undefined> {
 
 export async function judge(lyrics: string, whisper: Record<string, Heard[]>): Promise<Verdict> {
   const r = await fetch(`${OLLAMA}/api/chat`, {
+    // Bun gives up on a response after 5 minutes; on a busy Mac, or queued behind another Ollama request, the
+    // judge can take longer.
+    timeout: false,
     method: 'POST',
     body: JSON.stringify({
       model: JUDGE_MODEL,

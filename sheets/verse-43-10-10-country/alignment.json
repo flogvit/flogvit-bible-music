@@ -1,0 +1,1362 @@
+{
+ "id": "verse-43-10-10-country",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-10-10-country",
+ "offset_seconds": -2.380000000000205,
+ "words_heard": 168,
+ "words": 169,
+ "lines": [
+  {
+   "text": "My granddad kept a flock of sheep out past the county line",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He knew them every one by name and they all knew his sign",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He'd sleep across the gateway when the coyotes came around",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And not a lamb was taken while he lay upon the ground",
+   "heard": 11,
+   "words": 12,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I came that they may have life",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And have it in abundance",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am the good shepherd",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The good shepherd lays down his life for the sheep",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am the gate",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whoever enters through me will be saved",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will come in and go out and find pasture",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The thief comes only to steal and kill and destroy",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I came that they may have life",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And have it in abundance",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am the good shepherd",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The good shepherd lays down his life for the sheep",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I've wandered from the gateway and I've heard the stranger call",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But I know my shepherd's voice now and I know he gave it all",
+   "heard": 14,
+   "words": 14,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I came that they may have life",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And have it in abundance",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "My",
+   "time": 14.12,
+   "weight": 0.47,
+   "note_time": 13.82
+  },
+  {
+   "text": "grand",
+   "time": 14.88,
+   "weight": 0.56,
+   "note_time": 14.21
+  },
+  {
+   "text": "dad",
+   "time": 15.23,
+   "weight": 0.56,
+   "note_time": 14.61
+  },
+  {
+   "text": "kept",
+   "time": 15.64,
+   "weight": 0.99,
+   "note_time": 15.0
+  },
+  {
+   "text": "a",
+   "time": 16.02,
+   "weight": 0.99,
+   "note_time": 15.39
+  },
+  {
+   "text": "flock",
+   "time": 16.4,
+   "weight": 1.0,
+   "note_time": 15.59
+  },
+  {
+   "text": "of",
+   "time": 16.7,
+   "weight": 0.98,
+   "note_time": 15.99
+  },
+  {
+   "text": "sheep",
+   "time": 16.98,
+   "weight": 1.0,
+   "note_time": 16.18
+  },
+  {
+   "text": "out",
+   "time": 17.3,
+   "weight": 0.47,
+   "note_time": 17.57
+  },
+  {
+   "text": "past",
+   "time": 18.6,
+   "weight": 0.99,
+   "note_time": 17.76
+  },
+  {
+   "text": "the",
+   "time": 18.78,
+   "weight": 1.0,
+   "note_time": 17.96
+  },
+  {
+   "text": "coun",
+   "time": 18.98,
+   "weight": 0.97,
+   "note_time": 18.16
+  },
+  {
+   "text": "ty",
+   "time": 19.13,
+   "weight": 0.97,
+   "note_time": 18.36
+  },
+  {
+   "text": "line",
+   "time": 19.28,
+   "weight": 0.99,
+   "note_time": 18.55
+  },
+  {
+   "text": "He",
+   "time": 19.66,
+   "weight": 0.31,
+   "note_time": 20.72
+  },
+  {
+   "text": "knew",
+   "time": 21.62,
+   "weight": 1.0,
+   "note_time": 20.92
+  },
+  {
+   "text": "them",
+   "time": 21.94,
+   "weight": 1.0,
+   "note_time": 21.12
+  },
+  {
+   "text": "ev",
+   "time": 22.14,
+   "weight": 0.89,
+   "note_time": 21.32
+  },
+  {
+   "text": "ery",
+   "time": 22.39,
+   "weight": 0.89,
+   "note_time": 21.71
+  },
+  {
+   "text": "one",
+   "time": 22.64,
+   "weight": 1.0,
+   "note_time": 21.91
+  },
+  {
+   "text": "by",
+   "time": 22.94,
+   "weight": 1.0,
+   "note_time": 22.3
+  },
+  {
+   "text": "name",
+   "time": 23.34,
+   "weight": 1.0,
+   "note_time": 22.7
+  },
+  {
+   "text": "and",
+   "time": 23.82,
+   "weight": 0.56,
+   "note_time": 23.29
+  },
+  {
+   "text": "they",
+   "time": 24.32,
+   "weight": 1.0,
+   "note_time": 23.49
+  },
+  {
+   "text": "all",
+   "time": 24.6,
+   "weight": 1.0,
+   "note_time": 23.88
+  },
+  {
+   "text": "knew",
+   "time": 25.08,
+   "weight": 1.0,
+   "note_time": 24.47
+  },
+  {
+   "text": "his",
+   "time": 25.46,
+   "weight": 0.94,
+   "note_time": 24.67
+  },
+  {
+   "text": "sign",
+   "time": 25.74,
+   "weight": 0.91,
+   "note_time": 24.87
+  },
+  {
+   "text": "He'd",
+   "time": 26.1,
+   "weight": 0.39,
+   "note_time": 27.04
+  },
+  {
+   "text": "sleep",
+   "time": 28.04,
+   "weight": 0.99,
+   "note_time": 27.43
+  },
+  {
+   "text": "ac",
+   "time": 28.3,
+   "weight": 1.0,
+   "note_time": 27.63
+  },
+  {
+   "text": "ross",
+   "time": 28.43,
+   "weight": 1.0,
+   "note_time": 28.03
+  },
+  {
+   "text": "the",
+   "time": 28.56,
+   "weight": 1.0,
+   "note_time": 28.22
+  },
+  {
+   "text": "gate",
+   "time": 29.02,
+   "weight": 0.96,
+   "note_time": 28.62
+  },
+  {
+   "text": "way",
+   "time": 29.25,
+   "weight": 0.96,
+   "note_time": 28.82
+  },
+  {
+   "text": "when",
+   "time": 29.48,
+   "weight": 0.98,
+   "note_time": 29.61
+  },
+  {
+   "text": "the",
+   "time": 30.6,
+   "weight": 1.0,
+   "note_time": 29.8
+  },
+  {
+   "text": "coy",
+   "time": 30.78,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "otes",
+   "time": 31.13,
+   "weight": 1.0,
+   "note_time": 30.2
+  },
+  {
+   "text": "came",
+   "time": 31.54,
+   "weight": 1.0,
+   "note_time": 30.79
+  },
+  {
+   "text": "a",
+   "time": 31.88,
+   "weight": 0.88,
+   "note_time": 31.18
+  },
+  {
+   "text": "round",
+   "time": 32.12,
+   "weight": 0.88,
+   "note_time": 31.38
+  },
+  {
+   "text": "And",
+   "time": 33.46,
+   "weight": 0.17,
+   "note_time": 33.36
+  },
+  {
+   "text": "not",
+   "time": 34.3,
+   "weight": 0.99,
+   "note_time": 33.55
+  },
+  {
+   "text": "a",
+   "time": 34.62,
+   "weight": 1.0,
+   "note_time": 33.75
+  },
+  {
+   "text": "lamb",
+   "time": 34.68,
+   "weight": 0.98,
+   "note_time": 33.95
+  },
+  {
+   "text": "was",
+   "time": 35.01,
+   "weight": 0.0,
+   "note_time": 34.34
+  },
+  {
+   "text": "tak",
+   "time": 35.34,
+   "weight": 1.0,
+   "note_time": 34.54
+  },
+  {
+   "text": "en",
+   "time": 35.54,
+   "weight": 1.0,
+   "note_time": 34.93
+  },
+  {
+   "text": "while",
+   "time": 35.74,
+   "weight": 0.74,
+   "note_time": 35.92
+  },
+  {
+   "text": "he",
+   "time": 36.98,
+   "weight": 0.69,
+   "note_time": 36.12
+  },
+  {
+   "text": "lay",
+   "time": 37.12,
+   "weight": 1.0,
+   "note_time": 36.32
+  },
+  {
+   "text": "up",
+   "time": 37.4,
+   "weight": 1.0,
+   "note_time": 36.71
+  },
+  {
+   "text": "on",
+   "time": 37.64,
+   "weight": 1.0,
+   "note_time": 36.91
+  },
+  {
+   "text": "the",
+   "time": 37.88,
+   "weight": 1.0,
+   "note_time": 37.3
+  },
+  {
+   "text": "ground",
+   "time": 38.32,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "I",
+   "time": 39.86,
+   "weight": 0.49,
+   "note_time": 40.07
+  },
+  {
+   "text": "came",
+   "time": 40.7,
+   "weight": 0.89,
+   "note_time": 40.46
+  },
+  {
+   "text": "that",
+   "time": 41.36,
+   "weight": 0.97,
+   "note_time": 40.66
+  },
+  {
+   "text": "they",
+   "time": 41.5,
+   "weight": 1.0,
+   "note_time": 41.05
+  },
+  {
+   "text": "may",
+   "time": 41.72,
+   "weight": 0.99,
+   "note_time": 41.45
+  },
+  {
+   "text": "have",
+   "time": 42.0,
+   "weight": 1.0,
+   "note_time": 41.64
+  },
+  {
+   "text": "life",
+   "time": 42.8,
+   "weight": 1.0,
+   "note_time": 42.24
+  },
+  {
+   "text": "And",
+   "time": 43.52,
+   "weight": 0.45,
+   "note_time": 44.01
+  },
+  {
+   "text": "have",
+   "time": 44.68,
+   "weight": 1.0,
+   "note_time": 44.61
+  },
+  {
+   "text": "it",
+   "time": 45.4,
+   "weight": 1.0,
+   "note_time": 44.8
+  },
+  {
+   "text": "in",
+   "time": 45.7,
+   "weight": 1.0,
+   "note_time": 45.39
+  },
+  {
+   "text": "a",
+   "time": 45.9,
+   "weight": 1.0,
+   "note_time": 45.59
+  },
+  {
+   "text": "bun",
+   "time": 46.17,
+   "weight": 1.0,
+   "note_time": 45.79
+  },
+  {
+   "text": "dance",
+   "time": 46.45,
+   "weight": 1.0,
+   "note_time": 45.99
+  },
+  {
+   "text": "I",
+   "time": 50.64,
+   "weight": 0.95,
+   "note_time": 50.53
+  },
+  {
+   "text": "am",
+   "time": 51.48,
+   "weight": 0.98,
+   "note_time": 50.92
+  },
+  {
+   "text": "the",
+   "time": 51.98,
+   "weight": 0.99,
+   "note_time": 51.12
+  },
+  {
+   "text": "good",
+   "time": 52.12,
+   "weight": 0.74,
+   "note_time": 51.51
+  },
+  {
+   "text": "shep",
+   "time": 52.62,
+   "weight": 0.98,
+   "note_time": 52.11
+  },
+  {
+   "text": "herd",
+   "time": 52.97,
+   "weight": 0.98,
+   "note_time": 52.3
+  },
+  {
+   "text": "The",
+   "time": 53.32,
+   "weight": 0.39,
+   "note_time": 54.47
+  },
+  {
+   "text": "good",
+   "time": 54.98,
+   "weight": 1.0,
+   "note_time": 55.26
+  },
+  {
+   "text": "shep",
+   "time": 55.72,
+   "weight": 1.0,
+   "note_time": 55.46
+  },
+  {
+   "text": "herd",
+   "time": 56.07,
+   "weight": 1.0,
+   "note_time": 56.05
+  },
+  {
+   "text": "lays",
+   "time": 56.48,
+   "weight": 0.99,
+   "note_time": 56.45
+  },
+  {
+   "text": "down",
+   "time": 57.1,
+   "weight": 1.0,
+   "note_time": 56.84
+  },
+  {
+   "text": "his",
+   "time": 57.52,
+   "weight": 0.96,
+   "note_time": 57.04
+  },
+  {
+   "text": "life",
+   "time": 57.9,
+   "weight": 1.0,
+   "note_time": 57.63
+  },
+  {
+   "text": "for",
+   "time": 58.26,
+   "weight": 1.0,
+   "note_time": 57.83
+  },
+  {
+   "text": "the",
+   "time": 58.68,
+   "weight": 0.99,
+   "note_time": 58.03
+  },
+  {
+   "text": "sheep",
+   "time": 59.04,
+   "weight": 1.0,
+   "note_time": 58.22
+  },
+  {
+   "text": "I",
+   "time": 65.2,
+   "weight": 0.4,
+   "note_time": 65.13
+  },
+  {
+   "text": "am",
+   "time": 66.1,
+   "weight": 0.97,
+   "note_time": 65.53
+  },
+  {
+   "text": "the",
+   "time": 66.66,
+   "weight": 0.95,
+   "note_time": 65.92
+  },
+  {
+   "text": "gate",
+   "time": 66.9,
+   "weight": 0.97,
+   "note_time": 66.12
+  },
+  {
+   "text": "Who",
+   "time": 67.46,
+   "weight": 0.97,
+   "note_time": 67.3
+  },
+  {
+   "text": "ev",
+   "time": 67.77,
+   "weight": 0.97,
+   "note_time": 67.5
+  },
+  {
+   "text": "er",
+   "time": 68.09,
+   "weight": 0.97,
+   "note_time": 67.7
+  },
+  {
+   "text": "en",
+   "time": 68.4,
+   "weight": 1.0,
+   "note_time": 67.89
+  },
+  {
+   "text": "ters",
+   "time": 68.75,
+   "weight": 1.0,
+   "note_time": 68.09
+  },
+  {
+   "text": "through",
+   "time": 69.12,
+   "weight": 0.99,
+   "note_time": 68.49
+  },
+  {
+   "text": "me",
+   "time": 69.54,
+   "weight": 0.97,
+   "note_time": 68.88
+  },
+  {
+   "text": "will",
+   "time": 69.94,
+   "weight": 0.98,
+   "note_time": 69.47
+  },
+  {
+   "text": "be",
+   "time": 70.46,
+   "weight": 1.0,
+   "note_time": 69.67
+  },
+  {
+   "text": "saved",
+   "time": 70.68,
+   "weight": 0.47,
+   "note_time": 70.07
+  },
+  {
+   "text": "He",
+   "time": 71.24,
+   "weight": 0.65,
+   "note_time": 71.25
+  },
+  {
+   "text": "will",
+   "time": 72.22,
+   "weight": 0.99,
+   "note_time": 71.45
+  },
+  {
+   "text": "come",
+   "time": 72.46,
+   "weight": 1.0,
+   "note_time": 71.64
+  },
+  {
+   "text": "in",
+   "time": 72.74,
+   "weight": 1.0,
+   "note_time": 72.04
+  },
+  {
+   "text": "and",
+   "time": 73.26,
+   "weight": 0.99,
+   "note_time": 72.63
+  },
+  {
+   "text": "go",
+   "time": 73.62,
+   "weight": 1.0,
+   "note_time": 72.83
+  },
+  {
+   "text": "out",
+   "time": 73.9,
+   "weight": 1.0,
+   "note_time": 73.22
+  },
+  {
+   "text": "and",
+   "time": 74.48,
+   "weight": 0.81,
+   "note_time": 75.0
+  },
+  {
+   "text": "find",
+   "time": 75.94,
+   "weight": 1.0,
+   "note_time": 75.2
+  },
+  {
+   "text": "pas",
+   "time": 76.38,
+   "weight": 0.92,
+   "note_time": 75.59
+  },
+  {
+   "text": "ture",
+   "time": 76.73,
+   "weight": 0.92,
+   "note_time": 76.18
+  },
+  {
+   "text": "The",
+   "time": 77.1,
+   "weight": 0.98,
+   "note_time": 77.96
+  },
+  {
+   "text": "thief",
+   "time": 78.56,
+   "weight": 0.99,
+   "note_time": 78.16
+  },
+  {
+   "text": "comes",
+   "time": 79.28,
+   "weight": 1.0,
+   "note_time": 78.55
+  },
+  {
+   "text": "on",
+   "time": 79.66,
+   "weight": 1.0,
+   "note_time": 78.95
+  },
+  {
+   "text": "ly",
+   "time": 80.01,
+   "weight": 1.0,
+   "note_time": 79.54
+  },
+  {
+   "text": "to",
+   "time": 80.48,
+   "weight": 1.0,
+   "note_time": 80.13
+  },
+  {
+   "text": "steal",
+   "time": 81.1,
+   "weight": 1.0,
+   "note_time": 80.33
+  },
+  {
+   "text": "and",
+   "time": 81.46,
+   "weight": 0.98,
+   "note_time": 80.92
+  },
+  {
+   "text": "kill",
+   "time": 81.92,
+   "weight": 1.0,
+   "note_time": 81.12
+  },
+  {
+   "text": "and",
+   "time": 82.22,
+   "weight": 1.0,
+   "note_time": 81.51
+  },
+  {
+   "text": "de",
+   "time": 82.56,
+   "weight": 1.0,
+   "note_time": 81.71
+  },
+  {
+   "text": "stroy",
+   "time": 82.75,
+   "weight": 1.0,
+   "note_time": 81.91
+  },
+  {
+   "text": "I",
+   "time": 90.6,
+   "weight": 0.46,
+   "note_time": 90.59
+  },
+  {
+   "text": "came",
+   "time": 91.44,
+   "weight": 0.78,
+   "note_time": 90.99
+  },
+  {
+   "text": "that",
+   "time": 91.86,
+   "weight": 0.98,
+   "note_time": 91.18
+  },
+  {
+   "text": "they",
+   "time": 92.0,
+   "weight": 0.99,
+   "note_time": 91.58
+  },
+  {
+   "text": "may",
+   "time": 92.26,
+   "weight": 0.99,
+   "note_time": 91.97
+  },
+  {
+   "text": "have",
+   "time": 92.64,
+   "weight": 1.0,
+   "note_time": 92.17
+  },
+  {
+   "text": "life",
+   "time": 93.38,
+   "weight": 0.99,
+   "note_time": 92.76
+  },
+  {
+   "text": "And",
+   "time": 94.36,
+   "weight": 0.79,
+   "note_time": 94.54
+  },
+  {
+   "text": "have",
+   "time": 95.46,
+   "weight": 1.0,
+   "note_time": 95.13
+  },
+  {
+   "text": "it",
+   "time": 95.9,
+   "weight": 1.0,
+   "note_time": 95.33
+  },
+  {
+   "text": "in",
+   "time": 96.2,
+   "weight": 1.0,
+   "note_time": 95.72
+  },
+  {
+   "text": "a",
+   "time": 96.42,
+   "weight": 1.0,
+   "note_time": 95.92
+  },
+  {
+   "text": "bun",
+   "time": 96.73,
+   "weight": 1.0,
+   "note_time": 96.12
+  },
+  {
+   "text": "dance",
+   "time": 97.03,
+   "weight": 1.0,
+   "note_time": 96.51
+  },
+  {
+   "text": "I",
+   "time": 101.22,
+   "weight": 0.63,
+   "note_time": 101.05
+  },
+  {
+   "text": "am",
+   "time": 102.06,
+   "weight": 0.97,
+   "note_time": 101.45
+  },
+  {
+   "text": "the",
+   "time": 102.52,
+   "weight": 0.99,
+   "note_time": 101.64
+  },
+  {
+   "text": "good",
+   "time": 102.66,
+   "weight": 0.55,
+   "note_time": 102.04
+  },
+  {
+   "text": "shep",
+   "time": 103.14,
+   "weight": 0.83,
+   "note_time": 102.63
+  },
+  {
+   "text": "herd",
+   "time": 103.49,
+   "weight": 0.83,
+   "note_time": 102.83
+  },
+  {
+   "text": "The",
+   "time": 104.18,
+   "weight": 0.39,
+   "note_time": 105.0
+  },
+  {
+   "text": "good",
+   "time": 105.96,
+   "weight": 0.99,
+   "note_time": 105.79
+  },
+  {
+   "text": "shep",
+   "time": 106.14,
+   "weight": 0.99,
+   "note_time": 105.99
+  },
+  {
+   "text": "herd",
+   "time": 106.49,
+   "weight": 0.99,
+   "note_time": 106.58
+  },
+  {
+   "text": "lays",
+   "time": 107.02,
+   "weight": 0.58,
+   "note_time": 106.97
+  },
+  {
+   "text": "down",
+   "time": 107.6,
+   "weight": 1.0,
+   "note_time": 107.37
+  },
+  {
+   "text": "his",
+   "time": 108.0,
+   "weight": 0.9,
+   "note_time": 107.57
+  },
+  {
+   "text": "life",
+   "time": 108.38,
+   "weight": 1.0,
+   "note_time": 108.16
+  },
+  {
+   "text": "for",
+   "time": 108.76,
+   "weight": 1.0,
+   "note_time": 108.36
+  },
+  {
+   "text": "the",
+   "time": 109.24,
+   "weight": 0.98,
+   "note_time": 108.55
+  },
+  {
+   "text": "sheep",
+   "time": 109.52,
+   "weight": 1.0,
+   "note_time": 108.75
+  },
+  {
+   "text": "I've",
+   "time": 115.34,
+   "weight": 0.87,
+   "note_time": 114.87
+  },
+  {
+   "text": "wan",
+   "time": 116.06,
+   "weight": 1.0,
+   "note_time": 115.66
+  },
+  {
+   "text": "dered",
+   "time": 116.36,
+   "weight": 1.0,
+   "note_time": 115.86
+  },
+  {
+   "text": "from",
+   "time": 116.66,
+   "weight": 1.0,
+   "note_time": 116.45
+  },
+  {
+   "text": "the",
+   "time": 116.92,
+   "weight": 1.0,
+   "note_time": 116.64
+  },
+  {
+   "text": "gate",
+   "time": 117.42,
+   "weight": 0.98,
+   "note_time": 117.04
+  },
+  {
+   "text": "way",
+   "time": 117.66,
+   "weight": 0.98,
+   "note_time": 117.63
+  },
+  {
+   "text": "and",
+   "time": 117.9,
+   "weight": 0.64,
+   "note_time": 117.83
+  },
+  {
+   "text": "I've",
+   "time": 118.68,
+   "weight": 1.0,
+   "note_time": 118.42
+  },
+  {
+   "text": "heard",
+   "time": 119.2,
+   "weight": 1.0,
+   "note_time": 118.82
+  },
+  {
+   "text": "the",
+   "time": 119.54,
+   "weight": 0.98,
+   "note_time": 119.01
+  },
+  {
+   "text": "s",
+   "time": 119.8,
+   "weight": 1.0,
+   "note_time": 119.41
+  },
+  {
+   "text": "tranger",
+   "time": 119.95,
+   "weight": 1.0,
+   "note_time": 119.61
+  },
+  {
+   "text": "call",
+   "time": 120.1,
+   "weight": 1.0,
+   "note_time": 119.8
+  },
+  {
+   "text": "But",
+   "time": 121.48,
+   "weight": 0.88,
+   "note_time": 121.18
+  },
+  {
+   "text": "I",
+   "time": 122.2,
+   "weight": 1.0,
+   "note_time": 121.78
+  },
+  {
+   "text": "know",
+   "time": 122.38,
+   "weight": 1.0,
+   "note_time": 122.37
+  },
+  {
+   "text": "my",
+   "time": 122.58,
+   "weight": 0.99,
+   "note_time": 122.57
+  },
+  {
+   "text": "shep",
+   "time": 122.84,
+   "weight": 0.98,
+   "note_time": 122.96
+  },
+  {
+   "text": "herd's",
+   "time": 123.19,
+   "weight": 0.98,
+   "note_time": 123.55
+  },
+  {
+   "text": "voice",
+   "time": 123.8,
+   "weight": 1.0,
+   "note_time": 123.95
+  },
+  {
+   "text": "now",
+   "time": 124.04,
+   "weight": 1.0,
+   "note_time": 124.14
+  },
+  {
+   "text": "and",
+   "time": 124.6,
+   "weight": 0.99,
+   "note_time": 124.74
+  },
+  {
+   "text": "I",
+   "time": 124.96,
+   "weight": 1.0,
+   "note_time": 125.13
+  },
+  {
+   "text": "know",
+   "time": 125.18,
+   "weight": 1.0,
+   "note_time": 125.33
+  },
+  {
+   "text": "he",
+   "time": 125.76,
+   "weight": 0.81,
+   "note_time": 125.72
+  },
+  {
+   "text": "gave",
+   "time": 126.12,
+   "weight": 1.0,
+   "note_time": 125.92
+  },
+  {
+   "text": "it",
+   "time": 126.34,
+   "weight": 1.0,
+   "note_time": 126.12
+  },
+  {
+   "text": "all",
+   "time": 126.82,
+   "weight": 1.0,
+   "note_time": 127.3
+  },
+  {
+   "text": "I",
+   "time": 131.86,
+   "weight": 0.99,
+   "note_time": 131.84
+  },
+  {
+   "text": "came",
+   "time": 132.58,
+   "weight": 0.99,
+   "note_time": 132.04
+  },
+  {
+   "text": "that",
+   "time": 132.9,
+   "weight": 1.0,
+   "note_time": 132.24
+  },
+  {
+   "text": "they",
+   "time": 133.04,
+   "weight": 1.0,
+   "note_time": 132.63
+  },
+  {
+   "text": "may",
+   "time": 133.3,
+   "weight": 1.0,
+   "note_time": 133.03
+  },
+  {
+   "text": "have",
+   "time": 133.64,
+   "weight": 1.0,
+   "note_time": 133.22
+  },
+  {
+   "text": "life",
+   "time": 134.34,
+   "weight": 1.0,
+   "note_time": 133.82
+  },
+  {
+   "text": "And",
+   "time": 135.1,
+   "weight": 0.94,
+   "note_time": 135.59
+  },
+  {
+   "text": "have",
+   "time": 136.0,
+   "weight": 1.0,
+   "note_time": 135.79
+  },
+  {
+   "text": "it",
+   "time": 136.9,
+   "weight": 1.0,
+   "note_time": 136.18
+  },
+  {
+   "text": "in",
+   "time": 137.26,
+   "weight": 1.0,
+   "note_time": 136.38
+  },
+  {
+   "text": "a",
+   "time": 137.48,
+   "weight": 1.0,
+   "note_time": 136.78
+  },
+  {
+   "text": "bun",
+   "time": 137.75,
+   "weight": 1.0,
+   "note_time": 136.97
+  },
+  {
+   "text": "dance",
+   "time": 138.01,
+   "weight": 1.0,
+   "note_time": 137.17
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 20 lyric lines sit on their notes."
+}

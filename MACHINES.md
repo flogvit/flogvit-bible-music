@@ -62,7 +62,7 @@ are on the branch `worktree-m5-claims` until that is merged. To copy a finished 
 
 | song | status |
 |---|---|
-| story-jesus-er-livets-brod-worship | taken |
+| story-jesus-er-livets-brod-worship | done 2026-10-29 08:51, 2:58, sheets in sheets/, library/story-jesus-er-livets-brod-worship on M5 |
 | story-sennepsfroet-children | taken |
 | story-nehemjas-mur-rock | taken |
 | story-synderinnen-salver-jesu-fotter-ballad | taken |

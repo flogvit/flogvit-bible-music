@@ -1,0 +1,1414 @@
+{
+ "id": "story-helbredelsen-av-den-blindfodte-gospel",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-helbredelsen-av-den-blindfodte-gospel",
+ "offset_seconds": -2.520000000000202,
+ "words_heard": 171,
+ "words": 181,
+ "lines": [
+  {
+   "text": "Born in the dark, I sat by the road",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Begging for coins with a heavy load",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He spat on the ground and he made some clay",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He put it on my eyes and he said, go wash it away",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I went to the pool and I washed my face",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And light came pouring into that place",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The neighbors asked, isn't this the beggar man",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The leaders asked me who and how, they did not understand",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whether he is a sinner I do not know",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "One thing I do know",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I was blind, and now I see",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I was blind, and now I see",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They questioned my mother, they questioned me twice",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They wanted an answer to fit their device",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But all I can tell you is what he has done",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He opened my eyes and I'm seeing the sun",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whether he is a sinner I do not know",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "One thing I do know",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I was blind, and now I see",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I was blind, and now I see",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am the light of the world",
+   "heard": 0,
+   "words": 7,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I was blind, and now I see",
+   "heard": 4,
+   "words": 7,
+   "error_s": 16.02,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Born",
+   "time": 19.64,
+   "weight": 0.16,
+   "note_time": 20.0
+  },
+  {
+   "text": "in",
+   "time": 20.52,
+   "weight": 0.97,
+   "note_time": 20.28
+  },
+  {
+   "text": "the",
+   "time": 21.4,
+   "weight": 1.0,
+   "note_time": 20.56
+  },
+  {
+   "text": "dark,",
+   "time": 21.6,
+   "weight": 0.98,
+   "note_time": 20.83
+  },
+  {
+   "text": "I",
+   "time": 22.36,
+   "weight": 0.99,
+   "note_time": 21.94
+  },
+  {
+   "text": "sat",
+   "time": 22.96,
+   "weight": 1.0,
+   "note_time": 22.22
+  },
+  {
+   "text": "by",
+   "time": 23.3,
+   "weight": 1.0,
+   "note_time": 22.5
+  },
+  {
+   "text": "the",
+   "time": 23.64,
+   "weight": 1.0,
+   "note_time": 22.78
+  },
+  {
+   "text": "road",
+   "time": 23.82,
+   "weight": 0.83,
+   "note_time": 23.06
+  },
+  {
+   "text": "Beg",
+   "time": 24.26,
+   "weight": 0.37,
+   "note_time": 24.44
+  },
+  {
+   "text": "ging",
+   "time": 24.61,
+   "weight": 0.37,
+   "note_time": 24.72
+  },
+  {
+   "text": "for",
+   "time": 25.76,
+   "weight": 1.0,
+   "note_time": 25.28
+  },
+  {
+   "text": "coins",
+   "time": 26.0,
+   "weight": 1.0,
+   "note_time": 25.83
+  },
+  {
+   "text": "with",
+   "time": 26.76,
+   "weight": 0.99,
+   "note_time": 26.11
+  },
+  {
+   "text": "a",
+   "time": 27.22,
+   "weight": 0.99,
+   "note_time": 26.39
+  },
+  {
+   "text": "hea",
+   "time": 27.48,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "vy",
+   "time": 27.69,
+   "weight": 1.0,
+   "note_time": 26.94
+  },
+  {
+   "text": "load",
+   "time": 27.9,
+   "weight": 1.0,
+   "note_time": 27.5
+  },
+  {
+   "text": "He",
+   "time": 28.62,
+   "weight": 0.55,
+   "note_time": 28.61
+  },
+  {
+   "text": "spat",
+   "time": 29.58,
+   "weight": 0.99,
+   "note_time": 29.44
+  },
+  {
+   "text": "on",
+   "time": 29.92,
+   "weight": 1.0,
+   "note_time": 29.72
+  },
+  {
+   "text": "the",
+   "time": 30.28,
+   "weight": 1.0,
+   "note_time": 30.28
+  },
+  {
+   "text": "ground",
+   "time": 30.54,
+   "weight": 1.0,
+   "note_time": 30.56
+  },
+  {
+   "text": "and",
+   "time": 31.02,
+   "weight": 0.93,
+   "note_time": 30.83
+  },
+  {
+   "text": "he",
+   "time": 31.68,
+   "weight": 0.72,
+   "note_time": 31.11
+  },
+  {
+   "text": "made",
+   "time": 31.94,
+   "weight": 1.0,
+   "note_time": 31.53
+  },
+  {
+   "text": "some",
+   "time": 32.26,
+   "weight": 1.0,
+   "note_time": 31.94
+  },
+  {
+   "text": "clay",
+   "time": 32.56,
+   "weight": 0.93,
+   "note_time": 32.64
+  },
+  {
+   "text": "He",
+   "time": 33.06,
+   "weight": 0.81,
+   "note_time": 32.92
+  },
+  {
+   "text": "put",
+   "time": 33.52,
+   "weight": 1.0,
+   "note_time": 33.06
+  },
+  {
+   "text": "it",
+   "time": 33.88,
+   "weight": 1.0,
+   "note_time": 33.61
+  },
+  {
+   "text": "on",
+   "time": 34.0,
+   "weight": 1.0,
+   "note_time": 34.17
+  },
+  {
+   "text": "my",
+   "time": 34.2,
+   "weight": 1.0,
+   "note_time": 34.31
+  },
+  {
+   "text": "eyes",
+   "time": 34.7,
+   "weight": 0.99,
+   "note_time": 34.44
+  },
+  {
+   "text": "and",
+   "time": 35.44,
+   "weight": 0.97,
+   "note_time": 34.72
+  },
+  {
+   "text": "he",
+   "time": 35.78,
+   "weight": 0.98,
+   "note_time": 34.86
+  },
+  {
+   "text": "said,",
+   "time": 35.9,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "go",
+   "time": 36.16,
+   "weight": 0.68,
+   "note_time": 35.28
+  },
+  {
+   "text": "wash",
+   "time": 36.3,
+   "weight": 1.0,
+   "note_time": 35.56
+  },
+  {
+   "text": "it",
+   "time": 36.72,
+   "weight": 1.0,
+   "note_time": 35.83
+  },
+  {
+   "text": "a",
+   "time": 36.98,
+   "weight": 1.0,
+   "note_time": 36.11
+  },
+  {
+   "text": "way",
+   "time": 37.21,
+   "weight": 1.0,
+   "note_time": 36.39
+  },
+  {
+   "text": "I",
+   "time": 46.2,
+   "weight": 0.72,
+   "note_time": 46.39
+  },
+  {
+   "text": "went",
+   "time": 46.96,
+   "weight": 1.0,
+   "note_time": 46.94
+  },
+  {
+   "text": "to",
+   "time": 47.72,
+   "weight": 1.0,
+   "note_time": 47.22
+  },
+  {
+   "text": "the",
+   "time": 48.02,
+   "weight": 1.0,
+   "note_time": 47.5
+  },
+  {
+   "text": "pool",
+   "time": 48.26,
+   "weight": 1.0,
+   "note_time": 48.06
+  },
+  {
+   "text": "and",
+   "time": 48.72,
+   "weight": 0.99,
+   "note_time": 48.33
+  },
+  {
+   "text": "I",
+   "time": 49.14,
+   "weight": 1.0,
+   "note_time": 48.61
+  },
+  {
+   "text": "washed",
+   "time": 49.42,
+   "weight": 1.0,
+   "note_time": 48.89
+  },
+  {
+   "text": "my",
+   "time": 50.0,
+   "weight": 1.0,
+   "note_time": 49.31
+  },
+  {
+   "text": "face",
+   "time": 50.36,
+   "weight": 1.0,
+   "note_time": 49.72
+  },
+  {
+   "text": "And",
+   "time": 50.96,
+   "weight": 0.99,
+   "note_time": 50.83
+  },
+  {
+   "text": "light",
+   "time": 51.88,
+   "weight": 0.78,
+   "note_time": 51.53
+  },
+  {
+   "text": "came",
+   "time": 52.22,
+   "weight": 1.0,
+   "note_time": 51.94
+  },
+  {
+   "text": "pour",
+   "time": 52.66,
+   "weight": 0.99,
+   "note_time": 52.5
+  },
+  {
+   "text": "ing",
+   "time": 53.01,
+   "weight": 0.99,
+   "note_time": 53.06
+  },
+  {
+   "text": "in",
+   "time": 53.38,
+   "weight": 1.0,
+   "note_time": 53.33
+  },
+  {
+   "text": "to",
+   "time": 53.73,
+   "weight": 1.0,
+   "note_time": 53.61
+  },
+  {
+   "text": "that",
+   "time": 54.34,
+   "weight": 1.0,
+   "note_time": 53.89
+  },
+  {
+   "text": "place",
+   "time": 54.96,
+   "weight": 1.0,
+   "note_time": 54.17
+  },
+  {
+   "text": "The",
+   "time": 55.34,
+   "weight": 0.52,
+   "note_time": 55.28
+  },
+  {
+   "text": "neigh",
+   "time": 56.3,
+   "weight": 0.93,
+   "note_time": 55.56
+  },
+  {
+   "text": "bors",
+   "time": 56.64,
+   "weight": 0.93,
+   "note_time": 55.97
+  },
+  {
+   "text": "asked,",
+   "time": 56.98,
+   "weight": 0.84,
+   "note_time": 56.39
+  },
+  {
+   "text": "is",
+   "time": 57.86,
+   "weight": 0.68,
+   "note_time": 56.94
+  },
+  {
+   "text": "n't",
+   "time": 58.0,
+   "weight": 0.68,
+   "note_time": 57.08
+  },
+  {
+   "text": "this",
+   "time": 58.14,
+   "weight": 1.0,
+   "note_time": 57.22
+  },
+  {
+   "text": "the",
+   "time": 58.36,
+   "weight": 0.99,
+   "note_time": 57.5
+  },
+  {
+   "text": "beg",
+   "time": 58.56,
+   "weight": 0.98,
+   "note_time": 57.78
+  },
+  {
+   "text": "gar",
+   "time": 58.88,
+   "weight": 0.98,
+   "note_time": 58.19
+  },
+  {
+   "text": "man",
+   "time": 59.2,
+   "weight": 0.97,
+   "note_time": 58.61
+  },
+  {
+   "text": "The",
+   "time": 59.94,
+   "weight": 0.99,
+   "note_time": 59.31
+  },
+  {
+   "text": "lead",
+   "time": 60.3,
+   "weight": 1.0,
+   "note_time": 59.58
+  },
+  {
+   "text": "ers",
+   "time": 60.46,
+   "weight": 1.0,
+   "note_time": 59.72
+  },
+  {
+   "text": "asked",
+   "time": 60.62,
+   "weight": 0.99,
+   "note_time": 60.28
+  },
+  {
+   "text": "me",
+   "time": 61.0,
+   "weight": 1.0,
+   "note_time": 60.56
+  },
+  {
+   "text": "who",
+   "time": 61.34,
+   "weight": 0.97,
+   "note_time": 60.69
+  },
+  {
+   "text": "and",
+   "time": 61.6,
+   "weight": 1.0,
+   "note_time": 60.83
+  },
+  {
+   "text": "how,",
+   "time": 61.8,
+   "weight": 1.0,
+   "note_time": 60.97
+  },
+  {
+   "text": "they",
+   "time": 62.06,
+   "weight": 0.43,
+   "note_time": 61.67
+  },
+  {
+   "text": "did",
+   "time": 62.7,
+   "weight": 1.0,
+   "note_time": 61.94
+  },
+  {
+   "text": "not",
+   "time": 63.04,
+   "weight": 1.0,
+   "note_time": 62.22
+  },
+  {
+   "text": "un",
+   "time": 63.56,
+   "weight": 1.0,
+   "note_time": 62.5
+  },
+  {
+   "text": "der",
+   "time": 63.75,
+   "weight": 1.0,
+   "note_time": 62.78
+  },
+  {
+   "text": "stand",
+   "time": 63.93,
+   "weight": 1.0,
+   "note_time": 63.06
+  },
+  {
+   "text": "Whet",
+   "time": 65.18,
+   "weight": 0.46,
+   "note_time": 65.0
+  },
+  {
+   "text": "her",
+   "time": 65.53,
+   "weight": 0.46,
+   "note_time": 65.28
+  },
+  {
+   "text": "he",
+   "time": 66.16,
+   "weight": 0.85,
+   "note_time": 65.56
+  },
+  {
+   "text": "is",
+   "time": 66.6,
+   "weight": 1.0,
+   "note_time": 66.11
+  },
+  {
+   "text": "a",
+   "time": 67.32,
+   "weight": 0.99,
+   "note_time": 66.39
+  },
+  {
+   "text": "sin",
+   "time": 67.46,
+   "weight": 1.0,
+   "note_time": 66.67
+  },
+  {
+   "text": "ner",
+   "time": 67.73,
+   "weight": 1.0,
+   "note_time": 66.94
+  },
+  {
+   "text": "I",
+   "time": 68.06,
+   "weight": 1.0,
+   "note_time": 67.5
+  },
+  {
+   "text": "do",
+   "time": 68.58,
+   "weight": 1.0,
+   "note_time": 68.06
+  },
+  {
+   "text": "not",
+   "time": 69.06,
+   "weight": 1.0,
+   "note_time": 68.33
+  },
+  {
+   "text": "know",
+   "time": 69.58,
+   "weight": 1.0,
+   "note_time": 68.89
+  },
+  {
+   "text": "One",
+   "time": 70.04,
+   "weight": 0.95,
+   "note_time": 70.28
+  },
+  {
+   "text": "thing",
+   "time": 71.32,
+   "weight": 1.0,
+   "note_time": 70.83
+  },
+  {
+   "text": "I",
+   "time": 72.0,
+   "weight": 0.98,
+   "note_time": 72.22
+  },
+  {
+   "text": "do",
+   "time": 73.34,
+   "weight": 1.0,
+   "note_time": 72.64
+  },
+  {
+   "text": "know",
+   "time": 73.68,
+   "weight": 1.0,
+   "note_time": 73.06
+  },
+  {
+   "text": "I",
+   "time": 74.18,
+   "weight": 0.97,
+   "note_time": 74.44
+  },
+  {
+   "text": "was",
+   "time": 75.54,
+   "weight": 1.0,
+   "note_time": 74.86
+  },
+  {
+   "text": "blind,",
+   "time": 75.96,
+   "weight": 1.0,
+   "note_time": 75.28
+  },
+  {
+   "text": "and",
+   "time": 76.62,
+   "weight": 0.94,
+   "note_time": 76.39
+  },
+  {
+   "text": "now",
+   "time": 77.5,
+   "weight": 1.0,
+   "note_time": 76.67
+  },
+  {
+   "text": "I",
+   "time": 77.78,
+   "weight": 1.0,
+   "note_time": 77.08
+  },
+  {
+   "text": "see",
+   "time": 78.1,
+   "weight": 1.0,
+   "note_time": 77.5
+  },
+  {
+   "text": "I",
+   "time": 78.6,
+   "weight": 0.99,
+   "note_time": 78.89
+  },
+  {
+   "text": "was",
+   "time": 79.82,
+   "weight": 1.0,
+   "note_time": 79.31
+  },
+  {
+   "text": "blind,",
+   "time": 80.4,
+   "weight": 1.0,
+   "note_time": 79.72
+  },
+  {
+   "text": "and",
+   "time": 81.12,
+   "weight": 1.0,
+   "note_time": 80.83
+  },
+  {
+   "text": "now",
+   "time": 81.96,
+   "weight": 1.0,
+   "note_time": 81.11
+  },
+  {
+   "text": "I",
+   "time": 82.22,
+   "weight": 1.0,
+   "note_time": 81.53
+  },
+  {
+   "text": "see",
+   "time": 82.58,
+   "weight": 1.0,
+   "note_time": 81.94
+  },
+  {
+   "text": "They",
+   "time": 90.74,
+   "weight": 0.61,
+   "note_time": 90.83
+  },
+  {
+   "text": "ques",
+   "time": 91.58,
+   "weight": 0.8,
+   "note_time": 91.11
+  },
+  {
+   "text": "tioned",
+   "time": 91.93,
+   "weight": 0.8,
+   "note_time": 91.39
+  },
+  {
+   "text": "my",
+   "time": 92.42,
+   "weight": 0.98,
+   "note_time": 91.67
+  },
+  {
+   "text": "moth",
+   "time": 92.76,
+   "weight": 0.99,
+   "note_time": 91.94
+  },
+  {
+   "text": "er,",
+   "time": 92.95,
+   "weight": 0.99,
+   "note_time": 92.22
+  },
+  {
+   "text": "they",
+   "time": 93.38,
+   "weight": 0.97,
+   "note_time": 93.06
+  },
+  {
+   "text": "ques",
+   "time": 94.08,
+   "weight": 0.99,
+   "note_time": 93.33
+  },
+  {
+   "text": "tioned",
+   "time": 94.35,
+   "weight": 0.99,
+   "note_time": 93.61
+  },
+  {
+   "text": "me",
+   "time": 94.62,
+   "weight": 0.98,
+   "note_time": 93.89
+  },
+  {
+   "text": "twice",
+   "time": 94.96,
+   "weight": 1.0,
+   "note_time": 94.17
+  },
+  {
+   "text": "They",
+   "time": 95.28,
+   "weight": 0.68,
+   "note_time": 95.28
+  },
+  {
+   "text": "want",
+   "time": 96.14,
+   "weight": 1.0,
+   "note_time": 95.56
+  },
+  {
+   "text": "ed",
+   "time": 96.49,
+   "weight": 1.0,
+   "note_time": 95.83
+  },
+  {
+   "text": "an",
+   "time": 96.88,
+   "weight": 1.0,
+   "note_time": 96.11
+  },
+  {
+   "text": "an",
+   "time": 97.28,
+   "weight": 1.0,
+   "note_time": 96.39
+  },
+  {
+   "text": "swer",
+   "time": 97.6,
+   "weight": 1.0,
+   "note_time": 96.94
+  },
+  {
+   "text": "to",
+   "time": 97.92,
+   "weight": 1.0,
+   "note_time": 97.22
+  },
+  {
+   "text": "fit",
+   "time": 98.24,
+   "weight": 0.99,
+   "note_time": 97.5
+  },
+  {
+   "text": "their",
+   "time": 98.54,
+   "weight": 1.0,
+   "note_time": 98.06
+  },
+  {
+   "text": "de",
+   "time": 99.2,
+   "weight": 0.99,
+   "note_time": 98.47
+  },
+  {
+   "text": "vice",
+   "time": 99.45,
+   "weight": 0.99,
+   "note_time": 98.61
+  },
+  {
+   "text": "But",
+   "time": 99.7,
+   "weight": 0.98,
+   "note_time": 99.72
+  },
+  {
+   "text": "all",
+   "time": 100.78,
+   "weight": 1.0,
+   "note_time": 100.42
+  },
+  {
+   "text": "I",
+   "time": 101.08,
+   "weight": 1.0,
+   "note_time": 100.83
+  },
+  {
+   "text": "can",
+   "time": 101.46,
+   "weight": 1.0,
+   "note_time": 101.11
+  },
+  {
+   "text": "tell",
+   "time": 101.84,
+   "weight": 1.0,
+   "note_time": 101.53
+  },
+  {
+   "text": "you",
+   "time": 102.18,
+   "weight": 0.99,
+   "note_time": 101.94
+  },
+  {
+   "text": "is",
+   "time": 102.58,
+   "weight": 0.99,
+   "note_time": 102.22
+  },
+  {
+   "text": "what",
+   "time": 103.0,
+   "weight": 1.0,
+   "note_time": 102.5
+  },
+  {
+   "text": "he",
+   "time": 103.24,
+   "weight": 0.62,
+   "note_time": 102.78
+  },
+  {
+   "text": "has",
+   "time": 103.54,
+   "weight": 1.0,
+   "note_time": 103.06
+  },
+  {
+   "text": "done",
+   "time": 103.88,
+   "weight": 1.0,
+   "note_time": 103.33
+  },
+  {
+   "text": "He",
+   "time": 104.3,
+   "weight": 0.98,
+   "note_time": 104.17
+  },
+  {
+   "text": "ope",
+   "time": 105.26,
+   "weight": 1.0,
+   "note_time": 104.44
+  },
+  {
+   "text": "ned",
+   "time": 105.44,
+   "weight": 1.0,
+   "note_time": 104.72
+  },
+  {
+   "text": "my",
+   "time": 105.62,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "eyes",
+   "time": 106.04,
+   "weight": 1.0,
+   "note_time": 105.28
+  },
+  {
+   "text": "and",
+   "time": 106.66,
+   "weight": 0.95,
+   "note_time": 105.83
+  },
+  {
+   "text": "I'm",
+   "time": 106.94,
+   "weight": 0.97,
+   "note_time": 106.11
+  },
+  {
+   "text": "see",
+   "time": 107.38,
+   "weight": 0.99,
+   "note_time": 106.67
+  },
+  {
+   "text": "ing",
+   "time": 107.62,
+   "weight": 0.99,
+   "note_time": 106.94
+  },
+  {
+   "text": "the",
+   "time": 107.86,
+   "weight": 1.0,
+   "note_time": 107.22
+  },
+  {
+   "text": "sun",
+   "time": 108.28,
+   "weight": 0.82,
+   "note_time": 107.5
+  },
+  {
+   "text": "Whet",
+   "time": 109.84,
+   "weight": 0.94,
+   "note_time": 109.44
+  },
+  {
+   "text": "her",
+   "time": 110.19,
+   "weight": 0.94,
+   "note_time": 109.72
+  },
+  {
+   "text": "he",
+   "time": 110.68,
+   "weight": 0.88,
+   "note_time": 110.0
+  },
+  {
+   "text": "is",
+   "time": 111.04,
+   "weight": 1.0,
+   "note_time": 110.56
+  },
+  {
+   "text": "a",
+   "time": 111.78,
+   "weight": 0.99,
+   "note_time": 110.83
+  },
+  {
+   "text": "sin",
+   "time": 111.96,
+   "weight": 1.0,
+   "note_time": 111.11
+  },
+  {
+   "text": "ner",
+   "time": 112.19,
+   "weight": 1.0,
+   "note_time": 111.39
+  },
+  {
+   "text": "I",
+   "time": 112.52,
+   "weight": 1.0,
+   "note_time": 111.94
+  },
+  {
+   "text": "do",
+   "time": 113.0,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "not",
+   "time": 113.52,
+   "weight": 1.0,
+   "note_time": 112.78
+  },
+  {
+   "text": "know",
+   "time": 114.04,
+   "weight": 1.0,
+   "note_time": 113.33
+  },
+  {
+   "text": "One",
+   "time": 114.54,
+   "weight": 0.25,
+   "note_time": 114.72
+  },
+  {
+   "text": "thing",
+   "time": 115.76,
+   "weight": 0.98,
+   "note_time": 115.28
+  },
+  {
+   "text": "I",
+   "time": 116.42,
+   "weight": 0.97,
+   "note_time": 116.67
+  },
+  {
+   "text": "do",
+   "time": 117.78,
+   "weight": 0.98,
+   "note_time": 117.08
+  },
+  {
+   "text": "know",
+   "time": 118.14,
+   "weight": 1.0,
+   "note_time": 117.5
+  },
+  {
+   "text": "I",
+   "time": 118.58,
+   "weight": 0.81,
+   "note_time": 118.89
+  },
+  {
+   "text": "was",
+   "time": 119.8,
+   "weight": 0.99,
+   "note_time": 119.31
+  },
+  {
+   "text": "blind,",
+   "time": 120.38,
+   "weight": 1.0,
+   "note_time": 119.72
+  },
+  {
+   "text": "and",
+   "time": 121.1,
+   "weight": 0.89,
+   "note_time": 120.83
+  },
+  {
+   "text": "now",
+   "time": 121.92,
+   "weight": 0.99,
+   "note_time": 121.11
+  },
+  {
+   "text": "I",
+   "time": 122.22,
+   "weight": 1.0,
+   "note_time": 121.53
+  },
+  {
+   "text": "see",
+   "time": 122.54,
+   "weight": 1.0,
+   "note_time": 121.94
+  },
+  {
+   "text": "I",
+   "time": 123.54,
+   "weight": 0.88,
+   "note_time": 123.33
+  },
+  {
+   "text": "was",
+   "time": 124.26,
+   "weight": 1.0,
+   "note_time": 123.75
+  },
+  {
+   "text": "blind,",
+   "time": 124.86,
+   "weight": 1.0,
+   "note_time": 124.17
+  },
+  {
+   "text": "and",
+   "time": 125.54,
+   "weight": 0.99,
+   "note_time": 125.28
+  },
+  {
+   "text": "now",
+   "time": 126.38,
+   "weight": 1.0,
+   "note_time": 125.56
+  },
+  {
+   "text": "I",
+   "time": 126.68,
+   "weight": 1.0,
+   "note_time": 125.97
+  },
+  {
+   "text": "see",
+   "time": 127.02,
+   "weight": 1.0,
+   "note_time": 126.39
+  },
+  {
+   "text": "I",
+   "time": 126.98,
+   "weight": 0.0,
+   "note_time": 136.11
+  },
+  {
+   "text": "am",
+   "time": 126.94,
+   "weight": 0.0,
+   "note_time": 136.67
+  },
+  {
+   "text": "the",
+   "time": 126.91,
+   "weight": 0.0,
+   "note_time": 136.94
+  },
+  {
+   "text": "light",
+   "time": 126.87,
+   "weight": 0.0,
+   "note_time": 137.5
+  },
+  {
+   "text": "of",
+   "time": 126.83,
+   "weight": 0.0,
+   "note_time": 137.78
+  },
+  {
+   "text": "the",
+   "time": 126.79,
+   "weight": 0.0,
+   "note_time": 138.33
+  },
+  {
+   "text": "world",
+   "time": 126.75,
+   "weight": 0.0,
+   "note_time": 138.61
+  },
+  {
+   "text": "I",
+   "time": 126.71,
+   "weight": 0.0,
+   "note_time": 140.56
+  },
+  {
+   "text": "was",
+   "time": 126.68,
+   "weight": 0.0,
+   "note_time": 141.11
+  },
+  {
+   "text": "blind,",
+   "time": 126.64,
+   "weight": 0.0,
+   "note_time": 141.39
+  },
+  {
+   "text": "and",
+   "time": 126.6,
+   "weight": 0.15,
+   "note_time": 141.94
+  },
+  {
+   "text": "now",
+   "time": 126.62,
+   "weight": 0.93,
+   "note_time": 142.22
+  },
+  {
+   "text": "I",
+   "time": 126.74,
+   "weight": 0.97,
+   "note_time": 142.78
+  },
+  {
+   "text": "see",
+   "time": 127.04,
+   "weight": 0.97,
+   "note_time": 143.06
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "20 of 22 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

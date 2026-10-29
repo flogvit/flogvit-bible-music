@@ -36,7 +36,7 @@ on Home Mac.
 | verse-20-3-5-country | done 2026-10-29 03:33, 3:27, sheets in sheets/ |
 | verse-4-6-24-celtic | done 2026-10-29 03:53, 2:37, sheets in sheets/ |
 | verse-40-5-3-folk | done 2026-10-29 04:22, 3:29, sheets in sheets/ |
-| verse-6-1-9-rock | taken |
+| verse-6-1-9-rock | done 2026-10-29 04:59, 4:08, sheets in sheets/ |
 | story-den-fortapte-sonn-country | taken |
 | story-den-barmhjertige-samaritan-folk | taken |
 | story-noas-ark-og-syndfloden-children | taken |

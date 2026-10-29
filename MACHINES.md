@@ -42,7 +42,7 @@ on Home Mac.
 | story-noas-ark-og-syndfloden-children | done 2026-10-29 06:04, 1:36, sheets in sheets/ |
 | story-skapelsen-av-verden-orchestral | done 2026-10-29 06:37, 4:07, sheets in sheets/ |
 | story-israelittene-gar-gjennom-rodehavet-gospel | done 2026-10-29 07:04, 3:25, sheets in sheets/ |
-| story-daniel-i-lovehulen-soul | taken |
+| story-daniel-i-lovehulen-soul | done 2026-10-29 07:49, 4:54, sheets in sheets/ |
 | story-jona-i-fiskens-buk-children | taken |
 | person-moses-folk | taken |
 | person-maria-jesu-mor-ballad | taken |

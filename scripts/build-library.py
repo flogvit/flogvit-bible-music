@@ -218,6 +218,8 @@ def build(song_dir: Path, library: Path, machine: str) -> Path:
     result = json.loads(result_file.read_text())
     config = json.loads((song_dir / "config.json").read_text()) if (song_dir / "config.json").exists() else {}
     request = json.loads((song_dir / "request.json").read_text())
+    sung_file = song_dir / "lyrics-sung.txt"
+    sung = sung_file.read_text().strip() if sung_file.exists() else request["lyrics"]
     alignment = json.loads((sheets / "alignment.json").read_text())
 
     out = library / sid
@@ -247,7 +249,9 @@ def build(song_dir: Path, library: Path, machine: str) -> Path:
             "stories": [named("stories", s) for s in tags["stories"]],
             "persons": [named("persons", s) for s in tags["persons"]],
         },
-        "lyrics": {"sections": parse_lyrics(request["lyrics"]), "text": request["lyrics"]},
+        "lyrics": {"sections": parse_lyrics(sung), "text": sung},
+        # The lyrics check kept the song with its lyrics as sung; requestedLyrics is what YuE2 was asked to sing.
+        **({"lyricsAdopted": True, "requestedLyrics": request["lyrics"]} if sung != request["lyrics"] else {}),
         "lyricsMode": song["lyricsMode"],
         "textSource": song["textSource"],
         "textCredit": TEXT_CREDITS.get(song["textSource"], song["textSource"]),

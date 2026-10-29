@@ -50,24 +50,32 @@ down what was actually sung, in phrases with start–end seconds. Decide whether
 requested lyrics.
 
 It is WRONG when any of these happen:
-- a line or part of a line is missing, or is replaced by another line;
-- words are wrong, garbled or cut, so the line says something else than requested;
-- two lines are merged into one, so part of each is lost;
-- a verse, a line or a chorus line is sung more times than the structure asks for (for example one chorus
-  line sung twice in a row where the chorus asks for two different lines).
+- a requested line, or a part of it that carries meaning, is not sung (also a missing ending or outro);
+- a line is replaced by another line, or two lines are merged so that part of each is lost;
+- a word that carries meaning is sung as a different word that does not sound like it (Bless -> Praise,
+  see God -> seek out);
+- a verse line or a whole verse is sung again where the structure does not repeat it, or a chorus line is
+  sung twice where the next requested line should be.
+A repeat is only fine when every requested line is still sung: a repeat that takes the place of a requested
+line is wrong.
 
-It is FINE when:
-- a section is repeated because the structure lists it again (a chorus written out twice is sung twice);
-- a short hook or tag line is repeated as an ending, or the last line of the song is echoed;
-- there are wordless vocals (ooh, ah, la) or instrumental parts;
-- Whisper wrote a word that sounds almost the same as the requested one (this/theirs, in/and, a/the, he/He),
-  or got punctuation and capital letters wrong; Whisper makes such slips, the singer did not.
+It is FINE, and not a problem to report, when:
+- the chorus, or part of it, is sung more times than written: an extra chorus at the end, a chorus line or
+  hook repeated (a hook sung three times where the lyrics write it twice);
+- the title line or a hook is echoed as a tag or an ending;
+- Whisper misses or swaps a small word (in, the, a, and, of, to, it/he, him/them), a plural or a contraction,
+  or gets punctuation and capital letters wrong;
+- Whisper wrote a word that sounds almost the same as the requested one (this/theirs, Lot/God, eagle's/eagles),
+  most of all when it is marked (?);
+- "Thank you", "Thanks for watching", "Amen" or a word or two is heard in silence or after the singing ends:
+  Whisper invents such words on quiet audio;
+- there are wordless vocals (ooh, ah, la) or instrumental parts.
 Words marked (?) were heard with low confidence. Phrases from a "second listen" cover a stretch the first
 pass missed; use them in place of that stretch.
 
 Go through the requested lyrics line by line and find each line in what was heard, in order. Answer "correct"
-only when you are confident every requested line was sung and nothing was sung that the structure did not ask
-for. Answer "wrong" when you found a problem, and "unsure" when you cannot tell. List each problem with the
+only when you are confident every requested line was sung and nothing was repeated beyond what is fine above.
+Answer "wrong" when you found a problem, and "unsure" when you cannot tell. List each problem with the
 time it is heard at.`;
 
 const SCHEMA = {

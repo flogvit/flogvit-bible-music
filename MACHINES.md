@@ -40,7 +40,7 @@ on Home Mac.
 | story-den-fortapte-sonn-country | done 2026-10-29 05:27, 3:29, sheets in sheets/ |
 | story-den-barmhjertige-samaritan-folk | done 2026-10-29 05:51, 2:53, sheets in sheets/ |
 | story-noas-ark-og-syndfloden-children | done 2026-10-29 06:04, 1:36, sheets in sheets/ |
-| story-skapelsen-av-verden-orchestral | taken |
+| story-skapelsen-av-verden-orchestral | done 2026-10-29 06:37, 4:07, sheets in sheets/ |
 | story-israelittene-gar-gjennom-rodehavet-gospel | taken |
 | story-daniel-i-lovehulen-soul | taken |
 | story-jona-i-fiskens-buk-children | taken |

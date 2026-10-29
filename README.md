@@ -138,16 +138,26 @@ an agent session instead, `run` dies with that terminal or session.
 ### Lyrics check
 
 YuE sometimes sings a line twice where the lyrics ask for two different lines, drops or merges a line, or
-garbles the words. Every song is checked before it gets its sheets, and only a song that passes is published.
+garbles the words. Every song is checked before it gets its sheets. A song sung differently from its lyrics is
+not thrown away for that: when what was sung is good lyrics too, the song is kept with the lyrics as sung.
+Only a broken song is made again.
 
 1. Whisper listens to the song (`song-sheets.py --listen-only`, which writes `sheets/<id>/whisper.json`; the
    sheets reuse it afterwards, so Whisper runs once per song).
 2. `scripts/lyrics-check.ts` gives a local LLM the requested lyrics with their sections (`[Verse]`,
-   `[Chorus]`, …) and the phrases Whisper heard, with times. It answers `correct`, `wrong` or `unsure`, with each
-   problem and when it is heard. Wrong or garbled words, a missing line, two lines merged, and a line or verse
-   sung more often than the structure asks for are wrong. A chorus the lyrics repeat, a hook echoed at the end,
-   wordless vocals, and Whisper's own near-misses (*this* for *theirs*) are fine.
-3. Only `correct` with no problems passes. Anything else, `unsure` too, rejects the song: its audio moves to
+   `[Chorus]`, …) and the phrases Whisper heard, with times. It answers one of three, with each difference and
+   when it is heard:
+   - `correct`: sung as written. A chorus the lyrics repeat, a hook echoed at the end, wordless vocals,
+     Whisper's own near-misses (*this* for *theirs*, *can do* for a drawn-out *endures*) and a repeated line
+     Whisper did not write down where there is room for it in the timing are fine.
+   - `adopt`: sung differently, but as good, singable lyrics that still say what the passage says: a reworded
+     line, an outro sung in other words, one line of a list left out. The song is kept, and the judge writes the
+     lyrics as sung in the requested sections. They go in `lyrics-sung.txt` in the song's folder; the sheets,
+     `alignment.json` and `library/<id>/info.json` use them (`lyricsAdopted`, with the asked-for lyrics in
+     `requestedLyrics`). The song's catalog entry, its Bible references and tags stay as they are.
+   - `wrong`: broken: garbled or unintelligible singing, verses or several lines not sung, a line or verse sung
+     again in place of the next one, or sung words that misrepresent the passage.
+3. `wrong` (and `unsure`) rejects the song: its audio moves to
    `YuE/outputs/catalog/<id>-rejected-<n>/` (with `whisper.json` and the verdict in `lyrics-check.json`), its
    lock gets the state `rejected`, and the next free machine makes it again with the next seed (the same seed
    would make the same song).
@@ -164,7 +174,10 @@ GitHub missed one. `retry` adds a `retry` commit; rejections before it no longer
 ```bash
 ls aside/                                       # songs set aside
 bun scripts/generate.ts retry <id>              # put one back, for 3 more attempts
-bun scripts/lyrics-check.ts <id>                # judge sheets/<id>/whisper.json now (exit 0 = passes)
+bun scripts/generate.ts rejudge <id>            # judge its kept takes again under the current rules (on the
+                                                # machine that set it aside), keep the first that passes
+bun scripts/lyrics-check.ts <id>                # judge sheets/<id>/whisper.json now (exit 0 = correct,
+                                                # 3 = adopt, 2 = wrong)
 bun test scripts                                # the judge on a real doubled chorus line and a real chorus
 ```
 

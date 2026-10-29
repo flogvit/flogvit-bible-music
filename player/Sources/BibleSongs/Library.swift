@@ -69,7 +69,9 @@ enum Library {
     /// The songs in the published index; their files are relative to the index.
     static func remote() async -> [Song] {
         let index = remoteIndex
-        guard let (data, response) = try? await URLSession.shared.data(from: index),
+        // Never from the URL cache: the bucket sends no Cache-Control, and a cached index hides new songs.
+        let request = URLRequest(url: index, cachePolicy: .reloadIgnoringLocalCacheData)
+        guard let (data, response) = try? await URLSession.shared.data(for: request),
               (response as? HTTPURLResponse)?.statusCode == 200,
               let parsed = (try? JSONSerialization.jsonObject(with: data)) as? [String: Any],
               let songs = parsed["songs"] as? [[String: Any]] else { return [] }
@@ -84,7 +86,8 @@ enum Library {
 
     /// Fetches the timing of a song that is not on this Mac.
     static func timing(from url: URL) async -> [LineTiming] {
-        guard let (data, _) = try? await URLSession.shared.data(from: url),
+        let request = URLRequest(url: url, cachePolicy: .reloadIgnoringLocalCacheData)
+        guard let (data, _) = try? await URLSession.shared.data(for: request),
               let parsed = (try? JSONSerialization.jsonObject(with: data)) as? [String: Any] else { return [] }
         return timing(parsed) ?? []
     }

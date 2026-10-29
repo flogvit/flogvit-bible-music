@@ -240,7 +240,9 @@ bun scripts/publish.ts --out site/music   # to a folder, for any static web host
 bun scripts/publish.ts --dry-run          # say what would change, change nothing
 ```
 
-It only uploads files that changed, so it can run after every new song. What it publishes:
+It only uploads files that changed, so it can run after every new song. Several machines can publish into
+the same collection, each from its own `library/`: the songs another machine published stay in the
+collection, and a song a machine has itself is replaced by its copy. What it publishes:
 
 | path | what it is |
 |---|---|

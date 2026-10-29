@@ -141,10 +141,15 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   });
 }
 
-if (await sink.put(`${collection}/songs.json`, json(songs), "application/json")) written++;
+// Several machines publish into the same collection, each with only its own songs in library/: keep the
+// songs already published from elsewhere, and let this machine's copy win for the songs it has.
+const local = new Set(songs.map((s) => s.id));
+const published: Song[] = JSON.parse((await sink.read(`${collection}/songs.json`)) ?? "[]");
+const merged = [...published.filter((s) => !local.has(s.id)), ...songs].sort((a, b) => a.id.localeCompare(b.id));
+if (await sink.put(`${collection}/songs.json`, json(merged), "application/json")) written++;
 
 // The index covers every collection on the host, not just this one.
-const all: Record<string, Song[]> = { [collection]: songs };
+const all: Record<string, Song[]> = { [collection]: merged };
 for (const name of await sink.collections()) {
   if (name === collection) continue;
   const text = await sink.read(`${name}/songs.json`);
@@ -155,5 +160,5 @@ const previous = await sink.read("index.json");
 const unchanged = previous && JSON.stringify({ ...JSON.parse(previous), generated: "" }) === JSON.stringify({ ...index, generated: "" });
 if (!unchanged && await sink.put("index.json", json(index), "application/json")) written++;
 
-console.log(`${opt["dry-run"] ? "would write" : "wrote"} ${written} files; ${songs.length} songs in ${collection}, ` +
-  `${index.songs.length} in the index (${index.collections.join(", ")})`);
+console.log(`${opt["dry-run"] ? "would write" : "wrote"} ${written} files; ${songs.length} songs from here, ` +
+  `${merged.length} in ${collection}, ${index.songs.length} in the index (${index.collections.join(", ")})`);

@@ -1,0 +1,1490 @@
+{
+ "id": "verse-19-42-2-ballad",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-42-2-ballad",
+ "offset_seconds": -10.820000000000025,
+ "words_heard": 191,
+ "words": 191,
+ "lines": [
+  {
+   "text": "I remember Sunday mornings and the singing in the hall",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How I walked among the people and I felt you over all",
+   "heard": 12,
+   "words": 12,
+   "error_s": 1.34,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Now the house is very quiet and the nights are very long",
+   "heard": 12,
+   "words": 12,
+   "error_s": 1.67,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And I search for you in silence where I used to find a song",
+   "heard": 14,
+   "words": 14,
+   "error_s": 3.03,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "As a deer longs for streams of water",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.31,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "So my soul longs for you, O God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul thirsts for God, for the living God",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.66,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "When shall I come and appear before God's face",
+   "heard": 9,
+   "words": 9,
+   "error_s": 5.38,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My tears have been my food day and night",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And still the voices ask me where you are",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.99,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I pour my heart out on the kitchen floor",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.2,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "I hold on to the memory of the light",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "As a deer longs for streams of water",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So my soul longs for you, O God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul thirsts for God, for the living God",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.52,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "When shall I come and appear before God's face",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Why are you cast down, my soul",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And why do you groan within me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hope in God, for I will praise him again",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.37,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As a deer longs for streams of water",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So my soul longs for you, O God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 2.82,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 23.16,
+   "weight": 0.44,
+   "note_time": 22.17
+  },
+  {
+   "text": "re",
+   "time": 24.28,
+   "weight": 0.97,
+   "note_time": 22.39
+  },
+  {
+   "text": "mem",
+   "time": 24.47,
+   "weight": 0.97,
+   "note_time": 23.04
+  },
+  {
+   "text": "ber",
+   "time": 24.65,
+   "weight": 0.97,
+   "note_time": 23.91
+  },
+  {
+   "text": "Sun",
+   "time": 24.84,
+   "weight": 0.9,
+   "note_time": 24.13
+  },
+  {
+   "text": "day",
+   "time": 25.19,
+   "weight": 0.9,
+   "note_time": 24.35
+  },
+  {
+   "text": "morn",
+   "time": 25.7,
+   "weight": 0.98,
+   "note_time": 24.78
+  },
+  {
+   "text": "ings",
+   "time": 26.05,
+   "weight": 0.98,
+   "note_time": 25.0
+  },
+  {
+   "text": "and",
+   "time": 27.0,
+   "weight": 0.28,
+   "note_time": 25.65
+  },
+  {
+   "text": "the",
+   "time": 28.06,
+   "weight": 0.99,
+   "note_time": 25.87
+  },
+  {
+   "text": "sin",
+   "time": 28.16,
+   "weight": 0.95,
+   "note_time": 27.39
+  },
+  {
+   "text": "ging",
+   "time": 28.43,
+   "weight": 0.95,
+   "note_time": 27.61
+  },
+  {
+   "text": "in",
+   "time": 28.7,
+   "weight": 1.0,
+   "note_time": 27.83
+  },
+  {
+   "text": "the",
+   "time": 29.38,
+   "weight": 1.0,
+   "note_time": 28.26
+  },
+  {
+   "text": "hall",
+   "time": 29.74,
+   "weight": 0.99,
+   "note_time": 28.48
+  },
+  {
+   "text": "How",
+   "time": 30.2,
+   "weight": 0.94,
+   "note_time": 29.13
+  },
+  {
+   "text": "I",
+   "time": 31.46,
+   "weight": 1.0,
+   "note_time": 29.35
+  },
+  {
+   "text": "walked",
+   "time": 31.74,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "a",
+   "time": 32.28,
+   "weight": 0.99,
+   "note_time": 30.87
+  },
+  {
+   "text": "mong",
+   "time": 32.43,
+   "weight": 0.99,
+   "note_time": 31.09
+  },
+  {
+   "text": "the",
+   "time": 32.58,
+   "weight": 0.99,
+   "note_time": 31.3
+  },
+  {
+   "text": "peo",
+   "time": 33.32,
+   "weight": 1.0,
+   "note_time": 31.74
+  },
+  {
+   "text": "ple",
+   "time": 33.67,
+   "weight": 1.0,
+   "note_time": 31.96
+  },
+  {
+   "text": "and",
+   "time": 34.1,
+   "weight": 0.96,
+   "note_time": 32.61
+  },
+  {
+   "text": "I",
+   "time": 35.14,
+   "weight": 0.93,
+   "note_time": 32.83
+  },
+  {
+   "text": "felt",
+   "time": 35.26,
+   "weight": 0.99,
+   "note_time": 34.35
+  },
+  {
+   "text": "you",
+   "time": 35.76,
+   "weight": 0.71,
+   "note_time": 34.57
+  },
+  {
+   "text": "o",
+   "time": 36.0,
+   "weight": 0.5,
+   "note_time": 34.78
+  },
+  {
+   "text": "ver",
+   "time": 36.31,
+   "weight": 0.5,
+   "note_time": 35.22
+  },
+  {
+   "text": "all",
+   "time": 36.62,
+   "weight": 0.99,
+   "note_time": 35.43
+  },
+  {
+   "text": "Now",
+   "time": 37.32,
+   "weight": 0.98,
+   "note_time": 36.09
+  },
+  {
+   "text": "the",
+   "time": 38.6,
+   "weight": 0.98,
+   "note_time": 36.3
+  },
+  {
+   "text": "house",
+   "time": 38.76,
+   "weight": 1.0,
+   "note_time": 36.96
+  },
+  {
+   "text": "is",
+   "time": 39.32,
+   "weight": 1.0,
+   "note_time": 37.83
+  },
+  {
+   "text": "ve",
+   "time": 39.54,
+   "weight": 1.0,
+   "note_time": 38.04
+  },
+  {
+   "text": "ry",
+   "time": 39.74,
+   "weight": 1.0,
+   "note_time": 38.26
+  },
+  {
+   "text": "qui",
+   "time": 39.94,
+   "weight": 1.0,
+   "note_time": 38.7
+  },
+  {
+   "text": "et",
+   "time": 40.29,
+   "weight": 1.0,
+   "note_time": 38.91
+  },
+  {
+   "text": "and",
+   "time": 40.74,
+   "weight": 0.15,
+   "note_time": 39.57
+  },
+  {
+   "text": "the",
+   "time": 41.96,
+   "weight": 0.79,
+   "note_time": 39.78
+  },
+  {
+   "text": "nights",
+   "time": 42.22,
+   "weight": 0.97,
+   "note_time": 40.0
+  },
+  {
+   "text": "are",
+   "time": 42.78,
+   "weight": 0.96,
+   "note_time": 44.35
+  },
+  {
+   "text": "ve",
+   "time": 43.0,
+   "weight": 1.0,
+   "note_time": 44.78
+  },
+  {
+   "text": "ry",
+   "time": 43.22,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "long",
+   "time": 43.44,
+   "weight": 1.0,
+   "note_time": 45.22
+  },
+  {
+   "text": "And",
+   "time": 44.74,
+   "weight": 0.81,
+   "note_time": 46.96
+  },
+  {
+   "text": "I",
+   "time": 45.6,
+   "weight": 1.0,
+   "note_time": 47.39
+  },
+  {
+   "text": "search",
+   "time": 45.74,
+   "weight": 0.98,
+   "note_time": 47.61
+  },
+  {
+   "text": "for",
+   "time": 46.26,
+   "weight": 1.0,
+   "note_time": 48.26
+  },
+  {
+   "text": "you",
+   "time": 46.46,
+   "weight": 0.65,
+   "note_time": 48.48
+  },
+  {
+   "text": "in",
+   "time": 46.66,
+   "weight": 0.99,
+   "note_time": 48.7
+  },
+  {
+   "text": "si",
+   "time": 47.32,
+   "weight": 1.0,
+   "note_time": 49.13
+  },
+  {
+   "text": "lence",
+   "time": 47.67,
+   "weight": 1.0,
+   "note_time": 51.3
+  },
+  {
+   "text": "where",
+   "time": 48.04,
+   "weight": 0.87,
+   "note_time": 51.74
+  },
+  {
+   "text": "I",
+   "time": 49.14,
+   "weight": 1.0,
+   "note_time": 52.17
+  },
+  {
+   "text": "used",
+   "time": 49.36,
+   "weight": 0.99,
+   "note_time": 53.91
+  },
+  {
+   "text": "to",
+   "time": 49.78,
+   "weight": 1.0,
+   "note_time": 54.35
+  },
+  {
+   "text": "find",
+   "time": 50.04,
+   "weight": 1.0,
+   "note_time": 54.57
+  },
+  {
+   "text": "a",
+   "time": 50.56,
+   "weight": 0.9,
+   "note_time": 55.22
+  },
+  {
+   "text": "song",
+   "time": 50.94,
+   "weight": 1.0,
+   "note_time": 55.43
+  },
+  {
+   "text": "As",
+   "time": 54.84,
+   "weight": 0.96,
+   "note_time": 55.65
+  },
+  {
+   "text": "a",
+   "time": 55.88,
+   "weight": 1.0,
+   "note_time": 56.09
+  },
+  {
+   "text": "deer",
+   "time": 56.18,
+   "weight": 0.99,
+   "note_time": 57.83
+  },
+  {
+   "text": "longs",
+   "time": 56.7,
+   "weight": 0.4,
+   "note_time": 58.26
+  },
+  {
+   "text": "for",
+   "time": 58.62,
+   "weight": 1.0,
+   "note_time": 59.13
+  },
+  {
+   "text": "streams",
+   "time": 58.74,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "of",
+   "time": 59.08,
+   "weight": 1.0,
+   "note_time": 60.43
+  },
+  {
+   "text": "wa",
+   "time": 59.74,
+   "weight": 1.0,
+   "note_time": 61.74
+  },
+  {
+   "text": "ter",
+   "time": 60.09,
+   "weight": 1.0,
+   "note_time": 62.39
+  },
+  {
+   "text": "So",
+   "time": 61.74,
+   "weight": 0.97,
+   "note_time": 62.61
+  },
+  {
+   "text": "my",
+   "time": 62.64,
+   "weight": 0.97,
+   "note_time": 63.26
+  },
+  {
+   "text": "soul",
+   "time": 63.18,
+   "weight": 1.0,
+   "note_time": 63.91
+  },
+  {
+   "text": "longs",
+   "time": 64.12,
+   "weight": 0.4,
+   "note_time": 64.78
+  },
+  {
+   "text": "for",
+   "time": 65.7,
+   "weight": 1.0,
+   "note_time": 65.22
+  },
+  {
+   "text": "you,",
+   "time": 65.76,
+   "weight": 0.98,
+   "note_time": 65.43
+  },
+  {
+   "text": "O",
+   "time": 66.32,
+   "weight": 0.52,
+   "note_time": 66.09
+  },
+  {
+   "text": "God",
+   "time": 66.74,
+   "weight": 0.99,
+   "note_time": 66.96
+  },
+  {
+   "text": "My",
+   "time": 67.6,
+   "weight": 0.28,
+   "note_time": 67.39
+  },
+  {
+   "text": "soul",
+   "time": 69.08,
+   "weight": 0.63,
+   "note_time": 67.61
+  },
+  {
+   "text": "thirsts",
+   "time": 69.68,
+   "weight": 0.96,
+   "note_time": 68.26
+  },
+  {
+   "text": "for",
+   "time": 71.14,
+   "weight": 1.0,
+   "note_time": 68.48
+  },
+  {
+   "text": "God,",
+   "time": 71.28,
+   "weight": 1.0,
+   "note_time": 69.13
+  },
+  {
+   "text": "for",
+   "time": 72.08,
+   "weight": 0.96,
+   "note_time": 70.0
+  },
+  {
+   "text": "the",
+   "time": 72.92,
+   "weight": 1.0,
+   "note_time": 76.96
+  },
+  {
+   "text": "liv",
+   "time": 73.6,
+   "weight": 0.93,
+   "note_time": 77.39
+  },
+  {
+   "text": "ing",
+   "time": 73.86,
+   "weight": 0.93,
+   "note_time": 77.83
+  },
+  {
+   "text": "God",
+   "time": 74.12,
+   "weight": 1.0,
+   "note_time": 78.04
+  },
+  {
+   "text": "When",
+   "time": 75.22,
+   "weight": 0.45,
+   "note_time": 78.7
+  },
+  {
+   "text": "shall",
+   "time": 75.98,
+   "weight": 1.0,
+   "note_time": 79.13
+  },
+  {
+   "text": "I",
+   "time": 76.36,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "come",
+   "time": 76.88,
+   "weight": 1.0,
+   "note_time": 80.87
+  },
+  {
+   "text": "and",
+   "time": 77.38,
+   "weight": 0.99,
+   "note_time": 81.3
+  },
+  {
+   "text": "ap",
+   "time": 78.3,
+   "weight": 1.0,
+   "note_time": 84.13
+  },
+  {
+   "text": "pear",
+   "time": 78.56,
+   "weight": 1.0,
+   "note_time": 84.35
+  },
+  {
+   "text": "be",
+   "time": 78.82,
+   "weight": 1.0,
+   "note_time": 84.78
+  },
+  {
+   "text": "fore",
+   "time": 79.17,
+   "weight": 1.0,
+   "note_time": 85.0
+  },
+  {
+   "text": "God's",
+   "time": 79.62,
+   "weight": 1.0,
+   "note_time": 85.65
+  },
+  {
+   "text": "face",
+   "time": 80.9,
+   "weight": 1.0,
+   "note_time": 85.87
+  },
+  {
+   "text": "My",
+   "time": 86.56,
+   "weight": 0.96,
+   "note_time": 86.52
+  },
+  {
+   "text": "tears",
+   "time": 87.92,
+   "weight": 1.0,
+   "note_time": 86.96
+  },
+  {
+   "text": "have",
+   "time": 88.5,
+   "weight": 0.98,
+   "note_time": 87.83
+  },
+  {
+   "text": "been",
+   "time": 88.9,
+   "weight": 1.0,
+   "note_time": 88.26
+  },
+  {
+   "text": "my",
+   "time": 89.2,
+   "weight": 1.0,
+   "note_time": 90.87
+  },
+  {
+   "text": "food",
+   "time": 89.72,
+   "weight": 1.0,
+   "note_time": 91.3
+  },
+  {
+   "text": "day",
+   "time": 90.16,
+   "weight": 0.93,
+   "note_time": 91.74
+  },
+  {
+   "text": "and",
+   "time": 91.04,
+   "weight": 1.0,
+   "note_time": 91.96
+  },
+  {
+   "text": "night",
+   "time": 91.88,
+   "weight": 1.0,
+   "note_time": 92.61
+  },
+  {
+   "text": "And",
+   "time": 92.56,
+   "weight": 0.16,
+   "note_time": 93.04
+  },
+  {
+   "text": "still",
+   "time": 94.78,
+   "weight": 0.99,
+   "note_time": 93.48
+  },
+  {
+   "text": "the",
+   "time": 95.2,
+   "weight": 0.99,
+   "note_time": 93.91
+  },
+  {
+   "text": "voic",
+   "time": 95.56,
+   "weight": 0.99,
+   "note_time": 94.57
+  },
+  {
+   "text": "es",
+   "time": 95.91,
+   "weight": 0.99,
+   "note_time": 94.78
+  },
+  {
+   "text": "ask",
+   "time": 96.34,
+   "weight": 0.98,
+   "note_time": 95.22
+  },
+  {
+   "text": "me",
+   "time": 96.92,
+   "weight": 1.0,
+   "note_time": 96.96
+  },
+  {
+   "text": "where",
+   "time": 97.3,
+   "weight": 0.96,
+   "note_time": 97.39
+  },
+  {
+   "text": "you",
+   "time": 97.76,
+   "weight": 0.97,
+   "note_time": 97.83
+  },
+  {
+   "text": "are",
+   "time": 98.56,
+   "weight": 1.0,
+   "note_time": 98.7
+  },
+  {
+   "text": "I",
+   "time": 99.78,
+   "weight": 0.31,
+   "note_time": 100.43
+  },
+  {
+   "text": "pour",
+   "time": 101.36,
+   "weight": 0.99,
+   "note_time": 100.65
+  },
+  {
+   "text": "my",
+   "time": 101.86,
+   "weight": 1.0,
+   "note_time": 101.09
+  },
+  {
+   "text": "heart",
+   "time": 102.3,
+   "weight": 1.0,
+   "note_time": 101.3
+  },
+  {
+   "text": "out",
+   "time": 102.72,
+   "weight": 1.0,
+   "note_time": 101.52
+  },
+  {
+   "text": "on",
+   "time": 103.3,
+   "weight": 1.0,
+   "note_time": 101.96
+  },
+  {
+   "text": "the",
+   "time": 103.66,
+   "weight": 1.0,
+   "note_time": 102.17
+  },
+  {
+   "text": "k",
+   "time": 103.96,
+   "weight": 1.0,
+   "note_time": 102.39
+  },
+  {
+   "text": "itchen",
+   "time": 104.31,
+   "weight": 1.0,
+   "note_time": 102.61
+  },
+  {
+   "text": "floor",
+   "time": 104.7,
+   "weight": 1.0,
+   "note_time": 104.35
+  },
+  {
+   "text": "I",
+   "time": 106.42,
+   "weight": 0.98,
+   "note_time": 106.96
+  },
+  {
+   "text": "hold",
+   "time": 107.32,
+   "weight": 1.0,
+   "note_time": 107.39
+  },
+  {
+   "text": "on",
+   "time": 107.88,
+   "weight": 0.98,
+   "note_time": 107.61
+  },
+  {
+   "text": "to",
+   "time": 108.54,
+   "weight": 1.0,
+   "note_time": 109.57
+  },
+  {
+   "text": "the",
+   "time": 109.02,
+   "weight": 0.39,
+   "note_time": 110.0
+  },
+  {
+   "text": "mem",
+   "time": 110.7,
+   "weight": 1.0,
+   "note_time": 110.22
+  },
+  {
+   "text": "o",
+   "time": 110.96,
+   "weight": 1.0,
+   "note_time": 110.87
+  },
+  {
+   "text": "ry",
+   "time": 111.22,
+   "weight": 1.0,
+   "note_time": 111.09
+  },
+  {
+   "text": "of",
+   "time": 111.48,
+   "weight": 1.0,
+   "note_time": 111.74
+  },
+  {
+   "text": "the",
+   "time": 112.38,
+   "weight": 0.97,
+   "note_time": 113.91
+  },
+  {
+   "text": "light",
+   "time": 112.4,
+   "weight": 0.94,
+   "note_time": 114.35
+  },
+  {
+   "text": "As",
+   "time": 116.06,
+   "weight": 0.99,
+   "note_time": 116.52
+  },
+  {
+   "text": "a",
+   "time": 117.22,
+   "weight": 0.98,
+   "note_time": 116.96
+  },
+  {
+   "text": "deer",
+   "time": 117.46,
+   "weight": 0.99,
+   "note_time": 117.17
+  },
+  {
+   "text": "longs",
+   "time": 118.04,
+   "weight": 0.4,
+   "note_time": 117.83
+  },
+  {
+   "text": "for",
+   "time": 119.94,
+   "weight": 1.0,
+   "note_time": 118.04
+  },
+  {
+   "text": "streams",
+   "time": 120.02,
+   "weight": 1.0,
+   "note_time": 118.7
+  },
+  {
+   "text": "of",
+   "time": 120.36,
+   "weight": 1.0,
+   "note_time": 120.43
+  },
+  {
+   "text": "wa",
+   "time": 121.0,
+   "weight": 1.0,
+   "note_time": 120.87
+  },
+  {
+   "text": "ter",
+   "time": 121.35,
+   "weight": 1.0,
+   "note_time": 121.74
+  },
+  {
+   "text": "So",
+   "time": 121.78,
+   "weight": 0.06,
+   "note_time": 122.61
+  },
+  {
+   "text": "my",
+   "time": 123.72,
+   "weight": 0.93,
+   "note_time": 123.04
+  },
+  {
+   "text": "soul",
+   "time": 124.34,
+   "weight": 0.98,
+   "note_time": 124.35
+  },
+  {
+   "text": "longs",
+   "time": 125.06,
+   "weight": 0.4,
+   "note_time": 125.0
+  },
+  {
+   "text": "for",
+   "time": 126.68,
+   "weight": 1.0,
+   "note_time": 125.22
+  },
+  {
+   "text": "you,",
+   "time": 126.78,
+   "weight": 0.47,
+   "note_time": 125.87
+  },
+  {
+   "text": "O",
+   "time": 127.36,
+   "weight": 0.51,
+   "note_time": 126.52
+  },
+  {
+   "text": "God",
+   "time": 127.88,
+   "weight": 0.99,
+   "note_time": 127.39
+  },
+  {
+   "text": "My",
+   "time": 128.68,
+   "weight": 0.34,
+   "note_time": 127.83
+  },
+  {
+   "text": "soul",
+   "time": 130.2,
+   "weight": 0.99,
+   "note_time": 128.04
+  },
+  {
+   "text": "thirsts",
+   "time": 130.74,
+   "weight": 0.99,
+   "note_time": 128.7
+  },
+  {
+   "text": "for",
+   "time": 132.16,
+   "weight": 1.0,
+   "note_time": 129.57
+  },
+  {
+   "text": "God,",
+   "time": 132.26,
+   "weight": 1.0,
+   "note_time": 130.0
+  },
+  {
+   "text": "for",
+   "time": 132.9,
+   "weight": 0.3,
+   "note_time": 130.22
+  },
+  {
+   "text": "the",
+   "time": 133.92,
+   "weight": 1.0,
+   "note_time": 130.87
+  },
+  {
+   "text": "liv",
+   "time": 134.54,
+   "weight": 0.93,
+   "note_time": 131.09
+  },
+  {
+   "text": "ing",
+   "time": 134.8,
+   "weight": 0.93,
+   "note_time": 131.74
+  },
+  {
+   "text": "God",
+   "time": 135.06,
+   "weight": 1.0,
+   "note_time": 132.61
+  },
+  {
+   "text": "When",
+   "time": 136.16,
+   "weight": 0.94,
+   "note_time": 136.09
+  },
+  {
+   "text": "shall",
+   "time": 136.88,
+   "weight": 1.0,
+   "note_time": 136.52
+  },
+  {
+   "text": "I",
+   "time": 137.26,
+   "weight": 1.0,
+   "note_time": 136.96
+  },
+  {
+   "text": "come",
+   "time": 137.78,
+   "weight": 1.0,
+   "note_time": 137.17
+  },
+  {
+   "text": "and",
+   "time": 138.28,
+   "weight": 0.98,
+   "note_time": 137.83
+  },
+  {
+   "text": "ap",
+   "time": 139.1,
+   "weight": 1.0,
+   "note_time": 138.7
+  },
+  {
+   "text": "pear",
+   "time": 139.36,
+   "weight": 1.0,
+   "note_time": 139.57
+  },
+  {
+   "text": "be",
+   "time": 139.62,
+   "weight": 0.92,
+   "note_time": 142.17
+  },
+  {
+   "text": "fore",
+   "time": 139.97,
+   "weight": 0.92,
+   "note_time": 142.61
+  },
+  {
+   "text": "God's",
+   "time": 140.42,
+   "weight": 1.0,
+   "note_time": 143.7
+  },
+  {
+   "text": "face",
+   "time": 141.66,
+   "weight": 1.0,
+   "note_time": 143.91
+  },
+  {
+   "text": "Why",
+   "time": 144.02,
+   "weight": 0.33,
+   "note_time": 144.35
+  },
+  {
+   "text": "are",
+   "time": 145.26,
+   "weight": 0.94,
+   "note_time": 145.43
+  },
+  {
+   "text": "you",
+   "time": 145.7,
+   "weight": 0.71,
+   "note_time": 145.65
+  },
+  {
+   "text": "cast",
+   "time": 146.1,
+   "weight": 0.65,
+   "note_time": 145.87
+  },
+  {
+   "text": "down,",
+   "time": 146.44,
+   "weight": 0.5,
+   "note_time": 146.09
+  },
+  {
+   "text": "my",
+   "time": 147.52,
+   "weight": 1.0,
+   "note_time": 146.3
+  },
+  {
+   "text": "soul",
+   "time": 147.82,
+   "weight": 1.0,
+   "note_time": 146.52
+  },
+  {
+   "text": "And",
+   "time": 149.86,
+   "weight": 0.95,
+   "note_time": 149.57
+  },
+  {
+   "text": "why",
+   "time": 151.1,
+   "weight": 1.0,
+   "note_time": 150.43
+  },
+  {
+   "text": "do",
+   "time": 151.62,
+   "weight": 1.0,
+   "note_time": 150.87
+  },
+  {
+   "text": "you",
+   "time": 152.6,
+   "weight": 0.99,
+   "note_time": 153.7
+  },
+  {
+   "text": "groan",
+   "time": 153.0,
+   "weight": 0.78,
+   "note_time": 153.91
+  },
+  {
+   "text": "with",
+   "time": 153.72,
+   "weight": 0.99,
+   "note_time": 154.35
+  },
+  {
+   "text": "in",
+   "time": 154.07,
+   "weight": 0.99,
+   "note_time": 154.78
+  },
+  {
+   "text": "me",
+   "time": 154.62,
+   "weight": 1.0,
+   "note_time": 155.43
+  },
+  {
+   "text": "Hope",
+   "time": 157.32,
+   "weight": 0.85,
+   "note_time": 156.09
+  },
+  {
+   "text": "in",
+   "time": 158.56,
+   "weight": 1.0,
+   "note_time": 156.3
+  },
+  {
+   "text": "God,",
+   "time": 159.14,
+   "weight": 1.0,
+   "note_time": 156.52
+  },
+  {
+   "text": "for",
+   "time": 160.12,
+   "weight": 0.39,
+   "note_time": 162.61
+  },
+  {
+   "text": "I",
+   "time": 162.16,
+   "weight": 1.0,
+   "note_time": 163.04
+  },
+  {
+   "text": "will",
+   "time": 162.5,
+   "weight": 1.0,
+   "note_time": 163.26
+  },
+  {
+   "text": "praise",
+   "time": 162.92,
+   "weight": 1.0,
+   "note_time": 165.65
+  },
+  {
+   "text": "him",
+   "time": 163.42,
+   "weight": 0.84,
+   "note_time": 165.87
+  },
+  {
+   "text": "a",
+   "time": 164.02,
+   "weight": 1.0,
+   "note_time": 166.52
+  },
+  {
+   "text": "gain",
+   "time": 164.37,
+   "weight": 1.0,
+   "note_time": 166.74
+  },
+  {
+   "text": "As",
+   "time": 169.56,
+   "weight": 0.66,
+   "note_time": 169.57
+  },
+  {
+   "text": "a",
+   "time": 170.8,
+   "weight": 0.99,
+   "note_time": 170.0
+  },
+  {
+   "text": "deer",
+   "time": 171.32,
+   "weight": 0.99,
+   "note_time": 170.43
+  },
+  {
+   "text": "longs",
+   "time": 171.8,
+   "weight": 0.4,
+   "note_time": 172.17
+  },
+  {
+   "text": "for",
+   "time": 173.72,
+   "weight": 1.0,
+   "note_time": 172.61
+  },
+  {
+   "text": "streams",
+   "time": 173.8,
+   "weight": 1.0,
+   "note_time": 172.83
+  },
+  {
+   "text": "of",
+   "time": 174.12,
+   "weight": 1.0,
+   "note_time": 173.48
+  },
+  {
+   "text": "wa",
+   "time": 174.74,
+   "weight": 1.0,
+   "note_time": 173.7
+  },
+  {
+   "text": "ter",
+   "time": 175.09,
+   "weight": 1.0,
+   "note_time": 174.35
+  },
+  {
+   "text": "So",
+   "time": 176.12,
+   "weight": 0.72,
+   "note_time": 179.57
+  },
+  {
+   "text": "my",
+   "time": 177.56,
+   "weight": 0.99,
+   "note_time": 180.0
+  },
+  {
+   "text": "soul",
+   "time": 178.06,
+   "weight": 1.0,
+   "note_time": 180.87
+  },
+  {
+   "text": "longs",
+   "time": 178.8,
+   "weight": 0.4,
+   "note_time": 181.74
+  },
+  {
+   "text": "for",
+   "time": 180.4,
+   "weight": 1.0,
+   "note_time": 182.17
+  },
+  {
+   "text": "you,",
+   "time": 180.52,
+   "weight": 0.45,
+   "note_time": 183.48
+  },
+  {
+   "text": "O",
+   "time": 181.04,
+   "weight": 0.51,
+   "note_time": 184.13
+  },
+  {
+   "text": "God",
+   "time": 181.52,
+   "weight": 0.99,
+   "note_time": 184.35
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "12 of 21 lyric lines sit clearly on their notes; 9 are uncertain and printed in grey italics."
+}

@@ -22,21 +22,33 @@ enum RepeatMode: String, CaseIterable {
 }
 
 @MainActor @Observable
-final class Player: NSObject, AVAudioPlayerDelegate {
+final class Player {
     private(set) var current: Song?
     private(set) var isPlaying = false
     var currentTime: TimeInterval = 0
     private(set) var duration: TimeInterval = 0
-    var repeatMode: RepeatMode = .all { didSet { audio?.numberOfLoops = repeatMode == .one ? -1 : 0 } }
+    var repeatMode: RepeatMode = .all
     var shuffle = false
     private(set) var error: String?
 
     private var queue: [Song] = []
-    private var audio: AVAudioPlayer?
-    private var ticker: Timer?
+    // AVPlayer plays both files on this Mac and songs streamed from media.flogvit.com.
+    private let audio = AVPlayer()
+    private var ticker: Any?
+    private var ended: NSObjectProtocol?
 
-    override init() {
-        super.init()
+    init() {
+        ticker = audio.addPeriodicTimeObserver(forInterval: CMTime(seconds: 0.05, preferredTimescale: 600), queue: .main) { [weak self] time in
+            MainActor.assumeIsolated { self?.currentTime = time.seconds }
+        }
+        ended = NotificationCenter.default.addObserver(forName: AVPlayerItem.didPlayToEndTimeNotification, object: nil,
+                                                       queue: .main) { [weak self] note in
+            let item = (note.object as? AVPlayerItem).map(ObjectIdentifier.init)
+            MainActor.assumeIsolated {
+                guard let self, let current = self.audio.currentItem, item == ObjectIdentifier(current) else { return }
+                self.finished()
+            }
+        }
         let center = MPRemoteCommandCenter.shared()
         center.playCommand.addTarget { [weak self] _ in self?.resume(); return .success }
         center.pauseCommand.addTarget { [weak self] _ in self?.pause(); return .success }
@@ -64,7 +76,7 @@ final class Player: NSObject, AVAudioPlayerDelegate {
     func toggle() { isPlaying ? pause() : resume() }
 
     func resume() {
-        guard let audio else {
+        guard current != nil else {
             if let first = queue.first { start(first) }
             return
         }
@@ -74,14 +86,14 @@ final class Player: NSObject, AVAudioPlayerDelegate {
     }
 
     func pause() {
-        audio?.pause()
+        audio.pause()
         isPlaying = false
         publish()
     }
 
     func seek(to time: TimeInterval) {
-        audio?.currentTime = max(0, min(time, duration))
-        currentTime = audio?.currentTime ?? 0
+        currentTime = max(0, duration > 0 ? min(time, duration) : time)
+        audio.seek(to: CMTime(seconds: currentTime, preferredTimescale: 600), toleranceBefore: .zero, toleranceAfter: .zero)
         publish()
     }
 
@@ -106,35 +118,36 @@ final class Player: NSObject, AVAudioPlayerDelegate {
     }
 
     private func start(_ song: Song) {
-        audio?.stop()
-        do {
-            let player = try AVAudioPlayer(contentsOf: song.audio)
-            player.delegate = self
-            player.numberOfLoops = repeatMode == .one ? -1 : 0
-            player.prepareToPlay()
-            player.play()
-            audio = player
-            current = song
-            duration = player.duration
-            currentTime = 0
-            isPlaying = true
-            error = nil
-        } catch {
-            self.error = "Kunne ikke spille «\(song.title)»: \(error.localizedDescription)"
-            isPlaying = false
-        }
-        ticker?.invalidate()
-        ticker = Timer.scheduledTimer(withTimeInterval: 0.05, repeats: true) { [weak self] _ in
-            MainActor.assumeIsolated { self?.currentTime = self?.audio?.currentTime ?? 0 }
-        }
+        let item = AVPlayerItem(url: song.audio)
+        audio.replaceCurrentItem(with: item)
+        audio.play()
+        current = song
+        duration = 0
+        currentTime = 0
+        isPlaying = true
+        error = nil
         publish()
-    }
-
-    nonisolated func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
-        Task { @MainActor in self.finished() }
+        Task {
+            do {
+                let length = try await item.asset.load(.duration).seconds
+                guard audio.currentItem === item else { return }
+                duration = length.isFinite ? length : 0
+                publish()
+            } catch {
+                guard audio.currentItem === item else { return }
+                self.error = "Kunne ikke spille «\(song.title)»: \(error.localizedDescription)"
+                isPlaying = false
+                publish()
+            }
+        }
     }
 
     private func finished() {
+        if repeatMode == .one {
+            seek(to: 0)
+            audio.play()
+            return
+        }
         let last = queue.last?.id == current?.id
         if repeatMode == .off && last && !shuffle {
             isPlaying = false

@@ -118,16 +118,16 @@ cap to 12,000 tokens (about 8 minutes); the model's context leaves room for that
 player/build.sh --install     # builds and installs ~/Applications/Bibelsanger.app (needs Xcode)
 ```
 
-It lists the published songs in `library/` first, then every finished song in `YuE/outputs/` that is not
-published yet, grouped by batch. New songs appear on their own while a batch runs (it looks every 15 s).
-Double-click a song to play it; the list as shown (search included) plays in a loop. The bar at the
+It lists the songs in `library/` on this Mac, then the songs on media.flogvit.com that are not on this Mac
+(made on another machine), streamed from there. New songs appear on their own: it looks at `library/` every
+15 s and at media.flogvit.com every 5 minutes. Double-click a song to play it; the list as shown (search included) plays in a loop. The bar at the
 bottom has shuffle and repeat all / one / off, and the Mac's media keys work. The right side shows the
 song's lyrics, its Bible passages (linked to bible.flogvit.com) and its chord and lead sheets. The app
 looks for the repo at `~/WebstormProjects/flogvit/music`; pick another folder with ⌘O.
 
 While a song plays, the line being sung lights up and its syllables fill in as they are sung; the lyrics
 scroll along, and clicking a line jumps there. The timing comes from the song's `alignment.json` (made by
-`scripts/song-sheets.py`), read from `library/<id>/` or else `sheets/<id>/`. Lines the sheets mark as
+`scripts/song-sheets.py`), read from `library/<id>/` or else `sheets/<id>/`, or fetched from media.flogvit.com. Lines the sheets mark as
 uncertain light up as a whole line; songs without sheets show plain lyrics.
 
 ## Sheet music

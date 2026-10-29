@@ -55,7 +55,8 @@ struct ContentView: View {
             }
         } detail: {
             if let song = model.songs.first(where: { $0.id == (selection ?? player.current?.id) }) {
-                SongDetail(song: song, player: player) { player.play(song, queue: shown) }
+                SongDetail(song: song, timing: model.timing(for: song), player: player) { player.play(song, queue: shown) }
+                    .task(id: song.id) { await model.loadTiming(for: song) }
             } else {
                 ContentUnavailableView("Velg en sang", systemImage: "music.note.list",
                                        description: Text("Dobbeltklikk for å spille. Lista spilles i loop."))
@@ -85,6 +86,7 @@ struct SongRow: View {
 
 struct SongDetail: View {
     let song: Song
+    let timing: [LineTiming]
     let player: Player
     let play: () -> Void
 
@@ -110,7 +112,7 @@ struct SongDetail: View {
                         .buttonStyle(.link)
                 }
                 Divider()
-                SingAlong(song: song, player: player, proxy: proxy, play: play)
+                SingAlong(song: song, timing: timing, player: player, proxy: proxy, play: play)
             }
             .padding(24)
             .frame(maxWidth: 720, alignment: .leading)
@@ -134,6 +136,7 @@ struct FlowLinks: View {
 /// Lines without timing (or a song without alignment.json) are shown as plain text.
 struct SingAlong: View {
     let song: Song
+    let timing: [LineTiming]
     let player: Player
     let proxy: ScrollViewProxy
     let play: () -> Void
@@ -153,8 +156,8 @@ struct SingAlong: View {
             if !header, !line.isEmpty {
                 // Sung lines come in the order of the lyrics; skip ahead a little if one is missing.
                 let letters = LineTiming.letters(line)
-                if let k = song.timing[next...].prefix(4).firstIndex(where: { LineTiming.letters($0.text) == letters }) {
-                    timing = song.timing[k]
+                if let k = self.timing[next...].prefix(4).firstIndex(where: { LineTiming.letters($0.text) == letters }) {
+                    timing = self.timing[k]
                     next = k + 1
                 }
             }

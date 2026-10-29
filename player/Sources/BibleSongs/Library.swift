@@ -6,7 +6,8 @@ struct Reference: Hashable, Sendable {
 }
 
 struct Song: Identifiable, Hashable, Sendable {
-    let id: String          // the audio file path
+    let id: String              // where the audio is: a file path or a URL
+    let key: String             // the song's id in the catalog, the same here and on media.flogvit.com
     let title: String
     let group: String
     let styles: [String]
@@ -16,7 +17,8 @@ struct Song: Identifiable, Hashable, Sendable {
     let audio: URL
     let chordSheet: URL?
     let leadSheet: URL?
-    let timing: [LineTiming]    // sung lines in order, empty when the song has no alignment
+    let timing: [LineTiming]    // sung lines in order; empty until loaded, or when the song has no alignment
+    let alignment: URL?         // where the timing is, for songs that are not on this Mac
     let tags: [String]          // themes, stories, persons and mood, as words to search for
 
     var searchText: String {
@@ -41,93 +43,87 @@ struct LineTiming: Hashable, Sendable {
     }
 }
 
-/// Finds every finished song under the music repo: the published `library/` first, then whatever
-/// YuE2 has generated in `YuE/outputs/` that is not in the library yet.
+/// The songs to play: the published `library/` on this Mac, and the music on media.flogvit.com that is
+/// not on this Mac (songs made on another machine).
 enum Library {
-    static let libraryGroup = "Bibliotek"
+    static let localGroup = "Bibliotek"
+    static let remoteGroup = "media.flogvit.com"
+    static let remoteIndex = URL(string: "https://media.flogvit.com/music/index.json")!
 
     static func scan(root: URL) -> [Song] {
-        let fm = FileManager.default
-        var songs: [Song] = []
-        var published = Set<String>()
-
         let library = root.appending(path: "library")
-        for dir in children(of: library) {
-            guard let info = json(dir.appending(path: "info.json")) else { continue }
+        return children(of: library).compactMap { dir -> Song? in
+            guard let info = json(dir.appending(path: "info.json")) else { return nil }
             let files = info["files"] as? [String: String] ?? [:]
             let audio = dir.appending(path: files["flac"] ?? "audio.flac")
-            guard fm.fileExists(atPath: audio.path) else { continue }
-            if let source = (info["generated"] as? [String: Any])?["source"] as? String {
-                published.insert(URL(filePath: source).standardizedFileURL.path)
-            }
-            let refs = (info["references"] as? [[String: Any]] ?? []).compactMap { ref -> Reference? in
-                guard let label = ref["label"] as? String else { return nil }
-                return Reference(label: label, url: (ref["url"] as? String).flatMap(URL.init(string:)))
-            }
-            var anchor: [Reference] = []
-            if let a = info["anchor"] as? [String: Any], let label = a["label"] as? String,
-               !refs.contains(where: { $0.label == label }) {
-                anchor = [Reference(label: label, url: (a["url"] as? String).flatMap(URL.init(string:)))]
-            }
-            songs.append(Song(
-                id: audio.path,
-                title: info["title"] as? String ?? dir.lastPathComponent,
-                group: libraryGroup,
-                styles: info["style"] as? [String] ?? [],
-                styleDescription: info["styleDescription"] as? String ?? "",
-                lyrics: lyricsText(info["lyrics"]),
-                references: anchor + refs,
-                audio: audio,
-                chordSheet: files["chordSheet"].map { dir.appending(path: $0) }.flatMap(existing),
-                leadSheet: files["leadSheet"].map { dir.appending(path: $0) }.flatMap(existing),
-                timing: timing(dir.appending(path: "alignment.json"))
-                    ?? timing(root.appending(path: "sheets/\(dir.lastPathComponent)/alignment.json")) ?? [],
-                tags: tagWords(info["tags"])))
-        }
-
-        let outputs = root.appending(path: "YuE/outputs")
-        var generated: [Song] = []
-        for batch in children(of: outputs) where !batch.lastPathComponent.hasPrefix("verify") {
-            let dirs = fm.fileExists(atPath: batch.appending(path: "result.json").path) ? [batch] : children(of: batch)
-            for dir in dirs {
-                let audio = dir.appending(path: "audio.flac")
-                guard !published.contains(dir.standardizedFileURL.path),
-                      (json(dir.appending(path: "result.json"))?["status"] as? String) == "complete",
-                      fm.fileExists(atPath: audio.path) else { continue }
-                let request = json(dir.appending(path: "request.json")) ?? [:]
-                let id = dir.lastPathComponent
-                let catalog = json(root.appending(path: "catalog/\(id).json"))
-                let group = dir == batch ? "Tester" : batch.lastPathComponent
-                let sheets = root.appending(path: "sheets/\(id)")
-                generated.append(Song(
-                    id: audio.path,
-                    title: catalog?["title"] as? String ?? id,
-                    group: group,
-                    styles: (catalog?["tags"] as? [String: Any])?["style"] as? [String] ?? [],
-                    styleDescription: request["style"] as? String ?? "",
-                    lyrics: request["lyrics"] as? String ?? "",
-                    references: [],
-                    audio: audio,
-                    chordSheet: existing(sheets.appending(path: "\(id)-chords.pdf")),
-                    leadSheet: existing(sheets.appending(path: "\(id)-lead-sheet.pdf")),
-                    timing: timing(sheets.appending(path: "alignment.json"), for: dir) ?? [],
-                    tags: tagWords(catalog?["tags"])))
-            }
-        }
-        songs.sort { $0.title.localizedStandardCompare($1.title) == .orderedAscending }
-        generated.sort { ($0.group, $0.title) < ($1.group, $1.title) }
-        return songs + generated
+            guard FileManager.default.fileExists(atPath: audio.path) else { return nil }
+            let local = { (name: String?) in name.map { dir.appending(path: $0) }.flatMap(existing) }
+            return song(info, group: localGroup, audio: audio, chordSheet: local(files["chordSheet"]),
+                        leadSheet: local(files["leadSheet"]),
+                        timing: (json(dir.appending(path: "alignment.json"))
+                            ?? json(root.appending(path: "sheets/\(dir.lastPathComponent)/alignment.json"))).flatMap(timing) ?? [],
+                        alignment: nil)
+        }.sorted { $0.title.localizedStandardCompare($1.title) == .orderedAscending }
     }
 
-    /// When each sung syllable starts in the audio, from scripts/song-sheets.py. Its times are on the
-    /// score's clock; `offset_seconds` moves them onto the audio's. With `song` given, the alignment
-    /// must have been made from that output (an older take of the same id is ignored).
-    private static func timing(_ url: URL, for song: URL? = nil) -> [LineTiming]? {
-        guard let data = json(url),
-              let lines = data["lines"] as? [[String: Any]],
+    /// The songs in the published index; their files are relative to the index.
+    static func remote() async -> [Song] {
+        let index = remoteIndex
+        guard let (data, response) = try? await URLSession.shared.data(from: index),
+              (response as? HTTPURLResponse)?.statusCode == 200,
+              let parsed = (try? JSONSerialization.jsonObject(with: data)) as? [String: Any],
+              let songs = parsed["songs"] as? [[String: Any]] else { return [] }
+        return songs.compactMap { info -> Song? in
+            let files = info["files"] as? [String: String] ?? [:]
+            let at = { (path: String?) in path.flatMap { URL(string: $0, relativeTo: index)?.absoluteURL } }
+            guard let audio = at(files["mp3"]) else { return nil }
+            return song(info, group: remoteGroup, audio: audio, chordSheet: at(files["chordSheet"]),
+                        leadSheet: at(files["leadSheet"]), timing: [], alignment: at(files["alignment"]))
+        }
+    }
+
+    /// Fetches the timing of a song that is not on this Mac.
+    static func timing(from url: URL) async -> [LineTiming] {
+        guard let (data, _) = try? await URLSession.shared.data(from: url),
+              let parsed = (try? JSONSerialization.jsonObject(with: data)) as? [String: Any] else { return [] }
+        return timing(parsed) ?? []
+    }
+
+    /// A song from its info.json (in library/) or its entry in the published index: the same fields.
+    private static func song(_ info: [String: Any], group: String, audio: URL, chordSheet: URL?, leadSheet: URL?,
+                             timing: [LineTiming], alignment: URL?) -> Song {
+        let refs = (info["references"] as? [[String: Any]] ?? []).compactMap { ref -> Reference? in
+            guard let label = ref["label"] as? String else { return nil }
+            return Reference(label: label, url: (ref["url"] as? String).flatMap(URL.init(string:)))
+        }
+        var anchor: [Reference] = []
+        if let a = info["anchor"] as? [String: Any], let label = a["label"] as? String,
+           !refs.contains(where: { $0.label == label }) {
+            anchor = [Reference(label: label, url: (a["url"] as? String).flatMap(URL.init(string:)))]
+        }
+        let key = info["id"] as? String ?? audio.deletingLastPathComponent().lastPathComponent
+        return Song(
+            id: audio.isFileURL ? audio.path : audio.absoluteString,
+            key: key,
+            title: info["title"] as? String ?? key,
+            group: group,
+            styles: info["style"] as? [String] ?? [],
+            styleDescription: info["styleDescription"] as? String ?? "",
+            lyrics: lyricsText(info["lyrics"]),
+            references: anchor + refs,
+            audio: audio,
+            chordSheet: chordSheet,
+            leadSheet: leadSheet,
+            timing: timing,
+            alignment: alignment,
+            tags: tagWords(info["tags"]))
+    }
+
+    /// When each sung syllable starts in the audio, from an alignment.json (scripts/song-sheets.py). Its
+    /// times are on the score's clock; `offset_seconds` moves them onto the audio's.
+    private static func timing(_ data: [String: Any]) -> [LineTiming]? {
+        guard let lines = data["lines"] as? [[String: Any]],
               let syllables = data["syllables"] as? [[String: Any]] else { return nil }
-        if let song, let made = data["song"] as? String,
-           URL(filePath: made).standardizedFileURL.path != song.standardizedFileURL.path { return nil }
         let offset = data["offset_seconds"] as? Double ?? 0
         var queue = syllables.compactMap { s -> SyllableTiming? in
             guard let text = s["text"] as? String, let time = s["time"] as? Double else { return nil }
@@ -159,7 +155,7 @@ enum Library {
         }
     }
 
-    /// Library lyrics are `{sections: [{section, lines}]}`; YuE2 requests carry the tagged text itself.
+    /// Library lyrics are `{sections: [{section, lines}]}`; the published index has the tagged text itself.
     private static func lyricsText(_ value: Any?) -> String {
         if let text = value as? String { return text }
         let sections = (value as? [String: Any])?["sections"] as? [[String: Any]] ?? []

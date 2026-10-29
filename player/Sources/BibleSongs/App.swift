@@ -19,7 +19,7 @@ struct BibleSongsApp: App {
         .commands {
             CommandGroup(replacing: .newItem) {
                 Button("Velg musikkmappe…") { model.chooseRoot() }.keyboardShortcut("o")
-                Button("Oppdater liste") { model.refresh() }.keyboardShortcut("r")
+                Button("Oppdater liste") { model.refresh(); model.refreshRemote() }.keyboardShortcut("r")
             }
             CommandMenu("Avspilling") {
                 Button(player.isPlaying ? "Pause" : "Spill") { player.toggle() }.keyboardShortcut("p")
@@ -39,23 +39,57 @@ struct BibleSongsApp: App {
 final class AppModel {
     private(set) var songs: [Song] = []
     private(set) var root: URL
-    private var timer: Timer?
+    private(set) var timings: [String: [LineTiming]] = [:]   // fetched timing of songs not on this Mac
+    private var local: [Song] = []
+    private var remote: [Song] = []
+    private var timers: [Timer] = []
 
     init() {
         root = UserDefaults.standard.url(forKey: "root") ?? AppModel.defaultRoot()
         refresh()
-        // A running YuE2 batch keeps finishing songs; pick them up without a restart.
-        timer = Timer.scheduledTimer(withTimeInterval: 15, repeats: true) { [weak self] _ in
-            MainActor.assumeIsolated { self?.refresh() }
-        }
+        refreshRemote()
+        // New songs keep arriving in library/ while a batch runs, and on media.flogvit.com from other machines.
+        timers = [
+            Timer.scheduledTimer(withTimeInterval: 15, repeats: true) { [weak self] _ in
+                MainActor.assumeIsolated { self?.refresh() }
+            },
+            Timer.scheduledTimer(withTimeInterval: 300, repeats: true) { [weak self] _ in
+                MainActor.assumeIsolated { self?.refreshRemote() }
+            },
+        ]
     }
 
     func refresh() {
         let root = root
         Task {
-            let found = await Task.detached { Library.scan(root: root) }.value
-            if found != songs { songs = found }
+            local = await Task.detached { Library.scan(root: root) }.value
+            merge()
         }
+    }
+
+    func refreshRemote() {
+        Task {
+            remote = await Library.remote()
+            merge()
+        }
+    }
+
+    /// A song on this Mac plays from here; media.flogvit.com adds the songs that are not.
+    private func merge() {
+        let here = Set(local.map(\.key))
+        let all = local + remote.filter { !here.contains($0.key) }
+        if all != songs { songs = all }
+    }
+
+    /// The song's timing: from this Mac, or as fetched by `loadTiming`.
+    func timing(for song: Song) -> [LineTiming] {
+        song.timing.isEmpty ? timings[song.id] ?? [] : song.timing
+    }
+
+    /// Fetches the timing of a song that is not on this Mac, once.
+    func loadTiming(for song: Song) async {
+        guard song.timing.isEmpty, timings[song.id] == nil, let url = song.alignment else { return }
+        timings[song.id] = await Library.timing(from: url)
     }
 
     func chooseRoot() {

@@ -29,7 +29,7 @@ on Home Mac.
 | story-jesu-fodsel-celtic | done 2026-10-29 00:29, 3:14, sheets in sheets/ |
 | story-jesu-oppstandelse-gospel | done 2026-10-29 00:51, 2:46, sheets in sheets/ |
 | story-korsfestelsen-ballad | done 2026-10-29 01:21, 3:48, sheets in sheets/ |
-| verse-40-6-9-choral | taken |
+| verse-40-6-9-choral | done 2026-10-29 01:43, 3:01, sheets in sheets/ |
 | verse-50-4-13-pop | taken |
 | verse-45-8-28-soul | taken |
 | verse-23-40-31-worship | taken |

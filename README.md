@@ -44,16 +44,8 @@ After editing anything under `YuE/`, reinstall with
 ### Songs made with torch 2.10
 
 Everything generated before 2026-10-28 16:20 ran on torch 2.10 and has the attention error described above,
-including the audio behind the sheets in `sheets/`. Audio is not in the repo, so on a new machine generate the
-whole catalog once and rebuild the sheets from it:
-
-```bash
-bun scripts/build-batch.ts YuE/requests/catalog.jsonl
-cd YuE
-.venv/bin/yue2 batch --input requests/catalog.jsonl --output outputs/catalog --config ../configs/long-12000.json --resume
-cd ..
-taskpolicy -b .venv-sheets/bin/python scripts/song-sheets.py YuE/outputs/catalog/*/
-```
+including the audio behind the sheets in `sheets/`. `scripts/generate.ts run` (see Generate) does not count
+such songs as done and makes them again.
 
 ### Memory
 
@@ -86,13 +78,44 @@ It checks the fields above, that every anchor and reference exists in the osen t
 person and theme exists in free-bible (looked up next to this repo, or at `$FREE_BIBLE`), so each song points
 to a real page on bible.flogvit.com.
 
-### Which machine makes which song
-
-Audio is not in git, so `MACHINES.md` lists the songs each machine has taken, in the order it generates them,
-and marks them done. Before generating, pull main and skip songs another machine has taken; add your own and
-push before you start.
+`catalog/order.txt` is the order the catalog is generated in, most-known songs first. Add new songs to it where
+they belong; a catalog song missing from it comes after the listed ones.
 
 ## Generate
+
+### The whole catalog, on one or more machines
+
+```bash
+MUSIC_MACHINE="Home Mac (M1 Max, 64 GB)" bun scripts/generate.ts run              # from the top of catalog/order.txt
+MUSIC_MACHINE="M5 (MacBook Pro, M5 Max, 128 GB)" bun scripts/generate.ts run --from-end
+bun scripts/generate.ts status                                                     # every song: done, generating, stale or free
+```
+
+`run` takes the next free song, generates it with `configs/long-12000.json` under `taskpolicy -b`, makes its
+sheets and `library/<id>/`, commits the sheets and pushes them to the current branch (or `$MUSIC_SHEETS_BRANCH`),
+marks the song done and takes the next one, until no song is free. It can run from a worktree; `YuE/`,
+`.venv-sheets` and `library/` are found in the main checkout. Before it takes new songs, it finishes the songs
+already made on this machine (sheets and library if they are missing) and marks them done. Its log goes to the
+terminal, and each song's own output to `YuE/outputs/catalog/<id>-run.log`. Stop it with Ctrl-C (or `kill`):
+the song it was making is given back at once.
+
+Two machines never make the same song, also when they are on different networks and ask at the same moment.
+Each song has a lock on GitHub, the ref `refs/claims/<id>`: a chain of empty commits whose subject is the
+state (`claimed`, `alive`, `done`, `failed`, `released`), whose body names the machine, and whose date is the
+last sign of life. A machine takes a song by pushing a commit to that ref without force, built on what it saw
+there (nothing, or a lock that is released, failed or stale). GitHub updates the ref only if it is still
+unchanged, so when two machines push at once, one gets `reference already exists` or `cannot lock ref` and
+moves on to the next song. While a song generates, its machine adds an `alive` commit every minute. A lock
+with no sign of life for 20 minutes (a machine that died, slept or lost the network) is free again; if its
+machine comes back, its next `alive` push is rejected and it stops that song. A failed song is given back for
+other machines to try. The refs are outside branches and tags, so they do not show up in `main`:
+
+```bash
+git ls-remote origin 'refs/claims/*'
+git fetch origin '+refs/claims/*:refs/claims/*' && git log --format='%ci %s (%b)' refs/claims/<id>
+```
+
+### Single songs or your own batch
 
 ```bash
 bun scripts/build-batch.ts YuE/requests/<batch>.jsonl [song-id ...]
@@ -163,12 +186,14 @@ the first run.
 
 ## Library
 
-`library/<id>/` holds everything about one finished song in one place: the audio, both sheets and an
-`info.json` with the song's text, tags, links and how it was made. It sits next to `YuE/` and is not in git.
+`library/<id>/` holds everything about one finished song in one place: the audio, both sheets, the
+syllable timing (`alignment.json`, which the Bibelsanger app uses to light up the words as they are sung)
+and an `info.json` with the song's text, tags, links and how it was made. It sits next to `YuE/` and is not in git.
 
 ### Build it
 
-After a song's sheets are made, run on the machine that generated it:
+`scripts/generate.ts run` does this for each song it makes. By hand, after a song's sheets are made, run on
+the machine that generated it:
 
 ```bash
 MUSIC_MACHINE="Home Mac (M1 Max, 64 GB)" python3 scripts/build-library.py YuE/outputs/<batch>/<id> [...]

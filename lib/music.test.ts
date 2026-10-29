@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { buildIndex, lineTimes, overlaps, parseVerse, search, type Song } from "./music";
+import { buildIndex, lineTimes, mergeSources, overlaps, parseVerse, search, type Song } from "./music";
 
 const song = (id: string, over: Partial<Song>): Song => ({
   id, collection: "bible", title: id, references: [], style: [], tags: {}, files: { mp3: `bible/${id}/audio.mp3`, info: "" },
@@ -28,6 +28,18 @@ describe("index", () => {
     expect(index.books["46"]).toEqual({ name: "1 Corinthians", short: "1kor" });
   });
   test("lists every collection", () => expect(index.collections).toEqual(["bible", "other"]));
+});
+
+describe("mergeSources", () => {
+  test("keeps every publisher's songs, machines before legacy, the same whatever the order", () => {
+    const a = { name: "m5", songs: [song("x", { title: "x from m5" }), song("m5-only", {})] };
+    const b = { name: "home-mac", songs: [song("x", { title: "x from home-mac" }), song("home-only", {})] };
+    const legacy = { name: "legacy", songs: [song("x", { title: "old x" }), song("old-only", {})] };
+    const merged = mergeSources([legacy, a, b]);
+    expect(merged.map((s) => s.id)).toEqual(["home-only", "m5-only", "old-only", "x"]);
+    expect(merged.find((s) => s.id === "x")!.title).toBe("x from home-mac");
+    expect(mergeSources([b, legacy, a])).toEqual(merged);
+  });
 });
 
 describe("parseVerse", () => {

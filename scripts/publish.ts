@@ -16,9 +16,10 @@
 import { S3Client } from "bun";
 import { createHash } from "node:crypto";
 import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync, existsSync } from "node:fs";
+import { hostname } from "node:os";
 import { dirname, join } from "node:path";
 import { parseArgs } from "node:util";
-import { buildIndex, type Song } from "../lib/music";
+import { buildIndex, LEGACY_SOURCE, mergeSources, type MusicIndex, type Song, type Source } from "../lib/music";
 
 const { values: opt } = parseArgs({
   options: {
@@ -47,6 +48,8 @@ interface Sink {
   /** When the file was last written (ISO 8601), or null when it is not there. */
   modified(key: string): Promise<string | null>;
   collections(): Promise<string[]>;
+  /** The files directly under a folder, with a tag that changes whenever a file's content does. */
+  list(folder: string): Promise<{ name: string; tag: string }[]>;
 }
 
 const md5 = (b: Uint8Array) => createHash("md5").update(b).digest("hex");
@@ -85,6 +88,10 @@ function s3Sink(): Sink {
       const list = await client.list({ prefix, delimiter: "/" });
       return (list.commonPrefixes ?? []).map((p) => p.prefix.slice(prefix.length).replace(/\/$/, ""));
     },
+    async list(folder) {
+      const list = await client.list({ prefix: `${prefix}${folder}/`, delimiter: "/" });
+      return (list.contents ?? []).map((c) => ({ name: c.key.slice(prefix.length + folder.length + 1), tag: String(c.eTag ?? c.lastModified) }));
+    },
   };
 }
 
@@ -110,6 +117,12 @@ function dirSink(root: string): Sink {
     async collections() {
       return existsSync(root) ? readdirSync(root, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name) : [];
     },
+    async list(folder) {
+      const path = join(root, folder);
+      if (!existsSync(path)) return [];
+      return readdirSync(path, { withFileTypes: true }).filter((d) => d.isFile())
+        .map((d) => ({ name: d.name, tag: md5(readFileSync(join(path, d.name))) }));
+    },
   };
 }
 
@@ -119,20 +132,32 @@ const songs: Song[] = [];
 let written = 0;
 const now = new Date().toISOString();
 
-// What the collection already has, published from here or from other machines.
-const published: Song[] = JSON.parse((await sink.read(`${collection}/songs.json`)) ?? "[]");
-const before = new Map(published.map((s) => [s.id, s]));
-// A song keeps the date it first came out. One published before songs had dates gets the time its MP3
-// landed, read before this run can write the MP3 again.
-const firstOut = async (s: Pick<Song, "id" | "collection">) =>
-  before.get(s.id)?.published ?? (await sink.modified(`${s.collection}/${s.id}/audio.mp3`)) ?? now;
+/**
+ * When each song of a collection first came out, from its published songs.json. A song keeps that date
+ * whoever publishes it again; one without a date (published before there were dates) gets the time its MP3
+ * landed, read before this run can write the MP3 again; a new song gets now.
+ */
+const firstOut = new Map<string, Map<string, string>>();
+async function datesOf(name: string) {
+  if (!firstOut.has(name)) {
+    const list: Song[] = JSON.parse((await sink.read(`${name}/songs.json`)) ?? "[]");
+    firstOut.set(name, new Map(list.filter((s) => s.published).map((s) => [s.id, s.published!])));
+  }
+  return firstOut.get(name)!;
+}
+async function dated(song: Song): Promise<Song> {
+  const dates = await datesOf(song.collection);
+  const published = song.published ?? dates.get(song.id) ?? (await sink.modified(song.files.mp3)) ?? now;
+  dates.set(song.id, published);
+  return { ...song, published };
+}
 
 for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name).sort()) {
   const folder = join(opt.library!, dir);
   if (!existsSync(join(folder, "info.json")) || !existsSync(join(folder, "audio.mp3"))) continue;
   const info = JSON.parse(readFileSync(join(folder, "info.json"), "utf8"));
   const base = `${collection}/${info.id}`;
-  const out = await firstOut({ id: info.id, collection });
+  const { published } = await dated({ id: info.id, collection, files: { mp3: `${base}/audio.mp3` } } as Song);
   const files = { info: `${base}/info.json` } as Song["files"];
   for (const [name, field, type] of PUBLIC) {
     if (!existsSync(join(folder, name))) continue;
@@ -157,28 +182,61 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
     id: info.id, collection, title: info.title, kind: info.kind, anchor: info.anchor, references: info.references ?? [],
     style: info.style ?? [], styleDescription: info.styleDescription, tags: info.tags ?? {},
     lyrics: info.lyrics?.text, lyricsMode: info.lyricsMode, textSource: info.textSource, textCredit: info.textCredit,
-    music: info.music, published: out, files,
+    music: info.music, published, files,
   });
 }
 
-// Several machines publish into the same collection, each with only its own songs in library/: keep the
-// songs already published from elsewhere, and let this machine's copy win for the songs it has.
-const local = new Set(songs.map((s) => s.id));
-const others = await Promise.all(published.filter((s) => !local.has(s.id)).map(async (s) => ({ ...s, published: await firstOut(s) })));
-const merged = [...others, ...songs].sort((a, b) => a.id.localeCompare(b.id));
-if (await sink.put(`${collection}/songs.json`, json(merged), "application/json")) written++;
-
-// The index covers every collection on the host, not just this one.
-const all: Record<string, Song[]> = { [collection]: merged };
-for (const name of await sink.collections()) {
-  if (name === collection) continue;
-  const text = await sink.read(`${name}/songs.json`);
-  if (text) all[name] = JSON.parse(text);
+// Several machines publish into the same collection, each with only its own songs in library/. Each one
+// writes only its own list, <collection>/sources/<machine>.json, so no machine can drop another's songs;
+// songs.json and index.json are rebuilt from all the lists. Songs published before there were lists are
+// kept once as the legacy list.
+const machine = (process.env.MUSIC_MACHINE ?? hostname()).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const sources = `${collection}/sources`;
+if (!(await sink.list(sources)).length && !opt["dry-run"]) {
+  const before = await sink.read(`${collection}/songs.json`);
+  if (before) await sink.put(`${sources}/${LEGACY_SOURCE}.json`, json(JSON.parse(before)), "application/json");
 }
-const index = buildIndex(all);
-const previous = await sink.read("index.json");
-const unchanged = previous && JSON.stringify({ ...JSON.parse(previous), generated: "" }) === JSON.stringify({ ...index, generated: "" });
-if (!unchanged && await sink.put("index.json", json(index), "application/json")) written++;
+if (await sink.put(`${sources}/${machine}.json`, json(songs), "application/json")) written++;
 
-console.log(`${opt["dry-run"] ? "would write" : "wrote"} ${written} files; ${songs.length} songs from here, ` +
-  `${merged.length} in ${collection}, ${index.songs.length} in the index (${index.collections.join(", ")})`);
+/** Reads every machine's list of every collection, with the tags of the lists it read. */
+async function readAll() {
+  const all: Record<string, Song[]> = {};
+  const tags: string[] = [];
+  for (const name of new Set([collection, ...(await sink.collections())])) {
+    const lists = (await sink.list(`${name}/sources`)).filter((f) => f.name.endsWith(".json"));
+    if (!lists.length) {
+      const text = await sink.read(`${name}/songs.json`); // a collection published before there were lists
+      if (text) all[name] = JSON.parse(text);
+      continue;
+    }
+    const read: Source[] = [];
+    for (const f of lists) {
+      const text = await sink.read(`${name}/sources/${f.name}`);
+      if (text) read.push({ name: f.name.replace(/\.json$/, ""), songs: JSON.parse(text) });
+      tags.push(`${name}/${f.name}:${f.tag}`);
+    }
+    if (opt["dry-run"] && name === collection) read.push({ name: machine, songs }); // what this run would write
+    all[name] = await Promise.all(mergeSources(read).map(dated));
+  }
+  return { all, tags: tags.sort().join("\n") };
+}
+
+// Another machine may write its list between our read and our write of the index. So after writing, check
+// whether any list changed since we read it, and rebuild if so: the last writer then always saw every list.
+let index: MusicIndex;
+for (let attempt = 1; ; attempt++) {
+  const { all, tags } = await readAll();
+  for (const [name, list] of Object.entries(all)) {
+    if (await sink.put(`${name}/songs.json`, json(list), "application/json")) written++;
+  }
+  index = buildIndex(all);
+  const previous = await sink.read("index.json");
+  const unchanged = previous && JSON.stringify({ ...JSON.parse(previous), generated: "" }) === JSON.stringify({ ...index, generated: "" });
+  if (!unchanged && await sink.put("index.json", json(index), "application/json")) written++;
+  if (opt["dry-run"] || (await readAll()).tags === tags) break;
+  if (attempt === 5) throw new Error("the song lists kept changing while publishing; run again");
+}
+
+const inCollection = index.songs.filter((s) => s.collection === collection).length;
+console.log(`${opt["dry-run"] ? "would write" : "wrote"} ${written} files; ${songs.length} songs from here (${machine}), ` +
+  `${inCollection} in ${collection}, ${index.songs.length} in the index (${index.collections.join(", ")})`);

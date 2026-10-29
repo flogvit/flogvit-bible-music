@@ -1,0 +1,1316 @@
+{
+ "id": "story-fristelsen-i-orkenen-rock",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-fristelsen-i-orkenen-rock",
+ "offset_seconds": -0.9600000000002353,
+ "words_heard": 137,
+ "words": 157,
+ "lines": [
+  {
+   "text": "Forty days in the wilderness, forty nights alone",
+   "heard": 6,
+   "words": 8,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sun like a hammer and sand like a bone",
+   "heard": 9,
+   "words": 9,
+   "error_s": 36.3,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Then a voice came out of the heat haze, smooth as oil",
+   "heard": 12,
+   "words": 12,
+   "error_s": 27.54,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "If you are the Son of God, tell these stones to become bread",
+   "heard": 13,
+   "words": 13,
+   "error_s": 29.16,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is written",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Man shall not live by bread alone",
+   "heard": 0,
+   "words": 7,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But by every word that comes from the mouth of God",
+   "heard": 3,
+   "words": 11,
+   "error_s": 47.56,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is written",
+   "heard": 0,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Up on the temple's edge, the city far below",
+   "heard": 9,
+   "words": 9,
+   "error_s": 59.49,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Throw yourself down, the angels will catch you, you know",
+   "heard": 10,
+   "words": 10,
+   "error_s": 66.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Up on the mountain, all the kingdoms shining bright",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "All of this is yours if you bow down tonight",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It is written",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Man shall not live by bread alone",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But by every word that comes from the mouth of God",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.89,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "It is written",
+   "heard": 3,
+   "words": 3,
+   "error_s": 5.81,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Away with you, Satan",
+   "heard": 4,
+   "words": 4,
+   "error_s": 25.19,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "You shall worship the Lord your God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 41.64,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And him alone shall you serve",
+   "heard": 6,
+   "words": 6,
+   "error_s": 43.28,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Then the devil left him, and behold, angels came",
+   "heard": 9,
+   "words": 9,
+   "error_s": 42.06,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "It is written",
+   "heard": 3,
+   "words": 3,
+   "error_s": 19.79,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "For",
+   "time": 3.78,
+   "weight": 0.0,
+   "note_time": 33.87
+  },
+  {
+   "text": "ty",
+   "time": 4.18,
+   "weight": 0.0,
+   "note_time": 34.03
+  },
+  {
+   "text": "days",
+   "time": 4.58,
+   "weight": 0.0,
+   "note_time": 34.19
+  },
+  {
+   "text": "in",
+   "time": 4.98,
+   "weight": 0.15,
+   "note_time": 34.52
+  },
+  {
+   "text": "the",
+   "time": 5.4,
+   "weight": 0.17,
+   "note_time": 34.68
+  },
+  {
+   "text": "wil",
+   "time": 5.4,
+   "weight": 0.15,
+   "note_time": 34.84
+  },
+  {
+   "text": "der",
+   "time": 5.4,
+   "weight": 0.15,
+   "note_time": 35.16
+  },
+  {
+   "text": "ness,",
+   "time": 5.4,
+   "weight": 0.15,
+   "note_time": 35.32
+  },
+  {
+   "text": "for",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 36.45
+  },
+  {
+   "text": "ty",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 36.61
+  },
+  {
+   "text": "nights",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 36.77
+  },
+  {
+   "text": "a",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 37.1
+  },
+  {
+   "text": "lone",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 37.26
+  },
+  {
+   "text": "Sun",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 39.03
+  },
+  {
+   "text": "like",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 39.35
+  },
+  {
+   "text": "a",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 39.68
+  },
+  {
+   "text": "ham",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 39.84
+  },
+  {
+   "text": "mer",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 40.32
+  },
+  {
+   "text": "and",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 40.97
+  },
+  {
+   "text": "sand",
+   "time": 5.64,
+   "weight": 0.15,
+   "note_time": 41.29
+  },
+  {
+   "text": "like",
+   "time": 5.64,
+   "weight": 0.58,
+   "note_time": 41.94
+  },
+  {
+   "text": "a",
+   "time": 5.64,
+   "weight": 0.32,
+   "note_time": 42.1
+  },
+  {
+   "text": "bone",
+   "time": 7.7,
+   "weight": 0.06,
+   "note_time": 42.26
+  },
+  {
+   "text": "Then",
+   "time": 12.84,
+   "weight": 0.15,
+   "note_time": 44.19
+  },
+  {
+   "text": "a",
+   "time": 13.02,
+   "weight": 0.15,
+   "note_time": 44.35
+  },
+  {
+   "text": "voice",
+   "time": 14.26,
+   "weight": 0.15,
+   "note_time": 44.52
+  },
+  {
+   "text": "came",
+   "time": 15.62,
+   "weight": 0.15,
+   "note_time": 44.84
+  },
+  {
+   "text": "out",
+   "time": 16.06,
+   "weight": 0.17,
+   "note_time": 45.16
+  },
+  {
+   "text": "of",
+   "time": 16.56,
+   "weight": 0.3,
+   "note_time": 45.48
+  },
+  {
+   "text": "the",
+   "time": 16.58,
+   "weight": 0.44,
+   "note_time": 45.65
+  },
+  {
+   "text": "heat",
+   "time": 16.58,
+   "weight": 0.15,
+   "note_time": 45.81
+  },
+  {
+   "text": "haze,",
+   "time": 16.58,
+   "weight": 0.15,
+   "note_time": 46.13
+  },
+  {
+   "text": "smooth",
+   "time": 17.44,
+   "weight": 0.06,
+   "note_time": 47.1
+  },
+  {
+   "text": "as",
+   "time": 19.88,
+   "weight": 0.56,
+   "note_time": 47.42
+  },
+  {
+   "text": "oil",
+   "time": 19.92,
+   "weight": 0.15,
+   "note_time": 47.58
+  },
+  {
+   "text": "If",
+   "time": 20.56,
+   "weight": 0.15,
+   "note_time": 48.87
+  },
+  {
+   "text": "you",
+   "time": 20.74,
+   "weight": 0.3,
+   "note_time": 49.03
+  },
+  {
+   "text": "are",
+   "time": 20.76,
+   "weight": 0.15,
+   "note_time": 49.19
+  },
+  {
+   "text": "the",
+   "time": 20.76,
+   "weight": 0.15,
+   "note_time": 49.52
+  },
+  {
+   "text": "Son",
+   "time": 20.84,
+   "weight": 0.15,
+   "note_time": 49.68
+  },
+  {
+   "text": "of",
+   "time": 20.84,
+   "weight": 0.77,
+   "note_time": 49.84
+  },
+  {
+   "text": "God,",
+   "time": 20.84,
+   "weight": 0.67,
+   "note_time": 50.16
+  },
+  {
+   "text": "tell",
+   "time": 21.18,
+   "weight": 0.15,
+   "note_time": 50.97
+  },
+  {
+   "text": "these",
+   "time": 21.2,
+   "weight": 0.15,
+   "note_time": 51.29
+  },
+  {
+   "text": "stones",
+   "time": 21.4,
+   "weight": 0.15,
+   "note_time": 51.61
+  },
+  {
+   "text": "to",
+   "time": 21.42,
+   "weight": 0.17,
+   "note_time": 52.1
+  },
+  {
+   "text": "be",
+   "time": 21.44,
+   "weight": 0.15,
+   "note_time": 52.26
+  },
+  {
+   "text": "come",
+   "time": 21.48,
+   "weight": 0.15,
+   "note_time": 52.42
+  },
+  {
+   "text": "bread",
+   "time": 21.52,
+   "weight": 0.15,
+   "note_time": 52.9
+  },
+  {
+   "text": "It",
+   "time": 21.52,
+   "weight": 0.15,
+   "note_time": 53.55
+  },
+  {
+   "text": "is",
+   "time": 21.52,
+   "weight": 0.37,
+   "note_time": 53.71
+  },
+  {
+   "text": "writ",
+   "time": 21.52,
+   "weight": 0.15,
+   "note_time": 54.19
+  },
+  {
+   "text": "ten",
+   "time": 21.52,
+   "weight": 0.15,
+   "note_time": 54.52
+  },
+  {
+   "text": "Man",
+   "time": 21.51,
+   "weight": 0.0,
+   "note_time": 58.06
+  },
+  {
+   "text": "shall",
+   "time": 21.51,
+   "weight": 0.0,
+   "note_time": 58.71
+  },
+  {
+   "text": "not",
+   "time": 21.5,
+   "weight": 0.0,
+   "note_time": 59.03
+  },
+  {
+   "text": "live",
+   "time": 21.5,
+   "weight": 0.0,
+   "note_time": 59.35
+  },
+  {
+   "text": "by",
+   "time": 21.49,
+   "weight": 0.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "bread",
+   "time": 21.48,
+   "weight": 0.0,
+   "note_time": 60.65
+  },
+  {
+   "text": "a",
+   "time": 21.48,
+   "weight": 0.0,
+   "note_time": 61.29
+  },
+  {
+   "text": "lone",
+   "time": 21.47,
+   "weight": 0.0,
+   "note_time": 61.61
+  },
+  {
+   "text": "But",
+   "time": 21.46,
+   "weight": 0.0,
+   "note_time": 64.03
+  },
+  {
+   "text": "by",
+   "time": 21.46,
+   "weight": 0.0,
+   "note_time": 64.19
+  },
+  {
+   "text": "ev",
+   "time": 21.45,
+   "weight": 0.0,
+   "note_time": 64.52
+  },
+  {
+   "text": "ery",
+   "time": 21.45,
+   "weight": 0.0,
+   "note_time": 65.16
+  },
+  {
+   "text": "word",
+   "time": 21.44,
+   "weight": 0.15,
+   "note_time": 65.81
+  },
+  {
+   "text": "that",
+   "time": 21.46,
+   "weight": 0.0,
+   "note_time": 66.45
+  },
+  {
+   "text": "comes",
+   "time": 21.47,
+   "weight": 0.0,
+   "note_time": 66.77
+  },
+  {
+   "text": "from",
+   "time": 21.49,
+   "weight": 0.0,
+   "note_time": 67.74
+  },
+  {
+   "text": "the",
+   "time": 21.51,
+   "weight": 0.0,
+   "note_time": 68.06
+  },
+  {
+   "text": "mouth",
+   "time": 21.52,
+   "weight": 0.0,
+   "note_time": 68.39
+  },
+  {
+   "text": "of",
+   "time": 21.54,
+   "weight": 0.62,
+   "note_time": 69.03
+  },
+  {
+   "text": "God",
+   "time": 21.72,
+   "weight": 0.66,
+   "note_time": 69.35
+  },
+  {
+   "text": "It",
+   "time": 21.68,
+   "weight": 0.0,
+   "note_time": 74.19
+  },
+  {
+   "text": "is",
+   "time": 21.64,
+   "weight": 0.0,
+   "note_time": 74.35
+  },
+  {
+   "text": "writ",
+   "time": 21.6,
+   "weight": 0.0,
+   "note_time": 74.84
+  },
+  {
+   "text": "ten",
+   "time": 21.56,
+   "weight": 0.0,
+   "note_time": 75.16
+  },
+  {
+   "text": "Up",
+   "time": 21.52,
+   "weight": 0.15,
+   "note_time": 80.32
+  },
+  {
+   "text": "on",
+   "time": 21.62,
+   "weight": 0.15,
+   "note_time": 80.65
+  },
+  {
+   "text": "the",
+   "time": 21.64,
+   "weight": 0.76,
+   "note_time": 81.13
+  },
+  {
+   "text": "tem",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 81.29
+  },
+  {
+   "text": "ple's",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 81.61
+  },
+  {
+   "text": "edge,",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 81.77
+  },
+  {
+   "text": "the",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 82.42
+  },
+  {
+   "text": "c",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 82.58
+  },
+  {
+   "text": "ity",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 82.74
+  },
+  {
+   "text": "far",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 83.06
+  },
+  {
+   "text": "be",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 83.55
+  },
+  {
+   "text": "low",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 83.71
+  },
+  {
+   "text": "Throw",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 85.48
+  },
+  {
+   "text": "your",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 85.81
+  },
+  {
+   "text": "self",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 85.97
+  },
+  {
+   "text": "down,",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 86.45
+  },
+  {
+   "text": "the",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 86.94
+  },
+  {
+   "text": "an",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 87.1
+  },
+  {
+   "text": "gels",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 87.42
+  },
+  {
+   "text": "will",
+   "time": 21.64,
+   "weight": 0.19,
+   "note_time": 87.58
+  },
+  {
+   "text": "catch",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 87.74
+  },
+  {
+   "text": "you,",
+   "time": 21.64,
+   "weight": 0.87,
+   "note_time": 88.23
+  },
+  {
+   "text": "you",
+   "time": 21.64,
+   "weight": 0.15,
+   "note_time": 88.71
+  },
+  {
+   "text": "know",
+   "time": 21.78,
+   "weight": 0.15,
+   "note_time": 89.03
+  },
+  {
+   "text": "Up",
+   "time": 23.84,
+   "weight": 0.15,
+   "note_time": 90.65
+  },
+  {
+   "text": "on",
+   "time": 24.24,
+   "weight": 0.56,
+   "note_time": 90.97
+  },
+  {
+   "text": "the",
+   "time": 24.64,
+   "weight": 0.98,
+   "note_time": 91.45
+  },
+  {
+   "text": "moun",
+   "time": 92.6,
+   "weight": 1.0,
+   "note_time": 91.61
+  },
+  {
+   "text": "tain,",
+   "time": 92.82,
+   "weight": 1.0,
+   "note_time": 91.94
+  },
+  {
+   "text": "all",
+   "time": 93.16,
+   "weight": 1.0,
+   "note_time": 92.26
+  },
+  {
+   "text": "the",
+   "time": 93.5,
+   "weight": 1.0,
+   "note_time": 92.58
+  },
+  {
+   "text": "kin",
+   "time": 93.72,
+   "weight": 0.67,
+   "note_time": 92.74
+  },
+  {
+   "text": "gdoms",
+   "time": 94.02,
+   "weight": 0.67,
+   "note_time": 93.23
+  },
+  {
+   "text": "shin",
+   "time": 94.32,
+   "weight": 0.85,
+   "note_time": 93.55
+  },
+  {
+   "text": "ing",
+   "time": 94.51,
+   "weight": 0.85,
+   "note_time": 93.87
+  },
+  {
+   "text": "bright",
+   "time": 94.7,
+   "weight": 1.0,
+   "note_time": 94.19
+  },
+  {
+   "text": "All",
+   "time": 95.4,
+   "weight": 0.17,
+   "note_time": 95.81
+  },
+  {
+   "text": "of",
+   "time": 96.92,
+   "weight": 0.91,
+   "note_time": 95.97
+  },
+  {
+   "text": "this",
+   "time": 97.18,
+   "weight": 0.99,
+   "note_time": 96.13
+  },
+  {
+   "text": "is",
+   "time": 97.36,
+   "weight": 1.0,
+   "note_time": 96.29
+  },
+  {
+   "text": "yours",
+   "time": 97.6,
+   "weight": 0.43,
+   "note_time": 96.61
+  },
+  {
+   "text": "if",
+   "time": 97.9,
+   "weight": 0.79,
+   "note_time": 97.42
+  },
+  {
+   "text": "you",
+   "time": 98.6,
+   "weight": 0.81,
+   "note_time": 97.74
+  },
+  {
+   "text": "bow",
+   "time": 98.88,
+   "weight": 0.93,
+   "note_time": 98.06
+  },
+  {
+   "text": "down",
+   "time": 99.3,
+   "weight": 1.0,
+   "note_time": 98.71
+  },
+  {
+   "text": "to",
+   "time": 99.84,
+   "weight": 0.98,
+   "note_time": 99.19
+  },
+  {
+   "text": "night",
+   "time": 100.17,
+   "weight": 0.98,
+   "note_time": 99.35
+  },
+  {
+   "text": "It",
+   "time": 100.5,
+   "weight": 0.65,
+   "note_time": 100.0
+  },
+  {
+   "text": "is",
+   "time": 101.2,
+   "weight": 0.99,
+   "note_time": 100.16
+  },
+  {
+   "text": "writ",
+   "time": 101.54,
+   "weight": 0.98,
+   "note_time": 100.65
+  },
+  {
+   "text": "ten",
+   "time": 101.74,
+   "weight": 0.98,
+   "note_time": 100.97
+  },
+  {
+   "text": "Man",
+   "time": 104.56,
+   "weight": 0.76,
+   "note_time": 104.52
+  },
+  {
+   "text": "shall",
+   "time": 105.62,
+   "weight": 1.0,
+   "note_time": 105.16
+  },
+  {
+   "text": "not",
+   "time": 106.26,
+   "weight": 1.0,
+   "note_time": 105.48
+  },
+  {
+   "text": "live",
+   "time": 106.66,
+   "weight": 1.0,
+   "note_time": 105.81
+  },
+  {
+   "text": "by",
+   "time": 107.06,
+   "weight": 0.99,
+   "note_time": 106.45
+  },
+  {
+   "text": "bread",
+   "time": 107.78,
+   "weight": 1.0,
+   "note_time": 107.1
+  },
+  {
+   "text": "a",
+   "time": 108.36,
+   "weight": 1.0,
+   "note_time": 107.74
+  },
+  {
+   "text": "lone",
+   "time": 108.71,
+   "weight": 1.0,
+   "note_time": 108.06
+  },
+  {
+   "text": "But",
+   "time": 110.48,
+   "weight": 0.88,
+   "note_time": 110.48
+  },
+  {
+   "text": "by",
+   "time": 111.54,
+   "weight": 1.0,
+   "note_time": 110.65
+  },
+  {
+   "text": "ev",
+   "time": 111.86,
+   "weight": 0.99,
+   "note_time": 110.97
+  },
+  {
+   "text": "ery",
+   "time": 112.18,
+   "weight": 0.99,
+   "note_time": 111.61
+  },
+  {
+   "text": "word",
+   "time": 112.5,
+   "weight": 0.94,
+   "note_time": 112.26
+  },
+  {
+   "text": "that",
+   "time": 113.54,
+   "weight": 0.99,
+   "note_time": 112.9
+  },
+  {
+   "text": "comes",
+   "time": 114.08,
+   "weight": 1.0,
+   "note_time": 113.23
+  },
+  {
+   "text": "from",
+   "time": 114.56,
+   "weight": 0.96,
+   "note_time": 113.55
+  },
+  {
+   "text": "the",
+   "time": 115.32,
+   "weight": 1.0,
+   "note_time": 114.19
+  },
+  {
+   "text": "mouth",
+   "time": 115.66,
+   "weight": 0.99,
+   "note_time": 114.52
+  },
+  {
+   "text": "of",
+   "time": 116.22,
+   "weight": 1.0,
+   "note_time": 114.84
+  },
+  {
+   "text": "God",
+   "time": 116.74,
+   "weight": 1.0,
+   "note_time": 115.48
+  },
+  {
+   "text": "It",
+   "time": 120.78,
+   "weight": 0.98,
+   "note_time": 115.81
+  },
+  {
+   "text": "is",
+   "time": 121.84,
+   "weight": 1.0,
+   "note_time": 116.13
+  },
+  {
+   "text": "writ",
+   "time": 122.2,
+   "weight": 1.0,
+   "note_time": 116.29
+  },
+  {
+   "text": "ten",
+   "time": 122.46,
+   "weight": 1.0,
+   "note_time": 116.45
+  },
+  {
+   "text": "A",
+   "time": 132.2,
+   "weight": 0.15,
+   "note_time": 120.65
+  },
+  {
+   "text": "way",
+   "time": 132.53,
+   "weight": 0.15,
+   "note_time": 120.81
+  },
+  {
+   "text": "with",
+   "time": 132.86,
+   "weight": 0.98,
+   "note_time": 121.29
+  },
+  {
+   "text": "you,",
+   "time": 133.18,
+   "weight": 0.94,
+   "note_time": 121.61
+  },
+  {
+   "text": "Sa",
+   "time": 133.34,
+   "weight": 0.61,
+   "note_time": 172.26
+  },
+  {
+   "text": "tan",
+   "time": 133.61,
+   "weight": 0.61,
+   "note_time": 172.42
+  },
+  {
+   "text": "You",
+   "time": 133.88,
+   "weight": 0.31,
+   "note_time": 172.9
+  },
+  {
+   "text": "shall",
+   "time": 135.44,
+   "weight": 0.99,
+   "note_time": 173.23
+  },
+  {
+   "text": "wor",
+   "time": 135.68,
+   "weight": 1.0,
+   "note_time": 176.77
+  },
+  {
+   "text": "ship",
+   "time": 135.89,
+   "weight": 1.0,
+   "note_time": 177.42
+  },
+  {
+   "text": "the",
+   "time": 136.1,
+   "weight": 0.99,
+   "note_time": 177.74
+  },
+  {
+   "text": "Lord",
+   "time": 136.4,
+   "weight": 0.71,
+   "note_time": 178.06
+  },
+  {
+   "text": "your",
+   "time": 136.7,
+   "weight": 0.97,
+   "note_time": 178.71
+  },
+  {
+   "text": "God",
+   "time": 137.02,
+   "weight": 0.87,
+   "note_time": 179.35
+  },
+  {
+   "text": "And",
+   "time": 137.38,
+   "weight": 0.34,
+   "note_time": 180.0
+  },
+  {
+   "text": "him",
+   "time": 139.06,
+   "weight": 0.98,
+   "note_time": 180.32
+  },
+  {
+   "text": "a",
+   "time": 139.26,
+   "weight": 1.0,
+   "note_time": 180.65
+  },
+  {
+   "text": "lone",
+   "time": 139.4,
+   "weight": 1.0,
+   "note_time": 182.74
+  },
+  {
+   "text": "shall",
+   "time": 139.54,
+   "weight": 1.0,
+   "note_time": 182.9
+  },
+  {
+   "text": "you",
+   "time": 140.0,
+   "weight": 0.98,
+   "note_time": 183.23
+  },
+  {
+   "text": "serve",
+   "time": 140.26,
+   "weight": 1.0,
+   "note_time": 183.87
+  },
+  {
+   "text": "Then",
+   "time": 142.58,
+   "weight": 0.86,
+   "note_time": 184.52
+  },
+  {
+   "text": "the",
+   "time": 143.24,
+   "weight": 1.0,
+   "note_time": 185.16
+  },
+  {
+   "text": "dev",
+   "time": 143.4,
+   "weight": 1.0,
+   "note_time": 185.48
+  },
+  {
+   "text": "il",
+   "time": 143.57,
+   "weight": 1.0,
+   "note_time": 185.81
+  },
+  {
+   "text": "left",
+   "time": 143.74,
+   "weight": 1.0,
+   "note_time": 186.45
+  },
+  {
+   "text": "him,",
+   "time": 144.02,
+   "weight": 1.0,
+   "note_time": 186.77
+  },
+  {
+   "text": "and",
+   "time": 144.3,
+   "weight": 0.39,
+   "note_time": 187.1
+  },
+  {
+   "text": "be",
+   "time": 145.86,
+   "weight": 0.99,
+   "note_time": 187.74
+  },
+  {
+   "text": "hold,",
+   "time": 146.0,
+   "weight": 0.99,
+   "note_time": 188.06
+  },
+  {
+   "text": "an",
+   "time": 146.14,
+   "weight": 0.96,
+   "note_time": 188.39
+  },
+  {
+   "text": "gels",
+   "time": 146.49,
+   "weight": 0.96,
+   "note_time": 188.55
+  },
+  {
+   "text": "came",
+   "time": 147.16,
+   "weight": 0.99,
+   "note_time": 188.71
+  },
+  {
+   "text": "It",
+   "time": 172.02,
+   "weight": 0.78,
+   "note_time": 192.9
+  },
+  {
+   "text": "is",
+   "time": 173.26,
+   "weight": 0.97,
+   "note_time": 193.06
+  },
+  {
+   "text": "writ",
+   "time": 173.84,
+   "weight": 0.99,
+   "note_time": 193.55
+  },
+  {
+   "text": "ten",
+   "time": 174.09,
+   "weight": 0.99,
+   "note_time": 193.87
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "5 of 21 lyric lines sit clearly on their notes; 16 are uncertain and printed in grey italics."
+}

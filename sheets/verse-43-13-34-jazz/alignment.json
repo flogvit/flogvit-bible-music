@@ -1,0 +1,1448 @@
+{
+ "id": "verse-43-13-34-jazz",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-13-34-jazz",
+ "offset_seconds": -11.720000000000006,
+ "words_heard": 169,
+ "words": 175,
+ "lines": [
+  {
+   "text": "The supper on the table and the lamps were burning low",
+   "heard": 11,
+   "words": 11,
+   "error_s": 8.14,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He knelt down with a basin, it was time for him to go",
+   "heard": 13,
+   "words": 13,
+   "error_s": 8.25,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He washed the dust from every foot, the doubter and the proud",
+   "heard": 12,
+   "words": 12,
+   "error_s": 8.38,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And then he spoke so gently, though his heart was crying loud",
+   "heard": 12,
+   "words": 12,
+   "error_s": 9.57,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A new commandment I give you: love one another",
+   "heard": 9,
+   "words": 9,
+   "error_s": 11.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As I have loved you, so you must love one another",
+   "heard": 11,
+   "words": 11,
+   "error_s": 10.71,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "By this everyone will know that you are my disciples",
+   "heard": 10,
+   "words": 10,
+   "error_s": 10.83,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "If you have love for one another",
+   "heard": 7,
+   "words": 7,
+   "error_s": 12.52,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Not just the easy neighbors, not just the ones we choose",
+   "heard": 11,
+   "words": 11,
+   "error_s": 13.94,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Not just when love is simple and there's nothing much to lose",
+   "heard": 12,
+   "words": 12,
+   "error_s": 11.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The towel and the basin, the bread passed hand to hand",
+   "heard": 11,
+   "words": 11,
+   "error_s": 11.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "This is the way he loved us, this is his command",
+   "heard": 11,
+   "words": 11,
+   "error_s": 11.01,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A new commandment I give you: love one another",
+   "heard": 8,
+   "words": 9,
+   "error_s": 10.35,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As I have loved you, so you must love one another",
+   "heard": 11,
+   "words": 11,
+   "error_s": 9.26,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "By this everyone will know that you are my disciples",
+   "heard": 10,
+   "words": 10,
+   "error_s": 9.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "If you have love for one another",
+   "heard": 7,
+   "words": 7,
+   "error_s": 11.22,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Love one another",
+   "heard": 2,
+   "words": 3,
+   "error_s": 9.04,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As I have loved you",
+   "heard": 1,
+   "words": 5,
+   "error_s": 116.59,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 24.3,
+   "weight": 0.66,
+   "note_time": 16.93
+  },
+  {
+   "text": "sup",
+   "time": 25.28,
+   "weight": 0.39,
+   "note_time": 17.14
+  },
+  {
+   "text": "per",
+   "time": 25.61,
+   "weight": 0.39,
+   "note_time": 17.57
+  },
+  {
+   "text": "on",
+   "time": 25.94,
+   "weight": 0.99,
+   "note_time": 17.79
+  },
+  {
+   "text": "the",
+   "time": 26.32,
+   "weight": 0.99,
+   "note_time": 18.43
+  },
+  {
+   "text": "ta",
+   "time": 26.86,
+   "weight": 1.0,
+   "note_time": 18.64
+  },
+  {
+   "text": "ble",
+   "time": 27.18,
+   "weight": 1.0,
+   "note_time": 19.07
+  },
+  {
+   "text": "and",
+   "time": 27.5,
+   "weight": 0.65,
+   "note_time": 20.14
+  },
+  {
+   "text": "the",
+   "time": 28.66,
+   "weight": 0.99,
+   "note_time": 20.36
+  },
+  {
+   "text": "lamps",
+   "time": 28.76,
+   "weight": 0.99,
+   "note_time": 20.57
+  },
+  {
+   "text": "were",
+   "time": 29.28,
+   "weight": 1.0,
+   "note_time": 21.21
+  },
+  {
+   "text": "burn",
+   "time": 29.7,
+   "weight": 0.98,
+   "note_time": 21.43
+  },
+  {
+   "text": "ing",
+   "time": 29.99,
+   "weight": 0.98,
+   "note_time": 21.86
+  },
+  {
+   "text": "low",
+   "time": 30.28,
+   "weight": 1.0,
+   "note_time": 22.07
+  },
+  {
+   "text": "He",
+   "time": 30.64,
+   "weight": 0.33,
+   "note_time": 23.79
+  },
+  {
+   "text": "knelt",
+   "time": 32.2,
+   "weight": 0.99,
+   "note_time": 24.0
+  },
+  {
+   "text": "down",
+   "time": 32.72,
+   "weight": 1.0,
+   "note_time": 24.43
+  },
+  {
+   "text": "with",
+   "time": 33.18,
+   "weight": 0.99,
+   "note_time": 25.29
+  },
+  {
+   "text": "a",
+   "time": 33.82,
+   "weight": 0.6,
+   "note_time": 25.5
+  },
+  {
+   "text": "ba",
+   "time": 33.98,
+   "weight": 1.0,
+   "note_time": 25.71
+  },
+  {
+   "text": "sin,",
+   "time": 34.28,
+   "weight": 1.0,
+   "note_time": 26.14
+  },
+  {
+   "text": "it",
+   "time": 34.98,
+   "weight": 0.99,
+   "note_time": 27.0
+  },
+  {
+   "text": "was",
+   "time": 35.5,
+   "weight": 1.0,
+   "note_time": 27.21
+  },
+  {
+   "text": "time",
+   "time": 35.7,
+   "weight": 1.0,
+   "note_time": 27.43
+  },
+  {
+   "text": "for",
+   "time": 36.02,
+   "weight": 1.0,
+   "note_time": 28.07
+  },
+  {
+   "text": "him",
+   "time": 36.56,
+   "weight": 0.86,
+   "note_time": 28.29
+  },
+  {
+   "text": "to",
+   "time": 36.9,
+   "weight": 1.0,
+   "note_time": 28.71
+  },
+  {
+   "text": "go",
+   "time": 37.18,
+   "weight": 1.0,
+   "note_time": 28.93
+  },
+  {
+   "text": "He",
+   "time": 37.54,
+   "weight": 0.39,
+   "note_time": 30.64
+  },
+  {
+   "text": "washed",
+   "time": 39.06,
+   "weight": 1.0,
+   "note_time": 30.86
+  },
+  {
+   "text": "the",
+   "time": 39.62,
+   "weight": 1.0,
+   "note_time": 31.29
+  },
+  {
+   "text": "dust",
+   "time": 39.84,
+   "weight": 1.0,
+   "note_time": 31.5
+  },
+  {
+   "text": "from",
+   "time": 40.32,
+   "weight": 1.0,
+   "note_time": 32.14
+  },
+  {
+   "text": "ev",
+   "time": 40.76,
+   "weight": 1.0,
+   "note_time": 32.36
+  },
+  {
+   "text": "ery",
+   "time": 40.93,
+   "weight": 1.0,
+   "note_time": 32.57
+  },
+  {
+   "text": "foot,",
+   "time": 41.1,
+   "weight": 0.99,
+   "note_time": 32.79
+  },
+  {
+   "text": "the",
+   "time": 41.6,
+   "weight": 0.26,
+   "note_time": 33.0
+  },
+  {
+   "text": "doub",
+   "time": 42.54,
+   "weight": 0.95,
+   "note_time": 33.21
+  },
+  {
+   "text": "ter",
+   "time": 42.89,
+   "weight": 0.95,
+   "note_time": 34.07
+  },
+  {
+   "text": "and",
+   "time": 43.38,
+   "weight": 0.95,
+   "note_time": 34.29
+  },
+  {
+   "text": "the",
+   "time": 43.64,
+   "weight": 0.98,
+   "note_time": 34.71
+  },
+  {
+   "text": "proud",
+   "time": 44.1,
+   "weight": 1.0,
+   "note_time": 34.93
+  },
+  {
+   "text": "And",
+   "time": 44.54,
+   "weight": 0.33,
+   "note_time": 35.57
+  },
+  {
+   "text": "then",
+   "time": 46.14,
+   "weight": 0.99,
+   "note_time": 35.79
+  },
+  {
+   "text": "he",
+   "time": 46.42,
+   "weight": 0.5,
+   "note_time": 36.0
+  },
+  {
+   "text": "spoke",
+   "time": 46.6,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "so",
+   "time": 47.0,
+   "weight": 0.99,
+   "note_time": 37.71
+  },
+  {
+   "text": "gen",
+   "time": 47.54,
+   "weight": 1.0,
+   "note_time": 37.93
+  },
+  {
+   "text": "tly,",
+   "time": 47.88,
+   "weight": 1.0,
+   "note_time": 38.36
+  },
+  {
+   "text": "though",
+   "time": 48.22,
+   "weight": 0.85,
+   "note_time": 39.0
+  },
+  {
+   "text": "his",
+   "time": 49.34,
+   "weight": 1.0,
+   "note_time": 39.21
+  },
+  {
+   "text": "heart",
+   "time": 49.58,
+   "weight": 1.0,
+   "note_time": 39.64
+  },
+  {
+   "text": "was",
+   "time": 50.02,
+   "weight": 1.0,
+   "note_time": 40.71
+  },
+  {
+   "text": "cry",
+   "time": 50.5,
+   "weight": 1.0,
+   "note_time": 40.93
+  },
+  {
+   "text": "ing",
+   "time": 50.72,
+   "weight": 1.0,
+   "note_time": 41.14
+  },
+  {
+   "text": "loud",
+   "time": 50.94,
+   "weight": 0.95,
+   "note_time": 41.79
+  },
+  {
+   "text": "A",
+   "time": 52.28,
+   "weight": 0.92,
+   "note_time": 42.0
+  },
+  {
+   "text": "new",
+   "time": 53.52,
+   "weight": 1.0,
+   "note_time": 42.21
+  },
+  {
+   "text": "com",
+   "time": 53.72,
+   "weight": 1.0,
+   "note_time": 42.43
+  },
+  {
+   "text": "mand",
+   "time": 54.02,
+   "weight": 1.0,
+   "note_time": 42.64
+  },
+  {
+   "text": "ment",
+   "time": 54.32,
+   "weight": 1.0,
+   "note_time": 42.86
+  },
+  {
+   "text": "I",
+   "time": 54.62,
+   "weight": 1.0,
+   "note_time": 44.79
+  },
+  {
+   "text": "give",
+   "time": 54.82,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "you:",
+   "time": 55.14,
+   "weight": 1.0,
+   "note_time": 45.21
+  },
+  {
+   "text": "love",
+   "time": 55.7,
+   "weight": 0.38,
+   "note_time": 45.43
+  },
+  {
+   "text": "one",
+   "time": 57.22,
+   "weight": 1.0,
+   "note_time": 45.86
+  },
+  {
+   "text": "an",
+   "time": 58.06,
+   "weight": 1.0,
+   "note_time": 46.07
+  },
+  {
+   "text": "oth",
+   "time": 58.23,
+   "weight": 1.0,
+   "note_time": 46.29
+  },
+  {
+   "text": "er",
+   "time": 58.41,
+   "weight": 1.0,
+   "note_time": 46.71
+  },
+  {
+   "text": "As",
+   "time": 59.96,
+   "weight": 0.99,
+   "note_time": 48.43
+  },
+  {
+   "text": "I",
+   "time": 60.94,
+   "weight": 1.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "have",
+   "time": 61.18,
+   "weight": 1.0,
+   "note_time": 49.5
+  },
+  {
+   "text": "loved",
+   "time": 61.52,
+   "weight": 1.0,
+   "note_time": 49.71
+  },
+  {
+   "text": "you,",
+   "time": 62.0,
+   "weight": 1.0,
+   "note_time": 49.93
+  },
+  {
+   "text": "so",
+   "time": 62.28,
+   "weight": 0.88,
+   "note_time": 52.07
+  },
+  {
+   "text": "you",
+   "time": 62.96,
+   "weight": 1.0,
+   "note_time": 52.29
+  },
+  {
+   "text": "must",
+   "time": 63.2,
+   "weight": 1.0,
+   "note_time": 52.71
+  },
+  {
+   "text": "love",
+   "time": 63.54,
+   "weight": 1.0,
+   "note_time": 52.93
+  },
+  {
+   "text": "one",
+   "time": 64.14,
+   "weight": 1.0,
+   "note_time": 53.36
+  },
+  {
+   "text": "an",
+   "time": 64.92,
+   "weight": 1.0,
+   "note_time": 54.21
+  },
+  {
+   "text": "oth",
+   "time": 65.09,
+   "weight": 1.0,
+   "note_time": 54.43
+  },
+  {
+   "text": "er",
+   "time": 65.25,
+   "weight": 1.0,
+   "note_time": 54.64
+  },
+  {
+   "text": "By",
+   "time": 65.42,
+   "weight": 1.0,
+   "note_time": 55.29
+  },
+  {
+   "text": "this",
+   "time": 66.58,
+   "weight": 1.0,
+   "note_time": 55.93
+  },
+  {
+   "text": "ev",
+   "time": 66.9,
+   "weight": 0.95,
+   "note_time": 56.14
+  },
+  {
+   "text": "ery",
+   "time": 67.14,
+   "weight": 0.95,
+   "note_time": 56.36
+  },
+  {
+   "text": "one",
+   "time": 67.38,
+   "weight": 0.95,
+   "note_time": 56.57
+  },
+  {
+   "text": "will",
+   "time": 67.62,
+   "weight": 1.0,
+   "note_time": 56.79
+  },
+  {
+   "text": "know",
+   "time": 68.28,
+   "weight": 1.0,
+   "note_time": 57.86
+  },
+  {
+   "text": "that",
+   "time": 68.74,
+   "weight": 0.15,
+   "note_time": 58.07
+  },
+  {
+   "text": "you",
+   "time": 69.88,
+   "weight": 0.69,
+   "note_time": 58.29
+  },
+  {
+   "text": "are",
+   "time": 70.46,
+   "weight": 0.98,
+   "note_time": 58.71
+  },
+  {
+   "text": "my",
+   "time": 70.8,
+   "weight": 0.97,
+   "note_time": 58.93
+  },
+  {
+   "text": "dis",
+   "time": 71.3,
+   "weight": 0.95,
+   "note_time": 59.36
+  },
+  {
+   "text": "ci",
+   "time": 71.65,
+   "weight": 0.95,
+   "note_time": 59.79
+  },
+  {
+   "text": "ples",
+   "time": 72.0,
+   "weight": 0.95,
+   "note_time": 60.0
+  },
+  {
+   "text": "If",
+   "time": 72.36,
+   "weight": 0.33,
+   "note_time": 61.5
+  },
+  {
+   "text": "you",
+   "time": 74.24,
+   "weight": 1.0,
+   "note_time": 61.71
+  },
+  {
+   "text": "have",
+   "time": 74.76,
+   "weight": 0.99,
+   "note_time": 61.93
+  },
+  {
+   "text": "love",
+   "time": 75.08,
+   "weight": 0.99,
+   "note_time": 62.57
+  },
+  {
+   "text": "for",
+   "time": 75.5,
+   "weight": 0.99,
+   "note_time": 63.0
+  },
+  {
+   "text": "one",
+   "time": 76.64,
+   "weight": 1.0,
+   "note_time": 63.21
+  },
+  {
+   "text": "an",
+   "time": 76.92,
+   "weight": 1.0,
+   "note_time": 63.64
+  },
+  {
+   "text": "oth",
+   "time": 77.09,
+   "weight": 1.0,
+   "note_time": 66.0
+  },
+  {
+   "text": "er",
+   "time": 77.25,
+   "weight": 1.0,
+   "note_time": 66.21
+  },
+  {
+   "text": "Not",
+   "time": 80.14,
+   "weight": 0.95,
+   "note_time": 66.64
+  },
+  {
+   "text": "just",
+   "time": 81.1,
+   "weight": 1.0,
+   "note_time": 66.86
+  },
+  {
+   "text": "the",
+   "time": 81.8,
+   "weight": 0.99,
+   "note_time": 67.07
+  },
+  {
+   "text": "ea",
+   "time": 81.94,
+   "weight": 1.0,
+   "note_time": 67.93
+  },
+  {
+   "text": "sy",
+   "time": 82.12,
+   "weight": 1.0,
+   "note_time": 68.14
+  },
+  {
+   "text": "neigh",
+   "time": 82.3,
+   "weight": 0.86,
+   "note_time": 68.36
+  },
+  {
+   "text": "bors,",
+   "time": 82.65,
+   "weight": 0.86,
+   "note_time": 68.57
+  },
+  {
+   "text": "not",
+   "time": 83.2,
+   "weight": 0.93,
+   "note_time": 68.79
+  },
+  {
+   "text": "just",
+   "time": 84.44,
+   "weight": 1.0,
+   "note_time": 72.86
+  },
+  {
+   "text": "the",
+   "time": 84.94,
+   "weight": 1.0,
+   "note_time": 73.29
+  },
+  {
+   "text": "ones",
+   "time": 85.26,
+   "weight": 1.0,
+   "note_time": 73.5
+  },
+  {
+   "text": "we",
+   "time": 85.6,
+   "weight": 1.0,
+   "note_time": 73.93
+  },
+  {
+   "text": "choose",
+   "time": 86.0,
+   "weight": 0.99,
+   "note_time": 74.14
+  },
+  {
+   "text": "Not",
+   "time": 86.48,
+   "weight": 0.99,
+   "note_time": 75.86
+  },
+  {
+   "text": "just",
+   "time": 87.86,
+   "weight": 1.0,
+   "note_time": 76.29
+  },
+  {
+   "text": "when",
+   "time": 88.34,
+   "weight": 1.0,
+   "note_time": 76.71
+  },
+  {
+   "text": "love",
+   "time": 88.66,
+   "weight": 1.0,
+   "note_time": 76.93
+  },
+  {
+   "text": "is",
+   "time": 89.0,
+   "weight": 1.0,
+   "note_time": 77.36
+  },
+  {
+   "text": "sim",
+   "time": 89.36,
+   "weight": 1.0,
+   "note_time": 77.79
+  },
+  {
+   "text": "ple",
+   "time": 89.59,
+   "weight": 1.0,
+   "note_time": 79.29
+  },
+  {
+   "text": "and",
+   "time": 89.82,
+   "weight": 0.97,
+   "note_time": 79.71
+  },
+  {
+   "text": "there's",
+   "time": 90.86,
+   "weight": 1.0,
+   "note_time": 80.14
+  },
+  {
+   "text": "noth",
+   "time": 91.3,
+   "weight": 1.0,
+   "note_time": 80.36
+  },
+  {
+   "text": "ing",
+   "time": 91.53,
+   "weight": 1.0,
+   "note_time": 80.79
+  },
+  {
+   "text": "much",
+   "time": 91.76,
+   "weight": 1.0,
+   "note_time": 81.0
+  },
+  {
+   "text": "to",
+   "time": 92.42,
+   "weight": 1.0,
+   "note_time": 81.21
+  },
+  {
+   "text": "lose",
+   "time": 92.82,
+   "weight": 1.0,
+   "note_time": 81.43
+  },
+  {
+   "text": "The",
+   "time": 93.4,
+   "weight": 0.98,
+   "note_time": 82.5
+  },
+  {
+   "text": "towel",
+   "time": 93.88,
+   "weight": 0.98,
+   "note_time": 82.71
+  },
+  {
+   "text": "and",
+   "time": 94.36,
+   "weight": 0.98,
+   "note_time": 83.14
+  },
+  {
+   "text": "the",
+   "time": 95.04,
+   "weight": 1.0,
+   "note_time": 83.36
+  },
+  {
+   "text": "ba",
+   "time": 95.3,
+   "weight": 1.0,
+   "note_time": 84.0
+  },
+  {
+   "text": "sin,",
+   "time": 95.61,
+   "weight": 1.0,
+   "note_time": 84.43
+  },
+  {
+   "text": "the",
+   "time": 95.92,
+   "weight": 0.16,
+   "note_time": 84.64
+  },
+  {
+   "text": "bread",
+   "time": 97.12,
+   "weight": 0.98,
+   "note_time": 85.5
+  },
+  {
+   "text": "passed",
+   "time": 97.52,
+   "weight": 0.75,
+   "note_time": 85.71
+  },
+  {
+   "text": "hand",
+   "time": 97.88,
+   "weight": 0.94,
+   "note_time": 86.57
+  },
+  {
+   "text": "to",
+   "time": 98.46,
+   "weight": 0.7,
+   "note_time": 87.0
+  },
+  {
+   "text": "hand",
+   "time": 98.74,
+   "weight": 1.0,
+   "note_time": 87.21
+  },
+  {
+   "text": "This",
+   "time": 99.68,
+   "weight": 0.85,
+   "note_time": 88.93
+  },
+  {
+   "text": "is",
+   "time": 100.98,
+   "weight": 0.99,
+   "note_time": 89.14
+  },
+  {
+   "text": "the",
+   "time": 101.2,
+   "weight": 0.99,
+   "note_time": 89.57
+  },
+  {
+   "text": "way",
+   "time": 101.36,
+   "weight": 0.99,
+   "note_time": 90.0
+  },
+  {
+   "text": "he",
+   "time": 101.68,
+   "weight": 0.67,
+   "note_time": 90.43
+  },
+  {
+   "text": "loved",
+   "time": 101.94,
+   "weight": 0.96,
+   "note_time": 90.64
+  },
+  {
+   "text": "us,",
+   "time": 102.46,
+   "weight": 1.0,
+   "note_time": 93.0
+  },
+  {
+   "text": "this",
+   "time": 103.84,
+   "weight": 0.92,
+   "note_time": 93.21
+  },
+  {
+   "text": "is",
+   "time": 104.54,
+   "weight": 1.0,
+   "note_time": 93.43
+  },
+  {
+   "text": "his",
+   "time": 104.74,
+   "weight": 0.96,
+   "note_time": 93.86
+  },
+  {
+   "text": "com",
+   "time": 104.98,
+   "weight": 0.96,
+   "note_time": 94.07
+  },
+  {
+   "text": "mand",
+   "time": 105.3,
+   "weight": 0.96,
+   "note_time": 94.5
+  },
+  {
+   "text": "A",
+   "time": 106.68,
+   "weight": 0.95,
+   "note_time": 96.43
+  },
+  {
+   "text": "new",
+   "time": 107.64,
+   "weight": 1.0,
+   "note_time": 96.64
+  },
+  {
+   "text": "com",
+   "time": 107.91,
+   "weight": 0.0,
+   "note_time": 96.86
+  },
+  {
+   "text": "mand",
+   "time": 108.18,
+   "weight": 0.0,
+   "note_time": 97.29
+  },
+  {
+   "text": "ment",
+   "time": 108.45,
+   "weight": 0.0,
+   "note_time": 97.5
+  },
+  {
+   "text": "I",
+   "time": 108.72,
+   "weight": 0.97,
+   "note_time": 99.64
+  },
+  {
+   "text": "give",
+   "time": 108.86,
+   "weight": 1.0,
+   "note_time": 99.86
+  },
+  {
+   "text": "you:",
+   "time": 109.2,
+   "weight": 0.97,
+   "note_time": 100.07
+  },
+  {
+   "text": "love",
+   "time": 109.76,
+   "weight": 0.82,
+   "note_time": 100.29
+  },
+  {
+   "text": "one",
+   "time": 111.16,
+   "weight": 1.0,
+   "note_time": 100.71
+  },
+  {
+   "text": "an",
+   "time": 111.98,
+   "weight": 1.0,
+   "note_time": 100.93
+  },
+  {
+   "text": "oth",
+   "time": 112.17,
+   "weight": 1.0,
+   "note_time": 101.14
+  },
+  {
+   "text": "er",
+   "time": 112.37,
+   "weight": 1.0,
+   "note_time": 101.57
+  },
+  {
+   "text": "As",
+   "time": 112.56,
+   "weight": 0.36,
+   "note_time": 103.29
+  },
+  {
+   "text": "I",
+   "time": 114.44,
+   "weight": 1.0,
+   "note_time": 104.14
+  },
+  {
+   "text": "have",
+   "time": 115.04,
+   "weight": 0.98,
+   "note_time": 104.36
+  },
+  {
+   "text": "loved",
+   "time": 115.34,
+   "weight": 1.0,
+   "note_time": 104.57
+  },
+  {
+   "text": "you,",
+   "time": 115.7,
+   "weight": 1.0,
+   "note_time": 104.79
+  },
+  {
+   "text": "so",
+   "time": 116.08,
+   "weight": 0.84,
+   "note_time": 107.14
+  },
+  {
+   "text": "you",
+   "time": 116.76,
+   "weight": 0.99,
+   "note_time": 107.57
+  },
+  {
+   "text": "must",
+   "time": 116.98,
+   "weight": 1.0,
+   "note_time": 107.79
+  },
+  {
+   "text": "love",
+   "time": 117.28,
+   "weight": 0.99,
+   "note_time": 108.21
+  },
+  {
+   "text": "one",
+   "time": 117.84,
+   "weight": 1.0,
+   "note_time": 109.07
+  },
+  {
+   "text": "an",
+   "time": 118.64,
+   "weight": 1.0,
+   "note_time": 109.29
+  },
+  {
+   "text": "oth",
+   "time": 118.82,
+   "weight": 1.0,
+   "note_time": 109.5
+  },
+  {
+   "text": "er",
+   "time": 119.0,
+   "weight": 1.0,
+   "note_time": 110.14
+  },
+  {
+   "text": "By",
+   "time": 119.18,
+   "weight": 0.99,
+   "note_time": 110.79
+  },
+  {
+   "text": "this",
+   "time": 120.3,
+   "weight": 1.0,
+   "note_time": 111.0
+  },
+  {
+   "text": "ev",
+   "time": 120.56,
+   "weight": 0.9,
+   "note_time": 111.21
+  },
+  {
+   "text": "ery",
+   "time": 120.78,
+   "weight": 0.9,
+   "note_time": 111.43
+  },
+  {
+   "text": "one",
+   "time": 121.0,
+   "weight": 0.9,
+   "note_time": 111.64
+  },
+  {
+   "text": "will",
+   "time": 121.22,
+   "weight": 1.0,
+   "note_time": 112.71
+  },
+  {
+   "text": "know",
+   "time": 121.9,
+   "weight": 1.0,
+   "note_time": 112.93
+  },
+  {
+   "text": "that",
+   "time": 122.34,
+   "weight": 0.29,
+   "note_time": 113.14
+  },
+  {
+   "text": "you",
+   "time": 123.76,
+   "weight": 0.53,
+   "note_time": 113.57
+  },
+  {
+   "text": "are",
+   "time": 124.0,
+   "weight": 0.99,
+   "note_time": 113.79
+  },
+  {
+   "text": "my",
+   "time": 124.4,
+   "weight": 0.95,
+   "note_time": 114.21
+  },
+  {
+   "text": "dis",
+   "time": 124.84,
+   "weight": 0.94,
+   "note_time": 114.64
+  },
+  {
+   "text": "ci",
+   "time": 125.11,
+   "weight": 0.94,
+   "note_time": 114.86
+  },
+  {
+   "text": "ples",
+   "time": 125.39,
+   "weight": 0.94,
+   "note_time": 115.07
+  },
+  {
+   "text": "If",
+   "time": 125.66,
+   "weight": 0.33,
+   "note_time": 116.36
+  },
+  {
+   "text": "you",
+   "time": 127.9,
+   "weight": 1.0,
+   "note_time": 116.57
+  },
+  {
+   "text": "have",
+   "time": 128.14,
+   "weight": 0.97,
+   "note_time": 116.79
+  },
+  {
+   "text": "love",
+   "time": 128.5,
+   "weight": 0.92,
+   "note_time": 117.43
+  },
+  {
+   "text": "for",
+   "time": 128.92,
+   "weight": 0.98,
+   "note_time": 117.86
+  },
+  {
+   "text": "one",
+   "time": 130.0,
+   "weight": 1.0,
+   "note_time": 118.07
+  },
+  {
+   "text": "an",
+   "time": 130.3,
+   "weight": 1.0,
+   "note_time": 118.5
+  },
+  {
+   "text": "oth",
+   "time": 130.47,
+   "weight": 1.0,
+   "note_time": 119.36
+  },
+  {
+   "text": "er",
+   "time": 130.63,
+   "weight": 1.0,
+   "note_time": 119.57
+  },
+  {
+   "text": "Love",
+   "time": 130.31,
+   "weight": 0.0,
+   "note_time": 120.64
+  },
+  {
+   "text": "one",
+   "time": 129.98,
+   "weight": 0.98,
+   "note_time": 120.86
+  },
+  {
+   "text": "an",
+   "time": 130.28,
+   "weight": 1.0,
+   "note_time": 121.07
+  },
+  {
+   "text": "oth",
+   "time": 130.47,
+   "weight": 1.0,
+   "note_time": 121.5
+  },
+  {
+   "text": "er",
+   "time": 130.65,
+   "weight": 1.0,
+   "note_time": 121.71
+  },
+  {
+   "text": "As",
+   "time": 152.53,
+   "weight": 0.0,
+   "note_time": 121.93
+  },
+  {
+   "text": "I",
+   "time": 174.4,
+   "weight": 0.0,
+   "note_time": 122.79
+  },
+  {
+   "text": "have",
+   "time": 196.27,
+   "weight": 0.0,
+   "note_time": 123.0
+  },
+  {
+   "text": "loved",
+   "time": 218.15,
+   "weight": 0.0,
+   "note_time": 123.21
+  },
+  {
+   "text": "you",
+   "time": 240.02,
+   "weight": 0.99,
+   "note_time": 123.43
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "0 of 18 lyric lines sit clearly on their notes; 18 are uncertain and printed in grey italics."
+}

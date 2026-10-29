@@ -1,0 +1,1294 @@
+{
+ "id": "story-nehemjas-mur-rock",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-nehemjas-mur-rock",
+ "offset_seconds": -2.6000000000002004,
+ "words_heard": 138,
+ "words": 140,
+ "lines": [
+  {
+   "text": "The walls were down, the gates were burned",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The city lay in shame",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nehemiah rode by moonlight",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And he came back with a flame",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.01,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come, let us rebuild the wall of Jerusalem",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us start rebuilding",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The God of heaven will give us success",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us start rebuilding",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sanballat laughed and Tobiah sneered",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "What is this you are doing",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But they set their hands to the good work",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And they kept on with the building",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come, let us rebuild the wall of Jerusalem",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us start rebuilding",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The God of heaven will give us success",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us start rebuilding",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A trowel in one hand, a sword in the other",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sister by sister and brother by brother",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In fifty-two days the wall was finished",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.44,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "For this work had been accomplished by our God",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us start rebuilding",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us start rebuilding",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 14.92,
+   "weight": 0.58,
+   "note_time": 14.61
+  },
+  {
+   "text": "walls",
+   "time": 15.74,
+   "weight": 0.94,
+   "note_time": 14.81
+  },
+  {
+   "text": "were",
+   "time": 16.12,
+   "weight": 0.87,
+   "note_time": 15.19
+  },
+  {
+   "text": "down,",
+   "time": 16.42,
+   "weight": 1.0,
+   "note_time": 15.39
+  },
+  {
+   "text": "the",
+   "time": 17.0,
+   "weight": 0.99,
+   "note_time": 15.97
+  },
+  {
+   "text": "gates",
+   "time": 17.18,
+   "weight": 1.0,
+   "note_time": 16.17
+  },
+  {
+   "text": "were",
+   "time": 17.64,
+   "weight": 1.0,
+   "note_time": 16.75
+  },
+  {
+   "text": "burned",
+   "time": 17.94,
+   "weight": 0.88,
+   "note_time": 16.95
+  },
+  {
+   "text": "The",
+   "time": 18.54,
+   "weight": 0.74,
+   "note_time": 18.51
+  },
+  {
+   "text": "c",
+   "time": 19.66,
+   "weight": 0.99,
+   "note_time": 18.7
+  },
+  {
+   "text": "ity",
+   "time": 19.88,
+   "weight": 0.99,
+   "note_time": 18.9
+  },
+  {
+   "text": "lay",
+   "time": 20.1,
+   "weight": 1.0,
+   "note_time": 19.29
+  },
+  {
+   "text": "in",
+   "time": 20.48,
+   "weight": 1.0,
+   "note_time": 19.68
+  },
+  {
+   "text": "shame",
+   "time": 20.94,
+   "weight": 1.0,
+   "note_time": 20.06
+  },
+  {
+   "text": "Ne",
+   "time": 28.18,
+   "weight": 0.76,
+   "note_time": 27.27
+  },
+  {
+   "text": "hemi",
+   "time": 28.53,
+   "weight": 0.76,
+   "note_time": 28.25
+  },
+  {
+   "text": "ah",
+   "time": 28.88,
+   "weight": 0.76,
+   "note_time": 28.64
+  },
+  {
+   "text": "rode",
+   "time": 29.48,
+   "weight": 0.89,
+   "note_time": 29.03
+  },
+  {
+   "text": "by",
+   "time": 29.82,
+   "weight": 1.0,
+   "note_time": 29.42
+  },
+  {
+   "text": "moon",
+   "time": 30.28,
+   "weight": 0.97,
+   "note_time": 30.0
+  },
+  {
+   "text": "light",
+   "time": 30.63,
+   "weight": 0.97,
+   "note_time": 30.19
+  },
+  {
+   "text": "And",
+   "time": 31.1,
+   "weight": 0.43,
+   "note_time": 30.78
+  },
+  {
+   "text": "he",
+   "time": 31.98,
+   "weight": 0.88,
+   "note_time": 30.97
+  },
+  {
+   "text": "came",
+   "time": 32.16,
+   "weight": 1.0,
+   "note_time": 31.17
+  },
+  {
+   "text": "back",
+   "time": 32.44,
+   "weight": 1.0,
+   "note_time": 31.36
+  },
+  {
+   "text": "with",
+   "time": 32.76,
+   "weight": 1.0,
+   "note_time": 31.75
+  },
+  {
+   "text": "a",
+   "time": 33.04,
+   "weight": 0.84,
+   "note_time": 32.14
+  },
+  {
+   "text": "flame",
+   "time": 33.36,
+   "weight": 0.99,
+   "note_time": 32.34
+  },
+  {
+   "text": "Come,",
+   "time": 38.8,
+   "weight": 0.67,
+   "note_time": 38.96
+  },
+  {
+   "text": "let",
+   "time": 40.42,
+   "weight": 1.0,
+   "note_time": 39.74
+  },
+  {
+   "text": "us",
+   "time": 40.98,
+   "weight": 1.0,
+   "note_time": 40.52
+  },
+  {
+   "text": "re",
+   "time": 41.92,
+   "weight": 1.0,
+   "note_time": 41.3
+  },
+  {
+   "text": "build",
+   "time": 42.27,
+   "weight": 1.0,
+   "note_time": 42.08
+  },
+  {
+   "text": "the",
+   "time": 43.24,
+   "weight": 0.97,
+   "note_time": 42.86
+  },
+  {
+   "text": "wall",
+   "time": 44.18,
+   "weight": 0.92,
+   "note_time": 43.64
+  },
+  {
+   "text": "of",
+   "time": 44.96,
+   "weight": 1.0,
+   "note_time": 44.42
+  },
+  {
+   "text": "Je",
+   "time": 45.66,
+   "weight": 1.0,
+   "note_time": 44.81
+  },
+  {
+   "text": "ru",
+   "time": 45.87,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "sa",
+   "time": 46.08,
+   "weight": 1.0,
+   "note_time": 45.39
+  },
+  {
+   "text": "lem",
+   "time": 46.29,
+   "weight": 1.0,
+   "note_time": 45.58
+  },
+  {
+   "text": "Let",
+   "time": 47.14,
+   "weight": 0.39,
+   "note_time": 47.53
+  },
+  {
+   "text": "us",
+   "time": 48.72,
+   "weight": 1.0,
+   "note_time": 47.73
+  },
+  {
+   "text": "start",
+   "time": 49.08,
+   "weight": 1.0,
+   "note_time": 48.12
+  },
+  {
+   "text": "re",
+   "time": 49.5,
+   "weight": 0.4,
+   "note_time": 49.09
+  },
+  {
+   "text": "build",
+   "time": 49.85,
+   "weight": 0.4,
+   "note_time": 49.87
+  },
+  {
+   "text": "ing",
+   "time": 50.2,
+   "weight": 0.4,
+   "note_time": 50.65
+  },
+  {
+   "text": "The",
+   "time": 51.62,
+   "weight": 0.88,
+   "note_time": 51.43
+  },
+  {
+   "text": "God",
+   "time": 52.26,
+   "weight": 0.97,
+   "note_time": 52.21
+  },
+  {
+   "text": "of",
+   "time": 52.82,
+   "weight": 1.0,
+   "note_time": 52.99
+  },
+  {
+   "text": "heav",
+   "time": 53.48,
+   "weight": 0.55,
+   "note_time": 53.38
+  },
+  {
+   "text": "en",
+   "time": 53.83,
+   "weight": 0.55,
+   "note_time": 53.77
+  },
+  {
+   "text": "will",
+   "time": 54.36,
+   "weight": 0.99,
+   "note_time": 54.16
+  },
+  {
+   "text": "give",
+   "time": 55.0,
+   "weight": 1.0,
+   "note_time": 54.55
+  },
+  {
+   "text": "us",
+   "time": 55.42,
+   "weight": 1.0,
+   "note_time": 55.32
+  },
+  {
+   "text": "suc",
+   "time": 56.06,
+   "weight": 0.99,
+   "note_time": 55.71
+  },
+  {
+   "text": "cess",
+   "time": 56.41,
+   "weight": 0.99,
+   "note_time": 56.1
+  },
+  {
+   "text": "Let",
+   "time": 57.06,
+   "weight": 0.97,
+   "note_time": 57.08
+  },
+  {
+   "text": "us",
+   "time": 58.1,
+   "weight": 1.0,
+   "note_time": 57.47
+  },
+  {
+   "text": "start",
+   "time": 58.48,
+   "weight": 1.0,
+   "note_time": 57.86
+  },
+  {
+   "text": "re",
+   "time": 59.1,
+   "weight": 0.4,
+   "note_time": 60.0
+  },
+  {
+   "text": "build",
+   "time": 59.45,
+   "weight": 0.4,
+   "note_time": 60.39
+  },
+  {
+   "text": "ing",
+   "time": 59.8,
+   "weight": 0.4,
+   "note_time": 61.17
+  },
+  {
+   "text": "San",
+   "time": 62.94,
+   "weight": 0.0,
+   "note_time": 70.52
+  },
+  {
+   "text": "bal",
+   "time": 66.08,
+   "weight": 0.0,
+   "note_time": 70.91
+  },
+  {
+   "text": "lat",
+   "time": 69.22,
+   "weight": 0.0,
+   "note_time": 71.1
+  },
+  {
+   "text": "laughed",
+   "time": 72.36,
+   "weight": 0.98,
+   "note_time": 71.88
+  },
+  {
+   "text": "and",
+   "time": 72.92,
+   "weight": 0.93,
+   "note_time": 72.27
+  },
+  {
+   "text": "To",
+   "time": 73.2,
+   "weight": 0.87,
+   "note_time": 72.47
+  },
+  {
+   "text": "biah",
+   "time": 73.52,
+   "weight": 0.87,
+   "note_time": 72.66
+  },
+  {
+   "text": "sneered",
+   "time": 73.84,
+   "weight": 1.0,
+   "note_time": 73.05
+  },
+  {
+   "text": "What",
+   "time": 74.38,
+   "weight": 0.69,
+   "note_time": 74.42
+  },
+  {
+   "text": "is",
+   "time": 75.62,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "this",
+   "time": 75.9,
+   "weight": 1.0,
+   "note_time": 75.39
+  },
+  {
+   "text": "you",
+   "time": 76.24,
+   "weight": 0.93,
+   "note_time": 75.78
+  },
+  {
+   "text": "are",
+   "time": 76.6,
+   "weight": 0.99,
+   "note_time": 76.17
+  },
+  {
+   "text": "do",
+   "time": 77.04,
+   "weight": 0.97,
+   "note_time": 76.75
+  },
+  {
+   "text": "ing",
+   "time": 77.39,
+   "weight": 0.97,
+   "note_time": 76.95
+  },
+  {
+   "text": "But",
+   "time": 82.98,
+   "weight": 0.75,
+   "note_time": 82.99
+  },
+  {
+   "text": "they",
+   "time": 83.9,
+   "weight": 1.0,
+   "note_time": 83.96
+  },
+  {
+   "text": "set",
+   "time": 84.2,
+   "weight": 1.0,
+   "note_time": 84.35
+  },
+  {
+   "text": "their",
+   "time": 84.5,
+   "weight": 1.0,
+   "note_time": 84.55
+  },
+  {
+   "text": "hands",
+   "time": 84.84,
+   "weight": 0.99,
+   "note_time": 84.74
+  },
+  {
+   "text": "to",
+   "time": 85.46,
+   "weight": 0.99,
+   "note_time": 85.13
+  },
+  {
+   "text": "the",
+   "time": 85.88,
+   "weight": 1.0,
+   "note_time": 85.52
+  },
+  {
+   "text": "good",
+   "time": 86.3,
+   "weight": 0.98,
+   "note_time": 86.1
+  },
+  {
+   "text": "work",
+   "time": 86.76,
+   "weight": 0.99,
+   "note_time": 86.69
+  },
+  {
+   "text": "And",
+   "time": 87.4,
+   "weight": 0.7,
+   "note_time": 87.27
+  },
+  {
+   "text": "they",
+   "time": 87.78,
+   "weight": 1.0,
+   "note_time": 87.47
+  },
+  {
+   "text": "kept",
+   "time": 88.08,
+   "weight": 1.0,
+   "note_time": 87.86
+  },
+  {
+   "text": "on",
+   "time": 88.5,
+   "weight": 1.0,
+   "note_time": 88.25
+  },
+  {
+   "text": "with",
+   "time": 88.78,
+   "weight": 1.0,
+   "note_time": 88.64
+  },
+  {
+   "text": "the",
+   "time": 89.08,
+   "weight": 1.0,
+   "note_time": 89.22
+  },
+  {
+   "text": "build",
+   "time": 89.38,
+   "weight": 1.0,
+   "note_time": 89.42
+  },
+  {
+   "text": "ing",
+   "time": 89.73,
+   "weight": 1.0,
+   "note_time": 91.36
+  },
+  {
+   "text": "Come,",
+   "time": 95.2,
+   "weight": 0.98,
+   "note_time": 95.06
+  },
+  {
+   "text": "let",
+   "time": 96.12,
+   "weight": 0.52,
+   "note_time": 95.84
+  },
+  {
+   "text": "us",
+   "time": 97.0,
+   "weight": 1.0,
+   "note_time": 96.62
+  },
+  {
+   "text": "re",
+   "time": 97.98,
+   "weight": 1.0,
+   "note_time": 97.4
+  },
+  {
+   "text": "build",
+   "time": 98.33,
+   "weight": 1.0,
+   "note_time": 98.18
+  },
+  {
+   "text": "the",
+   "time": 99.18,
+   "weight": 0.91,
+   "note_time": 98.96
+  },
+  {
+   "text": "wall",
+   "time": 100.1,
+   "weight": 0.98,
+   "note_time": 99.74
+  },
+  {
+   "text": "of",
+   "time": 100.98,
+   "weight": 1.0,
+   "note_time": 100.52
+  },
+  {
+   "text": "Je",
+   "time": 101.68,
+   "weight": 1.0,
+   "note_time": 100.91
+  },
+  {
+   "text": "ru",
+   "time": 101.85,
+   "weight": 1.0,
+   "note_time": 101.1
+  },
+  {
+   "text": "sa",
+   "time": 102.01,
+   "weight": 1.0,
+   "note_time": 101.49
+  },
+  {
+   "text": "lem",
+   "time": 102.18,
+   "weight": 1.0,
+   "note_time": 101.69
+  },
+  {
+   "text": "Let",
+   "time": 103.02,
+   "weight": 0.4,
+   "note_time": 103.64
+  },
+  {
+   "text": "us",
+   "time": 104.76,
+   "weight": 1.0,
+   "note_time": 103.83
+  },
+  {
+   "text": "start",
+   "time": 105.1,
+   "weight": 1.0,
+   "note_time": 104.22
+  },
+  {
+   "text": "re",
+   "time": 105.64,
+   "weight": 1.0,
+   "note_time": 105.19
+  },
+  {
+   "text": "build",
+   "time": 105.99,
+   "weight": 1.0,
+   "note_time": 105.97
+  },
+  {
+   "text": "ing",
+   "time": 106.34,
+   "weight": 1.0,
+   "note_time": 106.75
+  },
+  {
+   "text": "The",
+   "time": 107.82,
+   "weight": 0.46,
+   "note_time": 107.53
+  },
+  {
+   "text": "God",
+   "time": 108.26,
+   "weight": 0.99,
+   "note_time": 108.31
+  },
+  {
+   "text": "of",
+   "time": 108.82,
+   "weight": 1.0,
+   "note_time": 109.09
+  },
+  {
+   "text": "heav",
+   "time": 109.56,
+   "weight": 0.71,
+   "note_time": 109.48
+  },
+  {
+   "text": "en",
+   "time": 109.91,
+   "weight": 0.71,
+   "note_time": 109.87
+  },
+  {
+   "text": "will",
+   "time": 110.36,
+   "weight": 1.0,
+   "note_time": 110.26
+  },
+  {
+   "text": "give",
+   "time": 111.04,
+   "weight": 1.0,
+   "note_time": 110.65
+  },
+  {
+   "text": "us",
+   "time": 111.48,
+   "weight": 1.0,
+   "note_time": 111.43
+  },
+  {
+   "text": "suc",
+   "time": 112.06,
+   "weight": 1.0,
+   "note_time": 111.82
+  },
+  {
+   "text": "cess",
+   "time": 112.41,
+   "weight": 1.0,
+   "note_time": 112.21
+  },
+  {
+   "text": "Let",
+   "time": 113.08,
+   "weight": 0.94,
+   "note_time": 113.18
+  },
+  {
+   "text": "us",
+   "time": 114.14,
+   "weight": 1.0,
+   "note_time": 113.57
+  },
+  {
+   "text": "start",
+   "time": 114.52,
+   "weight": 1.0,
+   "note_time": 113.96
+  },
+  {
+   "text": "re",
+   "time": 115.08,
+   "weight": 0.4,
+   "note_time": 116.1
+  },
+  {
+   "text": "build",
+   "time": 115.43,
+   "weight": 0.4,
+   "note_time": 116.49
+  },
+  {
+   "text": "ing",
+   "time": 115.78,
+   "weight": 0.4,
+   "note_time": 117.27
+  },
+  {
+   "text": "A",
+   "time": 120.06,
+   "weight": 0.59,
+   "note_time": 120.39
+  },
+  {
+   "text": "trow",
+   "time": 120.94,
+   "weight": 0.26,
+   "note_time": 120.58
+  },
+  {
+   "text": "el",
+   "time": 121.07,
+   "weight": 0.26,
+   "note_time": 120.78
+  },
+  {
+   "text": "in",
+   "time": 121.2,
+   "weight": 1.0,
+   "note_time": 121.17
+  },
+  {
+   "text": "one",
+   "time": 121.58,
+   "weight": 1.0,
+   "note_time": 121.36
+  },
+  {
+   "text": "hand,",
+   "time": 121.96,
+   "weight": 0.91,
+   "note_time": 121.56
+  },
+  {
+   "text": "a",
+   "time": 122.34,
+   "weight": 1.0,
+   "note_time": 121.95
+  },
+  {
+   "text": "sword",
+   "time": 122.46,
+   "weight": 0.66,
+   "note_time": 122.14
+  },
+  {
+   "text": "in",
+   "time": 122.74,
+   "weight": 1.0,
+   "note_time": 122.34
+  },
+  {
+   "text": "the",
+   "time": 123.12,
+   "weight": 1.0,
+   "note_time": 122.73
+  },
+  {
+   "text": "oth",
+   "time": 123.24,
+   "weight": 1.0,
+   "note_time": 122.92
+  },
+  {
+   "text": "er",
+   "time": 123.53,
+   "weight": 1.0,
+   "note_time": 123.12
+  },
+  {
+   "text": "Sis",
+   "time": 123.82,
+   "weight": 0.72,
+   "note_time": 123.51
+  },
+  {
+   "text": "ter",
+   "time": 124.03,
+   "weight": 0.72,
+   "note_time": 123.7
+  },
+  {
+   "text": "by",
+   "time": 124.24,
+   "weight": 1.0,
+   "note_time": 123.9
+  },
+  {
+   "text": "sis",
+   "time": 124.76,
+   "weight": 1.0,
+   "note_time": 124.29
+  },
+  {
+   "text": "ter",
+   "time": 125.01,
+   "weight": 1.0,
+   "note_time": 124.48
+  },
+  {
+   "text": "and",
+   "time": 125.26,
+   "weight": 1.0,
+   "note_time": 124.68
+  },
+  {
+   "text": "broth",
+   "time": 125.58,
+   "weight": 1.0,
+   "note_time": 125.06
+  },
+  {
+   "text": "er",
+   "time": 125.72,
+   "weight": 1.0,
+   "note_time": 125.26
+  },
+  {
+   "text": "by",
+   "time": 125.86,
+   "weight": 1.0,
+   "note_time": 125.45
+  },
+  {
+   "text": "broth",
+   "time": 126.3,
+   "weight": 1.0,
+   "note_time": 125.84
+  },
+  {
+   "text": "er",
+   "time": 126.5,
+   "weight": 1.0,
+   "note_time": 126.04
+  },
+  {
+   "text": "In",
+   "time": 126.7,
+   "weight": 0.99,
+   "note_time": 126.23
+  },
+  {
+   "text": "fif-",
+   "time": 127.0,
+   "weight": 0.0,
+   "note_time": 126.62
+  },
+  {
+   "text": "ty-",
+   "time": 127.29,
+   "weight": 0.0,
+   "note_time": 126.82
+  },
+  {
+   "text": "two",
+   "time": 127.59,
+   "weight": 0.0,
+   "note_time": 127.01
+  },
+  {
+   "text": "days",
+   "time": 127.88,
+   "weight": 1.0,
+   "note_time": 127.6
+  },
+  {
+   "text": "the",
+   "time": 128.3,
+   "weight": 0.93,
+   "note_time": 127.79
+  },
+  {
+   "text": "wall",
+   "time": 128.68,
+   "weight": 0.45,
+   "note_time": 128.38
+  },
+  {
+   "text": "was",
+   "time": 128.98,
+   "weight": 0.93,
+   "note_time": 128.57
+  },
+  {
+   "text": "fin",
+   "time": 129.48,
+   "weight": 1.0,
+   "note_time": 128.77
+  },
+  {
+   "text": "ished",
+   "time": 129.71,
+   "weight": 1.0,
+   "note_time": 129.35
+  },
+  {
+   "text": "For",
+   "time": 129.94,
+   "weight": 0.27,
+   "note_time": 130.52
+  },
+  {
+   "text": "this",
+   "time": 131.58,
+   "weight": 0.99,
+   "note_time": 130.71
+  },
+  {
+   "text": "work",
+   "time": 131.82,
+   "weight": 1.0,
+   "note_time": 130.91
+  },
+  {
+   "text": "had",
+   "time": 132.2,
+   "weight": 0.44,
+   "note_time": 131.3
+  },
+  {
+   "text": "been",
+   "time": 132.5,
+   "weight": 1.0,
+   "note_time": 131.69
+  },
+  {
+   "text": "ac",
+   "time": 132.88,
+   "weight": 0.99,
+   "note_time": 132.08
+  },
+  {
+   "text": "com",
+   "time": 133.21,
+   "weight": 0.99,
+   "note_time": 132.27
+  },
+  {
+   "text": "plished",
+   "time": 133.53,
+   "weight": 0.99,
+   "note_time": 132.86
+  },
+  {
+   "text": "by",
+   "time": 133.86,
+   "weight": 0.98,
+   "note_time": 133.64
+  },
+  {
+   "text": "our",
+   "time": 134.78,
+   "weight": 1.0,
+   "note_time": 134.42
+  },
+  {
+   "text": "God",
+   "time": 135.7,
+   "weight": 1.0,
+   "note_time": 135.19
+  },
+  {
+   "text": "Let",
+   "time": 138.12,
+   "weight": 0.77,
+   "note_time": 137.92
+  },
+  {
+   "text": "us",
+   "time": 138.98,
+   "weight": 1.0,
+   "note_time": 138.12
+  },
+  {
+   "text": "start",
+   "time": 139.42,
+   "weight": 0.97,
+   "note_time": 138.51
+  },
+  {
+   "text": "re",
+   "time": 139.96,
+   "weight": 0.4,
+   "note_time": 138.7
+  },
+  {
+   "text": "build",
+   "time": 140.31,
+   "weight": 0.4,
+   "note_time": 138.9
+  },
+  {
+   "text": "ing",
+   "time": 140.66,
+   "weight": 0.4,
+   "note_time": 141.04
+  },
+  {
+   "text": "Let",
+   "time": 149.02,
+   "weight": 0.98,
+   "note_time": 150.39
+  },
+  {
+   "text": "us",
+   "time": 150.42,
+   "weight": 1.0,
+   "note_time": 150.58
+  },
+  {
+   "text": "start",
+   "time": 151.82,
+   "weight": 1.0,
+   "note_time": 150.97
+  },
+  {
+   "text": "re",
+   "time": 152.58,
+   "weight": 0.4,
+   "note_time": 151.17
+  },
+  {
+   "text": "build",
+   "time": 152.93,
+   "weight": 0.4,
+   "note_time": 151.36
+  },
+  {
+   "text": "ing",
+   "time": 153.28,
+   "weight": 0.4,
+   "note_time": 153.51
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "21 of 22 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

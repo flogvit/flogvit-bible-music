@@ -1,5 +1,8 @@
 # Which machine generates what
 
+**Replaced by the locks in `refs/claims/*` on 2026-10-29:** `bun scripts/generate.ts status` shows who makes
+what (README, Generate). This file is the record from before, kept by hand.
+
 Audio is not in git, so each machine says here which catalog songs it has taken, to avoid generating the
 same song twice. Before starting a batch, pull main and skip songs another machine has taken; add your own and
 push before you start. A song is `taken` while it waits or generates, and `done` when its audio and sheets are

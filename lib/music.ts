@@ -75,6 +75,27 @@ export interface MusicIndex {
   songs: Song[];
 }
 
+/** The song list one publisher (a machine, or `legacy` for songs published before sources existed) owns. */
+export interface Source {
+  name: string;
+  songs: Song[];
+}
+
+export const LEGACY_SOURCE = "legacy";
+
+/**
+ * Merges the publishers' song lists of one collection. Each publisher only ever writes its own list, so no
+ * publisher can drop another's songs. A song in several lists is taken from a machine before `legacy`, and
+ * between machines from the first by name, so every publisher computes the same result.
+ */
+export function mergeSources(sources: Source[]): Song[] {
+  const order = [...sources].sort((a, b) =>
+    Number(a.name === LEGACY_SOURCE) - Number(b.name === LEGACY_SOURCE) || a.name.localeCompare(b.name));
+  const byId = new Map<string, Song>();
+  for (const source of order) for (const song of source.songs) if (!byId.has(song.id)) byId.set(song.id, song);
+  return [...byId.values()].sort((a, b) => a.id.localeCompare(b.id));
+}
+
 /** Merges the collections' song lists into one index, with the book names their passages use. */
 export function buildIndex(collections: Record<string, Song[]>, generated = new Date().toISOString()): MusicIndex {
   const names = Object.keys(collections).sort();

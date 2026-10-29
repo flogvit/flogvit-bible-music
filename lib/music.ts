@@ -57,6 +57,8 @@ export interface Song {
   textSource?: string;
   textCredit?: string;
   music?: { durationSeconds?: number; duration?: string; key?: string; meter?: string; bpm?: number };
+  /** When the song first came out on this host (ISO 8601); a song published again keeps its first date. */
+  published?: string;
   files: SongFiles;
 }
 

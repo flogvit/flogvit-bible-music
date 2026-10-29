@@ -244,11 +244,12 @@ bun scripts/publish.ts --dry-run          # say what would change, change nothin
 
 It only uploads files that changed, so it can run after every new song. Several machines can publish into
 the same collection, each from its own `library/`: the songs another machine published stay in the
-collection, and a song a machine has itself is replaced by its copy. What it publishes:
+collection, and a song a machine has itself is replaced by its copy. A song keeps the date it first came
+out when it is published again. What it publishes:
 
 | path | what it is |
 |---|---|
-| `index.json` | every song in every collection on the host: title, collection, kind, Bible passages, style, tags (sentiment, liturgy, themes, stories, persons), lyrics, music facts and file paths |
+| `index.json` | every song in every collection on the host: title, collection, kind, Bible passages, style, tags (sentiment, liturgy, themes, stories, persons), lyrics, music facts, when it was first published (`published`) and file paths |
 | `<collection>/songs.json` | the songs of one collection; `index.json` is built from these |
 | `<collection>/<id>/audio.mp3` | the song |
 | `<collection>/<id>/info.json` | everything about the song, as in `library/` |

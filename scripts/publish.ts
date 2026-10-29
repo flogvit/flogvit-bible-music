@@ -15,7 +15,7 @@
  */
 import { S3Client } from "bun";
 import { createHash } from "node:crypto";
-import { mkdirSync, readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
+import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { parseArgs } from "node:util";
 import { buildIndex, type Song } from "../lib/music";
@@ -44,6 +44,8 @@ interface Sink {
   /** Writes the file unless an identical one is already there; returns whether it wrote. */
   put(key: string, body: Uint8Array, type: string, options?: { cold?: boolean }): Promise<boolean>;
   read(key: string): Promise<string | null>;
+  /** When the file was last written (ISO 8601), or null when it is not there. */
+  modified(key: string): Promise<string | null>;
   collections(): Promise<string[]>;
 }
 
@@ -75,6 +77,10 @@ function s3Sink(): Sink {
       const file = client.file(prefix + key);
       return (await file.exists()) ? await file.text() : null;
     },
+    async modified(key) {
+      const stat = await client.stat(prefix + key).catch(() => null);
+      return stat ? stat.lastModified.toISOString() : null;
+    },
     async collections() {
       const list = await client.list({ prefix, delimiter: "/" });
       return (list.commonPrefixes ?? []).map((p) => p.prefix.slice(prefix.length).replace(/\/$/, ""));
@@ -97,6 +103,10 @@ function dirSink(root: string): Sink {
       const path = join(root, key);
       return existsSync(path) ? readFileSync(path, "utf8") : null;
     },
+    async modified(key) {
+      const path = join(root, key);
+      return existsSync(path) ? statSync(path).mtime.toISOString() : null;
+    },
     async collections() {
       return existsSync(root) ? readdirSync(root, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name) : [];
     },
@@ -107,12 +117,22 @@ const sink = opt.out ? dirSink(opt.out) : s3Sink();
 const json = (value: unknown) => new TextEncoder().encode(JSON.stringify(value, null, 1) + "\n");
 const songs: Song[] = [];
 let written = 0;
+const now = new Date().toISOString();
+
+// What the collection already has, published from here or from other machines.
+const published: Song[] = JSON.parse((await sink.read(`${collection}/songs.json`)) ?? "[]");
+const before = new Map(published.map((s) => [s.id, s]));
+// A song keeps the date it first came out. One published before songs had dates gets the time its MP3
+// landed, read before this run can write the MP3 again.
+const firstOut = async (s: Pick<Song, "id" | "collection">) =>
+  before.get(s.id)?.published ?? (await sink.modified(`${s.collection}/${s.id}/audio.mp3`)) ?? now;
 
 for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name).sort()) {
   const folder = join(opt.library!, dir);
   if (!existsSync(join(folder, "info.json")) || !existsSync(join(folder, "audio.mp3"))) continue;
   const info = JSON.parse(readFileSync(join(folder, "info.json"), "utf8"));
   const base = `${collection}/${info.id}`;
+  const out = await firstOut({ id: info.id, collection });
   const files = { info: `${base}/info.json` } as Song["files"];
   for (const [name, field, type] of PUBLIC) {
     if (!existsSync(join(folder, name))) continue;
@@ -137,15 +157,15 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
     id: info.id, collection, title: info.title, kind: info.kind, anchor: info.anchor, references: info.references ?? [],
     style: info.style ?? [], styleDescription: info.styleDescription, tags: info.tags ?? {},
     lyrics: info.lyrics?.text, lyricsMode: info.lyricsMode, textSource: info.textSource, textCredit: info.textCredit,
-    music: info.music, files,
+    music: info.music, published: out, files,
   });
 }
 
 // Several machines publish into the same collection, each with only its own songs in library/: keep the
 // songs already published from elsewhere, and let this machine's copy win for the songs it has.
 const local = new Set(songs.map((s) => s.id));
-const published: Song[] = JSON.parse((await sink.read(`${collection}/songs.json`)) ?? "[]");
-const merged = [...published.filter((s) => !local.has(s.id)), ...songs].sort((a, b) => a.id.localeCompare(b.id));
+const others = await Promise.all(published.filter((s) => !local.has(s.id)).map(async (s) => ({ ...s, published: await firstOut(s) })));
+const merged = [...others, ...songs].sort((a, b) => a.id.localeCompare(b.id));
 if (await sink.put(`${collection}/songs.json`, json(merged), "application/json")) written++;
 
 // The index covers every collection on the host, not just this one.

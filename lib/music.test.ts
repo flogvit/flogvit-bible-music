@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { buildIndex, overlaps, parseVerse, search, type Song } from "./music";
+import { buildIndex, lineTimes, overlaps, parseVerse, search, type Song } from "./music";
 
 const song = (id: string, over: Partial<Song>): Song => ({
   id, collection: "bible", title: id, references: [], style: [], tags: {}, files: { mp3: `bible/${id}/audio.mp3`, info: "" },
@@ -66,4 +66,20 @@ describe("search", () => {
   });
   test("by collection", () => expect(ids({ collection: "other" })).toEqual(["jazz"]));
   test("a verse no book matches finds nothing", () => expect(ids({ verse: "Genesis 1:1" })).toEqual([]));
+});
+
+describe("lineTimes", () => {
+  test("hands each line its syllables, on the audio's clock", () => {
+    const lines = lineTimes({
+      offset_seconds: -1,
+      lines: [{ text: "They followed him" }, { text: "across the sea", uncertain: true }],
+      syllables: [["They", 21], ["fol", 22], ["lowed", 22.5], ["him", 23], ["ac", 24], ["ross", 24.5], ["the", 25], ["sea", 26]]
+        .map(([text, time]) => ({ text: text as string, time: time as number })),
+    })!;
+    expect(lines.map((l) => l.syllables.length)).toEqual([4, 4]);
+    expect(lines[0].syllables[1]).toEqual({ letters: "fol", time: 21 });
+    expect(lines[1].uncertain).toBe(true);
+  });
+  test("a line its syllables do not spell gives null", () =>
+    expect(lineTimes({ lines: [{ text: "Hello" }], syllables: [{ text: "Bye", time: 1 }] })).toBeNull());
 });

@@ -170,3 +170,44 @@ export function search(index: MusicIndex, query: Query): Song[] {
   }
   return hits.sort((a, b) => b.score - a.score).map((h) => h.song);
 }
+
+/** When one syllable is sung, in seconds of the audio. */
+export interface SyllableTime {
+  letters: string; // the syllable's letters and digits, lowercase
+  time: number;
+}
+
+/** One sung line and its syllables. `uncertain` lines were heard too poorly to light up syllable by syllable. */
+export interface LineTime {
+  text: string;
+  uncertain: boolean;
+  syllables: SyllableTime[];
+}
+
+export const letters = (text: string) => fold(text).replace(/[^\p{L}\p{N}]/gu, "");
+
+/**
+ * The sung lines with their syllable times, from a song's alignment.json (scripts/song-sheets.py). Its times
+ * are on the score's clock; `offset_seconds` moves them onto the audio's. Null when the file does not add up.
+ */
+export function lineTimes(alignment: {
+  offset_seconds?: number;
+  lines?: { text: string; uncertain?: boolean }[];
+  syllables?: { text: string; time: number }[];
+}): LineTime[] | null {
+  const offset = alignment.offset_seconds ?? 0;
+  const queue = (alignment.syllables ?? []).map((s) => ({ letters: letters(s.text), time: s.time + offset }));
+  const result: LineTime[] = [];
+  for (const line of alignment.lines ?? []) {
+    // Hand out syllables until they spell the line.
+    let wanted = letters(line.text);
+    const own: SyllableTime[] = [];
+    while (wanted && queue.length && wanted.startsWith(queue[0].letters)) {
+      wanted = wanted.slice(queue[0].letters.length);
+      own.push(queue.shift()!);
+    }
+    if (wanted || !own.length) return null;
+    result.push({ text: line.text, uncertain: line.uncertain ?? false, syllables: own });
+  }
+  return result;
+}

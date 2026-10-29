@@ -9,3 +9,5 @@ library/
 *.mp3
 .env
 .DS_Store
+.playwright-mcp/
+__pycache__/

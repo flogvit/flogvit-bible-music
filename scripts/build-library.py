@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Gather everything about a finished song into one folder: library/<id>/ with audio.flac, audio.mp3,
-chords.pdf, chords.cho, leadsheet.pdf and info.json (title, lyrics, tags, links, how and where it was made).
+chords.pdf, chords.cho, leadsheet.pdf, alignment.json and info.json (title, lyrics, tags, links, how and where it was made).
 
 Usage: python3 scripts/build-library.py [--machine NAME] [--library DIR] YuE/outputs/<batch>/<id> [...]
 
@@ -227,6 +227,7 @@ def build(song_dir: Path, library: Path, machine: str) -> Path:
     place(sheets / f"{sid}-chords.pdf", out / "chords.pdf")
     place(sheets / f"{sid}-chords.cho", out / "chords.cho")
     place(sheets / f"{sid}-lead-sheet.pdf", out / "leadsheet.pdf")
+    place(sheets / "alignment.json", out / "alignment.json")
 
     seconds = result["audio_seconds"]
     made = datetime.fromtimestamp(result_file.stat().st_mtime, timezone.utc).astimezone()
@@ -258,7 +259,7 @@ def build(song_dir: Path, library: Path, machine: str) -> Path:
                       "yue": yue_info(song_dir, result, config), "identity": result.get("identity"),
                       "source": str(song_dir)},
         "files": {"flac": "audio.flac", "mp3": "audio.mp3", "chordSheet": "chords.pdf", "chordPro": "chords.cho",
-                  "leadSheet": "leadsheet.pdf"},
+                  "leadSheet": "leadsheet.pdf", "alignment": "alignment.json"},
     }
     (out / "info.json").write_text(json.dumps(info, indent=2, ensure_ascii=False) + "\n")
     return out

@@ -267,13 +267,17 @@ bun scripts/publish.ts --dry-run          # say what would change, change nothin
 ```
 
 It only uploads files that changed, so it can run after every new song. Several machines can publish into
-the same collection, each from its own `library/`: the songs another machine published stay in the
-collection, and a song a machine has itself is replaced by its copy. What it publishes:
+the same collection at the same time, each from its own `library/`. Each machine writes only its own song
+list, `<collection>/sources/<machine>.json` (named from `MUSIC_MACHINE`, so keep that the same), and
+`songs.json` and `index.json` are rebuilt from all the lists. After writing them, the script checks whether
+another machine changed its list meanwhile, and rebuilds if so; no machine can drop another's songs. Songs
+published before the lists existed are kept as `sources/legacy.json`. What it publishes:
 
 | path | what it is |
 |---|---|
 | `index.json` | every song in every collection on the host: title, collection, kind, Bible passages, style, tags (sentiment, liturgy, themes, stories, persons), lyrics, music facts and file paths |
 | `<collection>/songs.json` | the songs of one collection; `index.json` is built from these |
+| `<collection>/sources/<machine>.json` | the songs one machine published; `songs.json` is built from these |
 | `<collection>/<id>/audio.mp3` | the song |
 | `<collection>/<id>/info.json` | everything about the song, as in `library/` |
 | `<collection>/<id>/alignment.json` | when each syllable is sung, for highlighting the lyrics |
@@ -283,6 +287,24 @@ File paths in `index.json` are relative to `index.json` itself, so a copy works 
 a bucket, the public tree goes under `MEDIA_PREFIX` (default `system/music/`). The FLAC masters go to
 `masters/<collection>/<id>/audio.flac` in the same bucket, private and in cold storage. Serve the public
 prefix at a stable hostname, through a redirect or a CDN, so apps never depend on where the files are stored.
+
+### Publish every new song automatically
+
+Each machine that makes songs runs `scripts/publish-auto.sh` on a timer. It does nothing when no song in its
+library is new, and otherwise runs `publish.ts`. The S3 key comes from the machine's own `scw` setup
+(`~/.config/scw/config.yaml`) on every run and is never stored; bucket and prefix default to flogvit-media
+and `system/music/`. Install the timer once per machine, from a worktree of its own (the timer moves it to the
+newest `origin/main` before each run):
+
+```bash
+git worktree add --detach .claude/worktrees/publisher origin/main
+cd .claude/worktrees/publisher
+MUSIC_MACHINE="Home Mac (M1 Max, 64 GB)" MUSIC_LIBRARY=~/WebstormProjects/flogvit/music/library \
+  scripts/install-publisher.sh
+```
+
+It runs every 10 minutes as the launchd agent `com.flogvit.music-publish` and logs to
+`~/Library/Logs/music-publish.log`. Turn it off with `scripts/install-publisher.sh --uninstall`.
 
 ## Search
 

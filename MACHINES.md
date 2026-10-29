@@ -38,7 +38,7 @@ on Home Mac.
 | verse-40-5-3-folk | done 2026-10-29 04:22, 3:29, sheets in sheets/ |
 | verse-6-1-9-rock | done 2026-10-29 04:59, 4:08, sheets in sheets/ |
 | story-den-fortapte-sonn-country | done 2026-10-29 05:27, 3:29, sheets in sheets/ |
-| story-den-barmhjertige-samaritan-folk | taken |
+| story-den-barmhjertige-samaritan-folk | done 2026-10-29 05:51, 2:53, sheets in sheets/ |
 | story-noas-ark-og-syndfloden-children | taken |
 | story-skapelsen-av-verden-orchestral | taken |
 | story-israelittene-gar-gjennom-rodehavet-gospel | taken |

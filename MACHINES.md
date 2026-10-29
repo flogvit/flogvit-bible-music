@@ -43,7 +43,7 @@ on Home Mac.
 | story-skapelsen-av-verden-orchestral | done 2026-10-29 06:37, 4:07, sheets in sheets/ |
 | story-israelittene-gar-gjennom-rodehavet-gospel | done 2026-10-29 07:04, 3:25, sheets in sheets/ |
 | story-daniel-i-lovehulen-soul | done 2026-10-29 07:49, 4:54, sheets in sheets/ |
-| story-jona-i-fiskens-buk-children | taken |
+| story-jona-i-fiskens-buk-children | done 2026-10-29 08:08, 2:27, sheets in sheets/ |
 | person-moses-folk | taken |
 | person-maria-jesu-mor-ballad | taken |
 | person-peter-acoustic | taken |

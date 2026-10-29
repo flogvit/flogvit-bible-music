@@ -1,0 +1,1060 @@
+{
+ "id": "verse-42-2-29-choral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-42-2-29-choral",
+ "offset_seconds": 4.219999999999654,
+ "words_heard": 111,
+ "words": 111,
+ "lines": [
+  {
+   "text": "Now, Master, you may let your servant depart in peace",
+   "heard": 10,
+   "words": 10,
+   "error_s": 4.95,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "According to your word",
+   "heard": 4,
+   "words": 4,
+   "error_s": 4.72,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For my eyes have seen your salvation",
+   "heard": 7,
+   "words": 7,
+   "error_s": 4.75,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Which you have prepared in the sight of all peoples",
+   "heard": 10,
+   "words": 10,
+   "error_s": 4.96,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A light for revelation to the Gentiles",
+   "heard": 7,
+   "words": 7,
+   "error_s": 5.22,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And the glory of your people Israel",
+   "heard": 7,
+   "words": 7,
+   "error_s": 4.31,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A light for revelation to the Gentiles",
+   "heard": 7,
+   "words": 7,
+   "error_s": 4.08,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And the glory of your people Israel",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.31,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Now, Master, you may let your servant depart in peace",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.56,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "According to your word",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For my eyes have seen your salvation",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.07,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Which you have prepared in the sight of all peoples",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A light for revelation to the Gentiles",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the glory of your people Israel",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Depart in peace",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "According to your word",
+   "heard": 4,
+   "words": 4,
+   "error_s": 17.37,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Now,",
+   "time": 6.74,
+   "weight": 0.63,
+   "note_time": 12.5
+  },
+  {
+   "text": "Mas",
+   "time": 8.38,
+   "weight": 0.96,
+   "note_time": 13.33
+  },
+  {
+   "text": "ter,",
+   "time": 8.73,
+   "weight": 0.96,
+   "note_time": 14.17
+  },
+  {
+   "text": "you",
+   "time": 10.06,
+   "weight": 0.97,
+   "note_time": 15.42
+  },
+  {
+   "text": "may",
+   "time": 11.0,
+   "weight": 0.99,
+   "note_time": 15.62
+  },
+  {
+   "text": "let",
+   "time": 11.24,
+   "weight": 1.0,
+   "note_time": 15.83
+  },
+  {
+   "text": "your",
+   "time": 11.64,
+   "weight": 0.99,
+   "note_time": 16.25
+  },
+  {
+   "text": "ser",
+   "time": 11.92,
+   "weight": 0.99,
+   "note_time": 16.67
+  },
+  {
+   "text": "vant",
+   "time": 12.27,
+   "weight": 0.99,
+   "note_time": 17.5
+  },
+  {
+   "text": "de",
+   "time": 13.02,
+   "weight": 1.0,
+   "note_time": 17.92
+  },
+  {
+   "text": "part",
+   "time": 13.33,
+   "weight": 1.0,
+   "note_time": 18.33
+  },
+  {
+   "text": "in",
+   "time": 13.64,
+   "weight": 0.99,
+   "note_time": 19.17
+  },
+  {
+   "text": "peace",
+   "time": 14.92,
+   "weight": 1.0,
+   "note_time": 19.58
+  },
+  {
+   "text": "Ac",
+   "time": 16.3,
+   "weight": 0.15,
+   "note_time": 20.0
+  },
+  {
+   "text": "cord",
+   "time": 16.53,
+   "weight": 0.15,
+   "note_time": 21.46
+  },
+  {
+   "text": "ing",
+   "time": 16.77,
+   "weight": 0.15,
+   "note_time": 21.67
+  },
+  {
+   "text": "to",
+   "time": 17.0,
+   "weight": 1.0,
+   "note_time": 22.08
+  },
+  {
+   "text": "your",
+   "time": 17.78,
+   "weight": 0.97,
+   "note_time": 22.5
+  },
+  {
+   "text": "word",
+   "time": 18.36,
+   "weight": 0.98,
+   "note_time": 22.92
+  },
+  {
+   "text": "For",
+   "time": 20.24,
+   "weight": 0.46,
+   "note_time": 23.33
+  },
+  {
+   "text": "my",
+   "time": 21.06,
+   "weight": 0.99,
+   "note_time": 25.83
+  },
+  {
+   "text": "eyes",
+   "time": 21.54,
+   "weight": 1.0,
+   "note_time": 26.25
+  },
+  {
+   "text": "have",
+   "time": 22.42,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "seen",
+   "time": 22.78,
+   "weight": 1.0,
+   "note_time": 27.5
+  },
+  {
+   "text": "your",
+   "time": 23.62,
+   "weight": 1.0,
+   "note_time": 28.33
+  },
+  {
+   "text": "sal",
+   "time": 24.36,
+   "weight": 1.0,
+   "note_time": 29.17
+  },
+  {
+   "text": "va",
+   "time": 24.69,
+   "weight": 1.0,
+   "note_time": 29.58
+  },
+  {
+   "text": "tion",
+   "time": 25.01,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "Which",
+   "time": 25.34,
+   "weight": 0.06,
+   "note_time": 30.42
+  },
+  {
+   "text": "you",
+   "time": 27.12,
+   "weight": 0.96,
+   "note_time": 32.08
+  },
+  {
+   "text": "have",
+   "time": 27.36,
+   "weight": 0.99,
+   "note_time": 32.29
+  },
+  {
+   "text": "pre",
+   "time": 27.64,
+   "weight": 0.98,
+   "note_time": 32.5
+  },
+  {
+   "text": "pared",
+   "time": 27.92,
+   "weight": 0.98,
+   "note_time": 32.92
+  },
+  {
+   "text": "in",
+   "time": 28.2,
+   "weight": 0.96,
+   "note_time": 33.33
+  },
+  {
+   "text": "the",
+   "time": 29.24,
+   "weight": 0.98,
+   "note_time": 34.17
+  },
+  {
+   "text": "sight",
+   "time": 29.48,
+   "weight": 1.0,
+   "note_time": 34.58
+  },
+  {
+   "text": "of",
+   "time": 30.04,
+   "weight": 0.99,
+   "note_time": 35.0
+  },
+  {
+   "text": "all",
+   "time": 30.8,
+   "weight": 0.99,
+   "note_time": 35.83
+  },
+  {
+   "text": "peo",
+   "time": 31.14,
+   "weight": 0.69,
+   "note_time": 36.04
+  },
+  {
+   "text": "ples",
+   "time": 31.49,
+   "weight": 0.69,
+   "note_time": 36.67
+  },
+  {
+   "text": "A",
+   "time": 33.66,
+   "weight": 0.16,
+   "note_time": 37.08
+  },
+  {
+   "text": "light",
+   "time": 34.36,
+   "weight": 0.98,
+   "note_time": 39.58
+  },
+  {
+   "text": "for",
+   "time": 35.1,
+   "weight": 0.86,
+   "note_time": 40.0
+  },
+  {
+   "text": "rev",
+   "time": 35.42,
+   "weight": 0.97,
+   "note_time": 40.62
+  },
+  {
+   "text": "e",
+   "time": 35.61,
+   "weight": 0.97,
+   "note_time": 40.83
+  },
+  {
+   "text": "la",
+   "time": 35.8,
+   "weight": 0.97,
+   "note_time": 41.25
+  },
+  {
+   "text": "tion",
+   "time": 35.99,
+   "weight": 0.97,
+   "note_time": 41.46
+  },
+  {
+   "text": "to",
+   "time": 36.18,
+   "weight": 0.99,
+   "note_time": 41.67
+  },
+  {
+   "text": "the",
+   "time": 37.12,
+   "weight": 1.0,
+   "note_time": 42.08
+  },
+  {
+   "text": "Gen",
+   "time": 37.56,
+   "weight": 0.37,
+   "note_time": 42.5
+  },
+  {
+   "text": "tiles",
+   "time": 37.91,
+   "weight": 0.37,
+   "note_time": 42.92
+  },
+  {
+   "text": "And",
+   "time": 39.74,
+   "weight": 0.79,
+   "note_time": 43.12
+  },
+  {
+   "text": "the",
+   "time": 40.5,
+   "weight": 1.0,
+   "note_time": 43.33
+  },
+  {
+   "text": "glo",
+   "time": 40.74,
+   "weight": 1.0,
+   "note_time": 43.75
+  },
+  {
+   "text": "ry",
+   "time": 41.09,
+   "weight": 1.0,
+   "note_time": 45.83
+  },
+  {
+   "text": "of",
+   "time": 41.5,
+   "weight": 1.0,
+   "note_time": 46.25
+  },
+  {
+   "text": "your",
+   "time": 42.12,
+   "weight": 0.97,
+   "note_time": 46.46
+  },
+  {
+   "text": "peo",
+   "time": 42.46,
+   "weight": 1.0,
+   "note_time": 46.67
+  },
+  {
+   "text": "ple",
+   "time": 42.8,
+   "weight": 1.0,
+   "note_time": 47.08
+  },
+  {
+   "text": "Is",
+   "time": 43.14,
+   "weight": 0.93,
+   "note_time": 47.5
+  },
+  {
+   "text": "rael",
+   "time": 43.49,
+   "weight": 0.93,
+   "note_time": 47.92
+  },
+  {
+   "text": "A",
+   "time": 45.82,
+   "weight": 0.91,
+   "note_time": 48.33
+  },
+  {
+   "text": "light",
+   "time": 47.22,
+   "weight": 0.99,
+   "note_time": 48.75
+  },
+  {
+   "text": "for",
+   "time": 47.88,
+   "weight": 1.0,
+   "note_time": 49.17
+  },
+  {
+   "text": "rev",
+   "time": 48.22,
+   "weight": 1.0,
+   "note_time": 49.58
+  },
+  {
+   "text": "e",
+   "time": 48.41,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "la",
+   "time": 48.6,
+   "weight": 1.0,
+   "note_time": 52.92
+  },
+  {
+   "text": "tion",
+   "time": 48.79,
+   "weight": 1.0,
+   "note_time": 53.33
+  },
+  {
+   "text": "to",
+   "time": 48.98,
+   "weight": 1.0,
+   "note_time": 53.96
+  },
+  {
+   "text": "the",
+   "time": 49.96,
+   "weight": 1.0,
+   "note_time": 54.17
+  },
+  {
+   "text": "Gen",
+   "time": 50.36,
+   "weight": 1.0,
+   "note_time": 54.58
+  },
+  {
+   "text": "tiles",
+   "time": 50.71,
+   "weight": 1.0,
+   "note_time": 54.79
+  },
+  {
+   "text": "And",
+   "time": 51.56,
+   "weight": 0.09,
+   "note_time": 55.0
+  },
+  {
+   "text": "the",
+   "time": 53.12,
+   "weight": 0.85,
+   "note_time": 55.42
+  },
+  {
+   "text": "glo",
+   "time": 53.52,
+   "weight": 0.94,
+   "note_time": 55.83
+  },
+  {
+   "text": "ry",
+   "time": 53.87,
+   "weight": 0.94,
+   "note_time": 56.25
+  },
+  {
+   "text": "of",
+   "time": 54.24,
+   "weight": 0.98,
+   "note_time": 56.46
+  },
+  {
+   "text": "your",
+   "time": 54.86,
+   "weight": 0.95,
+   "note_time": 56.67
+  },
+  {
+   "text": "peo",
+   "time": 55.28,
+   "weight": 0.99,
+   "note_time": 57.08
+  },
+  {
+   "text": "ple",
+   "time": 55.6,
+   "weight": 0.99,
+   "note_time": 59.17
+  },
+  {
+   "text": "Is",
+   "time": 55.92,
+   "weight": 0.54,
+   "note_time": 59.58
+  },
+  {
+   "text": "rael",
+   "time": 56.27,
+   "weight": 0.54,
+   "note_time": 59.79
+  },
+  {
+   "text": "Now,",
+   "time": 59.16,
+   "weight": 0.97,
+   "note_time": 60.0
+  },
+  {
+   "text": "Mas",
+   "time": 59.86,
+   "weight": 0.84,
+   "note_time": 60.42
+  },
+  {
+   "text": "ter,",
+   "time": 60.21,
+   "weight": 0.84,
+   "note_time": 60.83
+  },
+  {
+   "text": "you",
+   "time": 61.46,
+   "weight": 0.99,
+   "note_time": 61.25
+  },
+  {
+   "text": "may",
+   "time": 62.4,
+   "weight": 1.0,
+   "note_time": 61.67
+  },
+  {
+   "text": "let",
+   "time": 62.6,
+   "weight": 1.0,
+   "note_time": 62.08
+  },
+  {
+   "text": "your",
+   "time": 62.96,
+   "weight": 1.0,
+   "note_time": 62.5
+  },
+  {
+   "text": "ser",
+   "time": 63.24,
+   "weight": 0.98,
+   "note_time": 62.92
+  },
+  {
+   "text": "vant",
+   "time": 63.59,
+   "weight": 0.98,
+   "note_time": 63.12
+  },
+  {
+   "text": "de",
+   "time": 64.34,
+   "weight": 1.0,
+   "note_time": 63.33
+  },
+  {
+   "text": "part",
+   "time": 64.69,
+   "weight": 1.0,
+   "note_time": 65.0
+  },
+  {
+   "text": "in",
+   "time": 65.08,
+   "weight": 1.0,
+   "note_time": 65.83
+  },
+  {
+   "text": "peace",
+   "time": 66.08,
+   "weight": 1.0,
+   "note_time": 66.67
+  },
+  {
+   "text": "Ac",
+   "time": 67.66,
+   "weight": 0.73,
+   "note_time": 67.5
+  },
+  {
+   "text": "cord",
+   "time": 67.9,
+   "weight": 0.73,
+   "note_time": 68.75
+  },
+  {
+   "text": "ing",
+   "time": 68.14,
+   "weight": 0.73,
+   "note_time": 68.96
+  },
+  {
+   "text": "to",
+   "time": 68.38,
+   "weight": 1.0,
+   "note_time": 69.17
+  },
+  {
+   "text": "your",
+   "time": 69.12,
+   "weight": 1.0,
+   "note_time": 69.58
+  },
+  {
+   "text": "word",
+   "time": 69.64,
+   "weight": 0.99,
+   "note_time": 70.0
+  },
+  {
+   "text": "For",
+   "time": 71.62,
+   "weight": 1.0,
+   "note_time": 70.83
+  },
+  {
+   "text": "my",
+   "time": 72.32,
+   "weight": 1.0,
+   "note_time": 71.25
+  },
+  {
+   "text": "eyes",
+   "time": 72.84,
+   "weight": 1.0,
+   "note_time": 71.67
+  },
+  {
+   "text": "have",
+   "time": 73.74,
+   "weight": 1.0,
+   "note_time": 72.5
+  },
+  {
+   "text": "seen",
+   "time": 74.02,
+   "weight": 1.0,
+   "note_time": 72.92
+  },
+  {
+   "text": "your",
+   "time": 74.9,
+   "weight": 1.0,
+   "note_time": 73.33
+  },
+  {
+   "text": "sal",
+   "time": 75.62,
+   "weight": 1.0,
+   "note_time": 74.79
+  },
+  {
+   "text": "va",
+   "time": 75.93,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "tion",
+   "time": 76.25,
+   "weight": 1.0,
+   "note_time": 75.42
+  },
+  {
+   "text": "Which",
+   "time": 76.56,
+   "weight": 0.06,
+   "note_time": 75.83
+  },
+  {
+   "text": "you",
+   "time": 78.38,
+   "weight": 0.95,
+   "note_time": 76.25
+  },
+  {
+   "text": "have",
+   "time": 78.6,
+   "weight": 0.99,
+   "note_time": 76.67
+  },
+  {
+   "text": "pre",
+   "time": 78.88,
+   "weight": 0.97,
+   "note_time": 79.17
+  },
+  {
+   "text": "pared",
+   "time": 79.18,
+   "weight": 0.97,
+   "note_time": 79.58
+  },
+  {
+   "text": "in",
+   "time": 79.48,
+   "weight": 0.94,
+   "note_time": 80.0
+  },
+  {
+   "text": "the",
+   "time": 80.5,
+   "weight": 0.99,
+   "note_time": 80.83
+  },
+  {
+   "text": "sight",
+   "time": 80.72,
+   "weight": 0.99,
+   "note_time": 81.67
+  },
+  {
+   "text": "of",
+   "time": 81.3,
+   "weight": 0.99,
+   "note_time": 82.5
+  },
+  {
+   "text": "all",
+   "time": 82.02,
+   "weight": 0.99,
+   "note_time": 82.92
+  },
+  {
+   "text": "peo",
+   "time": 82.42,
+   "weight": 0.88,
+   "note_time": 83.33
+  },
+  {
+   "text": "ples",
+   "time": 82.77,
+   "weight": 0.88,
+   "note_time": 83.75
+  },
+  {
+   "text": "A",
+   "time": 84.88,
+   "weight": 0.16,
+   "note_time": 85.42
+  },
+  {
+   "text": "light",
+   "time": 85.58,
+   "weight": 0.97,
+   "note_time": 85.62
+  },
+  {
+   "text": "for",
+   "time": 86.32,
+   "weight": 0.91,
+   "note_time": 85.83
+  },
+  {
+   "text": "rev",
+   "time": 86.64,
+   "weight": 0.85,
+   "note_time": 86.25
+  },
+  {
+   "text": "e",
+   "time": 86.83,
+   "weight": 0.85,
+   "note_time": 86.67
+  },
+  {
+   "text": "la",
+   "time": 87.01,
+   "weight": 0.85,
+   "note_time": 87.5
+  },
+  {
+   "text": "tion",
+   "time": 87.2,
+   "weight": 0.85,
+   "note_time": 87.92
+  },
+  {
+   "text": "to",
+   "time": 87.38,
+   "weight": 1.0,
+   "note_time": 88.33
+  },
+  {
+   "text": "the",
+   "time": 88.34,
+   "weight": 1.0,
+   "note_time": 89.17
+  },
+  {
+   "text": "Gen",
+   "time": 88.76,
+   "weight": 0.99,
+   "note_time": 89.38
+  },
+  {
+   "text": "tiles",
+   "time": 89.11,
+   "weight": 0.99,
+   "note_time": 90.0
+  },
+  {
+   "text": "And",
+   "time": 90.94,
+   "weight": 0.83,
+   "note_time": 90.42
+  },
+  {
+   "text": "the",
+   "time": 91.66,
+   "weight": 1.0,
+   "note_time": 92.92
+  },
+  {
+   "text": "glo",
+   "time": 91.9,
+   "weight": 0.99,
+   "note_time": 93.33
+  },
+  {
+   "text": "ry",
+   "time": 92.25,
+   "weight": 0.99,
+   "note_time": 93.96
+  },
+  {
+   "text": "of",
+   "time": 92.76,
+   "weight": 1.0,
+   "note_time": 94.17
+  },
+  {
+   "text": "your",
+   "time": 93.26,
+   "weight": 0.95,
+   "note_time": 94.58
+  },
+  {
+   "text": "peo",
+   "time": 93.6,
+   "weight": 1.0,
+   "note_time": 94.79
+  },
+  {
+   "text": "ple",
+   "time": 93.95,
+   "weight": 1.0,
+   "note_time": 95.42
+  },
+  {
+   "text": "Is",
+   "time": 94.32,
+   "weight": 0.81,
+   "note_time": 95.83
+  },
+  {
+   "text": "rael",
+   "time": 94.67,
+   "weight": 0.81,
+   "note_time": 96.25
+  },
+  {
+   "text": "De",
+   "time": 96.72,
+   "weight": 0.48,
+   "note_time": 96.46
+  },
+  {
+   "text": "part",
+   "time": 97.07,
+   "weight": 0.48,
+   "note_time": 97.08
+  },
+  {
+   "text": "in",
+   "time": 98.12,
+   "weight": 1.0,
+   "note_time": 99.17
+  },
+  {
+   "text": "peace",
+   "time": 98.52,
+   "weight": 0.99,
+   "note_time": 99.58
+  },
+  {
+   "text": "Ac",
+   "time": 116.6,
+   "weight": 0.39,
+   "note_time": 99.79
+  },
+  {
+   "text": "cord",
+   "time": 116.95,
+   "weight": 0.39,
+   "note_time": 100.42
+  },
+  {
+   "text": "ing",
+   "time": 117.3,
+   "weight": 0.39,
+   "note_time": 100.83
+  },
+  {
+   "text": "to",
+   "time": 118.6,
+   "weight": 1.0,
+   "note_time": 101.25
+  },
+  {
+   "text": "your",
+   "time": 119.04,
+   "weight": 0.89,
+   "note_time": 101.67
+  },
+  {
+   "text": "word",
+   "time": 120.12,
+   "weight": 0.89,
+   "note_time": 102.08
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "6 of 16 lyric lines sit clearly on their notes; 10 are uncertain and printed in grey italics."
+}

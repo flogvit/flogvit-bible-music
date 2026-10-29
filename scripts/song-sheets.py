@@ -1181,7 +1181,7 @@ def key_name(score: Score) -> str:
     return score.key_tonic + ("m" if score.key_mode in ("m", "min", "aeo") else "")
 
 
-def run(song_dir: Path, out_root: Path) -> dict:
+def run(song_dir: Path, out_root: Path, listen_only: bool = False) -> dict | None:
     request = json.loads((song_dir / "request.json").read_text())
     meta = song_meta(song_dir, request)
     out = out_root / meta["id"]
@@ -1191,6 +1191,8 @@ def run(song_dir: Path, out_root: Path) -> dict:
     score = parse_abc((song_dir / "score.abc").read_text())
     lyrics = parse_lyrics(request["lyrics"])
     listen(lyrics, Listener(song_dir / "audio.flac", out / "whisper.json"))
+    if listen_only:
+        return None
     ons = onsets(score)
     offset = estimate_offset(lyrics, ons)
     place_times(lyrics, offset)
@@ -1259,6 +1261,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("songs", nargs="+", type=Path, help="song folders with audio.flac, score.abc, request.json")
     parser.add_argument("--out", type=Path, default=REPO / "sheets", help="output root (default: sheets/)")
+    parser.add_argument("--listen-only", action="store_true",
+                        help="only write whisper.json (for the lyrics check before the sheets)")
     args = parser.parse_args()
     failed = []
     for song in args.songs:
@@ -1266,7 +1270,7 @@ def main():
             print(f"{song}: skipped, needs audio.flac, score.abc and request.json")
             continue
         try:
-            run(song.resolve(), args.out.resolve())
+            run(song.resolve(), args.out.resolve(), args.listen_only)
         except Exception as exc:  # keep going through a batch; report at the end
             print(f"{song}: FAILED: {exc}", file=sys.stderr)
             failed.append(song)

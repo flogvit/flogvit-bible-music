@@ -133,6 +133,26 @@ YuE2 stops a song at 9,000 audio tokens, about 6 minutes, and marks it `"semanti
 `result.json`. For longer texts (whole long psalms), add `--config ../configs/long-12000.json`, which raises the
 cap to 12,000 tokens (about 8 minutes); the model's context leaves room for that.
 
+## Listening app
+
+`player/` is a small native Mac app, Bibelsanger, for listening to the songs in a loop:
+
+```bash
+player/build.sh --install     # builds and installs ~/Applications/Bibelsanger.app (needs Xcode)
+```
+
+It lists the songs in `library/` on this Mac, then the songs on media.flogvit.com that are not on this Mac
+(made on another machine), streamed from there. New songs appear on their own: it looks at `library/` every
+15 s and at media.flogvit.com every 5 minutes. Double-click a song to play it; the list as shown (search included) plays in a loop. The bar at the
+bottom has shuffle and repeat all / one / off, and the Mac's media keys work. The right side shows the
+song's lyrics, its Bible passages (linked to bible.flogvit.com) and its chord and lead sheets. The app
+looks for the repo at `~/WebstormProjects/flogvit/music`; pick another folder with ⌘O.
+
+While a song plays, the line being sung lights up and its syllables fill in as they are sung; the lyrics
+scroll along, and clicking a line jumps there. The timing comes from the song's `alignment.json` (made by
+`scripts/song-sheets.py`), read from `library/<id>/` or else `sheets/<id>/`, or fetched from media.flogvit.com. Lines the sheets mark as
+uncertain light up as a whole line; songs without sheets show plain lyrics.
+
 ## Sheet music
 
 `scripts/song-sheets.py` turns finished songs into something people can play and sing from:
@@ -212,6 +232,7 @@ folder's files, so rebuild after regenerating a song or its sheets.
 | `audio.mp3` | the same as MP3, LAME V0 (about 240 kbit/s), tagged with title, genre and the passage with its link |
 | `chords.pdf`, `chords.cho` | the chord sheet, as PDF and ChordPro (see Sheet music) |
 | `leadsheet.pdf` | the lead sheet: melody with chords and lyrics |
+| `alignment.json` | when each syllable is sung (from the sheets), for highlighting the lyrics |
 | `info.json` | everything about the song, below |
 
 ### info.json
@@ -230,3 +251,51 @@ folder's files, so rebuild after regenerating a song or its sheets.
 | `lyricsOnNotes` | how well the words sit on the melody (the Whisper check behind the lead sheet): lines on their notes, the uncertain lines, words heard |
 | `generated` | `machine`, `date`, and `yue`: package and torch versions, the YuE commit and whether the patch was applied, model repos with revision and sha256, generation config, whether the song was cut off |
 | `files` | the file names in the folder |
+
+## Publish
+
+The songs are free to use. We serve them at **https://media.flogvit.com/music/**, and anyone can publish
+their own copy from this repo to any static host or S3-compatible bucket.
+
+`scripts/publish.ts` takes every finished song in `library/` and publishes it as a collection (`bible` by
+default; other music gets its own collection with `--collection <name>`):
+
+```bash
+bun scripts/publish.ts                    # to the S3 bucket in .env (see .env.example)
+bun scripts/publish.ts --out site/music   # to a folder, for any static web host
+bun scripts/publish.ts --dry-run          # say what would change, change nothing
+```
+
+It only uploads files that changed, so it can run after every new song. Several machines can publish into
+the same collection, each from its own `library/`: the songs another machine published stay in the
+collection, and a song a machine has itself is replaced by its copy. What it publishes:
+
+| path | what it is |
+|---|---|
+| `index.json` | every song in every collection on the host: title, collection, kind, Bible passages, style, tags (sentiment, liturgy, themes, stories, persons), lyrics, music facts and file paths |
+| `<collection>/songs.json` | the songs of one collection; `index.json` is built from these |
+| `<collection>/<id>/audio.mp3` | the song |
+| `<collection>/<id>/info.json` | everything about the song, as in `library/` |
+| `<collection>/<id>/alignment.json` | when each syllable is sung, for highlighting the lyrics |
+| `<collection>/<id>/chords.pdf`, `chords.cho`, `leadsheet.pdf` | chord sheet, ChordPro and lead sheet |
+
+File paths in `index.json` are relative to `index.json` itself, so a copy works wherever it is served. In
+a bucket, the public tree goes under `MEDIA_PREFIX` (default `system/music/`). The FLAC masters go to
+`masters/<collection>/<id>/audio.flac` in the same bucket, private and in cold storage. Serve the public
+prefix at a stable hostname, through a redirect or a CDN, so apps never depend on where the files are stored.
+
+## Search
+
+`lib/music.ts` searches `index.json` without a server. Clients load the index and filter it:
+
+```bash
+bun scripts/search.ts bread                        # words in title, lyrics, style, passages and tags
+bun scripts/search.ts --verse "John 6:35"          # songs on a passage that includes the verse
+bun scripts/search.ts --theme salvation --style worship
+bun scripts/search.ts --story nehemjas-mur --json  # matching songs as JSON with absolute file URLs
+```
+
+Other filters: `--collection`, `--kind`, `--sentiment`, `--liturgy`, `--person`. `--verse` takes book
+names as the passages spell them (`John`, `1 Corinthians`), the short names in bible.flogvit.com URLs (`joh`,
+`1kor`), or the start of a name (`1 Cor`). The index defaults to `https://media.flogvit.com/music/index.json`;
+`--index <file or URL>` points elsewhere. Tests: `bun test lib`.

@@ -28,7 +28,7 @@ on Home Mac.
 | chapter-19-103-gospel | done 2026-10-29 00:01, 3:47, sheets in sheets/ |
 | story-jesu-fodsel-celtic | done 2026-10-29 00:29, 3:14, sheets in sheets/ |
 | story-jesu-oppstandelse-gospel | done 2026-10-29 00:51, 2:46, sheets in sheets/ |
-| story-korsfestelsen-ballad | taken |
+| story-korsfestelsen-ballad | done 2026-10-29 01:21, 3:48, sheets in sheets/ |
 | verse-40-6-9-choral | taken |
 | verse-50-4-13-pop | taken |
 | verse-45-8-28-soul | taken |

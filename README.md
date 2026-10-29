@@ -115,6 +115,22 @@ git ls-remote origin 'refs/claims/*'
 git fetch origin '+refs/claims/*:refs/claims/*' && git log --format='%ci %s (%b)' refs/claims/<id>
 ```
 
+To keep a machine generating without a terminal, run it as a launchd agent, from a worktree of its own:
+
+```bash
+git worktree add -b <machine>-generate .claude/worktrees/generate origin/main
+cd .claude/worktrees/generate
+MUSIC_MACHINE="M5 (MacBook Pro, M5 Max, 128 GB)" scripts/install-generator.sh --from-end
+tail -f ~/Library/Logs/music-generate.log
+```
+
+The agent `com.flogvit.music-generate` starts at login and again 10 minutes after `run` stops, so a restart,
+a crash or a run that found no free song does not stop the machine for good. While a song generates, the Mac
+does not sleep on power (`caffeinate -s`); on battery it may, and after 20 minutes asleep the song is free for
+others. Without network, `run` waits and tries again every minute. Turn it off with
+`scripts/install-generator.sh --uninstall`, which gives the song it was making back. Started from a terminal or
+an agent session instead, `run` dies with that terminal or session.
+
 ### Single songs or your own batch
 
 ```bash

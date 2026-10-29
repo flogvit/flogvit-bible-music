@@ -171,6 +171,8 @@ async function generate(id: string, tip: string): Promise<Lock | undefined> {
   const child = run(['taskpolicy', '-b', '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
     '--config', path.join(REPO, 'configs', 'long-12000.json'), '--resume'], YUE, logFile);
   children.add(child);
+  // On power, the Mac stays awake while the song generates; asleep, its lock would go stale after 20 minutes.
+  Bun.spawn(['caffeinate', '-s', '-w', String(child.pid)]);
   const lock = new Lock(id, tip, () => child.kill());
   const code = await child.exited;
   children.delete(child);
@@ -208,6 +210,18 @@ function claimNext(fromEnd: boolean, skip: Set<string>): { id: string; tip: stri
   }
 }
 
+/** Without network, wait for it instead of stopping: the last song's sheets may still be in the making. */
+async function claimNextWhenOnline(fromEnd: boolean, skip: Set<string>) {
+  for (;;) {
+    try {
+      return claimNext(fromEnd, skip);
+    } catch (e) {
+      log(`OFFLINE (${String(e).split('\n')[0]}), trying again in a minute`);
+      await Bun.sleep(HEARTBEAT_MS);
+    }
+  }
+}
+
 function release() {
   for (const child of children) child.kill();
   for (const lock of held) lock.end('released');
@@ -224,7 +238,7 @@ if (command === 'run') {
   const failed = new Set<string>();
   // A song's sheets are made while the next song generates (Whisper on the CPU, YuE on the GPU), one at a time.
   let sheets = Promise.resolve();
-  for (let next = claimNext(fromEnd, failed); next; next = claimNext(fromEnd, failed)) {
+  for (let next = await claimNextWhenOnline(fromEnd, failed); next; next = await claimNextWhenOnline(fromEnd, failed)) {
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);
     if (!lock) {

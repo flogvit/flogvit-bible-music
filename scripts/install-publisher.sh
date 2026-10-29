@@ -4,8 +4,10 @@
 #   MUSIC_MACHINE="Home Mac (M1 Max, 64 GB)" MUSIC_LIBRARY=~/WebstormProjects/flogvit/music/library \
 #     scripts/install-publisher.sh
 #
-# Run it from a checkout that nothing else uses, for example a worktree of its own: the agent moves that
-# checkout to the newest origin/main before each run. Logs go to ~/Library/Logs/music-publish.log.
+# Run it from a checkout that nothing else uses, for example a worktree of its own beside the main checkout
+# (git worktree add --detach ../music-publisher origin/main): the agent moves that checkout to the newest
+# origin/main before each run. Not under .claude/worktrees/, where Dux's sweep removes idle worktrees.
+# MUSIC_LIBRARY must be the library this machine's generation writes to. Logs go to ~/Library/Logs/music-publish.log.
 set -eu
 label=com.flogvit.music-publish
 plist=$HOME/Library/LaunchAgents/$label.plist

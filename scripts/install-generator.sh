@@ -5,7 +5,9 @@
 #
 # launchd starts it at login and starts it again 10 minutes after it stops: after a crash, after a lost network
 # at start, and when no song was free (another machine may have given one back). Run it from a worktree of its
-# own: it generates with the scripts in that checkout and pushes the sheets to its branch. Logs go to
+# own beside the main checkout (git worktree add -b <machine>-generate ../music-generate origin/main), not under
+# .claude/worktrees/, where Dux's sweep removes idle worktrees: it generates with the scripts in that checkout
+# and pushes the sheets to its branch. Logs go to
 # ~/Library/Logs/music-generate.log. --uninstall stops it, and the song it was making is given back at once.
 set -eu
 label=com.flogvit.music-generate

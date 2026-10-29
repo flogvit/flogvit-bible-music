@@ -119,11 +119,13 @@ git ls-remote origin 'refs/claims/*'
 git fetch origin '+refs/claims/*:refs/claims/*' && git log --format='%ci %s (%b)' refs/claims/<id>
 ```
 
-To keep a machine generating without a terminal, run it as a launchd agent, from a worktree of its own:
+To keep a machine generating without a terminal, run it as a launchd agent, from a worktree of its own beside
+the checkout. Not under `.claude/worktrees/`: Dux's hourly sweep removes idle worktrees there, and with them the
+script launchd runs.
 
 ```bash
-git worktree add -b <machine>-generate .claude/worktrees/generate origin/main
-cd .claude/worktrees/generate
+git worktree add -b <machine>-generate ../music-generate origin/main
+cd ../music-generate
 MUSIC_MACHINE="M5 (MacBook Pro, M5 Max, 128 GB)" scripts/install-generator.sh --from-end
 tail -f ~/Library/Logs/music-generate.log
 ```
@@ -354,12 +356,13 @@ prefix at a stable hostname, through a redirect or a CDN, so apps never depend o
 Each machine that makes songs runs `scripts/publish-auto.sh` on a timer. It does nothing when no song in its
 library is new, and otherwise runs `publish.ts`. The S3 key comes from the machine's own `scw` setup
 (`~/.config/scw/config.yaml`) on every run and is never stored; bucket and prefix default to flogvit-media
-and `system/music/`. Install the timer once per machine, from a worktree of its own (the timer moves it to the
-newest `origin/main` before each run):
+and `system/music/`. Install the timer once per machine, from a worktree of its own beside the checkout (the
+timer moves it to the newest `origin/main` before each run; not under `.claude/worktrees/`, which Dux's sweep
+removes). `MUSIC_LIBRARY` must be the library this machine's generation writes `library/<id>/` to:
 
 ```bash
-git worktree add --detach .claude/worktrees/publisher origin/main
-cd .claude/worktrees/publisher
+git worktree add --detach ../music-publisher origin/main
+cd ../music-publisher
 MUSIC_MACHINE="Home Mac (M1 Max, 64 GB)" MUSIC_LIBRARY=~/WebstormProjects/flogvit/music/library \
   scripts/install-publisher.sh
 ```

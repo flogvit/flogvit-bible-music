@@ -51,3 +51,38 @@ on Home Mac.
 | theme-jul-orchestral | taken |
 | theme-nade-soul | taken |
 | theme-pinse-worship | taken |
+
+## M5 (MacBook Pro, M5 Max, 128 GB)
+
+Started 2026-10-29 with `configs/long-12000.json`, torch 2.14.1, one song at a time under `taskpolicy -b`. It
+takes catalog portion 7 (the 24 stories added last), last song first, so it stays clear of Home Mac, which
+works through the portions from 1. Output: `YuE/outputs/catalog/<id>/` and `library/<id>/` on M5; its sheets
+are on the branch `worktree-m5-claims` until that is merged. To copy a finished song to Home Mac:
+`rsync -av ~/WebstormProjects/flogvit/music/library/<id> 192.168.2.209:WebstormProjects/flogvit/music/library/`
+
+| song | status |
+|---|---|
+| story-jesus-er-livets-brod-worship | taken |
+| story-sennepsfroet-children | taken |
+| story-nehemjas-mur-rock | taken |
+| story-synderinnen-salver-jesu-fotter-ballad | taken |
+| story-filip-og-den-etiopiske-hoffmannen-gospel | taken |
+| story-stefanus-martyrium-hymn | taken |
+| story-arbeiderne-i-vingarden-folk | taken |
+| story-lignelsen-om-talentene-pop | taken |
+| story-de-ti-jomfruene-soul | taken |
+| story-enken-med-skjervene-country | taken |
+| story-helbredelsen-av-den-blindfodte-gospel | taken |
+| story-den-store-fiskefangsten-celtic | taken |
+| story-forklarelsen-pa-fjellet-worship | taken |
+| story-fristelsen-i-orkenen-rock | taken |
+| story-jesus-i-tempelet-som-tolvaaring-acoustic | taken |
+| story-jona-i-ninive-folk | taken |
+| story-skriften-pa-veggen-jazz | taken |
+| story-elias-himmelfart-orchestral | taken |
+| story-david-salves-til-konge-country | taken |
+| story-manna-fra-himmelen-children | taken |
+| story-pasken-og-uttoget-gospel | taken |
+| story-kain-og-abel-blues | taken |
+| story-babels-tarn-rock | taken |
+| story-abrahams-kall-folk | taken |

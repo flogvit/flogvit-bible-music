@@ -33,7 +33,7 @@ on Home Mac.
 | verse-50-4-13-pop | done 2026-10-29 02:02, 2:24, sheets in sheets/ |
 | verse-45-8-28-soul | done 2026-10-29 02:30, 3:33, sheets in sheets/ |
 | verse-23-40-31-worship | done 2026-10-29 03:05, 4:11, sheets in sheets/ |
-| verse-20-3-5-country | taken |
+| verse-20-3-5-country | done 2026-10-29 03:33, 3:27, sheets in sheets/ |
 | verse-4-6-24-celtic | taken |
 | verse-40-5-3-folk | taken |
 | verse-6-1-9-rock | taken |

@@ -45,7 +45,7 @@ on Home Mac.
 | story-daniel-i-lovehulen-soul | done 2026-10-29 07:49, 4:54, sheets in sheets/ |
 | story-jona-i-fiskens-buk-children | done 2026-10-29 08:08, 2:27, sheets in sheets/ |
 | person-moses-folk | done 2026-10-29 08:39, 3:32, sheets in sheets/ |
-| person-maria-jesu-mor-ballad | taken |
+| person-maria-jesu-mor-ballad | done 2026-10-29 09:12, 4:09, sheets in sheets/ |
 | person-peter-acoustic | taken |
 | person-paulus-rock | taken |
 | theme-jul-orchestral | taken |

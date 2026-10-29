@@ -40,7 +40,7 @@ describe('lyrics check', () => {
   test('a song whose chorus is sung each time the lyrics repeat it passes', async () => {
     const f = fixture(PASSING.id);
     const v = await judge(f.lyrics, f.whisper);
-    expect(v.problems).toEqual([]);
+    expect(v.verdict).toBe('correct');
     expect(passes(v)).toBe(true);
   }, MINUTES);
 

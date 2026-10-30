@@ -136,15 +136,13 @@ bun scripts/generate.ts status                                                  
 
 `run` takes the next free song, generates it with `configs/long-12000.json` under `taskpolicy -b`, checks that
 the singing delivers its lyrics (see Lyrics check), makes its sheets and `library/<id>/`, commits the sheets and pushes them to `main` (or the current branch, or
-`$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one. Every other song it
-remakes one of this machine's songs whose catalog request changed (see remake below), and when fewer than 4 songs are
-free it writes the next portion of the catalog (see The catalog grows by itself), so it does not run out. It
-starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default `mlx_video` and `mflux`, the owner's video and picture jobs)
-or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. Songs come first: after each song YuE
-makes, while the GPU is free, it makes the pictures for the big screen for one song in `library/` that has none
-(`MUSIC_PICTURES_PER_SONG`, default 1; 0 leaves them to the end of the run; see Pictures for the big screen). A
-start or restart claims a song before any picture, and a song whose pictures fail is logged, skipped and tried
-again in the next run. It can run
+`$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one. New catalog songs come first: when fewer than 4 songs are
+free it writes the next portion of the catalog (see The catalog grows by itself), so it does not run out, and only when no song is free does it remake this machine's songs whose catalog
+request changed (see remake below). It starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default `mlx_video` and `mflux`, the owner's video and picture jobs)
+or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. Songs come first: the pictures for the big screen
+(see Pictures for the big screen) are made when no song is left to take, so they never hold a song back
+(`MUSIC_PICTURES_PER_SONG=<n>` makes them for n library songs after each song instead). A song whose pictures
+fail is logged, skipped and tried again in the next run. It can run
 from a worktree; `YuE/`,
 `.venv-sheets` and `library/` are found in the main checkout. Before it takes new songs, it finishes the songs
 already made on this machine (sheets and library if they are missing) and marks them done. Its log goes to the
@@ -234,7 +232,7 @@ log line `REMAKE <id>: new take …, old take …` gives both. Otherwise, or if 
 gets its old take back and stays done, the new take lies in `<id>-remake-failed/`, and nothing is committed or
 published, so the published song stays and no other machine makes it again from its own catalog.
 
-`run` does this by itself: every other song, it remakes one of the songs this machine made whose
+`run` does this by itself: when no new song is free, it remakes, one at a time, the songs this machine made whose
 catalog request (`style`, `lyrics`, `cot` or `abc`) differs from the one in the take's `request.json`. A change
 merged to `main` therefore reaches every song on the Mac that made it (a song must be remade where its old take
 is, since the published list prefers the Home Mac's take of a song both have). Each request is tried until a take

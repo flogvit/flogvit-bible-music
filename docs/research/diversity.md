@@ -199,3 +199,22 @@ chorus, with an intro and an outro. So the planner makes its own contrast betwee
 have no chorus. The old take lies in `YuE/outputs/catalog/chapter-19-136-gospel-replaced/` on the M5, for
 listening side by side. The new take is in `library/` and goes out with the publisher. One song is not a group:
 group A in the test plan needs the further litanies before `litany` counts as no worse than the standard form.
+
+## Form tests, 2026-10-30
+
+The forms `strophic`, `ballad`, `chant` and `call-response` are in `scripts/lyrics-form.ts`. Each was tried on
+three songs made on the M5 (a remake must run where the old take is), with `remake` on the M5: the new take is
+kept only when its lyrics check is at least as good (`correct` before `adopt`) and at least as large a share of
+its lines sits on its notes (`alignment.json`). The groups: strophic Psalm 90, the cross hymn and Psalm 1;
+ballad Jonah in Nineveh, Joseph in the well, Cain and Abel; chant Revelation 22:20, Philippians 4:4 and
+Psalm 42:2; call-response the dry bones, the Passover and the man born blind.
+
+| song | form | lyrics check | lines on notes, new / old | kept | YuE's plan (score.abc) |
+|---|---|---|---|---|---|
+| chapter-19-90-hymn | strophic, 5 verses of 4 lines | `correct` (only small words marked (?)) | 11 of 20 / 25 of 25 | old | I-V-C-V-C-O, 3/4 → 4/4, 76 BPM |
+
+**YuE plans its own form.** Psalm 136 as a litany (4 `[Verse]` blocks) was planned verse-chorus-verse-chorus,
+and Psalm 90 as five verses the same: the planner labels every second block a chorus and gives it another
+melody, whatever the lyrics' tags say. Verses only in the lyrics do not make a strophic song. Psalm 90's verses
+are not metrical (4 to 12 syllables a line), and its new take sang every line, but Whisper found only 11 of 20 of
+them on their notes, against all 25 in the verse-chorus take; that take stays.

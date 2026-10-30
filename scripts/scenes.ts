@@ -95,7 +95,8 @@ function log(text: string) {
   console.log(`${new Date().toTimeString().slice(0, 8)} ${text}`);
 }
 
-async function ask<T>(model: string, think: boolean, system: string, user: string, format: object, images?: string[]): Promise<T> {
+/** Asks a model for JSON. `think` unset leaves thinking to the model (the vision check: see below). */
+async function ask<T>(model: string, think: boolean | undefined, system: string, user: string, format: object, images?: string[]): Promise<T> {
   const r = await fetch(`${OLLAMA}/api/chat`, {
     timeout: false, // queued behind another Ollama request, an answer can take longer than Bun's 5 minutes
     method: 'POST',
@@ -107,9 +108,7 @@ async function ask<T>(model: string, think: boolean, system: string, user: strin
     }),
   });
   if (!r.ok) throw new Error(`${model}: ${r.status} ${await r.text()}`);
-  // Some Ollama versions (0.32) put a vision model's answer under `thinking` when thinking is off.
-  const { message } = await r.json() as { message: { content: string; thinking?: string } };
-  return JSON.parse(message.content || message.thinking || '') as T;
+  return JSON.parse((await r.json() as { message: { content: string } }).message.content) as T;
 }
 
 /** Can pictures be made here? Pulls the Ollama models once; undefined when ready, else what is missing. */
@@ -201,7 +200,9 @@ im.resize((960, 540)).save(sys.argv[3], quality=85)
 `, png, out, small]);
     rmSync(png, { force: true });
     if (convert.exitCode !== 0) throw new Error(`convert: ${convert.stderr.toString()}`);
-    const look = await ask<Look>(LOOK_MODEL, false, LOOK_RULES, `The picture was meant to show: ${description}`, LOOK_SCHEMA,
+    // Ollama 0.32 with thinking turned off lets qwen3-vl answer under `thinking`, sometimes in prose, and leaves the
+    // answer empty; left to itself it thinks and answers in the format.
+    const look = await ask<Look>(LOOK_MODEL, undefined, LOOK_RULES, `The picture was meant to show: ${description}`, LOOK_SCHEMA,
       [Buffer.from(readFileSync(small)).toString('base64')]);
     rmSync(small, { force: true });
     if (!look.writing && !look.modern && !look.broken && !look.posing) return true;

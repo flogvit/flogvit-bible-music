@@ -610,21 +610,28 @@ if (command === 'run') {
   const rejectedHere = new Map<string, number>();
   // A song's sheets are made while the next song generates (Whisper on the CPU, YuE on the GPU), one at a time.
   let sheets = Promise.resolve();
+  // Changed songs and new songs take turns, so a big catalog change does not hold the new songs back.
+  let remadeLast = false;
   for (;;) {
     await stopForNewCode(sheets);
     await yieldGpu();
     await pictures(PICTURE_HOURS);
-    // First this machine's songs whose catalog request changed (a new form or style), one at a time.
-    const changed = changedRequest(failed);
+    // This machine's songs whose catalog request changed (a new form or style), every other song.
+    const changed = remadeLast ? undefined : changedRequest(failed);
     if (changed) {
       await sheets;
       await remake(changed);
       failed.add(changed);
+      remadeLast = true;
       continue;
     }
+    remadeLast = false;
     await refillCatalog(sheets);
     const next = await claimNextWhenOnline(fromEnd, failed);
-    if (!next) break;
+    if (!next) {
+      if (changedRequest(failed)) continue;
+      break;
+    }
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);
     if (!lock) {

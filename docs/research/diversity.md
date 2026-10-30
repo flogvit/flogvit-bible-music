@@ -212,6 +212,7 @@ Psalm 42:2; call-response the dry bones, the Passover and the man born blind.
 | song | form | lyrics check | lines on notes, new / old | kept | YuE's plan (score.abc) |
 |---|---|---|---|---|---|
 | chapter-19-90-hymn | strophic, 5 verses of 4 lines | `correct` (only small words marked (?)) | 11 of 20 / 25 of 25 | old | I-V-C-V-C-O, 4/4, 76 BPM (old take I-V-C-V-C-V-O, 4/4, 70) |
+| theme-korset-hymn | strophic, 5 verses of 4 lines (8.6.8.6) | `correct` | 20 of 20 / 16 of 28 | new | I-V-i-V-O, 3/4 (YuE chose it), 77 BPM (old take I-V-C-V-C-B-V-C-O, 4/4, 72) |
 
 **YuE plans its own form.** Psalm 136 as a litany (4 `[Verse]` blocks) was planned verse-chorus-verse-chorus,
 and Psalm 90 as five verses the same: the planner labels every second block a chorus and gives it another

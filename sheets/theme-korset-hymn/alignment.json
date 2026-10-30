@@ -1,15 +1,15 @@
 {
  "id": "theme-korset-hymn",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/theme-korset-hymn",
- "offset_seconds": -3.8600000000001735,
- "words_heard": 122,
+ "offset_seconds": -2.6200000000002,
+ "words_heard": 123,
  "words": 123,
  "lines": [
   {
    "text": "Upon a hill outside the gate",
    "heard": 6,
    "words": 6,
-   "error_s": 0.89,
+   "error_s": 0.39,
    "tie_split": false,
    "uncertain": false
   },
@@ -17,7 +17,7 @@
    "text": "They raised a cross of wood",
    "heard": 6,
    "words": 6,
-   "error_s": 0.62,
+   "error_s": 0.39,
    "tie_split": false,
    "uncertain": false
   },
@@ -25,7 +25,7 @@
    "text": "And there the Son of God was hung",
    "heard": 8,
    "words": 8,
-   "error_s": 1.04,
+   "error_s": 0.36,
    "tie_split": false,
    "uncertain": false
   },
@@ -33,7 +33,7 @@
    "text": "Where we ourselves had stood",
    "heard": 5,
    "words": 5,
-   "error_s": 0.68,
+   "error_s": 0.08,
    "tie_split": false,
    "uncertain": false
   },
@@ -41,7 +41,7 @@
    "text": "The crowd went by and shook their heads",
    "heard": 8,
    "words": 8,
-   "error_s": 0.23,
+   "error_s": 0.4,
    "tie_split": false,
    "uncertain": false
   },
@@ -49,7 +49,7 @@
    "text": "And mocked him as he died",
    "heard": 6,
    "words": 6,
-   "error_s": 0.41,
+   "error_s": 0.25,
    "tie_split": false,
    "uncertain": false
   },
@@ -57,7 +57,7 @@
    "text": "The soldiers gambled for his clothes",
    "heard": 6,
    "words": 6,
-   "error_s": 0.54,
+   "error_s": 0.38,
    "tie_split": false,
    "uncertain": false
   },
@@ -65,7 +65,7 @@
    "text": "And pierced him in his side",
    "heard": 6,
    "words": 6,
-   "error_s": 0.79,
+   "error_s": 0.55,
    "tie_split": false,
    "uncertain": false
   },
@@ -73,7 +73,7 @@
    "text": "The message of the cross is called",
    "heard": 7,
    "words": 7,
-   "error_s": 0.37,
+   "error_s": 0.53,
    "tie_split": false,
    "uncertain": false
   },
@@ -81,7 +81,7 @@
    "text": "But foolishness by some",
    "heard": 4,
    "words": 4,
-   "error_s": 0.48,
+   "error_s": 0.5,
    "tie_split": false,
    "uncertain": false
   },
@@ -89,7 +89,7 @@
    "text": "Yet unto us who are being saved",
    "heard": 7,
    "words": 7,
-   "error_s": 0.1,
+   "error_s": 0.98,
    "tie_split": false,
    "uncertain": false
   },
@@ -97,7 +97,7 @@
    "text": "The power of God has come",
    "heard": 6,
    "words": 6,
-   "error_s": 0.37,
+   "error_s": 0.19,
    "tie_split": false,
    "uncertain": false
   },
@@ -105,7 +105,7 @@
    "text": "I will not boast in anything",
    "heard": 6,
    "words": 6,
-   "error_s": 0.16,
+   "error_s": 0.1,
    "tie_split": false,
    "uncertain": false
   },
@@ -113,7 +113,7 @@
    "text": "But in the cross of Christ",
    "heard": 6,
    "words": 6,
-   "error_s": 0.17,
+   "error_s": 0.08,
    "tie_split": false,
    "uncertain": false
   },
@@ -121,7 +121,7 @@
    "text": "The world is crucified to me",
    "heard": 6,
    "words": 6,
-   "error_s": 0.24,
+   "error_s": 0.49,
    "tie_split": false,
    "uncertain": false
   },
@@ -129,7 +129,7 @@
    "text": "And I to it have died",
    "heard": 6,
    "words": 6,
-   "error_s": 0.09,
+   "error_s": 0.8,
    "tie_split": false,
    "uncertain": false
   },
@@ -137,15 +137,15 @@
    "text": "Now let the proud lay down their crowns",
    "heard": 8,
    "words": 8,
-   "error_s": 0.2,
+   "error_s": 0.05,
    "tie_split": false,
    "uncertain": false
   },
   {
    "text": "The wise their clever word",
-   "heard": 4,
+   "heard": 5,
    "words": 5,
-   "error_s": 0.08,
+   "error_s": 0.26,
    "tie_split": false,
    "uncertain": false
   },
@@ -153,7 +153,7 @@
    "text": "For in this foolishness we find",
    "heard": 6,
    "words": 6,
-   "error_s": 0.21,
+   "error_s": 0.57,
    "tie_split": false,
    "uncertain": false
   },
@@ -161,7 +161,7 @@
    "text": "The wisdom of the Lord",
    "heard": 5,
    "words": 5,
-   "error_s": 0.4,
+   "error_s": 0.71,
    "tie_split": false,
    "uncertain": false
   }
@@ -169,858 +169,861 @@
  "syllables": [
   {
    "text": "Up",
-   "time": 23.36,
-   "weight": 0.66,
+   "time": 22.36,
+   "weight": 0.77,
    "note_time": 22.99
   },
   {
    "text": "on",
-   "time": 23.71,
-   "weight": 0.66,
+   "time": 22.71,
+   "weight": 0.77,
    "note_time": 23.38
   },
   {
    "text": "a",
-   "time": 24.74,
+   "time": 23.76,
    "weight": 1.0,
    "note_time": 24.16
   },
   {
    "text": "hill",
-   "time": 25.84,
+   "time": 24.92,
    "weight": 1.0,
    "note_time": 24.55
   },
   {
    "text": "out",
-   "time": 26.34,
-   "weight": 0.96,
+   "time": 25.48,
+   "weight": 0.98,
    "note_time": 25.32
   },
   {
    "text": "side",
-   "time": 26.69,
-   "weight": 0.96,
+   "time": 25.83,
+   "weight": 0.98,
    "note_time": 25.71
   },
   {
    "text": "the",
-   "time": 27.3,
+   "time": 26.44,
    "weight": 0.99,
    "note_time": 26.49
   },
   {
    "text": "gate",
-   "time": 28.08,
-   "weight": 0.99,
+   "time": 27.3,
+   "weight": 1.0,
    "note_time": 26.69
   },
   {
    "text": "They",
-   "time": 28.42,
-   "weight": 0.46,
+   "time": 27.62,
+   "weight": 0.32,
    "note_time": 27.66
   },
   {
    "text": "raised",
-   "time": 29.24,
+   "time": 28.44,
+   "weight": 0.99,
+   "note_time": 28.05
+  },
+  {
+   "text": "a",
+   "time": 29.1,
    "weight": 0.99,
    "note_time": 28.83
   },
   {
-   "text": "a",
-   "time": 29.84,
-   "weight": 1.0,
+   "text": "cross",
+   "time": 29.66,
+   "weight": 0.99,
    "note_time": 29.22
   },
   {
-   "text": "cross",
-   "time": 30.46,
-   "weight": 0.99,
+   "text": "of",
+   "time": 30.02,
+   "weight": 1.0,
    "note_time": 30.0
   },
   {
-   "text": "of",
-   "time": 30.84,
+   "text": "wood",
+   "time": 30.88,
    "weight": 1.0,
    "note_time": 30.19
   },
   {
-   "text": "wood",
-   "time": 31.6,
-   "weight": 1.0,
-   "note_time": 30.39
-  },
-  {
    "text": "And",
-   "time": 32.16,
-   "weight": 0.3,
+   "time": 31.38,
+   "weight": 0.21,
    "note_time": 32.34
   },
   {
    "text": "there",
-   "time": 33.82,
-   "weight": 1.0,
+   "time": 33.14,
+   "weight": 0.98,
    "note_time": 32.73
   },
   {
    "text": "the",
-   "time": 34.34,
-   "weight": 0.99,
+   "time": 33.62,
+   "weight": 1.0,
    "note_time": 33.51
   },
   {
    "text": "Son",
-   "time": 34.94,
-   "weight": 0.98,
+   "time": 34.26,
+   "weight": 0.99,
    "note_time": 33.9
   },
   {
    "text": "of",
-   "time": 35.38,
+   "time": 34.74,
    "weight": 1.0,
    "note_time": 34.68
   },
   {
    "text": "God",
-   "time": 36.18,
+   "time": 35.54,
    "weight": 1.0,
    "note_time": 35.06
   },
   {
    "text": "was",
-   "time": 36.7,
+   "time": 36.14,
    "weight": 1.0,
    "note_time": 35.84
   },
   {
    "text": "hung",
-   "time": 37.36,
+   "time": 36.7,
    "weight": 1.0,
    "note_time": 36.04
   },
   {
    "text": "Where",
-   "time": 37.64,
-   "weight": 0.3,
+   "time": 37.02,
+   "weight": 0.41,
    "note_time": 37.01
   },
   {
    "text": "we",
-   "time": 38.46,
+   "time": 37.84,
    "weight": 1.0,
    "note_time": 37.4
   },
   {
    "text": "our",
-   "time": 38.86,
+   "time": 38.26,
    "weight": 1.0,
    "note_time": 38.18
   },
   {
    "text": "selves",
-   "time": 39.21,
+   "time": 38.61,
    "weight": 1.0,
    "note_time": 38.57
   },
   {
    "text": "had",
-   "time": 39.88,
-   "weight": 0.99,
+   "time": 39.28,
+   "weight": 1.0,
    "note_time": 39.35
   },
   {
    "text": "stood",
-   "time": 40.8,
+   "time": 40.2,
    "weight": 1.0,
    "note_time": 39.74
   },
   {
    "text": "The",
-   "time": 41.72,
-   "weight": 0.97,
+   "time": 40.62,
+   "weight": 0.39,
    "note_time": 41.69
   },
   {
    "text": "crowd",
-   "time": 43.04,
+   "time": 42.48,
+   "weight": 1.0,
+   "note_time": 42.08
+  },
+  {
+   "text": "went",
+   "time": 42.98,
    "weight": 1.0,
    "note_time": 42.86
   },
   {
-   "text": "went",
-   "time": 43.56,
+   "text": "by",
+   "time": 43.72,
    "weight": 1.0,
    "note_time": 43.25
   },
   {
-   "text": "by",
-   "time": 44.26,
-   "weight": 1.0,
+   "text": "and",
+   "time": 44.22,
+   "weight": 0.98,
    "note_time": 44.03
   },
   {
-   "text": "and",
-   "time": 44.76,
-   "weight": 0.98,
+   "text": "shook",
+   "time": 44.96,
+   "weight": 1.0,
    "note_time": 44.42
   },
   {
-   "text": "shook",
-   "time": 45.42,
+   "text": "their",
+   "time": 45.34,
    "weight": 1.0,
    "note_time": 45.19
   },
   {
-   "text": "their",
-   "time": 45.82,
+   "text": "heads",
+   "time": 46.08,
    "weight": 1.0,
    "note_time": 45.39
   },
   {
-   "text": "heads",
-   "time": 46.54,
-   "weight": 1.0,
+   "text": "And",
+   "time": 46.56,
+   "weight": 0.99,
    "note_time": 46.36
   },
   {
-   "text": "And",
-   "time": 46.98,
-   "weight": 0.99,
-   "note_time": 46.75
-  },
-  {
    "text": "mocked",
-   "time": 47.7,
-   "weight": 1.0,
+   "time": 47.28,
+   "weight": 0.98,
    "note_time": 47.53
   },
   {
    "text": "him",
-   "time": 48.78,
-   "weight": 0.64,
+   "time": 48.36,
+   "weight": 0.61,
    "note_time": 47.92
   },
   {
    "text": "as",
-   "time": 48.86,
+   "time": 48.46,
    "weight": 1.0,
    "note_time": 48.7
   },
   {
    "text": "he",
-   "time": 49.48,
+   "time": 49.02,
    "weight": 1.0,
    "note_time": 48.9
   },
   {
    "text": "died",
-   "time": 50.02,
+   "time": 49.62,
    "weight": 1.0,
    "note_time": 49.09
   },
   {
    "text": "The",
-   "time": 51.28,
-   "weight": 0.99,
+   "time": 50.6,
+   "weight": 1.0,
    "note_time": 51.04
   },
   {
    "text": "sol",
-   "time": 52.24,
+   "time": 51.88,
    "weight": 1.0,
    "note_time": 51.43
   },
   {
    "text": "diers",
-   "time": 52.59,
+   "time": 52.23,
    "weight": 1.0,
    "note_time": 52.21
   },
   {
    "text": "gam",
-   "time": 53.18,
+   "time": 52.92,
    "weight": 0.99,
    "note_time": 52.6
   },
   {
    "text": "bled",
-   "time": 53.53,
+   "time": 53.27,
    "weight": 0.99,
    "note_time": 53.38
   },
   {
    "text": "for",
-   "time": 54.62,
+   "time": 54.38,
    "weight": 1.0,
    "note_time": 53.77
   },
   {
    "text": "his",
-   "time": 55.04,
+   "time": 54.78,
    "weight": 1.0,
    "note_time": 54.55
   },
   {
    "text": "clothes",
-   "time": 55.78,
-   "weight": 0.95,
+   "time": 55.46,
+   "weight": 0.98,
    "note_time": 54.74
   },
   {
    "text": "And",
-   "time": 56.1,
-   "weight": 0.99,
+   "time": 55.92,
+   "weight": 1.0,
    "note_time": 55.71
   },
   {
    "text": "pierced",
-   "time": 56.86,
+   "time": 56.54,
    "weight": 1.0,
    "note_time": 56.1
   },
   {
    "text": "him",
-   "time": 57.9,
+   "time": 57.66,
    "weight": 1.0,
    "note_time": 56.88
   },
   {
    "text": "in",
-   "time": 58.1,
+   "time": 57.92,
    "weight": 1.0,
    "note_time": 57.27
   },
   {
    "text": "his",
-   "time": 58.68,
+   "time": 58.5,
    "weight": 1.0,
    "note_time": 58.05
   },
   {
    "text": "side",
-   "time": 59.3,
-   "weight": 0.95,
+   "time": 59.12,
+   "weight": 0.96,
    "note_time": 58.44
   },
   {
    "text": "The",
-   "time": 69.4,
-   "weight": 0.59,
-   "note_time": 69.74
+   "time": 59.56,
+   "weight": 0.21,
+   "note_time": 60.39
   },
   {
    "text": "mes",
-   "time": 70.68,
-   "weight": 0.95,
-   "note_time": 70.13
+   "time": 61.3,
+   "weight": 0.97,
+   "note_time": 60.78
   },
   {
    "text": "sage",
-   "time": 71.03,
-   "weight": 0.95,
-   "note_time": 70.91
+   "time": 61.65,
+   "weight": 0.97,
+   "note_time": 61.56
   },
   {
    "text": "of",
-   "time": 71.86,
-   "weight": 1.0,
-   "note_time": 71.3
+   "time": 62.48,
+   "weight": 0.99,
+   "note_time": 61.95
   },
   {
    "text": "the",
-   "time": 72.42,
+   "time": 63.08,
    "weight": 1.0,
-   "note_time": 72.08
+   "note_time": 62.73
   },
   {
    "text": "cross",
-   "time": 73.04,
-   "weight": 0.86,
-   "note_time": 72.47
+   "time": 63.7,
+   "weight": 0.83,
+   "note_time": 63.12
   },
   {
    "text": "is",
-   "time": 73.62,
+   "time": 64.48,
    "weight": 0.99,
-   "note_time": 73.25
+   "note_time": 63.9
   },
   {
    "text": "called",
-   "time": 74.28,
-   "weight": 0.15,
-   "note_time": 73.44
+   "time": 64.9,
+   "weight": 0.93,
+   "note_time": 64.09
   },
   {
    "text": "But",
-   "time": 74.62,
-   "weight": 0.24,
-   "note_time": 74.42
+   "time": 65.56,
+   "weight": 0.9,
+   "note_time": 65.06
   },
   {
    "text": "fool",
-   "time": 75.32,
+   "time": 66.06,
    "weight": 0.4,
-   "note_time": 74.81
+   "note_time": 65.45
   },
   {
    "text": "ish",
-   "time": 75.67,
+   "time": 66.41,
    "weight": 0.4,
-   "note_time": 75.58
+   "note_time": 66.23
   },
   {
    "text": "ness",
-   "time": 76.02,
+   "time": 66.76,
    "weight": 0.4,
-   "note_time": 75.97
+   "note_time": 66.62
   },
   {
    "text": "by",
-   "time": 77.0,
+   "time": 67.66,
    "weight": 0.99,
-   "note_time": 76.75
+   "note_time": 67.4
   },
   {
    "text": "some",
-   "time": 77.66,
+   "time": 68.38,
    "weight": 1.0,
-   "note_time": 76.95
+   "note_time": 67.6
   },
   {
    "text": "Yet",
-   "time": 79.14,
-   "weight": 0.97,
-   "note_time": 79.09
+   "time": 69.56,
+   "weight": 0.21,
+   "note_time": 67.79
   },
   {
    "text": "un",
-   "time": 80.04,
-   "weight": 1.0,
-   "note_time": 79.48
+   "time": 70.76,
+   "weight": 0.99,
+   "note_time": 69.74
   },
   {
    "text": "to",
-   "time": 80.36,
+   "time": 71.07,
+   "weight": 0.99,
+   "note_time": 70.13
+  },
+  {
+   "text": "us",
+   "time": 71.38,
+   "weight": 1.0,
+   "note_time": 70.91
+  },
+  {
+   "text": "who",
+   "time": 72.62,
+   "weight": 0.98,
+   "note_time": 71.3
+  },
+  {
+   "text": "are",
+   "time": 73.12,
+   "weight": 0.98,
+   "note_time": 72.08
+  },
+  {
+   "text": "be",
+   "time": 73.64,
+   "weight": 0.98,
+   "note_time": 72.47
+  },
+  {
+   "text": "ing",
+   "time": 73.96,
+   "weight": 0.98,
+   "note_time": 73.25
+  },
+  {
+   "text": "saved",
+   "time": 74.28,
+   "weight": 1.0,
+   "note_time": 73.44
+  },
+  {
+   "text": "The",
+   "time": 74.9,
+   "weight": 1.0,
+   "note_time": 74.42
+  },
+  {
+   "text": "pow",
+   "time": 75.42,
+   "weight": 0.99,
+   "note_time": 74.81
+  },
+  {
+   "text": "er",
+   "time": 75.77,
+   "weight": 0.99,
+   "note_time": 75.58
+  },
+  {
+   "text": "of",
+   "time": 76.16,
+   "weight": 1.0,
+   "note_time": 75.97
+  },
+  {
+   "text": "God",
+   "time": 76.72,
+   "weight": 1.0,
+   "note_time": 76.75
+  },
+  {
+   "text": "has",
+   "time": 77.22,
+   "weight": 0.99,
+   "note_time": 77.14
+  },
+  {
+   "text": "come",
+   "time": 77.92,
+   "weight": 1.0,
+   "note_time": 79.09
+  },
+  {
+   "text": "I",
+   "time": 78.3,
+   "weight": 0.38,
+   "note_time": 79.48
+  },
+  {
+   "text": "will",
+   "time": 80.14,
    "weight": 1.0,
    "note_time": 80.26
   },
   {
-   "text": "us",
-   "time": 80.68,
+   "text": "not",
+   "time": 80.62,
    "weight": 1.0,
    "note_time": 80.65
   },
   {
-   "text": "who",
-   "time": 81.7,
-   "weight": 0.99,
-   "note_time": 81.04
-  },
-  {
-   "text": "are",
-   "time": 81.94,
+   "text": "boast",
+   "time": 81.38,
    "weight": 1.0,
    "note_time": 81.43
   },
   {
-   "text": "be",
-   "time": 82.36,
+   "text": "in",
+   "time": 81.92,
    "weight": 1.0,
    "note_time": 81.82
   },
   {
-   "text": "ing",
-   "time": 82.59,
-   "weight": 1.0,
+   "text": "a",
+   "time": 82.66,
+   "weight": 0.98,
    "note_time": 82.6
   },
   {
-   "text": "saved",
-   "time": 82.82,
-   "weight": 1.0,
+   "text": "nyt",
+   "time": 83.01,
+   "weight": 0.98,
    "note_time": 82.79
   },
   {
-   "text": "The",
-   "time": 83.7,
-   "weight": 1.0,
+   "text": "hing",
+   "time": 83.35,
+   "weight": 0.98,
    "note_time": 83.77
   },
   {
-   "text": "pow",
-   "time": 84.64,
-   "weight": 1.0,
+   "text": "But",
+   "time": 83.7,
+   "weight": 0.45,
    "note_time": 84.16
   },
   {
-   "text": "er",
-   "time": 84.92,
-   "weight": 1.0,
-   "note_time": 84.55
-  },
-  {
-   "text": "of",
-   "time": 85.2,
+   "text": "in",
+   "time": 84.88,
    "weight": 1.0,
    "note_time": 84.94
   },
   {
-   "text": "God",
-   "time": 85.84,
+   "text": "the",
+   "time": 85.36,
    "weight": 1.0,
    "note_time": 85.32
   },
   {
-   "text": "has",
-   "time": 86.28,
-   "weight": 0.99,
+   "text": "cross",
+   "time": 86.02,
+   "weight": 0.94,
    "note_time": 86.1
   },
   {
-   "text": "come",
-   "time": 87.02,
+   "text": "of",
+   "time": 86.5,
+   "weight": 1.0,
+   "note_time": 86.3
+  },
+  {
+   "text": "Christ",
+   "time": 87.22,
    "weight": 1.0,
    "note_time": 86.49
   },
   {
-   "text": "I",
-   "time": 87.38,
+   "text": "The",
+   "time": 87.72,
    "weight": 0.3,
    "note_time": 88.44
   },
   {
-   "text": "will",
-   "time": 89.12,
+   "text": "world",
+   "time": 89.52,
    "weight": 0.99,
    "note_time": 88.83
   },
   {
-   "text": "not",
-   "time": 89.62,
+   "text": "is",
+   "time": 90.1,
    "weight": 1.0,
    "note_time": 89.61
   },
   {
-   "text": "boast",
-   "time": 90.42,
-   "weight": 1.0,
+   "text": "cru",
+   "time": 90.78,
+   "weight": 0.98,
    "note_time": 90.0
   },
   {
-   "text": "in",
-   "time": 90.88,
-   "weight": 1.0,
+   "text": "ci",
+   "time": 91.13,
+   "weight": 0.98,
    "note_time": 90.78
   },
   {
-   "text": "a",
-   "time": 91.62,
-   "weight": 0.99,
+   "text": "fied",
+   "time": 91.48,
+   "weight": 0.98,
    "note_time": 91.17
   },
   {
-   "text": "nyt",
-   "time": 91.96,
+   "text": "to",
+   "time": 92.02,
    "weight": 0.99,
    "note_time": 91.95
   },
   {
-   "text": "hing",
-   "time": 92.3,
-   "weight": 0.99,
+   "text": "me",
+   "time": 93.02,
+   "weight": 0.96,
    "note_time": 92.14
   },
   {
-   "text": "But",
-   "time": 93.02,
-   "weight": 0.92,
+   "text": "And",
+   "time": 93.58,
+   "weight": 0.9,
    "note_time": 93.12
   },
   {
-   "text": "in",
-   "time": 93.82,
+   "text": "I",
+   "time": 94.38,
    "weight": 1.0,
    "note_time": 93.51
   },
   {
-   "text": "the",
-   "time": 94.28,
-   "weight": 1.0,
+   "text": "to",
+   "time": 94.86,
+   "weight": 0.45,
    "note_time": 94.29
   },
   {
-   "text": "cross",
-   "time": 94.92,
-   "weight": 0.98,
+   "text": "it",
+   "time": 95.48,
+   "weight": 1.0,
    "note_time": 94.68
   },
   {
-   "text": "of",
-   "time": 95.42,
+   "text": "have",
+   "time": 95.92,
    "weight": 1.0,
    "note_time": 95.45
   },
   {
-   "text": "Christ",
-   "time": 96.12,
+   "text": "died",
+   "time": 96.68,
    "weight": 1.0,
-   "note_time": 95.65
+   "note_time": 95.84
   },
   {
-   "text": "The",
-   "time": 97.6,
-   "weight": 0.4,
+   "text": "Now",
+   "time": 97.84,
+   "weight": 0.15,
    "note_time": 97.79
   },
   {
-   "text": "world",
-   "time": 98.38,
-   "weight": 1.0,
-   "note_time": 98.18
-  },
-  {
-   "text": "is",
-   "time": 99.2,
+   "text": "let",
+   "time": 98.96,
    "weight": 0.99,
    "note_time": 98.96
   },
   {
-   "text": "cru",
-   "time": 99.66,
-   "weight": 0.99,
+   "text": "the",
+   "time": 99.44,
+   "weight": 1.0,
    "note_time": 99.35
   },
   {
-   "text": "ci",
-   "time": 100.01,
-   "weight": 0.99,
+   "text": "proud",
+   "time": 100.14,
+   "weight": 1.0,
    "note_time": 100.13
   },
   {
-   "text": "fied",
-   "time": 100.36,
-   "weight": 0.99,
+   "text": "lay",
+   "time": 100.66,
+   "weight": 1.0,
    "note_time": 100.52
   },
   {
-   "text": "to",
-   "time": 100.78,
+   "text": "down",
+   "time": 101.32,
    "weight": 1.0,
    "note_time": 101.3
   },
   {
-   "text": "me",
-   "time": 101.84,
-   "weight": 0.98,
+   "text": "their",
+   "time": 101.88,
+   "weight": 1.0,
    "note_time": 101.49
   },
   {
-   "text": "And",
-   "time": 102.34,
-   "weight": 1.0,
+   "text": "crowns",
+   "time": 102.52,
+   "weight": 0.99,
    "note_time": 102.47
   },
   {
-   "text": "I",
-   "time": 103.12,
-   "weight": 1.0,
+   "text": "The",
+   "time": 103.26,
+   "weight": 0.97,
    "note_time": 102.86
   },
   {
-   "text": "to",
-   "time": 103.58,
-   "weight": 0.8,
+   "text": "wise",
+   "time": 103.64,
+   "weight": 1.0,
    "note_time": 103.64
   },
   {
-   "text": "it",
-   "time": 104.04,
-   "weight": 1.0,
+   "text": "their",
+   "time": 104.3,
+   "weight": 0.99,
    "note_time": 104.03
   },
   {
-   "text": "have",
-   "time": 104.82,
+   "text": "cle",
+   "time": 104.9,
    "weight": 1.0,
    "note_time": 104.81
   },
   {
-   "text": "died",
-   "time": 105.32,
+   "text": "ver",
+   "time": 105.25,
    "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "word",
+   "time": 105.66,
+   "weight": 0.69,
    "note_time": 105.19
   },
   {
-   "text": "Now",
-   "time": 106.86,
-   "weight": 0.97,
+   "text": "For",
+   "time": 107.16,
+   "weight": 0.98,
    "note_time": 107.14
   },
   {
-   "text": "let",
-   "time": 107.64,
+   "text": "in",
+   "time": 108.32,
    "weight": 1.0,
    "note_time": 107.53
   },
   {
-   "text": "the",
-   "time": 108.1,
+   "text": "this",
+   "time": 108.88,
    "weight": 1.0,
    "note_time": 108.31
   },
   {
-   "text": "proud",
-   "time": 108.8,
-   "weight": 0.99,
+   "text": "fool",
+   "time": 109.64,
+   "weight": 0.4,
    "note_time": 108.7
   },
   {
-   "text": "lay",
-   "time": 109.28,
-   "weight": 1.0,
+   "text": "ish",
+   "time": 109.99,
+   "weight": 0.4,
    "note_time": 109.48
   },
   {
-   "text": "down",
-   "time": 109.94,
-   "weight": 1.0,
+   "text": "ness",
+   "time": 110.34,
+   "weight": 0.4,
    "note_time": 109.87
   },
   {
-   "text": "their",
-   "time": 110.44,
-   "weight": 1.0,
+   "text": "we",
+   "time": 111.16,
+   "weight": 0.99,
    "note_time": 110.65
   },
   {
-   "text": "crowns",
-   "time": 111.14,
+   "text": "find",
+   "time": 111.92,
    "weight": 1.0,
    "note_time": 110.84
   },
   {
    "text": "The",
-   "time": 111.82,
-   "weight": 0.84,
+   "time": 112.2,
+   "weight": 0.94,
    "note_time": 111.82
   },
   {
-   "text": "wise",
-   "time": 112.22,
-   "weight": 1.0,
+   "text": "wis",
+   "time": 113.08,
+   "weight": 0.99,
    "note_time": 112.21
   },
   {
-   "text": "their",
-   "time": 112.86,
+   "text": "dom",
+   "time": 113.43,
    "weight": 0.99,
    "note_time": 112.99
   },
   {
-   "text": "cle",
-   "time": 113.46,
+   "text": "of",
+   "time": 114.16,
    "weight": 1.0,
    "note_time": 113.38
   },
   {
-   "text": "ver",
-   "time": 113.75,
+   "text": "the",
+   "time": 114.8,
    "weight": 1.0,
    "note_time": 114.16
   },
   {
-   "text": "word",
-   "time": 114.38,
-   "weight": 0.0,
-   "note_time": 114.35
-  },
-  {
-   "text": "For",
-   "time": 115.0,
-   "weight": 0.34,
-   "note_time": 116.49
-  },
-  {
-   "text": "in",
-   "time": 116.84,
-   "weight": 1.0,
-   "note_time": 116.88
-  },
-  {
-   "text": "this",
-   "time": 117.36,
-   "weight": 1.0,
-   "note_time": 117.66
-  },
-  {
-   "text": "fool",
-   "time": 118.12,
-   "weight": 0.4,
-   "note_time": 118.05
-  },
-  {
-   "text": "ish",
-   "time": 118.47,
-   "weight": 0.4,
-   "note_time": 118.83
-  },
-  {
-   "text": "ness",
-   "time": 118.82,
-   "weight": 0.4,
-   "note_time": 119.22
-  },
-  {
-   "text": "we",
-   "time": 119.62,
-   "weight": 0.96,
-   "note_time": 120.0
-  },
-  {
-   "text": "find",
-   "time": 120.32,
-   "weight": 1.0,
-   "note_time": 120.19
-  },
-  {
-   "text": "The",
-   "time": 120.64,
-   "weight": 0.7,
-   "note_time": 121.17
-  },
-  {
-   "text": "wis",
-   "time": 121.46,
-   "weight": 0.99,
-   "note_time": 121.56
-  },
-  {
-   "text": "dom",
-   "time": 121.81,
-   "weight": 0.99,
-   "note_time": 122.34
-  },
-  {
-   "text": "of",
-   "time": 122.3,
-   "weight": 1.0,
-   "note_time": 122.73
-  },
-  {
-   "text": "the",
-   "time": 123.14,
-   "weight": 1.0,
-   "note_time": 123.51
-  },
-  {
    "text": "Lord",
-   "time": 123.74,
+   "time": 115.4,
    "weight": 1.0,
-   "note_time": 123.9
+   "note_time": 114.55
   }
  ],
  "chord_sheet_pages": 1,
- "lilypond_warnings": [],
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 1.5 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
  "quality": "All 20 lyric lines sit on their notes."
 }

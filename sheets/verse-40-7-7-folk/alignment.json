@@ -1,0 +1,1494 @@
+{
+ "id": "verse-40-7-7-folk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-7-7-folk",
+ "offset_seconds": -2.7000000000001982,
+ "words_heard": 191,
+ "words": 194,
+ "lines": [
+  {
+   "text": "If your son should ask for bread, would you hand him a stone",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If he asks you for a fish, would you give him a snake",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If even we know how to give good gifts to our own",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How much more will the Father give, for his children's sake",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ask, and it will be given to you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.99,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Seek, and you will find",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Knock, and the door will be opened to you",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ask, seek, knock",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I come with empty hands and I knock upon the door",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I'm asking for the daily bread like I have asked before",
+   "heard": 9,
+   "words": 11,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My Father hears me knocking and he knows the things I need",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will not give me stones, he gives good gifts indeed",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ask, and it will be given to you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Seek, and you will find",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Knock, and the door will be opened to you",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ask, seek, knock",
+   "heard": 2,
+   "words": 3,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For everyone who asks receives",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the one who seeks finds",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And to the one who knocks the door will be opened",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How much more will your Father in heaven",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Give good things to those who ask him",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Knock, and the door will be opened to you",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ask, seek, knock",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "If",
+   "time": 6.4,
+   "weight": 0.63,
+   "note_time": 6.79
+  },
+  {
+   "text": "your",
+   "time": 7.1,
+   "weight": 0.97,
+   "note_time": 7.26
+  },
+  {
+   "text": "son",
+   "time": 7.4,
+   "weight": 0.99,
+   "note_time": 7.58
+  },
+  {
+   "text": "should",
+   "time": 7.88,
+   "weight": 1.0,
+   "note_time": 8.21
+  },
+  {
+   "text": "ask",
+   "time": 8.2,
+   "weight": 1.0,
+   "note_time": 8.53
+  },
+  {
+   "text": "for",
+   "time": 8.62,
+   "weight": 1.0,
+   "note_time": 8.68
+  },
+  {
+   "text": "bread,",
+   "time": 8.88,
+   "weight": 1.0,
+   "note_time": 9.32
+  },
+  {
+   "text": "would",
+   "time": 9.4,
+   "weight": 0.99,
+   "note_time": 9.47
+  },
+  {
+   "text": "you",
+   "time": 9.78,
+   "weight": 1.0,
+   "note_time": 9.63
+  },
+  {
+   "text": "hand",
+   "time": 10.02,
+   "weight": 0.88,
+   "note_time": 9.79
+  },
+  {
+   "text": "him",
+   "time": 10.44,
+   "weight": 1.0,
+   "note_time": 9.95
+  },
+  {
+   "text": "a",
+   "time": 11.02,
+   "weight": 0.94,
+   "note_time": 11.05
+  },
+  {
+   "text": "stone",
+   "time": 11.2,
+   "weight": 1.0,
+   "note_time": 11.21
+  },
+  {
+   "text": "If",
+   "time": 11.54,
+   "weight": 0.15,
+   "note_time": 11.68
+  },
+  {
+   "text": "he",
+   "time": 12.26,
+   "weight": 0.99,
+   "note_time": 12.0
+  },
+  {
+   "text": "asks",
+   "time": 12.54,
+   "weight": 0.82,
+   "note_time": 12.32
+  },
+  {
+   "text": "you",
+   "time": 12.98,
+   "weight": 0.98,
+   "note_time": 12.47
+  },
+  {
+   "text": "for",
+   "time": 13.24,
+   "weight": 1.0,
+   "note_time": 13.42
+  },
+  {
+   "text": "a",
+   "time": 13.5,
+   "weight": 0.81,
+   "note_time": 13.58
+  },
+  {
+   "text": "fish,",
+   "time": 13.74,
+   "weight": 1.0,
+   "note_time": 13.74
+  },
+  {
+   "text": "would",
+   "time": 14.44,
+   "weight": 0.99,
+   "note_time": 14.37
+  },
+  {
+   "text": "you",
+   "time": 14.94,
+   "weight": 1.0,
+   "note_time": 14.68
+  },
+  {
+   "text": "give",
+   "time": 15.06,
+   "weight": 1.0,
+   "note_time": 15.16
+  },
+  {
+   "text": "him",
+   "time": 15.4,
+   "weight": 1.0,
+   "note_time": 15.32
+  },
+  {
+   "text": "a",
+   "time": 15.96,
+   "weight": 1.0,
+   "note_time": 16.11
+  },
+  {
+   "text": "snake",
+   "time": 16.2,
+   "weight": 1.0,
+   "note_time": 16.26
+  },
+  {
+   "text": "If",
+   "time": 16.8,
+   "weight": 0.91,
+   "note_time": 16.74
+  },
+  {
+   "text": "e",
+   "time": 17.58,
+   "weight": 0.99,
+   "note_time": 16.89
+  },
+  {
+   "text": "ven",
+   "time": 17.77,
+   "weight": 0.99,
+   "note_time": 17.21
+  },
+  {
+   "text": "we",
+   "time": 17.96,
+   "weight": 1.0,
+   "note_time": 17.53
+  },
+  {
+   "text": "know",
+   "time": 18.38,
+   "weight": 0.99,
+   "note_time": 18.0
+  },
+  {
+   "text": "how",
+   "time": 18.68,
+   "weight": 0.99,
+   "note_time": 18.16
+  },
+  {
+   "text": "to",
+   "time": 19.04,
+   "weight": 0.99,
+   "note_time": 18.47
+  },
+  {
+   "text": "give",
+   "time": 19.4,
+   "weight": 1.0,
+   "note_time": 18.95
+  },
+  {
+   "text": "good",
+   "time": 19.68,
+   "weight": 0.99,
+   "note_time": 19.42
+  },
+  {
+   "text": "gifts",
+   "time": 20.02,
+   "weight": 1.0,
+   "note_time": 19.74
+  },
+  {
+   "text": "to",
+   "time": 20.52,
+   "weight": 0.99,
+   "note_time": 20.05
+  },
+  {
+   "text": "our",
+   "time": 20.9,
+   "weight": 1.0,
+   "note_time": 20.84
+  },
+  {
+   "text": "own",
+   "time": 21.26,
+   "weight": 1.0,
+   "note_time": 21.0
+  },
+  {
+   "text": "How",
+   "time": 21.64,
+   "weight": 0.91,
+   "note_time": 21.47
+  },
+  {
+   "text": "much",
+   "time": 22.22,
+   "weight": 1.0,
+   "note_time": 22.11
+  },
+  {
+   "text": "more",
+   "time": 22.52,
+   "weight": 1.0,
+   "note_time": 22.42
+  },
+  {
+   "text": "will",
+   "time": 22.96,
+   "weight": 0.99,
+   "note_time": 22.58
+  },
+  {
+   "text": "the",
+   "time": 23.6,
+   "weight": 0.99,
+   "note_time": 22.89
+  },
+  {
+   "text": "Fa",
+   "time": 23.78,
+   "weight": 0.58,
+   "note_time": 23.21
+  },
+  {
+   "text": "ther",
+   "time": 23.95,
+   "weight": 0.58,
+   "note_time": 23.37
+  },
+  {
+   "text": "give,",
+   "time": 24.12,
+   "weight": 0.99,
+   "note_time": 24.0
+  },
+  {
+   "text": "for",
+   "time": 24.66,
+   "weight": 0.88,
+   "note_time": 24.16
+  },
+  {
+   "text": "his",
+   "time": 25.36,
+   "weight": 0.44,
+   "note_time": 24.47
+  },
+  {
+   "text": "chil",
+   "time": 25.64,
+   "weight": 0.98,
+   "note_time": 24.79
+  },
+  {
+   "text": "dren's",
+   "time": 25.99,
+   "weight": 0.98,
+   "note_time": 25.26
+  },
+  {
+   "text": "sake",
+   "time": 26.4,
+   "weight": 0.99,
+   "note_time": 26.53
+  },
+  {
+   "text": "Ask,",
+   "time": 26.74,
+   "weight": 0.33,
+   "note_time": 27.63
+  },
+  {
+   "text": "and",
+   "time": 28.66,
+   "weight": 0.96,
+   "note_time": 27.79
+  },
+  {
+   "text": "it",
+   "time": 28.98,
+   "weight": 0.99,
+   "note_time": 27.95
+  },
+  {
+   "text": "will",
+   "time": 29.12,
+   "weight": 1.0,
+   "note_time": 28.11
+  },
+  {
+   "text": "be",
+   "time": 29.28,
+   "weight": 1.0,
+   "note_time": 28.42
+  },
+  {
+   "text": "giv",
+   "time": 29.46,
+   "weight": 1.0,
+   "note_time": 28.58
+  },
+  {
+   "text": "en",
+   "time": 29.7,
+   "weight": 1.0,
+   "note_time": 28.74
+  },
+  {
+   "text": "to",
+   "time": 29.94,
+   "weight": 0.99,
+   "note_time": 28.89
+  },
+  {
+   "text": "you",
+   "time": 30.1,
+   "weight": 1.0,
+   "note_time": 31.58
+  },
+  {
+   "text": "Seek,",
+   "time": 32.98,
+   "weight": 0.37,
+   "note_time": 33.16
+  },
+  {
+   "text": "and",
+   "time": 33.7,
+   "weight": 0.78,
+   "note_time": 33.32
+  },
+  {
+   "text": "you",
+   "time": 34.42,
+   "weight": 0.99,
+   "note_time": 33.63
+  },
+  {
+   "text": "will",
+   "time": 34.66,
+   "weight": 0.99,
+   "note_time": 34.11
+  },
+  {
+   "text": "find",
+   "time": 35.02,
+   "weight": 1.0,
+   "note_time": 36.63
+  },
+  {
+   "text": "Knock,",
+   "time": 37.24,
+   "weight": 0.82,
+   "note_time": 37.58
+  },
+  {
+   "text": "and",
+   "time": 37.96,
+   "weight": 0.88,
+   "note_time": 37.74
+  },
+  {
+   "text": "the",
+   "time": 38.6,
+   "weight": 1.0,
+   "note_time": 37.89
+  },
+  {
+   "text": "door",
+   "time": 38.96,
+   "weight": 0.99,
+   "note_time": 38.21
+  },
+  {
+   "text": "will",
+   "time": 39.22,
+   "weight": 1.0,
+   "note_time": 38.37
+  },
+  {
+   "text": "be",
+   "time": 39.44,
+   "weight": 0.99,
+   "note_time": 38.53
+  },
+  {
+   "text": "ope",
+   "time": 39.68,
+   "weight": 0.74,
+   "note_time": 38.68
+  },
+  {
+   "text": "ned",
+   "time": 39.82,
+   "weight": 0.74,
+   "note_time": 38.84
+  },
+  {
+   "text": "to",
+   "time": 39.96,
+   "weight": 0.99,
+   "note_time": 39.0
+  },
+  {
+   "text": "you",
+   "time": 40.16,
+   "weight": 1.0,
+   "note_time": 42.32
+  },
+  {
+   "text": "Ask,",
+   "time": 42.44,
+   "weight": 0.87,
+   "note_time": 42.63
+  },
+  {
+   "text": "seek,",
+   "time": 43.18,
+   "weight": 0.92,
+   "note_time": 42.95
+  },
+  {
+   "text": "knock",
+   "time": 43.78,
+   "weight": 1.0,
+   "note_time": 43.58
+  },
+  {
+   "text": "I",
+   "time": 44.26,
+   "weight": 0.71,
+   "note_time": 46.42
+  },
+  {
+   "text": "come",
+   "time": 45.58,
+   "weight": 0.4,
+   "note_time": 46.74
+  },
+  {
+   "text": "with",
+   "time": 47.84,
+   "weight": 1.0,
+   "note_time": 47.05
+  },
+  {
+   "text": "emp",
+   "time": 48.24,
+   "weight": 1.0,
+   "note_time": 47.21
+  },
+  {
+   "text": "ty",
+   "time": 48.38,
+   "weight": 1.0,
+   "note_time": 47.53
+  },
+  {
+   "text": "hands",
+   "time": 48.52,
+   "weight": 1.0,
+   "note_time": 47.84
+  },
+  {
+   "text": "and",
+   "time": 49.18,
+   "weight": 0.71,
+   "note_time": 48.63
+  },
+  {
+   "text": "I",
+   "time": 49.82,
+   "weight": 0.65,
+   "note_time": 48.79
+  },
+  {
+   "text": "knock",
+   "time": 49.96,
+   "weight": 0.96,
+   "note_time": 49.26
+  },
+  {
+   "text": "up",
+   "time": 50.5,
+   "weight": 0.92,
+   "note_time": 49.58
+  },
+  {
+   "text": "on",
+   "time": 50.65,
+   "weight": 0.92,
+   "note_time": 49.74
+  },
+  {
+   "text": "the",
+   "time": 50.8,
+   "weight": 0.89,
+   "note_time": 50.21
+  },
+  {
+   "text": "door",
+   "time": 51.12,
+   "weight": 1.0,
+   "note_time": 50.37
+  },
+  {
+   "text": "I'm",
+   "time": 51.58,
+   "weight": 1.0,
+   "note_time": 51.47
+  },
+  {
+   "text": "ask",
+   "time": 52.74,
+   "weight": 1.0,
+   "note_time": 52.11
+  },
+  {
+   "text": "ing",
+   "time": 52.93,
+   "weight": 1.0,
+   "note_time": 52.42
+  },
+  {
+   "text": "for",
+   "time": 53.12,
+   "weight": 1.0,
+   "note_time": 52.74
+  },
+  {
+   "text": "the",
+   "time": 53.46,
+   "weight": 1.0,
+   "note_time": 52.89
+  },
+  {
+   "text": "dai",
+   "time": 53.76,
+   "weight": 0.0,
+   "note_time": 53.37
+  },
+  {
+   "text": "ly",
+   "time": 54.06,
+   "weight": 0.0,
+   "note_time": 53.53
+  },
+  {
+   "text": "bread",
+   "time": 54.36,
+   "weight": 0.0,
+   "note_time": 53.84
+  },
+  {
+   "text": "like",
+   "time": 54.66,
+   "weight": 0.99,
+   "note_time": 54.32
+  },
+  {
+   "text": "I",
+   "time": 54.98,
+   "weight": 1.0,
+   "note_time": 54.63
+  },
+  {
+   "text": "have",
+   "time": 55.42,
+   "weight": 0.98,
+   "note_time": 54.79
+  },
+  {
+   "text": "asked",
+   "time": 55.76,
+   "weight": 1.0,
+   "note_time": 55.26
+  },
+  {
+   "text": "be",
+   "time": 56.02,
+   "weight": 1.0,
+   "note_time": 55.58
+  },
+  {
+   "text": "fore",
+   "time": 56.3,
+   "weight": 1.0,
+   "note_time": 55.74
+  },
+  {
+   "text": "My",
+   "time": 56.58,
+   "weight": 0.15,
+   "note_time": 56.53
+  },
+  {
+   "text": "Fa",
+   "time": 57.5,
+   "weight": 0.72,
+   "note_time": 56.84
+  },
+  {
+   "text": "ther",
+   "time": 57.79,
+   "weight": 0.72,
+   "note_time": 57.16
+  },
+  {
+   "text": "hears",
+   "time": 58.08,
+   "weight": 0.99,
+   "note_time": 57.32
+  },
+  {
+   "text": "me",
+   "time": 58.46,
+   "weight": 0.97,
+   "note_time": 57.79
+  },
+  {
+   "text": "knock",
+   "time": 58.86,
+   "weight": 0.94,
+   "note_time": 58.11
+  },
+  {
+   "text": "ing",
+   "time": 59.08,
+   "weight": 0.94,
+   "note_time": 58.26
+  },
+  {
+   "text": "and",
+   "time": 59.3,
+   "weight": 0.74,
+   "note_time": 58.58
+  },
+  {
+   "text": "he",
+   "time": 59.64,
+   "weight": 0.8,
+   "note_time": 58.89
+  },
+  {
+   "text": "knows",
+   "time": 59.92,
+   "weight": 1.0,
+   "note_time": 59.21
+  },
+  {
+   "text": "the",
+   "time": 60.34,
+   "weight": 0.97,
+   "note_time": 59.68
+  },
+  {
+   "text": "things",
+   "time": 60.68,
+   "weight": 1.0,
+   "note_time": 59.84
+  },
+  {
+   "text": "I",
+   "time": 60.96,
+   "weight": 0.99,
+   "note_time": 60.16
+  },
+  {
+   "text": "need",
+   "time": 61.22,
+   "weight": 1.0,
+   "note_time": 60.63
+  },
+  {
+   "text": "He",
+   "time": 61.7,
+   "weight": 0.83,
+   "note_time": 61.58
+  },
+  {
+   "text": "will",
+   "time": 62.44,
+   "weight": 1.0,
+   "note_time": 61.89
+  },
+  {
+   "text": "not",
+   "time": 62.82,
+   "weight": 1.0,
+   "note_time": 62.05
+  },
+  {
+   "text": "give",
+   "time": 63.12,
+   "weight": 1.0,
+   "note_time": 62.53
+  },
+  {
+   "text": "me",
+   "time": 63.52,
+   "weight": 1.0,
+   "note_time": 62.68
+  },
+  {
+   "text": "stones,",
+   "time": 63.72,
+   "weight": 1.0,
+   "note_time": 63.16
+  },
+  {
+   "text": "he",
+   "time": 64.42,
+   "weight": 0.99,
+   "note_time": 63.79
+  },
+  {
+   "text": "gives",
+   "time": 64.74,
+   "weight": 1.0,
+   "note_time": 63.95
+  },
+  {
+   "text": "good",
+   "time": 65.06,
+   "weight": 1.0,
+   "note_time": 64.42
+  },
+  {
+   "text": "gifts",
+   "time": 65.44,
+   "weight": 1.0,
+   "note_time": 64.89
+  },
+  {
+   "text": "in",
+   "time": 65.98,
+   "weight": 0.99,
+   "note_time": 65.21
+  },
+  {
+   "text": "deed",
+   "time": 66.32,
+   "weight": 0.99,
+   "note_time": 65.68
+  },
+  {
+   "text": "Ask,",
+   "time": 67.7,
+   "weight": 0.91,
+   "note_time": 66.95
+  },
+  {
+   "text": "and",
+   "time": 68.38,
+   "weight": 0.73,
+   "note_time": 68.05
+  },
+  {
+   "text": "it",
+   "time": 68.82,
+   "weight": 0.98,
+   "note_time": 68.21
+  },
+  {
+   "text": "will",
+   "time": 69.14,
+   "weight": 1.0,
+   "note_time": 68.37
+  },
+  {
+   "text": "be",
+   "time": 69.24,
+   "weight": 1.0,
+   "note_time": 68.53
+  },
+  {
+   "text": "giv",
+   "time": 69.44,
+   "weight": 1.0,
+   "note_time": 68.84
+  },
+  {
+   "text": "en",
+   "time": 69.66,
+   "weight": 1.0,
+   "note_time": 69.0
+  },
+  {
+   "text": "to",
+   "time": 69.88,
+   "weight": 1.0,
+   "note_time": 69.16
+  },
+  {
+   "text": "you",
+   "time": 70.14,
+   "weight": 1.0,
+   "note_time": 69.32
+  },
+  {
+   "text": "Seek,",
+   "time": 73.08,
+   "weight": 0.98,
+   "note_time": 72.0
+  },
+  {
+   "text": "and",
+   "time": 73.76,
+   "weight": 1.0,
+   "note_time": 73.58
+  },
+  {
+   "text": "you",
+   "time": 74.44,
+   "weight": 1.0,
+   "note_time": 73.74
+  },
+  {
+   "text": "will",
+   "time": 74.64,
+   "weight": 1.0,
+   "note_time": 74.05
+  },
+  {
+   "text": "find",
+   "time": 74.94,
+   "weight": 1.0,
+   "note_time": 74.53
+  },
+  {
+   "text": "Knock,",
+   "time": 77.36,
+   "weight": 0.98,
+   "note_time": 77.05
+  },
+  {
+   "text": "and",
+   "time": 78.04,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "the",
+   "time": 78.72,
+   "weight": 1.0,
+   "note_time": 78.16
+  },
+  {
+   "text": "door",
+   "time": 78.96,
+   "weight": 1.0,
+   "note_time": 78.32
+  },
+  {
+   "text": "will",
+   "time": 79.22,
+   "weight": 1.0,
+   "note_time": 78.63
+  },
+  {
+   "text": "be",
+   "time": 79.44,
+   "weight": 1.0,
+   "note_time": 78.79
+  },
+  {
+   "text": "ope",
+   "time": 79.66,
+   "weight": 0.93,
+   "note_time": 78.95
+  },
+  {
+   "text": "ned",
+   "time": 79.78,
+   "weight": 0.93,
+   "note_time": 79.11
+  },
+  {
+   "text": "to",
+   "time": 79.9,
+   "weight": 0.65,
+   "note_time": 79.26
+  },
+  {
+   "text": "you",
+   "time": 80.12,
+   "weight": 1.0,
+   "note_time": 79.42
+  },
+  {
+   "text": "Ask,",
+   "time": 82.28,
+   "weight": 0.15,
+   "note_time": 82.11
+  },
+  {
+   "text": "seek,",
+   "time": 83.26,
+   "weight": 0.85,
+   "note_time": 82.74
+  },
+  {
+   "text": "knock",
+   "time": 83.99,
+   "weight": 0.0,
+   "note_time": 83.05
+  },
+  {
+   "text": "For",
+   "time": 84.72,
+   "weight": 0.35,
+   "note_time": 87.63
+  },
+  {
+   "text": "ev",
+   "time": 85.48,
+   "weight": 0.4,
+   "note_time": 87.79
+  },
+  {
+   "text": "ery",
+   "time": 85.83,
+   "weight": 0.4,
+   "note_time": 87.95
+  },
+  {
+   "text": "one",
+   "time": 86.18,
+   "weight": 0.4,
+   "note_time": 88.11
+  },
+  {
+   "text": "who",
+   "time": 88.7,
+   "weight": 1.0,
+   "note_time": 88.26
+  },
+  {
+   "text": "asks",
+   "time": 89.04,
+   "weight": 0.98,
+   "note_time": 88.42
+  },
+  {
+   "text": "re",
+   "time": 89.48,
+   "weight": 0.52,
+   "note_time": 88.74
+  },
+  {
+   "text": "ceives",
+   "time": 89.74,
+   "weight": 0.52,
+   "note_time": 89.05
+  },
+  {
+   "text": "And",
+   "time": 92.74,
+   "weight": 0.96,
+   "note_time": 92.84
+  },
+  {
+   "text": "the",
+   "time": 93.54,
+   "weight": 0.99,
+   "note_time": 93.32
+  },
+  {
+   "text": "one",
+   "time": 93.78,
+   "weight": 1.0,
+   "note_time": 93.63
+  },
+  {
+   "text": "who",
+   "time": 94.04,
+   "weight": 1.0,
+   "note_time": 93.79
+  },
+  {
+   "text": "seeks",
+   "time": 94.28,
+   "weight": 1.0,
+   "note_time": 93.95
+  },
+  {
+   "text": "finds",
+   "time": 94.74,
+   "weight": 0.98,
+   "note_time": 94.42
+  },
+  {
+   "text": "And",
+   "time": 97.48,
+   "weight": 0.7,
+   "note_time": 97.74
+  },
+  {
+   "text": "to",
+   "time": 98.28,
+   "weight": 1.0,
+   "note_time": 98.05
+  },
+  {
+   "text": "the",
+   "time": 98.42,
+   "weight": 1.0,
+   "note_time": 98.21
+  },
+  {
+   "text": "one",
+   "time": 98.62,
+   "weight": 1.0,
+   "note_time": 98.37
+  },
+  {
+   "text": "who",
+   "time": 98.88,
+   "weight": 1.0,
+   "note_time": 98.53
+  },
+  {
+   "text": "knocks",
+   "time": 99.02,
+   "weight": 1.0,
+   "note_time": 98.84
+  },
+  {
+   "text": "the",
+   "time": 99.32,
+   "weight": 0.86,
+   "note_time": 99.0
+  },
+  {
+   "text": "door",
+   "time": 99.44,
+   "weight": 1.0,
+   "note_time": 99.47
+  },
+  {
+   "text": "will",
+   "time": 99.76,
+   "weight": 1.0,
+   "note_time": 99.63
+  },
+  {
+   "text": "be",
+   "time": 100.04,
+   "weight": 1.0,
+   "note_time": 99.79
+  },
+  {
+   "text": "ope",
+   "time": 100.22,
+   "weight": 0.43,
+   "note_time": 100.42
+  },
+  {
+   "text": "ned",
+   "time": 100.57,
+   "weight": 0.43,
+   "note_time": 101.05
+  },
+  {
+   "text": "How",
+   "time": 100.96,
+   "weight": 0.97,
+   "note_time": 101.84
+  },
+  {
+   "text": "much",
+   "time": 102.2,
+   "weight": 1.0,
+   "note_time": 102.32
+  },
+  {
+   "text": "more",
+   "time": 102.58,
+   "weight": 1.0,
+   "note_time": 102.95
+  },
+  {
+   "text": "will",
+   "time": 102.98,
+   "weight": 1.0,
+   "note_time": 103.11
+  },
+  {
+   "text": "your",
+   "time": 103.54,
+   "weight": 0.86,
+   "note_time": 103.58
+  },
+  {
+   "text": "Fa",
+   "time": 103.78,
+   "weight": 0.97,
+   "note_time": 103.89
+  },
+  {
+   "text": "ther",
+   "time": 104.04,
+   "weight": 0.97,
+   "note_time": 104.05
+  },
+  {
+   "text": "in",
+   "time": 104.3,
+   "weight": 1.0,
+   "note_time": 104.53
+  },
+  {
+   "text": "heav",
+   "time": 105.12,
+   "weight": 0.56,
+   "note_time": 104.84
+  },
+  {
+   "text": "en",
+   "time": 105.34,
+   "weight": 0.56,
+   "note_time": 105.32
+  },
+  {
+   "text": "Give",
+   "time": 107.16,
+   "weight": 0.23,
+   "note_time": 107.37
+  },
+  {
+   "text": "good",
+   "time": 107.82,
+   "weight": 0.99,
+   "note_time": 107.53
+  },
+  {
+   "text": "things",
+   "time": 108.08,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "to",
+   "time": 108.56,
+   "weight": 0.99,
+   "note_time": 108.32
+  },
+  {
+   "text": "those",
+   "time": 108.8,
+   "weight": 1.0,
+   "note_time": 108.47
+  },
+  {
+   "text": "who",
+   "time": 109.14,
+   "weight": 0.99,
+   "note_time": 108.95
+  },
+  {
+   "text": "ask",
+   "time": 109.46,
+   "weight": 0.97,
+   "note_time": 109.11
+  },
+  {
+   "text": "him",
+   "time": 109.86,
+   "weight": 0.44,
+   "note_time": 109.58
+  },
+  {
+   "text": "Knock,",
+   "time": 122.28,
+   "weight": 0.98,
+   "note_time": 122.53
+  },
+  {
+   "text": "and",
+   "time": 122.94,
+   "weight": 0.96,
+   "note_time": 123.47
+  },
+  {
+   "text": "the",
+   "time": 123.48,
+   "weight": 1.0,
+   "note_time": 123.63
+  },
+  {
+   "text": "door",
+   "time": 123.94,
+   "weight": 1.0,
+   "note_time": 123.79
+  },
+  {
+   "text": "will",
+   "time": 124.24,
+   "weight": 1.0,
+   "note_time": 124.11
+  },
+  {
+   "text": "be",
+   "time": 124.44,
+   "weight": 1.0,
+   "note_time": 124.26
+  },
+  {
+   "text": "ope",
+   "time": 124.66,
+   "weight": 0.91,
+   "note_time": 124.42
+  },
+  {
+   "text": "ned",
+   "time": 124.77,
+   "weight": 0.91,
+   "note_time": 124.58
+  },
+  {
+   "text": "to",
+   "time": 124.88,
+   "weight": 0.84,
+   "note_time": 124.74
+  },
+  {
+   "text": "you",
+   "time": 125.1,
+   "weight": 1.0,
+   "note_time": 124.89
+  },
+  {
+   "text": "Ask,",
+   "time": 127.5,
+   "weight": 0.93,
+   "note_time": 127.58
+  },
+  {
+   "text": "seek,",
+   "time": 128.16,
+   "weight": 0.93,
+   "note_time": 128.21
+  },
+  {
+   "text": "knock",
+   "time": 128.78,
+   "weight": 1.0,
+   "note_time": 128.53
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "21 of 23 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

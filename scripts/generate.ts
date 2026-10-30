@@ -170,13 +170,46 @@ async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outc
   return 'done';
 }
 
+// Sheets go to this branch, and the machine runs its code: main, from a detached worktree (README, Generate).
+const BRANCH = process.env.MUSIC_SHEETS_BRANCH || git('branch', '--show-current').trim() || 'main';
+// The code this run loaded; when the branch brings another version, the run stops and launchd starts the new one.
+const CODE = ['scripts/generate.ts', 'scripts/lyrics-check.ts', 'scripts/lyrics-form.ts'];
+const codeVersion = () => git('rev-parse', ...CODE.map((f) => `HEAD:${f}`));
+const LOADED = codeVersion();
+
+/** Brings in what other machines and sessions pushed to the branch, with this checkout's own commits on top. */
+function pull(): boolean {
+  const r = Bun.spawnSync(['git', 'pull', '-q', '--rebase', '--autostash', 'origin', BRANCH], { cwd: REPO });
+  if (r.exitCode === 0) return true;
+  Bun.spawnSync(['git', 'rebase', '--abort'], { cwd: REPO });
+  log(`PULL FAILED from ${BRANCH}: ${r.stderr.toString().trim()}`);
+  return false;
+}
+
+/**
+ * The branch brought another version of the code this run loaded (pulled with a song's sheets): stop between
+ * songs, once `pending` sheets are done, and launchd starts the new version.
+ */
+async function stopForNewCode(pending: Promise<void>) {
+  if (codeVersion() === LOADED) return;
+  await pending;
+  log(`RUN RESTART: ${BRANCH} has new code (${CODE.join(', ')}); launchd starts it again within 10 minutes`);
+  process.exit(0);
+}
+
 function commitAndPush(paths: string, subject: string) {
   git('add', '-A', paths);
   if (!git('diff', '--cached', '--name-only').trim()) return;
   git('commit', '-q', '-m', subject, '-m', 'Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>');
-  const branch = process.env.MUSIC_SHEETS_BRANCH ?? git('branch', '--show-current').trim();
-  const r = Bun.spawnSync(['git', 'push', '-q', 'origin', `HEAD:${branch}`], { cwd: REPO });
-  if (r.exitCode !== 0) log(`PUSH FAILED ${subject} to ${branch}: ${r.stderr.toString().trim()}`);
+  // Another machine may push in between: pull and push again.
+  let detail = '';
+  for (let attempt = 0; attempt < 3; attempt++) {
+    if (!pull()) break;
+    const r = Bun.spawnSync(['git', 'push', '-q', 'origin', `HEAD:${BRANCH}`], { cwd: REPO });
+    if (r.exitCode === 0) return;
+    detail = r.stderr.toString().trim();
+  }
+  log(`PUSH FAILED ${subject} to ${BRANCH}: ${detail}`);
 }
 
 /** Rejections in the song's lock: all of them (each attempt gets its own seed), and since it was last put back or remade. */
@@ -364,6 +397,8 @@ if (command === 'run') {
     log(`RUN STOP: the lyrics check cannot run: ${notReady}`);
     process.exit(1);
   }
+  pull();
+  await stopForNewCode(Promise.resolve());
   await finishLocal();
   // Songs this run does not take again: generation failed here, or set aside. A rejected song is counted here too,
   // so the limit holds in this run even if GitHub missed a rejection.
@@ -371,7 +406,10 @@ if (command === 'run') {
   const rejectedHere = new Map<string, number>();
   // A song's sheets are made while the next song generates (Whisper on the CPU, YuE on the GPU), one at a time.
   let sheets = Promise.resolve();
-  for (let next = await claimNextWhenOnline(fromEnd, failed); next; next = await claimNextWhenOnline(fromEnd, failed)) {
+  for (;;) {
+    await stopForNewCode(sheets);
+    const next = await claimNextWhenOnline(fromEnd, failed);
+    if (!next) break;
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);
     if (!lock) {
@@ -386,6 +424,7 @@ if (command === 'run') {
         log(`FINISH FAILED ${lock.id}: ${e}`);
       }
       await lock.settle(outcome);
+      pull();
       const count = (rejectedHere.get(lock.id) ?? 0) + (outcome === 'rejected' ? 1 : 0);
       rejectedHere.set(lock.id, count);
       if (outcome === 'aside' || count >= MAX_ATTEMPTS) failed.add(lock.id);

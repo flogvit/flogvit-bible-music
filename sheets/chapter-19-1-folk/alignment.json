@@ -1,0 +1,1545 @@
+{
+ "id": "chapter-19-1-folk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-1-folk",
+ "offset_seconds": -1.0000000000002345,
+ "words_heard": 171,
+ "words": 174,
+ "lines": [
+  {
+   "text": "Blessed is the one who does not walk in the counsel of the wicked",
+   "heard": 14,
+   "words": 14,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who does not stand in the way of sinners",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who does not sit in the seat of mockers",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But whose delight is in the instruction of the LORD",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And who murmurs over his instruction day and night",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He is like a tree transplanted beside channels of water",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yielding its fruit in season, its leaf never withering",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In all that he does, he thrives",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a tree transplanted beside channels of water",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not so the wicked",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They are like chaff that the wind blows away",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Therefore the wicked will not stand in the judgment",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Nor sinners in the assembly of the righteous",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He is like a tree transplanted beside channels of water",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yielding its fruit in season, its leaf never withering",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In all that he does, he thrives",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a tree transplanted beside channels of water",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the LORD knows the way of the righteous",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the way of the wicked will perish",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The LORD knows the way of the righteous",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Blessed",
+   "time": 11.82,
+   "weight": 0.28,
+   "note_time": 11.43
+  },
+  {
+   "text": "is",
+   "time": 12.66,
+   "weight": 1.0,
+   "note_time": 12.5
+  },
+  {
+   "text": "the",
+   "time": 13.02,
+   "weight": 0.99,
+   "note_time": 12.68
+  },
+  {
+   "text": "one",
+   "time": 13.62,
+   "weight": 0.98,
+   "note_time": 13.21
+  },
+  {
+   "text": "who",
+   "time": 13.98,
+   "weight": 0.99,
+   "note_time": 13.39
+  },
+  {
+   "text": "does",
+   "time": 14.36,
+   "weight": 1.0,
+   "note_time": 13.75
+  },
+  {
+   "text": "not",
+   "time": 14.66,
+   "weight": 1.0,
+   "note_time": 14.11
+  },
+  {
+   "text": "walk",
+   "time": 14.96,
+   "weight": 1.0,
+   "note_time": 14.29
+  },
+  {
+   "text": "in",
+   "time": 15.62,
+   "weight": 0.98,
+   "note_time": 15.36
+  },
+  {
+   "text": "the",
+   "time": 16.52,
+   "weight": 1.0,
+   "note_time": 15.54
+  },
+  {
+   "text": "coun",
+   "time": 16.66,
+   "weight": 0.94,
+   "note_time": 15.71
+  },
+  {
+   "text": "sel",
+   "time": 16.91,
+   "weight": 0.94,
+   "note_time": 16.25
+  },
+  {
+   "text": "of",
+   "time": 17.16,
+   "weight": 1.0,
+   "note_time": 16.43
+  },
+  {
+   "text": "the",
+   "time": 17.7,
+   "weight": 1.0,
+   "note_time": 16.79
+  },
+  {
+   "text": "wic",
+   "time": 17.94,
+   "weight": 1.0,
+   "note_time": 16.96
+  },
+  {
+   "text": "ked",
+   "time": 18.17,
+   "weight": 1.0,
+   "note_time": 17.32
+  },
+  {
+   "text": "Who",
+   "time": 18.4,
+   "weight": 0.06,
+   "note_time": 19.11
+  },
+  {
+   "text": "does",
+   "time": 20.18,
+   "weight": 1.0,
+   "note_time": 19.29
+  },
+  {
+   "text": "not",
+   "time": 20.46,
+   "weight": 1.0,
+   "note_time": 19.46
+  },
+  {
+   "text": "stand",
+   "time": 20.74,
+   "weight": 1.0,
+   "note_time": 20.0
+  },
+  {
+   "text": "in",
+   "time": 21.3,
+   "weight": 1.0,
+   "note_time": 20.71
+  },
+  {
+   "text": "the",
+   "time": 21.94,
+   "weight": 1.0,
+   "note_time": 21.07
+  },
+  {
+   "text": "way",
+   "time": 22.22,
+   "weight": 1.0,
+   "note_time": 21.25
+  },
+  {
+   "text": "of",
+   "time": 22.54,
+   "weight": 1.0,
+   "note_time": 21.61
+  },
+  {
+   "text": "sin",
+   "time": 22.82,
+   "weight": 1.0,
+   "note_time": 21.96
+  },
+  {
+   "text": "ners",
+   "time": 23.12,
+   "weight": 1.0,
+   "note_time": 22.32
+  },
+  {
+   "text": "Who",
+   "time": 23.42,
+   "weight": 0.37,
+   "note_time": 24.82
+  },
+  {
+   "text": "does",
+   "time": 25.9,
+   "weight": 1.0,
+   "note_time": 25.0
+  },
+  {
+   "text": "not",
+   "time": 26.18,
+   "weight": 1.0,
+   "note_time": 25.18
+  },
+  {
+   "text": "sit",
+   "time": 26.48,
+   "weight": 1.0,
+   "note_time": 25.71
+  },
+  {
+   "text": "in",
+   "time": 26.98,
+   "weight": 1.0,
+   "note_time": 26.25
+  },
+  {
+   "text": "the",
+   "time": 27.5,
+   "weight": 1.0,
+   "note_time": 26.61
+  },
+  {
+   "text": "seat",
+   "time": 27.76,
+   "weight": 1.0,
+   "note_time": 26.96
+  },
+  {
+   "text": "of",
+   "time": 28.22,
+   "weight": 1.0,
+   "note_time": 27.32
+  },
+  {
+   "text": "mock",
+   "time": 28.56,
+   "weight": 0.98,
+   "note_time": 27.68
+  },
+  {
+   "text": "ers",
+   "time": 28.91,
+   "weight": 0.98,
+   "note_time": 28.04
+  },
+  {
+   "text": "But",
+   "time": 30.74,
+   "weight": 0.15,
+   "note_time": 30.54
+  },
+  {
+   "text": "whose",
+   "time": 31.62,
+   "weight": 0.99,
+   "note_time": 31.07
+  },
+  {
+   "text": "de",
+   "time": 31.92,
+   "weight": 1.0,
+   "note_time": 31.25
+  },
+  {
+   "text": "light",
+   "time": 32.18,
+   "weight": 1.0,
+   "note_time": 31.79
+  },
+  {
+   "text": "is",
+   "time": 32.44,
+   "weight": 0.99,
+   "note_time": 31.96
+  },
+  {
+   "text": "in",
+   "time": 33.04,
+   "weight": 1.0,
+   "note_time": 32.32
+  },
+  {
+   "text": "the",
+   "time": 33.2,
+   "weight": 1.0,
+   "note_time": 32.5
+  },
+  {
+   "text": "in",
+   "time": 33.48,
+   "weight": 1.0,
+   "note_time": 32.86
+  },
+  {
+   "text": "struc",
+   "time": 33.68,
+   "weight": 1.0,
+   "note_time": 33.21
+  },
+  {
+   "text": "tion",
+   "time": 33.88,
+   "weight": 1.0,
+   "note_time": 33.39
+  },
+  {
+   "text": "of",
+   "time": 34.08,
+   "weight": 1.0,
+   "note_time": 33.75
+  },
+  {
+   "text": "the",
+   "time": 34.62,
+   "weight": 1.0,
+   "note_time": 33.93
+  },
+  {
+   "text": "LORD",
+   "time": 34.9,
+   "weight": 0.99,
+   "note_time": 34.11
+  },
+  {
+   "text": "And",
+   "time": 36.6,
+   "weight": 0.32,
+   "note_time": 36.61
+  },
+  {
+   "text": "who",
+   "time": 37.48,
+   "weight": 0.97,
+   "note_time": 37.14
+  },
+  {
+   "text": "mur",
+   "time": 37.9,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "murs",
+   "time": 38.25,
+   "weight": 1.0,
+   "note_time": 37.68
+  },
+  {
+   "text": "o",
+   "time": 38.74,
+   "weight": 1.0,
+   "note_time": 38.04
+  },
+  {
+   "text": "ver",
+   "time": 38.94,
+   "weight": 1.0,
+   "note_time": 38.39
+  },
+  {
+   "text": "his",
+   "time": 39.14,
+   "weight": 0.65,
+   "note_time": 38.75
+  },
+  {
+   "text": "in",
+   "time": 39.56,
+   "weight": 0.99,
+   "note_time": 39.11
+  },
+  {
+   "text": "struc",
+   "time": 39.83,
+   "weight": 0.99,
+   "note_time": 39.46
+  },
+  {
+   "text": "tion",
+   "time": 40.11,
+   "weight": 0.99,
+   "note_time": 40.0
+  },
+  {
+   "text": "day",
+   "time": 40.38,
+   "weight": 0.94,
+   "note_time": 40.71
+  },
+  {
+   "text": "and",
+   "time": 41.14,
+   "weight": 1.0,
+   "note_time": 41.25
+  },
+  {
+   "text": "night",
+   "time": 41.98,
+   "weight": 1.0,
+   "note_time": 41.43
+  },
+  {
+   "text": "He",
+   "time": 42.8,
+   "weight": 0.78,
+   "note_time": 42.86
+  },
+  {
+   "text": "is",
+   "time": 44.0,
+   "weight": 1.0,
+   "note_time": 43.57
+  },
+  {
+   "text": "like",
+   "time": 44.36,
+   "weight": 1.0,
+   "note_time": 43.93
+  },
+  {
+   "text": "a",
+   "time": 44.68,
+   "weight": 1.0,
+   "note_time": 44.11
+  },
+  {
+   "text": "tree",
+   "time": 45.08,
+   "weight": 1.0,
+   "note_time": 45.18
+  },
+  {
+   "text": "trans",
+   "time": 45.36,
+   "weight": 0.32,
+   "note_time": 45.71
+  },
+  {
+   "text": "plant",
+   "time": 45.71,
+   "weight": 0.32,
+   "note_time": 46.07
+  },
+  {
+   "text": "ed",
+   "time": 46.06,
+   "weight": 0.32,
+   "note_time": 46.25
+  },
+  {
+   "text": "be",
+   "time": 47.28,
+   "weight": 0.99,
+   "note_time": 46.61
+  },
+  {
+   "text": "side",
+   "time": 47.41,
+   "weight": 0.99,
+   "note_time": 47.14
+  },
+  {
+   "text": "chan",
+   "time": 47.54,
+   "weight": 0.94,
+   "note_time": 47.32
+  },
+  {
+   "text": "nels",
+   "time": 47.89,
+   "weight": 0.94,
+   "note_time": 47.68
+  },
+  {
+   "text": "of",
+   "time": 48.54,
+   "weight": 1.0,
+   "note_time": 47.86
+  },
+  {
+   "text": "wa",
+   "time": 48.84,
+   "weight": 1.0,
+   "note_time": 48.21
+  },
+  {
+   "text": "ter",
+   "time": 49.02,
+   "weight": 1.0,
+   "note_time": 48.93
+  },
+  {
+   "text": "Yield",
+   "time": 49.2,
+   "weight": 1.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "ing",
+   "time": 49.55,
+   "weight": 1.0,
+   "note_time": 49.46
+  },
+  {
+   "text": "its",
+   "time": 50.62,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "fruit",
+   "time": 50.84,
+   "weight": 0.99,
+   "note_time": 50.71
+  },
+  {
+   "text": "in",
+   "time": 51.26,
+   "weight": 1.0,
+   "note_time": 51.25
+  },
+  {
+   "text": "sea",
+   "time": 52.0,
+   "weight": 1.0,
+   "note_time": 51.79
+  },
+  {
+   "text": "son,",
+   "time": 52.35,
+   "weight": 1.0,
+   "note_time": 51.96
+  },
+  {
+   "text": "its",
+   "time": 53.16,
+   "weight": 1.0,
+   "note_time": 52.32
+  },
+  {
+   "text": "leaf",
+   "time": 53.64,
+   "weight": 0.99,
+   "note_time": 52.86
+  },
+  {
+   "text": "ne",
+   "time": 54.08,
+   "weight": 1.0,
+   "note_time": 53.21
+  },
+  {
+   "text": "ver",
+   "time": 54.27,
+   "weight": 1.0,
+   "note_time": 53.39
+  },
+  {
+   "text": "with",
+   "time": 54.46,
+   "weight": 1.0,
+   "note_time": 53.57
+  },
+  {
+   "text": "er",
+   "time": 54.7,
+   "weight": 1.0,
+   "note_time": 53.75
+  },
+  {
+   "text": "ing",
+   "time": 54.94,
+   "weight": 1.0,
+   "note_time": 53.93
+  },
+  {
+   "text": "In",
+   "time": 55.41,
+   "weight": 0.0,
+   "note_time": 54.82
+  },
+  {
+   "text": "all",
+   "time": 55.88,
+   "weight": 0.98,
+   "note_time": 55.0
+  },
+  {
+   "text": "that",
+   "time": 56.2,
+   "weight": 0.99,
+   "note_time": 55.18
+  },
+  {
+   "text": "he",
+   "time": 56.38,
+   "weight": 0.67,
+   "note_time": 55.36
+  },
+  {
+   "text": "does,",
+   "time": 56.5,
+   "weight": 1.0,
+   "note_time": 55.54
+  },
+  {
+   "text": "he",
+   "time": 57.1,
+   "weight": 0.99,
+   "note_time": 56.61
+  },
+  {
+   "text": "thrives",
+   "time": 57.74,
+   "weight": 0.94,
+   "note_time": 56.96
+  },
+  {
+   "text": "Like",
+   "time": 58.86,
+   "weight": 0.25,
+   "note_time": 59.64
+  },
+  {
+   "text": "a",
+   "time": 60.78,
+   "weight": 1.0,
+   "note_time": 59.82
+  },
+  {
+   "text": "tree",
+   "time": 60.98,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "trans",
+   "time": 61.24,
+   "weight": 0.4,
+   "note_time": 60.71
+  },
+  {
+   "text": "plant",
+   "time": 61.59,
+   "weight": 0.4,
+   "note_time": 61.43
+  },
+  {
+   "text": "ed",
+   "time": 61.94,
+   "weight": 0.4,
+   "note_time": 61.96
+  },
+  {
+   "text": "be",
+   "time": 63.22,
+   "weight": 0.34,
+   "note_time": 63.93
+  },
+  {
+   "text": "side",
+   "time": 63.57,
+   "weight": 0.34,
+   "note_time": 64.29
+  },
+  {
+   "text": "chan",
+   "time": 64.92,
+   "weight": 0.98,
+   "note_time": 64.46
+  },
+  {
+   "text": "nels",
+   "time": 65.2,
+   "weight": 0.98,
+   "note_time": 64.82
+  },
+  {
+   "text": "of",
+   "time": 65.48,
+   "weight": 1.0,
+   "note_time": 65.0
+  },
+  {
+   "text": "wa",
+   "time": 65.98,
+   "weight": 1.0,
+   "note_time": 65.18
+  },
+  {
+   "text": "ter",
+   "time": 66.23,
+   "weight": 1.0,
+   "note_time": 65.36
+  },
+  {
+   "text": "Not",
+   "time": 76.36,
+   "weight": 0.76,
+   "note_time": 76.07
+  },
+  {
+   "text": "so",
+   "time": 77.2,
+   "weight": 1.0,
+   "note_time": 76.43
+  },
+  {
+   "text": "the",
+   "time": 77.52,
+   "weight": 0.96,
+   "note_time": 76.79
+  },
+  {
+   "text": "wic",
+   "time": 77.9,
+   "weight": 1.0,
+   "note_time": 76.96
+  },
+  {
+   "text": "ked",
+   "time": 78.12,
+   "weight": 1.0,
+   "note_time": 77.32
+  },
+  {
+   "text": "They",
+   "time": 78.58,
+   "weight": 0.99,
+   "note_time": 78.93
+  },
+  {
+   "text": "are",
+   "time": 80.06,
+   "weight": 1.0,
+   "note_time": 79.46
+  },
+  {
+   "text": "like",
+   "time": 80.32,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "chaff",
+   "time": 80.7,
+   "weight": 0.99,
+   "note_time": 80.71
+  },
+  {
+   "text": "that",
+   "time": 81.52,
+   "weight": 0.99,
+   "note_time": 81.07
+  },
+  {
+   "text": "the",
+   "time": 81.9,
+   "weight": 1.0,
+   "note_time": 81.25
+  },
+  {
+   "text": "wind",
+   "time": 82.18,
+   "weight": 1.0,
+   "note_time": 81.96
+  },
+  {
+   "text": "blows",
+   "time": 82.58,
+   "weight": 1.0,
+   "note_time": 82.14
+  },
+  {
+   "text": "a",
+   "time": 83.18,
+   "weight": 1.0,
+   "note_time": 82.5
+  },
+  {
+   "text": "way",
+   "time": 83.5,
+   "weight": 1.0,
+   "note_time": 82.68
+  },
+  {
+   "text": "There",
+   "time": 85.82,
+   "weight": 0.71,
+   "note_time": 84.64
+  },
+  {
+   "text": "fore",
+   "time": 85.84,
+   "weight": 0.71,
+   "note_time": 85.36
+  },
+  {
+   "text": "the",
+   "time": 85.86,
+   "weight": 0.94,
+   "note_time": 85.54
+  },
+  {
+   "text": "wic",
+   "time": 86.46,
+   "weight": 0.99,
+   "note_time": 85.89
+  },
+  {
+   "text": "ked",
+   "time": 86.69,
+   "weight": 0.99,
+   "note_time": 86.07
+  },
+  {
+   "text": "will",
+   "time": 86.92,
+   "weight": 0.93,
+   "note_time": 86.25
+  },
+  {
+   "text": "not",
+   "time": 87.36,
+   "weight": 0.98,
+   "note_time": 86.61
+  },
+  {
+   "text": "stand",
+   "time": 87.8,
+   "weight": 0.98,
+   "note_time": 87.14
+  },
+  {
+   "text": "in",
+   "time": 88.38,
+   "weight": 0.99,
+   "note_time": 87.86
+  },
+  {
+   "text": "the",
+   "time": 88.75,
+   "weight": 0.0,
+   "note_time": 88.21
+  },
+  {
+   "text": "judg",
+   "time": 89.12,
+   "weight": 0.74,
+   "note_time": 88.39
+  },
+  {
+   "text": "ment",
+   "time": 89.37,
+   "weight": 0.74,
+   "note_time": 88.93
+  },
+  {
+   "text": "Nor",
+   "time": 90.14,
+   "weight": 0.39,
+   "note_time": 91.07
+  },
+  {
+   "text": "sin",
+   "time": 92.2,
+   "weight": 0.98,
+   "note_time": 91.96
+  },
+  {
+   "text": "ners",
+   "time": 92.39,
+   "weight": 0.98,
+   "note_time": 92.32
+  },
+  {
+   "text": "in",
+   "time": 92.58,
+   "weight": 0.98,
+   "note_time": 92.5
+  },
+  {
+   "text": "the",
+   "time": 93.16,
+   "weight": 1.0,
+   "note_time": 92.68
+  },
+  {
+   "text": "as",
+   "time": 93.4,
+   "weight": 0.98,
+   "note_time": 93.21
+  },
+  {
+   "text": "sem",
+   "time": 93.68,
+   "weight": 0.98,
+   "note_time": 93.39
+  },
+  {
+   "text": "bly",
+   "time": 93.96,
+   "weight": 0.98,
+   "note_time": 93.93
+  },
+  {
+   "text": "of",
+   "time": 94.24,
+   "weight": 0.99,
+   "note_time": 94.11
+  },
+  {
+   "text": "the",
+   "time": 94.6,
+   "weight": 0.99,
+   "note_time": 95.0
+  },
+  {
+   "text": "right",
+   "time": 95.04,
+   "weight": 0.99,
+   "note_time": 95.54
+  },
+  {
+   "text": "eous",
+   "time": 95.39,
+   "weight": 0.99,
+   "note_time": 95.71
+  },
+  {
+   "text": "He",
+   "time": 97.74,
+   "weight": 0.92,
+   "note_time": 97.14
+  },
+  {
+   "text": "is",
+   "time": 98.22,
+   "weight": 0.98,
+   "note_time": 97.86
+  },
+  {
+   "text": "like",
+   "time": 98.64,
+   "weight": 0.97,
+   "note_time": 98.21
+  },
+  {
+   "text": "a",
+   "time": 99.0,
+   "weight": 0.98,
+   "note_time": 98.39
+  },
+  {
+   "text": "tree",
+   "time": 99.34,
+   "weight": 0.97,
+   "note_time": 99.46
+  },
+  {
+   "text": "trans",
+   "time": 99.84,
+   "weight": 0.39,
+   "note_time": 100.0
+  },
+  {
+   "text": "plant",
+   "time": 100.19,
+   "weight": 0.39,
+   "note_time": 100.36
+  },
+  {
+   "text": "ed",
+   "time": 100.54,
+   "weight": 0.39,
+   "note_time": 100.54
+  },
+  {
+   "text": "be",
+   "time": 101.52,
+   "weight": 0.96,
+   "note_time": 100.89
+  },
+  {
+   "text": "side",
+   "time": 101.64,
+   "weight": 0.96,
+   "note_time": 101.43
+  },
+  {
+   "text": "chan",
+   "time": 101.76,
+   "weight": 0.79,
+   "note_time": 101.61
+  },
+  {
+   "text": "nels",
+   "time": 102.11,
+   "weight": 0.79,
+   "note_time": 101.96
+  },
+  {
+   "text": "of",
+   "time": 102.6,
+   "weight": 0.99,
+   "note_time": 102.14
+  },
+  {
+   "text": "wa",
+   "time": 103.1,
+   "weight": 0.98,
+   "note_time": 102.32
+  },
+  {
+   "text": "ter",
+   "time": 103.37,
+   "weight": 0.98,
+   "note_time": 102.5
+  },
+  {
+   "text": "Yield",
+   "time": 103.78,
+   "weight": 0.85,
+   "note_time": 103.21
+  },
+  {
+   "text": "ing",
+   "time": 104.13,
+   "weight": 0.85,
+   "note_time": 103.75
+  },
+  {
+   "text": "its",
+   "time": 104.86,
+   "weight": 0.95,
+   "note_time": 104.29
+  },
+  {
+   "text": "fruit",
+   "time": 105.1,
+   "weight": 0.94,
+   "note_time": 105.0
+  },
+  {
+   "text": "in",
+   "time": 105.54,
+   "weight": 0.92,
+   "note_time": 105.54
+  },
+  {
+   "text": "sea",
+   "time": 106.22,
+   "weight": 0.98,
+   "note_time": 106.07
+  },
+  {
+   "text": "son,",
+   "time": 106.57,
+   "weight": 0.98,
+   "note_time": 106.25
+  },
+  {
+   "text": "its",
+   "time": 107.42,
+   "weight": 0.84,
+   "note_time": 106.61
+  },
+  {
+   "text": "leaf",
+   "time": 107.9,
+   "weight": 0.68,
+   "note_time": 107.14
+  },
+  {
+   "text": "ne",
+   "time": 108.34,
+   "weight": 0.97,
+   "note_time": 107.5
+  },
+  {
+   "text": "ver",
+   "time": 108.51,
+   "weight": 0.97,
+   "note_time": 107.68
+  },
+  {
+   "text": "with",
+   "time": 108.68,
+   "weight": 0.99,
+   "note_time": 107.86
+  },
+  {
+   "text": "er",
+   "time": 108.93,
+   "weight": 0.99,
+   "note_time": 108.04
+  },
+  {
+   "text": "ing",
+   "time": 109.17,
+   "weight": 0.99,
+   "note_time": 108.21
+  },
+  {
+   "text": "In",
+   "time": 109.68,
+   "weight": 0.0,
+   "note_time": 109.11
+  },
+  {
+   "text": "all",
+   "time": 110.18,
+   "weight": 0.98,
+   "note_time": 109.29
+  },
+  {
+   "text": "that",
+   "time": 110.48,
+   "weight": 0.98,
+   "note_time": 109.46
+  },
+  {
+   "text": "he",
+   "time": 110.62,
+   "weight": 0.66,
+   "note_time": 109.64
+  },
+  {
+   "text": "does,",
+   "time": 110.76,
+   "weight": 1.0,
+   "note_time": 109.82
+  },
+  {
+   "text": "he",
+   "time": 111.34,
+   "weight": 0.99,
+   "note_time": 110.89
+  },
+  {
+   "text": "thrives",
+   "time": 112.0,
+   "weight": 0.94,
+   "note_time": 111.25
+  },
+  {
+   "text": "Like",
+   "time": 113.14,
+   "weight": 0.27,
+   "note_time": 113.93
+  },
+  {
+   "text": "a",
+   "time": 115.08,
+   "weight": 1.0,
+   "note_time": 114.11
+  },
+  {
+   "text": "tree",
+   "time": 115.24,
+   "weight": 1.0,
+   "note_time": 114.29
+  },
+  {
+   "text": "trans",
+   "time": 115.5,
+   "weight": 0.39,
+   "note_time": 115.0
+  },
+  {
+   "text": "plant",
+   "time": 115.85,
+   "weight": 0.39,
+   "note_time": 115.71
+  },
+  {
+   "text": "ed",
+   "time": 116.2,
+   "weight": 0.39,
+   "note_time": 116.25
+  },
+  {
+   "text": "be",
+   "time": 117.46,
+   "weight": 0.32,
+   "note_time": 118.21
+  },
+  {
+   "text": "side",
+   "time": 117.81,
+   "weight": 0.32,
+   "note_time": 118.57
+  },
+  {
+   "text": "chan",
+   "time": 119.22,
+   "weight": 0.96,
+   "note_time": 118.75
+  },
+  {
+   "text": "nels",
+   "time": 119.5,
+   "weight": 0.96,
+   "note_time": 119.11
+  },
+  {
+   "text": "of",
+   "time": 119.78,
+   "weight": 1.0,
+   "note_time": 119.29
+  },
+  {
+   "text": "wa",
+   "time": 120.22,
+   "weight": 1.0,
+   "note_time": 119.46
+  },
+  {
+   "text": "ter",
+   "time": 120.5,
+   "weight": 1.0,
+   "note_time": 119.64
+  },
+  {
+   "text": "For",
+   "time": 142.42,
+   "weight": 0.73,
+   "note_time": 142.32
+  },
+  {
+   "text": "the",
+   "time": 143.38,
+   "weight": 0.99,
+   "note_time": 142.68
+  },
+  {
+   "text": "LORD",
+   "time": 143.64,
+   "weight": 0.94,
+   "note_time": 143.39
+  },
+  {
+   "text": "knows",
+   "time": 143.96,
+   "weight": 1.0,
+   "note_time": 143.93
+  },
+  {
+   "text": "the",
+   "time": 144.62,
+   "weight": 1.0,
+   "note_time": 144.11
+  },
+  {
+   "text": "way",
+   "time": 145.06,
+   "weight": 0.99,
+   "note_time": 144.29
+  },
+  {
+   "text": "of",
+   "time": 145.4,
+   "weight": 0.99,
+   "note_time": 145.0
+  },
+  {
+   "text": "the",
+   "time": 146.24,
+   "weight": 0.99,
+   "note_time": 145.36
+  },
+  {
+   "text": "right",
+   "time": 146.48,
+   "weight": 1.0,
+   "note_time": 145.54
+  },
+  {
+   "text": "eous",
+   "time": 146.83,
+   "weight": 1.0,
+   "note_time": 146.25
+  },
+  {
+   "text": "But",
+   "time": 147.36,
+   "weight": 0.24,
+   "note_time": 148.04
+  },
+  {
+   "text": "the",
+   "time": 149.2,
+   "weight": 1.0,
+   "note_time": 148.57
+  },
+  {
+   "text": "way",
+   "time": 149.34,
+   "weight": 0.99,
+   "note_time": 149.29
+  },
+  {
+   "text": "of",
+   "time": 149.68,
+   "weight": 1.0,
+   "note_time": 149.64
+  },
+  {
+   "text": "the",
+   "time": 150.5,
+   "weight": 0.98,
+   "note_time": 149.82
+  },
+  {
+   "text": "wic",
+   "time": 150.78,
+   "weight": 1.0,
+   "note_time": 150.18
+  },
+  {
+   "text": "ked",
+   "time": 151.03,
+   "weight": 1.0,
+   "note_time": 150.89
+  },
+  {
+   "text": "will",
+   "time": 151.28,
+   "weight": 1.0,
+   "note_time": 151.43
+  },
+  {
+   "text": "per",
+   "time": 152.02,
+   "weight": 1.0,
+   "note_time": 151.96
+  },
+  {
+   "text": "ish",
+   "time": 152.37,
+   "weight": 1.0,
+   "note_time": 152.14
+  },
+  {
+   "text": "The",
+   "time": 154.18,
+   "weight": 0.93,
+   "note_time": 153.93
+  },
+  {
+   "text": "LORD",
+   "time": 155.14,
+   "weight": 1.0,
+   "note_time": 155.0
+  },
+  {
+   "text": "knows",
+   "time": 155.46,
+   "weight": 1.0,
+   "note_time": 155.54
+  },
+  {
+   "text": "the",
+   "time": 156.22,
+   "weight": 0.99,
+   "note_time": 155.71
+  },
+  {
+   "text": "way",
+   "time": 156.52,
+   "weight": 1.0,
+   "note_time": 156.07
+  },
+  {
+   "text": "of",
+   "time": 156.82,
+   "weight": 1.0,
+   "note_time": 156.25
+  },
+  {
+   "text": "the",
+   "time": 157.3,
+   "weight": 0.95,
+   "note_time": 156.43
+  },
+  {
+   "text": "right",
+   "time": 157.38,
+   "weight": 1.0,
+   "note_time": 157.5
+  },
+  {
+   "text": "eous",
+   "time": 157.73,
+   "weight": 1.0,
+   "note_time": 157.68
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 0.2 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "19 of 20 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

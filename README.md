@@ -70,6 +70,7 @@ One file per song in `catalog/<id>.json`:
 | `tags.themes`, `tags.stories`, `tags.persons` | slugs from `free-bible/generate/{themes,stories,persons}/en/` |
 | `lyricsMode` | `verbatim`, `mixed` (quotes the verse) or `thematic` |
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
+| `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed |
 | `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed` |
 
 Check new or changed songs before committing them:
@@ -140,16 +141,26 @@ an agent session instead, `run` dies with that terminal or session.
 ### Lyrics check
 
 YuE sometimes sings a line twice where the lyrics ask for two different lines, drops or merges a line, or
-garbles the words. Every song is checked before it gets its sheets, and only a song that passes is published.
+garbles the words. Every song is checked before it gets its sheets. A song sung differently from its lyrics is
+not thrown away for that: when what was sung is good lyrics too, the song is kept with the lyrics as sung.
+Only a broken song is made again.
 
 1. Whisper listens to the song (`song-sheets.py --listen-only`, which writes `sheets/<id>/whisper.json`; the
    sheets reuse it afterwards, so Whisper runs once per song).
 2. `scripts/lyrics-check.ts` gives a local LLM the requested lyrics with their sections (`[Verse]`,
-   `[Chorus]`, …) and the phrases Whisper heard, with times. It answers `correct`, `wrong` or `unsure`, with each
-   problem and when it is heard. Wrong or garbled words, a missing line, two lines merged, and a line or verse
-   sung more often than the structure asks for are wrong. A chorus the lyrics repeat, a hook echoed at the end,
-   wordless vocals, and Whisper's own near-misses (*this* for *theirs*) are fine.
-3. Only `correct` with no problems passes. Anything else, `unsure` too, rejects the song: its audio moves to
+   `[Chorus]`, …) and the phrases Whisper heard, with times. It answers one of three, with each difference and
+   when it is heard:
+   - `correct`: sung as written. A chorus the lyrics repeat, a hook echoed at the end, wordless vocals,
+     Whisper's own near-misses (*this* for *theirs*, *can do* for a drawn-out *endures*) and a repeated line
+     Whisper did not write down where there is room for it in the timing are fine.
+   - `adopt`: sung differently, but as good, singable lyrics that still say what the passage says: a reworded
+     line, an outro sung in other words, one line of a list left out. The song is kept, and the judge writes the
+     lyrics as sung in the requested sections. They go in `lyrics-sung.txt` in the song's folder; the sheets,
+     `alignment.json` and `library/<id>/info.json` use them (`lyricsAdopted`, with the asked-for lyrics in
+     `requestedLyrics`). The song's catalog entry, its Bible references and tags stay as they are.
+   - `wrong`: broken: garbled or unintelligible singing, verses or several lines not sung, a line or verse sung
+     again in place of the next one, or sung words that misrepresent the passage.
+3. `wrong` (and `unsure`) rejects the song: its audio moves to
    `YuE/outputs/catalog/<id>-rejected-<n>/` (with `whisper.json` and the verdict in `lyrics-check.json`), its
    lock gets the state `rejected`, and the next free machine makes it again with the next seed (the same seed
    would make the same song).
@@ -163,11 +174,25 @@ session therefore goes on counting from where it was. Without network, a rejecti
 minute until GitHub has it, and a run also counts the rejections it made itself, so it stops at 3 even if
 GitHub missed one. `retry` adds a `retry` commit; rejections before it no longer count.
 
+When a song's request changes in the catalog (a new form, style or lyrics), `remake` makes it again on this
+machine the same way `run` does: generation, lyrics check, sheets, library and the sheets commit. It takes the
+song also when it is done or set aside, as a `remake` commit (held like `claimed`, and the attempts count from
+there). The current take moves to `YuE/outputs/catalog/<id>-replaced/`, to compare with. If the new take does not
+pass, a done song gets its old take back and stays done, so the published song stays and no other machine makes it
+again from its own catalog. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
+own (a generator on the same machine name would otherwise finish the song too when it restarts). On a Mac that
+is also generating, start it when `top -l 2 -n 0 -s 2` shows at least 25 % idle and `ollama ps` shows no model.
+
 ```bash
 ls aside/                                       # songs set aside
 bun scripts/generate.ts retry <id>              # put one back, for 3 more attempts
-bun scripts/lyrics-check.ts <id>                # judge sheets/<id>/whisper.json now (exit 0 = passes)
-bun test scripts                                # the judge on a real doubled chorus line and a real chorus
+bun scripts/generate.ts rejudge <id>            # judge its kept takes again under the current rules (on the
+                                                # machine that set it aside), keep the first that passes
+MUSIC_MACHINE="M5 …, remake" bun scripts/generate.ts remake <id>   # make one song again after its request changed
+bun scripts/lyrics-check.ts <id>                # judge sheets/<id>/whisper.json now (exit 0 = correct,
+                                                # 3 = adopt, 2 = wrong)
+bun test scripts                                # the judge on a real doubled chorus line and a real chorus,
+                                                # and the lyrics form rules (lyrics-form.test.ts)
 ```
 
 `MUSIC_MAX_ATTEMPTS` sets the number of attempts (default 3), and `MUSIC_JUDGE_MODEL` the Ollama model

@@ -40,7 +40,7 @@ describe('lyrics check', () => {
   test('a song whose chorus is sung each time the lyrics repeat it passes', async () => {
     const f = fixture(PASSING.id);
     const v = await judge(f.lyrics, f.whisper);
-    expect(v.problems).toEqual([]);
+    expect(v.verdict).toBe('correct');
     expect(passes(v)).toBe(true);
   }, MINUTES);
 
@@ -56,4 +56,13 @@ describe('lyrics check', () => {
     expect(passes(v)).toBe(false);
     expect(v.problems.some((p) => p.detail.toLowerCase().includes('mourn'))).toBe(true);
   }, MINUTES);
+
+  // Home Mac's two first rejections, both sung right: Psalm 121's first chorus that Whisper skipped, and
+  // Micah 6:8's outro sung as an ad-lib. Each is kept.
+  for (const id of ['chapter-19-121-celtic', 'verse-33-6-8-blues']) {
+    test(`${id} is kept`, async () => {
+      const f = fixture(id);
+      expect(passes(await judge(f.lyrics, f.whisper))).toBe(true);
+    }, MINUTES);
+  }
 });

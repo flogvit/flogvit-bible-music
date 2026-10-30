@@ -9,6 +9,7 @@
  */
 import { existsSync, readdirSync, readFileSync } from 'fs';
 import path from 'path';
+import { lyricsErrors } from './lyrics-form';
 
 const root = path.join(import.meta.dir, '..');
 const freeBible = process.env.FREE_BIBLE ?? path.join(root, '..', 'free-bible');
@@ -22,7 +23,6 @@ const KINDS = ['verse', 'chapter', 'story', 'theme', 'person'];
 const LYRICS_MODES = ['verbatim', 'mixed', 'thematic'];
 const TEXT_SOURCES = ['osen', 'kjv'];
 const COT = ['full', 'melody', 'off'];
-const SECTION = /^\[(Intro|Verse|Pre-Chorus|Chorus|Bridge|Outro|Interlude|Refrain|Hook|Break|Instrumental)\]$/;
 
 const slugs = (dir: string) =>
   new Set(readdirSync(path.join(generate, dir)).filter((f) => f.endsWith('.json')).map((f) => f.slice(0, -5)));
@@ -126,14 +126,7 @@ for (const { file, song: s } of songs) {
   if (!COT.includes(r.cot)) errors.push(`request.cot must be one of ${COT.join(', ')}`);
   if (!Number.isInteger(r.seed)) errors.push('request.seed must be an integer');
   if (typeof r.lyrics !== 'string' || !r.lyrics.trim()) errors.push('request.lyrics missing');
-  else {
-    const lines = r.lyrics.split('\n');
-    if (!SECTION.test(lines[0])) errors.push('request.lyrics must start with a section tag such as [Verse]');
-    const tags = lines.filter((l: string) => l.startsWith('['));
-    for (const l of tags) if (!SECTION.test(l)) errors.push(`request.lyrics: unknown section tag ${l}`);
-    if (!tags.some((l: string) => /Chorus|Refrain/.test(l)) && s.lyricsMode !== 'verbatim')
-      errors.push('request.lyrics has no [Chorus]');
-  }
+  else errors.push(...lyricsErrors(r.lyrics, s.lyricsMode, s.form));
 
   if (errors.length) {
     failed++;

@@ -97,8 +97,8 @@ bun scripts/generate.ts status                                                  
 ```
 
 `run` takes the next free song, generates it with `configs/long-12000.json` under `taskpolicy -b`, checks that
-the singing delivers its lyrics (see Lyrics check), makes its sheets and `library/<id>/`, commits the sheets and pushes them to the current branch (or `$MUSIC_SHEETS_BRANCH`),
-marks the song done and takes the next one, until no song is free. It can run from a worktree; `YuE/`,
+the singing delivers its lyrics (see Lyrics check), makes its sheets and `library/<id>/`, commits the sheets and pushes them to `main` (or the current branch, or
+`$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one, until no song is free. It can run from a worktree; `YuE/`,
 `.venv-sheets` and `library/` are found in the main checkout. Before it takes new songs, it finishes the songs
 already made on this machine (sheets and library if they are missing) and marks them done. Its log goes to the
 terminal, and each song's own output to `YuE/outputs/catalog/<id>-run.log`. Stop it with Ctrl-C (or `kill`):
@@ -125,14 +125,17 @@ the checkout. Not under `.claude/worktrees/`: Dux's hourly sweep removes idle wo
 script launchd runs.
 
 ```bash
-git worktree add -b <machine>-generate ../music-generate origin/main
+git worktree add --detach ../music-generate origin/main
 cd ../music-generate
 MUSIC_MACHINE="M5 (MacBook Pro, M5 Max, 128 GB)" scripts/install-generator.sh --from-end
 tail -f ~/Library/Logs/music-generate.log
 ```
 
 The agent `com.flogvit.music-generate` starts at login and again 10 minutes after `run` stops, so a restart,
-a crash or a run that found no free song does not stop the machine for good. While a song generates, the Mac
+a crash or a run that found no free song does not stop the machine for good. The worktree follows `main`: `run`
+pulls it with each song's sheets, and when `main` brings a new `generate.ts` or lyrics check, `run` stops
+between songs (`RUN RESTART` in the log) and launchd starts the new code, so code merged to `main` reaches every
+generating Mac within a song and 10 minutes. While a song generates, the Mac
 does not sleep on power (`caffeinate -s`); on battery it may, and after 20 minutes asleep the song is free for
 others. Without network, `run` waits and tries again every minute. Turn it off with
 `scripts/install-generator.sh --uninstall`, which gives the song it was making back. Started from a terminal or

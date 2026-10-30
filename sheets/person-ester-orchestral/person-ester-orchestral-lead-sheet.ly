@@ -1,0 +1,37 @@
+\version "2.24.0"
+\header {
+  title = "Such a Time as This"
+  subtitle = "Esther 4:13–16; 2:7–17; 5:1–3; 7:1–10"
+  tagline = ##f
+  copyright = \markup \small \wordwrap { "Melody" "and" "chords" "from" "the" "score" "YuE2" "generated" "the" "song" "from" "(score.abc)." "Lyrics" "placed" "syllable" "by" "syllable" "against" "the" "recording" "with" "Whisper," "which" "heard" "244" "of" "250" "words." "26" "of" "27" "lyric" "lines" "sit" "clearly" "on" "their" "notes;" "1" "are" "uncertain" "and" "printed" "in" "grey" "italics." "Bible" "text:" "Open" "Source" "English" "(OSEN)," "CC" "BY" "4.0," "from" "SBLGNT" "and" "tanach.us." }
+}
+\paper {
+  #(set-paper-size "a4")
+  top-margin = 12\mm
+  bottom-margin = 12\mm
+  left-margin = 14\mm
+  right-margin = 14\mm
+  system-system-spacing.basic-distance = #14
+  markup-system-spacing.basic-distance = #8
+}
+melody = {
+  \clef treble \key dis \minor \tempo 4 = 85
+  \time 4/4 \sectionLabel "Intro" R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | \sectionLabel "Verse 1" r8. ais'16 dis''8 eis''16 fis''8. eis''8 dis''8 cis''8 | cis''8. ais'16 ais'8 gis'16 gis'16 ais'8 ais'16 ais'8. r16 ais'16 | dis''8 dis''8 dis''8 eis''16 fis''8 eis''8. dis''8 cis''16 cis''16 ~ | cis''8 cis''16 cis''16 cis''8. ais'16 ais'4 r8. ais'16 | b'8 b'8 b'8 cis''16 dis''8. dis''8 eis''8 fis''8 | fis''8. eis''16 eis''8 dis''8 dis''4 r8. dis''16 | dis''8 eis''16 eis''8. fis''16 fis''8. gis''16 gis''8. ais''8 | ais''8 eis''8 eis''8 dis''16 dis''16 eis''2 | R1*1 | \sectionLabel "Verse 2" dis''8 dis''16 dis''8. eis''8 fis''8 eis''16 dis''8. cis''8 | cis''8 ais'8 ais'16 gis'16 ais'8 ais'4 r8 ais'8 | dis''8 dis''8 dis''8 eis''16 fis''8. eis''8 dis''8 cis''16 cis''16 ~ | cis''8 cis''8 cis''8 ais'8 ais'4 r16 ais'16 gis'16 ais'16 | b'8 b'16 b'16 b'8 cis''16 dis''8. dis''16 eis''8. fis''16 fis''16 | fis''8. r16 eis''16 dis''8 dis''4 r8. dis''16 dis''16 ~ | dis''8. r16 eis''4 fis''4 gis''8 ais''8 | ais''2 ais''2 ~ | \sectionLabel "Chorus" ais''2 r4. dis''8 | ais''4 dis''4 ais''8 gis''8 fis''8 eis''8 | fis''4 dis''4 b''4 r8 b''16 b''16 ~ | b''16 ais''16 ais''16 ais''16 ais''16 gis''16 gis''8 gis''8 fis''16 fis''8. fis''16 gis''16 | fis''8 eis''16 eis''16 eis''8 dis''8 eis''8. fis''8. eis''8 | dis''4 r8 dis''16 ais''8. gis''8 fis''8 eis''8 | fis''4 dis''4 b''2 | ais''4. r16 ais''16 ais''8. gis''8. fis''8 | eis''2 r4 cis''4 | dis''1 | R1*1 | \sectionLabel "Bridge" dis''2 dis''8 eis''8 fis''8 gis''8 | ais''4 gis''4 fis''4 eis''4 | r4. dis''8 ais''4. dis''8 | dis''2 r4. cis''8 | dis''4 dis''4 dis''8. eis''8. fis''8 | gis''4 r8 gis''16 fis''16 gis''8. fis''16 gis''8. fis''16 | gis''8. ais''16 ais''2 r8 ais''8 | ais''4 gis''4 b''4 ais''4 | r4. dis''8 b''4 ais''4 | R1*1 | \sectionLabel "Verse 3" dis''8 dis''16 dis''8 dis''8 eis''16 fis''8 eis''16 dis''8. cis''8 | cis''8. ais'16 ais'8 gis'16 ais'8. r4 r16 ais'16 | dis''8 dis''8 dis''8 eis''8 fis''8 eis''16 dis''8. cis''8 | cis''8 cis''8 cis''8. ais'16 ais'4 r8. ais'16 | b'8 b'8 b'8 cis''16 dis''8. dis''8 eis''8 fis''8 | fis''16 eis''8. eis''8 dis''8 dis''16 cis''8 dis''4 r16 | r8 dis''16 dis''8. eis''16 fis''8. fis''8 gis''16 ais''8. | ais''4 r8 ais''16 ais''8. gis''8 gis''8 fis''8 | ais''1 ~ | \sectionLabel "Chorus" ais''2 r4. dis''8 | ais''4 dis''4 ais''8 gis''8 fis''8 eis''8 | fis''4 dis''4 b''4 r8 b''16 b''16 ~ | b''16 ais''16 ais''16 ais''16 ais''16 gis''16 gis''8 gis''8 fis''16 fis''8. fis''16 gis''16 | fis''8 eis''16 eis''16 eis''8 dis''8 eis''8. fis''8. eis''8 | dis''4 r8 dis''16 ais''8. gis''8 fis''8 eis''8 | fis''4 dis''4 b''2 | ais''4. r16 ais''16 ais''8. gis''8. fis''8 | eis''2 r4 cis''4 | dis''1 | R1*1 | \sectionLabel "Outro" r2 ais''8 gis''8 fis''8 eis''8 | fis''2 b''2 | ais''4 r4 ais''8 gis''8 fis''4 | eis''2. r4 | r4. dis''8 ais''8. gis''8. fis''8 | eis''2 r4 cis''4 ~ | cis''8 dis''2. ~ dis''8 ~ | dis''2 ~ dis''8 r4. | R1*1 |
+  \bar "|."
+}
+harmony = \chordmode { s1*7/8 dis1*65/8:m dis1:m fis1 dis1:m fis1 gis1:m dis1:m b1 ais1*2 dis1:m fis1 dis1:m fis1 gis1:m dis1:m b1 ais1 ais1 dis1:m b1 fis1 cis1 dis1:m b1 fis1 cis1 dis1*2:m b1 cis1 dis1*2:m b1 cis1 dis1*4:m dis1:m fis1 dis1:m fis1 gis1:m dis1:m b1 ais1*2 ais1 dis1:m b1 fis1 cis1 dis1:m b1 fis1 cis1 dis1*2:m dis1:m b1 fis1 cis1 dis1:m cis1 dis1*3:m }
+words = \lyricmode { "An" _ _ "or" -- "phan" "girl" "in" "Su" -- "sa," "raised" _ "by" "Mor" -- "de" -- "cai's" "hand" _ "Was" "cho" -- "sen" "for" "the" "pa" -- "lace," "crowned" "a" "queen" "at" "the" "king's" "com" -- "mand" "But" "Ha" -- "man" "cast" "the" "lot" "and" "had" "the" "king's" "de" -- "cree" "sent" "out" "To" "wipe" "a" -- "way" "the" "Jews" "in" "ev" -- "ery" "prov" -- "ince" "round" "a" -- \skip 1 "bout" "Mor" -- "de" -- "cai" "sat" "at" "the" "gate" "in" "sack" -- "cloth" "and" "in" "tears" "He" "sent" "his" "word" "to" "Es" -- "ther" "and" "he" "would" "not" "spare" "her" "fears" "Do" "not" "i" -- "ma" -- "gine" "that" "you" "a" -- "lone" "of" "all" "the" "Jews" "will" "es" -- "cape" "Be" -- "cause" "you" "are" "in" "the" "king's" "house" "If" "you" "keep" "si" -- "lent" "at" "a" "time" "like" "this" "Re" -- _ "lief" _ _ "and" "deli" -- "ve" -- "rance" "will" "a" -- "rise" "for" "the" "Jews" "from" "an" -- "oth" -- "er" "place" "And" "who" "knows?" "Per" -- "haps" "you" "have" "come" "to" "the" "throne" "For" "just" "such" "a" "time" "as" "this" "Go," "gath" -- "er" "all" "the" "Jews" "in" "Su" -- "sa" "and" "fast" "for" "me" "Then" "I" "will" "go" "to" "the" "king," "e" -- "ven" "though" "it" "is" "a" -- "gainst" "the" "law" "And" "if" "I" "per" -- "ish," "I" "per" -- "ish" "On" "the" "third" "day" "in" "roy" -- "al" "robes" "she" "stood" "be" -- "fore" "the" "throne" "The" "whole" "court" "held" "its" "breath" "to" "see" "if" "she" "would" "stand" "a" -- "lone" "The" "king" "held" "out" "the" "gold" -- "en" "s" -- "cepter," "she" "found" "fa" -- "vor" "in" "his" "eyes" "And" "on" "the" "gal" -- "lows" "Ha" -- "man" "built," "the" "wic" -- "ked" "Ha" -- "man" "died" "If" "you" "keep" "si" -- "lent" "at" "a" "time" "like" "this" "Re" -- "lief" _ _ "and" "deli" -- "ve" -- "rance" "will" "a" -- "rise" "for" "the" "Jews" "from" "an" -- "oth" -- "er" "place" "And" "who" "knows?" "Per" -- "haps" "you" "have" "come" "to" "the" "throne" _ "For" "just" "such" "a" "time" "as" "this" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "If" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "I" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "per" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "ish," \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "I" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "per" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "ish" \skip 1 \skip 1 \skip 1 \skip 1 "For" "just" "such" "a" "time" "as" "this" }
+\score {
+  <<
+    \new ChordNames \with { majorSevenSymbol = \markup { "maj7" } } \harmony
+    \new Staff \new Voice = "melody" \melody
+    \new Lyrics \lyricsto "melody" \words
+  >>
+  \layout {
+    indent = 0
+    \context { \Lyrics
+      \override LyricSpace.minimum-distance = #1.6
+      \override LyricHyphen.minimum-distance = #1.4
+    }
+  }
+}

@@ -1,0 +1,1526 @@
+{
+ "id": "verse-23-26-3-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-23-26-3-acoustic",
+ "offset_seconds": -2.420000000000204,
+ "words_heard": 156,
+ "words": 176,
+ "lines": [
+  {
+   "text": "When the night is long and restless and my mind will not lie still",
+   "heard": 14,
+   "words": 14,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And my thoughts run like a river, running anywhere they will",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I set my mind upon you like a city on the stone",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With salvation for its walls, and I am not alone",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.36,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "You keep in perfect peace the mind that is steadfast",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Because it trusts in you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Trust in the LORD forever",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For in the LORD, the LORD himself, is an everlasting rock",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Every storm that shakes the windows, every wave against the shore",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Breaks upon a rock that stood a thousand years before",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will lean my weight upon you, I will build my house on you",
+   "heard": 7,
+   "words": 14,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You are steady in the morning and the evening through",
+   "heard": 1,
+   "words": 10,
+   "error_s": 3.8,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "You keep in perfect peace the mind that is steadfast",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Because it trusts in you",
+   "heard": 2,
+   "words": 5,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Trust in the LORD forever",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For in the LORD, the LORD himself, is an everlasting rock",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Perfect peace, perfect peace",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The mind that is steadfast",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Because I trust in you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Trust in the LORD forever",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "An everlasting love",
+   "heard": 2,
+   "words": 3,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "When",
+   "time": 13.96,
+   "weight": 0.15,
+   "note_time": 13.8
+  },
+  {
+   "text": "the",
+   "time": 14.88,
+   "weight": 0.99,
+   "note_time": 14.0
+  },
+  {
+   "text": "night",
+   "time": 15.12,
+   "weight": 0.99,
+   "note_time": 14.2
+  },
+  {
+   "text": "is",
+   "time": 15.56,
+   "weight": 1.0,
+   "note_time": 14.6
+  },
+  {
+   "text": "long",
+   "time": 15.9,
+   "weight": 1.0,
+   "note_time": 15.0
+  },
+  {
+   "text": "and",
+   "time": 16.26,
+   "weight": 1.0,
+   "note_time": 15.6
+  },
+  {
+   "text": "rest",
+   "time": 16.72,
+   "weight": 1.0,
+   "note_time": 15.8
+  },
+  {
+   "text": "less",
+   "time": 16.98,
+   "weight": 1.0,
+   "note_time": 16.2
+  },
+  {
+   "text": "and",
+   "time": 17.24,
+   "weight": 0.57,
+   "note_time": 17.0
+  },
+  {
+   "text": "my",
+   "time": 18.04,
+   "weight": 1.0,
+   "note_time": 17.2
+  },
+  {
+   "text": "mind",
+   "time": 18.34,
+   "weight": 1.0,
+   "note_time": 17.6
+  },
+  {
+   "text": "will",
+   "time": 18.98,
+   "weight": 1.0,
+   "note_time": 18.0
+  },
+  {
+   "text": "not",
+   "time": 19.16,
+   "weight": 1.0,
+   "note_time": 18.2
+  },
+  {
+   "text": "lie",
+   "time": 19.44,
+   "weight": 1.0,
+   "note_time": 18.6
+  },
+  {
+   "text": "still",
+   "time": 19.76,
+   "weight": 1.0,
+   "note_time": 19.0
+  },
+  {
+   "text": "And",
+   "time": 20.22,
+   "weight": 0.98,
+   "note_time": 20.2
+  },
+  {
+   "text": "my",
+   "time": 21.36,
+   "weight": 1.0,
+   "note_time": 20.4
+  },
+  {
+   "text": "thoughts",
+   "time": 21.54,
+   "weight": 1.0,
+   "note_time": 20.8
+  },
+  {
+   "text": "run",
+   "time": 22.08,
+   "weight": 1.0,
+   "note_time": 21.2
+  },
+  {
+   "text": "like",
+   "time": 22.36,
+   "weight": 1.0,
+   "note_time": 21.6
+  },
+  {
+   "text": "a",
+   "time": 22.84,
+   "weight": 1.0,
+   "note_time": 22.0
+  },
+  {
+   "text": "riv",
+   "time": 23.16,
+   "weight": 1.0,
+   "note_time": 22.2
+  },
+  {
+   "text": "er,",
+   "time": 23.44,
+   "weight": 1.0,
+   "note_time": 22.6
+  },
+  {
+   "text": "run",
+   "time": 23.88,
+   "weight": 0.4,
+   "note_time": 23.6
+  },
+  {
+   "text": "ning",
+   "time": 24.23,
+   "weight": 0.4,
+   "note_time": 23.8
+  },
+  {
+   "text": "a",
+   "time": 24.84,
+   "weight": 0.96,
+   "note_time": 24.0
+  },
+  {
+   "text": "nyw",
+   "time": 25.05,
+   "weight": 0.96,
+   "note_time": 24.2
+  },
+  {
+   "text": "here",
+   "time": 25.27,
+   "weight": 0.96,
+   "note_time": 24.4
+  },
+  {
+   "text": "they",
+   "time": 25.48,
+   "weight": 0.97,
+   "note_time": 25.0
+  },
+  {
+   "text": "will",
+   "time": 26.12,
+   "weight": 1.0,
+   "note_time": 25.4
+  },
+  {
+   "text": "I",
+   "time": 26.58,
+   "weight": 0.93,
+   "note_time": 26.8
+  },
+  {
+   "text": "set",
+   "time": 27.92,
+   "weight": 0.99,
+   "note_time": 27.6
+  },
+  {
+   "text": "my",
+   "time": 28.32,
+   "weight": 1.0,
+   "note_time": 28.0
+  },
+  {
+   "text": "mind",
+   "time": 28.76,
+   "weight": 1.0,
+   "note_time": 28.4
+  },
+  {
+   "text": "up",
+   "time": 29.38,
+   "weight": 0.99,
+   "note_time": 28.6
+  },
+  {
+   "text": "on",
+   "time": 29.53,
+   "weight": 0.99,
+   "note_time": 29.0
+  },
+  {
+   "text": "you",
+   "time": 29.68,
+   "weight": 0.84,
+   "note_time": 30.0
+  },
+  {
+   "text": "like",
+   "time": 30.22,
+   "weight": 0.15,
+   "note_time": 30.2
+  },
+  {
+   "text": "a",
+   "time": 31.06,
+   "weight": 0.96,
+   "note_time": 30.4
+  },
+  {
+   "text": "c",
+   "time": 31.32,
+   "weight": 0.99,
+   "note_time": 30.6
+  },
+  {
+   "text": "ity",
+   "time": 31.55,
+   "weight": 0.99,
+   "note_time": 31.0
+  },
+  {
+   "text": "on",
+   "time": 31.78,
+   "weight": 0.99,
+   "note_time": 31.4
+  },
+  {
+   "text": "the",
+   "time": 32.22,
+   "weight": 0.8,
+   "note_time": 31.8
+  },
+  {
+   "text": "stone",
+   "time": 32.5,
+   "weight": 0.94,
+   "note_time": 32.6
+  },
+  {
+   "text": "With",
+   "time": 33.02,
+   "weight": 0.49,
+   "note_time": 33.0
+  },
+  {
+   "text": "sal",
+   "time": 33.78,
+   "weight": 0.99,
+   "note_time": 33.6
+  },
+  {
+   "text": "va",
+   "time": 34.07,
+   "weight": 0.99,
+   "note_time": 34.0
+  },
+  {
+   "text": "tion",
+   "time": 34.35,
+   "weight": 0.99,
+   "note_time": 34.2
+  },
+  {
+   "text": "for",
+   "time": 34.64,
+   "weight": 0.99,
+   "note_time": 34.6
+  },
+  {
+   "text": "its",
+   "time": 35.36,
+   "weight": 0.93,
+   "note_time": 35.0
+  },
+  {
+   "text": "walls,",
+   "time": 35.88,
+   "weight": 0.89,
+   "note_time": 36.6
+  },
+  {
+   "text": "and",
+   "time": 36.86,
+   "weight": 0.63,
+   "note_time": 36.8
+  },
+  {
+   "text": "I",
+   "time": 37.74,
+   "weight": 0.99,
+   "note_time": 37.2
+  },
+  {
+   "text": "am",
+   "time": 38.02,
+   "weight": 0.99,
+   "note_time": 37.4
+  },
+  {
+   "text": "not",
+   "time": 38.36,
+   "weight": 1.0,
+   "note_time": 38.0
+  },
+  {
+   "text": "a",
+   "time": 38.64,
+   "weight": 1.0,
+   "note_time": 38.2
+  },
+  {
+   "text": "lone",
+   "time": 38.98,
+   "weight": 1.0,
+   "note_time": 38.4
+  },
+  {
+   "text": "You",
+   "time": 40.6,
+   "weight": 0.91,
+   "note_time": 40.6
+  },
+  {
+   "text": "keep",
+   "time": 41.66,
+   "weight": 0.92,
+   "note_time": 40.8
+  },
+  {
+   "text": "in",
+   "time": 42.0,
+   "weight": 0.99,
+   "note_time": 41.0
+  },
+  {
+   "text": "per",
+   "time": 42.26,
+   "weight": 1.0,
+   "note_time": 41.4
+  },
+  {
+   "text": "fect",
+   "time": 42.59,
+   "weight": 1.0,
+   "note_time": 42.0
+  },
+  {
+   "text": "peace",
+   "time": 42.92,
+   "weight": 1.0,
+   "note_time": 42.8
+  },
+  {
+   "text": "the",
+   "time": 44.86,
+   "weight": 0.43,
+   "note_time": 44.4
+  },
+  {
+   "text": "mind",
+   "time": 45.54,
+   "weight": 1.0,
+   "note_time": 44.6
+  },
+  {
+   "text": "that",
+   "time": 45.98,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "is",
+   "time": 46.18,
+   "weight": 1.0,
+   "note_time": 45.2
+  },
+  {
+   "text": "stead",
+   "time": 46.44,
+   "weight": 1.0,
+   "note_time": 45.6
+  },
+  {
+   "text": "fast",
+   "time": 46.79,
+   "weight": 1.0,
+   "note_time": 46.2
+  },
+  {
+   "text": "Be",
+   "time": 48.96,
+   "weight": 0.97,
+   "note_time": 48.6
+  },
+  {
+   "text": "cause",
+   "time": 49.31,
+   "weight": 0.97,
+   "note_time": 49.0
+  },
+  {
+   "text": "it",
+   "time": 49.88,
+   "weight": 1.0,
+   "note_time": 49.6
+  },
+  {
+   "text": "trusts",
+   "time": 50.3,
+   "weight": 1.0,
+   "note_time": 50.4
+  },
+  {
+   "text": "in",
+   "time": 50.86,
+   "weight": 1.0,
+   "note_time": 51.2
+  },
+  {
+   "text": "you",
+   "time": 51.84,
+   "weight": 0.7,
+   "note_time": 52.0
+  },
+  {
+   "text": "Trust",
+   "time": 53.22,
+   "weight": 0.68,
+   "note_time": 53.2
+  },
+  {
+   "text": "in",
+   "time": 54.5,
+   "weight": 1.0,
+   "note_time": 54.2
+  },
+  {
+   "text": "the",
+   "time": 55.04,
+   "weight": 0.99,
+   "note_time": 54.4
+  },
+  {
+   "text": "LORD",
+   "time": 55.32,
+   "weight": 0.99,
+   "note_time": 54.6
+  },
+  {
+   "text": "for",
+   "time": 55.64,
+   "weight": 0.98,
+   "note_time": 54.8
+  },
+  {
+   "text": "ev",
+   "time": 55.85,
+   "weight": 0.98,
+   "note_time": 55.0
+  },
+  {
+   "text": "er",
+   "time": 56.07,
+   "weight": 0.98,
+   "note_time": 55.6
+  },
+  {
+   "text": "For",
+   "time": 56.28,
+   "weight": 0.15,
+   "note_time": 56.4
+  },
+  {
+   "text": "in",
+   "time": 57.36,
+   "weight": 0.99,
+   "note_time": 57.4
+  },
+  {
+   "text": "the",
+   "time": 58.24,
+   "weight": 1.0,
+   "note_time": 57.6
+  },
+  {
+   "text": "LORD,",
+   "time": 58.5,
+   "weight": 0.99,
+   "note_time": 57.8
+  },
+  {
+   "text": "the",
+   "time": 58.98,
+   "weight": 0.99,
+   "note_time": 58.0
+  },
+  {
+   "text": "LORD",
+   "time": 59.12,
+   "weight": 1.0,
+   "note_time": 58.2
+  },
+  {
+   "text": "him",
+   "time": 59.44,
+   "weight": 0.8,
+   "note_time": 58.6
+  },
+  {
+   "text": "self,",
+   "time": 59.72,
+   "weight": 0.8,
+   "note_time": 59.0
+  },
+  {
+   "text": "is",
+   "time": 60.0,
+   "weight": 0.31,
+   "note_time": 60.4
+  },
+  {
+   "text": "an",
+   "time": 61.54,
+   "weight": 0.99,
+   "note_time": 60.6
+  },
+  {
+   "text": "ev",
+   "time": 61.78,
+   "weight": 0.99,
+   "note_time": 60.8
+  },
+  {
+   "text": "er",
+   "time": 61.93,
+   "weight": 0.99,
+   "note_time": 61.0
+  },
+  {
+   "text": "last",
+   "time": 62.08,
+   "weight": 0.99,
+   "note_time": 61.4
+  },
+  {
+   "text": "ing",
+   "time": 62.23,
+   "weight": 0.99,
+   "note_time": 61.8
+  },
+  {
+   "text": "rock",
+   "time": 62.38,
+   "weight": 0.33,
+   "note_time": 62.8
+  },
+  {
+   "text": "Ev",
+   "time": 77.8,
+   "weight": 0.68,
+   "note_time": 77.8
+  },
+  {
+   "text": "ery",
+   "time": 78.15,
+   "weight": 0.68,
+   "note_time": 78.2
+  },
+  {
+   "text": "storm",
+   "time": 78.92,
+   "weight": 1.0,
+   "note_time": 78.8
+  },
+  {
+   "text": "that",
+   "time": 79.4,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "shakes",
+   "time": 79.96,
+   "weight": 1.0,
+   "note_time": 79.6
+  },
+  {
+   "text": "the",
+   "time": 80.36,
+   "weight": 1.0,
+   "note_time": 79.8
+  },
+  {
+   "text": "win",
+   "time": 80.72,
+   "weight": 0.98,
+   "note_time": 80.2
+  },
+  {
+   "text": "dows,",
+   "time": 81.02,
+   "weight": 0.98,
+   "note_time": 80.8
+  },
+  {
+   "text": "ev",
+   "time": 81.32,
+   "weight": 0.69,
+   "note_time": 81.0
+  },
+  {
+   "text": "ery",
+   "time": 81.65,
+   "weight": 0.69,
+   "note_time": 81.4
+  },
+  {
+   "text": "wave",
+   "time": 81.98,
+   "weight": 1.0,
+   "note_time": 82.0
+  },
+  {
+   "text": "a",
+   "time": 82.62,
+   "weight": 0.99,
+   "note_time": 82.2
+  },
+  {
+   "text": "gainst",
+   "time": 82.96,
+   "weight": 0.99,
+   "note_time": 82.8
+  },
+  {
+   "text": "the",
+   "time": 83.3,
+   "weight": 1.0,
+   "note_time": 83.0
+  },
+  {
+   "text": "shore",
+   "time": 83.9,
+   "weight": 1.0,
+   "note_time": 83.2
+  },
+  {
+   "text": "Breaks",
+   "time": 84.42,
+   "weight": 0.36,
+   "note_time": 84.8
+  },
+  {
+   "text": "up",
+   "time": 85.94,
+   "weight": 0.98,
+   "note_time": 85.2
+  },
+  {
+   "text": "on",
+   "time": 86.2,
+   "weight": 0.98,
+   "note_time": 85.4
+  },
+  {
+   "text": "a",
+   "time": 86.46,
+   "weight": 0.93,
+   "note_time": 86.0
+  },
+  {
+   "text": "rock",
+   "time": 87.14,
+   "weight": 1.0,
+   "note_time": 86.2
+  },
+  {
+   "text": "that",
+   "time": 87.5,
+   "weight": 0.99,
+   "note_time": 86.6
+  },
+  {
+   "text": "stood",
+   "time": 87.8,
+   "weight": 0.97,
+   "note_time": 87.0
+  },
+  {
+   "text": "a",
+   "time": 88.12,
+   "weight": 0.91,
+   "note_time": 87.6
+  },
+  {
+   "text": "thou",
+   "time": 88.7,
+   "weight": 0.99,
+   "note_time": 87.8
+  },
+  {
+   "text": "sand",
+   "time": 88.91,
+   "weight": 0.99,
+   "note_time": 88.4
+  },
+  {
+   "text": "years",
+   "time": 89.12,
+   "weight": 1.0,
+   "note_time": 88.6
+  },
+  {
+   "text": "be",
+   "time": 89.76,
+   "weight": 1.0,
+   "note_time": 89.2
+  },
+  {
+   "text": "fore",
+   "time": 90.11,
+   "weight": 1.0,
+   "note_time": 89.4
+  },
+  {
+   "text": "I",
+   "time": 90.86,
+   "weight": 0.98,
+   "note_time": 90.6
+  },
+  {
+   "text": "will",
+   "time": 91.7,
+   "weight": 0.95,
+   "note_time": 90.8
+  },
+  {
+   "text": "lean",
+   "time": 91.96,
+   "weight": 0.88,
+   "note_time": 91.0
+  },
+  {
+   "text": "my",
+   "time": 92.32,
+   "weight": 1.0,
+   "note_time": 91.6
+  },
+  {
+   "text": "weight",
+   "time": 92.74,
+   "weight": 1.0,
+   "note_time": 92.0
+  },
+  {
+   "text": "up",
+   "time": 93.32,
+   "weight": 1.0,
+   "note_time": 92.4
+  },
+  {
+   "text": "on",
+   "time": 93.49,
+   "weight": 1.0,
+   "note_time": 92.6
+  },
+  {
+   "text": "you,",
+   "time": 93.66,
+   "weight": 0.93,
+   "note_time": 93.0
+  },
+  {
+   "text": "I",
+   "time": 93.63,
+   "weight": 0.0,
+   "note_time": 93.8
+  },
+  {
+   "text": "will",
+   "time": 93.6,
+   "weight": 0.0,
+   "note_time": 94.0
+  },
+  {
+   "text": "build",
+   "time": 93.57,
+   "weight": 0.0,
+   "note_time": 94.2
+  },
+  {
+   "text": "my",
+   "time": 93.54,
+   "weight": 0.0,
+   "note_time": 94.8
+  },
+  {
+   "text": "house",
+   "time": 93.52,
+   "weight": 0.0,
+   "note_time": 95.2
+  },
+  {
+   "text": "on",
+   "time": 93.49,
+   "weight": 0.0,
+   "note_time": 95.6
+  },
+  {
+   "text": "you",
+   "time": 93.46,
+   "weight": 0.0,
+   "note_time": 96.4
+  },
+  {
+   "text": "You",
+   "time": 93.43,
+   "weight": 0.0,
+   "note_time": 97.0
+  },
+  {
+   "text": "are",
+   "time": 93.4,
+   "weight": 0.88,
+   "note_time": 97.2
+  },
+  {
+   "text": "stea",
+   "time": 94.24,
+   "weight": 0.0,
+   "note_time": 97.6
+  },
+  {
+   "text": "dy",
+   "time": 95.09,
+   "weight": 0.0,
+   "note_time": 97.8
+  },
+  {
+   "text": "in",
+   "time": 95.93,
+   "weight": 0.0,
+   "note_time": 98.4
+  },
+  {
+   "text": "the",
+   "time": 96.77,
+   "weight": 0.0,
+   "note_time": 98.8
+  },
+  {
+   "text": "morn",
+   "time": 97.62,
+   "weight": 0.0,
+   "note_time": 99.0
+  },
+  {
+   "text": "ing",
+   "time": 98.46,
+   "weight": 0.0,
+   "note_time": 99.4
+  },
+  {
+   "text": "and",
+   "time": 99.3,
+   "weight": 0.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "the",
+   "time": 100.15,
+   "weight": 0.0,
+   "note_time": 100.4
+  },
+  {
+   "text": "eve",
+   "time": 100.99,
+   "weight": 0.0,
+   "note_time": 100.6
+  },
+  {
+   "text": "ning",
+   "time": 101.83,
+   "weight": 0.0,
+   "note_time": 101.6
+  },
+  {
+   "text": "through",
+   "time": 102.68,
+   "weight": 0.0,
+   "note_time": 102.4
+  },
+  {
+   "text": "You",
+   "time": 103.52,
+   "weight": 0.33,
+   "note_time": 104.6
+  },
+  {
+   "text": "keep",
+   "time": 105.66,
+   "weight": 0.73,
+   "note_time": 104.8
+  },
+  {
+   "text": "in",
+   "time": 105.98,
+   "weight": 0.95,
+   "note_time": 105.0
+  },
+  {
+   "text": "per",
+   "time": 106.26,
+   "weight": 1.0,
+   "note_time": 105.4
+  },
+  {
+   "text": "fect",
+   "time": 106.56,
+   "weight": 1.0,
+   "note_time": 106.0
+  },
+  {
+   "text": "peace",
+   "time": 106.86,
+   "weight": 0.99,
+   "note_time": 106.8
+  },
+  {
+   "text": "the",
+   "time": 108.04,
+   "weight": 0.26,
+   "note_time": 108.4
+  },
+  {
+   "text": "mind",
+   "time": 109.54,
+   "weight": 0.96,
+   "note_time": 108.6
+  },
+  {
+   "text": "that",
+   "time": 109.94,
+   "weight": 0.97,
+   "note_time": 109.0
+  },
+  {
+   "text": "is",
+   "time": 110.18,
+   "weight": 0.99,
+   "note_time": 109.2
+  },
+  {
+   "text": "stead",
+   "time": 110.46,
+   "weight": 1.0,
+   "note_time": 109.6
+  },
+  {
+   "text": "fast",
+   "time": 110.81,
+   "weight": 1.0,
+   "note_time": 110.2
+  },
+  {
+   "text": "Be",
+   "time": 111.6,
+   "weight": 0.0,
+   "note_time": 112.6
+  },
+  {
+   "text": "cause",
+   "time": 112.38,
+   "weight": 0.0,
+   "note_time": 112.8
+  },
+  {
+   "text": "it",
+   "time": 113.17,
+   "weight": 0.0,
+   "note_time": 113.0
+  },
+  {
+   "text": "trusts",
+   "time": 113.95,
+   "weight": 0.0,
+   "note_time": 113.6
+  },
+  {
+   "text": "in",
+   "time": 114.74,
+   "weight": 0.94,
+   "note_time": 114.4
+  },
+  {
+   "text": "you",
+   "time": 115.68,
+   "weight": 0.27,
+   "note_time": 115.2
+  },
+  {
+   "text": "Trust",
+   "time": 116.66,
+   "weight": 0.38,
+   "note_time": 117.2
+  },
+  {
+   "text": "in",
+   "time": 118.2,
+   "weight": 1.0,
+   "note_time": 118.2
+  },
+  {
+   "text": "the",
+   "time": 119.1,
+   "weight": 0.99,
+   "note_time": 118.4
+  },
+  {
+   "text": "LORD",
+   "time": 119.32,
+   "weight": 0.99,
+   "note_time": 118.6
+  },
+  {
+   "text": "for",
+   "time": 119.66,
+   "weight": 0.99,
+   "note_time": 118.8
+  },
+  {
+   "text": "ev",
+   "time": 119.87,
+   "weight": 0.99,
+   "note_time": 119.0
+  },
+  {
+   "text": "er",
+   "time": 120.07,
+   "weight": 0.99,
+   "note_time": 119.6
+  },
+  {
+   "text": "For",
+   "time": 120.8,
+   "weight": 0.78,
+   "note_time": 120.4
+  },
+  {
+   "text": "in",
+   "time": 121.54,
+   "weight": 1.0,
+   "note_time": 121.4
+  },
+  {
+   "text": "the",
+   "time": 122.26,
+   "weight": 1.0,
+   "note_time": 121.6
+  },
+  {
+   "text": "LORD,",
+   "time": 122.52,
+   "weight": 1.0,
+   "note_time": 121.8
+  },
+  {
+   "text": "the",
+   "time": 122.96,
+   "weight": 1.0,
+   "note_time": 122.0
+  },
+  {
+   "text": "LORD",
+   "time": 123.1,
+   "weight": 1.0,
+   "note_time": 122.2
+  },
+  {
+   "text": "him",
+   "time": 123.42,
+   "weight": 0.74,
+   "note_time": 122.6
+  },
+  {
+   "text": "self,",
+   "time": 123.71,
+   "weight": 0.74,
+   "note_time": 123.0
+  },
+  {
+   "text": "is",
+   "time": 124.0,
+   "weight": 0.31,
+   "note_time": 124.4
+  },
+  {
+   "text": "an",
+   "time": 125.56,
+   "weight": 0.98,
+   "note_time": 124.6
+  },
+  {
+   "text": "ev",
+   "time": 125.78,
+   "weight": 0.99,
+   "note_time": 124.8
+  },
+  {
+   "text": "er",
+   "time": 125.97,
+   "weight": 0.99,
+   "note_time": 125.0
+  },
+  {
+   "text": "last",
+   "time": 126.16,
+   "weight": 0.99,
+   "note_time": 125.4
+  },
+  {
+   "text": "ing",
+   "time": 126.35,
+   "weight": 0.99,
+   "note_time": 125.8
+  },
+  {
+   "text": "rock",
+   "time": 126.54,
+   "weight": 0.31,
+   "note_time": 126.8
+  },
+  {
+   "text": "Per",
+   "time": 155.88,
+   "weight": 0.45,
+   "note_time": 156.0
+  },
+  {
+   "text": "fect",
+   "time": 156.23,
+   "weight": 0.45,
+   "note_time": 156.2
+  },
+  {
+   "text": "peace,",
+   "time": 157.28,
+   "weight": 0.99,
+   "note_time": 156.6
+  },
+  {
+   "text": "per",
+   "time": 158.58,
+   "weight": 0.39,
+   "note_time": 159.4
+  },
+  {
+   "text": "fect",
+   "time": 158.93,
+   "weight": 0.39,
+   "note_time": 159.8
+  },
+  {
+   "text": "peace",
+   "time": 160.48,
+   "weight": 1.0,
+   "note_time": 160.8
+  },
+  {
+   "text": "The",
+   "time": 164.14,
+   "weight": 0.7,
+   "note_time": 164.4
+  },
+  {
+   "text": "mind",
+   "time": 165.54,
+   "weight": 0.92,
+   "note_time": 164.6
+  },
+  {
+   "text": "that",
+   "time": 166.0,
+   "weight": 0.99,
+   "note_time": 165.6
+  },
+  {
+   "text": "is",
+   "time": 166.9,
+   "weight": 0.99,
+   "note_time": 166.4
+  },
+  {
+   "text": "stead",
+   "time": 167.74,
+   "weight": 1.0,
+   "note_time": 167.2
+  },
+  {
+   "text": "fast",
+   "time": 168.09,
+   "weight": 1.0,
+   "note_time": 168.4
+  },
+  {
+   "text": "Be",
+   "time": 168.98,
+   "weight": 0.31,
+   "note_time": 169.0
+  },
+  {
+   "text": "cause",
+   "time": 169.33,
+   "weight": 0.31,
+   "note_time": 169.4
+  },
+  {
+   "text": "I",
+   "time": 169.78,
+   "weight": 0.84,
+   "note_time": 169.6
+  },
+  {
+   "text": "trust",
+   "time": 170.5,
+   "weight": 0.99,
+   "note_time": 170.0
+  },
+  {
+   "text": "in",
+   "time": 170.86,
+   "weight": 1.0,
+   "note_time": 170.2
+  },
+  {
+   "text": "you",
+   "time": 171.2,
+   "weight": 0.75,
+   "note_time": 170.8
+  },
+  {
+   "text": "Trust",
+   "time": 171.52,
+   "weight": 0.62,
+   "note_time": 171.6
+  },
+  {
+   "text": "in",
+   "time": 172.72,
+   "weight": 0.99,
+   "note_time": 172.6
+  },
+  {
+   "text": "the",
+   "time": 173.42,
+   "weight": 0.98,
+   "note_time": 172.8
+  },
+  {
+   "text": "LORD",
+   "time": 173.72,
+   "weight": 0.99,
+   "note_time": 173.2
+  },
+  {
+   "text": "for",
+   "time": 174.06,
+   "weight": 0.99,
+   "note_time": 173.4
+  },
+  {
+   "text": "ev",
+   "time": 174.29,
+   "weight": 0.99,
+   "note_time": 174.0
+  },
+  {
+   "text": "er",
+   "time": 174.51,
+   "weight": 0.99,
+   "note_time": 174.2
+  },
+  {
+   "text": "An",
+   "time": 175.3,
+   "weight": 0.36,
+   "note_time": 175.8
+  },
+  {
+   "text": "ev",
+   "time": 176.96,
+   "weight": 1.0,
+   "note_time": 176.0
+  },
+  {
+   "text": "er",
+   "time": 177.16,
+   "weight": 1.0,
+   "note_time": 176.2
+  },
+  {
+   "text": "last",
+   "time": 177.35,
+   "weight": 1.0,
+   "note_time": 176.6
+  },
+  {
+   "text": "ing",
+   "time": 177.55,
+   "weight": 1.0,
+   "note_time": 177.0
+  },
+  {
+   "text": "love",
+   "time": 177.95,
+   "weight": 0.0,
+   "note_time": 178.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 21 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

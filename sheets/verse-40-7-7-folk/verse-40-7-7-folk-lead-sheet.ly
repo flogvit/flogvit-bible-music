@@ -1,0 +1,37 @@
+\version "2.24.0"
+\header {
+  title = "Ask, Seek, Knock"
+  subtitle = "Matthew 7:7–11"
+  tagline = ##f
+  copyright = \markup \small \wordwrap { "Melody" "and" "chords" "from" "the" "score" "YuE2" "generated" "the" "song" "from" "(score.abc)." "Lyrics" "placed" "syllable" "by" "syllable" "against" "the" "recording" "with" "Whisper," "which" "heard" "191" "of" "194" "words." "21" "of" "23" "lyric" "lines" "sit" "clearly" "on" "their" "notes;" "2" "are" "uncertain" "and" "printed" "in" "grey" "italics." "Bible" "text:" "Open" "Source" "English" "(OSEN)," "CC" "BY" "4.0," "from" "SBLGNT" "and" "tanach.us." }
+}
+\paper {
+  #(set-paper-size "a4")
+  top-margin = 12\mm
+  bottom-margin = 12\mm
+  left-margin = 14\mm
+  right-margin = 14\mm
+  system-system-spacing.basic-distance = #14
+  markup-system-spacing.basic-distance = #8
+}
+melody = {
+  \clef treble \key bes \major \tempo 4 = 95
+  \partial 2 \sectionLabel "Intro" r4 r4 | \time 4/4 R1*1 | r2 r4 bes'16 d''8. | \sectionLabel "Verse 1" d''8 d''16 d''8. c''8 c''4 bes'8 bes'16 bes'16 ~ | bes'8. g'16 g'16 f'16 f'16 f'16 ~ f'8 r8. bes'16 bes'16 d''16 ~ | d''8 d''8 d''8 c''16 c''16 ~ c''8 r8. bes'16 bes'16 c''16 ~ | c''8. c''8 d''8. d''16 c''16 r4 bes'16 f''16 ~ | f''8 d''16 d''8 d''8 d''16 ~ d''8 c''16 c''8 bes'8. | bes'8. g'8 f'8 f'16 ~ f'8 r8 bes'16 bes'8. | bes'4 bes'8 c''16 d''16 ~ d''16 c''8 c''16 bes'16 r8. | bes'16 bes'8 c''16 ~ c''16 a'8. bes'4 r4 | \sectionLabel "Chorus" d''4 r8. bes'16 d''16 d''16 d''8 d''16 c''16 bes'16 bes'16 ~ | bes'8 r4. r2 | d''2 r8 d''16 d''8 c''8. | c''4 r4 r2 | d''4 r8 bes'16 bes'16 d''8 d''16 d''16 d''16 c''16 bes'16 bes'16 ~ | bes'8 r4. r2 | d''4 d''8 c''8 c''4 c''16 bes'8. | \sectionLabel "Verse 2" r2 r4. d''8 | d''8 d''16 d''8 c''8 c''16 ~ c''8. r16 bes'16 bes'8. | bes'8 g'16 g'8. f'16 f'16 ~ f'8 r4 d''8 | d''8 d''8 d''8 c''16 c''16 ~ c''8 bes'16 bes'8 c''8. | c''8 c''16 c''8. d''8 d''16 c''8. r8 f''8 | f''8 d''16 d''8. d''8 d''16 c''8 c''8 bes'8 bes'16 ~ | bes'8 g'16 g'8 f'8. f'4 r8 bes'8 | bes'16 bes'8. bes'16 c''8. d''4 c''16 bes'8. | bes'8. c''16 ~ c''16 a'8. bes'4 r4 | \sectionLabel "Chorus" d''4 r8. bes'16 d''16 d''16 d''8 d''16 c''16 bes'16 bes'16 ~ | bes'8 r4. r2 | d''2 r8 d''16 d''8 c''8. | c''4 r4 r2 | d''4 r8 bes'16 bes'16 d''8 d''16 d''16 d''16 c''16 bes'16 bes'16 ~ | bes'8 r4. r2 | d''4 d''8 c''8 c''4 c''16 bes'8. | R1*1 | \sectionLabel "Bridge" r8. bes'16 g''16 g''16 g''16 g''16 g''8 f''8 f''8 f''8 ~ | f''8 r4. r2 | r4 g''8 g''16 g''16 ~ g''16 f''16 f''16 f''8. f''8 ~ | f''8 r4. r2 | r8. bes'16 g''16 g''16 g''16 g''16 g''8 f''16 f''8. f''16 f''16 | f''4 d''4 c''4 bes'16 c''8. | d''4 d''16 d''8. d''8 c''16 c''8. bes'8 | bes'8. g'8. r8 r2 | d''16 d''8. d''8 d''16 d''16 ~ d''8 c''16 c''8. bes'8 | R1*1 | d''4 r8 bes'16 bes'16 d''8 d''16 d''16 d''16 c''16 bes'16 bes'16 ~ | bes'8 r4. r2 | d''2 r8 d''16 d''8 c''8. | c''4 r4 r2 | \sectionLabel "Outro" d''4 r8 bes'16 bes'16 d''8 d''16 d''16 d''16 c''16 bes'16 bes'16 ~ | bes'8 r4. r2 | d''4 d''8 c''8 c''4 c''16 bes'8. | R1*1 | R1*1 | \sectionLabel "Outro" R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | R1*1 |
+  \bar "|."
+}
+harmony = \chordmode { s1*1/4 bes1*9/4 bes1 es1*1/2 bes1*3/2 f1 g1:m es1*1/2 bes1*1/2 g1:m es1*1/4 f1*1/4 bes1*1/2 bes1 es1 g1:m f1 bes1 es1 g1*1/2:m f1*1/2 bes1*2 es1*1/2 bes1*3/2 f1 g1:m es1*1/2 bes1*1/2 g1:m es1*1/4 f1*1/4 bes1*1/2 bes1 es1 g1:m f1 bes1 es1 g1*1/2:m f1*1/2 bes1 es1 bes1 es1 bes1 es1 bes1*1/2 f1*1/2 g1:m es1 g1*1/2:m f1*1/2 bes1*2 es1 g1:m f1 bes1 es1 g1*1/2:m f1*1/2 bes1*2 bes1 es1 g1:m f1 bes1 es1 g1*1/2:m f1*1/2 bes1*2 }
+words = \lyricmode { \skip 1 \skip 1 \skip 1 \skip 1 "If" "your" "son" "should" "ask" "for" "bread," "would" "you" "hand" "him" \skip 1 "a" "stone" "If" "he" "asks" "you" "for" "a" "fish," "would" "you" "give" "him" "a" "snake" "If" "e" -- "ven" "we" "know" "how" "to" "give" "good" "gifts" "to" "our" "own" "How" "much" "more" "will" "the" "Fa" -- "ther" "give," "for" "his" "chil" -- "dren's" "sake" "Ask," "and" "it" "will" "be" "giv" -- "en" "to" "you" "Seek," "and" "you" "will" "find" "Knock," "and" "the" "door" "will" "be" "ope" -- "ned" "to" \skip 1 "you" "Ask," "seek," "knock" _ \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "I" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "come" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "with" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "emp" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "ty" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "hands" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "and" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "I" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "knock" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "up" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "on" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "the" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "door" "I'm" _ "ask" -- "ing" "for" "the" "dai" -- "ly" "bread" "like" "I" "have" "asked" "be" -- "fore" "My" "Fa" -- "ther" "hears" "me" "knock" -- "ing" "and" "he" "knows" "the" "things" "I" "need" "He" "will" "not" "give" "me" "stones," "he" "gives" "good" "gifts" "in" -- "deed" "Ask," "and" "it" "will" "be" "giv" -- "en" "to" "you" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "Seek," \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "and" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "you" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "will" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "find" "Knock," "and" "the" "door" "will" "be" "ope" -- "ned" "to" "you" "Ask," "seek," "knock" _ _ _ "For" "ev" -- "ery" -- "one" "who" "asks" "re" -- "ceives" _ "And" _ "the" "one" "who" "seeks" "finds" "And" _ "to" "the" "one" "who" "knocks" "the" "door" "will" "be" "ope" -- "ned" _ "How" "much" "more" "will" "your" "Fa" -- "ther" "in" "heav" -- "en" "Give" "good" "things" "to" "those" "who" "ask" "him" \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 "Knock," "and" "the" "door" "will" "be" "ope" -- "ned" "to" "you" "Ask," "seek," "knock" _ _ _ }
+\score {
+  <<
+    \new ChordNames \with { majorSevenSymbol = \markup { "maj7" } } \harmony
+    \new Staff \new Voice = "melody" \melody
+    \new Lyrics \lyricsto "melody" \words
+  >>
+  \layout {
+    indent = 0
+    \context { \Lyrics
+      \override LyricSpace.minimum-distance = #1.6
+      \override LyricHyphen.minimum-distance = #1.4
+    }
+  }
+}

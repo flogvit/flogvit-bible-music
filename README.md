@@ -70,6 +70,7 @@ One file per song in `catalog/<id>.json`:
 | `tags.themes`, `tags.stories`, `tags.persons` | slugs from `free-bible/generate/{themes,stories,persons}/en/` |
 | `lyricsMode` | `verbatim`, `mixed` (quotes the verse) or `thematic` |
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
+| `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed |
 | `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed` |
 
 Check new or changed songs before committing them:
@@ -173,14 +174,25 @@ session therefore goes on counting from where it was. Without network, a rejecti
 minute until GitHub has it, and a run also counts the rejections it made itself, so it stops at 3 even if
 GitHub missed one. `retry` adds a `retry` commit; rejections before it no longer count.
 
+When a song's request changes in the catalog (a new form, style or lyrics), `remake` makes it again on this
+machine the same way `run` does: generation, lyrics check, sheets, library and the sheets commit. It takes the
+song also when it is done or set aside, as a `remake` commit (held like `claimed`, and the attempts count from
+there). The current take moves to `YuE/outputs/catalog/<id>-replaced/`, to compare with. If the new take does not
+pass, a done song gets its old take back and stays done, so the published song stays and no other machine makes it
+again from its own catalog. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
+own (a generator on the same machine name would otherwise finish the song too when it restarts). On a Mac that
+is also generating, start it when `top -l 2 -n 0 -s 2` shows at least 25 % idle and `ollama ps` shows no model.
+
 ```bash
 ls aside/                                       # songs set aside
 bun scripts/generate.ts retry <id>              # put one back, for 3 more attempts
 bun scripts/generate.ts rejudge <id>            # judge its kept takes again under the current rules (on the
                                                 # machine that set it aside), keep the first that passes
+MUSIC_MACHINE="M5 …, remake" bun scripts/generate.ts remake <id>   # make one song again after its request changed
 bun scripts/lyrics-check.ts <id>                # judge sheets/<id>/whisper.json now (exit 0 = correct,
                                                 # 3 = adopt, 2 = wrong)
-bun test scripts                                # the judge on a real doubled chorus line and a real chorus
+bun test scripts                                # the judge on a real doubled chorus line and a real chorus,
+                                                # and the lyrics form rules (lyrics-form.test.ts)
 ```
 
 `MUSIC_MAX_ATTEMPTS` sets the number of attempts (default 3), and `MUSIC_JUDGE_MODEL` the Ollama model

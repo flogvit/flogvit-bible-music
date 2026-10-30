@@ -1,0 +1,48 @@
+{
+  "id": "verse-47-4-16-jazz",
+  "title": "Inner Self Renewed",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 47,
+    "chapter": 4,
+    "verseStart": 16,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 47,
+      "chapter": 4,
+      "verseStart": 16,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, warm female solo voice with soft choir, upright bass, piano, brushed drums, saxophone, mellow, 80 BPM",
+    "lyrics": "[Verse]\nWe hold the spirit of faith in hand\nBelieving what is written and planned\nSpeaking out because we believe\nThe truth that the heart is meant to receive\n\n[Chorus]\nOur outer self is wasting away\nBut the inner self is renewed day by day\nOur light affliction is momentary\nProducing an eternal weight of glory\n\n[Verse]\nWe do not lose heart in the test\nBut look on what is unseen and blessed\nThe seen is temporary and fades\nThe unseen remains in the eternal shades\n\n[Chorus]\nOur outer self is wasting away\nBut the inner self is renewed day by day\nOur light affliction is momentary\nProducing an eternal weight of glory\n\n[Bridge]\nRaising us up with Jesus to go\nPresenting us in the light and glow\nFor your sake the grace overflows\nThanksgiving abounding to God’s repose\n\n[Chorus]\nOur outer self is wasting away\nBut the inner self is renewed day by day\nOur light affliction is momentary\nProducing an eternal weight of glory\n\n[Outro]\nFixing our eyes on what is unseen\nThe temporary ends but the eternal is keen",
+    "cot": "full",
+    "seed": 20175
+  }
+}

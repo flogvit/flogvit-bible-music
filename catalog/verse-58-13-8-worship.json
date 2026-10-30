@@ -1,0 +1,48 @@
+{
+  "id": "verse-58-13-8-worship",
+  "title": "The Same Forever",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 13,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 13,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, soft strings, gentle pad, reverent and steady mood, 80 BPM",
+    "lyrics": "[Verse]\nKeep your life free from the love of money\nBe content with what you have today\nHe has said I will never leave you\nNor forsake you in the long way\n\n[Verse]\nSo we can say with confidence now\nThe Lord is my helper I will not be afraid\nWhat can anyone do to me\nHe stands beside us in the shade\n\n[Verse]\nRemember your leaders who spoke the word\nConsider how their lives turned out\nImitate their faith in the light\nStand firm when the shadows are out\n\n[Chorus]\nJesus Christ is the same yesterday\nAnd today and forever he remains\nJesus Christ is the same yesterday\nAnd today and forever he holds us\n\n[Verse]\nDo not be carried away by strange teachings\nIt is good for the heart to be strong\nStrengthened by grace and not by rules\nWhere the true and living grace is sung\n\n[Verse]\nWe have an altar they cannot eat from\nThe high priest carries blood inside\nBut the bodies are burned outside the camp\nIn the place where the truth abides\n\n[Chorus]\nJesus Christ is the same yesterday\nAnd today and forever he remains\nJesus Christ is the same yesterday\nAnd today and forever he holds us\n\n[Outro]\nHe is the same yesterday\nAnd today and forever",
+    "cot": "full",
+    "seed": 20187
+  }
+}

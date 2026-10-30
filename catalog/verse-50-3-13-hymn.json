@@ -1,0 +1,46 @@
+{
+  "id": "verse-50-3-13-hymn",
+  "title": "Straining Toward What Lies Ahead",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 50,
+    "chapter": 3,
+    "verseStart": 13,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 3,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "tro",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone solo with warm choir backing, acoustic guitar, piano, cello, soft drums, hopeful and determined mood, 85 BPM",
+    "lyrics": "[Verse]\nI do not consider myself\nTo have taken hold of it yet\nThe race is not ended now\nMy feet are still on the ground\n\n[Verse]\nOne thing I do with my whole heart\nLeaving the shadows of yesterday\nNot looking back at what I was\nOnly forward to what is true\n\n[Chorus]\nForgetting what lies behind\nStraining toward what lies ahead\nI press on toward the goal\nTo win the prize of God's call\n\n[Verse]\nMature in my mind and soul\nThinking this way every day\nIf I see things differently\nGod will make it clear to me\n\n[Chorus]\nForgetting what lies behind\nStraining toward what lies ahead\nI press on toward the goal\nTo win the prize of God's call\n\n[Bridge]\nLive up to what we have attained\nImitate the pattern we see\nKeep your eyes on those who live\nAs we do in Christ Jesus\n\n[Chorus]\nForgetting what lies behind\nStraining toward what lies ahead\nI press on toward the goal\nTo win the prize of God's call\n\n[Outro]\nTo win the prize of God's call\nIn Christ Jesus forevermore",
+    "cot": "full",
+    "seed": 20176
+  }
+}

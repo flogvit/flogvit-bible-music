@@ -1,0 +1,48 @@
+{
+  "id": "verse-62-1-9-pop",
+  "title": "Faithful And Just",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 62,
+    "chapter": 1,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 62,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "synden",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and sincere, piano, acoustic guitar, soft strings, light percussion, hopeful and uplifting, 90 BPM",
+    "lyrics": "[Verse]\nWalking in the light as He is in the light\nFellowship with one another shines\nNo more lying when the truth is near\nWe do not practice what is clear\n\n[Pre-Chorus]\nIf we claim no sin we deceive ourselves\nThe truth is missing from our lives\nBut in the dark we cannot stay\nWe must turn and find the way\n\n[Chorus]\nIf we confess our sins\nHe is faithful and just\nHe will forgive our sins\nAnd cleanse us as we trust\nFrom all unrighteousness\nHis love never ends\nFaithful and just\n\n[Verse]\nSaying we have sinned makes Him a liar\nHis word is not in us\nBut when we speak the truth we find\nA heart that is kind and blind\nTo no confession that is real\nHis grace is pure and steel\n\n[Pre-Chorus]\nThe blood of Jesus cleanses us\nFrom all sin and all abuse\nWe walk together in the light\nOur shadows fade from sight\n\n[Chorus]\nIf we confess our sins\nHe is faithful and just\nHe will forgive our sins\nAnd cleanse us as we trust\nFrom all unrighteousness\nHis love never ends\nFaithful and just\n\n[Chorus]\nIf we confess our sins\nHe is faithful and just\nHe will forgive our sins\nAnd cleanse us as we trust\nFrom all unrighteousness\nHis love never ends\nFaithful and just\n\n[Outro]\nFaithful and just\nHe hears our trust",
+    "cot": "full",
+    "seed": 20189
+  }
+}

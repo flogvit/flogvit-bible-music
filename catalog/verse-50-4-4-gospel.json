@@ -13,7 +13,7 @@
       "bookId": 50,
       "chapter": 4,
       "verseStart": 4,
-      "verseEnd": 7
+      "verseEnd": 5
     }
   ],
   "tags": {
@@ -39,9 +39,10 @@
   },
   "lyricsMode": "mixed",
   "textSource": "osen",
+  "form": "chant",
   "request": {
-    "style": "English, upbeat gospel, female lead vocal with gospel choir, Hammond organ, piano, slap bass, drums, tambourine, joyful shuffle, 120 BPM",
-    "lyrics": "[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice\n\n[Verse]\nPaul was writing letters from a prison cell\nHe had chains on his ankles, he had stories to tell\nBut he didn't write of sorrow and he didn't write of fear\nHe wrote a song of gladness: the Lord is near\n\n[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice\n\n[Verse]\nDo not be anxious about anything\nBut in everything, by prayer and petition, with thanksgiving\nPresent your requests to God\nPresent your requests to God\n\n[Bridge]\nAnd the peace of God, which surpasses all understanding\nWill guard your hearts and your minds in Christ Jesus\nWill guard your hearts, will guard your minds\nIn Christ Jesus\n\n[Chorus]\nRejoice in the Lord always\nI will say it again: rejoice\nRejoice in the Lord always\nI will say it again: rejoice",
+    "style": "English, short chant sung again and again, building each time, upbeat gospel, female lead vocal with gospel choir, Hammond organ, piano, slap bass, drums, tambourine, joyful shuffle, 120 BPM",
+    "lyrics": "[Verse]\nRejoice in the Lord always\nI will say it again: rejoice\nThe Lord is near\nRejoice in the Lord always\n\n[Verse]\nRejoice in the Lord always\nI will say it again: rejoice\nThe Lord is near\nRejoice in the Lord always\n\n[Verse]\nRejoice in the Lord always\nI will say it again: rejoice\nThe Lord is near\nRejoice in the Lord always\n\n[Verse]\nRejoice in the Lord always\nI will say it again: rejoice\nThe Lord is near\nRejoice in the Lord always\n\n[Verse]\nRejoice in the Lord always\nI will say it again: rejoice\nThe Lord is near\nRejoice in the Lord always\n\n[Verse]\nRejoice in the Lord always\nI will say it again: rejoice\nThe Lord is near\nRejoice in the Lord always\n\n[Outro]\nRejoice in the Lord always",
     "cot": "full",
     "seed": 20140
   }

@@ -11,14 +11,17 @@
  *
  * Usage:
  *   bun scripts/generate.ts run [--from-end]   finish local songs, then take the next free song, generate it,
- *                                              make its sheets and library folder, mark it done, and repeat
- *   bun scripts/generate.ts status             every song in catalog/order.txt with its state
+ *                                              make its sheets and library folder, mark it done, and repeat;
+ *                                              first remake this machine's songs whose catalog request (style,
+ *                                              lyrics, cot, abc) changed; with few songs free, write the next
+ *                                              portion of the catalog (scripts/catalog-write.ts)
+ *   bun scripts/generate.ts status            every song in catalog/order.txt with its state
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
  *   bun scripts/generate.ts rejudge <id>       judge a set-aside song's kept takes again, keep the first that passes
  *   bun scripts/generate.ts remake <id>        make one song again the same way, also one that is done or set
  *                                              aside (after its request changed); a done song whose new take
- *                                              does not pass keeps its old take
+ *                                              does not pass, or is not as good, keeps its old take
  *
  * Before a song gets its sheets, scripts/lyrics-check.ts judges whether the singing delivers its lyrics. A song
  * sung as written is kept; one sung differently but as good lyrics is kept with the lyrics as sung
@@ -28,6 +31,7 @@
 import { existsSync, mkdirSync, openSync, readdirSync, readFileSync, renameSync, rmSync, statSync, writeFileSync } from 'fs';
 import { hostname } from 'os';
 import path from 'path';
+import { writeNext } from './catalog-write';
 import { judge, JUDGE_MODEL, judgeReady, outcome, type Verdict } from './lyrics-check';
 
 const REPO = path.join(import.meta.dir, '..');
@@ -128,9 +132,12 @@ const sheetsPriority = efficiencyCores < 4 ? ['nice', '-n', '20'] : ['taskpolicy
 /**
  * For a song whose audio is done: Whisper listens, the lyrics check judges what it heard (or `given`, a verdict
  * already made), and a song that is kept, with its lyrics as written or as sung, gets its sheets, library folder
- * and sheets commit. A broken song is rejected or set aside.
+ * and sheets commit. A broken song is rejected or set aside. With `accept` (remake), a take that passes but that
+ * `accept` finds worse than the one it replaces gets no library folder or commit: 'worse'.
  */
-async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outcome> {
+async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outcome>;
+async function finish(id: string, fresh: boolean, given: Verdict | undefined, accept: (v: Verdict) => boolean): Promise<Outcome | 'worse'>;
+async function finish(id: string, fresh: boolean, given?: Verdict, accept?: (v: Verdict) => boolean): Promise<Outcome | 'worse'> {
   const songDir = path.join(OUTPUTS, id);
   const sheets = path.join(REPO, 'sheets', id);
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
@@ -161,6 +168,7 @@ async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outc
       return 'failed';
     }
   }
+  if (accept && !accept(verdict)) return 'worse';
   const env = { MUSIC_MACHINE: MACHINE, FREE_BIBLE: process.env.FREE_BIBLE ?? path.join(path.dirname(MAIN), 'free-bible') };
   if (await run(['python3', 'scripts/build-library.py', songDir], REPO, logFile, env).exited !== 0) {
     log(`LIBRARY FAILED ${id} (see ${logFile})`);
@@ -173,8 +181,7 @@ async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outc
 // Sheets go to this branch, and the machine runs its code: main, from a detached worktree (README, Generate).
 const BRANCH = process.env.MUSIC_SHEETS_BRANCH || git('branch', '--show-current').trim() || 'main';
 // The code this run loaded; when the branch brings another version, the run stops and launchd starts the new one.
-const CODE = ['scripts/generate.ts', 'scripts/lyrics-check.ts', 'scripts/lyrics-form.ts'];
-const codeVersion = () => git('rev-parse', ...CODE.map((f) => `HEAD:${f}`));
+const codeVersion = () => git('rev-parse', 'HEAD:scripts');
 const LOADED = codeVersion();
 
 /** Brings in what other machines and sessions pushed to the branch, with this checkout's own commits on top. */
@@ -193,8 +200,23 @@ function pull(): boolean {
 async function stopForNewCode(pending: Promise<void>) {
   if (codeVersion() === LOADED) return;
   await pending;
-  log(`RUN RESTART: ${BRANCH} has new code (${CODE.join(', ')}); launchd starts it again within 10 minutes`);
+  log(`RUN RESTART: ${BRANCH} has new code in scripts/; launchd starts it again within 10 minutes`);
   process.exit(0);
+}
+
+/**
+ * How good a kept take is, for `remake`: its lyrics check (a take from before the check counts as correct) and
+ * the share of its lines Whisper found on their notes (sheets/<id>/alignment.json).
+ */
+function takeQuality(verdict: Verdict | undefined, alignment: string) {
+  const rank = !verdict || outcome(verdict) === 'ok' ? 2 : outcome(verdict) === 'adopt' ? 1 : 0;
+  let lines: { uncertain?: boolean }[] = [];
+  try {
+    lines = JSON.parse(alignment).lines ?? [];
+  } catch {}
+  const onNotes = lines.filter((l) => !l.uncertain).length;
+  const share = lines.length ? onNotes / lines.length : 0;
+  return { rank, share, text: `${['wrong', 'adopt', 'correct'][rank]}, ${onNotes} of ${lines.length} lines on their notes` };
 }
 
 function commitAndPush(paths: string, subject: string) {
@@ -340,6 +362,51 @@ async function generate(id: string, tip: string, failState: State = 'failed'): P
   return lock;
 }
 
+// When fewer songs than this are free, the catalog gets its next portion from free-bible (scripts/catalog-write.ts).
+const LOW_WATER = 4;
+const PORTION = Number(process.env.MUSIC_CATALOG_PORTION ?? 10);
+// Held by the machine writing a portion, so two machines never write the same songs.
+const CATALOG_LOCK = '_catalog';
+
+/** Few songs left: one machine writes the next portion of the catalog and pushes it, and every machine pulls it. */
+async function refillCatalog(pending: Promise<void>) {
+  const claims = readClaims();
+  const free = order().filter((id) => isFree(claims.get(id)) && !isComplete(id)).length;
+  const c = claims.get(CATALOG_LOCK);
+  if (free >= LOW_WATER || !isFree(c)) return;
+  const r = push(CATALOG_LOCK, c?.sha, 'claimed');
+  if (r.result !== 'ok') return;
+  const lock = new Lock(CATALOG_LOCK, r.sha!, () => {});
+  try {
+    // The last song's sheets commit first, so two commits never share the checkout.
+    await pending;
+    pull();
+    log(`CATALOG ${free} songs free, writing ${PORTION} more`);
+    const written = await writeNext(PORTION);
+    if (written.length) commitAndPush('catalog', `Catalog: ${written.length} songs from free-bible, written on ${MACHINE}`);
+    log(`CATALOG ${written.length} songs written`);
+  } catch (e) {
+    log(`CATALOG FAILED: ${e}`);
+  } finally {
+    lock.end('released');
+  }
+}
+
+// The owner's own GPU jobs go first: no song starts while one runs (MUSIC_YIELD_TO, a pgrep -f pattern). Nor while
+// another YuE generation runs on this Mac (a remake started by hand): this run's own has ended when it asks.
+const YIELD_TO = process.env.MUSIC_YIELD_TO ?? 'mlx_video|mlx-video';
+
+async function yieldGpu() {
+  let waited = false;
+  for (const pattern of [YIELD_TO, 'yue2 batch']) {
+    while (Bun.spawnSync(['pgrep', '-f', pattern]).exitCode === 0) {
+      if (!waited) log(`WAITING: another GPU job runs (${pattern})`);
+      waited = true;
+      await Bun.sleep(HEARTBEAT_MS);
+    }
+  }
+}
+
 /** Songs this machine already made (also before the claims existed) are checked, finished and marked. */
 async function finishLocal() {
   const claims = readClaims();
@@ -380,10 +447,128 @@ async function claimNextWhenOnline(fromEnd: boolean, skip: Set<string>) {
   }
 }
 
+// While a remake runs, stopping puts the song's old take back and leaves it done (set by remake()).
+let undoRemake: (() => void) | undefined;
+
 function release() {
   for (const child of children) child.kill();
+  undoRemake?.();
   for (const lock of held) lock.end('released');
   process.exit(1);
+}
+
+/**
+ * Makes a song again the same way as `run`, also one that is done or set aside (after its request changed in the
+ * catalog). Its current take is kept beside it; a done song whose new take does not pass, or is not as good, gets
+ * that take back and stays done, so what is published never goes away and no other machine makes it again from
+ * its own, older catalog. 'taken': another machine holds it.
+ */
+async function remake(id: string): Promise<'done' | 'kept' | 'failed' | 'taken'> {
+  const c = readClaims().get(id);
+  if (c && !isFree(c) && c.state !== 'done' && c.state !== 'aside') {
+    log(`REMAKE ${id}: ${c.state} by ${c.machine}`);
+    return 'taken';
+  }
+  const r = push(id, c?.sha, 'remake');
+  if (r.result !== 'ok') {
+    log(`REMAKE ${id}: ${r.result}: ${r.detail}`);
+    return 'taken';
+  }
+  log(`REMAKE ${id} on ${MACHINE}`);
+  const request = catalogRequest(id);
+  const song = path.join(OUTPUTS, id);
+  const previous = c?.state === 'done' && isComplete(id) ? `${song}-replaced` : undefined;
+  if (previous) {
+    rmSync(previous, { recursive: true, force: true });
+    renameSync(song, previous);
+  }
+  // Put the old take back; a new take still in the song folder moves to <id>-remake-failed.
+  const restore = () => {
+    if (!previous) return;
+    if (existsSync(song)) {
+      rmSync(`${song}-remake-failed`, { recursive: true, force: true });
+      // Its Whisper pass and alignment go with it, to listen to and compare later.
+      for (const f of ['whisper.json', 'alignment.json']) {
+        const made = path.join(REPO, 'sheets', id, f);
+        if (existsSync(made)) writeFileSync(path.join(song, f), readFileSync(made));
+      }
+      renameSync(song, `${song}-remake-failed`);
+    }
+    renameSync(previous, song);
+    Bun.spawnSync(['git', 'checkout', 'HEAD', '--', path.join('sheets', id)], { cwd: REPO });
+    log(`REMAKE ${id}: the old take is kept (the new one is in ${song}-remake-failed)`);
+  };
+  undoRemake = () => {
+    restore();
+    for (const lock of held) lock.end(previous ? 'done' : 'released');
+  };
+  try {
+    const lock = await generate(id, r.sha!, previous ? 'done' : 'failed');
+    if (!lock) {
+      restore();
+      recordRemake(id, request, 'failed');
+      return 'failed';
+    }
+    // The new take replaces the old only when it is at least as good: as good a lyrics check (correct before
+    // adopt), and as large a share of its lines on their notes.
+    const old = previous && takeQuality(
+      existsSync(path.join(previous, 'lyrics-check.json')) ? JSON.parse(readFileSync(path.join(previous, 'lyrics-check.json'), 'utf8')) : undefined,
+      Bun.spawnSync(['git', 'show', `HEAD:sheets/${id}/alignment.json`], { cwd: REPO }).stdout.toString(),
+    );
+    const accept = (v: Verdict) => {
+      const now = takeQuality(v, readFileSync(path.join(REPO, 'sheets', id, 'alignment.json'), 'utf8'));
+      const better = !old || (now.rank >= old.rank && now.share >= old.share);
+      log(`REMAKE ${id}: new take ${now.text}, old take ${old ? old.text : 'none'}: ${better ? 'the new one is kept' : 'the old one is kept'}`);
+      return better;
+    };
+    let result: Outcome | 'worse' = 'failed';
+    try {
+      result = previous ? await finish(id, true, undefined, accept) : await finish(id, true);
+    } catch (e) {
+      log(`FINISH FAILED ${id}: ${e}`);
+    }
+    if (result !== 'done') restore();
+    // A done song stays done whatever the new take did ('worse' only comes with a previous take).
+    await lock.settle(previous ? 'done' : result as Outcome);
+    log(`REMAKE ${id}: ${result}`);
+    const ended = result === 'done' ? 'done' : result === 'worse' ? 'kept' : 'failed';
+    recordRemake(id, request, ended);
+    return ended;
+  } finally {
+    undoRemake = undefined;
+  }
+}
+
+// What a take was made from; when the catalog asks for something else, `run` makes this machine's take again.
+const REQUESTED = ['style', 'lyrics', 'cot', 'abc'] as const;
+const requestKey = (r: Record<string, unknown>) => JSON.stringify(REQUESTED.map((k) => r[k] ?? null));
+const catalogRequest = (id: string) => requestKey(JSON.parse(readFileSync(path.join(REPO, 'catalog', `${id}.json`), 'utf8')).request);
+// Each song's last remake on this machine: the request it was made for, how many tries, and how it ended.
+const REMAKES = path.join(OUTPUTS, 'remakes.json');
+type Remade = { request: string; tries: number; result: 'done' | 'kept' | 'failed' };
+const remakes = (): Record<string, Remade> => existsSync(REMAKES) ? JSON.parse(readFileSync(REMAKES, 'utf8')) : {};
+
+function recordRemake(id: string, request: string, result: Remade['result']) {
+  const all = remakes();
+  const tries = all[id]?.request === request ? all[id].tries + 1 : 1;
+  writeFileSync(REMAKES, JSON.stringify({ ...all, [id]: { request, tries, result } }, null, 1));
+}
+
+/**
+ * The next song this machine made whose catalog request changed since. A request is tried until a take passes:
+ * a new take kept, or one that passed but was not as good ('kept', made with the same seed it would get again),
+ * and at most MAX_ATTEMPTS times when its takes fail.
+ */
+function changedRequest(skip: Set<string>): string | undefined {
+  const done = remakes();
+  for (const id of order()) {
+    if (skip.has(id) || !isComplete(id)) continue;
+    const want = catalogRequest(id);
+    if (want === requestKey(JSON.parse(readFileSync(path.join(OUTPUTS, id, 'request.json'), 'utf8')))) continue;
+    const last = done[id];
+    if (last?.request === want && (last.result !== 'failed' || last.tries >= MAX_ATTEMPTS)) continue;
+    return id;
+  }
 }
 
 const [command, ...args] = process.argv.slice(2);
@@ -408,6 +593,16 @@ if (command === 'run') {
   let sheets = Promise.resolve();
   for (;;) {
     await stopForNewCode(sheets);
+    await yieldGpu();
+    // First this machine's songs whose catalog request changed (a new form or style), one at a time.
+    const changed = changedRequest(failed);
+    if (changed) {
+      await sheets;
+      await remake(changed);
+      failed.add(changed);
+      continue;
+    }
+    await refillCatalog(sheets);
     const next = await claimNextWhenOnline(fromEnd, failed);
     if (!next) break;
     log(`CLAIMED ${next.id}`);
@@ -514,63 +709,12 @@ if (command === 'run') {
   }
   console.log(`${id}: kept ${kept}`);
 } else if (command === 'remake' && args[0]) {
-  // One song made again the same way as in `run`, for a song whose request changed in the catalog. Its current
-  // take is kept beside it; a done song whose new take does not pass gets that take back and stays done, so what
-  // is published never goes away and no other machine makes it again from its own, older catalog.
-  const id = args[0];
-  const c = readClaims().get(id);
-  if (c && !isFree(c) && c.state !== 'done' && c.state !== 'aside') {
-    console.log(`${c.state} ${id} by ${c.machine}`);
-    process.exit(1);
-  }
+  process.on('SIGINT', release);
+  process.on('SIGTERM', release);
   const notReady = await judgeReady();
   if (notReady) throw new Error(notReady);
-  const r = push(id, c?.sha, 'remake');
-  if (r.result !== 'ok') {
-    console.log(`${r.result} ${id}: ${r.detail}`);
-    process.exit(1);
-  }
-  log(`REMAKE ${id} on ${MACHINE}`);
-  const song = path.join(OUTPUTS, id);
-  const previous = c?.state === 'done' && isComplete(id) ? `${song}-replaced` : undefined;
-  if (previous) {
-    rmSync(previous, { recursive: true, force: true });
-    renameSync(song, previous);
-  }
-  // Put the old take back; a new take still in the song folder moves to <id>-remake-failed.
-  const restore = () => {
-    if (!previous) return;
-    if (existsSync(song)) {
-      rmSync(`${song}-remake-failed`, { recursive: true, force: true });
-      renameSync(song, `${song}-remake-failed`);
-    }
-    renameSync(previous, song);
-    Bun.spawnSync(['git', 'checkout', 'HEAD', '--', path.join('sheets', id)], { cwd: REPO });
-    log(`REMAKE ${id}: the new take did not pass, the old take is kept`);
-  };
-  const stop = () => {
-    for (const child of children) child.kill();
-    restore();
-    for (const lock of held) lock.end(previous ? 'done' : 'released');
-    process.exit(1);
-  };
-  process.on('SIGINT', stop);
-  process.on('SIGTERM', stop);
-  const lock = await generate(id, r.sha!, previous ? 'done' : 'failed');
-  if (!lock) {
-    restore();
-    process.exit(1);
-  }
-  let result: Outcome = 'failed';
-  try {
-    result = await finish(id, true);
-  } catch (e) {
-    log(`FINISH FAILED ${id}: ${e}`);
-  }
-  if (result !== 'done') restore();
-  await lock.settle(result !== 'done' && previous ? 'done' : result);
-  log(`REMAKE ${id}: ${result}`);
-  process.exit(result === 'done' ? 0 : 2);
+  const result = await remake(args[0]);
+  process.exit({ done: 0, taken: 1, failed: 2, kept: 2 }[result]);
 } else {
   console.error('Usage: bun scripts/generate.ts run [--from-end] | status | claim <id> | retry <id> | rejudge <id> | remake <id>');
   process.exit(1);

@@ -1,0 +1,43 @@
+{
+  "id": "verse-58-2-18-blues",
+  "title": "He Is Able To Help",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 2,
+    "verseStart": 18,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 2,
+      "verseStart": 18,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, soulful, solo with background choir, piano, electric guitar, bass, drums, organ, melancholic, 85 BPM",
+    "lyrics": "[Verse]\nThrough fear of death they lived in chains\nHeld in slavery their whole days\nBut He set free the ones who grieve\nAnd lifted up the weight of belief\n\n[Pre-Chorus]\nHe does not help the angels here\nBut seeks the blood of Abraham clear\nLike His brothers in every way\nTo show us mercy every day\n\n[Chorus]\nHe is a merciful and faithful priest\nIn the service of God we need\nMaking atonement for our sins\nWith love that breaks the heavy chains\n\n[Verse]\nHe himself suffered when tempted\nHe knows the pain, He knows the test\nSo He is able to help us\nWhen we are falling, He will lift us\n\n[Chorus]\nHe is a merciful and faithful priest\nIn the service of God we need\nMaking atonement for our sins\nWith love that breaks the heavy chains\n\n[Bridge]\nLike His brothers in every respect\nHe walks the path of human test\nFaithful high priest for the people\nHealing the wounds that we feel\n\n[Chorus]\nHe is a merciful and faithful priest\nIn the service of God we need\nMaking atonement for our sins\nWith love that breaks the heavy chains\n\n[Outro]\nHe is able to help those being tempted\nHe is able to help those being tempted",
+    "cot": "full",
+    "seed": 20188
+  }
+}

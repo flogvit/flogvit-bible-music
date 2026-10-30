@@ -199,3 +199,32 @@ chorus, with an intro and an outro. So the planner makes its own contrast betwee
 have no chorus. The old take lies in `YuE/outputs/catalog/chapter-19-136-gospel-replaced/` on the M5, for
 listening side by side. The new take is in `library/` and goes out with the publisher. One song is not a group:
 group A in the test plan needs the further litanies before `litany` counts as no worse than the standard form.
+
+## Form tests, 2026-10-30
+
+The forms `strophic`, `ballad`, `chant` and `call-response` are in `scripts/lyrics-form.ts`. Each was tried on
+three songs made on the M5 (a remake must run where the old take is), with `remake` on the M5: the new take is
+kept only when its lyrics check is at least as good (`correct` before `adopt`) and at least as large a share of
+its lines sits on its notes (`alignment.json`). The groups: strophic Psalm 90, the cross hymn and Psalm 1;
+ballad Jonah in Nineveh, Joseph in the well, Cain and Abel; chant Revelation 22:20, Philippians 4:4 and
+Psalm 42:2; call-response the dry bones, the Passover and the man born blind.
+
+| song | form | lyrics check | lines on notes, new / old | kept | YuE's plan (score.abc) |
+|---|---|---|---|---|---|
+| chapter-19-90-hymn | strophic, 5 verses of 4 lines | `correct` (only small words marked (?)) | 11 of 20 / 25 of 25 | old | I-V-C-V-C-O, 4/4, 76 BPM (old take I-V-C-V-C-V-O, 4/4, 70) |
+| chapter-19-1-folk | strophic, verbatim, 3 verses and an outro | `correct` | 14 of 14 / 19 of 20 | new | I-V-C-O, 2/4, 84 BPM (old take I-V-C-i-V-C-i-O) |
+| theme-korset-hymn | strophic, 5 verses of 4 lines (8.6.8.6) | `correct` | 20 of 20 / 16 of 28 | new | I-V-i-V-O, 3/4 (YuE chose it), 77 BPM (old take I-V-C-V-C-B-V-C-O, 4/4, 72) |
+
+**YuE plans its own form.** Psalm 136 as a litany (4 `[Verse]` blocks) was planned verse-chorus-verse-chorus,
+and Psalm 90 as five verses the same: the planner labels every second block a chorus and gives it another
+melody, whatever the lyrics' tags say. Verses only in the lyrics do not make a strophic song. Psalm 90's verses
+are not metrical (4 to 12 syllables a line), and its new take sang every line, but Whisper found only 11 of 20 of
+them on their notes, against all 25 in the verse-chorus take; that take stays.
+
+**A score makes the form.** The cross hymn's strophic take was still planned as two different verse sections
+(16 and 24 bars of 3/4 for five verses). Its own score, cut to one 8-bar verse melody (the 8.6.8.6 verse), was
+written five times between its intro and outro (`strophic_abc`, checked with YuE's `abc_tools inspect`) and given
+back as `request.abc` with `cot: "full"`. YuE followed it: the new take's score is intro, five identical verses,
+outro, 3/4, 2:06. Lyrics check `correct`, 20 of 20 lines on their notes, as good as the strophic take it
+replaced. This is the reference the YuE2 request allows in place of reference audio: a melody, here YuE's own,
+which fixes the form, the meter and the tune of every verse.

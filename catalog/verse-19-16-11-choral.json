@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-16-11-choral",
+  "title": "Fullness of Joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 16,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 16,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, piano, harp, strings, soft drums, uplifting and serene mood, 80 BPM",
+    "lyrics": "[Verse]\nI have set the LORD always before me\nBecause he is at my right hand I will not be shaken\nMy heart is glad and my glory rejoices\nMy body also rests secure in his care\n\n[Chorus]\nYou make known to me the path of life\nIn your presence there is fullness of joy\nAt your right hand are pleasures forevermore\nI hold you close and I am not afraid\n\n[Verse]\nYou will not abandon my soul to the grave\nNor let your faithful one see decay\nMy hope is bound to your steadfast love\nYou keep me safe through the darkest day\n\n[Chorus]\nYou make known to me the path of life\nIn your presence there is fullness of joy\nAt your right hand are pleasures forevermore\nI hold you close and I am not afraid\n\n[Bridge]\nNo shadow can take hold of my spirit\nYour right hand upholds me in every trial\nI rest secure in the promise you gave\nMy body and soul find peace in your arms\n\n[Chorus]\nYou make known to me the path of life\nIn your presence there is fullness of joy\nAt your right hand are pleasures forevermore\nI hold you close and I am not afraid\n\n[Outro]\nIn your presence there is fullness of joy\nPleasures forevermore at your right hand",
+    "cot": "full",
+    "seed": 20171
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-92-1-hymn",
+  "title": "It is good to give thanks",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 92,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 92,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet",
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Warm female solo voice with gentle choir harmonies, acoustic guitar, piano, strings, soft drums, reverent and joyful mood, 72 BPM",
+    "lyrics": "[Verse]\nA psalm for the Sabbath day\nIt is good to give thanks to the LORD\nto sing praise to your name, O Most High\n\n[Chorus]\nIt is good to give thanks to the LORD\nto sing praise to your name, O Most High\nto declare your steadfast love in the morning\nand your faithfulness through the nights\n\n[Verse]\nOn the ten-stringed lute and on the harp\nto the melody of the lyre\nFor you have made me glad by your work\nO LORD, I sing for joy at your hands\n\n[Chorus]\nIt is good to give thanks to the LORD\nto sing praise to your name, O Most High\nto declare your steadfast love in the morning\nand your faithfulness through the nights\n\n[Bridge]\nYour deeds of hands bring me joy\nYour work makes my heart glad\nO LORD, I praise you always\nIn morning light and through the night\n\n[Chorus]\nIt is good to give thanks to the LORD\nto sing praise to your name, O Most High\nto declare your steadfast love in the morning\nand your faithfulness through the nights\n\n[Outro]\nIt is good to give thanks to the LORD\nto sing praise to your name, O Most High",
+    "cot": "full",
+    "seed": 20180
+  }
+}

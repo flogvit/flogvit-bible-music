@@ -1,0 +1,46 @@
+{
+  "id": "verse-55-1-7-jazz",
+  "title": "Spirit of Power",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 55,
+    "chapter": 1,
+    "verseStart": 7,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 55,
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "nade",
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female smooth jazz vocal, upright bass, brushed drums, piano, saxophone, warm and confident mood, 90 BPM",
+    "lyrics": "[Verse]\nRecalling your tears, I long to see you\nSo that I may be filled with joy\nReminded of your sincere faith\nLived first in your grandmother Lois\nAnd your mother Eunice, I am convinced\nIt lives in you as well\n\n[Pre-Chorus]\nThat is why I remind you\nTo fan into flame the gift of God\nThat is in you through the laying on\nOf my hands upon your head\n\n[Chorus]\nFor God did not give us a spirit of timidity\nBut of power and love and self-control\nSo do not be ashamed of the testimony\nAbout our Lord, or of me his prisoner\n\n[Verse]\nInstead, share in suffering for the gospel\nBy the power of God who saved us\nAnd called us with a holy calling\nNot because of our works, but his own\nPurpose and grace, given in Christ Jesus\nBefore time began, now revealed\n\n[Chorus]\nFor God did not give us a spirit of timidity\nBut of power and love and self-control\nSo do not be ashamed of the testimony\nAbout our Lord, or of me his prisoner\n\n[Bridge]\nThrough the appearing of our Savior Jesus Christ\nWho abolished death and brought life to light\nAnd immortality through the gospel\nNow made clear to our eyes\n\n[Chorus]\nFor God did not give us a spirit of timidity\nBut of power and love and self-control\nSo do not be ashamed of the testimony\nAbout our Lord, or of me his prisoner\n\n[Outro]\nPower and love and self-control\nThe spirit of God in you",
+    "cot": "full",
+    "seed": 20183
+  }
+}

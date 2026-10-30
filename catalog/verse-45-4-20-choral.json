@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-4-20-choral",
+  "title": "Strengthened In Faith",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 4,
+    "verseStart": 20,
+    "verseEnd": 21
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 4,
+      "verseStart": 20,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "abraham",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with choral backing, cello, piano, flute, strings, hopeful and majestic, 85 BPM",
+    "lyrics": "[Verse]\nAgainst all hope he looked ahead\nAnd believed in what was not yet seen\nHis body felt like deadness grew\nYet his trust in God never waned\n\n[Chorus]\nHe did not waver in unbelief\nBut was strengthened in his faith\nHe gave glory to the God of life\nAnd believed the promise would come to pass\n\n[Verse]\nConvinced that God has power to act\nTo do exactly what He said\nThings that are not become as though they were\nBecause He gives the dead new breath\n\n[Chorus]\nHe did not waver in unbelief\nBut was strengthened in his faith\nHe gave glory to the God of life\nAnd believed the promise would come to pass\n\n[Bridge]\nIt was credited to him as righteousness\nFor he trusted in the living God\nWe who believe in Him who raised\nOur Lord from the dead share this hope\n\n[Chorus]\nHe did not waver in unbelief\nBut was strengthened in his faith\nHe gave glory to the God of life\nAnd believed the promise would come to pass\n\n[Outro]\nStrengthened in faith, we give glory\nTo the God who calls things into being",
+    "cot": "full",
+    "seed": 20181
+  }
+}

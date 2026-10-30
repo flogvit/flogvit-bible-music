@@ -12,7 +12,7 @@
     {
       "bookId": 42,
       "chapter": 2,
-      "verseStart": 13,
+      "verseStart": 14,
       "verseEnd": 14
     }
   ],
@@ -41,9 +41,10 @@
   },
   "lyricsMode": "verbatim",
   "textSource": "osen",
+  "form": "chant",
   "request": {
-    "style": "English, sacred choral anthem, full mixed choir with soprano descant, pipe organ, strings, brass fanfare, bells, radiant and jubilant, 84 BPM",
-    "lyrics": "[Verse]\nSuddenly a great company of the heavenly host\nAppeared with the angel\nPraising God and saying\n\n[Chorus]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest\nAnd on earth peace\n\n[Verse]\nA great company of the heavenly host\nPraising God and saying\n\n[Chorus]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest\nAnd on earth peace\n\n[Bridge]\nGlory to God\nGlory to God in the highest\nGlory to God\nGlory to God in the highest\n\n[Outro]\nAnd on earth peace to those on whom his favor rests\nGlory to God in the highest",
+    "style": "English, short chant sung again and again, building each time, sacred choral anthem, full mixed choir with soprano descant, pipe organ, strings, brass fanfare, bells, radiant and jubilant, 84 BPM",
+    "lyrics": "[Verse]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Verse]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Verse]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Verse]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Verse]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Verse]\nGlory to God in the highest\nAnd on earth peace to those on whom his favor rests\n\n[Outro]\nGlory to God in the highest",
     "cot": "full",
     "seed": 20070
   }

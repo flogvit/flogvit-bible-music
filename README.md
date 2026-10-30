@@ -70,7 +70,7 @@ One file per song in `catalog/<id>.json`:
 | `tags.themes`, `tags.stories`, `tags.persons` | slugs from `free-bible/generate/{themes,stories,persons}/en/` |
 | `lyricsMode` | `verbatim`, `mixed` (quotes the verse) or `thematic` |
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
-| `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed |
+| `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed. `strophic`: verses only (a hymn, a metrical psalm), at least 3, of one length unless verbatim. `ballad`: a story in at least 4 verses of one length, no chorus or bridge, a refrain at most as the last line of every verse. `chant`: one text of 2–4 lines sung as every verse, at least 4 times (Taizé). `call-response`: in every verse a lead line answered by a short response (at most 6 words, at most 2 different ones), with a chorus. The rules are in `scripts/lyrics-form.ts`; section 4 of `docs/research/diversity.md` says why |
 | `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed` |
 
 Check new or changed songs before committing them:
@@ -86,6 +86,33 @@ to a real page on bible.flogvit.com.
 `catalog/order.txt` is the order the catalog is generated in, most-known songs first. Add new songs to it where
 they belong; a catalog song missing from it comes after the listed ones.
 
+### The catalog grows by itself
+
+Every theme, person and story in free-bible, and every verse of the day (`daily_verse/en`), gets a song, and
+`scripts/catalog-write.ts` writes them: the most visited pages on bible.flogvit.com first
+(`catalog/popularity.tsv`), then by the Bible data's own weight (themes, then verses of the day, then persons with
+many key events and long stories). For each one a local LLM (Ollama, `MUSIC_WRITER_MODEL`, default the lyrics
+check's model) gets the free-bible text (a theme's sections, a person's summary and key events, a story's
+description) and the osen text of its passages, and writes the title, lyrics, style line and tags; the script
+checks them with the same rules as `validate-catalog` and asks again, up to three times. The genre is the one the
+catalog has least of among those that suit the song, and the form is the one its kind asks for (stories ballad,
+short verses chant) once that form has passed its test (`FORMS_IN_USE` in the script; until then verse-chorus).
+A hymn or choral song about a theme, person or story is strophic.
+
+`run` (see Generate) calls it: when fewer than 4 songs are free, the machine that gets the lock
+`refs/claims/_catalog` writes the next 10 (`MUSIC_CATALOG_PORTION`), commits them to `main` and pushes them, and
+every machine pulls them. By hand:
+
+```bash
+bun scripts/catalog-write.ts --list            # every song still missing, in the order it will be written
+bun scripts/catalog-write.ts --count 10        # write the next 10
+```
+
+`catalog/popularity.tsv` holds how many people opened each page (`visitors<TAB>path`). `scripts/popularity.py`
+makes it from the site's Caddy access log, where the log is, so only the counts leave and never an address:
+pipe the log (rotated files unpacked) into `python3 popularity.py` on that machine and commit its output here.
+Caddy keeps a few days of log, so refresh it now and then.
+
 ## Generate
 
 ### The whole catalog, on one or more machines
@@ -98,7 +125,11 @@ bun scripts/generate.ts status                                                  
 
 `run` takes the next free song, generates it with `configs/long-12000.json` under `taskpolicy -b`, checks that
 the singing delivers its lyrics (see Lyrics check), makes its sheets and `library/<id>/`, commits the sheets and pushes them to `main` (or the current branch, or
-`$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one, until no song is free. It can run from a worktree; `YuE/`,
+`$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one. Before each song it
+remakes this machine's songs whose catalog request changed (see remake below), and when fewer than 4 songs are
+free it writes the next portion of the catalog (see The catalog grows by itself), so it does not run out. It
+starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default `mlx_video`)
+or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. It can run from a worktree; `YuE/`,
 `.venv-sheets` and `library/` are found in the main checkout. Before it takes new songs, it finishes the songs
 already made on this machine (sheets and library if they are missing) and marks them done. Its log goes to the
 terminal, and each song's own output to `YuE/outputs/catalog/<id>-run.log`. Stop it with Ctrl-C (or `kill`):
@@ -133,7 +164,7 @@ tail -f ~/Library/Logs/music-generate.log
 
 The agent `com.flogvit.music-generate` starts at login and again 10 minutes after `run` stops, so a restart,
 a crash or a run that found no free song does not stop the machine for good. The worktree follows `main`: `run`
-pulls it with each song's sheets, and when `main` brings a new `generate.ts` or lyrics check, `run` stops
+pulls it with each song's sheets, and when `main` brings new code in `scripts/`, `run` stops
 between songs (`RUN RESTART` in the log) and launchd starts the new code, so code merged to `main` reaches every
 generating Mac within a song and 10 minutes. While a song generates, the Mac
 does not sleep on power (`caffeinate -s`); on battery it may, and after 20 minutes asleep the song is free for
@@ -180,9 +211,19 @@ GitHub missed one. `retry` adds a `retry` commit; rejections before it no longer
 When a song's request changes in the catalog (a new form, style or lyrics), `remake` makes it again on this
 machine the same way `run` does: generation, lyrics check, sheets, library and the sheets commit. It takes the
 song also when it is done or set aside, as a `remake` commit (held like `claimed`, and the attempts count from
-there). The current take moves to `YuE/outputs/catalog/<id>-replaced/`, to compare with. If the new take does not
-pass, a done song gets its old take back and stays done, so the published song stays and no other machine makes it
-again from its own catalog. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
+there). The current take moves to `YuE/outputs/catalog/<id>-replaced/`, to compare with. The new take replaces it
+only when it is at least as good: its lyrics check at least as good (`correct` before `adopt`; a take from before
+the check counts as `correct`) and at least as large a share of its lines on their notes (`alignment.json`). The
+log line `REMAKE <id>: new take …, old take …` gives both. Otherwise, or if the new take does not pass, a done song
+gets its old take back and stays done, the new take lies in `<id>-remake-failed/`, and nothing is committed or
+published, so the published song stays and no other machine makes it again from its own catalog.
+
+`run` does this by itself: before it takes a new song, it remakes, one at a time, the songs this machine made whose
+catalog request (`style`, `lyrics`, `cot` or `abc`) differs from the one in the take's `request.json`. A change
+merged to `main` therefore reaches every song on the Mac that made it (a song must be remade where its old take
+is, since the published list prefers the Home Mac's take of a song both have). Each request is tried until a take
+passes, whether the new take is kept or the old one is better, and at most `MUSIC_MAX_ATTEMPTS` times when its
+takes fail; `YuE/outputs/catalog/remakes.json` keeps each song's last remake on the machine. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
 own (a generator on the same machine name would otherwise finish the song too when it restarts). On a Mac that
 is also generating, start it when `top -l 2 -n 0 -s 2` shows at least 25 % idle and `ollama ps` shows no model.
 

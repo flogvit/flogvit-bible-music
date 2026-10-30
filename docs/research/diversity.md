@@ -214,6 +214,21 @@ Psalm 42:2; call-response the dry bones, the Passover and the man born blind.
 | chapter-19-90-hymn | strophic, 5 verses of 4 lines | `correct` (only small words marked (?)) | 11 of 20 / 25 of 25 | old | I-V-C-V-C-O, 4/4, 76 BPM (old take I-V-C-V-C-V-O, 4/4, 70) |
 | chapter-19-1-folk | strophic, verbatim, 3 verses and an outro | `correct` | 14 of 14 / 19 of 20 | new | I-V-C-O, 2/4, 84 BPM (old take I-V-C-i-V-C-i-O) |
 | theme-korset-hymn | strophic, 5 verses of 4 lines (8.6.8.6) | `correct` | 20 of 20 / 16 of 28 | new | I-V-i-V-O, 3/4 (YuE chose it), 77 BPM (old take I-V-C-V-C-B-V-C-O, 4/4, 72) |
+| story-jona-i-ninive-folk | ballad, 4 verses of 5 lines with a refrain | `wrong`: the first two lines and three of four refrains garbled | none | old | |
+| story-josef-kastes-i-bronnen-country | ballad, 5 verses of 5 lines | `correct` | 22 of 25 / 31 of 31 | old | |
+| story-kain-og-abel-blues | ballad, 4 verses of 5 lines and an outro | `correct` | 13 of 22 / 16 of 22 | old | |
+| verse-66-22-20-worship | chant, 4 lines sung 5 times | `adopt` | 21 of 21 / 0 of 21 | old (adopt counts below correct) | |
+| verse-50-4-4-gospel | chant, 4 lines sung 6 times | `correct` | 21 of 25 / 21 of 24 | old | |
+
+**Strophic passes** on the M5 group: all three `correct` on the first take, two kept, and with its own score
+the cross hymn becomes truly strophic. It is in use for new songs (`FORMS_IN_USE` in `catalog-write.ts`).
+**The ballad does not:** one of three takes was wrong and the other two had fewer lines on their notes than
+the verse-chorus takes; the refrain line at the end of each verse is where Whisper loses the lines. Stories stay
+verse-chorus. **The chant is close:** Revelation 22:20 put every line on its notes (21 of 21, against 0 of 21),
+but its lyrics check was `adopt`, which the bar ranks below the old take's `correct`; Philippians 4:4 had 84 %
+of its lines on their notes against 88 %. Psalm 42:2, the third, and the call-response and Home Mac groups are
+still to come (the generators make them, as changed catalog songs, before new songs). The catalog entries of the
+songs whose old take stayed are back to the published songs.
 
 **YuE plans its own form.** Psalm 136 as a litany (4 `[Verse]` blocks) was planned verse-chorus-verse-chorus,
 and Psalm 90 as five verses the same: the planner labels every second block a chorus and gives it another

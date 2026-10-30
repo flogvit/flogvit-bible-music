@@ -12,10 +12,10 @@
  * Usage:
  *   bun scripts/generate.ts run [--from-end]   finish local songs, then take the next free song, generate it,
  *                                              make its sheets and library folder, mark it done, and repeat;
- *                                              first remake this machine's songs whose catalog request (style,
- *                                              lyrics, cot, abc) changed; with few songs free, write the next
- *                                              portion of the catalog (scripts/catalog-write.ts); between songs,
- *                                              pictures (scripts/scenes.ts) for library songs without them
+ *                                              with few songs free, write the next portion of the catalog
+ *                                              (scripts/catalog-write.ts); with none free, remake this machine's
+ *                                              songs whose catalog request (style, lyrics, cot, abc) changed, and
+ *                                              make pictures (scripts/scenes.ts) for library songs without them
  *   bun scripts/generate.ts status            every song in catalog/order.txt with its state
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
@@ -426,12 +426,11 @@ async function finishLocal() {
 
 /**
  * Pictures for the big screen (scripts/scenes.ts) for the songs in library/ that have none. Songs come first:
- * the run makes a song, then pictures for at most `songs` library songs (MUSIC_PICTURES_PER_SONG, default 1;
- * 0 leaves them to the end of the run), so a start or restart claims a song at once and many songs without
- * pictures never hold the next song back. They are extra: a Mac that cannot make them says why once, and a
+ * pictures are made when the run has no song left to take (MUSIC_PICTURES_PER_SONG, default 0, makes them for
+ * that many library songs after each song instead), so pictures never hold the next song back. They are extra: a Mac that cannot make them says why once, and a
  * picture that fails is logged, skipped and tried again in the next run.
  */
-const PICTURES_PER_SONG = Number(process.env.MUSIC_PICTURES_PER_SONG ?? 1);
+const PICTURES_PER_SONG = Number(process.env.MUSIC_PICTURES_PER_SONG ?? 0);
 let noPictures = false;
 async function pictures(songs = Infinity) {
   if (songs <= 0) return;
@@ -617,8 +616,6 @@ if (command === 'run') {
   const rejectedHere = new Map<string, number>();
   // A song's sheets are made while the next song generates (Whisper on the CPU, YuE on the GPU), one at a time.
   let sheets = Promise.resolve();
-  // Changed songs and new songs take turns, so a big catalog change does not hold the new songs back.
-  let remadeLast = false;
   // Pictures come after a song YuE made in this run, never before the first one.
   let picturesDue = false;
   for (;;) {
@@ -630,22 +627,17 @@ if (command === 'run') {
       await stopForNewCode(sheets);
     }
     await yieldGpu();
-    // This machine's songs whose catalog request changed (a new form or style), every other song.
-    const changed = remadeLast ? undefined : changedRequest(failed);
-    if (changed) {
-      await sheets;
-      await remake(changed);
-      failed.add(changed);
-      remadeLast = true;
-      picturesDue = true;
-      continue;
-    }
-    remadeLast = false;
+    // New catalog songs first; this machine's songs whose catalog request changed only when none is free.
     await refillCatalog(sheets);
     const next = await claimNextWhenOnline(fromEnd, failed);
     if (!next) {
-      if (changedRequest(failed)) continue;
-      break;
+      const changed = changedRequest(failed);
+      if (!changed) break;
+      await sheets;
+      await remake(changed);
+      failed.add(changed);
+      picturesDue = true;
+      continue;
     }
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);

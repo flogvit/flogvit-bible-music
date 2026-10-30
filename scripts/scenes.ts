@@ -107,7 +107,9 @@ async function ask<T>(model: string, think: boolean, system: string, user: strin
     }),
   });
   if (!r.ok) throw new Error(`${model}: ${r.status} ${await r.text()}`);
-  return JSON.parse((await r.json() as { message: { content: string } }).message.content) as T;
+  // Some Ollama versions (0.32) put a vision model's answer under `thinking` when thinking is off.
+  const { message } = await r.json() as { message: { content: string; thinking?: string } };
+  return JSON.parse(message.content || message.thinking || '') as T;
 }
 
 /** Can pictures be made here? Pulls the Ollama models once; undefined when ready, else what is missing. */

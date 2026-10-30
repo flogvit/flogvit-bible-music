@@ -185,7 +185,14 @@ only when it is at least as good: its lyrics check at least as good (`correct` b
 the check counts as `correct`) and at least as large a share of its lines on their notes (`alignment.json`). The
 log line `REMAKE <id>: new take …, old take …` gives both. Otherwise, or if the new take does not pass, a done song
 gets its old take back and stays done, the new take lies in `<id>-remake-failed/`, and nothing is committed or
-published, so the published song stays and no other machine makes it again from its own catalog. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
+published, so the published song stays and no other machine makes it again from its own catalog.
+
+`run` does this by itself: when no song is free, it remakes, one at a time, the songs this machine made whose
+catalog request (`style`, `lyrics`, `cot` or `abc`) differs from the one in the take's `request.json`. A change
+merged to `main` therefore reaches every song on the Mac that made it (a song must be remade where its old take
+is, since the published list prefers the Home Mac's take of a song both have). Each request is tried until a take
+passes, whether the new take is kept or the old one is better, and at most `MUSIC_MAX_ATTEMPTS` times when its
+takes fail; `YuE/outputs/catalog/remakes.json` keeps each song's last remake on the machine. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
 own (a generator on the same machine name would otherwise finish the song too when it restarts). On a Mac that
 is also generating, start it when `top -l 2 -n 0 -s 2` shows at least 25 % idle and `ollama ps` shows no model.
 

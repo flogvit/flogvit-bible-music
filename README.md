@@ -364,7 +364,17 @@ folder's files, so rebuild after regenerating a song or its sheets.
 | `chords.pdf`, `chords.cho` | the chord sheet, as PDF and ChordPro (see Sheet music) |
 | `leadsheet.pdf` | the lead sheet: melody with chords and lyrics |
 | `alignment.json` | when each syllable is sung (from the sheets), for highlighting the lyrics |
+| `scenes.json`, `scenes/*.webp` | optional: the pictures behind the lyrics on a big screen, below |
 | `info.json` | everything about the song, below |
+
+### scenes.json
+
+The pictures the screen view of music.flogvit.com shows behind the lyrics: one per part of the song, each
+from the line it begins at until the next. A list of `{line, image, alt}`: `line` is the line's index in
+`alignment.json` (from 0; the first scene is shown from the start of the song), `image` the file relative to
+`scenes.json` (1920×1080 WebP, about 150–500 KB), and `alt` what the picture shows. The same image can come
+back, as a chorus does. The player crossfades halfway through the pause before a scene's line, at most three
+seconds before it is sung (`sceneStarts` in `lib/music.ts`).
 
 ### info.json
 
@@ -414,6 +424,7 @@ out (`published`), and keeps that date whichever machine publishes it again. Wha
 | `<collection>/<id>/info.json` | everything about the song, as in `library/` |
 | `<collection>/<id>/alignment.json` | when each syllable is sung, for highlighting the lyrics |
 | `<collection>/<id>/chords.pdf`, `chords.cho`, `leadsheet.pdf` | chord sheet, ChordPro and lead sheet |
+| `<collection>/<id>/scenes.json`, `scenes/*.webp` | the pictures behind the lyrics on a big screen, when the song has them |
 
 File paths in `index.json` are relative to `index.json` itself, so a copy works wherever it is served. In
 a bucket, the public tree goes under `MEDIA_PREFIX` (default `system/music/`). The FLAC masters go to

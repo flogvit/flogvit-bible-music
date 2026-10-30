@@ -19,7 +19,7 @@ import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync, existsSy
 import { hostname } from "node:os";
 import { dirname, join } from "node:path";
 import { parseArgs } from "node:util";
-import { buildIndex, LEGACY_SOURCE, mergeSources, type MusicIndex, type Song, type Source } from "../lib/music";
+import { buildIndex, LEGACY_SOURCE, mergeSources, type MusicIndex, type Scene, type Song, type Source } from "../lib/music";
 
 const { values: opt } = parseArgs({
   options: {
@@ -169,6 +169,16 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
     }
     if (await sink.put(`${base}/${name}`, body, type)) written++;
     files[field] = `${base}/${name}`;
+  }
+  // The pictures for the big screen: scenes.json, and once each the images it names.
+  if (existsSync(join(folder, "scenes.json"))) {
+    const scenes: Scene[] = JSON.parse(readFileSync(join(folder, "scenes.json"), "utf8"));
+    for (const image of new Set(scenes.map((s) => s.image))) {
+      const type = `image/${image.split(".").pop()!.replace("jpg", "jpeg")}`;
+      if (await sink.put(`${base}/${image}`, readFileSync(join(folder, image)), type)) written++;
+    }
+    if (await sink.put(`${base}/scenes.json`, json(scenes), "application/json")) written++;
+    files.scenes = `${base}/scenes.json`;
   }
   if (!opt.out && existsSync(join(folder, "audio.flac"))) {
     if (await sink.put(`masters/${base}/audio.flac`, readFileSync(join(folder, "audio.flac")), "audio/flac", { cold: true })) written++;

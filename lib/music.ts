@@ -5,7 +5,8 @@
  *
  *   index.json                    every song of every collection (MusicIndex)
  *   <collection>/songs.json       the songs of one collection, as its publisher wrote them
- *   <collection>/<id>/audio.mp3   and info.json, alignment.json, chords.pdf, chords.cho, leadsheet.pdf
+ *   <collection>/<id>/audio.mp3   and info.json, alignment.json, chords.pdf, chords.cho, leadsheet.pdf,
+ *                                 scenes.json with the images it names
  *
  * File paths in the index are relative to index.json, so the same index works wherever the tree is served.
  */
@@ -33,6 +34,8 @@ export interface SongFiles {
   chordSheet?: string;
   chordPro?: string;
   leadSheet?: string;
+  /** The pictures for the big screen (Scene), with the images beside it. */
+  scenes?: string;
 }
 
 export interface Song {
@@ -233,4 +236,32 @@ export function lineTimes(alignment: {
     result.push({ text: line.text, uncertain: line.uncertain ?? false, syllables: own });
   }
   return result;
+}
+
+/**
+ * A picture behind the lyrics on a big screen, from a song's scenes.json: one per part of the song, shown from
+ * the line it begins at (its index in alignment.json, from 0) until the next scene. `image` is relative to
+ * scenes.json; `alt` says what the picture shows. The same image may come back, as a chorus does.
+ */
+export interface Scene {
+  line: number;
+  image: string;
+  alt?: string;
+}
+
+/**
+ * When each scene comes in, in seconds of the audio: the first from the start, the others halfway through the
+ * pause before their line, at most three seconds before it is sung. Scenes for lines the timing does not have
+ * are left out.
+ */
+export function sceneStarts(scenes: Scene[], timing: LineTime[]): { start: number; scene: Scene }[] {
+  return scenes
+    .filter((scene) => scene.line === 0 || timing[scene.line])
+    .map((scene) => {
+      if (scene.line === 0) return { start: 0, scene };
+      const sung = timing[scene.line]!.syllables[0]!.time;
+      const before = timing[scene.line - 1]!.syllables.at(-1)!.time;
+      return { start: Math.max((before + sung) / 2, sung - 3), scene };
+    })
+    .sort((a, b) => a.start - b.start);
 }

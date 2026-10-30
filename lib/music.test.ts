@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { buildIndex, lineTimes, mergeSources, overlaps, parseVerse, search, type Song } from "./music";
+import { buildIndex, lineTimes, mergeSources, overlaps, parseVerse, sceneStarts, search, type LineTime, type Song } from "./music";
 
 const song = (id: string, over: Partial<Song>): Song => ({
   id, collection: "bible", title: id, references: [], style: [], tags: {}, files: { mp3: `bible/${id}/audio.mp3`, info: "" },
@@ -94,4 +94,17 @@ describe("lineTimes", () => {
   });
   test("a line its syllables do not spell gives null", () =>
     expect(lineTimes({ lines: [{ text: "Hello" }], syllables: [{ text: "Bye", time: 1 }] })).toBeNull());
+});
+
+describe("sceneStarts", () => {
+  const line = (from: number, to: number): LineTime => ({
+    text: "", uncertain: false, syllables: [{ letters: "a", time: from }, { letters: "b", time: to }],
+  });
+  const timing = [line(10, 17), line(17.5, 23), line(25, 30), line(50, 55)];
+  const starts = (lines: number[]) => sceneStarts(lines.map((n) => ({ line: n, image: `${n}.webp` })), timing)
+    .map((s) => [s.scene.line, s.start]);
+  test("the first from the start, the next halfway through the pause before its line", () =>
+    expect(starts([0, 2])).toEqual([[0, 0], [2, 24]]));
+  test("after a long pause, a few seconds before the line", () => expect(starts([0, 3])).toEqual([[0, 0], [3, 47]]));
+  test("a line the timing does not have gets no scene", () => expect(starts([0, 9])).toEqual([[0, 0]]));
 });

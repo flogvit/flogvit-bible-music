@@ -396,11 +396,11 @@ async function refillCatalog(pending: Promise<void>) {
 
 // The owner's own GPU jobs go first: no song starts while one runs (MUSIC_YIELD_TO, a pgrep -f pattern). Nor while
 // another YuE generation runs on this Mac (a remake started by hand): this run's own has ended when it asks.
-const YIELD_TO = process.env.MUSIC_YIELD_TO ?? 'mlx_video|mlx-video|mflux';
+const YIELD_TO = process.env.MUSIC_YIELD_TO ?? '^[^ ]*python[^ ]*( -m)? [^ ]*(mflux-|mlx_video|mlx-video)';
 
 async function yieldGpu() {
   let waited = false;
-  for (const pattern of [YIELD_TO, 'yue2 batch']) {
+  for (const pattern of [YIELD_TO, '^[^ ]*python[^ ]* [^ ]*yue2 batch']) {
     while (Bun.spawnSync(['pgrep', '-f', pattern]).exitCode === 0) {
       if (!waited) log(`WAITING: another GPU job runs (${pattern})`);
       waited = true;

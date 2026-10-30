@@ -138,7 +138,7 @@ bun scripts/generate.ts status                                                  
 the singing delivers its lyrics (see Lyrics check), makes its sheets and `library/<id>/`, commits the sheets and pushes them to `main` (or the current branch, or
 `$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one. New catalog songs come first: when fewer than 4 songs are
 free it writes the next portion of the catalog (see The catalog grows by itself), so it does not run out, and only when no song is free does it remake this machine's songs whose catalog
-request changed (see remake below). It starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default `mlx_video` and `mflux`, the owner's video and picture jobs)
+request changed (see remake below). It starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default a Python process running `mlx_video` or `mflux-`: the owner's video and picture jobs, not a shell whose command only names them)
 or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. Songs come first: the pictures for the big screen
 (see Pictures for the big screen) are made when no song is left to take, so they never hold a song back
 (`MUSIC_PICTURES_PER_SONG=<n>` makes them for n library songs after each song instead). A song whose pictures

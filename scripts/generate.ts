@@ -425,20 +425,27 @@ async function finishLocal() {
 }
 
 /**
- * Pictures for the big screen (scripts/scenes.ts) for the songs in library/ that have none, between songs while
- * the GPU is free: at most `hours` at a time, so a Mac with many songs without pictures still makes new songs and
- * picks up new code. They are extra: a Mac that cannot make them says why once and goes on.
+ * Pictures for the big screen (scripts/scenes.ts) for the songs in library/ that have none. Songs come first:
+ * the run makes a song, then pictures for at most `songs` library songs (MUSIC_PICTURES_PER_SONG, default 1;
+ * 0 leaves them to the end of the run), so a start or restart claims a song at once and many songs without
+ * pictures never hold the next song back. They are extra: a Mac that cannot make them says why once, and a
+ * picture that fails is logged, skipped and tried again in the next run.
  */
-const PICTURE_HOURS = 1;
+const PICTURES_PER_SONG = Number(process.env.MUSIC_PICTURES_PER_SONG ?? 1);
 let noPictures = false;
-async function pictures(hours = Infinity) {
-  const notReady = await scenesReady();
-  if (notReady) {
-    if (!noPictures) log(`NO PICTURES: ${notReady}`);
-    noPictures = true;
-    return;
+async function pictures(songs = Infinity) {
+  if (songs <= 0) return;
+  try {
+    const notReady = await scenesReady();
+    if (notReady) {
+      if (!noPictures) log(`NO PICTURES: ${notReady}`);
+      noPictures = true;
+      return;
+    }
+    await makeAllScenes(undefined, Infinity, songs);
+  } catch (e) {
+    log(`PICTURES FAILED: ${e}; the run goes on with the next song`);
   }
-  await makeAllScenes(undefined, Date.now() + hours * 3600_000);
 }
 
 function claimNext(fromEnd: boolean, skip: Set<string>): { id: string; tip: string } | undefined {
@@ -612,10 +619,17 @@ if (command === 'run') {
   let sheets = Promise.resolve();
   // Changed songs and new songs take turns, so a big catalog change does not hold the new songs back.
   let remadeLast = false;
+  // Pictures come after a song YuE made in this run, never before the first one.
+  let picturesDue = false;
   for (;;) {
     await stopForNewCode(sheets);
+    if (picturesDue) {
+      picturesDue = false;
+      await yieldGpu();
+      await pictures(PICTURES_PER_SONG);
+      await stopForNewCode(sheets);
+    }
     await yieldGpu();
-    await pictures(PICTURE_HOURS);
     // This machine's songs whose catalog request changed (a new form or style), every other song.
     const changed = remadeLast ? undefined : changedRequest(failed);
     if (changed) {
@@ -623,6 +637,7 @@ if (command === 'run') {
       await remake(changed);
       failed.add(changed);
       remadeLast = true;
+      picturesDue = true;
       continue;
     }
     remadeLast = false;
@@ -634,6 +649,7 @@ if (command === 'run') {
     }
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);
+    picturesDue = true;
     if (!lock) {
       failed.add(next.id);
       continue;

@@ -3,7 +3,7 @@
  * Generate catalog songs on several machines at once without making any song twice.
  *
  * Every song has a lock on GitHub: the ref refs/claims/<id>, a chain of empty commits. Each commit's subject is
- * the song's state (`claimed`, `alive`, `done`, `failed`, `released`, `rejected`, `aside`, `retry`) and its
+ * the song's state (`claimed`, `alive`, `done`, `failed`, `released`, `rejected`, `aside`, `retry`, `remake`) and its
  * body names the machine; its committer date is the last sign of life. Taking a song pushes a commit to that ref without force, so GitHub
  * accepts it only if the ref is still where this machine saw it (missing, or at the stale or released commit it
  * builds on): of two machines that ask at the same time, one push is rejected. While a song generates, the
@@ -16,6 +16,9 @@
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
  *   bun scripts/generate.ts rejudge <id>       judge a set-aside song's kept takes again, keep the first that passes
+ *   bun scripts/generate.ts remake <id>        make one song again the same way, also one that is done or set
+ *                                              aside (after its request changed); a done song whose new take
+ *                                              does not pass keeps its old take
  *
  * Before a song gets its sheets, scripts/lyrics-check.ts judges whether the singing delivers its lyrics. A song
  * sung as written is kept; one sung differently but as good lyrics is kept with the lyrics as sung
@@ -46,8 +49,8 @@ const ASIDE = path.join(REPO, 'aside');
 const SUNG_LYRICS = 'lyrics-sung.txt';
 
 // rejected: the lyrics check failed and the song is free to make again; aside: it failed MAX_ATTEMPTS times;
-// retry: put back by hand after being set aside.
-type State = 'claimed' | 'alive' | 'done' | 'failed' | 'released' | 'rejected' | 'aside' | 'retry';
+// retry: put back by hand after being set aside; remake: taken by `remake`, held like `claimed`.
+type State = 'claimed' | 'alive' | 'done' | 'failed' | 'released' | 'rejected' | 'aside' | 'retry' | 'remake';
 type Outcome = 'done' | 'failed' | 'rejected' | 'aside';
 type Claim = { id: string; sha: string; state: State; machine: string; time: number };
 
@@ -176,11 +179,11 @@ function commitAndPush(paths: string, subject: string) {
   if (r.exitCode !== 0) log(`PUSH FAILED ${subject} to ${branch}: ${r.stderr.toString().trim()}`);
 }
 
-/** Rejections in the song's lock: all of them (each attempt gets its own seed), and since it was last put back. */
+/** Rejections in the song's lock: all of them (each attempt gets its own seed), and since it was last put back or remade. */
 function rejections(id: string): { total: number; sinceRetry: number } {
   if (!git('for-each-ref', `${NS}/${id}`).trim()) return { total: 0, sinceRetry: 0 };
   const subjects = git('log', '--format=%s', `${NS}/${id}`).split('\n');
-  const retry = subjects.findIndex((s) => s.startsWith('retry '));
+  const retry = subjects.findIndex((s) => s.startsWith('retry ') || s.startsWith('remake '));
   const count = (list: string[]) => list.filter((s) => s.startsWith('rejected ')).length;
   return { total: count(subjects), sinceRetry: count(retry < 0 ? subjects : subjects.slice(0, retry)) };
 }
@@ -191,8 +194,10 @@ function rejections(id: string): { total: number; sinceRetry: number } {
  */
 function reject(id: string, verdict: Verdict): 'rejected' | 'aside' {
   const { total, sinceRetry } = rejections(id);
-  const kept = path.join(OUTPUTS, `${id}-rejected-${total + 1}`);
-  rmSync(kept, { recursive: true, force: true });
+  // The take that set a song aside is not a `rejected` commit, so after a retry or remake the next number can
+  // already be taken: never reuse a kept take's folder.
+  const numbers = readdirSync(OUTPUTS).map((d) => d.startsWith(`${id}-rejected-`) ? Number(d.slice(id.length + 10)) || 0 : 0);
+  const kept = path.join(OUTPUTS, `${id}-rejected-${Math.max(total, ...numbers) + 1}`);
   renameSync(path.join(OUTPUTS, id), kept);
   const sheets = path.join(REPO, 'sheets', id);
   if (existsSync(path.join(sheets, 'whisper.json'))) renameSync(path.join(sheets, 'whisper.json'), path.join(kept, 'whisper.json'));
@@ -262,8 +267,11 @@ class Lock {
 const held = new Set<Lock>();
 const children = new Set<ReturnType<typeof Bun.spawn>>();
 
-/** Generate one claimed song; its lock comes back while the song still needs its sheets. */
-async function generate(id: string, tip: string): Promise<Lock | undefined> {
+/**
+ * Generate one claimed song; its lock comes back while the song still needs its sheets. A failed generation is
+ * recorded as `failState`.
+ */
+async function generate(id: string, tip: string, failState: State = 'failed'): Promise<Lock | undefined> {
   const batch = path.join(YUE, 'requests', `${id}.jsonl`);
   if (Bun.spawnSync(['bun', 'scripts/build-batch.ts', batch, id], { cwd: REPO }).exitCode !== 0) throw new Error(`build-batch ${id}`);
   // The same seed makes the same song, so each attempt after a rejected one gets the next seed.
@@ -290,7 +298,7 @@ async function generate(id: string, tip: string): Promise<Lock | undefined> {
   if (lock.lost) return;
   if (code !== 0 || !isComplete(id)) {
     log(`GENERATION FAILED ${id} (exit ${code}, see ${logFile})`);
-    lock.end('failed');
+    lock.end(failState);
     return;
   }
   const seconds = Math.round(JSON.parse(readFileSync(path.join(OUTPUTS, id, 'result.json'), 'utf8')).audio_seconds);
@@ -465,7 +473,65 @@ if (command === 'run') {
     commitAndPush(path.join('aside', `${id}.json`), `${id} taken out of aside: ${kept} kept under the current lyrics check`);
   }
   console.log(`${id}: kept ${kept}`);
+} else if (command === 'remake' && args[0]) {
+  // One song made again the same way as in `run`, for a song whose request changed in the catalog. Its current
+  // take is kept beside it; a done song whose new take does not pass gets that take back and stays done, so what
+  // is published never goes away and no other machine makes it again from its own, older catalog.
+  const id = args[0];
+  const c = readClaims().get(id);
+  if (c && !isFree(c) && c.state !== 'done' && c.state !== 'aside') {
+    console.log(`${c.state} ${id} by ${c.machine}`);
+    process.exit(1);
+  }
+  const notReady = await judgeReady();
+  if (notReady) throw new Error(notReady);
+  const r = push(id, c?.sha, 'remake');
+  if (r.result !== 'ok') {
+    console.log(`${r.result} ${id}: ${r.detail}`);
+    process.exit(1);
+  }
+  log(`REMAKE ${id} on ${MACHINE}`);
+  const song = path.join(OUTPUTS, id);
+  const previous = c?.state === 'done' && isComplete(id) ? `${song}-replaced` : undefined;
+  if (previous) {
+    rmSync(previous, { recursive: true, force: true });
+    renameSync(song, previous);
+  }
+  // Put the old take back; a new take still in the song folder moves to <id>-remake-failed.
+  const restore = () => {
+    if (!previous) return;
+    if (existsSync(song)) {
+      rmSync(`${song}-remake-failed`, { recursive: true, force: true });
+      renameSync(song, `${song}-remake-failed`);
+    }
+    renameSync(previous, song);
+    Bun.spawnSync(['git', 'checkout', 'HEAD', '--', path.join('sheets', id)], { cwd: REPO });
+    log(`REMAKE ${id}: the new take did not pass, the old take is kept`);
+  };
+  const stop = () => {
+    for (const child of children) child.kill();
+    restore();
+    for (const lock of held) lock.end(previous ? 'done' : 'released');
+    process.exit(1);
+  };
+  process.on('SIGINT', stop);
+  process.on('SIGTERM', stop);
+  const lock = await generate(id, r.sha!, previous ? 'done' : 'failed');
+  if (!lock) {
+    restore();
+    process.exit(1);
+  }
+  let result: Outcome = 'failed';
+  try {
+    result = await finish(id, true);
+  } catch (e) {
+    log(`FINISH FAILED ${id}: ${e}`);
+  }
+  if (result !== 'done') restore();
+  await lock.settle(result !== 'done' && previous ? 'done' : result);
+  log(`REMAKE ${id}: ${result}`);
+  process.exit(result === 'done' ? 0 : 2);
 } else {
-  console.error('Usage: bun scripts/generate.ts run [--from-end] | status | claim <id> | retry <id> | rejudge <id>');
+  console.error('Usage: bun scripts/generate.ts run [--from-end] | status | claim <id> | retry <id> | rejudge <id> | remake <id>');
   process.exit(1);
 }

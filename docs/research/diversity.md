@@ -18,7 +18,9 @@ worse? Every number below says where it comes from. "Not known" means the source
 - Recommended order, best gain against risk first: **form from the text** (litany, then strophic psalms
   without a bridge), **meter**, **key and mode**, **voice setup**, then **tempo** and **lyrical devices**.
   Each one is tried first on a small group of `remake`s with one change each (see Test plan).
-- **Psalm 136 as a litany:** see the last section.
+- **Psalm 136 as a litany:** `correct` on the first try, after three wrong takes in the verse–chorus form.
+  Every line sits on its notes (27 of 27, against 0 of 29 in the take it replaces). The last section has the
+  details.
 
 ## 1. What YuE2 handles well
 
@@ -113,11 +115,11 @@ over SSH from here. The lyrics check started 2026-10-29 16:14, and `adopt` at 22
 Also in `info.json`: Whisper finds 82.4 % of the lyric lines on their notes in these 95 songs, and hears 97.3 %
 of the words.
 
-**Why takes fail** (the 7 on the M5): Psalm 136 three times (a line skipped right before the chorus; a chorus
+**Why takes fail** (the 8 wrong takes made on the M5; the Home Mac's 5 were not readable from here): Psalm 136 three times (a line skipped right before the chorus; a chorus
 missing and the next line garbled; the refrain sung as "can do forever"), a proper name sung as other words twice
 (theme-bonn-soul: "Hannah" → "And I"), the outro dropped once (theme-glede-pop), a whole fourth verse after the
 bridge skipped once (person-jesaja-orchestral), and one `unsure` on a repeated word (verse-40-5-13-children). So
-four of seven come from the form: a chorus that repeats the end of a verse, and text placed after the bridge.
+five of eight come from the form: a chorus that repeats the end of a verse, and text placed after the bridge.
 
 **By group,** since the lyrics check (few songs each, so these only show that no group is far off):
 
@@ -141,7 +143,7 @@ is a `remake` of a song that exists, so the old take lies beside it (`<id>-repla
 
 | # | axis | gain | risk to quality | why |
 |---|---|---|---|---|
-| 1 | **Form from the text**: litany where the text has a refrain (Psalm 136, 118:1–4), strophic psalms and hymns (verses, no chorus, no bridge), ballad for stories (verses that move the story, a short refrain at most) | high: the most uniform axis (100 % chorus) and the one listeners notice first | low to negative: four of seven wrong takes come from the form we force today; fewer sections after the bridge removes the place where verses get skipped | Psalm 136 test below |
+| 1 | **Form from the text**: litany where the text has a refrain (Psalm 136, 118:1–4), strophic psalms and hymns (verses, no chorus, no bridge), ballad for stories (verses that move the story, a short refrain at most) | high: the most uniform axis (100 % chorus) and the one listeners notice first | low to negative: five of eight wrong takes on the M5 come from the form we force today; fewer sections after the bridge removes the place where verses get skipped | Psalm 136 test below |
 | 2 | **Meter**: 3/4 and 6/8 in the style line for hymns, celtic, lullabies, gospel 12/8 | high: 90 % duple today | not known: meter is not one of the dimensions YuE2 is tested on. YuE2 did write 3/4 and 6/8 unasked in 8 of 84 songs, and those 7 judged songs needed 1.29 tries | test group needed |
 | 3 | **Key and mode**: a key in the style line ("in D minor"), minor for laments and penitential psalms | medium: half the songs sit in B♭ or E♭, 24 % minor | low: key is one of the seven tested dimensions; score key agreement 0.93 | |
 | 4 | **Voice setup**: more female leads, duets for dialogues (Ruth and Naomi, the annunciation), call and response for psalms with responses, choir alone for hymns, children's choir | medium | low to medium: voice setup is a tested dimension. Duet and choir songs need 1.20 and 1.26 tries against 1.14 overall (few songs). A duet that swaps lines can read as a repeat to the judge | |
@@ -179,4 +181,21 @@ verses stay; every line is now answered by "His steadfast love endures forever",
 outro. `validate-catalog` checks that every line in a litany is answered by its refrain (`scripts/lyrics-form.ts`,
 tests in `scripts/lyrics-form.test.ts`); without a form, the chorus rule is as before.
 
-Result: PENDING
+It was made once with `bun scripts/generate.ts remake chapter-19-136-gospel` on the M5 on 2026-10-30, between
+the generator's songs (started 10:30 at 58 % CPU idle with no model in Ollama, done 12:07; `MUSIC_MACHINE` "M5
+(MacBook Pro, M5 Max, 128 GB), litany test"). The lock shows `remake` 10:30:34 and `done` 12:07:15.
+
+| | verse–chorus form (before) | litany (now) |
+|---|---|---|
+| takes | 3 wrong (seeds 20131–20133), set aside; take 1 kept later as `adopt` by `rejudge` | 1 (seed 20133) |
+| lyrics check | take 1: moon-and-stars line skipped before the chorus; take 2: chorus missing, next line garbled; take 3: refrain heard as "can do forever" | `correct`, no problems ("Every requested line is present … in order"; only "water"/"light" for the plurals, which are fine) |
+| lines on their notes (`info.json`, `lyricsOnNotes`) | 0 of 29 (the kept take 1) | 27 of 27 |
+| words heard | 171 of 175 | 169 of 169 |
+| length | 2:17 | 2:56 |
+| key, meter, tempo | E♭, 4/4, 100 | E♭, 4/4, 100 |
+
+YuE2 still gave the plan a shape of its own: its score marks the four `[Verse]` blocks as verse, chorus, verse,
+chorus, with an intro and an outro. So the planner makes its own contrast between blocks even when the lyrics
+have no chorus. The old take lies in `YuE/outputs/catalog/chapter-19-136-gospel-replaced/` on the M5, for
+listening side by side. The new take is in `library/` and goes out with the publisher. One song is not a group:
+group A in the test plan needs the further litanies before `litany` counts as no worse than the standard form.

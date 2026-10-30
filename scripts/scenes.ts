@@ -253,18 +253,18 @@ export function withoutScenes(library = path.join(MAIN, 'library')): string[] {
 }
 
 /**
- * Pictures for every song that lacks them, one song at a time, starting no song after `until` (ms since 1970);
- * a song that fails is logged and skipped.
+ * Pictures for every song that lacks them, one song at a time, starting no song after `until` (ms since 1970)
+ * and trying at most `max` songs; a song that fails is logged and skipped.
  */
 const failedHere = new Set<string>();
-export async function makeAllScenes(folders = withoutScenes(), until = Infinity) {
-  for (const folder of folders.filter((f) => !failedHere.has(f))) {
+export async function makeAllScenes(folders = withoutScenes(), until = Infinity, max = Infinity) {
+  for (const folder of folders.filter((f) => !failedHere.has(f)).slice(0, max)) {
     if (Date.now() > until) return;
     try {
       await makeScenes(folder);
     } catch (e) {
       failedHere.add(folder); // tried again when the run starts again, not between every song
-      log(`PICTURES FAILED ${path.basename(folder)}: ${e}`);
+      log(`PICTURES FAILED ${path.basename(folder)}: ${e}; skipped until the next run`);
     }
   }
 }

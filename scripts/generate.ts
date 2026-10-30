@@ -224,7 +224,7 @@ function takeQuality(verdict: Verdict | undefined, alignment: string) {
 function commitAndPush(paths: string, subject: string) {
   git('add', '-A', paths);
   if (!git('diff', '--cached', '--name-only').trim()) return;
-  git('commit', '-q', '-m', subject, '-m', 'Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>');
+  git('commit', '-q', '-m', subject);
   // Another machine may push in between: pull and push again.
   let detail = '';
   for (let attempt = 0; attempt < 3; attempt++) {

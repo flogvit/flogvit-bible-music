@@ -18,7 +18,7 @@
  *   bun scripts/generate.ts rejudge <id>       judge a set-aside song's kept takes again, keep the first that passes
  *   bun scripts/generate.ts remake <id>        make one song again the same way, also one that is done or set
  *                                              aside (after its request changed); a done song whose new take
- *                                              does not pass keeps its old take
+ *                                              does not pass, or is not as good, keeps its old take
  *
  * Before a song gets its sheets, scripts/lyrics-check.ts judges whether the singing delivers its lyrics. A song
  * sung as written is kept; one sung differently but as good lyrics is kept with the lyrics as sung
@@ -128,9 +128,12 @@ const sheetsPriority = efficiencyCores < 4 ? ['nice', '-n', '20'] : ['taskpolicy
 /**
  * For a song whose audio is done: Whisper listens, the lyrics check judges what it heard (or `given`, a verdict
  * already made), and a song that is kept, with its lyrics as written or as sung, gets its sheets, library folder
- * and sheets commit. A broken song is rejected or set aside.
+ * and sheets commit. A broken song is rejected or set aside. With `accept` (remake), a take that passes but that
+ * `accept` finds worse than the one it replaces gets no library folder or commit: 'worse'.
  */
-async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outcome> {
+async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outcome>;
+async function finish(id: string, fresh: boolean, given: Verdict | undefined, accept: (v: Verdict) => boolean): Promise<Outcome | 'worse'>;
+async function finish(id: string, fresh: boolean, given?: Verdict, accept?: (v: Verdict) => boolean): Promise<Outcome | 'worse'> {
   const songDir = path.join(OUTPUTS, id);
   const sheets = path.join(REPO, 'sheets', id);
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
@@ -161,6 +164,7 @@ async function finish(id: string, fresh: boolean, given?: Verdict): Promise<Outc
       return 'failed';
     }
   }
+  if (accept && !accept(verdict)) return 'worse';
   const env = { MUSIC_MACHINE: MACHINE, FREE_BIBLE: process.env.FREE_BIBLE ?? path.join(path.dirname(MAIN), 'free-bible') };
   if (await run(['python3', 'scripts/build-library.py', songDir], REPO, logFile, env).exited !== 0) {
     log(`LIBRARY FAILED ${id} (see ${logFile})`);
@@ -195,6 +199,21 @@ async function stopForNewCode(pending: Promise<void>) {
   await pending;
   log(`RUN RESTART: ${BRANCH} has new code (${CODE.join(', ')}); launchd starts it again within 10 minutes`);
   process.exit(0);
+}
+
+/**
+ * How good a kept take is, for `remake`: its lyrics check (a take from before the check counts as correct) and
+ * the share of its lines Whisper found on their notes (sheets/<id>/alignment.json).
+ */
+function takeQuality(verdict: Verdict | undefined, alignment: string) {
+  const rank = !verdict || outcome(verdict) === 'ok' ? 2 : outcome(verdict) === 'adopt' ? 1 : 0;
+  let lines: { uncertain?: boolean }[] = [];
+  try {
+    lines = JSON.parse(alignment).lines ?? [];
+  } catch {}
+  const onNotes = lines.filter((l) => !l.uncertain).length;
+  const share = lines.length ? onNotes / lines.length : 0;
+  return { rank, share, text: `${['wrong', 'adopt', 'correct'][rank]}, ${onNotes} of ${lines.length} lines on their notes` };
 }
 
 function commitAndPush(paths: string, subject: string) {
@@ -546,7 +565,7 @@ if (command === 'run') {
     }
     renameSync(previous, song);
     Bun.spawnSync(['git', 'checkout', 'HEAD', '--', path.join('sheets', id)], { cwd: REPO });
-    log(`REMAKE ${id}: the new take did not pass, the old take is kept`);
+    log(`REMAKE ${id}: the old take is kept (the new one is in ${song}-remake-failed)`);
   };
   const stop = () => {
     for (const child of children) child.kill();
@@ -561,9 +580,21 @@ if (command === 'run') {
     restore();
     process.exit(1);
   }
-  let result: Outcome = 'failed';
+  // The new take replaces the old only when it is at least as good: as good a lyrics check (correct before
+  // adopt), and as large a share of its lines on their notes.
+  const old = previous && takeQuality(
+    existsSync(path.join(previous, 'lyrics-check.json')) ? JSON.parse(readFileSync(path.join(previous, 'lyrics-check.json'), 'utf8')) : undefined,
+    Bun.spawnSync(['git', 'show', `HEAD:sheets/${id}/alignment.json`], { cwd: REPO }).stdout.toString(),
+  );
+  const accept = (v: Verdict) => {
+    const now = takeQuality(v, readFileSync(path.join(REPO, 'sheets', id, 'alignment.json'), 'utf8'));
+    const better = !old || (now.rank >= old.rank && now.share >= old.share);
+    log(`REMAKE ${id}: new take ${now.text}, old take ${old ? old.text : 'none'}: ${better ? 'the new one is kept' : 'the old one is kept'}`);
+    return better;
+  };
+  let result: Outcome | 'worse' = 'failed';
   try {
-    result = await finish(id, true);
+    result = previous ? await finish(id, true, undefined, accept) : await finish(id, true);
   } catch (e) {
     log(`FINISH FAILED ${id}: ${e}`);
   }

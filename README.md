@@ -180,9 +180,12 @@ GitHub missed one. `retry` adds a `retry` commit; rejections before it no longer
 When a song's request changes in the catalog (a new form, style or lyrics), `remake` makes it again on this
 machine the same way `run` does: generation, lyrics check, sheets, library and the sheets commit. It takes the
 song also when it is done or set aside, as a `remake` commit (held like `claimed`, and the attempts count from
-there). The current take moves to `YuE/outputs/catalog/<id>-replaced/`, to compare with. If the new take does not
-pass, a done song gets its old take back and stays done, so the published song stays and no other machine makes it
-again from its own catalog. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
+there). The current take moves to `YuE/outputs/catalog/<id>-replaced/`, to compare with. The new take replaces it
+only when it is at least as good: its lyrics check at least as good (`correct` before `adopt`; a take from before
+the check counts as `correct`) and at least as large a share of its lines on their notes (`alignment.json`). The
+log line `REMAKE <id>: new take …, old take …` gives both. Otherwise, or if the new take does not pass, a done song
+gets its old take back and stays done, the new take lies in `<id>-remake-failed/`, and nothing is committed or
+published, so the published song stays and no other machine makes it again from its own catalog. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
 own (a generator on the same machine name would otherwise finish the song too when it restarts). On a Mac that
 is also generating, start it when `top -l 2 -n 0 -s 2` shows at least 25 % idle and `ollama ps` shows no model.
 

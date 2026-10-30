@@ -46,8 +46,9 @@ Each picture is one quiet photograph, described in 20 to 40 words of plain Engli
   Near East. Nothing modern.
 - People and animals may be in a picture when the words call for them, but not in most: few of them, seen at a
   distance, from behind, at the edge or in part (hands, a figure on a path), going about their life, never posing
-  or looking at the camera, never a face close up. Never God as a person; Jesus only from behind or far away,
-  with no halo.
+  or looking at the camera, never a face close up. Say what they wear: simple robes, tunics and head cloths of
+  the time (the image model dresses people in today's clothes otherwise). Never God as a person; Jesus only from
+  behind or far away, with no halo.
 - No writing, letters or signs. No crosses or church symbols unless the line is about the cross.
 - Say what is in the picture, where, and the light and time of day. Not the camera or film; that is added.
 - A chorus that comes back gets the exact same description as the first time, so it shows the same picture.

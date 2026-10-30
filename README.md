@@ -31,6 +31,17 @@ The lyrics check needs [Ollama](https://ollama.com) running (`brew install --cas
 `scripts/generate.ts run` pulls the judge model (`qwen3.8:27b`, 17 GB) the first time, and does not start
 without it.
 
+The pictures for the big screen (see Pictures for the big screen) need their own environment with
+[mflux](https://github.com/filipstrand/mflux):
+
+```bash
+uv venv --python 3.12 .venv-images
+uv pip install --python .venv-images/bin/python mflux==0.24.0
+```
+
+The first picture downloads Z-Image Turbo (31 GB) into the Hugging Face cache, and Ollama pulls `qwen3-vl:8b`
+(6 GB). Without `.venv-images`, `generate.ts run` says so and makes songs without pictures.
+
 ### What the patch changes
 
 - `pyproject.toml` installs **torch 2.14.1 on macOS** (upstream pins 2.10.0 for everyone). torch 2.10's Apple GPU
@@ -129,7 +140,9 @@ the singing delivers its lyrics (see Lyrics check), makes its sheets and `librar
 remakes this machine's songs whose catalog request changed (see remake below), and when fewer than 4 songs are
 free it writes the next portion of the catalog (see The catalog grows by itself), so it does not run out. It
 starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default `mlx_video`)
-or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. It can run from a worktree; `YuE/`,
+or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. Between songs, while the GPU is free, it makes the pictures for the big screen for
+the songs in `library/` that have none, at most an hour at a time (see Pictures for the big screen). It can run
+from a worktree; `YuE/`,
 `.venv-sheets` and `library/` are found in the main checkout. Before it takes new songs, it finishes the songs
 already made on this machine (sheets and library if they are missing) and marks them done. Its log goes to the
 terminal, and each song's own output to `YuE/outputs/catalog/<id>-run.log`. Stop it with Ctrl-C (or `kill`):
@@ -245,6 +258,37 @@ bun test scripts                                # the judge on a real doubled ch
 per song on an M5 Max, more when the Mac is busy; it works while the next song generates. Ollama unloads the
 model after each song, so YuE gets the memory back. The judge runs in Ollama's own process, so `taskpolicy -b`
 does not reach it.
+
+### Pictures for the big screen
+
+Every song gets pictures for the screen view of music.flogvit.com: one quiet photograph per part of the song,
+shown behind the lyrics (`library/<id>/scenes.json` and `scenes/*.webp`; see Library). `scripts/scenes.ts`
+makes them in three steps:
+
+1. A local LLM (`qwen3.8:27b`, the judge's model) reads the song's parts with numbered lines and describes one
+   photograph per part, from the concrete image in its lines (a mood landscape for abstract ones), and the line
+   it begins at. The rules: simple and clean, one subject; the world of the Bible, nothing modern; people and
+   animals only where the words call for them, few, at a distance or from behind, never posing or close up;
+   never God as a person, and Jesus only from behind or far away; no writing; a chorus that comes back gets the
+   same picture; each picture stays up at least two lines. The answer is kept in `scenes/plan.json`.
+2. Z-Image Turbo (mflux, 8-bit, 9 steps) makes each picture at 1920×1088 with the same film look, cut to
+   1920×1080 WebP.
+3. A vision model (`qwen3-vl:8b`) looks at each picture: writing, something modern, a broken body or object, or
+   someone posing makes it try the next seed, three times at most. A picture that never passes is left out, and
+   the one before it stays up longer.
+
+`scenes.json` is written last, so `publish-auto.sh` sees a new file and publishes the song again with its
+pictures. Pictures are not made while YuE generates on the same Mac (both need the GPU and much memory): the
+script waits for it. A song whose pictures fail is tried again when the run starts again. On an M5 Max one picture takes about a minute (measured), a song with five parts 5–8
+minutes with the checks.
+
+```bash
+bun scripts/scenes.ts library/<id>                 # one song, if it has no scenes.json
+bun scripts/scenes.ts --all                        # every song in library/ without pictures
+rm -r library/<id>/scenes library/<id>/scenes.json # to make a song's pictures again from scratch
+```
+
+`MUSIC_SCENES_MODEL` and `MUSIC_LOOK_MODEL` choose other Ollama models.
 
 ### Single songs or your own batch
 

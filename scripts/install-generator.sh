@@ -26,9 +26,9 @@ repo=${0:A:h:h}
 bun=$(command -v bun) || { echo "bun not found" >&2; exit 1; }
 python=$(command -v python3) || { echo "python3 not found" >&2; exit 1; }
 args=${1:+<string>$1</string>}
-# The lyrics check's settings (README, Lyrics check), passed on when set here.
+# The lyrics check's and the pictures' settings (README), passed on when set here.
 extra=
-for key in MUSIC_MAX_ATTEMPTS MUSIC_JUDGE_MODEL MUSIC_NICE; do
+for key in MUSIC_MAX_ATTEMPTS MUSIC_JUDGE_MODEL MUSIC_NICE MUSIC_SCENES_MODEL MUSIC_LOOK_MODEL; do
   [[ -n ${(P)key:-} ]] && extra+="
     <key>$key</key><string>${(P)key}</string>"
 done

@@ -173,12 +173,18 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   // The pictures for the big screen: scenes.json, and once each the images it names.
   if (existsSync(join(folder, "scenes.json"))) {
     const scenes: Scene[] = JSON.parse(readFileSync(join(folder, "scenes.json"), "utf8"));
-    for (const image of new Set(scenes.map((s) => s.image))) {
-      const type = `image/${image.split(".").pop()!.replace("jpg", "jpeg")}`;
-      if (await sink.put(`${base}/${image}`, readFileSync(join(folder, image)), type)) written++;
+    const images = [...new Set(scenes.map((s) => s.image))];
+    const missing = images.filter((image) => !existsSync(join(folder, image)));
+    if (missing.length) {
+      console.warn(`${info.id}: scenes.json names pictures that are not there (${missing.join(", ")}); published without them`);
+    } else {
+      for (const image of images) {
+        const type = `image/${image.split(".").pop()!.replace("jpg", "jpeg")}`;
+        if (await sink.put(`${base}/${image}`, readFileSync(join(folder, image)), type)) written++;
+      }
+      if (await sink.put(`${base}/scenes.json`, json(scenes), "application/json")) written++;
+      files.scenes = `${base}/scenes.json`;
     }
-    if (await sink.put(`${base}/scenes.json`, json(scenes), "application/json")) written++;
-    files.scenes = `${base}/scenes.json`;
   }
   if (!opt.out && existsSync(join(folder, "audio.flac"))) {
     if (await sink.put(`masters/${base}/audio.flac`, readFileSync(join(folder, "audio.flac")), "audio/flac", { cold: true })) written++;

@@ -14,7 +14,8 @@
  *                                              make its sheets and library folder, mark it done, and repeat;
  *                                              first remake this machine's songs whose catalog request (style,
  *                                              lyrics, cot, abc) changed; with few songs free, write the next
- *                                              portion of the catalog (scripts/catalog-write.ts)
+ *                                              portion of the catalog (scripts/catalog-write.ts); between songs,
+ *                                              pictures (scripts/scenes.ts) for library songs without them
  *   bun scripts/generate.ts status            every song in catalog/order.txt with its state
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
@@ -33,6 +34,7 @@ import { hostname } from 'os';
 import path from 'path';
 import { writeNext } from './catalog-write';
 import { judge, JUDGE_MODEL, judgeReady, outcome, type Verdict } from './lyrics-check';
+import { makeAllScenes, scenesReady } from './scenes';
 
 const REPO = path.join(import.meta.dir, '..');
 // YuE/, .venv-sheets and library/ live in the main checkout, also when this runs from a worktree.
@@ -422,6 +424,23 @@ async function finishLocal() {
   }
 }
 
+/**
+ * Pictures for the big screen (scripts/scenes.ts) for the songs in library/ that have none, between songs while
+ * the GPU is free: at most `hours` at a time, so a Mac with many songs without pictures still makes new songs and
+ * picks up new code. They are extra: a Mac that cannot make them says why once and goes on.
+ */
+const PICTURE_HOURS = 1;
+let noPictures = false;
+async function pictures(hours = Infinity) {
+  const notReady = await scenesReady();
+  if (notReady) {
+    if (!noPictures) log(`NO PICTURES: ${notReady}`);
+    noPictures = true;
+    return;
+  }
+  await makeAllScenes(undefined, Date.now() + hours * 3600_000);
+}
+
 function claimNext(fromEnd: boolean, skip: Set<string>): { id: string; tip: string } | undefined {
   const claims = readClaims();
   const ids = order();
@@ -594,6 +613,7 @@ if (command === 'run') {
   for (;;) {
     await stopForNewCode(sheets);
     await yieldGpu();
+    await pictures(PICTURE_HOURS);
     // First this machine's songs whose catalog request changed (a new form or style), one at a time.
     const changed = changedRequest(failed);
     if (changed) {
@@ -626,6 +646,7 @@ if (command === 'run') {
     });
   }
   await sheets;
+  await pictures();
   log('RUN END: no free songs left');
 } else if (command === 'status') {
   const claims = readClaims();

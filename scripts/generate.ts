@@ -202,7 +202,7 @@ function pull(): boolean {
 async function stopForNewCode(pending: Promise<void>) {
   if (codeVersion() === LOADED) return;
   await pending;
-  log(`RUN RESTART: ${BRANCH} has new code in scripts/; launchd starts it again within 10 minutes`);
+  log(`RUN RESTART: ${BRANCH} has new code in scripts/; launchd starts it again within a minute`);
   process.exit(0);
 }
 
@@ -663,6 +663,9 @@ if (command === 'run') {
   await sheets;
   await pictures();
   log('RUN END: no free songs left');
+  // launchd starts run again a minute after it stops (so new code starts at once); with nothing to do, wait
+  // here so an idle Mac looks for songs every ten minutes.
+  await Bun.sleep(9 * 60_000);
 } else if (command === 'status') {
   const claims = readClaims();
   const now = Date.now() / 1000;

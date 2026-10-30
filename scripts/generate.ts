@@ -196,7 +196,8 @@ function reject(id: string, verdict: Verdict): 'rejected' | 'aside' {
   const { total, sinceRetry } = rejections(id);
   // The take that set a song aside is not a `rejected` commit, so after a retry or remake the next number can
   // already be taken: never reuse a kept take's folder.
-  const numbers = readdirSync(OUTPUTS).map((d) => d.startsWith(`${id}-rejected-`) ? Number(d.slice(id.length + 10)) || 0 : 0);
+  const prefix = `${id}-rejected-`;
+  const numbers = readdirSync(OUTPUTS).map((d) => d.startsWith(prefix) ? Number(d.slice(prefix.length)) || 0 : 0);
   const kept = path.join(OUTPUTS, `${id}-rejected-${Math.max(total, ...numbers) + 1}`);
   renameSync(path.join(OUTPUTS, id), kept);
   const sheets = path.join(REPO, 'sheets', id);

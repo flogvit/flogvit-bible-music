@@ -108,7 +108,14 @@ async function ask<T>(model: string, think: boolean | undefined, system: string,
     }),
   });
   if (!r.ok) throw new Error(`${model}: ${r.status} ${await r.text()}`);
-  return JSON.parse((await r.json() as { message: { content: string } }).message.content) as T;
+  // Ollama 0.32 puts the answer under `thinking` when thinking is off; an empty answer throws, and the caller decides.
+  const { message } = await r.json() as { message: { content: string; thinking?: string } };
+  try {
+    return JSON.parse(message.content) as T;
+  } catch (e) {
+    if (message.thinking?.trim().startsWith('{')) return JSON.parse(message.thinking) as T;
+    throw e;
+  }
 }
 
 /** Can pictures be made here? Pulls the Ollama models once; undefined when ready, else what is missing. */
@@ -203,14 +210,17 @@ im.resize((960, 540)).save(sys.argv[3], quality=85)
 `, png, out, small]);
     rmSync(png, { force: true });
     if (convert.exitCode !== 0) throw new Error(`convert: ${convert.stderr.toString()}`);
-    // Ollama 0.32 with thinking turned off lets qwen3-vl answer under `thinking`, sometimes in prose, and leaves the
-    // answer empty; left to itself it thinks and answers in the format.
-    const look = await ask<Look>(LOOK_MODEL, undefined, LOOK_RULES, `The picture was meant to show: ${description}`, LOOK_SCHEMA,
-      [Buffer.from(readFileSync(small)).toString('base64')]);
+    // The vision model is left to think (Ollama 0.32 with thinking off answers in prose); when it still gives no
+    // answer, it is asked once without thinking, and a picture no answer is had for does not pass.
+    const image = [Buffer.from(readFileSync(small)).toString('base64')];
+    const question = `The picture was meant to show: ${description}`;
+    const look = await ask<Look>(LOOK_MODEL, undefined, LOOK_RULES, question, LOOK_SCHEMA, image)
+      .catch(() => ask<Look>(LOOK_MODEL, false, LOOK_RULES, question, LOOK_SCHEMA, image))
+      .catch(() => null);
     rmSync(small, { force: true });
-    if (!look.writing && !look.modern && !look.broken && !look.posing) return true;
-    const what = (['writing', 'modern', 'broken', 'posing'] as const).filter((k) => look[k]).join(', ');
-    log(`PICTURE AGAIN ${path.basename(out)} seed ${seed + attempt}: ${what} (${look.note})`);
+    if (look && !look.writing && !look.modern && !look.broken && !look.posing) return true;
+    const what = look ? (['writing', 'modern', 'broken', 'posing'] as const).filter((k) => look[k]).join(', ') : 'no answer from the check';
+    log(`PICTURE AGAIN ${path.basename(out)} seed ${seed + attempt}: ${what}${look ? ` (${look.note})` : ''}`);
   }
   rmSync(out, { force: true });
   return false;

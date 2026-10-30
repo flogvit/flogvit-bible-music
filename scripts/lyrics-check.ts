@@ -61,7 +61,8 @@ down what was actually sung, in phrases with start–end seconds. Decide which o
 "adopt": the singing differs from the requested lyrics, but what was sung is itself good, coherent, singable
 lyrics that still say what the requested lyrics say about their Bible passage: a line reworded, a word sung
 as another word that makes sense, an outro or ad-lib sung in other words, a line left out of a list where the
-song still holds together, sections in a slightly different order. The song is kept and its published lyrics
+song still holds together, sections in a slightly different order. A verse line sung twice is never "adopt",
+not even "for emphasis": it is an unintended repeat, below. The song is kept and its published lyrics
 become what was sung. Prefer "adopt" over "wrong" whenever the sung words make sense. Then write the lyrics
 as sung in "sung_lyrics": the requested lyrics with every line changed to what was actually sung, in the same
 section layout ([Verse], [Chorus], ... on their own lines, a blank line between sections), with normal
@@ -70,9 +71,11 @@ capitals and punctuation, keeping the requested wording wherever the difference 
 "wrong": only for a song that is broken:
 - garbled or unintelligible singing: words that are not words, or that make no sense in the line;
 - content lost: a verse, chorus or several lines not sung at all, so that the song no longer says what it is
-  about (one line left out of a list is "adopt");
-- an unintended repeat: a verse line or a whole verse sung again where the structure does not repeat it, in
-  place of the next requested line;
+  about (one line left out of a list, with nothing sung in its place, is "adopt");
+- an unintended repeat: a verse line or a whole verse sung again where the structure does not repeat it, also
+  when every other line is still sung; or any line, a chorus line too, sung twice where another requested line
+  should be. A requested line that is missing while a neighbouring line is sung twice is a repeat that took its
+  place, never a line left out of a list;
 - sung words that change the meaning so that the song misrepresents its Bible passage.
 Before calling a line missing, look at the times: Whisper often writes nothing for a line sung right after the
 same words (a chorus that repeats the end of a verse, a refrain sung twice). When there is a gap in what was
@@ -81,7 +84,8 @@ FINE.
 
 It is FINE, and not a problem to report, when:
 - the chorus, or part of it, is sung more times than written: an extra chorus at the end, a chorus line or
-  hook repeated (a hook sung three times where the lyrics write it twice);
+  hook repeated (a hook sung three times where the lyrics write it twice), as long as every requested line is
+  still sung: a repeat that takes the place of a requested line is wrong;
 - the title line or a hook is echoed as a tag or an ending;
 - Whisper misses or swaps a small word (in, the, a, and, of, to, it/he, him/them), a plural or a contraction,
   or gets punctuation and capital letters wrong;

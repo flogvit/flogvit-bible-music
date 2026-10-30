@@ -103,7 +103,7 @@ async function ask<T>(model: string, think: boolean | undefined, system: string,
     body: JSON.stringify({
       model, stream: false, think, format,
       keep_alive: 0, // give the memory back to the image model and YuE
-      options: { temperature: 0, seed: 1, num_ctx: 8192 },
+      options: { temperature: 0, seed: 1, num_ctx: 16384 }, // a long psalm's thinking does not fit in 8192
       messages: [{ role: 'system', content: system }, { role: 'user', content: user, ...(images ? { images } : {}) }],
     }),
   });
@@ -146,8 +146,11 @@ export async function planOf(folder: string, sung: string[]): Promise<Plan> {
   if (existsSync(file)) return JSON.parse(readFileSync(file, 'utf8'));
   const info = JSON.parse(readFileSync(path.join(folder, 'info.json'), 'utf8'));
   const about = [info.title, info.anchor?.label, info.kind && `(a ${info.kind} song)`].filter(Boolean).join(', ');
-  const answer = await ask<{ scenes: { line: number; description: string }[] }>(SCENES_MODEL, true, PLAN_RULES,
-    `Song: ${about}\n\n${numberedLyrics(info, sung)}`, PLAN_SCHEMA);
+  const question = `Song: ${about}\n\n${numberedLyrics(info, sung)}`;
+  type Answer = { scenes: { line: number; description: string }[] };
+  // Thinking gives better pictures; when it runs out of room and leaves no answer, ask once without it.
+  const answer = await ask<Answer>(SCENES_MODEL, true, PLAN_RULES, question, PLAN_SCHEMA)
+    .catch(() => ask<Answer>(SCENES_MODEL, false, PLAN_RULES, question, PLAN_SCHEMA));
   // One picture per starting line, in order, inside the song, the first from line 0.
   const byLine = new Map<number, string>();
   for (const s of answer.scenes) {

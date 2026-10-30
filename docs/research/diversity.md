@@ -219,3 +219,11 @@ and Psalm 90 as five verses the same: the planner labels every second block a ch
 melody, whatever the lyrics' tags say. Verses only in the lyrics do not make a strophic song. Psalm 90's verses
 are not metrical (4 to 12 syllables a line), and its new take sang every line, but Whisper found only 11 of 20 of
 them on their notes, against all 25 in the verse-chorus take; that take stays.
+
+**A score makes the form.** The cross hymn's strophic take was still planned as two different verse sections
+(16 and 24 bars of 3/4 for five verses). Its own score, cut to one 8-bar verse melody (the 8.6.8.6 verse), was
+written five times between its intro and outro (`strophic_abc`, checked with YuE's `abc_tools inspect`) and given
+back as `request.abc` with `cot: "full"`. YuE followed it: the new take's score is intro, five identical verses,
+outro, 3/4, 2:06. Lyrics check `correct`, 20 of 20 lines on their notes, as good as the strophic take it
+replaced. This is the reference the YuE2 request allows in place of reference audio: a melody, here YuE's own,
+which fixes the form, the meter and the tune of every verse.

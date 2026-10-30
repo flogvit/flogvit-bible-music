@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-16-8-jazz",
+  "title": "The Lord Always Before Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 16,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 16,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, female solo voice with warm tone, brushed snare, upright bass, piano, saxophone, muted trumpet, smoky intimate mood, 90 BPM",
+    "lyrics": "[Verse]\nI hold my lot secure in your hand\nMy portion is your grace, my cup filled\nThe boundary lines fell in pleasant places\nA beautiful inheritance, so true\n\n[Chorus]\nI have set the Lord always before me\nHe is at my right hand, I will not be shaken\n\n[Verse]\nI bless the Lord who counsels my soul\nAt night my inmost being is instructed\nMy heart is glad and my glory rejoices\nMy body rests secure in your keeping\n\n[Chorus]\nI have set the Lord always before me\nHe is at my right hand, I will not be shaken\n\n[Bridge]\nYou will not abandon my soul to the grave\nNor let your faithful one see decay\nYou make known to me the path of life\nIn your presence there is fullness of joy\n\n[Chorus]\nI have set the Lord always before me\nHe is at my right hand, I will not be shaken\n\n[Outro]\nAt your right hand are pleasures forevermore\nThe Lord is my portion and my cup",
+    "cot": "full",
+    "seed": 20172
+  }
+}

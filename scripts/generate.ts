@@ -12,8 +12,9 @@
  * Usage:
  *   bun scripts/generate.ts run [--from-end]   finish local songs, then take the next free song, generate it,
  *                                              make its sheets and library folder, mark it done, and repeat;
- *                                              when no song is free, remake this machine's songs whose catalog
- *                                              request (style, lyrics, cot, abc) changed since they were made
+ *                                              first remake this machine's songs whose catalog request (style,
+ *                                              lyrics, cot, abc) changed; with few songs free, write the next
+ *                                              portion of the catalog (scripts/catalog-write.ts)
  *   bun scripts/generate.ts status            every song in catalog/order.txt with its state
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
@@ -30,6 +31,7 @@
 import { existsSync, mkdirSync, openSync, readdirSync, readFileSync, renameSync, rmSync, statSync, writeFileSync } from 'fs';
 import { hostname } from 'os';
 import path from 'path';
+import { writeNext } from './catalog-write';
 import { judge, JUDGE_MODEL, judgeReady, outcome, type Verdict } from './lyrics-check';
 
 const REPO = path.join(import.meta.dir, '..');
@@ -179,8 +181,7 @@ async function finish(id: string, fresh: boolean, given?: Verdict, accept?: (v: 
 // Sheets go to this branch, and the machine runs its code: main, from a detached worktree (README, Generate).
 const BRANCH = process.env.MUSIC_SHEETS_BRANCH || git('branch', '--show-current').trim() || 'main';
 // The code this run loaded; when the branch brings another version, the run stops and launchd starts the new one.
-const CODE = ['scripts/generate.ts', 'scripts/lyrics-check.ts', 'scripts/lyrics-form.ts'];
-const codeVersion = () => git('rev-parse', ...CODE.map((f) => `HEAD:${f}`));
+const codeVersion = () => git('rev-parse', 'HEAD:scripts');
 const LOADED = codeVersion();
 
 /** Brings in what other machines and sessions pushed to the branch, with this checkout's own commits on top. */
@@ -199,7 +200,7 @@ function pull(): boolean {
 async function stopForNewCode(pending: Promise<void>) {
   if (codeVersion() === LOADED) return;
   await pending;
-  log(`RUN RESTART: ${BRANCH} has new code (${CODE.join(', ')}); launchd starts it again within 10 minutes`);
+  log(`RUN RESTART: ${BRANCH} has new code in scripts/; launchd starts it again within 10 minutes`);
   process.exit(0);
 }
 
@@ -359,6 +360,51 @@ async function generate(id: string, tip: string, failState: State = 'failed'): P
   const seconds = Math.round(JSON.parse(readFileSync(path.join(OUTPUTS, id, 'result.json'), 'utf8')).audio_seconds);
   log(`SONG DONE ${id} ${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, '0')}`);
   return lock;
+}
+
+// When fewer songs than this are free, the catalog gets its next portion from free-bible (scripts/catalog-write.ts).
+const LOW_WATER = 4;
+const PORTION = Number(process.env.MUSIC_CATALOG_PORTION ?? 10);
+// Held by the machine writing a portion, so two machines never write the same songs.
+const CATALOG_LOCK = '_catalog';
+
+/** Few songs left: one machine writes the next portion of the catalog and pushes it, and every machine pulls it. */
+async function refillCatalog(pending: Promise<void>) {
+  const claims = readClaims();
+  const free = order().filter((id) => isFree(claims.get(id)) && !isComplete(id)).length;
+  const c = claims.get(CATALOG_LOCK);
+  if (free >= LOW_WATER || !isFree(c)) return;
+  const r = push(CATALOG_LOCK, c?.sha, 'claimed');
+  if (r.result !== 'ok') return;
+  const lock = new Lock(CATALOG_LOCK, r.sha!, () => {});
+  try {
+    // The last song's sheets commit first, so two commits never share the checkout.
+    await pending;
+    pull();
+    log(`CATALOG ${free} songs free, writing ${PORTION} more`);
+    const written = await writeNext(PORTION);
+    if (written.length) commitAndPush('catalog', `Catalog: ${written.length} songs from free-bible, written on ${MACHINE}`);
+    log(`CATALOG ${written.length} songs written`);
+  } catch (e) {
+    log(`CATALOG FAILED: ${e}`);
+  } finally {
+    lock.end('released');
+  }
+}
+
+// The owner's own GPU jobs go first: no song starts while one runs (MUSIC_YIELD_TO, a pgrep -f pattern). Nor while
+// another YuE generation runs on this Mac (a remake started by hand): this run's own has ended when it asks.
+const YIELD_TO = process.env.MUSIC_YIELD_TO ?? 'mlx_video|mlx-video';
+
+async function yieldGpu() {
+  let waited = false;
+  for (const pattern of [YIELD_TO, 'yue2 batch']) {
+    while (Bun.spawnSync(['pgrep', '-f', pattern]).exitCode === 0) {
+      if (!waited) log(`WAITING: another GPU job runs (${pattern})`);
+      waited = true;
+      await Bun.sleep(HEARTBEAT_MS);
+    }
+  }
 }
 
 /** Songs this machine already made (also before the claims existed) are checked, finished and marked. */
@@ -547,16 +593,18 @@ if (command === 'run') {
   let sheets = Promise.resolve();
   for (;;) {
     await stopForNewCode(sheets);
-    const next = await claimNextWhenOnline(fromEnd, failed);
-    if (!next) {
-      // No free song: make this machine's songs again whose catalog request changed, one at a time.
-      const id = changedRequest(failed);
-      if (!id) break;
+    await yieldGpu();
+    // First this machine's songs whose catalog request changed (a new form or style), one at a time.
+    const changed = changedRequest(failed);
+    if (changed) {
       await sheets;
-      await remake(id);
-      failed.add(id);
+      await remake(changed);
+      failed.add(changed);
       continue;
     }
+    await refillCatalog(sheets);
+    const next = await claimNextWhenOnline(fromEnd, failed);
+    if (!next) break;
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);
     if (!lock) {

@@ -1,0 +1,43 @@
+{
+  "id": "verse-58-3-13-hymn",
+  "title": "Encourage One Another",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 3,
+    "verseStart": 13,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 3,
+      "verseStart": 13,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male tenor solo with soft choir, acoustic guitar, piano, cello, gentle strings, hopeful and steady, 85 BPM",
+    "lyrics": "[Verse]\nDo not let wicked hearts grow\nFar from the living God\nSee to it you do not stray\nOn this holy road\n\n[Chorus]\nEncourage one another every day\nAs long as it is called today\nSo none of you are hardened\nBy the deceit of sin\n\n[Verse]\nWe share in Christ if we hold fast\nOur confidence to the end\nHear the voice and do not rebel\nAgainst the Father\n\n[Chorus]\nEncourage one another every day\nAs long as it is called today\nSo none of you are hardened\nBy the deceit of sin\n\n[Bridge]\nTheir hearts went astray for forty years\nIn anger God swore\nBut we can find rest if we believe\nAnd keep the covenant\n\n[Chorus]\nEncourage one another every day\nAs long as it is called today\nSo none of you are hardened\nBy the deceit of sin\n\n[Outro]\nHold your confidence firm to the end\nEncourage one another daily",
+    "cot": "full",
+    "seed": 20173
+  }
+}

@@ -441,6 +441,11 @@ async function remake(id: string): Promise<'done' | 'kept' | 'failed' | 'taken'>
     if (!previous) return;
     if (existsSync(song)) {
       rmSync(`${song}-remake-failed`, { recursive: true, force: true });
+      // Its Whisper pass and alignment go with it, to listen to and compare later.
+      for (const f of ['whisper.json', 'alignment.json']) {
+        const made = path.join(REPO, 'sheets', id, f);
+        if (existsSync(made)) writeFileSync(path.join(song, f), readFileSync(made));
+      }
       renameSync(song, `${song}-remake-failed`);
     }
     renameSync(previous, song);

@@ -1,0 +1,48 @@
+{
+  "id": "verse-58-6-19-pop",
+  "title": "Anchor for the Soul",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 6,
+    "verseStart": 19,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 6,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "tro",
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female vocal, solo with soft choir, piano, strings, cello, gentle percussion, hopeful and reverent, 80 BPM",
+    "lyrics": "[Verse]\nPeople swear by someone greater than themselves\nAn oath serves as confirmation, settling the dispute\nGod showed the heirs of the promise his will\nHe guaranteed it with an oath, unchangeable and still\n\n[Pre-Chorus]\nTwo unchangeable things, in which God cannot lie\nWe fled to him for refuge, we are not to say goodbye\n\n[Chorus]\nThis hope we have as an anchor for the soul\nFirm and secure, it holds us in control\nIt reaches within, behind the curtain\nWhere Jesus has entered, our safe harbor\n\n[Verse]\nHe went on our behalf as the forerunner\nA high priest forever, in a new order\nThe promise is clear, the path is known\nHis purpose is fixed, he is not alone\n\n[Pre-Chorus]\nTwo unchangeable things, in which God cannot lie\nWe fled to him for refuge, we are not to say goodbye\n\n[Chorus]\nThis hope we have as an anchor for the soul\nFirm and secure, it holds us in control\nIt reaches within, behind the curtain\nWhere Jesus has entered, our safe harbor\n\n[Bridge]\nNo dispute remains, the oath is true\nThe heirs of the promise see the way through\nEncouragement is strong, we hold fast\nLooking at the hope that is built to last\n\n[Chorus]\nThis hope we have as an anchor for the soul\nFirm and secure, it holds us in control\nIt reaches within, behind the curtain\nWhere Jesus has entered, our safe harbor\n\n[Outro]\nAnchored in the truth, we are free\nHis high priest forever, for me",
+    "cot": "full",
+    "seed": 20196
+  }
+}

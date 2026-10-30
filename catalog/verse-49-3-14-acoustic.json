@@ -1,0 +1,49 @@
+{
+  "id": "verse-49-3-14-acoustic",
+  "title": "Bow My Knees Before The Father",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 3,
+    "verseStart": 14,
+    "verseEnd": 15
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 3,
+      "verseStart": 14,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "tro",
+      "kjerlighet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, cello, soft percussion, hopeful and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nI stand in the light of your grace\nWith boldness I find in your face\nNo fear in my heart any more\nI come to you with quiet prayer\n\n[Chorus]\nI bow my knees before the Father\nFrom whom every family is named\nIn heaven above and on earth below\nYour name is the one that remains\n\n[Verse]\nNot faint from the weight of the cost\nFor this is the glory I lost\nAnd found in the strength of your hand\nWhere you love and where you stand\n\n[Chorus]\nI bow my knees before the Father\nFrom whom every family is named\nIn heaven above and on earth below\nYour name is the one that remains\n\n[Bridge]\nRiches of glory pour out\nStrength in the spirit and doubt\nYou grant me the power to be\nRooted and grounded in thee\n\n[Chorus]\nI bow my knees before the Father\nFrom whom every family is named\nIn heaven above and on earth below\nYour name is the one that remains\n\n[Outro]\nBow my knees before the Father\nYour name is the one that remains",
+    "cot": "full",
+    "seed": 20193
+  }
+}

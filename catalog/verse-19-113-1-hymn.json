@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-113-1-hymn",
+  "title": "Blessed Be the Name",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 113,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 113,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, hymn, warm female solo voice with soft choir backing, acoustic guitar, piano, cello, flute, gentle, 80 BPM",
+    "lyrics": "[Verse]\nPraise you servants of the Lord\nLift up your voices high\nPraise the name of the Lord\nLet the song fly\n\n[Pre-Chorus]\nFrom this time forth\nAnd forevermore\nThe blessing endures\nEvermore\n\n[Chorus]\nBlessed be the name of the Lord\nFrom rising sun to setting light\nHis glory shines without end\nIn the day and in the night\n\n[Verse]\nHigh above all nations stands He\nHis glory lifts to the sky\nWho is like the Lord our God\nEnthroned on high\n\n[Pre-Chorus]\nWho is like the Lord our God\nEnthroned on high\nWho is like the Lord our God\nEnthroned on high\n\n[Chorus]\nBlessed be the name of the Lord\nFrom rising sun to setting light\nHis glory shines without end\nIn the day and in the night\n\n[Bridge]\nHe stoops down to look upon\nThe heavens and the earth below\nThe Lord is high above all nations\nHis glory is the show\n\n[Chorus]\nBlessed be the name of the Lord\nFrom rising sun to setting light\nHis glory shines without end\nIn the day and in the night\n\n[Outro]\nHallelujah\nPraise the name of the Lord",
+    "cot": "full",
+    "seed": 20198
+  }
+}

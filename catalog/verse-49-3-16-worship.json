@@ -1,0 +1,49 @@
+{
+  "id": "verse-49-3-16-worship",
+  "title": "Christ Dwell In Your Hearts",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 3,
+    "verseStart": 16,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 3,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, soft and reverent, solo with choir, piano, strings, ambient pad, warm and intimate, 70 BPM",
+    "lyrics": "[Verse]\nI bow my knees before the Father\nWho names every family in heaven\nEvery kin on earth is known to Him\nFrom the depths of this world\n\n[Chorus]\nChrist may dwell in your hearts\nThrough faith, the root is deep\nGrounded in love, we are made strong\nWith power through His Spirit\n\n[Verse]\nOut of the riches of His glory\nHe grants us strength within\nNot by our own might or hand\nBut by the Spirit within\n\n[Chorus]\nChrist may dwell in your hearts\nThrough faith, the root is deep\nGrounded in love, we are made strong\nWith power through His Spirit\n\n[Bridge]\nWide and long and high and deep\nWe grasp the love of Christ\nSurpassing knowledge, filled with God\nBeyond all we can imagine\n\n[Outro]\nFilled with the fullness of God\nChrist dwell in your hearts",
+    "cot": "full",
+    "seed": 20194
+  }
+}

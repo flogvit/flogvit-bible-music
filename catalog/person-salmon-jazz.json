@@ -1,0 +1,63 @@
+{
+  "id": "person-salmon-jazz",
+  "title": "Father of Boaz",
+  "kind": "person",
+  "anchor": {
+    "person": "salmon"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 8,
+      "chapter": 4,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 32,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "salmon",
+      "nahsjon",
+      "rahab",
+      "boas",
+      "rut"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal, warm and soulful, upright bass, brushed drums, piano, saxophone, mood of ancient heritage, 85 BPM",
+    "lyrics": "[Verse]\nNahshon fathered Salma\nAnd Salma fathered Boaz\nA name in the line of Judah\nWhere the ancient roots lay\n\n[Chorus]\nSalmon the father of Boaz\nBy Rahab, by Ruth, by Jesse\nThe thread of the promise\nIs woven with destiny\n\n[Verse]\nHe married the woman from Jericho\nWho hid the spies in the night\nBoaz came from this union\nAnd led his people upright\n\n[Chorus]\nSalmon the father of Boaz\nBy Rahab, by Ruth, by Jesse\nThe thread of the promise\nIs woven with destiny\n\n[Bridge]\nObed the father of Jesse\nJesse the father of David\nThe lineage of the Messiah\nIn the scriptures is saved\n\n[Outro]\nFrom Nahshon to the end\nThe story of the seed\nSalmon, the father of Boaz",
+    "cot": "full",
+    "seed": 20197
+  }
+}

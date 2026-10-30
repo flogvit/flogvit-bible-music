@@ -1,0 +1,43 @@
+{
+  "id": "verse-49-3-20-blues",
+  "title": "Far Beyond All That We Ask",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 3,
+    "verseStart": 20,
+    "verseEnd": 20
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 3,
+      "verseStart": 20,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male voice, solo, electric guitar, upright bass, drums, Hammond organ, melancholic, 72 BPM",
+    "lyrics": "[Verse]\nChrist dwells in hearts through faith\nRooted and grounded in love\nPower with saints to grasp\nThe wide and long and high and deep\n\n[Chorus]\nTo Him who is able to do\nFar beyond all that we ask or imagine\nAccording to the power at work\nWithin us, glory be\n\n[Verse]\nKnow the love that surpasses knowledge\nFilled with the fullness of God\nIn the church and in Christ Jesus\nGlory throughout all generations\n\n[Chorus]\nTo Him who is able to do\nFar beyond all that we ask or imagine\nAccording to the power at work\nWithin us, glory be\n\n[Bridge]\nForever and ever, Amen\nGlory in the church and in Christ\nBeyond our asking, beyond our sight\nThe power at work within us\n\n[Chorus]\nTo Him who is able to do\nFar beyond all that we ask or imagine\nAccording to the power at work\nWithin us, glory be",
+    "cot": "full",
+    "seed": 20195
+  }
+}

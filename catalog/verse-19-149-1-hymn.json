@@ -1,0 +1,42 @@
+{
+  "id": "verse-19-149-1-hymn",
+  "title": "A New Song",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 149,
+    "verseStart": 1,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 149,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female voice with chorus, organ, strings, tambourine, lyre, majestic and joyful, 90 BPM",
+    "lyrics": "[Verse]\nPraise the LORD with a new song\nHis praise in the assembly of the faithful\nLet Israel rejoice in his Maker\nLet the children of Zion exult in their King\n\n[Chorus]\nSing to the LORD a new song\nPraise him with dancing and sound\nTambourine and lyre ring out\nFor he delights in his people\n\n[Verse]\nThe humble are crowned with salvation\nLet the faithful exult in glory\nSing for joy upon your beds\nFor the LORD has made you new\n\n[Chorus]\nSing to the LORD a new song\nPraise him with dancing and sound\nTambourine and lyre ring out\nFor he delights in his people\n\n[Bridge]\nExaltation of God in their mouths\nA two-edged sword in their hands\nVengeance on the nations\nPunishment on the peoples\n\n[Outro]\nA new song to the LORD\nPraise in the assembly",
+    "cot": "full",
+    "seed": 20191
+  }
+}

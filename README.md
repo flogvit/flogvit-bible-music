@@ -176,11 +176,11 @@ MUSIC_MACHINE="M5 (MacBook Pro, M5 Max, 128 GB)" scripts/install-generator.sh --
 tail -f ~/Library/Logs/music-generate.log
 ```
 
-The agent `com.flogvit.music-generate` starts at login and again 10 minutes after `run` stops, so a restart,
-a crash or a run that found no free song does not stop the machine for good. The worktree follows `main`: `run`
+The agent `com.flogvit.music-generate` starts at login and again a minute after `run` stops, so a restart,
+a crash or a run that found no free song does not stop the machine for good (a run with nothing to do waits nine minutes before it stops). The worktree follows `main`: `run`
 pulls it with each song's sheets, and when `main` brings new code in `scripts/`, `run` stops
 between songs (`RUN RESTART` in the log) and launchd starts the new code, so code merged to `main` reaches every
-generating Mac within a song and 10 minutes. While a song generates, the Mac
+generating Mac within a song and a minute. While a song generates, the Mac
 does not sleep on power (`caffeinate -s`); on battery it may, and after 20 minutes asleep the song is free for
 others. Without network, `run` waits and tries again every minute. Turn it off with
 `scripts/install-generator.sh --uninstall`, which gives the song it was making back. Started from a terminal or

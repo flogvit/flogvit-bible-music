@@ -3,7 +3,7 @@
 #
 #   MUSIC_MACHINE="M5 (MacBook Pro, M5 Max, 128 GB)" scripts/install-generator.sh --from-end
 #
-# launchd starts it at login and starts it again 10 minutes after it stops: after a crash, after a lost network
+# launchd starts it at login and starts it again a minute after it stops: after a crash, after a lost network
 # at start, and when no song was free (another machine may have given one back). Run it from a worktree of its
 # own beside the main checkout (git worktree add --detach ../music-generate origin/main), not under
 # .claude/worktrees/, where Dux's sweep removes idle worktrees: it generates with the scripts in that checkout,
@@ -50,7 +50,7 @@ cat > $plist <<EOF
   </dict>
   <key>RunAtLoad</key><true/>
   <key>KeepAlive</key><true/>
-  <key>ThrottleInterval</key><integer>600</integer>
+  <key>ThrottleInterval</key><integer>60</integer>
   <key>StandardOutPath</key><string>$HOME/Library/Logs/music-generate.log</string>
   <key>StandardErrorPath</key><string>$HOME/Library/Logs/music-generate.log</string>
 </dict>

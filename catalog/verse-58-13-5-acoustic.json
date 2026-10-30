@@ -1,0 +1,47 @@
+{
+  "id": "verse-58-13-5-acoustic",
+  "title": "I Will Never Leave You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 13,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 13,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, soft piano, light cello, gentle percussion, peaceful and reassuring mood, 80 BPM",
+    "lyrics": "[Verse]\nKeep your life free from the love of money\nBe content with what you have today\nHe has spoken a promise that stands firm\nIn the quiet of the world\n\n[Pre-Chorus]\nNo fear takes hold of the heart\nWhen the Lord is near\n\n[Chorus]\nI will never leave you nor forsake you\nSo we can say with confidence\nThe Lord is my helper I will not be afraid\nWhat can anyone do to me\n\n[Verse]\nMarriage is to be honored by all\nThe marriage bed kept undefiled\nGod will judge the sexually immoral\nAnd the adulterers in their pride\n\n[Chorus]\nI will never leave you nor forsake you\nSo we can say with confidence\nThe Lord is my helper I will not be afraid\nWhat can anyone do to me\n\n[Bridge]\nRemember those in prison as if bound\nWith them in the body as well\nRemember your leaders who spoke the word\nConsider how their lives turned out\n\n[Chorus]\nI will never leave you nor forsake you\nSo we can say with confidence\nThe Lord is my helper I will not be afraid\nWhat can anyone do to me\n\n[Outro]\nJesus Christ is the same yesterday\nAnd today and forever",
+    "cot": "full",
+    "seed": 20186
+  }
+}

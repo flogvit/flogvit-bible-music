@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-23-4-choral",
+  "title": "Your Rod And Your Staff",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 23,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, choral, female solo voice with ethereal choir, harp, cello, flute, soft piano, reverent and comforting mood, 72 BPM",
+    "lyrics": "[Verse]\nThe Lord is my shepherd, I lack nothing\nHe lets me lie down in green pastures\nHe leads me beside still waters\nHe restores my soul so gently\n\n[Chorus]\nEven though I walk through the valley\nOf the shadow of death, I fear no evil\nFor you are with me, always near\nYour rod and your staff, they comfort me\n\n[Verse]\nYou set a table before me\nIn the presence of my enemies\nYou anoint my head with oil\nMy cup overflows with grace\n\n[Chorus]\nEven though I walk through the valley\nOf the shadow of death, I fear no evil\nFor you are with me, always near\nYour rod and your staff, they comfort me\n\n[Bridge]\nGoodness and mercy will pursue me\nAll the days of my life\nI will dwell in the house of the Lord\nFor length of days, for length of days\n\n[Chorus]\nEven though I walk through the valley\nOf the shadow of death, I fear no evil\nFor you are with me, always near\nYour rod and your staff, they comfort me\n\n[Outro]\nYour rod and your staff, they comfort me\nFor you are with me",
+    "cot": "full",
+    "seed": 20174
+  }
+}

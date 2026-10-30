@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-50-15-jazz",
+  "title": "Call On Me In Trouble",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 50,
+    "verseStart": 15,
+    "verseEnd": 15
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 50,
+      "verseStart": 15,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "obedience"
+    ],
+    "themes": [
+      "frelsen",
+      "ydmykhet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal, smooth and intimate, piano, double bass, upright bass, brushed drums, mood of serene reassurance, 78 BPM",
+    "lyrics": "[Verse]\nThe world and all that fills it is mine\nI do not need your flesh or wine\nDo I eat the flesh of bulls or drink\nThe blood of goats that you think\n\n[Chorus]\nOffer God a sacrifice of praise\nAnd fulfill your vows in grace\nThen call on me in the day of trouble\nI will deliver you\nAnd you will honor me\n\n[Verse]\nBut to the wicked God says clearly\nWhat right have you to speak\nTo recite my statutes on your lips\nWhile you do not keep\n\n[Chorus]\nOffer God a sacrifice of praise\nAnd fulfill your vows in grace\nThen call on me in the day of trouble\nI will deliver you\nAnd you will honor me\n\n[Bridge]\nYou hate discipline and cast my words behind\nYou approve the thief and join the sin\n\n[Chorus]\nOffer God a sacrifice of praise\nAnd fulfill your vows in grace\nThen call on me in the day of trouble\nI will deliver you\nAnd you will honor me\n\n[Outro]\nCall on me in the day of trouble\nI will deliver you",
+    "cot": "full",
+    "seed": 20179
+  }
+}

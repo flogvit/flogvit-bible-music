@@ -1,0 +1,46 @@
+{
+  "id": "verse-58-13-14-hymn",
+  "title": "No Lasting City",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 13,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 13,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "obedience"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, hymn, female solo voice, piano, strings, organ, warm mood, 80 BPM",
+    "lyrics": "[Verse]\nThe high priest carries blood of animals\nInto the holy place with care\nBut their bodies are burned outside the camp\nA ritual beyond the air\nJesus suffered outside the gate\nTo make the people holy and new\nThrough his own blood we are set apart\nFrom the old and fading view\n\n[Chorus]\nFor here we have no lasting city\nWe look for the one that is to come\nNo permanent home in this world\nOnly the promise we have found\nFor here we have no lasting city\nWe look for the one that is to come\n\n[Verse]\nLet us go out to him outside the camp\nBearing the disgrace he bore\nWe join him in the way of suffering\nFor the sake of his love forevermore\nThrough him we offer praise continually\nThe fruit of lips that confess his name\nDo not neglect to do good and share\nFor such sacrifices please God's fame\n\n[Chorus]\nFor here we have no lasting city\nWe look for the one that is to come\nNo permanent home in this world\nOnly the promise we have found\nFor here we have no lasting city\nWe look for the one that is to come\n\n[Verse]\nObey your leaders and submit to them\nThey keep watch over your souls\nThey must give an account to God\nLet their work be a joy and not a burden\nDo this so it may be to your advantage\nFor it is of no benefit to you\nWalk in faith and in obedience\nUnder the sky that is so blue\n\n[Chorus]\nFor here we have no lasting city\nWe look for the one that is to come\nNo permanent home in this world\nOnly the promise we have found\nFor here we have no lasting city\nWe look for the one that is to come\n\n[Outro]\nFor here we have no lasting city\nWe look for the one that is to come",
+    "cot": "full",
+    "seed": 20184
+  }
+}

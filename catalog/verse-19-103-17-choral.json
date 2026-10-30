@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-103-17-choral",
+  "title": "Everlasting Mercy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 103,
+    "verseStart": 17,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 103,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with ethereal choir, harp, cello, piano, strings, majestic and reverent, 80 BPM",
+    "lyrics": "[Verse]\nHe knows how we are formed\nHe remembers that we are dust\nOur days are like grass\nBlooming like a flower\nThe wind passes over it\nAnd it is gone\nIts place knows it no more\n\n[Chorus]\nBut the steadfast love of the LORD\nRests from everlasting to everlasting\nOn those who fear him\nAnd his righteousness too\nOn their children's children\n\n[Verse]\nTo those who keep his covenant\nAnd remember to obey his precepts\nThe LORD has established his throne\nIn the heavens high\nHis kingdom rules over all\nWith power and light\n\n[Chorus]\nBut the steadfast love of the LORD\nRests from everlasting to everlasting\nOn those who fear him\nAnd his righteousness too\nOn their children's children\n\n[Bridge]\nBless the LORD you his angels\nYou mighty ones who do his word\nObeying the voice of his word\nBless the LORD all his hosts\nYou his servants who do his will\n\n[Chorus]\nBut the steadfast love of the LORD\nRests from everlasting to everlasting\nOn those who fear him\nAnd his righteousness too\nOn their children's children\n\n[Outro]\nEverlasting love remains\nFrom age to age",
+    "cot": "full",
+    "seed": 20177
+  }
+}

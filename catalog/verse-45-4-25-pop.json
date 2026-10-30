@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-4-25-pop",
+  "title": "Raised for Justification",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 4,
+    "verseStart": 25,
+    "verseEnd": 25
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 4,
+      "verseStart": 25,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, piano, acoustic guitar, cello, strings, hopeful and anthemic, 90 BPM",
+    "lyrics": "[Verse]\nIt was credited to him as righteousness\nNot written for his sake alone\nBut for us who believe today\nIn the Lord who rose from the dead\n\n[Chorus]\nHe was handed over to death\nFor our trespasses and shame\nAnd he was raised for our justification\nA new life in his name\n\n[Verse]\nWe believe in him who raised Jesus\nOur Lord from the dead\nThe words stand true for us now\nWho place our trust in God\n\n[Chorus]\nHe was handed over to death\nFor our trespasses and shame\nAnd he was raised for our justification\nA new life in his name\n\n[Bridge]\nCredited to us who believe\nThe promise holds for all\nThrough the cross and the empty grave\nWe stand in grace and call\n\n[Outro]\nHe was raised for our justification\nHe was raised for our justification",
+    "cot": "full",
+    "seed": 20182
+  }
+}

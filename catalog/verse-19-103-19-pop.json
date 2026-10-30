@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-103-19-pop",
+  "title": "Bless the Lord, My Soul",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 103,
+    "verseStart": 19,
+    "verseEnd": 22
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 103,
+      "verseStart": 19,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "obedience",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "ydmykhet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female vocal, ethereal, piano, strings, soft drums, atmospheric synth, hopeful, 85 BPM",
+    "lyrics": "[Verse]\nThe wind passes over it and is gone\nIts place knows it no more now\nBut steadfast love rests from everlasting\nOn those who fear the name\nHis righteousness abides on children's children\nThose who keep the covenant\nRemembering to obey his precepts\nWith faithfulness and devotion\n\n[Chorus]\nBless the Lord you mighty angels\nDo his word and obey his voice\nBless the Lord all his hosts\nServants who do his will\nBless the Lord all his works\nIn every place of his dominion\nBless the Lord my soul\n\n[Verse]\nHe has established his throne in the heavens\nHis kingdom rules over all things\nThe Lord is high and exalted\nHis glory fills the world\nFrom the depths to the highest sky\nHis dominion stands firm\nHis word is the voice of power\nGuiding every step we take\n\n[Chorus]\nBless the Lord you mighty angels\nDo his word and obey his voice\nBless the Lord all his hosts\nServants who do his will\nBless the Lord all his works\nIn every place of his dominion\nBless the Lord my soul\n\n[Bridge]\nHis love endures forever\nFor those who fear him\nHis righteousness is sure\nFor their children's children\nKeep his covenant true\nRemember his precepts\nHis kingdom never fades\nHis throne is in the heavens\n\n[Chorus]\nBless the Lord you mighty angels\nDo his word and obey his voice\nBless the Lord all his hosts\nServants who do his will\nBless the Lord all his works\nIn every place of his dominion\nBless the Lord my soul\n\n[Outro]\nBless the Lord my soul\nBless the Lord my soul",
+    "cot": "full",
+    "seed": 20178
+  }
+}

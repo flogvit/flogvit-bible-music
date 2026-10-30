@@ -1,0 +1,49 @@
+{
+  "id": "verse-58-13-15-choral",
+  "title": "Sacrifice of Praise",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 13,
+    "verseStart": 15,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 13,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, choral, male solo with deep choir, organ, cello, timpani, harp, reverent, 80 BPM",
+    "lyrics": "[Verse]\nOutside the camp we go\nBearing the disgrace he bore\nNo lasting city here\nWe seek the one that is to come\n\n[Chorus]\nThrough him let us continually\nOffer to God a sacrifice of praise\nThe fruit of lips that confess\nHis holy name before the Lord\n\n[Verse]\nDo not neglect to do good\nShare with others in your days\nSuch sacrifices are pleasing\nTo the God who knows our hearts\n\n[Chorus]\nThrough him let us continually\nOffer to God a sacrifice of praise\nThe fruit of lips that confess\nHis holy name before the Lord\n\n[Verse]\nJesus suffered outside the gate\nTo make the people holy\nThrough his own blood he cleansed us\nFrom the weight of all our sin\n\n[Chorus]\nThrough him let us continually\nOffer to God a sacrifice of praise\nThe fruit of lips that confess\nHis holy name before the Lord\n\n[Bridge]\nWe have no lasting city\nLooking for the one to come\nSo we offer up our voices\nAs a sweet and holy sound\n\n[Outro]\nA sacrifice of praise\nThe fruit of confessing lips\nAlways, always, always\nPleasing in the sight of God",
+    "cot": "full",
+    "seed": 20185
+  }
+}

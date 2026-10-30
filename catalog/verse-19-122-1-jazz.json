@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-122-1-jazz",
+  "title": "Gates of the Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 122,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 122,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, warm female solo voice with soft choir, upright bass, piano, brushed drums, upright bass, mood of joyful reverence, 90 BPM",
+    "lyrics": "[Verse]\nI rejoiced when they said to me\nLet us go to the house of the LORD\nMy heart is light with this simple plea\nTo walk where His presence is adored\n\n[Chorus]\nOur feet are standing in your gates\nJerusalem built as a city bound\nThe tribes go up in holy states\nTo give thanks to the name of the Lord\n\n[Verse]\nA song of ascents, a song of David\nCalled to the place of His dwelling\nThe tribes of the LORD are having\nTheir joyful gathering in the living light\n\n[Chorus]\nOur feet are standing in your gates\nJerusalem built as a city bound\nThe tribes go up in holy states\nTo give thanks to the name of the Lord\n\n[Bridge]\nAs a decree for Israel stands\nTo praise the name of the Lord\nOur feet are steady on the sands\nIn the house of the Lord\n\n[Outro]\nLet us go to the house of the LORD\nOur feet are standing in your gates",
+    "cot": "full",
+    "seed": 20190
+  }
+}

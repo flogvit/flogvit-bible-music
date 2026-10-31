@@ -272,14 +272,16 @@ makes them in three steps:
    never God as a person, and Jesus only from behind or far away; no writing; a chorus that comes back gets the
    same picture; each picture stays up at least two lines. The answer is kept in `scenes/plan.json`.
 2. Z-Image Turbo (mflux, 8-bit, 9 steps) makes each picture at 1920×1088 with the same film look, cut to
-   1920×1080 WebP.
+   1920×1080 WebP. The words lie over the bottom third, so the look puts the subject in the upper middle, on a
+   low horizon, and keeps the bottom third empty foreground.
 3. A vision model (`qwen3-vl:8b`) looks at each picture: writing, something modern, a broken body or object, or
-   someone posing makes it try the next seed, three times at most. A picture that never passes is left out, and
+   someone posing, or the main subject sitting in the bottom third where the words go, makes it try the next seed,
+   three times at most. A picture that never passes is left out, and
    the one before it stays up longer.
 
 `scenes.json` is written last, so `publish-auto.sh` sees a new file and publishes the song again with its
-pictures. A song made again with other lyrics gets new pictures (`scenes/plan.json` keeps the lines it was
-planned for). On an M5 Max one picture takes about a minute and a song 5–8 minutes; on an M1 Max a picture takes
+pictures. A song made again with other lyrics, or with pictures in an earlier look, gets new pictures
+(`scenes/plan.json` keeps the lines and the look it was made with). On an M5 Max one picture takes about a minute and a song 5–8 minutes; on an M1 Max a picture takes
 about four minutes and a song about 25 (both measured).
 
 The pictures are not tied to making songs: a launchd agent of their own runs `scenes.ts --watch`, which makes

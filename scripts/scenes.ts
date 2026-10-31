@@ -11,7 +11,7 @@
  *        bun scripts/scenes.ts <library/<id>> [...]   the songs given
  * Environment: MUSIC_SCENES_MODEL (default qwen3.8:27b), MUSIC_LOOK_MODEL (default qwen3-vl:8b), OLLAMA_HOST.
  *
- * A song made again with other lyrics gets new pictures. On a Mac with less than 96 GB, pictures and YuE take
+ * A song made again with other lyrics, or with pictures in an earlier look, gets new pictures. On a Mac with less than 96 GB, pictures and YuE take
  * turns: a song's pictures wait while YuE generates, and generate.ts starts no song while a song's pictures are
  * being made (HOLD_GPU). On a larger Mac they run side by side.
  */
@@ -28,9 +28,14 @@ const PYTHON = path.join(MAIN, '.venv-images', 'bin', 'python');
 const MFLUX = path.join(MAIN, '.venv-images', 'bin', 'mflux-generate-z-image-turbo');
 const ATTEMPTS = 3;
 
-/** The same look for every picture, so the songs belong together; the lower third stays calm for the words. */
+/**
+ * The same look for every picture, so the songs belong together. The words lie over the bottom third, so the
+ * subject stands above it, on a low horizon, and the bottom third is empty foreground.
+ */
 const LOOK = '35mm film photograph, Kodak Portra 400, natural light, muted earth tones, subtle grain, quiet, ' +
-  'simple uncluttered composition, wide 16:9, the lower third of the frame is calm with little detail';
+  'simple uncluttered composition, wide 16:9. The main subject stands in the upper middle of the frame with a little ' +
+  'space above it, seen from slightly below; a low line of sky at most; the bottom third of the frame is plain empty ' +
+  'foreground with nothing in it (bare ground, a stone floor, still water), softly out of focus';
 
 const PLAN_RULES = `You choose the pictures shown behind the lyrics of a song on a big screen in a church or a
 meeting, while people sing along. The song is about a Bible passage, story, person or theme. The words are shown
@@ -53,7 +58,8 @@ Each picture is one quiet photograph, described in 20 to 40 words of plain Engli
   the time (the image model dresses people in today's clothes otherwise). Never God as a person; Jesus only from
   behind or far away, with no halo.
 - No writing, letters or signs. No crosses or church symbols unless the line is about the cross.
-- Say what is in the picture, where, and the light and time of day. Not the camera or film; that is added.
+- Say what is in the picture, where, and the light and time of day. Not the camera, the film or the framing;
+  that is added (the subject stands high in the frame, and the bottom of the picture stays empty for the words).
 - A chorus that comes back gets the exact same description as the first time, so it shows the same picture.
 - Two pictures in a row should differ in place or light.
 
@@ -80,20 +86,26 @@ you see, strictly:
 - modern: anything from after ancient times (roads with markings, wires, cars, modern buildings or clothes);
 - broken: a body, face, hand or animal that is deformed, has extra or missing limbs or fingers, or melts into
   something else; or an object that makes no physical sense;
-- posing: a person looking into the camera, or a face close up.`;
+- posing: a person looking into the camera, or a face close up;
+- low: the main subject (a person, an animal, an object, a tree or a building) sits in the bottom third of the
+  picture, where the words go, instead of above it.`;
 
 const LOOK_SCHEMA = {
   type: 'object',
   properties: {
     writing: { type: 'boolean' }, modern: { type: 'boolean' }, broken: { type: 'boolean' }, posing: { type: 'boolean' },
-    note: { type: 'string' },
+    low: { type: 'boolean' }, note: { type: 'string' },
   },
-  required: ['writing', 'modern', 'broken', 'posing', 'note'],
+  required: ['writing', 'modern', 'broken', 'posing', 'low', 'note'],
 };
-type Look = { writing: boolean; modern: boolean; broken: boolean; posing: boolean; note: string };
+const FAULTS = ['writing', 'modern', 'broken', 'posing', 'low'] as const;
+type Look = Record<(typeof FAULTS)[number], boolean> & { note: string };
 
-/** `lines` are the sung lines the plan was made for; a song made again with other lyrics gets a new plan. */
-type Plan = { model: string; lines?: string[]; scenes: { line: number; description: string }[] };
+/**
+ * `lines` are the sung lines the plan was made for, and `look` the look its pictures were made with: a song made
+ * again with other lyrics, or pictures made with another look, get a new plan and new pictures.
+ */
+type Plan = { model: string; lines?: string[]; look?: string; scenes: { line: number; description: string }[] };
 
 function log(text: string) {
   console.log(`${new Date().toTimeString().slice(0, 8)} ${text}`);
@@ -176,7 +188,7 @@ export async function planOf(folder: string, sung: string[]): Promise<Plan> {
   }
   if (!scenes.length) throw new Error(`${SCENES_MODEL} gave no pictures`);
   scenes[0]!.line = 0;
-  const plan = { model: SCENES_MODEL, lines: sung, scenes };
+  const plan = { model: SCENES_MODEL, lines: sung, look: LOOK, scenes };
   mkdirSync(path.dirname(file), { recursive: true });
   writeFileSync(file, JSON.stringify(plan, null, 1) + '\n');
   return plan;
@@ -230,8 +242,8 @@ im.resize((960, 540)).save(sys.argv[3], quality=85)
       .catch(() => ask<Look>(LOOK_MODEL, false, LOOK_RULES, question, LOOK_SCHEMA, image))
       .catch(() => null);
     rmSync(small, { force: true });
-    if (look && !look.writing && !look.modern && !look.broken && !look.posing) return true;
-    const what = look ? (['writing', 'modern', 'broken', 'posing'] as const).filter((k) => look[k]).join(', ') : 'no answer from the check';
+    if (look && !FAULTS.some((k) => look[k])) return true;
+    const what = look ? FAULTS.filter((k) => look[k]).join(', ') : 'no answer from the check';
     log(`PICTURE AGAIN ${path.basename(out)} seed ${seed + attempt}: ${what}${look ? ` (${look.note})` : ''}`);
   }
   rmSync(out, { force: true });
@@ -241,20 +253,23 @@ im.resize((960, 540)).save(sys.argv[3], quality=85)
 const sungLines = (folder: string): string[] =>
   JSON.parse(readFileSync(path.join(folder, 'alignment.json'), 'utf8')).lines.map((l: { text: string }) => l.text);
 
-/** Pictures made for other lyrics than the song has now (it was made again). */
-function outdated(folder: string): boolean {
+/** Why a song's pictures must be made again: other lyrics than the song has now, or another look; else null. */
+function outdated(folder: string): string | null {
   const file = path.join(folder, 'scenes', 'plan.json');
-  if (!existsSync(file)) return false;
-  const { lines } = JSON.parse(readFileSync(file, 'utf8')) as Plan;
-  return !!lines && JSON.stringify(lines) !== JSON.stringify(sungLines(folder));
+  if (!existsSync(file)) return null;
+  const { lines, look } = JSON.parse(readFileSync(file, 'utf8')) as Plan;
+  if (lines && JSON.stringify(lines) !== JSON.stringify(sungLines(folder))) return 'the song was made again with other lyrics';
+  if (look !== LOOK && existsSync(path.join(folder, 'scenes.json'))) return 'they were made with an earlier look';
+  return null;
 }
 
 /** Makes scenes.json and its pictures for a library song that has none, or has them for other lyrics. */
 export async function makeScenes(folder: string): Promise<number> {
   const id = path.basename(folder);
   if (!existsSync(path.join(folder, 'alignment.json'))) throw new Error(`${id} has no alignment.json`);
-  if (outdated(folder)) {
-    log(`PICTURES AGAIN ${id}: the song was made again with other lyrics`);
+  const why = outdated(folder);
+  if (why) {
+    log(`PICTURES AGAIN ${id}: ${why}`);
     rmSync(path.join(folder, 'scenes.json'), { force: true });
     rmSync(path.join(folder, 'scenes'), { recursive: true, force: true });
   }

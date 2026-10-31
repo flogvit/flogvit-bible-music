@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-130-5-pop",
+  "title": "More Than Watchmen Wait",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 130,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 130,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, soft piano, cello, gentle strings, hopeful and serene mood, 75 BPM",
+    "lyrics": "[Verse]\nLord, hear my voice as I call to you\nLet your ears be attentive to my cry\nIf you kept a record of my sins\nWho could stand before you?\n\n[Chorus]\nI wait for the Lord, my soul waits\nAnd in his word I put my hope\nMy soul waits for the Lord\nMore than watchmen wait for the morning\n\n[Verse]\nBut with you there is forgiveness\nSo that you may be feared\nI wait for the Lord, my soul waits\nAnd in his word I put my hope\n\n[Chorus]\nI wait for the Lord, my soul waits\nAnd in his word I put my hope\nMy soul waits for the Lord\nMore than watchmen wait for the morning\n\n[Bridge]\nIsrael, hope in the Lord\nFor with the Lord there is steadfast love\nWith him is abundant redemption\nHe himself will redeem Israel from all their sins\n\n[Chorus]\nI wait for the Lord, my soul waits\nAnd in his word I put my hope\nMy soul waits for the Lord\nMore than watchmen wait for the morning\n\n[Outro]\nMy soul waits for the Lord\nMore than watchmen wait for the morning",
+    "cot": "full",
+    "seed": 20295
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-18-1-orchestral",
+  "title": "My Strength",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 18,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 18,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, orchestral, powerful male baritone solo with ethereal choir, grand piano, deep cello, soaring violin, timpani, majestic and triumphant, 90 BPM",
+    "lyrics": "[Verse]\nI love you Lord my strength\nThe LORD is my rock and fortress\nMy deliverer my God my crag\nMy shield and horn of salvation\n\n[Chorus]\nMy strength my strength my strength\nThe LORD is worthy of praise\nI call on Him and I am saved\nFrom the grasp of all my enemies\n\n[Verse]\nHe rescued me from the hand of Saul\nFrom the grip of all who sought my fall\nI sing this song on the day of grace\nWhen the LORD delivered me from death\n\n[Chorus]\nMy strength my strength my strength\nThe LORD is worthy of praise\nI call on Him and I am saved\nFrom the grasp of all my enemies\n\n[Verse]\nThe cords of death wound round me\nThe torrents of destruction terrified me\nBut in His hand I find my rest\nMy stronghold in the storm of life\n\n[Chorus]\nMy strength my strength my strength\nThe LORD is worthy of praise\nI call on Him and I am saved\nFrom the grasp of all my enemies\n\n[Outro]\nI love you Lord my strength\nMy rock my fortress my deliverer",
+    "cot": "full",
+    "seed": 20299
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-18-2-rock",
+  "title": "My Rock",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 18,
+    "verseStart": 2,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 18,
+      "verseStart": 2,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, electric guitar, bass, drums, piano, intense and grateful mood, 120 BPM",
+    "lyrics": "[Verse]\nI love you LORD my strength\nYou are my rock and fortress\nMy God my crag of refuge\nMy shield and my salvation\n\n[Chorus]\nThe LORD is my rock my fortress\nMy deliverer my stronghold\nThe horn of my salvation\nMy God my safe place\n\n[Verse]\nI call on the LORD worthy of praise\nAnd I am saved from my enemies\nYou hold me when the world shakes\nYou keep me from falling\n\n[Chorus]\nThe LORD is my rock my fortress\nMy deliverer my stronghold\nThe horn of my salvation\nMy God my safe place\n\n[Bridge]\nI find my rest in your shadow\nYour strength is my daily bread\nI sing to the one who rescues me\nFrom the grasp of all my foes\n\n[Outro]\nYou are my rock forever\nMy strength and my song",
+    "cot": "full",
+    "seed": 20300
+  }
+}

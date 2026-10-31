@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-27-4-soul",
+  "title": "Dwell in the House",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 27,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 27,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "david",
+      "frykt",
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, warm female solo voice with gospel choir backing, upright bass, soft piano, gentle drums, cello, hopeful and intimate mood, 78 BPM",
+    "lyrics": "[Verse]\nThe Lord is my light and my salvation\nI have no reason to fear\nHe is the stronghold of my life\nMy heart will not be afraid\n\n[Verse]\nEvildoers close in to devour me\nBut they will stumble and fall\nThough an army camps against me\nMy confidence stands tall\n\n[Chorus]\nOne thing I ask of the Lord\nThis is the only thing I seek\nTo dwell in the house of the Lord\nFor all the days that I have\n\n[Verse]\nI want to gaze on his beauty\nAnd seek him in his temple\nIn the day of trouble he keeps me\nSafe in his shelter\n\n[Chorus]\nOne thing I ask of the Lord\nThis is the only thing I seek\nTo dwell in the house of the Lord\nFor all the days that I have\n\n[Bridge]\nHe hides me under the cover\nOf his tent upon a rock\nMy head is lifted high above\nThe enemies who surround me\n\n[Outro]\nI will sing and make music\nTo the Lord in his tent\nHear my voice when I call\nBe gracious and answer me\n\n[Chorus]\nOne thing I ask of the Lord\nThis is the only thing I seek\nTo dwell in the house of the Lord\nFor all the days that I have",
+    "cot": "full",
+    "seed": 20301
+  }
+}

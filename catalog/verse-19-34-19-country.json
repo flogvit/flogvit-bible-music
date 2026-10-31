@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-34-19-country",
+  "title": "Near to the Brokenhearted",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 19,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo, acoustic guitar, piano, fiddle, cello, mournful, 72 BPM",
+    "lyrics": "[Verse]\nThe eyes of the LORD watch the righteous\nHis ears are open to their cry\nThe face of the LORD is set against the wicked\nTo cut off their memory from the earth\nThey cried out and the LORD heard\nHe delivered them from all their troubles\n\n[Chorus]\nThe LORD is near to the brokenhearted\nHe saves those crushed in spirit\nMany are the afflictions of the righteous\nBut the LORD delivers him from them all\n\n[Verse]\nHe watches over all his bones\nNot one of them is broken\nEvil will put the wicked to death\nAnd those who hate the righteous will bear their guilt\nThe eyes of the LORD are on the righteous\nHis ears are open to their cry\n\n[Chorus]\nThe LORD is near to the brokenhearted\nHe saves those crushed in spirit\nMany are the afflictions of the righteous\nBut the LORD delivers him from them all\n\n[Bridge]\nHe saves those crushed in spirit\nThe LORD is near to the brokenhearted\nHe delivers him from them all\nThe LORD is near to the brokenhearted\n\n[Outro]\nHe saves those crushed in spirit\nThe LORD is near to the brokenhearted",
+    "cot": "full",
+    "seed": 20304
+  }
+}

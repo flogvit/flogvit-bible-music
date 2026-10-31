@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-138-8-choral",
+  "title": "The LORD Will Fulfill",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 138,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 138,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female contralto with gentle choir, harp, piano, strings, warm and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nThey will sing of the ways of the LORD\nFor the glory of the LORD is great\nHe is exalted yet he sees the lowly\nThe proud he knows from afar\n\n[Chorus]\nThe LORD will fulfill his purpose for me\nYour steadfast love endures forever\nDo not abandon the work of your hands\nYour right hand saves me\n\n[Verse]\nThough I walk in the midst of trouble\nYou keep me alive and hold me\nYou stretch out your hand against the wrath\nOf my enemies you save me\n\n[Chorus]\nThe LORD will fulfill his purpose for me\nYour steadfast love endures forever\nDo not abandon the work of your hands\nYour right hand saves me\n\n[Bridge]\nSteadfast love and truth are joined\nYour promise does not fail\nIn the midst of my distress\nYou stand beside me still\n\n[Outro]\nThe LORD will fulfill his purpose for me\nDo not abandon the work of your hands",
+    "cot": "full",
+    "seed": 20298
+  }
+}

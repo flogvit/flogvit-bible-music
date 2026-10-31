@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-130-7-jazz",
+  "title": "Steadfast Love",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 130,
+    "verseStart": 7,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 130,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, upright bass, piano, brushed snare, muted trumpet, soft mood, 72 BPM",
+    "lyrics": "[Verse]\nDeep down my soul is calling out\nTo you who sit above the clouds\nMy heart is waiting on your word\nIn all the dark and heavy furor\n\n[Chorus]\nWith the Lord there is steadfast love\nAnd abundant redemption flows\nHe will redeem us from our sins\nThis is where the mercy ends\n\n[Verse]\nI put my hope in what you say\nMy soul waits more than watchmen stay\nThey wait for morning breaking light\nI wait for you through day and night\n\n[Chorus]\nWith the Lord there is steadfast love\nAnd abundant redemption flows\nHe will redeem us from our sins\nThis is where the mercy ends\n\n[Bridge]\nForgiveness rests within your hands\nSo we may fear you as we stand\nNot in dread but holy awe\nYour truth will never fail or waver\n\n[Outro]\nIsrael, hope in the Lord\nWith him is love, a living word",
+    "cot": "full",
+    "seed": 20296
+  }
+}

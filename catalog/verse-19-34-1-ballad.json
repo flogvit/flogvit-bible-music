@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-34-1-ballad",
+  "title": "His Praise Will Always Be On My Lips",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "glede",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and earnest, acoustic guitar, piano, cello, soft pads, gentle drums, hopeful and reverent mood, 85 BPM",
+    "lyrics": "[Verse]\nOf David when he feigned madness\nBefore Abimelech who drove him away\nHe left and found his true rest\n\n[Verse]\nI will bless the LORD at all times\nHis praise will always be on my lips\nMy soul boasts in the LORD\nLet the humble hear and rejoice\n\n[Chorus]\nMagnify the LORD with me\nLet us exalt his name together\nI sought the LORD and he answered me\nHe delivered me from all my fears\n\n[Verse]\nThose who look to him are radiant\nTheir faces will never be ashamed\nI will bless the LORD at all times\nHis praise will always be on my lips\n\n[Chorus]\nMagnify the LORD with me\nLet us exalt his name together\nI sought the LORD and he answered me\nHe delivered me from all my fears\n\n[Outro]\nHis praise will always be on my lips\nMagnify the LORD with me",
+    "cot": "full",
+    "seed": 20302
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-34-18-celtic",
+  "title": "Near to the Brokenhearted",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 18,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 18,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, ancient harp, soft flute, gentle piano, warm strings, deep cello, contemplative and soothing, 80 BPM",
+    "lyrics": "[Verse]\nTurn away from evil and do good\nSeek peace and pursue it day by day\nThe eyes of the LORD are on the righteous\nHis ears are open to their cry\n\n[Chorus]\nThe LORD is near to the brokenhearted\nHe saves those crushed in spirit\nThey cried out and the LORD heard\nHe delivered them from all their troubles\n\n[Verse]\nThe face of the LORD is set against evil\nTo cut off their memory from the earth\nMany are the afflictions of the righteous\nBut the LORD delivers him from them all\n\n[Chorus]\nThe LORD is near to the brokenhearted\nHe saves those crushed in spirit\nThey cried out and the LORD heard\nHe delivered them from all their troubles\n\n[Bridge]\nHe watches over all his bones\nNot one of them is broken\nEvil will put the wicked to death\nAnd the guilty will bear their guilt\n\n[Chorus]\nThe LORD is near to the brokenhearted\nHe saves those crushed in spirit\nThey cried out and the LORD heard\nHe delivered them from all their troubles\n\n[Outro]\nNear to the brokenhearted\nCrushed in spirit he saves",
+    "cot": "full",
+    "seed": 20303
+  }
+}

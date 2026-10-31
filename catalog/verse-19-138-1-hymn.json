@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-138-1-hymn",
+  "title": "I Thank You With All My Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 138,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 138,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn male baritone solo with gentle choir backing, acoustic piano, cello, harp, soft strings, slow and reverent mood, 70 BPM",
+    "lyrics": "[Verse]\nI thank you with all my heart\nBefore the gods I sing your praise\nI bow down toward your holy temple\nGiving thanks to your holy name\nYour steadfast love and faithfulness\nExalted word above all else\n\n[Chorus]\nOn the day I called you answered me\nYou made me bold with strength in my soul\nOn the day I called you answered me\nYou made me bold with strength in my soul\n\n[Verse]\nAll the kings of the earth will thank you\nFor they have heard the words of your mouth\nThey will sing of the ways of the Lord\nFor the glory of the Lord is great\n\n[Chorus]\nOn the day I called you answered me\nYou made me bold with strength in my soul\nOn the day I called you answered me\nYou made me bold with strength in my soul\n\n[Bridge]\nThe Lord is exalted yet he sees the lowly\nThe proud he knows from afar\nYou have exalted your word above all your name\n\n[Outro]\nI thank you with all my heart\nBefore the gods I sing your praise",
+    "cot": "full",
+    "seed": 20297
+  }
+}

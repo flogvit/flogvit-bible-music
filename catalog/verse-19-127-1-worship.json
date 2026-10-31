@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-127-1-worship",
+  "title": "The Lord Builds The House",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 127,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 127,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "hap",
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male vocal, solo with subtle choir, acoustic guitar, piano, cello, strings, gentle, 80 BPM",
+    "lyrics": "[Verse]\nA song of ascents from Solomon\nUnless the Lord builds the house\nIts builders labor in vain\nUnless the Lord watches over the city\nThe watchman keeps guard in vain\n\n[Chorus]\nThe Lord builds the house\nThe Lord watches over the city\nOur labor is vain without Him\nHe gives us the victory\n\n[Verse]\nIn vain you rise early\nAnd stay up late to toil\nEating the bread of anxious work\nTrying to fulfill your goal\nBut the Lord gives sleep\nTo the one he loves\nResting in His sovereign grace\nAway from the waves\n\n[Chorus]\nThe Lord builds the house\nThe Lord watches over the city\nOur labor is vain without Him\nHe gives us the victory\n\n[Bridge]\nLook, children are a heritage\nFrom the Lord himself\nThe fruit of the womb is a reward\nA blessing in life\nLike arrows in the hand\nOf a warrior strong\nSo are the sons of one's youth\nWhere they belong\n\n[Outro]\nThe Lord builds the house\nThe Lord watches over the city\nAmen",
+    "cot": "full",
+    "seed": 20201
+  }
+}

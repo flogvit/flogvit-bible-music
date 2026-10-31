@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-73-23-choral",
+  "title": "Always With You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 73,
+    "verseStart": 23,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 73,
+      "verseStart": 23,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade",
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice with a rich choral background, acoustic guitar, cello, piano, flute, gentle timpani, reverent and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nMy heart was filled with bitter pain\nMy inmost being felt the stain\nI was senseless and blind of sight\nA brute beast in the cold of night\n\n[Chorus]\nYet I am always with you\nYou hold me by my right hand\nYou guide me with your counsel true\nAnd lift me up when I am undone\n\n[Verse]\nAfterward you will take me\nInto the glory you decree\nWhom have I in heaven but you?\nWith you my soul has nothing due\n\n[Chorus]\nYet I am always with you\nYou hold me by my right hand\nYou guide me with your counsel true\nAnd lift me up when I am undone\n\n[Bridge]\nMy flesh and my heart may fail\nBut you are the rock of my soul\nMy portion forever and my goal\n\n[Outro]\nI am always with you\nYou hold me by my right hand",
+    "cot": "full",
+    "seed": 20206
+  }
+}

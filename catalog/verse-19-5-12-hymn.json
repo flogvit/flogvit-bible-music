@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-5-12-hymn",
+  "title": "Rejoice Forever",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 5,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 5,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, strings, cello, hopeful and gentle, 80 BPM",
+    "lyrics": "[Verse]\nLORD lead me in your righteousness\nMake your way straight before me\nThere is nothing trustworthy in their mouth\nWithin them is destruction\n\n[Verse]\nTheir throat is an open grave\nWith their tongues they flatter\nDeclare them guilty God\nLet them fall by their own schemes\n\n[Chorus]\nBut let all who take refuge in you rejoice\nLet them sing for joy forever\nSpread your shelter over them\nLet those who love your name exult in you\n\n[Verse]\nFor you have rebelled against him\nDrive them out for their many transgressions\nBut the righteous find a steady rest\nIn the presence of the Lord\n\n[Chorus]\nBut let all who take refuge in you rejoice\nLet them sing for joy forever\nSpread your shelter over them\nLet those who love your name exult in you\n\n[Bridge]\nYou surround them with favor\nAs with a shield\nThe blessing of the LORD rests\nUpon the righteous heart\n\n[Outro]\nSing for joy forever\nExult in you",
+    "cot": "full",
+    "seed": 20205
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-95-1-acoustic",
+  "title": "Sing For Joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 95,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 95,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm resonance, acoustic guitar, cello, light percussion, soft piano, hopeful and majestic mood, 84 BPM",
+    "lyrics": "[Verse]\nCome let us sing for joy to the Lord\nLet us shout aloud to our rock\nHe is the source of our salvation\nThe foundation of our hope\n\n[Chorus]\nLet us come before him with thanksgiving\nShout to him with songs of praise\nFor the Lord is a great God\nA great King above all gods\n\n[Verse]\nIn his hand are the depths of the earth\nAnd the heights of the mountains are his\nThe sea is his for he made it\nHis hands formed the dry land\n\n[Chorus]\nLet us come before him with thanksgiving\nShout to him with songs of praise\nFor the Lord is a great God\nA great King above all gods\n\n[Bridge]\nCome let us sing for joy to the Lord\nShout aloud to the rock of our salvation\n\n[Chorus]\nLet us come before him with thanksgiving\nShout to him with songs of praise\nFor the Lord is a great God\nA great King above all gods\n\n[Outro]\nShout to him with songs of praise",
+    "cot": "full",
+    "seed": 20207
+  }
+}

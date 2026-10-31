@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-125-1-choral",
+  "title": "Like Mount Zion",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 125,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 125,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with supportive choir, piano, strings, organ, harp, choral, majestic and reassuring mood, 75 BPM",
+    "lyrics": "[Verse]\nThose who trust in the LORD\nAre like Mount Zion today\nIt cannot be shaken by wind\nIt stands forever strong and bright\n\n[Chorus]\nLike Mount Zion, we are held\nLike Mount Zion, we are kept\nSteadfast and secure\n\n[Verse]\nThe mountains surround Jerusalem\nSo the LORD surrounds his people\nBoth now and forevermore\nHis care is constant and true\n\n[Chorus]\nLike Mount Zion, we are held\nLike Mount Zion, we are kept\nSteadfast and secure\n\n[Verse]\nThe scepter of wickedness\nWill not rest on the land\nAllotted to the righteous\nSo they will not reach out\n\n[Pre-Chorus]\nDo good, O LORD, to the good\nTo those upright in heart\n\n[Chorus]\nLike Mount Zion, we are held\nLike Mount Zion, we are kept\nSteadfast and secure\n\n[Bridge]\nThose who turn to crooked ways\nThe LORD will lead them away\nWith the evildoers\n\n[Outro]\nPeace be upon Israel\nPeace be upon Israel",
+    "cot": "full",
+    "seed": 20199
+  }
+}

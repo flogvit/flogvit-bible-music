@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-5-11-jazz",
+  "title": "Sing for Joy Forever",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 5,
+    "verseStart": 11,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 5,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal with warm timbre, brushed drums, upright bass, acoustic guitar, muted trumpet, saxophone, smooth and soulful mood, 85 BPM",
+    "lyrics": "[Verse]\nI enter your house through abundant mercy\nBow in reverence to your holy place\nLead me in your righteousness, O Lord\nMake your way straight before my face\n\n[Chorus]\nLet all who take refuge in you rejoice\nLet them sing for joy forevermore\nSpread your shelter over them completely\nLet those who love your name exult\n\n[Verse]\nDeclare them guilty, God, in your judgment\nLet them fall by their own wicked schemes\nDrive them out for their many transgressions\nFor they have rebelled against your name\n\n[Chorus]\nLet all who take refuge in you rejoice\nLet them sing for joy forevermore\nSpread your shelter over them completely\nLet those who love your name exult\n\n[Bridge]\nThere is nothing trustworthy in their mouth\nWithin them lies a path of destruction\nTheir throat is an open grave to all\nWith their tongues they flatter in vain\n\n[Chorus]\nLet all who take refuge in you rejoice\nLet them sing for joy forevermore\nSpread your shelter over them completely\nLet those who love your name exult\n\n[Outro]\nYou bless the righteous with favor\nSurround them with a shield of grace",
+    "cot": "full",
+    "seed": 20204
+  }
+}

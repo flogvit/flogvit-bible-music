@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-127-3-blues",
+  "title": "Heritage From The Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 127,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 127,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, gravelly solo, upright bass, piano, acoustic guitar, slow burn, 70 BPM",
+    "lyrics": "[Verse]\nUnless the Lord builds the house\nBuilders labor in vain\nUnless He watches the city\nGuardians keep guard in vain\n\n[Pre-Chorus]\nRise early and stay up late\nBread of anxious toil\nBut He gives sleep\nTo the one He loves\n\n[Chorus]\nChildren are a heritage from the Lord\nThe fruit of the womb is a reward\nA heritage from the Lord\nA reward from on high\n\n[Verse]\nLike arrows in the hand of a warrior\nSo are the sons of youth\nHow blessed is the man\nWhose quiver is full\n\n[Pre-Chorus]\nThey will not be put to shame\nWhen they contend at the gate\nThe Lord builds your house\nThe Lord watches your city\n\n[Chorus]\nChildren are a heritage from the Lord\nThe fruit of the womb is a reward\nA heritage from the Lord\nA reward from on high\n\n[Bridge]\nArrows in the hand of a warrior\nSons of one's youth\nBlessed is the man\nFull of them\n\n[Chorus]\nChildren are a heritage from the Lord\nThe fruit of the womb is a reward\nA heritage from the Lord\nA reward from on high",
+    "cot": "full",
+    "seed": 20202
+  }
+}

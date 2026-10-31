@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-29-2-pop",
+  "title": "Splendor of Holiness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 29,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 29,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "david",
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with rich choir, piano, strings, thunder sounds, cinematic, 70 BPM",
+    "lyrics": "[Verse]\nHeavenly beings lift your voice\nGive the glory that he deserves\nGive the strength that he has\n\n[Pre-Chorus]\nThe name is great and holy\nBow down in his presence\n\n[Chorus]\nAscribe to the Lord the glory\nOf his name in the light\nWorship the Lord in the splendor\nOf holiness tonight\n\n[Verse]\nHis voice is over the waters\nGod of glory thunders\nOver the mighty deep places\nPowerful and full of majesty\n\n[Pre-Chorus]\nThe name is great and holy\nBow down in his presence\n\n[Chorus]\nAscribe to the Lord the glory\nOf his name in the light\nWorship the Lord in the splendor\nOf holiness tonight\n\n[Verse]\nHe shatters the cedars\nThe cedars of Lebanon\nThe voice breaks the forest\nThe power is upon us\n\n[Chorus]\nAscribe to the Lord the glory\nOf his name in the light\nWorship the Lord in the splendor\nOf holiness tonight\n\n[Outro]\nSplendor of holiness\nGlory to the Lord",
+    "cot": "full",
+    "seed": 20203
+  }
+}

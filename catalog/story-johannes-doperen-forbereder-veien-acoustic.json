@@ -1,0 +1,43 @@
+{
+  "id": "story-johannes-doperen-forbereder-veien-acoustic",
+  "title": "After Me Comes One Mightier",
+  "kind": "story",
+  "anchor": {
+    "story": "johannes-doperen-forbereder-veien"
+  },
+  "references": [
+    {
+      "bookId": 41,
+      "chapter": 1,
+      "verseStart": 4,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [
+      "johannes-doperen-forbereder-veien"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm folk choir, acoustic guitar, cello, banjo, soft percussion, gentle and reverent mood, 85 BPM",
+    "lyrics": "[Verse]\nJohn appeared in the wilderness\nBaptizing and proclaiming a truth\nA baptism of repentance\nFor the forgiveness of sins\n\n[Chorus]\nAfter me comes one mightier than I\nWhose sandal strap I am not worthy to untie\nHe will baptize you with the Holy Spirit\nI have only baptized with water\n\n[Verse]\nThe whole Judean countryside went out\nAll the people of Jerusalem came\nThey were baptized in the Jordan River\nConfessing their sins to him\n\n[Chorus]\nAfter me comes one mightier than I\nWhose sandal strap I am not worthy to untie\nHe will baptize you with the Holy Spirit\nI have only baptized with water\n\n[Verse]\nClothed in camel's hair\nWith a leather belt around his waist\nHe ate locusts and wild honey\nStanding in the dry land\n\n[Bridge]\nOne more powerful is coming after me\nI am not worthy to stoop down\nAnd untie the strap of his sandals\nMy task is done, I have prepared the way\n\n[Outro]\nHe will baptize you with the Holy Spirit\nAfter me comes one mightier than I",
+    "cot": "full",
+    "seed": 20200
+  }
+}

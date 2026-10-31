@@ -1,0 +1,1186 @@
+{
+ "id": "verse-19-117-1-ballad",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-117-1-ballad",
+ "offset_seconds": -4.50000000000016,
+ "words_heard": 117,
+ "words": 117,
+ "lines": [
+  {
+   "text": "All you nations praise the LORD",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Extol him all you peoples here",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His love is great toward us",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His faithfulness endures forever",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD all you nations",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Extol him all you peoples",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Great is his steadfast love",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faithfulness endures forever",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No border stops this song",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No people left behind",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The LORD is faithful still",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To us his love is kind",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD all you nations",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Extol him all you peoples",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Great is his steadfast love",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faithfulness endures forever",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His love is great toward us",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His faithfulness never ends",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD all you nations",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Extol him all you peoples",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Great is his steadfast love",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faithfulness endures forever",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Endures forever",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "All",
+   "time": 17.36,
+   "weight": 0.58,
+   "note_time": 16.8
+  },
+  {
+   "text": "you",
+   "time": 18.26,
+   "weight": 0.64,
+   "note_time": 17.2
+  },
+  {
+   "text": "na",
+   "time": 18.68,
+   "weight": 0.99,
+   "note_time": 17.4
+  },
+  {
+   "text": "tions",
+   "time": 19.03,
+   "weight": 0.99,
+   "note_time": 18.0
+  },
+  {
+   "text": "praise",
+   "time": 19.46,
+   "weight": 0.65,
+   "note_time": 18.2
+  },
+  {
+   "text": "the",
+   "time": 19.92,
+   "weight": 0.99,
+   "note_time": 18.8
+  },
+  {
+   "text": "LORD",
+   "time": 20.34,
+   "weight": 0.15,
+   "note_time": 19.0
+  },
+  {
+   "text": "Ex",
+   "time": 20.78,
+   "weight": 0.33,
+   "note_time": 22.0
+  },
+  {
+   "text": "tol",
+   "time": 21.13,
+   "weight": 0.33,
+   "note_time": 22.4
+  },
+  {
+   "text": "him",
+   "time": 23.96,
+   "weight": 0.15,
+   "note_time": 22.8
+  },
+  {
+   "text": "all",
+   "time": 24.36,
+   "weight": 0.4,
+   "note_time": 23.0
+  },
+  {
+   "text": "you",
+   "time": 24.66,
+   "weight": 0.65,
+   "note_time": 23.6
+  },
+  {
+   "text": "peo",
+   "time": 25.08,
+   "weight": 0.99,
+   "note_time": 24.0
+  },
+  {
+   "text": "ples",
+   "time": 25.43,
+   "weight": 0.99,
+   "note_time": 24.4
+  },
+  {
+   "text": "here",
+   "time": 25.98,
+   "weight": 0.72,
+   "note_time": 25.2
+  },
+  {
+   "text": "His",
+   "time": 28.4,
+   "weight": 0.36,
+   "note_time": 28.4
+  },
+  {
+   "text": "love",
+   "time": 29.8,
+   "weight": 0.63,
+   "note_time": 30.0
+  },
+  {
+   "text": "is",
+   "time": 30.34,
+   "weight": 0.99,
+   "note_time": 30.4
+  },
+  {
+   "text": "great",
+   "time": 31.54,
+   "weight": 0.99,
+   "note_time": 31.2
+  },
+  {
+   "text": "toward",
+   "time": 32.02,
+   "weight": 0.97,
+   "note_time": 31.6
+  },
+  {
+   "text": "us",
+   "time": 32.96,
+   "weight": 1.0,
+   "note_time": 32.4
+  },
+  {
+   "text": "His",
+   "time": 34.02,
+   "weight": 0.35,
+   "note_time": 34.8
+  },
+  {
+   "text": "faith",
+   "time": 36.32,
+   "weight": 1.0,
+   "note_time": 35.8
+  },
+  {
+   "text": "ful",
+   "time": 36.67,
+   "weight": 1.0,
+   "note_time": 36.4
+  },
+  {
+   "text": "ness",
+   "time": 37.02,
+   "weight": 1.0,
+   "note_time": 36.6
+  },
+  {
+   "text": "en",
+   "time": 37.42,
+   "weight": 1.0,
+   "note_time": 38.0
+  },
+  {
+   "text": "dures",
+   "time": 37.77,
+   "weight": 1.0,
+   "note_time": 38.2
+  },
+  {
+   "text": "for",
+   "time": 38.5,
+   "weight": 0.99,
+   "note_time": 38.4
+  },
+  {
+   "text": "ev",
+   "time": 38.85,
+   "weight": 0.99,
+   "note_time": 38.6
+  },
+  {
+   "text": "er",
+   "time": 39.2,
+   "weight": 0.99,
+   "note_time": 38.8
+  },
+  {
+   "text": "Praise",
+   "time": 42.56,
+   "weight": 0.9,
+   "note_time": 42.4
+  },
+  {
+   "text": "the",
+   "time": 43.96,
+   "weight": 1.0,
+   "note_time": 42.8
+  },
+  {
+   "text": "LORD",
+   "time": 44.22,
+   "weight": 0.97,
+   "note_time": 43.0
+  },
+  {
+   "text": "all",
+   "time": 44.86,
+   "weight": 0.99,
+   "note_time": 43.6
+  },
+  {
+   "text": "you",
+   "time": 45.14,
+   "weight": 0.91,
+   "note_time": 44.0
+  },
+  {
+   "text": "na",
+   "time": 45.44,
+   "weight": 1.0,
+   "note_time": 44.4
+  },
+  {
+   "text": "tions",
+   "time": 45.79,
+   "weight": 1.0,
+   "note_time": 45.2
+  },
+  {
+   "text": "Ex",
+   "time": 46.58,
+   "weight": 0.37,
+   "note_time": 48.4
+  },
+  {
+   "text": "tol",
+   "time": 46.93,
+   "weight": 0.37,
+   "note_time": 48.8
+  },
+  {
+   "text": "him",
+   "time": 50.26,
+   "weight": 0.93,
+   "note_time": 49.2
+  },
+  {
+   "text": "all",
+   "time": 50.7,
+   "weight": 1.0,
+   "note_time": 49.4
+  },
+  {
+   "text": "you",
+   "time": 50.98,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "peo",
+   "time": 51.44,
+   "weight": 0.4,
+   "note_time": 50.8
+  },
+  {
+   "text": "ples",
+   "time": 51.79,
+   "weight": 0.4,
+   "note_time": 51.6
+  },
+  {
+   "text": "Great",
+   "time": 54.4,
+   "weight": 0.46,
+   "note_time": 54.4
+  },
+  {
+   "text": "is",
+   "time": 55.8,
+   "weight": 0.99,
+   "note_time": 55.2
+  },
+  {
+   "text": "his",
+   "time": 56.6,
+   "weight": 0.65,
+   "note_time": 55.6
+  },
+  {
+   "text": "stead",
+   "time": 56.98,
+   "weight": 1.0,
+   "note_time": 56.0
+  },
+  {
+   "text": "fast",
+   "time": 57.33,
+   "weight": 1.0,
+   "note_time": 56.6
+  },
+  {
+   "text": "love",
+   "time": 57.88,
+   "weight": 0.99,
+   "note_time": 57.2
+  },
+  {
+   "text": "Faith",
+   "time": 58.7,
+   "weight": 0.36,
+   "note_time": 60.8
+  },
+  {
+   "text": "ful",
+   "time": 59.05,
+   "weight": 0.36,
+   "note_time": 61.2
+  },
+  {
+   "text": "ness",
+   "time": 59.4,
+   "weight": 0.36,
+   "note_time": 61.4
+  },
+  {
+   "text": "en",
+   "time": 62.68,
+   "weight": 1.0,
+   "note_time": 62.0
+  },
+  {
+   "text": "dures",
+   "time": 63.03,
+   "weight": 1.0,
+   "note_time": 62.2
+  },
+  {
+   "text": "for",
+   "time": 64.02,
+   "weight": 0.99,
+   "note_time": 63.6
+  },
+  {
+   "text": "ev",
+   "time": 64.37,
+   "weight": 0.99,
+   "note_time": 63.8
+  },
+  {
+   "text": "er",
+   "time": 64.72,
+   "weight": 0.99,
+   "note_time": 64.2
+  },
+  {
+   "text": "No",
+   "time": 71.4,
+   "weight": 0.96,
+   "note_time": 71.6
+  },
+  {
+   "text": "bor",
+   "time": 72.8,
+   "weight": 0.98,
+   "note_time": 72.0
+  },
+  {
+   "text": "der",
+   "time": 73.12,
+   "weight": 0.98,
+   "note_time": 72.4
+  },
+  {
+   "text": "stops",
+   "time": 73.44,
+   "weight": 1.0,
+   "note_time": 72.6
+  },
+  {
+   "text": "this",
+   "time": 73.92,
+   "weight": 1.0,
+   "note_time": 73.0
+  },
+  {
+   "text": "song",
+   "time": 74.4,
+   "weight": 1.0,
+   "note_time": 73.4
+  },
+  {
+   "text": "No",
+   "time": 74.88,
+   "weight": 0.39,
+   "note_time": 76.4
+  },
+  {
+   "text": "peo",
+   "time": 77.72,
+   "weight": 1.0,
+   "note_time": 76.8
+  },
+  {
+   "text": "ple",
+   "time": 78.03,
+   "weight": 1.0,
+   "note_time": 77.2
+  },
+  {
+   "text": "left",
+   "time": 78.34,
+   "weight": 1.0,
+   "note_time": 78.0
+  },
+  {
+   "text": "be",
+   "time": 79.24,
+   "weight": 0.4,
+   "note_time": 78.8
+  },
+  {
+   "text": "hind",
+   "time": 79.59,
+   "weight": 0.4,
+   "note_time": 79.6
+  },
+  {
+   "text": "The",
+   "time": 82.68,
+   "weight": 0.15,
+   "note_time": 82.8
+  },
+  {
+   "text": "LORD",
+   "time": 83.9,
+   "weight": 0.97,
+   "note_time": 83.2
+  },
+  {
+   "text": "is",
+   "time": 84.56,
+   "weight": 0.99,
+   "note_time": 84.4
+  },
+  {
+   "text": "faith",
+   "time": 85.68,
+   "weight": 1.0,
+   "note_time": 84.8
+  },
+  {
+   "text": "ful",
+   "time": 85.97,
+   "weight": 1.0,
+   "note_time": 85.4
+  },
+  {
+   "text": "still",
+   "time": 86.26,
+   "weight": 0.98,
+   "note_time": 86.0
+  },
+  {
+   "text": "To",
+   "time": 89.18,
+   "weight": 0.48,
+   "note_time": 89.2
+  },
+  {
+   "text": "us",
+   "time": 90.4,
+   "weight": 1.0,
+   "note_time": 90.8
+  },
+  {
+   "text": "his",
+   "time": 90.9,
+   "weight": 0.77,
+   "note_time": 91.2
+  },
+  {
+   "text": "love",
+   "time": 91.96,
+   "weight": 1.0,
+   "note_time": 92.0
+  },
+  {
+   "text": "is",
+   "time": 92.6,
+   "weight": 1.0,
+   "note_time": 92.4
+  },
+  {
+   "text": "kind",
+   "time": 93.26,
+   "weight": 1.0,
+   "note_time": 92.6
+  },
+  {
+   "text": "Praise",
+   "time": 96.88,
+   "weight": 0.92,
+   "note_time": 96.8
+  },
+  {
+   "text": "the",
+   "time": 98.1,
+   "weight": 1.0,
+   "note_time": 97.2
+  },
+  {
+   "text": "LORD",
+   "time": 98.36,
+   "weight": 1.0,
+   "note_time": 97.4
+  },
+  {
+   "text": "all",
+   "time": 98.96,
+   "weight": 0.98,
+   "note_time": 98.0
+  },
+  {
+   "text": "you",
+   "time": 99.3,
+   "weight": 0.98,
+   "note_time": 98.4
+  },
+  {
+   "text": "na",
+   "time": 99.58,
+   "weight": 1.0,
+   "note_time": 98.8
+  },
+  {
+   "text": "tions",
+   "time": 99.93,
+   "weight": 1.0,
+   "note_time": 99.6
+  },
+  {
+   "text": "Ex",
+   "time": 103.2,
+   "weight": 0.83,
+   "note_time": 102.8
+  },
+  {
+   "text": "tol",
+   "time": 103.55,
+   "weight": 0.83,
+   "note_time": 103.2
+  },
+  {
+   "text": "him",
+   "time": 104.42,
+   "weight": 0.82,
+   "note_time": 103.6
+  },
+  {
+   "text": "all",
+   "time": 104.94,
+   "weight": 1.0,
+   "note_time": 103.8
+  },
+  {
+   "text": "you",
+   "time": 105.2,
+   "weight": 1.0,
+   "note_time": 104.4
+  },
+  {
+   "text": "peo",
+   "time": 105.62,
+   "weight": 0.4,
+   "note_time": 105.2
+  },
+  {
+   "text": "ples",
+   "time": 105.97,
+   "weight": 0.4,
+   "note_time": 106.0
+  },
+  {
+   "text": "Great",
+   "time": 107.18,
+   "weight": 0.1,
+   "note_time": 108.8
+  },
+  {
+   "text": "is",
+   "time": 109.98,
+   "weight": 0.98,
+   "note_time": 109.6
+  },
+  {
+   "text": "his",
+   "time": 110.76,
+   "weight": 0.83,
+   "note_time": 110.0
+  },
+  {
+   "text": "stead",
+   "time": 111.1,
+   "weight": 0.99,
+   "note_time": 110.4
+  },
+  {
+   "text": "fast",
+   "time": 111.45,
+   "weight": 0.99,
+   "note_time": 111.0
+  },
+  {
+   "text": "love",
+   "time": 112.06,
+   "weight": 0.99,
+   "note_time": 111.6
+  },
+  {
+   "text": "Faith",
+   "time": 115.56,
+   "weight": 0.93,
+   "note_time": 115.2
+  },
+  {
+   "text": "ful",
+   "time": 115.91,
+   "weight": 0.93,
+   "note_time": 115.6
+  },
+  {
+   "text": "ness",
+   "time": 116.26,
+   "weight": 0.93,
+   "note_time": 115.8
+  },
+  {
+   "text": "en",
+   "time": 116.96,
+   "weight": 1.0,
+   "note_time": 116.4
+  },
+  {
+   "text": "dures",
+   "time": 117.31,
+   "weight": 1.0,
+   "note_time": 116.6
+  },
+  {
+   "text": "for",
+   "time": 118.36,
+   "weight": 0.99,
+   "note_time": 118.0
+  },
+  {
+   "text": "ev",
+   "time": 118.67,
+   "weight": 0.99,
+   "note_time": 118.2
+  },
+  {
+   "text": "er",
+   "time": 118.97,
+   "weight": 0.99,
+   "note_time": 118.6
+  },
+  {
+   "text": "His",
+   "time": 121.7,
+   "weight": 0.98,
+   "note_time": 122.0
+  },
+  {
+   "text": "love",
+   "time": 123.1,
+   "weight": 1.0,
+   "note_time": 122.8
+  },
+  {
+   "text": "is",
+   "time": 123.58,
+   "weight": 1.0,
+   "note_time": 123.2
+  },
+  {
+   "text": "great",
+   "time": 123.96,
+   "weight": 1.0,
+   "note_time": 124.0
+  },
+  {
+   "text": "toward",
+   "time": 124.38,
+   "weight": 0.9,
+   "note_time": 124.4
+  },
+  {
+   "text": "us",
+   "time": 125.42,
+   "weight": 1.0,
+   "note_time": 125.2
+  },
+  {
+   "text": "His",
+   "time": 128.08,
+   "weight": 0.99,
+   "note_time": 128.4
+  },
+  {
+   "text": "faith",
+   "time": 129.48,
+   "weight": 1.0,
+   "note_time": 128.8
+  },
+  {
+   "text": "ful",
+   "time": 129.83,
+   "weight": 1.0,
+   "note_time": 129.2
+  },
+  {
+   "text": "ness",
+   "time": 130.18,
+   "weight": 1.0,
+   "note_time": 129.6
+  },
+  {
+   "text": "ne",
+   "time": 130.7,
+   "weight": 1.0,
+   "note_time": 130.4
+  },
+  {
+   "text": "ver",
+   "time": 131.05,
+   "weight": 1.0,
+   "note_time": 130.6
+  },
+  {
+   "text": "ends",
+   "time": 131.5,
+   "weight": 0.98,
+   "note_time": 131.2
+  },
+  {
+   "text": "Praise",
+   "time": 132.6,
+   "weight": 0.18,
+   "note_time": 133.6
+  },
+  {
+   "text": "the",
+   "time": 134.62,
+   "weight": 0.99,
+   "note_time": 134.4
+  },
+  {
+   "text": "LORD",
+   "time": 135.4,
+   "weight": 0.97,
+   "note_time": 134.6
+  },
+  {
+   "text": "Praise",
+   "time": 140.14,
+   "weight": 0.15,
+   "note_time": 141.6
+  },
+  {
+   "text": "the",
+   "time": 141.54,
+   "weight": 1.0,
+   "note_time": 142.0
+  },
+  {
+   "text": "LORD",
+   "time": 142.94,
+   "weight": 0.99,
+   "note_time": 142.2
+  },
+  {
+   "text": "all",
+   "time": 143.54,
+   "weight": 1.0,
+   "note_time": 142.8
+  },
+  {
+   "text": "you",
+   "time": 143.86,
+   "weight": 0.97,
+   "note_time": 143.2
+  },
+  {
+   "text": "na",
+   "time": 144.16,
+   "weight": 1.0,
+   "note_time": 143.6
+  },
+  {
+   "text": "tions",
+   "time": 144.51,
+   "weight": 1.0,
+   "note_time": 144.4
+  },
+  {
+   "text": "Ex",
+   "time": 147.56,
+   "weight": 0.88,
+   "note_time": 147.6
+  },
+  {
+   "text": "tol",
+   "time": 147.91,
+   "weight": 0.88,
+   "note_time": 148.0
+  },
+  {
+   "text": "him",
+   "time": 148.96,
+   "weight": 0.91,
+   "note_time": 148.4
+  },
+  {
+   "text": "all",
+   "time": 149.46,
+   "weight": 1.0,
+   "note_time": 148.6
+  },
+  {
+   "text": "you",
+   "time": 149.72,
+   "weight": 1.0,
+   "note_time": 149.2
+  },
+  {
+   "text": "peo",
+   "time": 150.18,
+   "weight": 0.4,
+   "note_time": 150.0
+  },
+  {
+   "text": "ples",
+   "time": 150.53,
+   "weight": 0.4,
+   "note_time": 150.8
+  },
+  {
+   "text": "Great",
+   "time": 153.56,
+   "weight": 0.99,
+   "note_time": 153.6
+  },
+  {
+   "text": "is",
+   "time": 154.56,
+   "weight": 1.0,
+   "note_time": 154.4
+  },
+  {
+   "text": "his",
+   "time": 155.34,
+   "weight": 0.99,
+   "note_time": 154.8
+  },
+  {
+   "text": "stead",
+   "time": 155.62,
+   "weight": 1.0,
+   "note_time": 155.2
+  },
+  {
+   "text": "fast",
+   "time": 155.97,
+   "weight": 1.0,
+   "note_time": 155.8
+  },
+  {
+   "text": "love",
+   "time": 156.64,
+   "weight": 1.0,
+   "note_time": 156.4
+  },
+  {
+   "text": "Faith",
+   "time": 160.0,
+   "weight": 0.91,
+   "note_time": 160.0
+  },
+  {
+   "text": "ful",
+   "time": 160.35,
+   "weight": 0.91,
+   "note_time": 160.4
+  },
+  {
+   "text": "ness",
+   "time": 160.7,
+   "weight": 0.91,
+   "note_time": 160.6
+  },
+  {
+   "text": "en",
+   "time": 161.4,
+   "weight": 1.0,
+   "note_time": 161.2
+  },
+  {
+   "text": "dures",
+   "time": 161.75,
+   "weight": 1.0,
+   "note_time": 161.4
+  },
+  {
+   "text": "for",
+   "time": 162.76,
+   "weight": 0.99,
+   "note_time": 162.8
+  },
+  {
+   "text": "ev",
+   "time": 163.11,
+   "weight": 0.99,
+   "note_time": 163.0
+  },
+  {
+   "text": "er",
+   "time": 163.46,
+   "weight": 0.99,
+   "note_time": 163.4
+  },
+  {
+   "text": "En",
+   "time": 167.82,
+   "weight": 0.74,
+   "note_time": 167.6
+  },
+  {
+   "text": "dures",
+   "time": 168.17,
+   "weight": 0.74,
+   "note_time": 168.0
+  },
+  {
+   "text": "for",
+   "time": 169.22,
+   "weight": 1.0,
+   "note_time": 169.2
+  },
+  {
+   "text": "ev",
+   "time": 169.55,
+   "weight": 1.0,
+   "note_time": 169.4
+  },
+  {
+   "text": "er",
+   "time": 169.87,
+   "weight": 1.0,
+   "note_time": 169.6
+  },
+  {
+   "text": "Praise",
+   "time": 179.74,
+   "weight": 0.91,
+   "note_time": 180.8
+  },
+  {
+   "text": "the",
+   "time": 181.14,
+   "weight": 1.0,
+   "note_time": 181.6
+  },
+  {
+   "text": "LORD",
+   "time": 182.54,
+   "weight": 0.97,
+   "note_time": 182.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 25 lyric lines sit on their notes."
+}

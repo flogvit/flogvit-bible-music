@@ -1,0 +1,49 @@
+{
+  "id": "verse-58-9-28-hymn",
+  "title": "Second Time To Save",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 9,
+    "verseStart": 28,
+    "verseEnd": 28
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 9,
+      "verseStart": 28,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, hymn, male solo with choir, organ, strings, cello, piano, hopeful and reverent, 80 BPM",
+    "lyrics": "[Verse]\nHe did not enter year by year\nWith blood that was not his own\nNo endless suffering for us\nSince the foundation of the world\n\n[Chorus]\nHe will appear a second time\nNot to deal with sin again\nBut to bring salvation now\nTo those who wait for him\n\n[Verse]\nHe appeared once for all\nAt the culmination of ages\nTo do away with sin\nBy the sacrifice of himself\n\n[Chorus]\nHe will appear a second time\nNot to deal with sin again\nBut to bring salvation now\nTo those who wait for him\n\n[Bridge]\nWe die once and face judgment\nAs it is appointed for us\nBut his offering bears the sins\nOf many who look to him\n\n[Chorus]\nHe will appear a second time\nNot to deal with sin again\nBut to bring salvation now\nTo those who wait for him\n\n[Outro]\nHe will appear a second time\nTo bring salvation to us",
+    "cot": "full",
+    "seed": 20231
+  }
+}

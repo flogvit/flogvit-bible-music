@@ -1,0 +1,45 @@
+{
+  "id": "story-omri-bygger-samaria-children",
+  "title": "Samaria After Shemer",
+  "kind": "story",
+  "anchor": {
+    "story": "omri-bygger-samaria"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 23,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "synden",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "omri-bygger-samaria"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Children, solo female voice with gentle choir, acoustic guitar, piano, harp, soft percussion, warm and narrative, 80 BPM",
+    "lyrics": "[Verse]\nIn the thirty-first year of Asa's reign\nOmri took his seat upon the throne\nHe ruled for twelve years in the land\nSix of them in Tirzah he held the land\n\n[Pre-Chorus]\nHe saw a hill that needed a name\nAnd he saw a price that would be paid\nTwo talents of silver he gave\nTo the owner of the hill in the valley\n\n[Chorus]\nHe bought the hill of Samaria\nFrom Shemer the owner of the land\nHe built a city on the stone\nAnd named it after the man he found\n\n[Verse]\nBut Omri did evil in the Lord's sight\nMore wicked than all who went before\nHe followed the path of Jeroboam\nAnd led Israel away from the door\n\n[Pre-Chorus]\nWith worthless idols they provoked\nThe God of Israel to be angry\nThey followed the sin of the king\nAnd turned their hearts to vanity\n\n[Chorus]\nHe bought the hill of Samaria\nFrom Shemer the owner of the land\nHe built a city on the stone\nAnd named it after the man he found\n\n[Bridge]\nThe book of the kings records his acts\nThe exploits he performed are known\nBut Omri rested with his fathers\nAnd was buried in the city alone\n\n[Outro]\nHis son Ahab became king in his place\nAnd the story of Israel continued on",
+    "cot": "full",
+    "seed": 20233
+  }
+}

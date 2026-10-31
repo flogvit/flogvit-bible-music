@@ -1,0 +1,48 @@
+{
+  "id": "verse-58-4-16-jazz",
+  "title": "Throne of Grace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 4,
+    "verseStart": 16,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 4,
+      "verseStart": 16,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "salvation"
+    ],
+    "themes": [
+      "nade",
+      "guds-trofasthet",
+      "frykt"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, female soulful voice solo with subtle choir, upright bass, brushed drums, piano, saxophone, warm intimate mood, 75 BPM",
+    "lyrics": "[Verse]\nEverything is naked and exposed\nBefore the eyes of the one\nTo whom we must give account\nNo creature can be hidden\n\n[Verse]\nWe hold fast to our confession\nOur high priest passed through the heavens\nJesus the Son of God\nAble to sympathize with us\n\n[Chorus]\nApproach the throne of grace with confidence\nReceive mercy in your time of need\nFind grace to help you now\nWith confidence approach the throne\n\n[Verse]\nTempted in every way as we are\nYet without sin he remains\nA great high priest for us\nUnable to sympathize is not\n\n[Chorus]\nApproach the throne of grace with confidence\nReceive mercy in your time of need\nFind grace to help you now\nWith confidence approach the throne\n\n[Bridge]\nOur weaknesses are seen\nBy one who understands\nYet he offers help\nIn your time of need\n\n[Outro]\nApproach the throne of grace\nWith confidence today",
+    "cot": "full",
+    "seed": 20230
+  }
+}

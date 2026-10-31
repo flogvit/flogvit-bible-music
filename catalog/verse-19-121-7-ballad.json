@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-121-7-ballad",
+  "title": "Now And Forevermore",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 121,
+    "verseStart": 7,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 121,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and intimate, acoustic guitar, piano, soft cello, gentle drums, hopeful and protective mood, 72 BPM",
+    "lyrics": "[Verse]\nThe sun will not strike you by day\nNor the moon by night\nThe Lord is your shade at your right side\nProtecting your sight\n\n[Chorus]\nThe Lord will keep you from all harm\nHe will watch over your life\nThe Lord will watch over your going out\nAnd your coming in\nNow and forevermore\n\n[Verse]\nHe who watches over Israel\nNeither slumbers nor sleeps\nHe sees every step of your life\nWhile you quietly weeps\n\n[Chorus]\nThe Lord will keep you from all harm\nHe will watch over your life\nThe Lord will watch over your going out\nAnd your coming in\nNow and forevermore\n\n[Bridge]\nFrom the morning light to the dark\nHe is near to your heart\nNo shadow of harm can remain\nWhen his watch is the same\n\n[Chorus]\nThe Lord will keep you from all harm\nHe will watch over your life\nThe Lord will watch over your going out\nAnd your coming in\nNow and forevermore\n\n[Outro]\nNow and forevermore\nHe watches over you",
+    "cot": "full",
+    "seed": 20235
+  }
+}

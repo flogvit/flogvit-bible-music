@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-107-1-soul",
+  "title": "Mercy Endures Forever",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 107,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 107,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, female solo voice with gospel choir, upright piano, Hammond organ, double bass, electric guitar, warm and grateful mood, 80 BPM",
+    "lyrics": "[Verse]\nGive thanks to the Lord today\nFor he is good and stays\nHis mercy endures forever\nLet the redeemed say so\n\n[Chorus]\nMercy endures forever\nGoodness is his name\nPraise the Lord for his kindness\nWe are not the same\n\n[Verse]\nHe redeemed from the enemy\nGathered out of the lands\nFrom east and from the west\nFrom north and the seas\n\n[Chorus]\nMercy endures forever\nGoodness is his name\nPraise the Lord for his kindness\nWe are not the same\n\n[Verse]\nSome wandered in the wilderness\nA wasteland with no road\nFound no city to live in\nLost in the cold\n\n[Chorus]\nMercy endures forever\nGoodness is his name\nPraise the Lord for his kindness\nWe are not the same\n\n[Outro]\nHis mercy endures forever",
+    "cot": "full",
+    "seed": 20234
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "verse-58-4-12-pop",
+  "title": "Living and Active",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 4,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, pop, female vocal solo with ethereal choir, piano, soft synth pads, cello, gentle drums, uplifting and reverent, 85 BPM",
+    "lyrics": "[Verse]\nA sabbath rest remains for us\nWhoever enters stops their works\nLike God rested from His own\nMake every effort to go on\nSo none fall by disobedience\nLet us hold fast to the promise\n\n[Chorus]\nThe word of God is living and active\nSharper than any two-edged sword\nIt pierces to the point where soul and spirit divide\nJudges the thoughts and intentions of the heart\n\n[Verse]\nNo creature is hidden from Him\nEverything lies naked and exposed\nBefore the eyes of the one\nTo whom we must give account\nWe have a great high priest\nJesus the Son of God\nWho has passed through the heavens\nLet us hold fast to our confession\n\n[Chorus]\nThe word of God is living and active\nSharper than any two-edged sword\nIt pierces to the point where soul and spirit divide\nJudges the thoughts and intentions of the heart\n\n[Bridge]\nHe sympathizes with our weaknesses\nTempted in every way as we are\nYet without sin, He stands near\nA great high priest for our fear\n\n[Chorus]\nThe word of God is living and active\nSharper than any two-edged sword\nIt pierces to the point where soul and spirit divide\nJudges the thoughts and intentions of the heart\n\n[Outro]\nLiving and active\nSharper than a sword",
+    "cot": "full",
+    "seed": 20229
+  }
+}

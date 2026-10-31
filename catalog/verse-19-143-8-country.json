@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-143-8-country",
+  "title": "Steadfast Love in the Morning",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 143,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 143,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice with gravelly texture, solo with acoustic guitar, steel guitar, fiddle, and soft drum kit, melancholic yet hopeful, 75 BPM",
+    "lyrics": "[Verse]\nI remember the days of old\nMeditating on what you have done\nPondering the work of your hands\nStretching out to you in the sun\nMy soul thirsts for you so deep\nLike a parched land with no sleep\n\n[Pre-Chorus]\nAnswer me quickly, Lord, I pray\nMy spirit is spent away\nDo not hide your face from me\nOr I will fall into the pit\n\n[Chorus]\nLet me hear of your steadfast love\nIn the morning, let it move\nFor I trust in you alone\nShow me the way I should walk\nTo you I lift up my soul\n\n[Verse]\nDeliver me from my enemies\nTo you I flee for cover\nTeach me to do your will\nFor you are my God, my shelter\nLet your good Spirit lead\nMe on level ground, indeed\n\n[Chorus]\nLet me hear of your steadfast love\nIn the morning, let it move\nFor I trust in you alone\nShow me the way I should walk\nTo you I lift up my soul\n\n[Bridge]\nFor your name's sake, Lord, preserve\nMy life, in your righteousness\nBring me out of trouble now\nYour grace is my only peace\n\n[Chorus]\nLet me hear of your steadfast love\nIn the morning, let it move\nFor I trust in you alone\nShow me the way I should walk\nTo you I lift up my soul\n\n[Outro]\nSteadfast love in the morning\nI trust in you",
+    "cot": "full",
+    "seed": 20237
+  }
+}

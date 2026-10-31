@@ -1,0 +1,47 @@
+{
+  "id": "story-epafroditus-sykdom-og-helbredelse-choral",
+  "title": "Fellow Soldier",
+  "kind": "story",
+  "anchor": {
+    "story": "epafroditus-sykdom-og-helbredelse"
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 2,
+      "verseStart": 25,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [],
+    "stories": [
+      "epafroditus-sykdom-og-helbredelse"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, Male solo voice with warm choir, cello, flute, organ, harp, gentle choral mood, 72 BPM",
+    "lyrics": "[Verse]\nI thought it needful now to send\nMy brother Epaphroditus back\nA fellow worker and soldier friend\nYour messenger for my need\n\n[Verse]\nHe longed for you with heavy heart\nDistressed by news of his illness\nHe lay in pain, his life apart\nFrom breath and life in this world\n\n[Verse]\nIndeed he was ill near death\nGod showed mercy to him\nAnd mercy to me from beneath\nThe weight of sorrow upon my mind\n\n[Verse]\nSo I am eager to send him forth\nThat you may rejoice at sight\nAnd ease the weight of my worth\nOf sorrow lifted from the night\n\n[Verse]\nWelcome him in the Lord with joy\nHold such people in high honor\nHe faced death for Christ's employ\nRisking life to help me more\n\n[Outro]\nHe risked his life for the work of Christ",
+    "cot": "full",
+    "seed": 20232
+  }
+}

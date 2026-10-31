@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-126-1-celtic",
+  "title": "Great Things for Us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 126,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 126,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "glede",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice, emotional and folk-like, with choir backing, bodhran, fiddle, flute, acoustic guitar, gentle harp, hopeful and celebratory mood, 90 BPM",
+    "lyrics": "[Verse]\nWhen the Lord restored the fortunes of Zion\nWe were like those who dream\nMouths filled with laughter\nTongues with shouts of joy\n\n[Chorus]\nThe Lord has done great things for us\nAnd we are glad\nThe Lord has done great things for us\nAnd we are glad\n\n[Verse]\nThen it was said among the nations\nThe Lord has done great things for them\nRestore our fortunes, O Lord\nLike streams in the desert\n\n[Chorus]\nThe Lord has done great things for us\nAnd we are glad\nThe Lord has done great things for us\nAnd we are glad\n\n[Bridge]\nThose who sow in tears\nWill reap with shouts of joy\nWhoever goes out weeping\nCarrying seed to sow\n\n[Outro]\nWill come home with shouts of joy\nCarrying the sheaves\nThe Lord has done great things for us\nAnd we are glad",
+    "cot": "full",
+    "seed": 20236
+  }
+}

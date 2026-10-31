@@ -1,0 +1,46 @@
+{
+  "id": "verse-58-10-35-blues",
+  "title": "It Carries A Great Reward",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 10,
+    "verseStart": 35,
+    "verseEnd": 36
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 10,
+      "verseStart": 35,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male voice, solo with gospel choir, electric guitar, upright bass, piano, drums, mournful and hopeful, 85 BPM",
+    "lyrics": "[Verse]\nRemember the days when light broke through\nYou endured the hard struggle and pain\nPublicly exposed to the world's view\nSide by side with the ones in chains\n\n[Pre-Chorus]\nSuffered with the prisoners in the dark\nAccepted the loss of what was yours\nJoyfully took the seizure of your mark\nKnowing your treasure is far more secure\n\n[Chorus]\nSo do not throw away your confidence now\nIt carries a great reward for your soul\nYou need endurance to hold your ground\nUntil you receive what God foretold\n\n[Verse]\nYou had a better and lasting possession\nNot things that decay or fade away\nBut a hope that stands in its session\nWhile the world turns and shifts its day\n\n[Pre-Chorus]\nDo not let your spirit shrink back\nMy soul takes no pleasure in fear\nThe one who is coming will not lack\nAnd will not delay in coming here\n\n[Chorus]\nSo do not throw away your confidence now\nIt carries a great reward for your soul\nYou need endurance to hold your ground\nUntil you receive what God foretold\n\n[Bridge]\nMy righteous one will live by faith\nNot among those who shrink and are destroyed\nBut preserving the soul in this age\nWith the promise of life as our joy\n\n[Chorus]\nSo do not throw away your confidence now\nIt carries a great reward for your soul\nYou need endurance to hold your ground\nUntil you receive what God foretold\n\n[Outro]\nHold fast to the faith\nIt will not be lost in the dark\nHold fast to the faith",
+    "cot": "full",
+    "seed": 20228
+  }
+}

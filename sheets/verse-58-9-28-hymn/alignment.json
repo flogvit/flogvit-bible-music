@@ -1,0 +1,1344 @@
+{
+ "id": "verse-58-9-28-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-58-9-28-hymn",
+ "offset_seconds": 9.179999999999549,
+ "words_heard": 149,
+ "words": 149,
+ "lines": [
+  {
+   "text": "He did not enter year by year",
+   "heard": 7,
+   "words": 7,
+   "error_s": 9.79,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "With blood that was not his own",
+   "heard": 7,
+   "words": 7,
+   "error_s": 10.08,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "No endless suffering for us",
+   "heard": 5,
+   "words": 5,
+   "error_s": 10.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Since the foundation of the world",
+   "heard": 6,
+   "words": 6,
+   "error_s": 10.49,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He will appear a second time",
+   "heard": 6,
+   "words": 6,
+   "error_s": 10.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Not to deal with sin again",
+   "heard": 6,
+   "words": 6,
+   "error_s": 10.88,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But to bring salvation now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 11.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To those who wait for him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 11.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He appeared once for all",
+   "heard": 5,
+   "words": 5,
+   "error_s": 11.49,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "At the culmination of ages",
+   "heard": 5,
+   "words": 5,
+   "error_s": 11.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To do away with sin",
+   "heard": 5,
+   "words": 5,
+   "error_s": 11.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "By the sacrifice of himself",
+   "heard": 5,
+   "words": 5,
+   "error_s": 12.04,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He will appear a second time",
+   "heard": 6,
+   "words": 6,
+   "error_s": 11.95,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Not to deal with sin again",
+   "heard": 6,
+   "words": 6,
+   "error_s": 12.26,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But to bring salvation now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 12.09,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To those who wait for him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 12.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "We die once and face judgment",
+   "heard": 6,
+   "words": 6,
+   "error_s": 12.76,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As it is appointed for us",
+   "heard": 6,
+   "words": 6,
+   "error_s": 12.65,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But his offering bears the sins",
+   "heard": 6,
+   "words": 6,
+   "error_s": 12.74,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Of many who look to him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 13.16,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He will appear a second time",
+   "heard": 6,
+   "words": 6,
+   "error_s": 13.4,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Not to deal with sin again",
+   "heard": 6,
+   "words": 6,
+   "error_s": 13.67,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But to bring salvation now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 13.81,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To those who wait for him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 13.86,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He will appear a second time",
+   "heard": 6,
+   "words": 6,
+   "error_s": 14.0,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To bring salvation to us",
+   "heard": 5,
+   "words": 5,
+   "error_s": 13.9,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "He",
+   "time": 0.64,
+   "weight": 0.57,
+   "note_time": 11.45
+  },
+  {
+   "text": "did",
+   "time": 2.04,
+   "weight": 0.98,
+   "note_time": 11.84
+  },
+  {
+   "text": "not",
+   "time": 2.46,
+   "weight": 1.0,
+   "note_time": 12.24
+  },
+  {
+   "text": "en",
+   "time": 3.02,
+   "weight": 0.99,
+   "note_time": 12.63
+  },
+  {
+   "text": "ter",
+   "time": 3.37,
+   "weight": 0.99,
+   "note_time": 13.42
+  },
+  {
+   "text": "year",
+   "time": 3.82,
+   "weight": 0.85,
+   "note_time": 13.82
+  },
+  {
+   "text": "by",
+   "time": 4.72,
+   "weight": 0.99,
+   "note_time": 14.21
+  },
+  {
+   "text": "year",
+   "time": 5.6,
+   "weight": 1.0,
+   "note_time": 15.0
+  },
+  {
+   "text": "With",
+   "time": 6.64,
+   "weight": 0.25,
+   "note_time": 18.55
+  },
+  {
+   "text": "blood",
+   "time": 8.86,
+   "weight": 0.99,
+   "note_time": 18.95
+  },
+  {
+   "text": "that",
+   "time": 9.56,
+   "weight": 1.0,
+   "note_time": 20.13
+  },
+  {
+   "text": "was",
+   "time": 10.62,
+   "weight": 1.0,
+   "note_time": 20.53
+  },
+  {
+   "text": "not",
+   "time": 11.04,
+   "weight": 1.0,
+   "note_time": 21.12
+  },
+  {
+   "text": "his",
+   "time": 11.8,
+   "weight": 0.39,
+   "note_time": 21.71
+  },
+  {
+   "text": "own",
+   "time": 12.24,
+   "weight": 1.0,
+   "note_time": 22.11
+  },
+  {
+   "text": "No",
+   "time": 12.92,
+   "weight": 0.33,
+   "note_time": 24.08
+  },
+  {
+   "text": "end",
+   "time": 14.52,
+   "weight": 0.95,
+   "note_time": 24.47
+  },
+  {
+   "text": "less",
+   "time": 14.82,
+   "weight": 0.95,
+   "note_time": 24.87
+  },
+  {
+   "text": "suf",
+   "time": 15.12,
+   "weight": 0.97,
+   "note_time": 25.26
+  },
+  {
+   "text": "fering",
+   "time": 15.47,
+   "weight": 0.97,
+   "note_time": 26.05
+  },
+  {
+   "text": "for",
+   "time": 16.36,
+   "weight": 0.4,
+   "note_time": 26.45
+  },
+  {
+   "text": "us",
+   "time": 17.92,
+   "weight": 1.0,
+   "note_time": 27.63
+  },
+  {
+   "text": "Since",
+   "time": 18.9,
+   "weight": 0.41,
+   "note_time": 30.0
+  },
+  {
+   "text": "the",
+   "time": 20.28,
+   "weight": 1.0,
+   "note_time": 30.59
+  },
+  {
+   "text": "foun",
+   "time": 20.78,
+   "weight": 1.0,
+   "note_time": 31.18
+  },
+  {
+   "text": "da",
+   "time": 21.09,
+   "weight": 1.0,
+   "note_time": 31.58
+  },
+  {
+   "text": "tion",
+   "time": 21.39,
+   "weight": 1.0,
+   "note_time": 32.37
+  },
+  {
+   "text": "of",
+   "time": 21.7,
+   "weight": 0.97,
+   "note_time": 32.76
+  },
+  {
+   "text": "the",
+   "time": 23.06,
+   "weight": 0.99,
+   "note_time": 33.95
+  },
+  {
+   "text": "world",
+   "time": 24.02,
+   "weight": 0.95,
+   "note_time": 34.34
+  },
+  {
+   "text": "He",
+   "time": 25.52,
+   "weight": 0.64,
+   "note_time": 36.71
+  },
+  {
+   "text": "will",
+   "time": 26.68,
+   "weight": 1.0,
+   "note_time": 37.11
+  },
+  {
+   "text": "ap",
+   "time": 27.18,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "pear",
+   "time": 27.53,
+   "weight": 1.0,
+   "note_time": 37.89
+  },
+  {
+   "text": "a",
+   "time": 27.92,
+   "weight": 0.99,
+   "note_time": 39.08
+  },
+  {
+   "text": "sec",
+   "time": 29.16,
+   "weight": 1.0,
+   "note_time": 39.47
+  },
+  {
+   "text": "ond",
+   "time": 29.51,
+   "weight": 1.0,
+   "note_time": 40.26
+  },
+  {
+   "text": "time",
+   "time": 29.88,
+   "weight": 1.0,
+   "note_time": 41.05
+  },
+  {
+   "text": "Not",
+   "time": 32.36,
+   "weight": 0.95,
+   "note_time": 43.42
+  },
+  {
+   "text": "to",
+   "time": 33.36,
+   "weight": 1.0,
+   "note_time": 43.82
+  },
+  {
+   "text": "deal",
+   "time": 33.68,
+   "weight": 1.0,
+   "note_time": 44.21
+  },
+  {
+   "text": "with",
+   "time": 34.46,
+   "weight": 1.0,
+   "note_time": 45.39
+  },
+  {
+   "text": "sin",
+   "time": 35.22,
+   "weight": 1.0,
+   "note_time": 45.79
+  },
+  {
+   "text": "a",
+   "time": 35.7,
+   "weight": 1.0,
+   "note_time": 46.58
+  },
+  {
+   "text": "gain",
+   "time": 36.05,
+   "weight": 1.0,
+   "note_time": 46.97
+  },
+  {
+   "text": "But",
+   "time": 38.12,
+   "weight": 0.99,
+   "note_time": 49.74
+  },
+  {
+   "text": "to",
+   "time": 39.52,
+   "weight": 1.0,
+   "note_time": 50.13
+  },
+  {
+   "text": "bring",
+   "time": 39.82,
+   "weight": 1.0,
+   "note_time": 50.53
+  },
+  {
+   "text": "sal",
+   "time": 40.28,
+   "weight": 0.4,
+   "note_time": 51.32
+  },
+  {
+   "text": "va",
+   "time": 40.63,
+   "weight": 0.4,
+   "note_time": 52.11
+  },
+  {
+   "text": "tion",
+   "time": 40.98,
+   "weight": 0.4,
+   "note_time": 52.89
+  },
+  {
+   "text": "now",
+   "time": 42.26,
+   "weight": 1.0,
+   "note_time": 53.68
+  },
+  {
+   "text": "To",
+   "time": 43.46,
+   "weight": 0.06,
+   "note_time": 56.45
+  },
+  {
+   "text": "those",
+   "time": 45.86,
+   "weight": 0.93,
+   "note_time": 56.84
+  },
+  {
+   "text": "who",
+   "time": 46.58,
+   "weight": 0.99,
+   "note_time": 57.63
+  },
+  {
+   "text": "wait",
+   "time": 47.2,
+   "weight": 0.95,
+   "note_time": 58.42
+  },
+  {
+   "text": "for",
+   "time": 48.16,
+   "weight": 0.99,
+   "note_time": 59.61
+  },
+  {
+   "text": "him",
+   "time": 49.18,
+   "weight": 0.57,
+   "note_time": 60.0
+  },
+  {
+   "text": "He",
+   "time": 53.08,
+   "weight": 0.65,
+   "note_time": 65.53
+  },
+  {
+   "text": "ap",
+   "time": 54.48,
+   "weight": 1.0,
+   "note_time": 65.92
+  },
+  {
+   "text": "peared",
+   "time": 54.83,
+   "weight": 1.0,
+   "note_time": 66.32
+  },
+  {
+   "text": "once",
+   "time": 55.62,
+   "weight": 0.38,
+   "note_time": 67.89
+  },
+  {
+   "text": "for",
+   "time": 57.18,
+   "weight": 1.0,
+   "note_time": 68.68
+  },
+  {
+   "text": "all",
+   "time": 57.9,
+   "weight": 1.0,
+   "note_time": 69.08
+  },
+  {
+   "text": "At",
+   "time": 59.38,
+   "weight": 0.37,
+   "note_time": 71.84
+  },
+  {
+   "text": "the",
+   "time": 61.02,
+   "weight": 1.0,
+   "note_time": 72.24
+  },
+  {
+   "text": "cul",
+   "time": 61.28,
+   "weight": 0.34,
+   "note_time": 72.63
+  },
+  {
+   "text": "mi",
+   "time": 61.63,
+   "weight": 0.34,
+   "note_time": 73.42
+  },
+  {
+   "text": "na",
+   "time": 61.98,
+   "weight": 0.34,
+   "note_time": 73.82
+  },
+  {
+   "text": "tion",
+   "time": 62.33,
+   "weight": 0.34,
+   "note_time": 74.61
+  },
+  {
+   "text": "of",
+   "time": 63.64,
+   "weight": 1.0,
+   "note_time": 75.39
+  },
+  {
+   "text": "a",
+   "time": 64.52,
+   "weight": 1.0,
+   "note_time": 75.79
+  },
+  {
+   "text": "ges",
+   "time": 64.87,
+   "weight": 1.0,
+   "note_time": 76.18
+  },
+  {
+   "text": "To",
+   "time": 65.8,
+   "weight": 0.98,
+   "note_time": 77.76
+  },
+  {
+   "text": "do",
+   "time": 66.74,
+   "weight": 1.0,
+   "note_time": 78.16
+  },
+  {
+   "text": "a",
+   "time": 67.2,
+   "weight": 0.99,
+   "note_time": 78.55
+  },
+  {
+   "text": "way",
+   "time": 67.55,
+   "weight": 0.99,
+   "note_time": 78.95
+  },
+  {
+   "text": "with",
+   "time": 67.9,
+   "weight": 0.4,
+   "note_time": 81.32
+  },
+  {
+   "text": "sin",
+   "time": 70.18,
+   "weight": 1.0,
+   "note_time": 82.11
+  },
+  {
+   "text": "By",
+   "time": 71.0,
+   "weight": 0.08,
+   "note_time": 84.47
+  },
+  {
+   "text": "the",
+   "time": 73.24,
+   "weight": 0.99,
+   "note_time": 84.87
+  },
+  {
+   "text": "sac",
+   "time": 73.66,
+   "weight": 0.94,
+   "note_time": 85.26
+  },
+  {
+   "text": "ri",
+   "time": 74.01,
+   "weight": 0.94,
+   "note_time": 86.05
+  },
+  {
+   "text": "fice",
+   "time": 74.36,
+   "weight": 0.94,
+   "note_time": 86.45
+  },
+  {
+   "text": "of",
+   "time": 74.86,
+   "weight": 0.98,
+   "note_time": 87.24
+  },
+  {
+   "text": "him",
+   "time": 76.14,
+   "weight": 0.41,
+   "note_time": 87.63
+  },
+  {
+   "text": "self",
+   "time": 76.39,
+   "weight": 0.41,
+   "note_time": 88.03
+  },
+  {
+   "text": "He",
+   "time": 77.76,
+   "weight": 0.69,
+   "note_time": 90.39
+  },
+  {
+   "text": "will",
+   "time": 79.02,
+   "weight": 1.0,
+   "note_time": 90.79
+  },
+  {
+   "text": "ap",
+   "time": 79.48,
+   "weight": 1.0,
+   "note_time": 91.18
+  },
+  {
+   "text": "pear",
+   "time": 79.83,
+   "weight": 1.0,
+   "note_time": 91.58
+  },
+  {
+   "text": "a",
+   "time": 80.22,
+   "weight": 0.97,
+   "note_time": 92.76
+  },
+  {
+   "text": "sec",
+   "time": 81.46,
+   "weight": 1.0,
+   "note_time": 93.16
+  },
+  {
+   "text": "ond",
+   "time": 81.81,
+   "weight": 1.0,
+   "note_time": 93.95
+  },
+  {
+   "text": "time",
+   "time": 82.22,
+   "weight": 1.0,
+   "note_time": 94.74
+  },
+  {
+   "text": "Not",
+   "time": 84.48,
+   "weight": 0.92,
+   "note_time": 97.11
+  },
+  {
+   "text": "to",
+   "time": 85.66,
+   "weight": 1.0,
+   "note_time": 97.5
+  },
+  {
+   "text": "deal",
+   "time": 85.96,
+   "weight": 1.0,
+   "note_time": 97.89
+  },
+  {
+   "text": "with",
+   "time": 86.82,
+   "weight": 1.0,
+   "note_time": 99.08
+  },
+  {
+   "text": "sin",
+   "time": 87.56,
+   "weight": 1.0,
+   "note_time": 99.47
+  },
+  {
+   "text": "a",
+   "time": 87.98,
+   "weight": 1.0,
+   "note_time": 100.26
+  },
+  {
+   "text": "gain",
+   "time": 88.33,
+   "weight": 1.0,
+   "note_time": 100.66
+  },
+  {
+   "text": "But",
+   "time": 90.3,
+   "weight": 0.39,
+   "note_time": 103.42
+  },
+  {
+   "text": "to",
+   "time": 91.82,
+   "weight": 1.0,
+   "note_time": 103.82
+  },
+  {
+   "text": "bring",
+   "time": 92.12,
+   "weight": 1.0,
+   "note_time": 104.21
+  },
+  {
+   "text": "sal",
+   "time": 92.56,
+   "weight": 0.4,
+   "note_time": 105.0
+  },
+  {
+   "text": "va",
+   "time": 92.91,
+   "weight": 0.4,
+   "note_time": 105.79
+  },
+  {
+   "text": "tion",
+   "time": 93.26,
+   "weight": 0.4,
+   "note_time": 106.58
+  },
+  {
+   "text": "now",
+   "time": 94.54,
+   "weight": 1.0,
+   "note_time": 107.37
+  },
+  {
+   "text": "To",
+   "time": 95.7,
+   "weight": 0.06,
+   "note_time": 110.13
+  },
+  {
+   "text": "those",
+   "time": 98.14,
+   "weight": 0.97,
+   "note_time": 110.53
+  },
+  {
+   "text": "who",
+   "time": 98.88,
+   "weight": 0.99,
+   "note_time": 111.32
+  },
+  {
+   "text": "wait",
+   "time": 99.48,
+   "weight": 0.96,
+   "note_time": 112.11
+  },
+  {
+   "text": "for",
+   "time": 100.42,
+   "weight": 0.99,
+   "note_time": 113.29
+  },
+  {
+   "text": "him",
+   "time": 101.36,
+   "weight": 0.63,
+   "note_time": 113.68
+  },
+  {
+   "text": "We",
+   "time": 103.68,
+   "weight": 0.5,
+   "note_time": 117.24
+  },
+  {
+   "text": "die",
+   "time": 105.04,
+   "weight": 0.99,
+   "note_time": 117.63
+  },
+  {
+   "text": "once",
+   "time": 105.66,
+   "weight": 0.99,
+   "note_time": 118.42
+  },
+  {
+   "text": "and",
+   "time": 106.44,
+   "weight": 0.95,
+   "note_time": 118.82
+  },
+  {
+   "text": "face",
+   "time": 106.8,
+   "weight": 1.0,
+   "note_time": 119.21
+  },
+  {
+   "text": "judg",
+   "time": 107.2,
+   "weight": 0.86,
+   "note_time": 120.0
+  },
+  {
+   "text": "ment",
+   "time": 107.55,
+   "weight": 0.86,
+   "note_time": 120.39
+  },
+  {
+   "text": "As",
+   "time": 110.5,
+   "weight": 0.88,
+   "note_time": 123.95
+  },
+  {
+   "text": "it",
+   "time": 111.86,
+   "weight": 1.0,
+   "note_time": 124.34
+  },
+  {
+   "text": "is",
+   "time": 112.18,
+   "weight": 1.0,
+   "note_time": 124.54
+  },
+  {
+   "text": "ap",
+   "time": 112.48,
+   "weight": 1.0,
+   "note_time": 125.13
+  },
+  {
+   "text": "point",
+   "time": 112.69,
+   "weight": 1.0,
+   "note_time": 125.33
+  },
+  {
+   "text": "ed",
+   "time": 112.91,
+   "weight": 1.0,
+   "note_time": 125.92
+  },
+  {
+   "text": "for",
+   "time": 113.12,
+   "weight": 1.0,
+   "note_time": 126.32
+  },
+  {
+   "text": "us",
+   "time": 114.06,
+   "weight": 1.0,
+   "note_time": 126.71
+  },
+  {
+   "text": "But",
+   "time": 116.3,
+   "weight": 0.39,
+   "note_time": 130.26
+  },
+  {
+   "text": "his",
+   "time": 117.92,
+   "weight": 0.95,
+   "note_time": 130.66
+  },
+  {
+   "text": "of",
+   "time": 118.32,
+   "weight": 1.0,
+   "note_time": 130.86
+  },
+  {
+   "text": "fering",
+   "time": 118.67,
+   "weight": 1.0,
+   "note_time": 131.45
+  },
+  {
+   "text": "bears",
+   "time": 119.04,
+   "weight": 1.0,
+   "note_time": 131.84
+  },
+  {
+   "text": "the",
+   "time": 119.5,
+   "weight": 1.0,
+   "note_time": 132.24
+  },
+  {
+   "text": "sins",
+   "time": 119.88,
+   "weight": 0.95,
+   "note_time": 132.63
+  },
+  {
+   "text": "Of",
+   "time": 120.34,
+   "weight": 0.23,
+   "note_time": 135.39
+  },
+  {
+   "text": "ma",
+   "time": 122.66,
+   "weight": 1.0,
+   "note_time": 135.79
+  },
+  {
+   "text": "ny",
+   "time": 123.01,
+   "weight": 1.0,
+   "note_time": 136.38
+  },
+  {
+   "text": "who",
+   "time": 123.38,
+   "weight": 0.99,
+   "note_time": 136.97
+  },
+  {
+   "text": "look",
+   "time": 124.4,
+   "weight": 0.97,
+   "note_time": 137.37
+  },
+  {
+   "text": "to",
+   "time": 124.96,
+   "weight": 1.0,
+   "note_time": 138.16
+  },
+  {
+   "text": "him",
+   "time": 125.56,
+   "weight": 0.79,
+   "note_time": 138.55
+  },
+  {
+   "text": "He",
+   "time": 129.9,
+   "weight": 0.75,
+   "note_time": 144.08
+  },
+  {
+   "text": "will",
+   "time": 131.3,
+   "weight": 1.0,
+   "note_time": 144.47
+  },
+  {
+   "text": "ap",
+   "time": 131.78,
+   "weight": 1.0,
+   "note_time": 144.87
+  },
+  {
+   "text": "pear",
+   "time": 132.13,
+   "weight": 1.0,
+   "note_time": 145.26
+  },
+  {
+   "text": "a",
+   "time": 132.5,
+   "weight": 0.98,
+   "note_time": 146.45
+  },
+  {
+   "text": "sec",
+   "time": 133.66,
+   "weight": 1.0,
+   "note_time": 146.84
+  },
+  {
+   "text": "ond",
+   "time": 134.01,
+   "weight": 1.0,
+   "note_time": 147.63
+  },
+  {
+   "text": "time",
+   "time": 134.54,
+   "weight": 1.0,
+   "note_time": 148.42
+  },
+  {
+   "text": "Not",
+   "time": 136.9,
+   "weight": 0.97,
+   "note_time": 150.79
+  },
+  {
+   "text": "to",
+   "time": 137.98,
+   "weight": 1.0,
+   "note_time": 151.18
+  },
+  {
+   "text": "deal",
+   "time": 138.28,
+   "weight": 1.0,
+   "note_time": 151.58
+  },
+  {
+   "text": "with",
+   "time": 138.98,
+   "weight": 1.0,
+   "note_time": 152.76
+  },
+  {
+   "text": "sin",
+   "time": 139.84,
+   "weight": 1.0,
+   "note_time": 153.16
+  },
+  {
+   "text": "a",
+   "time": 140.28,
+   "weight": 1.0,
+   "note_time": 153.95
+  },
+  {
+   "text": "gain",
+   "time": 140.63,
+   "weight": 1.0,
+   "note_time": 154.34
+  },
+  {
+   "text": "But",
+   "time": 142.66,
+   "weight": 0.99,
+   "note_time": 157.11
+  },
+  {
+   "text": "to",
+   "time": 144.14,
+   "weight": 1.0,
+   "note_time": 157.5
+  },
+  {
+   "text": "bring",
+   "time": 144.4,
+   "weight": 1.0,
+   "note_time": 157.89
+  },
+  {
+   "text": "sal",
+   "time": 144.86,
+   "weight": 0.4,
+   "note_time": 158.68
+  },
+  {
+   "text": "va",
+   "time": 145.21,
+   "weight": 0.4,
+   "note_time": 159.47
+  },
+  {
+   "text": "tion",
+   "time": 145.56,
+   "weight": 0.4,
+   "note_time": 160.26
+  },
+  {
+   "text": "now",
+   "time": 146.92,
+   "weight": 0.95,
+   "note_time": 161.05
+  },
+  {
+   "text": "To",
+   "time": 148.04,
+   "weight": 0.17,
+   "note_time": 163.82
+  },
+  {
+   "text": "those",
+   "time": 150.5,
+   "weight": 0.76,
+   "note_time": 164.21
+  },
+  {
+   "text": "who",
+   "time": 151.14,
+   "weight": 1.0,
+   "note_time": 165.0
+  },
+  {
+   "text": "wait",
+   "time": 151.82,
+   "weight": 0.99,
+   "note_time": 165.79
+  },
+  {
+   "text": "for",
+   "time": 152.68,
+   "weight": 1.0,
+   "note_time": 166.97
+  },
+  {
+   "text": "him",
+   "time": 153.66,
+   "weight": 0.69,
+   "note_time": 167.37
+  },
+  {
+   "text": "He",
+   "time": 155.12,
+   "weight": 0.82,
+   "note_time": 169.34
+  },
+  {
+   "text": "will",
+   "time": 155.9,
+   "weight": 1.0,
+   "note_time": 169.74
+  },
+  {
+   "text": "ap",
+   "time": 156.4,
+   "weight": 1.0,
+   "note_time": 170.13
+  },
+  {
+   "text": "pear",
+   "time": 156.75,
+   "weight": 1.0,
+   "note_time": 170.53
+  },
+  {
+   "text": "a",
+   "time": 157.12,
+   "weight": 0.98,
+   "note_time": 171.71
+  },
+  {
+   "text": "sec",
+   "time": 158.38,
+   "weight": 1.0,
+   "note_time": 172.11
+  },
+  {
+   "text": "ond",
+   "time": 158.73,
+   "weight": 1.0,
+   "note_time": 172.89
+  },
+  {
+   "text": "time",
+   "time": 159.14,
+   "weight": 1.0,
+   "note_time": 173.68
+  },
+  {
+   "text": "To",
+   "time": 161.82,
+   "weight": 0.95,
+   "note_time": 176.45
+  },
+  {
+   "text": "bring",
+   "time": 162.94,
+   "weight": 1.0,
+   "note_time": 176.84
+  },
+  {
+   "text": "sal",
+   "time": 163.36,
+   "weight": 0.4,
+   "note_time": 179.21
+  },
+  {
+   "text": "va",
+   "time": 163.71,
+   "weight": 0.4,
+   "note_time": 180.0
+  },
+  {
+   "text": "tion",
+   "time": 164.06,
+   "weight": 0.4,
+   "note_time": 180.39
+  },
+  {
+   "text": "to",
+   "time": 166.38,
+   "weight": 0.27,
+   "note_time": 180.79
+  },
+  {
+   "text": "us",
+   "time": 171.7,
+   "weight": 0.73,
+   "note_time": 185.53
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "0 of 26 lyric lines sit clearly on their notes; 26 are uncertain and printed in grey italics."
+}

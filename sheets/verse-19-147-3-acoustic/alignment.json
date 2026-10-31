@@ -1,0 +1,1183 @@
+{
+ "id": "verse-19-147-3-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-147-3-acoustic",
+ "offset_seconds": -2.9800000000001923,
+ "words_heard": 124,
+ "words": 125,
+ "lines": [
+  {
+   "text": "Praise the LORD with a joyful song",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It is good to sing to our God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How pleasant it is",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How fitting to praise him",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The LORD rebuilds Jerusalem",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He gathers the outcasts of Israel",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He heals the brokenhearted",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And binds up their wounds",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He heals the brokenhearted",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And binds up their wounds",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He counts the number of the stars",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And calls each one by name",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Great is our Lord",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mighty in power",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His understanding has no limit",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He heals the brokenhearted",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And binds up their wounds",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He heals the brokenhearted",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And binds up their wounds",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The LORD lifts up the humble",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He casts the wicked to the ground",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His power is endless",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His love is deep",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He heals the brokenhearted",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And binds up their wounds",
+   "heard": 5,
+   "words": 5,
+   "error_s": 2.1,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Praise",
+   "time": 16.08,
+   "weight": 0.28,
+   "note_time": 16.58
+  },
+  {
+   "text": "the",
+   "time": 17.0,
+   "weight": 1.0,
+   "note_time": 16.97
+  },
+  {
+   "text": "LORD",
+   "time": 17.4,
+   "weight": 0.15,
+   "note_time": 17.17
+  },
+  {
+   "text": "with",
+   "time": 17.82,
+   "weight": 0.94,
+   "note_time": 17.76
+  },
+  {
+   "text": "a",
+   "time": 18.28,
+   "weight": 0.99,
+   "note_time": 17.96
+  },
+  {
+   "text": "joy",
+   "time": 18.4,
+   "weight": 0.99,
+   "note_time": 18.16
+  },
+  {
+   "text": "ful",
+   "time": 18.6,
+   "weight": 0.99,
+   "note_time": 18.55
+  },
+  {
+   "text": "song",
+   "time": 18.8,
+   "weight": 1.0,
+   "note_time": 18.95
+  },
+  {
+   "text": "It",
+   "time": 19.6,
+   "weight": 0.31,
+   "note_time": 22.89
+  },
+  {
+   "text": "is",
+   "time": 23.4,
+   "weight": 1.0,
+   "note_time": 23.09
+  },
+  {
+   "text": "good",
+   "time": 23.7,
+   "weight": 1.0,
+   "note_time": 23.49
+  },
+  {
+   "text": "to",
+   "time": 24.12,
+   "weight": 1.0,
+   "note_time": 24.08
+  },
+  {
+   "text": "sing",
+   "time": 24.52,
+   "weight": 1.0,
+   "note_time": 24.28
+  },
+  {
+   "text": "to",
+   "time": 24.92,
+   "weight": 1.0,
+   "note_time": 24.87
+  },
+  {
+   "text": "our",
+   "time": 25.4,
+   "weight": 0.98,
+   "note_time": 25.07
+  },
+  {
+   "text": "God",
+   "time": 25.68,
+   "weight": 1.0,
+   "note_time": 25.26
+  },
+  {
+   "text": "How",
+   "time": 26.34,
+   "weight": 0.37,
+   "note_time": 28.03
+  },
+  {
+   "text": "pleas",
+   "time": 28.52,
+   "weight": 1.0,
+   "note_time": 28.42
+  },
+  {
+   "text": "ant",
+   "time": 28.82,
+   "weight": 1.0,
+   "note_time": 29.01
+  },
+  {
+   "text": "it",
+   "time": 29.12,
+   "weight": 0.99,
+   "note_time": 29.41
+  },
+  {
+   "text": "is",
+   "time": 30.02,
+   "weight": 1.0,
+   "note_time": 29.61
+  },
+  {
+   "text": "How",
+   "time": 30.74,
+   "weight": 0.66,
+   "note_time": 31.18
+  },
+  {
+   "text": "fit",
+   "time": 31.74,
+   "weight": 1.0,
+   "note_time": 31.58
+  },
+  {
+   "text": "ting",
+   "time": 32.0,
+   "weight": 1.0,
+   "note_time": 31.78
+  },
+  {
+   "text": "to",
+   "time": 32.26,
+   "weight": 0.98,
+   "note_time": 32.76
+  },
+  {
+   "text": "praise",
+   "time": 33.34,
+   "weight": 1.0,
+   "note_time": 32.96
+  },
+  {
+   "text": "him",
+   "time": 33.74,
+   "weight": 0.91,
+   "note_time": 33.55
+  },
+  {
+   "text": "The",
+   "time": 34.28,
+   "weight": 0.69,
+   "note_time": 34.54
+  },
+  {
+   "text": "LORD",
+   "time": 35.24,
+   "weight": 0.97,
+   "note_time": 35.13
+  },
+  {
+   "text": "re",
+   "time": 35.62,
+   "weight": 0.98,
+   "note_time": 35.33
+  },
+  {
+   "text": "builds",
+   "time": 35.97,
+   "weight": 0.98,
+   "note_time": 35.92
+  },
+  {
+   "text": "Je",
+   "time": 36.5,
+   "weight": 1.0,
+   "note_time": 36.12
+  },
+  {
+   "text": "ru",
+   "time": 36.59,
+   "weight": 1.0,
+   "note_time": 36.51
+  },
+  {
+   "text": "sa",
+   "time": 36.68,
+   "weight": 1.0,
+   "note_time": 36.71
+  },
+  {
+   "text": "lem",
+   "time": 36.77,
+   "weight": 1.0,
+   "note_time": 36.91
+  },
+  {
+   "text": "He",
+   "time": 37.62,
+   "weight": 0.92,
+   "note_time": 37.7
+  },
+  {
+   "text": "gath",
+   "time": 38.32,
+   "weight": 0.99,
+   "note_time": 38.29
+  },
+  {
+   "text": "ers",
+   "time": 38.57,
+   "weight": 0.99,
+   "note_time": 38.49
+  },
+  {
+   "text": "the",
+   "time": 38.82,
+   "weight": 1.0,
+   "note_time": 38.88
+  },
+  {
+   "text": "out",
+   "time": 39.04,
+   "weight": 0.9,
+   "note_time": 39.28
+  },
+  {
+   "text": "casts",
+   "time": 39.39,
+   "weight": 0.9,
+   "note_time": 39.47
+  },
+  {
+   "text": "of",
+   "time": 39.96,
+   "weight": 1.0,
+   "note_time": 39.87
+  },
+  {
+   "text": "Is",
+   "time": 40.1,
+   "weight": 0.99,
+   "note_time": 40.07
+  },
+  {
+   "text": "rael",
+   "time": 40.37,
+   "weight": 0.99,
+   "note_time": 40.26
+  },
+  {
+   "text": "He",
+   "time": 40.64,
+   "weight": 0.98,
+   "note_time": 40.66
+  },
+  {
+   "text": "heals",
+   "time": 41.5,
+   "weight": 1.0,
+   "note_time": 41.05
+  },
+  {
+   "text": "the",
+   "time": 42.6,
+   "weight": 0.98,
+   "note_time": 43.03
+  },
+  {
+   "text": "bro",
+   "time": 43.74,
+   "weight": 0.37,
+   "note_time": 43.22
+  },
+  {
+   "text": "ken",
+   "time": 44.09,
+   "weight": 0.37,
+   "note_time": 43.62
+  },
+  {
+   "text": "heart",
+   "time": 44.44,
+   "weight": 0.37,
+   "note_time": 44.01
+  },
+  {
+   "text": "ed",
+   "time": 44.79,
+   "weight": 0.37,
+   "note_time": 44.61
+  },
+  {
+   "text": "And",
+   "time": 46.74,
+   "weight": 0.82,
+   "note_time": 46.97
+  },
+  {
+   "text": "binds",
+   "time": 47.82,
+   "weight": 0.9,
+   "note_time": 47.37
+  },
+  {
+   "text": "up",
+   "time": 48.56,
+   "weight": 0.4,
+   "note_time": 48.55
+  },
+  {
+   "text": "their",
+   "time": 50.1,
+   "weight": 0.98,
+   "note_time": 48.95
+  },
+  {
+   "text": "wounds",
+   "time": 50.62,
+   "weight": 1.0,
+   "note_time": 49.74
+  },
+  {
+   "text": "He",
+   "time": 52.88,
+   "weight": 0.99,
+   "note_time": 53.29
+  },
+  {
+   "text": "heals",
+   "time": 54.28,
+   "weight": 1.0,
+   "note_time": 53.68
+  },
+  {
+   "text": "the",
+   "time": 55.26,
+   "weight": 1.0,
+   "note_time": 55.66
+  },
+  {
+   "text": "bro",
+   "time": 56.14,
+   "weight": 0.4,
+   "note_time": 55.86
+  },
+  {
+   "text": "ken",
+   "time": 56.49,
+   "weight": 0.4,
+   "note_time": 56.25
+  },
+  {
+   "text": "heart",
+   "time": 56.84,
+   "weight": 0.4,
+   "note_time": 56.64
+  },
+  {
+   "text": "ed",
+   "time": 57.19,
+   "weight": 0.4,
+   "note_time": 57.24
+  },
+  {
+   "text": "And",
+   "time": 58.06,
+   "weight": 0.06,
+   "note_time": 59.61
+  },
+  {
+   "text": "binds",
+   "time": 60.26,
+   "weight": 0.28,
+   "note_time": 60.0
+  },
+  {
+   "text": "up",
+   "time": 61.42,
+   "weight": 0.0,
+   "note_time": 61.58
+  },
+  {
+   "text": "their",
+   "time": 62.58,
+   "weight": 0.99,
+   "note_time": 62.37
+  },
+  {
+   "text": "wounds",
+   "time": 63.46,
+   "weight": 0.98,
+   "note_time": 62.76
+  },
+  {
+   "text": "He",
+   "time": 68.86,
+   "weight": 0.81,
+   "note_time": 70.07
+  },
+  {
+   "text": "counts",
+   "time": 70.22,
+   "weight": 0.99,
+   "note_time": 70.26
+  },
+  {
+   "text": "the",
+   "time": 71.58,
+   "weight": 1.0,
+   "note_time": 70.66
+  },
+  {
+   "text": "num",
+   "time": 71.84,
+   "weight": 0.99,
+   "note_time": 70.86
+  },
+  {
+   "text": "ber",
+   "time": 72.12,
+   "weight": 0.99,
+   "note_time": 71.45
+  },
+  {
+   "text": "of",
+   "time": 72.4,
+   "weight": 1.0,
+   "note_time": 71.64
+  },
+  {
+   "text": "the",
+   "time": 72.88,
+   "weight": 0.98,
+   "note_time": 72.24
+  },
+  {
+   "text": "stars",
+   "time": 73.38,
+   "weight": 1.0,
+   "note_time": 72.43
+  },
+  {
+   "text": "And",
+   "time": 75.78,
+   "weight": 0.93,
+   "note_time": 76.97
+  },
+  {
+   "text": "calls",
+   "time": 77.14,
+   "weight": 0.99,
+   "note_time": 77.17
+  },
+  {
+   "text": "each",
+   "time": 78.5,
+   "weight": 1.0,
+   "note_time": 77.57
+  },
+  {
+   "text": "one",
+   "time": 78.94,
+   "weight": 0.99,
+   "note_time": 77.96
+  },
+  {
+   "text": "by",
+   "time": 79.26,
+   "weight": 1.0,
+   "note_time": 78.36
+  },
+  {
+   "text": "name",
+   "time": 79.64,
+   "weight": 0.99,
+   "note_time": 78.55
+  },
+  {
+   "text": "Great",
+   "time": 82.04,
+   "weight": 0.99,
+   "note_time": 82.11
+  },
+  {
+   "text": "is",
+   "time": 83.4,
+   "weight": 1.0,
+   "note_time": 82.7
+  },
+  {
+   "text": "our",
+   "time": 84.06,
+   "weight": 0.98,
+   "note_time": 83.09
+  },
+  {
+   "text": "Lord",
+   "time": 84.52,
+   "weight": 0.99,
+   "note_time": 83.49
+  },
+  {
+   "text": "Mig",
+   "time": 85.34,
+   "weight": 0.37,
+   "note_time": 85.26
+  },
+  {
+   "text": "hty",
+   "time": 85.69,
+   "weight": 0.37,
+   "note_time": 85.86
+  },
+  {
+   "text": "in",
+   "time": 86.92,
+   "weight": 0.93,
+   "note_time": 86.25
+  },
+  {
+   "text": "pow",
+   "time": 87.6,
+   "weight": 0.99,
+   "note_time": 86.64
+  },
+  {
+   "text": "er",
+   "time": 87.82,
+   "weight": 0.99,
+   "note_time": 87.24
+  },
+  {
+   "text": "His",
+   "time": 88.04,
+   "weight": 0.15,
+   "note_time": 88.22
+  },
+  {
+   "text": "un",
+   "time": 89.48,
+   "weight": 0.98,
+   "note_time": 88.42
+  },
+  {
+   "text": "der",
+   "time": 89.73,
+   "weight": 0.98,
+   "note_time": 88.82
+  },
+  {
+   "text": "stand",
+   "time": 89.97,
+   "weight": 0.98,
+   "note_time": 89.01
+  },
+  {
+   "text": "ing",
+   "time": 90.22,
+   "weight": 0.98,
+   "note_time": 89.61
+  },
+  {
+   "text": "has",
+   "time": 90.46,
+   "weight": 1.0,
+   "note_time": 89.8
+  },
+  {
+   "text": "no",
+   "time": 91.26,
+   "weight": 1.0,
+   "note_time": 90.2
+  },
+  {
+   "text": "lim",
+   "time": 91.72,
+   "weight": 0.93,
+   "note_time": 90.79
+  },
+  {
+   "text": "it",
+   "time": 92.03,
+   "weight": 0.93,
+   "note_time": 90.99
+  },
+  {
+   "text": "He",
+   "time": 94.34,
+   "weight": 0.83,
+   "note_time": 94.34
+  },
+  {
+   "text": "heals",
+   "time": 95.74,
+   "weight": 1.0,
+   "note_time": 94.74
+  },
+  {
+   "text": "the",
+   "time": 97.08,
+   "weight": 0.99,
+   "note_time": 96.71
+  },
+  {
+   "text": "bro",
+   "time": 98.12,
+   "weight": 0.36,
+   "note_time": 96.91
+  },
+  {
+   "text": "ken",
+   "time": 98.47,
+   "weight": 0.36,
+   "note_time": 97.3
+  },
+  {
+   "text": "heart",
+   "time": 98.82,
+   "weight": 0.36,
+   "note_time": 97.7
+  },
+  {
+   "text": "ed",
+   "time": 99.17,
+   "weight": 0.36,
+   "note_time": 98.29
+  },
+  {
+   "text": "And",
+   "time": 101.04,
+   "weight": 0.75,
+   "note_time": 100.66
+  },
+  {
+   "text": "binds",
+   "time": 102.22,
+   "weight": 0.93,
+   "note_time": 102.24
+  },
+  {
+   "text": "up",
+   "time": 102.98,
+   "weight": 1.0,
+   "note_time": 102.63
+  },
+  {
+   "text": "their",
+   "time": 104.38,
+   "weight": 0.99,
+   "note_time": 103.42
+  },
+  {
+   "text": "wounds",
+   "time": 105.02,
+   "weight": 1.0,
+   "note_time": 103.82
+  },
+  {
+   "text": "He",
+   "time": 107.26,
+   "weight": 0.98,
+   "note_time": 106.97
+  },
+  {
+   "text": "heals",
+   "time": 108.66,
+   "weight": 1.0,
+   "note_time": 107.37
+  },
+  {
+   "text": "the",
+   "time": 109.58,
+   "weight": 1.0,
+   "note_time": 109.34
+  },
+  {
+   "text": "bro",
+   "time": 111.0,
+   "weight": 0.4,
+   "note_time": 109.54
+  },
+  {
+   "text": "ken",
+   "time": 111.35,
+   "weight": 0.4,
+   "note_time": 109.93
+  },
+  {
+   "text": "heart",
+   "time": 111.7,
+   "weight": 0.4,
+   "note_time": 110.33
+  },
+  {
+   "text": "ed",
+   "time": 112.05,
+   "weight": 0.4,
+   "note_time": 110.92
+  },
+  {
+   "text": "And",
+   "time": 112.5,
+   "weight": 0.06,
+   "note_time": 113.29
+  },
+  {
+   "text": "binds",
+   "time": 114.7,
+   "weight": 0.9,
+   "note_time": 114.87
+  },
+  {
+   "text": "up",
+   "time": 115.68,
+   "weight": 0.4,
+   "note_time": 115.26
+  },
+  {
+   "text": "their",
+   "time": 117.2,
+   "weight": 0.98,
+   "note_time": 116.05
+  },
+  {
+   "text": "wounds",
+   "time": 117.86,
+   "weight": 1.0,
+   "note_time": 116.45
+  },
+  {
+   "text": "The",
+   "time": 120.2,
+   "weight": 0.87,
+   "note_time": 119.8
+  },
+  {
+   "text": "LORD",
+   "time": 121.54,
+   "weight": 0.97,
+   "note_time": 121.18
+  },
+  {
+   "text": "lifts",
+   "time": 121.92,
+   "weight": 1.0,
+   "note_time": 121.38
+  },
+  {
+   "text": "up",
+   "time": 122.36,
+   "weight": 1.0,
+   "note_time": 121.97
+  },
+  {
+   "text": "the",
+   "time": 122.76,
+   "weight": 1.0,
+   "note_time": 122.96
+  },
+  {
+   "text": "hum",
+   "time": 122.98,
+   "weight": 1.0,
+   "note_time": 123.16
+  },
+  {
+   "text": "ble",
+   "time": 123.32,
+   "weight": 1.0,
+   "note_time": 123.75
+  },
+  {
+   "text": "He",
+   "time": 123.66,
+   "weight": 0.93,
+   "note_time": 123.95
+  },
+  {
+   "text": "casts",
+   "time": 124.76,
+   "weight": 0.98,
+   "note_time": 124.14
+  },
+  {
+   "text": "the",
+   "time": 125.18,
+   "weight": 1.0,
+   "note_time": 124.54
+  },
+  {
+   "text": "wic",
+   "time": 125.58,
+   "weight": 1.0,
+   "note_time": 125.13
+  },
+  {
+   "text": "ked",
+   "time": 125.79,
+   "weight": 1.0,
+   "note_time": 125.33
+  },
+  {
+   "text": "to",
+   "time": 126.0,
+   "weight": 1.0,
+   "note_time": 125.53
+  },
+  {
+   "text": "the",
+   "time": 126.36,
+   "weight": 1.0,
+   "note_time": 125.92
+  },
+  {
+   "text": "ground",
+   "time": 126.94,
+   "weight": 1.0,
+   "note_time": 126.32
+  },
+  {
+   "text": "His",
+   "time": 127.44,
+   "weight": 0.99,
+   "note_time": 126.91
+  },
+  {
+   "text": "pow",
+   "time": 127.88,
+   "weight": 0.99,
+   "note_time": 127.5
+  },
+  {
+   "text": "er",
+   "time": 128.23,
+   "weight": 0.99,
+   "note_time": 127.7
+  },
+  {
+   "text": "is",
+   "time": 128.6,
+   "weight": 1.0,
+   "note_time": 128.29
+  },
+  {
+   "text": "end",
+   "time": 129.46,
+   "weight": 1.0,
+   "note_time": 129.08
+  },
+  {
+   "text": "less",
+   "time": 129.8,
+   "weight": 1.0,
+   "note_time": 129.47
+  },
+  {
+   "text": "His",
+   "time": 130.2,
+   "weight": 0.85,
+   "note_time": 130.66
+  },
+  {
+   "text": "love",
+   "time": 131.1,
+   "weight": 1.0,
+   "note_time": 131.05
+  },
+  {
+   "text": "is",
+   "time": 131.62,
+   "weight": 1.0,
+   "note_time": 132.24
+  },
+  {
+   "text": "deep",
+   "time": 132.7,
+   "weight": 0.91,
+   "note_time": 132.43
+  },
+  {
+   "text": "He",
+   "time": 136.14,
+   "weight": 0.99,
+   "note_time": 135.39
+  },
+  {
+   "text": "heals",
+   "time": 137.48,
+   "weight": 1.0,
+   "note_time": 135.79
+  },
+  {
+   "text": "the",
+   "time": 138.5,
+   "weight": 0.98,
+   "note_time": 137.76
+  },
+  {
+   "text": "bro",
+   "time": 139.7,
+   "weight": 0.37,
+   "note_time": 137.96
+  },
+  {
+   "text": "ken",
+   "time": 140.05,
+   "weight": 0.37,
+   "note_time": 138.36
+  },
+  {
+   "text": "heart",
+   "time": 140.4,
+   "weight": 0.37,
+   "note_time": 138.75
+  },
+  {
+   "text": "ed",
+   "time": 140.75,
+   "weight": 0.37,
+   "note_time": 139.34
+  },
+  {
+   "text": "And",
+   "time": 141.34,
+   "weight": 0.1,
+   "note_time": 141.71
+  },
+  {
+   "text": "binds",
+   "time": 143.5,
+   "weight": 0.41,
+   "note_time": 142.11
+  },
+  {
+   "text": "up",
+   "time": 144.34,
+   "weight": 0.22,
+   "note_time": 143.29
+  },
+  {
+   "text": "their",
+   "time": 145.96,
+   "weight": 0.75,
+   "note_time": 143.68
+  },
+  {
+   "text": "wounds",
+   "time": 146.4,
+   "weight": 0.89,
+   "note_time": 144.47
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 4.9 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "22 of 25 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

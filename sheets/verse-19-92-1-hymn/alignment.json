@@ -1,0 +1,1516 @@
+{
+ "id": "verse-19-92-1-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-92-1-hymn",
+ "offset_seconds": -6.040000000000127,
+ "words_heard": 137,
+ "words": 196,
+ "lines": [
+  {
+   "text": "A psalm for the Sabbath day",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.45,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is good to give thanks to the LORD",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.62,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "to sing praise to your name, O Most High",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.68,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is good to give thanks to the LORD",
+   "heard": 9,
+   "words": 9,
+   "error_s": 57.85,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "to sing praise to your name, O Most High",
+   "heard": 9,
+   "words": 9,
+   "error_s": 57.71,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "to declare your steadfast love in the morning",
+   "heard": 8,
+   "words": 8,
+   "error_s": 57.61,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "and your faithfulness through the nights",
+   "heard": 5,
+   "words": 6,
+   "error_s": 57.11,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "On the ten-stringed lute and on the harp",
+   "heard": 0,
+   "words": 8,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "to the melody of the lyre",
+   "heard": 0,
+   "words": 6,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For you have made me glad by your work",
+   "heard": 0,
+   "words": 9,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "O LORD, I sing for joy at your hands",
+   "heard": 0,
+   "words": 9,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is good to give thanks to the LORD",
+   "heard": 0,
+   "words": 9,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "to sing praise to your name, O Most High",
+   "heard": 0,
+   "words": 9,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "to declare your steadfast love in the morning",
+   "heard": 0,
+   "words": 8,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "and your faithfulness through the nights",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your deeds of hands bring me joy",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.34,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Your work makes my heart glad",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "O LORD, I praise you always",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In morning light and through the night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It is good to give thanks to the LORD",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "to sing praise to your name, O Most High",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "to declare your steadfast love in the morning",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "and your faithfulness through the nights",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It is good to give thanks to the LORD",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "to sing praise to your name, O Most High",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "A",
+   "time": 18.06,
+   "weight": 0.47,
+   "note_time": 16.23
+  },
+  {
+   "text": "psalm",
+   "time": 19.1,
+   "weight": 0.68,
+   "note_time": 16.44
+  },
+  {
+   "text": "for",
+   "time": 19.7,
+   "weight": 0.98,
+   "note_time": 18.08
+  },
+  {
+   "text": "the",
+   "time": 20.96,
+   "weight": 0.99,
+   "note_time": 18.49
+  },
+  {
+   "text": "Sab",
+   "time": 21.44,
+   "weight": 0.95,
+   "note_time": 18.7
+  },
+  {
+   "text": "bath",
+   "time": 21.7,
+   "weight": 0.95,
+   "note_time": 19.32
+  },
+  {
+   "text": "day",
+   "time": 21.96,
+   "weight": 0.94,
+   "note_time": 19.52
+  },
+  {
+   "text": "It",
+   "time": 22.7,
+   "weight": 0.32,
+   "note_time": 22.6
+  },
+  {
+   "text": "is",
+   "time": 25.52,
+   "weight": 1.0,
+   "note_time": 22.81
+  },
+  {
+   "text": "good",
+   "time": 25.74,
+   "weight": 1.0,
+   "note_time": 23.01
+  },
+  {
+   "text": "to",
+   "time": 26.16,
+   "weight": 0.99,
+   "note_time": 24.04
+  },
+  {
+   "text": "give",
+   "time": 27.0,
+   "weight": 1.0,
+   "note_time": 24.25
+  },
+  {
+   "text": "thanks",
+   "time": 27.28,
+   "weight": 1.0,
+   "note_time": 24.66
+  },
+  {
+   "text": "to",
+   "time": 27.84,
+   "weight": 1.0,
+   "note_time": 25.27
+  },
+  {
+   "text": "the",
+   "time": 28.22,
+   "weight": 0.99,
+   "note_time": 25.89
+  },
+  {
+   "text": "LORD",
+   "time": 28.82,
+   "weight": 0.15,
+   "note_time": 26.1
+  },
+  {
+   "text": "to",
+   "time": 29.34,
+   "weight": 0.06,
+   "note_time": 28.97
+  },
+  {
+   "text": "sing",
+   "time": 31.84,
+   "weight": 1.0,
+   "note_time": 29.18
+  },
+  {
+   "text": "praise",
+   "time": 32.16,
+   "weight": 0.99,
+   "note_time": 29.59
+  },
+  {
+   "text": "to",
+   "time": 32.64,
+   "weight": 1.0,
+   "note_time": 30.41
+  },
+  {
+   "text": "your",
+   "time": 33.34,
+   "weight": 0.28,
+   "note_time": 30.82
+  },
+  {
+   "text": "name,",
+   "time": 33.72,
+   "weight": 0.79,
+   "note_time": 31.03
+  },
+  {
+   "text": "O",
+   "time": 34.42,
+   "weight": 0.7,
+   "note_time": 31.44
+  },
+  {
+   "text": "Most",
+   "time": 34.8,
+   "weight": 0.34,
+   "note_time": 31.85
+  },
+  {
+   "text": "High",
+   "time": 35.66,
+   "weight": 0.91,
+   "note_time": 32.26
+  },
+  {
+   "text": "It",
+   "time": 91.82,
+   "weight": 0.19,
+   "note_time": 35.55
+  },
+  {
+   "text": "is",
+   "time": 93.68,
+   "weight": 0.98,
+   "note_time": 35.75
+  },
+  {
+   "text": "good",
+   "time": 94.14,
+   "weight": 1.0,
+   "note_time": 36.16
+  },
+  {
+   "text": "to",
+   "time": 94.56,
+   "weight": 1.0,
+   "note_time": 36.99
+  },
+  {
+   "text": "give",
+   "time": 95.08,
+   "weight": 0.99,
+   "note_time": 37.19
+  },
+  {
+   "text": "thanks",
+   "time": 95.42,
+   "weight": 1.0,
+   "note_time": 37.6
+  },
+  {
+   "text": "to",
+   "time": 96.08,
+   "weight": 1.0,
+   "note_time": 38.63
+  },
+  {
+   "text": "the",
+   "time": 96.72,
+   "weight": 1.0,
+   "note_time": 39.04
+  },
+  {
+   "text": "LORD",
+   "time": 97.12,
+   "weight": 1.0,
+   "note_time": 39.25
+  },
+  {
+   "text": "to",
+   "time": 98.88,
+   "weight": 0.63,
+   "note_time": 42.12
+  },
+  {
+   "text": "sing",
+   "time": 100.14,
+   "weight": 1.0,
+   "note_time": 42.33
+  },
+  {
+   "text": "praise",
+   "time": 100.48,
+   "weight": 1.0,
+   "note_time": 42.74
+  },
+  {
+   "text": "to",
+   "time": 101.1,
+   "weight": 1.0,
+   "note_time": 43.56
+  },
+  {
+   "text": "your",
+   "time": 101.58,
+   "weight": 0.67,
+   "note_time": 43.77
+  },
+  {
+   "text": "name,",
+   "time": 101.86,
+   "weight": 0.82,
+   "note_time": 44.18
+  },
+  {
+   "text": "O",
+   "time": 102.72,
+   "weight": 0.89,
+   "note_time": 45.0
+  },
+  {
+   "text": "Most",
+   "time": 103.12,
+   "weight": 0.98,
+   "note_time": 45.41
+  },
+  {
+   "text": "High",
+   "time": 103.7,
+   "weight": 1.0,
+   "note_time": 46.44
+  },
+  {
+   "text": "to",
+   "time": 105.16,
+   "weight": 0.4,
+   "note_time": 48.9
+  },
+  {
+   "text": "de",
+   "time": 106.68,
+   "weight": 1.0,
+   "note_time": 49.11
+  },
+  {
+   "text": "clare",
+   "time": 106.98,
+   "weight": 1.0,
+   "note_time": 49.32
+  },
+  {
+   "text": "your",
+   "time": 107.28,
+   "weight": 0.99,
+   "note_time": 49.73
+  },
+  {
+   "text": "stead",
+   "time": 107.68,
+   "weight": 1.0,
+   "note_time": 49.93
+  },
+  {
+   "text": "fast",
+   "time": 108.02,
+   "weight": 1.0,
+   "note_time": 50.34
+  },
+  {
+   "text": "love",
+   "time": 108.36,
+   "weight": 1.0,
+   "note_time": 50.96
+  },
+  {
+   "text": "in",
+   "time": 109.0,
+   "weight": 1.0,
+   "note_time": 51.78
+  },
+  {
+   "text": "the",
+   "time": 109.84,
+   "weight": 1.0,
+   "note_time": 52.19
+  },
+  {
+   "text": "morn",
+   "time": 110.06,
+   "weight": 1.0,
+   "note_time": 52.4
+  },
+  {
+   "text": "ing",
+   "time": 110.41,
+   "weight": 1.0,
+   "note_time": 53.01
+  },
+  {
+   "text": "and",
+   "time": 110.92,
+   "weight": 0.39,
+   "note_time": 55.07
+  },
+  {
+   "text": "your",
+   "time": 112.96,
+   "weight": 1.0,
+   "note_time": 55.27
+  },
+  {
+   "text": "faith",
+   "time": 113.2,
+   "weight": 0.4,
+   "note_time": 55.89
+  },
+  {
+   "text": "ful",
+   "time": 113.55,
+   "weight": 0.4,
+   "note_time": 56.71
+  },
+  {
+   "text": "ness",
+   "time": 113.9,
+   "weight": 0.4,
+   "note_time": 57.12
+  },
+  {
+   "text": "through",
+   "time": 115.06,
+   "weight": 1.0,
+   "note_time": 57.95
+  },
+  {
+   "text": "the",
+   "time": 115.82,
+   "weight": 1.0,
+   "note_time": 58.77
+  },
+  {
+   "text": "nights",
+   "time": 115.82,
+   "weight": 0.0,
+   "note_time": 58.97
+  },
+  {
+   "text": "On",
+   "time": 115.81,
+   "weight": 0.0,
+   "note_time": 65.34
+  },
+  {
+   "text": "the",
+   "time": 115.81,
+   "weight": 0.0,
+   "note_time": 65.55
+  },
+  {
+   "text": "ten-",
+   "time": 115.8,
+   "weight": 0.0,
+   "note_time": 65.75
+  },
+  {
+   "text": "stringed",
+   "time": 115.8,
+   "weight": 0.0,
+   "note_time": 66.16
+  },
+  {
+   "text": "lute",
+   "time": 115.8,
+   "weight": 0.0,
+   "note_time": 66.99
+  },
+  {
+   "text": "and",
+   "time": 115.79,
+   "weight": 0.0,
+   "note_time": 67.81
+  },
+  {
+   "text": "on",
+   "time": 115.79,
+   "weight": 0.0,
+   "note_time": 68.01
+  },
+  {
+   "text": "the",
+   "time": 115.78,
+   "weight": 0.0,
+   "note_time": 68.63
+  },
+  {
+   "text": "harp",
+   "time": 115.78,
+   "weight": 0.0,
+   "note_time": 68.84
+  },
+  {
+   "text": "to",
+   "time": 115.78,
+   "weight": 0.0,
+   "note_time": 71.92
+  },
+  {
+   "text": "the",
+   "time": 115.77,
+   "weight": 0.0,
+   "note_time": 72.12
+  },
+  {
+   "text": "me",
+   "time": 115.77,
+   "weight": 0.0,
+   "note_time": 72.33
+  },
+  {
+   "text": "lo",
+   "time": 115.76,
+   "weight": 0.0,
+   "note_time": 72.74
+  },
+  {
+   "text": "dy",
+   "time": 115.76,
+   "weight": 0.0,
+   "note_time": 72.95
+  },
+  {
+   "text": "of",
+   "time": 115.76,
+   "weight": 0.0,
+   "note_time": 73.97
+  },
+  {
+   "text": "the",
+   "time": 115.75,
+   "weight": 0.0,
+   "note_time": 75.21
+  },
+  {
+   "text": "lyre",
+   "time": 115.75,
+   "weight": 0.0,
+   "note_time": 75.41
+  },
+  {
+   "text": "For",
+   "time": 115.75,
+   "weight": 0.0,
+   "note_time": 78.49
+  },
+  {
+   "text": "you",
+   "time": 115.74,
+   "weight": 0.0,
+   "note_time": 78.9
+  },
+  {
+   "text": "have",
+   "time": 115.74,
+   "weight": 0.0,
+   "note_time": 79.32
+  },
+  {
+   "text": "made",
+   "time": 115.73,
+   "weight": 0.0,
+   "note_time": 79.52
+  },
+  {
+   "text": "me",
+   "time": 115.73,
+   "weight": 0.0,
+   "note_time": 79.93
+  },
+  {
+   "text": "glad",
+   "time": 115.73,
+   "weight": 0.0,
+   "note_time": 80.34
+  },
+  {
+   "text": "by",
+   "time": 115.72,
+   "weight": 0.0,
+   "note_time": 81.16
+  },
+  {
+   "text": "your",
+   "time": 115.72,
+   "weight": 0.0,
+   "note_time": 81.58
+  },
+  {
+   "text": "work",
+   "time": 115.71,
+   "weight": 0.0,
+   "note_time": 82.6
+  },
+  {
+   "text": "O",
+   "time": 115.71,
+   "weight": 0.0,
+   "note_time": 84.25
+  },
+  {
+   "text": "LORD,",
+   "time": 115.71,
+   "weight": 0.0,
+   "note_time": 84.66
+  },
+  {
+   "text": "I",
+   "time": 115.7,
+   "weight": 0.0,
+   "note_time": 85.07
+  },
+  {
+   "text": "sing",
+   "time": 115.7,
+   "weight": 0.0,
+   "note_time": 85.48
+  },
+  {
+   "text": "for",
+   "time": 115.69,
+   "weight": 0.0,
+   "note_time": 86.3
+  },
+  {
+   "text": "joy",
+   "time": 115.69,
+   "weight": 0.0,
+   "note_time": 86.71
+  },
+  {
+   "text": "at",
+   "time": 115.69,
+   "weight": 0.0,
+   "note_time": 87.53
+  },
+  {
+   "text": "your",
+   "time": 115.68,
+   "weight": 0.0,
+   "note_time": 87.95
+  },
+  {
+   "text": "hands",
+   "time": 115.68,
+   "weight": 0.0,
+   "note_time": 88.36
+  },
+  {
+   "text": "It",
+   "time": 115.67,
+   "weight": 0.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "is",
+   "time": 115.67,
+   "weight": 0.0,
+   "note_time": 91.44
+  },
+  {
+   "text": "good",
+   "time": 115.67,
+   "weight": 0.0,
+   "note_time": 91.64
+  },
+  {
+   "text": "to",
+   "time": 115.66,
+   "weight": 0.0,
+   "note_time": 92.05
+  },
+  {
+   "text": "give",
+   "time": 115.66,
+   "weight": 0.0,
+   "note_time": 92.88
+  },
+  {
+   "text": "thanks",
+   "time": 115.65,
+   "weight": 0.0,
+   "note_time": 93.08
+  },
+  {
+   "text": "to",
+   "time": 115.65,
+   "weight": 0.0,
+   "note_time": 93.49
+  },
+  {
+   "text": "the",
+   "time": 115.65,
+   "weight": 0.0,
+   "note_time": 94.52
+  },
+  {
+   "text": "LORD",
+   "time": 115.64,
+   "weight": 0.0,
+   "note_time": 94.93
+  },
+  {
+   "text": "to",
+   "time": 115.64,
+   "weight": 0.0,
+   "note_time": 98.01
+  },
+  {
+   "text": "sing",
+   "time": 115.63,
+   "weight": 0.0,
+   "note_time": 98.22
+  },
+  {
+   "text": "praise",
+   "time": 115.63,
+   "weight": 0.0,
+   "note_time": 98.63
+  },
+  {
+   "text": "to",
+   "time": 115.63,
+   "weight": 0.0,
+   "note_time": 99.45
+  },
+  {
+   "text": "your",
+   "time": 115.62,
+   "weight": 0.0,
+   "note_time": 99.66
+  },
+  {
+   "text": "name,",
+   "time": 115.62,
+   "weight": 0.0,
+   "note_time": 100.07
+  },
+  {
+   "text": "O",
+   "time": 115.62,
+   "weight": 0.0,
+   "note_time": 100.89
+  },
+  {
+   "text": "Most",
+   "time": 115.61,
+   "weight": 0.0,
+   "note_time": 101.3
+  },
+  {
+   "text": "High",
+   "time": 115.61,
+   "weight": 0.0,
+   "note_time": 102.33
+  },
+  {
+   "text": "to",
+   "time": 115.6,
+   "weight": 0.0,
+   "note_time": 104.79
+  },
+  {
+   "text": "de",
+   "time": 115.6,
+   "weight": 0.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "clare",
+   "time": 115.6,
+   "weight": 0.0,
+   "note_time": 105.21
+  },
+  {
+   "text": "your",
+   "time": 115.59,
+   "weight": 0.0,
+   "note_time": 105.62
+  },
+  {
+   "text": "stead",
+   "time": 115.59,
+   "weight": 0.0,
+   "note_time": 105.82
+  },
+  {
+   "text": "fast",
+   "time": 115.58,
+   "weight": 0.0,
+   "note_time": 106.23
+  },
+  {
+   "text": "love",
+   "time": 115.58,
+   "weight": 0.0,
+   "note_time": 106.85
+  },
+  {
+   "text": "in",
+   "time": 115.58,
+   "weight": 0.0,
+   "note_time": 107.67
+  },
+  {
+   "text": "the",
+   "time": 115.57,
+   "weight": 0.0,
+   "note_time": 108.08
+  },
+  {
+   "text": "morn",
+   "time": 115.57,
+   "weight": 0.0,
+   "note_time": 108.29
+  },
+  {
+   "text": "ing",
+   "time": 115.56,
+   "weight": 0.0,
+   "note_time": 108.9
+  },
+  {
+   "text": "and",
+   "time": 115.56,
+   "weight": 0.15,
+   "note_time": 110.96
+  },
+  {
+   "text": "your",
+   "time": 115.78,
+   "weight": 0.15,
+   "note_time": 111.16
+  },
+  {
+   "text": "faith",
+   "time": 115.78,
+   "weight": 0.33,
+   "note_time": 111.78
+  },
+  {
+   "text": "ful",
+   "time": 115.78,
+   "weight": 0.33,
+   "note_time": 112.6
+  },
+  {
+   "text": "ness",
+   "time": 115.78,
+   "weight": 0.33,
+   "note_time": 113.01
+  },
+  {
+   "text": "through",
+   "time": 115.78,
+   "weight": 0.35,
+   "note_time": 113.84
+  },
+  {
+   "text": "the",
+   "time": 115.78,
+   "weight": 0.99,
+   "note_time": 114.66
+  },
+  {
+   "text": "nights",
+   "time": 116.62,
+   "weight": 0.15,
+   "note_time": 114.86
+  },
+  {
+   "text": "Your",
+   "time": 119.4,
+   "weight": 0.52,
+   "note_time": 118.77
+  },
+  {
+   "text": "deeds",
+   "time": 120.52,
+   "weight": 0.99,
+   "note_time": 119.18
+  },
+  {
+   "text": "of",
+   "time": 121.08,
+   "weight": 0.96,
+   "note_time": 119.59
+  },
+  {
+   "text": "hands",
+   "time": 121.46,
+   "weight": 0.96,
+   "note_time": 119.79
+  },
+  {
+   "text": "bring",
+   "time": 121.92,
+   "weight": 0.99,
+   "note_time": 120.62
+  },
+  {
+   "text": "me",
+   "time": 122.44,
+   "weight": 1.0,
+   "note_time": 121.03
+  },
+  {
+   "text": "joy",
+   "time": 122.84,
+   "weight": 1.0,
+   "note_time": 122.05
+  },
+  {
+   "text": "Your",
+   "time": 123.78,
+   "weight": 0.32,
+   "note_time": 125.34
+  },
+  {
+   "text": "work",
+   "time": 127.04,
+   "weight": 0.67,
+   "note_time": 125.75
+  },
+  {
+   "text": "makes",
+   "time": 127.68,
+   "weight": 1.0,
+   "note_time": 126.37
+  },
+  {
+   "text": "my",
+   "time": 128.2,
+   "weight": 1.0,
+   "note_time": 126.99
+  },
+  {
+   "text": "heart",
+   "time": 128.6,
+   "weight": 1.0,
+   "note_time": 127.4
+  },
+  {
+   "text": "glad",
+   "time": 129.12,
+   "weight": 0.99,
+   "note_time": 128.63
+  },
+  {
+   "text": "O",
+   "time": 130.28,
+   "weight": 0.44,
+   "note_time": 130.27
+  },
+  {
+   "text": "LORD,",
+   "time": 131.74,
+   "weight": 0.94,
+   "note_time": 130.68
+  },
+  {
+   "text": "I",
+   "time": 132.52,
+   "weight": 1.0,
+   "note_time": 131.1
+  },
+  {
+   "text": "praise",
+   "time": 132.7,
+   "weight": 1.0,
+   "note_time": 131.51
+  },
+  {
+   "text": "you",
+   "time": 133.12,
+   "weight": 0.77,
+   "note_time": 132.33
+  },
+  {
+   "text": "al",
+   "time": 133.88,
+   "weight": 0.4,
+   "note_time": 133.15
+  },
+  {
+   "text": "ways",
+   "time": 134.23,
+   "weight": 0.4,
+   "note_time": 133.97
+  },
+  {
+   "text": "In",
+   "time": 135.4,
+   "weight": 0.39,
+   "note_time": 136.85
+  },
+  {
+   "text": "morn",
+   "time": 138.2,
+   "weight": 0.99,
+   "note_time": 137.47
+  },
+  {
+   "text": "ing",
+   "time": 138.52,
+   "weight": 0.99,
+   "note_time": 137.67
+  },
+  {
+   "text": "light",
+   "time": 138.84,
+   "weight": 0.99,
+   "note_time": 138.08
+  },
+  {
+   "text": "and",
+   "time": 139.48,
+   "weight": 0.36,
+   "note_time": 140.55
+  },
+  {
+   "text": "through",
+   "time": 141.4,
+   "weight": 0.99,
+   "note_time": 140.75
+  },
+  {
+   "text": "the",
+   "time": 141.82,
+   "weight": 1.0,
+   "note_time": 140.96
+  },
+  {
+   "text": "night",
+   "time": 142.16,
+   "weight": 1.0,
+   "note_time": 141.16
+  },
+  {
+   "text": "It",
+   "time": 142.7,
+   "weight": 0.13,
+   "note_time": 144.04
+  },
+  {
+   "text": "is",
+   "time": 145.1,
+   "weight": 0.98,
+   "note_time": 144.25
+  },
+  {
+   "text": "good",
+   "time": 145.5,
+   "weight": 0.99,
+   "note_time": 144.66
+  },
+  {
+   "text": "to",
+   "time": 145.86,
+   "weight": 1.0,
+   "note_time": 145.48
+  },
+  {
+   "text": "give",
+   "time": 146.48,
+   "weight": 0.99,
+   "note_time": 145.68
+  },
+  {
+   "text": "thanks",
+   "time": 146.84,
+   "weight": 0.99,
+   "note_time": 146.1
+  },
+  {
+   "text": "to",
+   "time": 147.5,
+   "weight": 1.0,
+   "note_time": 147.12
+  },
+  {
+   "text": "the",
+   "time": 148.16,
+   "weight": 0.99,
+   "note_time": 147.53
+  },
+  {
+   "text": "LORD",
+   "time": 148.54,
+   "weight": 0.95,
+   "note_time": 147.74
+  },
+  {
+   "text": "to",
+   "time": 150.26,
+   "weight": 0.74,
+   "note_time": 150.62
+  },
+  {
+   "text": "sing",
+   "time": 151.52,
+   "weight": 1.0,
+   "note_time": 150.82
+  },
+  {
+   "text": "praise",
+   "time": 151.84,
+   "weight": 0.99,
+   "note_time": 151.23
+  },
+  {
+   "text": "to",
+   "time": 152.36,
+   "weight": 1.0,
+   "note_time": 152.05
+  },
+  {
+   "text": "your",
+   "time": 152.96,
+   "weight": 0.55,
+   "note_time": 152.26
+  },
+  {
+   "text": "name,",
+   "time": 153.2,
+   "weight": 0.77,
+   "note_time": 152.67
+  },
+  {
+   "text": "O",
+   "time": 154.1,
+   "weight": 0.91,
+   "note_time": 153.49
+  },
+  {
+   "text": "Most",
+   "time": 154.42,
+   "weight": 0.96,
+   "note_time": 153.9
+  },
+  {
+   "text": "High",
+   "time": 155.06,
+   "weight": 1.0,
+   "note_time": 154.93
+  },
+  {
+   "text": "to",
+   "time": 155.82,
+   "weight": 0.39,
+   "note_time": 157.4
+  },
+  {
+   "text": "de",
+   "time": 158.04,
+   "weight": 1.0,
+   "note_time": 157.6
+  },
+  {
+   "text": "clare",
+   "time": 158.3,
+   "weight": 1.0,
+   "note_time": 157.81
+  },
+  {
+   "text": "your",
+   "time": 158.56,
+   "weight": 0.98,
+   "note_time": 158.22
+  },
+  {
+   "text": "stead",
+   "time": 158.96,
+   "weight": 1.0,
+   "note_time": 158.42
+  },
+  {
+   "text": "fast",
+   "time": 159.29,
+   "weight": 1.0,
+   "note_time": 158.84
+  },
+  {
+   "text": "love",
+   "time": 159.62,
+   "weight": 1.0,
+   "note_time": 159.45
+  },
+  {
+   "text": "in",
+   "time": 160.26,
+   "weight": 1.0,
+   "note_time": 160.27
+  },
+  {
+   "text": "the",
+   "time": 161.12,
+   "weight": 0.67,
+   "note_time": 160.68
+  },
+  {
+   "text": "morn",
+   "time": 161.26,
+   "weight": 1.0,
+   "note_time": 160.89
+  },
+  {
+   "text": "ing",
+   "time": 161.61,
+   "weight": 1.0,
+   "note_time": 161.51
+  },
+  {
+   "text": "and",
+   "time": 162.08,
+   "weight": 0.39,
+   "note_time": 163.56
+  },
+  {
+   "text": "your",
+   "time": 164.14,
+   "weight": 0.99,
+   "note_time": 163.77
+  },
+  {
+   "text": "faith",
+   "time": 164.38,
+   "weight": 0.4,
+   "note_time": 164.38
+  },
+  {
+   "text": "ful",
+   "time": 164.73,
+   "weight": 0.4,
+   "note_time": 165.21
+  },
+  {
+   "text": "ness",
+   "time": 165.08,
+   "weight": 0.4,
+   "note_time": 165.62
+  },
+  {
+   "text": "through",
+   "time": 166.24,
+   "weight": 0.99,
+   "note_time": 166.44
+  },
+  {
+   "text": "the",
+   "time": 166.96,
+   "weight": 1.0,
+   "note_time": 167.26
+  },
+  {
+   "text": "nights",
+   "time": 167.7,
+   "weight": 0.97,
+   "note_time": 167.47
+  },
+  {
+   "text": "It",
+   "time": 169.62,
+   "weight": 0.65,
+   "note_time": 170.34
+  },
+  {
+   "text": "is",
+   "time": 170.7,
+   "weight": 0.99,
+   "note_time": 170.55
+  },
+  {
+   "text": "good",
+   "time": 171.06,
+   "weight": 1.0,
+   "note_time": 170.96
+  },
+  {
+   "text": "to",
+   "time": 171.48,
+   "weight": 1.0,
+   "note_time": 171.78
+  },
+  {
+   "text": "give",
+   "time": 172.02,
+   "weight": 1.0,
+   "note_time": 171.99
+  },
+  {
+   "text": "thanks",
+   "time": 172.38,
+   "weight": 1.0,
+   "note_time": 172.4
+  },
+  {
+   "text": "to",
+   "time": 172.94,
+   "weight": 1.0,
+   "note_time": 173.42
+  },
+  {
+   "text": "the",
+   "time": 173.64,
+   "weight": 0.99,
+   "note_time": 173.84
+  },
+  {
+   "text": "LORD",
+   "time": 174.02,
+   "weight": 0.99,
+   "note_time": 174.04
+  },
+  {
+   "text": "to",
+   "time": 175.96,
+   "weight": 0.73,
+   "note_time": 176.92
+  },
+  {
+   "text": "sing",
+   "time": 177.04,
+   "weight": 1.0,
+   "note_time": 177.12
+  },
+  {
+   "text": "praise",
+   "time": 177.32,
+   "weight": 1.0,
+   "note_time": 177.53
+  },
+  {
+   "text": "to",
+   "time": 177.74,
+   "weight": 1.0,
+   "note_time": 178.36
+  },
+  {
+   "text": "your",
+   "time": 178.38,
+   "weight": 0.7,
+   "note_time": 178.56
+  },
+  {
+   "text": "name,",
+   "time": 178.64,
+   "weight": 0.82,
+   "note_time": 178.97
+  },
+  {
+   "text": "O",
+   "time": 179.46,
+   "weight": 0.85,
+   "note_time": 179.79
+  },
+  {
+   "text": "Most",
+   "time": 179.84,
+   "weight": 0.9,
+   "note_time": 180.21
+  },
+  {
+   "text": "High",
+   "time": 180.4,
+   "weight": 1.0,
+   "note_time": 181.23
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "10 of 25 lyric lines sit clearly on their notes; 15 are uncertain and printed in grey italics."
+}

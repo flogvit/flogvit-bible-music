@@ -275,8 +275,9 @@ makes them in three steps:
    1920×1080 WebP. The words lie over the bottom third, so the look puts the subject in the upper middle, on a
    low horizon, and keeps the bottom third empty foreground.
 3. A vision model (`qwen3-vl:8b`) looks at each picture: writing, something modern, a broken body or object, or
-   someone posing, or the main subject sitting in the bottom third where the words go, makes it try the next seed,
-   three times at most. A picture that never passes is left out, and
+   someone posing makes it try the next seed, three times at most. So does a picture whose text band (62–91 % of
+   the height) has more than twice the detail of the part above it: its subject stands under the words, with
+   empty sky or wall above (measured on the picture, not asked). A picture that never passes is left out, and
    the one before it stays up longer.
 
 `scenes.json` is written last, so `publish-auto.sh` sees a new file and publishes the song again with its

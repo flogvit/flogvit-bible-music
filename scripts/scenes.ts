@@ -86,19 +86,23 @@ you see, strictly:
 - modern: anything from after ancient times (roads with markings, wires, cars, modern buildings or clothes);
 - broken: a body, face, hand or animal that is deformed, has extra or missing limbs or fingers, or melts into
   something else; or an object that makes no physical sense;
-- posing: a person looking into the camera, or a face close up;
-- low: the main subject (a person, an animal, an object, a tree or a building) sits in the bottom third of the
-  picture, where the words go, instead of above it.`;
+- posing: a person looking into the camera, or a face close up.`;
 
 const LOOK_SCHEMA = {
   type: 'object',
   properties: {
     writing: { type: 'boolean' }, modern: { type: 'boolean' }, broken: { type: 'boolean' }, posing: { type: 'boolean' },
-    low: { type: 'boolean' }, note: { type: 'string' },
+    note: { type: 'string' },
   },
-  required: ['writing', 'modern', 'broken', 'posing', 'low', 'note'],
+  required: ['writing', 'modern', 'broken', 'posing', 'note'],
 };
-const FAULTS = ['writing', 'modern', 'broken', 'posing', 'low'] as const;
+const FAULTS = ['writing', 'modern', 'broken', 'posing'] as const;
+/**
+ * A picture whose text band (62–91 % of the height, where the words lie) has more than this times the detail of
+ * the part above it has its subject under the words and empty sky or wall above. Pictures looked at by eye: subject
+ * in the band 3.7–7.7, subject above it 0.4–0.9.
+ */
+const LOW = 2;
 type Look = Record<(typeof FAULTS)[number], boolean> & { note: string };
 
 /**
@@ -223,17 +227,30 @@ async function render(description: string, out: string, seed: number, logFile: s
     const made = Bun.spawn(['taskpolicy', '-b', MFLUX, '--prompt', `${LOOK}. ${description}`, '--width', '1920', '--height', '1088',
       '--steps', '9', '-q', '8', '--seed', String(seed + attempt), '--output', png], { stdout: fd, stderr: fd });
     if (await made.exited !== 0) throw new Error(`mflux failed (see ${logFile})`);
+    // Cut to 1080 rows, save, and measure the detail in the text band against the part above it (structure, not
+    // grain: on a small, blurred copy).
     const convert = Bun.spawnSync([PYTHON, '-c', `
 import sys
-from PIL import Image
+import numpy as np
+from PIL import Image, ImageFilter
 im = Image.open(sys.argv[1]).convert('RGB')
 top = (im.height - 1080) // 2
 im = im.crop((0, top, 1920, top + 1080))
 im.save(sys.argv[2], quality=85, method=6)
 im.resize((960, 540)).save(sys.argv[3], quality=85)
+a = np.asarray(im.convert('L').resize((320, 180), Image.LANCZOS).filter(ImageFilter.GaussianBlur(1.2)), dtype=np.float32) / 255
+g = np.abs(np.diff(a, axis=0))[:, :-1] + np.abs(np.diff(a, axis=1))[:-1]
+h = g.shape[0]
+print(g[int(0.62 * h):int(0.91 * h)].mean() / max(g[int(0.10 * h):int(0.58 * h)].mean(), 1e-4))
 `, png, out, small]);
     rmSync(png, { force: true });
     if (convert.exitCode !== 0) throw new Error(`convert: ${convert.stderr.toString()}`);
+    const low = Number(convert.stdout.toString().trim());
+    if (low > LOW) {
+      rmSync(small, { force: true });
+      log(`PICTURE AGAIN ${path.basename(out)} seed ${seed + attempt}: the subject is under the words (${low.toFixed(1)})`);
+      continue;
+    }
     // The vision model is left to think (Ollama 0.32 with thinking off answers in prose); when it still gives no
     // answer, it is asked once without thinking, and a picture no answer is had for does not pass.
     const image = [Buffer.from(readFileSync(small)).toString('base64')];

@@ -1,0 +1,1296 @@
+{
+ "id": "verse-46-15-20-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-46-15-20-acoustic",
+ "offset_seconds": -3.980000000000171,
+ "words_heard": 157,
+ "words": 160,
+ "lines": [
+  {
+   "text": "Death entered through one man",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sorrow bound the world in chains",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But hope was not in vain",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.99,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A new dawn breaks the pain",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Christ has been raised from the dead",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.17,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The firstfruits of those who slept",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "No longer lost in the dark",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "His power is not for the weak",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As in Adam we all die",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.17,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "So in Christ we live again",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.26,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The order is clear and true",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the dust to the sky",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Christ has been raised from the dead",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.17,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The firstfruits of those who slept",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.21,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "No longer lost in the dark",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His power is not for the weak",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Each in their own appointed time",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.2,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The promise stands firm and strong",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the grave to the throne",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A new life is sung along",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Christ has been raised from the dead",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The firstfruits of those who slept",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.15,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "No longer lost in the dark",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His power is not for the weak",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.14,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "All will be made alive",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the light of His way",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.25,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Death",
+   "time": 28.3,
+   "weight": 0.68,
+   "note_time": 28.59
+  },
+  {
+   "text": "en",
+   "time": 29.7,
+   "weight": 0.77,
+   "note_time": 28.94
+  },
+  {
+   "text": "tered",
+   "time": 30.05,
+   "weight": 0.77,
+   "note_time": 29.29
+  },
+  {
+   "text": "through",
+   "time": 30.78,
+   "weight": 0.99,
+   "note_time": 29.65
+  },
+  {
+   "text": "one",
+   "time": 31.32,
+   "weight": 0.99,
+   "note_time": 30.35
+  },
+  {
+   "text": "man",
+   "time": 32.06,
+   "weight": 0.98,
+   "note_time": 31.06
+  },
+  {
+   "text": "Sor",
+   "time": 34.52,
+   "weight": 0.81,
+   "note_time": 33.88
+  },
+  {
+   "text": "row",
+   "time": 34.87,
+   "weight": 0.81,
+   "note_time": 34.24
+  },
+  {
+   "text": "bound",
+   "time": 35.72,
+   "weight": 1.0,
+   "note_time": 34.59
+  },
+  {
+   "text": "the",
+   "time": 36.16,
+   "weight": 1.0,
+   "note_time": 34.94
+  },
+  {
+   "text": "world",
+   "time": 36.52,
+   "weight": 1.0,
+   "note_time": 35.29
+  },
+  {
+   "text": "in",
+   "time": 37.1,
+   "weight": 0.99,
+   "note_time": 36.0
+  },
+  {
+   "text": "chains",
+   "time": 37.7,
+   "weight": 1.0,
+   "note_time": 36.71
+  },
+  {
+   "text": "But",
+   "time": 39.22,
+   "weight": 0.63,
+   "note_time": 39.88
+  },
+  {
+   "text": "hope",
+   "time": 40.0,
+   "weight": 0.4,
+   "note_time": 40.24
+  },
+  {
+   "text": "was",
+   "time": 41.88,
+   "weight": 1.0,
+   "note_time": 40.59
+  },
+  {
+   "text": "not",
+   "time": 42.28,
+   "weight": 1.0,
+   "note_time": 40.94
+  },
+  {
+   "text": "in",
+   "time": 42.64,
+   "weight": 1.0,
+   "note_time": 41.65
+  },
+  {
+   "text": "vain",
+   "time": 43.26,
+   "weight": 1.0,
+   "note_time": 42.35
+  },
+  {
+   "text": "A",
+   "time": 44.12,
+   "weight": 0.36,
+   "note_time": 44.82
+  },
+  {
+   "text": "new",
+   "time": 46.4,
+   "weight": 0.99,
+   "note_time": 45.18
+  },
+  {
+   "text": "dawn",
+   "time": 46.76,
+   "weight": 1.0,
+   "note_time": 45.71
+  },
+  {
+   "text": "breaks",
+   "time": 47.4,
+   "weight": 1.0,
+   "note_time": 46.59
+  },
+  {
+   "text": "the",
+   "time": 48.16,
+   "weight": 1.0,
+   "note_time": 47.65
+  },
+  {
+   "text": "pain",
+   "time": 49.16,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "Christ",
+   "time": 51.4,
+   "weight": 0.96,
+   "note_time": 50.82
+  },
+  {
+   "text": "has",
+   "time": 52.6,
+   "weight": 0.99,
+   "note_time": 51.35
+  },
+  {
+   "text": "been",
+   "time": 53.0,
+   "weight": 1.0,
+   "note_time": 51.88
+  },
+  {
+   "text": "raised",
+   "time": 53.5,
+   "weight": 0.99,
+   "note_time": 52.24
+  },
+  {
+   "text": "from",
+   "time": 54.0,
+   "weight": 1.0,
+   "note_time": 52.76
+  },
+  {
+   "text": "the",
+   "time": 54.36,
+   "weight": 1.0,
+   "note_time": 53.29
+  },
+  {
+   "text": "dead",
+   "time": 54.82,
+   "weight": 1.0,
+   "note_time": 53.65
+  },
+  {
+   "text": "The",
+   "time": 56.88,
+   "weight": 0.97,
+   "note_time": 56.12
+  },
+  {
+   "text": "first",
+   "time": 57.74,
+   "weight": 0.92,
+   "note_time": 56.47
+  },
+  {
+   "text": "fruits",
+   "time": 58.09,
+   "weight": 0.92,
+   "note_time": 57.0
+  },
+  {
+   "text": "of",
+   "time": 58.9,
+   "weight": 0.99,
+   "note_time": 57.53
+  },
+  {
+   "text": "those",
+   "time": 59.12,
+   "weight": 1.0,
+   "note_time": 57.88
+  },
+  {
+   "text": "who",
+   "time": 59.62,
+   "weight": 0.94,
+   "note_time": 58.59
+  },
+  {
+   "text": "slept",
+   "time": 60.12,
+   "weight": 0.79,
+   "note_time": 59.29
+  },
+  {
+   "text": "No",
+   "time": 61.48,
+   "weight": 0.37,
+   "note_time": 62.12
+  },
+  {
+   "text": "lon",
+   "time": 63.68,
+   "weight": 1.0,
+   "note_time": 62.65
+  },
+  {
+   "text": "ger",
+   "time": 64.03,
+   "weight": 1.0,
+   "note_time": 63.18
+  },
+  {
+   "text": "lost",
+   "time": 64.62,
+   "weight": 1.0,
+   "note_time": 63.53
+  },
+  {
+   "text": "in",
+   "time": 65.2,
+   "weight": 1.0,
+   "note_time": 64.24
+  },
+  {
+   "text": "the",
+   "time": 65.84,
+   "weight": 1.0,
+   "note_time": 64.59
+  },
+  {
+   "text": "dark",
+   "time": 66.08,
+   "weight": 1.0,
+   "note_time": 64.94
+  },
+  {
+   "text": "His",
+   "time": 67.4,
+   "weight": 0.3,
+   "note_time": 67.41
+  },
+  {
+   "text": "pow",
+   "time": 68.92,
+   "weight": 1.0,
+   "note_time": 67.76
+  },
+  {
+   "text": "er",
+   "time": 69.27,
+   "weight": 1.0,
+   "note_time": 68.29
+  },
+  {
+   "text": "is",
+   "time": 69.8,
+   "weight": 1.0,
+   "note_time": 68.82
+  },
+  {
+   "text": "not",
+   "time": 70.44,
+   "weight": 0.99,
+   "note_time": 69.18
+  },
+  {
+   "text": "for",
+   "time": 70.82,
+   "weight": 1.0,
+   "note_time": 69.88
+  },
+  {
+   "text": "the",
+   "time": 71.4,
+   "weight": 1.0,
+   "note_time": 70.24
+  },
+  {
+   "text": "weak",
+   "time": 71.82,
+   "weight": 1.0,
+   "note_time": 70.41
+  },
+  {
+   "text": "As",
+   "time": 80.14,
+   "weight": 0.99,
+   "note_time": 79.76
+  },
+  {
+   "text": "in",
+   "time": 81.24,
+   "weight": 1.0,
+   "note_time": 80.12
+  },
+  {
+   "text": "A",
+   "time": 81.82,
+   "weight": 1.0,
+   "note_time": 80.47
+  },
+  {
+   "text": "dam",
+   "time": 82.07,
+   "weight": 1.0,
+   "note_time": 80.82
+  },
+  {
+   "text": "we",
+   "time": 82.32,
+   "weight": 0.87,
+   "note_time": 81.18
+  },
+  {
+   "text": "all",
+   "time": 82.7,
+   "weight": 1.0,
+   "note_time": 81.53
+  },
+  {
+   "text": "die",
+   "time": 83.14,
+   "weight": 0.51,
+   "note_time": 81.88
+  },
+  {
+   "text": "So",
+   "time": 84.06,
+   "weight": 0.37,
+   "note_time": 84.71
+  },
+  {
+   "text": "in",
+   "time": 86.18,
+   "weight": 1.0,
+   "note_time": 84.88
+  },
+  {
+   "text": "Christ",
+   "time": 86.52,
+   "weight": 1.0,
+   "note_time": 85.24
+  },
+  {
+   "text": "we",
+   "time": 87.04,
+   "weight": 1.0,
+   "note_time": 85.76
+  },
+  {
+   "text": "live",
+   "time": 87.36,
+   "weight": 1.0,
+   "note_time": 86.12
+  },
+  {
+   "text": "a",
+   "time": 87.74,
+   "weight": 1.0,
+   "note_time": 86.82
+  },
+  {
+   "text": "gain",
+   "time": 88.09,
+   "weight": 1.0,
+   "note_time": 87.53
+  },
+  {
+   "text": "The",
+   "time": 90.94,
+   "weight": 0.69,
+   "note_time": 90.0
+  },
+  {
+   "text": "or",
+   "time": 91.5,
+   "weight": 0.95,
+   "note_time": 90.35
+  },
+  {
+   "text": "der",
+   "time": 91.85,
+   "weight": 0.95,
+   "note_time": 90.88
+  },
+  {
+   "text": "is",
+   "time": 92.22,
+   "weight": 1.0,
+   "note_time": 91.41
+  },
+  {
+   "text": "clear",
+   "time": 92.98,
+   "weight": 1.0,
+   "note_time": 91.76
+  },
+  {
+   "text": "and",
+   "time": 93.42,
+   "weight": 1.0,
+   "note_time": 92.47
+  },
+  {
+   "text": "true",
+   "time": 94.16,
+   "weight": 1.0,
+   "note_time": 93.18
+  },
+  {
+   "text": "From",
+   "time": 94.82,
+   "weight": 0.19,
+   "note_time": 96.0
+  },
+  {
+   "text": "the",
+   "time": 97.54,
+   "weight": 1.0,
+   "note_time": 96.53
+  },
+  {
+   "text": "dust",
+   "time": 98.06,
+   "weight": 1.0,
+   "note_time": 97.06
+  },
+  {
+   "text": "to",
+   "time": 98.8,
+   "weight": 0.99,
+   "note_time": 97.76
+  },
+  {
+   "text": "the",
+   "time": 99.3,
+   "weight": 1.0,
+   "note_time": 98.12
+  },
+  {
+   "text": "sky",
+   "time": 99.64,
+   "weight": 0.99,
+   "note_time": 98.47
+  },
+  {
+   "text": "Christ",
+   "time": 102.78,
+   "weight": 0.81,
+   "note_time": 101.65
+  },
+  {
+   "text": "has",
+   "time": 103.44,
+   "weight": 0.99,
+   "note_time": 102.18
+  },
+  {
+   "text": "been",
+   "time": 103.8,
+   "weight": 1.0,
+   "note_time": 102.71
+  },
+  {
+   "text": "raised",
+   "time": 104.32,
+   "weight": 0.99,
+   "note_time": 103.06
+  },
+  {
+   "text": "from",
+   "time": 104.82,
+   "weight": 1.0,
+   "note_time": 103.59
+  },
+  {
+   "text": "the",
+   "time": 105.18,
+   "weight": 1.0,
+   "note_time": 104.12
+  },
+  {
+   "text": "dead",
+   "time": 105.64,
+   "weight": 1.0,
+   "note_time": 104.47
+  },
+  {
+   "text": "The",
+   "time": 106.3,
+   "weight": 0.38,
+   "note_time": 106.94
+  },
+  {
+   "text": "first",
+   "time": 108.56,
+   "weight": 0.91,
+   "note_time": 107.29
+  },
+  {
+   "text": "fruits",
+   "time": 108.91,
+   "weight": 0.91,
+   "note_time": 107.82
+  },
+  {
+   "text": "of",
+   "time": 109.64,
+   "weight": 0.99,
+   "note_time": 108.35
+  },
+  {
+   "text": "those",
+   "time": 109.92,
+   "weight": 1.0,
+   "note_time": 108.71
+  },
+  {
+   "text": "who",
+   "time": 110.48,
+   "weight": 0.96,
+   "note_time": 109.41
+  },
+  {
+   "text": "slept",
+   "time": 111.19,
+   "weight": 0.0,
+   "note_time": 110.12
+  },
+  {
+   "text": "No",
+   "time": 111.9,
+   "weight": 0.13,
+   "note_time": 112.94
+  },
+  {
+   "text": "lon",
+   "time": 114.48,
+   "weight": 0.99,
+   "note_time": 113.47
+  },
+  {
+   "text": "ger",
+   "time": 114.83,
+   "weight": 0.99,
+   "note_time": 114.0
+  },
+  {
+   "text": "lost",
+   "time": 115.3,
+   "weight": 1.0,
+   "note_time": 114.35
+  },
+  {
+   "text": "in",
+   "time": 115.98,
+   "weight": 1.0,
+   "note_time": 115.06
+  },
+  {
+   "text": "the",
+   "time": 116.68,
+   "weight": 1.0,
+   "note_time": 115.41
+  },
+  {
+   "text": "dark",
+   "time": 116.92,
+   "weight": 1.0,
+   "note_time": 115.76
+  },
+  {
+   "text": "His",
+   "time": 118.22,
+   "weight": 0.32,
+   "note_time": 118.24
+  },
+  {
+   "text": "pow",
+   "time": 119.78,
+   "weight": 1.0,
+   "note_time": 118.59
+  },
+  {
+   "text": "er",
+   "time": 120.07,
+   "weight": 1.0,
+   "note_time": 119.12
+  },
+  {
+   "text": "is",
+   "time": 120.36,
+   "weight": 1.0,
+   "note_time": 119.65
+  },
+  {
+   "text": "not",
+   "time": 121.28,
+   "weight": 0.74,
+   "note_time": 120.0
+  },
+  {
+   "text": "for",
+   "time": 121.64,
+   "weight": 1.0,
+   "note_time": 120.71
+  },
+  {
+   "text": "the",
+   "time": 122.16,
+   "weight": 1.0,
+   "note_time": 121.06
+  },
+  {
+   "text": "weak",
+   "time": 122.6,
+   "weight": 1.0,
+   "note_time": 121.24
+  },
+  {
+   "text": "Each",
+   "time": 124.64,
+   "weight": 0.95,
+   "note_time": 124.24
+  },
+  {
+   "text": "in",
+   "time": 126.0,
+   "weight": 1.0,
+   "note_time": 124.76
+  },
+  {
+   "text": "their",
+   "time": 126.4,
+   "weight": 1.0,
+   "note_time": 125.29
+  },
+  {
+   "text": "own",
+   "time": 126.9,
+   "weight": 0.99,
+   "note_time": 125.65
+  },
+  {
+   "text": "ap",
+   "time": 127.36,
+   "weight": 1.0,
+   "note_time": 126.0
+  },
+  {
+   "text": "point",
+   "time": 127.62,
+   "weight": 1.0,
+   "note_time": 126.18
+  },
+  {
+   "text": "ed",
+   "time": 127.88,
+   "weight": 1.0,
+   "note_time": 126.71
+  },
+  {
+   "text": "time",
+   "time": 128.14,
+   "weight": 1.0,
+   "note_time": 127.06
+  },
+  {
+   "text": "The",
+   "time": 130.3,
+   "weight": 0.98,
+   "note_time": 130.41
+  },
+  {
+   "text": "prom",
+   "time": 131.14,
+   "weight": 0.98,
+   "note_time": 130.94
+  },
+  {
+   "text": "ise",
+   "time": 131.49,
+   "weight": 0.98,
+   "note_time": 131.65
+  },
+  {
+   "text": "stands",
+   "time": 131.94,
+   "weight": 1.0,
+   "note_time": 132.18
+  },
+  {
+   "text": "firm",
+   "time": 132.52,
+   "weight": 1.0,
+   "note_time": 132.71
+  },
+  {
+   "text": "and",
+   "time": 133.28,
+   "weight": 1.0,
+   "note_time": 133.59
+  },
+  {
+   "text": "strong",
+   "time": 133.84,
+   "weight": 1.0,
+   "note_time": 133.76
+  },
+  {
+   "text": "From",
+   "time": 135.1,
+   "weight": 0.98,
+   "note_time": 134.82
+  },
+  {
+   "text": "the",
+   "time": 136.32,
+   "weight": 1.0,
+   "note_time": 135.18
+  },
+  {
+   "text": "grave",
+   "time": 136.7,
+   "weight": 1.0,
+   "note_time": 135.53
+  },
+  {
+   "text": "to",
+   "time": 137.28,
+   "weight": 1.0,
+   "note_time": 136.59
+  },
+  {
+   "text": "the",
+   "time": 138.1,
+   "weight": 1.0,
+   "note_time": 137.65
+  },
+  {
+   "text": "throne",
+   "time": 139.0,
+   "weight": 0.0,
+   "note_time": 138.35
+  },
+  {
+   "text": "A",
+   "time": 139.9,
+   "weight": 0.11,
+   "note_time": 140.82
+  },
+  {
+   "text": "new",
+   "time": 142.28,
+   "weight": 0.97,
+   "note_time": 141.71
+  },
+  {
+   "text": "life",
+   "time": 142.72,
+   "weight": 1.0,
+   "note_time": 142.24
+  },
+  {
+   "text": "is",
+   "time": 143.44,
+   "weight": 0.99,
+   "note_time": 142.59
+  },
+  {
+   "text": "sung",
+   "time": 143.86,
+   "weight": 0.8,
+   "note_time": 143.65
+  },
+  {
+   "text": "a",
+   "time": 144.28,
+   "weight": 0.95,
+   "note_time": 143.82
+  },
+  {
+   "text": "long",
+   "time": 144.63,
+   "weight": 0.95,
+   "note_time": 144.0
+  },
+  {
+   "text": "Christ",
+   "time": 149.94,
+   "weight": 0.54,
+   "note_time": 149.65
+  },
+  {
+   "text": "has",
+   "time": 151.18,
+   "weight": 0.99,
+   "note_time": 150.18
+  },
+  {
+   "text": "been",
+   "time": 151.78,
+   "weight": 1.0,
+   "note_time": 150.71
+  },
+  {
+   "text": "raised",
+   "time": 152.32,
+   "weight": 1.0,
+   "note_time": 151.06
+  },
+  {
+   "text": "from",
+   "time": 152.82,
+   "weight": 1.0,
+   "note_time": 151.59
+  },
+  {
+   "text": "the",
+   "time": 153.22,
+   "weight": 1.0,
+   "note_time": 152.12
+  },
+  {
+   "text": "dead",
+   "time": 153.6,
+   "weight": 1.0,
+   "note_time": 152.47
+  },
+  {
+   "text": "The",
+   "time": 154.9,
+   "weight": 0.37,
+   "note_time": 154.94
+  },
+  {
+   "text": "first",
+   "time": 156.54,
+   "weight": 0.9,
+   "note_time": 155.29
+  },
+  {
+   "text": "fruits",
+   "time": 156.89,
+   "weight": 0.9,
+   "note_time": 155.82
+  },
+  {
+   "text": "of",
+   "time": 157.72,
+   "weight": 0.99,
+   "note_time": 156.35
+  },
+  {
+   "text": "those",
+   "time": 157.86,
+   "weight": 1.0,
+   "note_time": 156.71
+  },
+  {
+   "text": "who",
+   "time": 158.42,
+   "weight": 0.98,
+   "note_time": 157.41
+  },
+  {
+   "text": "slept",
+   "time": 159.88,
+   "weight": 0.0,
+   "note_time": 158.12
+  },
+  {
+   "text": "No",
+   "time": 161.34,
+   "weight": 0.98,
+   "note_time": 160.94
+  },
+  {
+   "text": "lon",
+   "time": 162.58,
+   "weight": 1.0,
+   "note_time": 161.47
+  },
+  {
+   "text": "ger",
+   "time": 162.88,
+   "weight": 1.0,
+   "note_time": 162.0
+  },
+  {
+   "text": "lost",
+   "time": 163.18,
+   "weight": 1.0,
+   "note_time": 162.35
+  },
+  {
+   "text": "in",
+   "time": 163.96,
+   "weight": 1.0,
+   "note_time": 163.06
+  },
+  {
+   "text": "the",
+   "time": 164.66,
+   "weight": 1.0,
+   "note_time": 163.41
+  },
+  {
+   "text": "dark",
+   "time": 164.9,
+   "weight": 1.0,
+   "note_time": 163.76
+  },
+  {
+   "text": "His",
+   "time": 165.56,
+   "weight": 0.23,
+   "note_time": 166.24
+  },
+  {
+   "text": "pow",
+   "time": 167.74,
+   "weight": 0.99,
+   "note_time": 166.59
+  },
+  {
+   "text": "er",
+   "time": 168.08,
+   "weight": 0.99,
+   "note_time": 167.12
+  },
+  {
+   "text": "is",
+   "time": 168.42,
+   "weight": 1.0,
+   "note_time": 167.65
+  },
+  {
+   "text": "not",
+   "time": 169.24,
+   "weight": 0.99,
+   "note_time": 168.0
+  },
+  {
+   "text": "for",
+   "time": 169.62,
+   "weight": 1.0,
+   "note_time": 168.71
+  },
+  {
+   "text": "the",
+   "time": 170.2,
+   "weight": 1.0,
+   "note_time": 169.06
+  },
+  {
+   "text": "weak",
+   "time": 170.56,
+   "weight": 1.0,
+   "note_time": 169.24
+  },
+  {
+   "text": "All",
+   "time": 172.54,
+   "weight": 0.73,
+   "note_time": 172.24
+  },
+  {
+   "text": "will",
+   "time": 173.94,
+   "weight": 1.0,
+   "note_time": 173.65
+  },
+  {
+   "text": "be",
+   "time": 175.22,
+   "weight": 1.0,
+   "note_time": 174.35
+  },
+  {
+   "text": "made",
+   "time": 175.96,
+   "weight": 1.0,
+   "note_time": 175.06
+  },
+  {
+   "text": "a",
+   "time": 176.72,
+   "weight": 1.0,
+   "note_time": 176.12
+  },
+  {
+   "text": "live",
+   "time": 177.07,
+   "weight": 1.0,
+   "note_time": 176.47
+  },
+  {
+   "text": "In",
+   "time": 178.56,
+   "weight": 0.28,
+   "note_time": 178.59
+  },
+  {
+   "text": "the",
+   "time": 180.2,
+   "weight": 1.0,
+   "note_time": 178.94
+  },
+  {
+   "text": "light",
+   "time": 180.44,
+   "weight": 0.99,
+   "note_time": 179.29
+  },
+  {
+   "text": "of",
+   "time": 181.2,
+   "weight": 1.0,
+   "note_time": 179.82
+  },
+  {
+   "text": "His",
+   "time": 181.6,
+   "weight": 0.85,
+   "note_time": 180.35
+  },
+  {
+   "text": "way",
+   "time": 182.04,
+   "weight": 0.95,
+   "note_time": 181.41
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "11 of 26 lyric lines sit clearly on their notes; 15 are uncertain and printed in grey italics."
+}

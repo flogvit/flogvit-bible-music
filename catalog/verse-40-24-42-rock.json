@@ -1,0 +1,49 @@
+{
+  "id": "verse-40-24-42-rock",
+  "title": "Stay Awake and Be Ready",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 24,
+    "verseStart": 42,
+    "verseEnd": 44
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 24,
+      "verseStart": 42,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with backing choir, electric guitar, acoustic guitar, bass, drums, 110 BPM, tense and urgent rock mood",
+    "lyrics": "[Verse]\nThe flood swept them away without a sound\nThey knew nothing of what was coming around\nSo it will be when the Son of Man arrives\nTaking one and leaving the other alive\n\n[Pre-Chorus]\nDo you know the day that your Lord appears?\nOr the hour of night that no one hears?\nIf the owner knew the thief would come\nHe would keep watch to guard the home\n\n[Chorus]\nSo stay awake because the time is near\nBe ready for the moment that you fear\nThe Son of Man comes at an unexpected hour\nKeep your eyes open, stay in power\n\n[Verse]\nTwo men in the field, one is taken\nTwo women at the mill, one is shaken\nBlessed is the servant who stays faithful\nGiving food at the proper time, never hateful\n\n[Chorus]\nSo stay awake because the time is near\nBe ready for the moment that you fear\nThe Son of Man comes at an unexpected hour\nKeep your eyes open, stay in power\n\n[Bridge]\nHe will put him in charge of all his goods\nWhen the master returns, the servant stands proud\nFaithful and wise in the charge he holds\nTill the story ends and the truth unfolds\n\n[Outro]\nStay awake and be ready now\nThe night is dark but the light is how",
+    "cot": "full",
+    "seed": 20258
+  }
+}

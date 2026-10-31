@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-47-6-choral",
+  "title": "Sing Praises to Our King",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 47,
+    "verseStart": 6,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 47,
+      "verseStart": 6,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "skapelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soaring female solo with ethereal choir, harp, flute, strings, organ, timpani, triumphant and majestic, 110 BPM",
+    "lyrics": "[Verse]\nThe Most High is to be feared,\nA great King over all the earth.\nHe subdues peoples under us,\nNations beneath our feet.\n\n[Pre-Chorus]\nHe chooses our inheritance,\nThe pride of Jacob, whom he loves.\n\n[Chorus]\nSing praises to God, sing praises!\nSing praises to our King, sing praises!\nFor God is King of all the earth,\nSing praises with a skillful song.\n\n[Verse]\nGod has ascended amid shouts,\nThe LORD amid the blast of the horn.\nJoy fills the air in celebration,\nThe trumpet calls the faithful on.\n\n[Chorus]\nSing praises to God, sing praises!\nSing praises to our King, sing praises!\nFor God is King of all the earth,\nSing praises with a skillful song.\n\n[Bridge]\nGod reigns over the nations,\nSeated on his holy throne.\nThe nobles of the peoples gather,\nWith the people of the God of Abraham.\n\n[Chorus]\nSing praises to God, sing praises!\nSing praises to our King, sing praises!\nFor God is King of all the earth,\nSing praises with a skillful song.\n\n[Outro]\nThe shields of the earth belong to God,\nHe is highly exalted.",
+    "cot": "full",
+    "seed": 20256
+  }
+}

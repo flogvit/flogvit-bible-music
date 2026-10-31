@@ -1,0 +1,46 @@
+{
+  "id": "verse-46-15-55-worship",
+  "title": "Victory Over Death",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 15,
+    "verseStart": 55,
+    "verseEnd": 57
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 55,
+      "verseEnd": 57
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with ethereal choir, piano, strings, harp, soft drums, majestic and triumphant mood, 85 BPM",
+    "lyrics": "[Verse]\nThe trumpet sounds in a blink of an eye\nThe dead rise up to live eternally\nThis perishable puts on what is immortal\nThe mortal body is changed by the call\n\n[Chorus]\nWhere O death is your victory\nWhere O death is your sting\nThe sting of death is sin\nBut God gives us the victory\n\n[Verse]\nThanks be to God for the win\nThrough our Lord Jesus Christ we begin\nBe steadfast and immovable stand\nAlways abounding in the Lord's hand\n\n[Chorus]\nWhere O death is your victory\nWhere O death is your sting\nThe sting of death is sin\nBut God gives us the victory\n\n[Bridge]\nLabor in the Lord is not vain\nHope remains for us in the rain\nThe law held power over sin\nBut Christ has broken the chain\n\n[Chorus]\nWhere O death is your victory\nWhere O death is your sting\nThe sting of death is sin\nBut God gives us the victory\n\n[Outro]\nDeath has been swallowed up\nVictory is ours to keep",
+    "cot": "full",
+    "seed": 20264
+  }
+}

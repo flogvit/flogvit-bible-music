@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-16-19-ballad",
+  "title": "Victory over Satan",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 16,
+    "verseStart": 19,
+    "verseEnd": 20
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 16,
+      "verseStart": 19,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, solo with choir, piano, acoustic guitar, cello, organ, 80 BPM",
+    "lyrics": "[Verse]\nYour obedience is known to everyone\nI rejoice over you in this light\nBe wise in what is good, dear friends\nAnd innocent in what is evil\n\n[Chorus]\nThe God of peace will soon crush Satan\nUnder your feet, the battle is won\nGrace of our Lord Jesus Christ\nBe with you now and forever\n\n[Verse]\nWatch out for those who create divisions\nPut obstacles in your holy way\nThey do not serve our Lord Christ\nBut their own appetites instead\n\n[Chorus]\nThe God of peace will soon crush Satan\nUnder your feet, the battle is won\nGrace of our Lord Jesus Christ\nBe with you now and forever\n\n[Bridge]\nSmooth talk and flattery deceive\nThe hearts of the unsuspecting blind\nKeep away from such false teachers\nWho twist the teaching you have learned\n\n[Chorus]\nThe God of peace will soon crush Satan\nUnder your feet, the battle is won\nGrace of our Lord Jesus Christ\nBe with you now and forever\n\n[Outro]\nGrace of our Lord Jesus Christ\nBe with you now",
+    "cot": "full",
+    "seed": 20260
+  }
+}

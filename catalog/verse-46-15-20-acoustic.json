@@ -1,0 +1,47 @@
+{
+  "id": "verse-46-15-20-acoustic",
+  "title": "Firstfruits of Life",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 15,
+    "verseStart": 20,
+    "verseEnd": 22
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 20,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, acoustic, female solo voice with soft choir, acoustic guitar, piano, cello, light percussion, hopeful and majestic mood, 84 BPM",
+    "lyrics": "[Verse]\nDeath entered through one man\nSorrow bound the world in chains\nBut hope was not in vain\nA new dawn breaks the pain\n\n[Chorus]\nChrist has been raised from the dead\nThe firstfruits of those who slept\nNo longer lost in the dark\nHis power is not for the weak\n\n[Verse]\nAs in Adam we all die\nSo in Christ we live again\nThe order is clear and true\nFrom the dust to the sky\n\n[Chorus]\nChrist has been raised from the dead\nThe firstfruits of those who slept\nNo longer lost in the dark\nHis power is not for the weak\n\n[Bridge]\nEach in their own appointed time\nThe promise stands firm and strong\nFrom the grave to the throne\nA new life is sung along\n\n[Chorus]\nChrist has been raised from the dead\nThe firstfruits of those who slept\nNo longer lost in the dark\nHis power is not for the weak\n\n[Outro]\nAll will be made alive\nIn the light of His way",
+    "cot": "full",
+    "seed": 20263
+  }
+}

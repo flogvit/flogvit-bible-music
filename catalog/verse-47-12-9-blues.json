@@ -1,0 +1,49 @@
+{
+  "id": "verse-47-12-9-blues",
+  "title": "My Grace is Enough",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 47,
+    "chapter": 12,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 47,
+      "chapter": 12,
+      "verseStart": 9,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male gravelly solo voice, acoustic guitar, upright bass, brushed drums, mournful but steady, 80 BPM",
+    "lyrics": "[Verse]\nA thorn was given to my flesh\nA messenger sent to torment me\nI pleaded three times with the Lord\nTo take this heavy burden away\n\n[Chorus]\nBut he said to me\nMy grace is enough for you\nFor my power is brought to its fullness\nIn weakness\n\n[Verse]\nI am content with hardships now\nWith insults and persecution\nI boast all the more gladly\nAbout my weaknesses and pain\n\n[Chorus]\nBut he said to me\nMy grace is enough for you\nFor my power is brought to its fullness\nIn weakness\n\n[Bridge]\nSo the power of Christ\nMay rest upon my life\nWhen I am weak then I am strong\nIn the middle of the night\n\n[Chorus]\nBut he said to me\nMy grace is enough for you\nFor my power is brought to its fullness\nIn weakness\n\n[Outro]\nMy grace is enough for you\nMy power is full in weakness",
+    "cot": "full",
+    "seed": 20265
+  }
+}

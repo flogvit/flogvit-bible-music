@@ -1,0 +1,49 @@
+{
+  "id": "verse-46-13-4-country",
+  "title": "Love Never Ends",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 13,
+    "verseStart": 4,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 13,
+      "verseStart": 4,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "kjerlighet",
+      "guds-trofasthet",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with subtle gospel choir backing, acoustic guitar, piano, upright bass, cello, warm and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nIf I speak in tongues of angels\nAnd have no love inside\nI am only a clanging gong\nWith a sound that is wide\nIf I have the gift of prophecy\nAnd know all mysteries\nBut have no love to offer\nI am truly just nothing\n\n[Chorus]\nLove is patient and kind\nLove does not envy or boast\nIt is not arrogant at all\nNor rude when it counts\n\n[Verse]\nIt does not insist on its own way\nIt is not irritable\nIt keeps no record of wrongs\nIt is not self-absorbed\nLove does not rejoice in wrongdoing\nIt rejoices with the truth\nIt bears all things for you\nIt believes in the light\n\n[Chorus]\nLove is patient and kind\nLove does not envy or boast\nIt is not arrogant at all\nNor rude when it counts\n\n[Bridge]\nIt hopes all things forever\nIt endures all things too\nLove never ends with time\nIt remains true and new\n\n[Outro]\nLove never ends\nLove is true",
+    "cot": "full",
+    "seed": 20262
+  }
+}

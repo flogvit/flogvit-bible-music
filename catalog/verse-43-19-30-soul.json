@@ -1,0 +1,50 @@
+{
+  "id": "verse-43-19-30-soul",
+  "title": "It Is Finished",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 19,
+    "verseStart": 30,
+    "verseEnd": 30
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 19,
+      "verseStart": 30,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "tro",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, male solo voice with gospel choir, acoustic piano, organ, cello, drums, mournful and triumphant, 72 BPM",
+    "lyrics": "[Verse]\nHe looked at the disciple by his side\nHere is your mother, he said with pride\nFrom that hour she entered his home\nNo more alone, in Jesus' name\n\n[Verse]\nKnowing all things were now complete\nScripture fulfilled on this holy street\nHe said I thirst, dry lips and tongue\nA jar of sour wine stood along\n\n[Chorus]\nSoaked a sponge in the bitter wine\nHeld it high on a hyssop line\nTo his mouth they raised the branch\nHe received the drink to his command\n\n[Verse]\nWhen he had taken the final cup\nHe spoke the words, making all stop\nIt is finished, the debt is paid\nBowing his head, the spirit stayed\n\n[Chorus]\nSoaked a sponge in the bitter wine\nHeld it high on a hyssop line\nTo his mouth they raised the branch\nHe received the drink to his command\n\n[Verse]\nThe day of preparation was near\nJews did not want bodies here\nFor that Sabbath was a high day\nAsk Pilate to stop the display\n\n[Chorus]\nSoaked a sponge in the bitter wine\nHeld it high on a hyssop line\nTo his mouth they raised the branch\nHe received the drink to his command\n\n[Bridge]\nSoldiers broke legs of men beside\nBut came to Jesus, dead with pride\nThey saw he was already gone\nDid not break his legs, the work was done\n\n[Outro]\nIt is finished, the story ends\nBowing his head, to his Father he bends",
+    "cot": "full",
+    "seed": 20259
+  }
+}

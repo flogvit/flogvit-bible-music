@@ -1,0 +1,45 @@
+{
+  "id": "verse-40-24-35-orchestral",
+  "title": "My Words Will Never Pass Away",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 24,
+    "verseStart": 35,
+    "verseEnd": 35
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 24,
+      "verseStart": 35,
+      "verseEnd": 35
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, powerful and reverent, solo, organ, strings, timpani, harp, solemn and majestic, 70 BPM",
+    "lyrics": "[Verse]\nThe fig tree branch grows tender now\nAnd summer near with leaves that grow\nSo when you see all these things done\nKnow He is near, just at the door\n\n[Chorus]\nHeaven and earth will pass away\nBut my words will never pass away\nHeaven and earth will pass away\nBut my words will never pass away\n\n[Verse]\nThis generation will not pass away\nUntil all these things happen in the day\nFor in the days of Noah before\nPeople ate and drank, no more\n\n[Chorus]\nHeaven and earth will pass away\nBut my words will never pass away\nHeaven and earth will pass away\nBut my words will never pass away\n\n[Bridge]\nMarrying and given in marriage too\nRight up to the day the flood broke through\nNo one knows the day or the hour\nNot even angels, not even the power\n\n[Outro]\nMy words stand firm in the light of day\nMy words will never pass away",
+    "cot": "full",
+    "seed": 20257
+  }
+}

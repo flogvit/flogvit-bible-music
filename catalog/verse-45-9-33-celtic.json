@@ -1,0 +1,46 @@
+{
+  "id": "verse-45-9-33-celtic",
+  "title": "Not Put To Shame",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 9,
+    "verseStart": 33,
+    "verseEnd": 33
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 9,
+      "verseStart": 33,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frelsen",
+      "tro",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo, ethereal and warm, harp, uilleann pipes, bodhran, acoustic guitar, soft strings, reverent and hopeful, 90 BPM",
+    "lyrics": "[Verse]\nGentiles sought no law of works\nBut found the grace they did not seek\nIsrael pressed to reach the goal\nYet fell short of what they took\n\n[Verse]\nThey chased a law by human hands\nBut missed the faith that sets them free\nStumbled on the stone they saw\nAnd tumbled in their own decree\n\n[Chorus]\nSee I lay in Zion a stone\nA rock that makes them fall and break\nBut the one who believes in him\nShall not be put to shame\n\n[Verse]\nRighteousness by faith is found\nFor those who do not chase the prize\nThe law was sought by works alone\nAnd left the seeker blind to eyes\n\n[Chorus]\nSee I lay in Zion a stone\nA rock that makes them fall and break\nBut the one who believes in him\nShall not be put to shame\n\n[Bridge]\nNot by your hands but by his grace\nThe stumbling block becomes the way\nBelieve in him and stand secure\nYour faith will never fade away\n\n[Chorus]\nSee I lay in Zion a stone\nA rock that makes them fall and break\nBut the one who believes in him\nShall not be put to shame\n\n[Outro]\nBelieve in him and not be shamed\nYour faith remains forever true",
+    "cot": "full",
+    "seed": 20261
+  }
+}

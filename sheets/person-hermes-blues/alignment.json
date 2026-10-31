@@ -1,0 +1,1112 @@
+{
+ "id": "person-hermes-blues",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-hermes-blues",
+ "offset_seconds": 0.03999999999974335,
+ "words_heard": 110,
+ "words": 116,
+ "lines": [
+  {
+   "text": "Paul writes to the believers in Rome",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.13,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A list of names in the letter of grace",
+   "heard": 9,
+   "words": 9,
+   "error_s": 3.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Asyncritus and Phlegon are known",
+   "heard": 4,
+   "words": 5,
+   "error_s": 3.49,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But Hermes stands in the open space",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.23,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Greet Asyncritus, Phlegon, Hermes",
+   "heard": 2,
+   "words": 4,
+   "error_s": 3.14,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Patrobas and Hermas with care",
+   "heard": 5,
+   "words": 5,
+   "error_s": 2.98,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And the brothers who stand with them",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.5,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the circle of love that is fair",
+   "heard": 8,
+   "words": 8,
+   "error_s": 2.34,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A Christian living in the city walls",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Part of the community that he knew",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.14,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Recognized by the apostle\u2019s hand",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.97,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "His name is written in the view",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.47,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Greet Asyncritus, Phlegon, Hermes",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Patrobas and Hermas with care",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the brothers who stand with them",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.34,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the circle of love that is fair",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Greet Hermes in the letter\u2019s light",
+   "heard": 4,
+   "words": 6,
+   "error_s": 1.82,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "His name is kept in the Roman night",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.78,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Paul",
+   "time": 19.38,
+   "weight": 0.8,
+   "note_time": 22.8
+  },
+  {
+   "text": "writes",
+   "time": 20.24,
+   "weight": 0.96,
+   "note_time": 23.2
+  },
+  {
+   "text": "to",
+   "time": 20.74,
+   "weight": 0.34,
+   "note_time": 23.6
+  },
+  {
+   "text": "the",
+   "time": 21.0,
+   "weight": 0.99,
+   "note_time": 23.8
+  },
+  {
+   "text": "be",
+   "time": 21.1,
+   "weight": 0.97,
+   "note_time": 24.0
+  },
+  {
+   "text": "liev",
+   "time": 21.3,
+   "weight": 0.97,
+   "note_time": 24.2
+  },
+  {
+   "text": "ers",
+   "time": 21.5,
+   "weight": 0.97,
+   "note_time": 24.8
+  },
+  {
+   "text": "in",
+   "time": 21.7,
+   "weight": 0.99,
+   "note_time": 25.2
+  },
+  {
+   "text": "Rome",
+   "time": 22.38,
+   "weight": 0.99,
+   "note_time": 29.2
+  },
+  {
+   "text": "A",
+   "time": 22.8,
+   "weight": 0.25,
+   "note_time": 29.4
+  },
+  {
+   "text": "list",
+   "time": 26.02,
+   "weight": 0.98,
+   "note_time": 29.6
+  },
+  {
+   "text": "of",
+   "time": 26.84,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "names",
+   "time": 26.98,
+   "weight": 1.0,
+   "note_time": 30.2
+  },
+  {
+   "text": "in",
+   "time": 27.28,
+   "weight": 0.94,
+   "note_time": 30.4
+  },
+  {
+   "text": "the",
+   "time": 27.6,
+   "weight": 0.98,
+   "note_time": 30.6
+  },
+  {
+   "text": "let",
+   "time": 27.76,
+   "weight": 0.81,
+   "note_time": 31.2
+  },
+  {
+   "text": "ter",
+   "time": 27.95,
+   "weight": 0.81,
+   "note_time": 31.6
+  },
+  {
+   "text": "of",
+   "time": 28.14,
+   "weight": 1.0,
+   "note_time": 35.6
+  },
+  {
+   "text": "grace",
+   "time": 28.82,
+   "weight": 0.94,
+   "note_time": 36.0
+  },
+  {
+   "text": "A",
+   "time": 29.86,
+   "weight": 0.0,
+   "note_time": 36.2
+  },
+  {
+   "text": "syn",
+   "time": 30.9,
+   "weight": 0.0,
+   "note_time": 36.4
+  },
+  {
+   "text": "cri",
+   "time": 31.94,
+   "weight": 0.0,
+   "note_time": 36.6
+  },
+  {
+   "text": "tus",
+   "time": 32.98,
+   "weight": 0.0,
+   "note_time": 36.8
+  },
+  {
+   "text": "and",
+   "time": 34.02,
+   "weight": 0.96,
+   "note_time": 37.0
+  },
+  {
+   "text": "Phle",
+   "time": 34.22,
+   "weight": 0.95,
+   "note_time": 37.6
+  },
+  {
+   "text": "gon",
+   "time": 34.51,
+   "weight": 0.95,
+   "note_time": 38.0
+  },
+  {
+   "text": "are",
+   "time": 34.8,
+   "weight": 0.81,
+   "note_time": 42.2
+  },
+  {
+   "text": "known",
+   "time": 35.14,
+   "weight": 0.99,
+   "note_time": 42.4
+  },
+  {
+   "text": "But",
+   "time": 35.64,
+   "weight": 0.32,
+   "note_time": 42.6
+  },
+  {
+   "text": "Her",
+   "time": 39.88,
+   "weight": 0.99,
+   "note_time": 43.0
+  },
+  {
+   "text": "mes",
+   "time": 40.09,
+   "weight": 0.99,
+   "note_time": 43.6
+  },
+  {
+   "text": "stands",
+   "time": 40.3,
+   "weight": 0.99,
+   "note_time": 43.8
+  },
+  {
+   "text": "in",
+   "time": 40.66,
+   "weight": 0.99,
+   "note_time": 44.0
+  },
+  {
+   "text": "the",
+   "time": 41.3,
+   "weight": 0.99,
+   "note_time": 44.2
+  },
+  {
+   "text": "o",
+   "time": 41.46,
+   "weight": 0.99,
+   "note_time": 44.4
+  },
+  {
+   "text": "pen",
+   "time": 41.67,
+   "weight": 0.99,
+   "note_time": 44.8
+  },
+  {
+   "text": "space",
+   "time": 41.88,
+   "weight": 0.99,
+   "note_time": 47.6
+  },
+  {
+   "text": "Greet",
+   "time": 42.7,
+   "weight": 0.0,
+   "note_time": 47.8
+  },
+  {
+   "text": "A",
+   "time": 43.52,
+   "weight": 0.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "syn",
+   "time": 44.34,
+   "weight": 0.0,
+   "note_time": 48.4
+  },
+  {
+   "text": "cri",
+   "time": 45.16,
+   "weight": 0.0,
+   "note_time": 48.8
+  },
+  {
+   "text": "tus,",
+   "time": 45.98,
+   "weight": 0.0,
+   "note_time": 49.6
+  },
+  {
+   "text": "Phle",
+   "time": 46.8,
+   "weight": 1.0,
+   "note_time": 49.8
+  },
+  {
+   "text": "gon,",
+   "time": 47.15,
+   "weight": 1.0,
+   "note_time": 50.4
+  },
+  {
+   "text": "Her",
+   "time": 47.76,
+   "weight": 0.98,
+   "note_time": 50.8
+  },
+  {
+   "text": "mes",
+   "time": 48.11,
+   "weight": 0.98,
+   "note_time": 54.4
+  },
+  {
+   "text": "Pat",
+   "time": 48.78,
+   "weight": 0.23,
+   "note_time": 54.6
+  },
+  {
+   "text": "ro",
+   "time": 49.13,
+   "weight": 0.23,
+   "note_time": 54.8
+  },
+  {
+   "text": "bas",
+   "time": 49.48,
+   "weight": 0.23,
+   "note_time": 55.6
+  },
+  {
+   "text": "and",
+   "time": 52.88,
+   "weight": 0.98,
+   "note_time": 55.8
+  },
+  {
+   "text": "Her",
+   "time": 53.34,
+   "weight": 1.0,
+   "note_time": 56.4
+  },
+  {
+   "text": "mas",
+   "time": 53.69,
+   "weight": 1.0,
+   "note_time": 56.8
+  },
+  {
+   "text": "with",
+   "time": 54.32,
+   "weight": 0.93,
+   "note_time": 57.2
+  },
+  {
+   "text": "care",
+   "time": 54.62,
+   "weight": 0.94,
+   "note_time": 57.6
+  },
+  {
+   "text": "And",
+   "time": 57.42,
+   "weight": 0.19,
+   "note_time": 60.4
+  },
+  {
+   "text": "the",
+   "time": 58.1,
+   "weight": 0.97,
+   "note_time": 60.6
+  },
+  {
+   "text": "broth",
+   "time": 58.34,
+   "weight": 0.98,
+   "note_time": 60.8
+  },
+  {
+   "text": "ers",
+   "time": 58.52,
+   "weight": 0.98,
+   "note_time": 61.0
+  },
+  {
+   "text": "who",
+   "time": 58.7,
+   "weight": 0.99,
+   "note_time": 61.2
+  },
+  {
+   "text": "stand",
+   "time": 58.96,
+   "weight": 1.0,
+   "note_time": 61.6
+  },
+  {
+   "text": "with",
+   "time": 59.36,
+   "weight": 0.99,
+   "note_time": 62.0
+  },
+  {
+   "text": "them",
+   "time": 59.82,
+   "weight": 0.92,
+   "note_time": 62.2
+  },
+  {
+   "text": "In",
+   "time": 60.04,
+   "weight": 0.34,
+   "note_time": 65.2
+  },
+  {
+   "text": "the",
+   "time": 63.04,
+   "weight": 0.99,
+   "note_time": 65.4
+  },
+  {
+   "text": "cir",
+   "time": 63.14,
+   "weight": 0.99,
+   "note_time": 65.6
+  },
+  {
+   "text": "cle",
+   "time": 63.34,
+   "weight": 0.99,
+   "note_time": 65.8
+  },
+  {
+   "text": "of",
+   "time": 63.54,
+   "weight": 0.97,
+   "note_time": 66.0
+  },
+  {
+   "text": "love",
+   "time": 63.88,
+   "weight": 0.92,
+   "note_time": 66.2
+  },
+  {
+   "text": "that",
+   "time": 64.1,
+   "weight": 0.99,
+   "note_time": 66.4
+  },
+  {
+   "text": "is",
+   "time": 64.64,
+   "weight": 0.91,
+   "note_time": 66.8
+  },
+  {
+   "text": "fair",
+   "time": 64.82,
+   "weight": 0.97,
+   "note_time": 67.0
+  },
+  {
+   "text": "A",
+   "time": 96.4,
+   "weight": 0.45,
+   "note_time": 99.6
+  },
+  {
+   "text": "Chris",
+   "time": 97.38,
+   "weight": 0.93,
+   "note_time": 99.8
+  },
+  {
+   "text": "tian",
+   "time": 97.58,
+   "weight": 0.93,
+   "note_time": 100.0
+  },
+  {
+   "text": "liv",
+   "time": 97.78,
+   "weight": 0.85,
+   "note_time": 100.2
+  },
+  {
+   "text": "ing",
+   "time": 97.95,
+   "weight": 0.85,
+   "note_time": 100.4
+  },
+  {
+   "text": "in",
+   "time": 98.12,
+   "weight": 0.99,
+   "note_time": 100.6
+  },
+  {
+   "text": "the",
+   "time": 98.56,
+   "weight": 0.99,
+   "note_time": 100.8
+  },
+  {
+   "text": "c",
+   "time": 98.62,
+   "weight": 0.98,
+   "note_time": 101.0
+  },
+  {
+   "text": "ity",
+   "time": 98.77,
+   "weight": 0.98,
+   "note_time": 101.2
+  },
+  {
+   "text": "walls",
+   "time": 98.92,
+   "weight": 0.94,
+   "note_time": 101.4
+  },
+  {
+   "text": "Part",
+   "time": 99.48,
+   "weight": 0.34,
+   "note_time": 105.6
+  },
+  {
+   "text": "of",
+   "time": 103.72,
+   "weight": 1.0,
+   "note_time": 105.8
+  },
+  {
+   "text": "the",
+   "time": 103.9,
+   "weight": 0.97,
+   "note_time": 106.0
+  },
+  {
+   "text": "com",
+   "time": 104.06,
+   "weight": 0.99,
+   "note_time": 106.2
+  },
+  {
+   "text": "mu",
+   "time": 104.22,
+   "weight": 0.99,
+   "note_time": 106.4
+  },
+  {
+   "text": "ni",
+   "time": 104.37,
+   "weight": 0.99,
+   "note_time": 106.6
+  },
+  {
+   "text": "ty",
+   "time": 104.53,
+   "weight": 0.99,
+   "note_time": 106.8
+  },
+  {
+   "text": "that",
+   "time": 104.68,
+   "weight": 0.99,
+   "note_time": 107.0
+  },
+  {
+   "text": "he",
+   "time": 105.36,
+   "weight": 0.88,
+   "note_time": 107.2
+  },
+  {
+   "text": "knew",
+   "time": 105.9,
+   "weight": 1.0,
+   "note_time": 107.4
+  },
+  {
+   "text": "Rec",
+   "time": 110.12,
+   "weight": 0.49,
+   "note_time": 112.4
+  },
+  {
+   "text": "og",
+   "time": 110.43,
+   "weight": 0.49,
+   "note_time": 112.6
+  },
+  {
+   "text": "nized",
+   "time": 110.75,
+   "weight": 0.49,
+   "note_time": 112.8
+  },
+  {
+   "text": "by",
+   "time": 111.06,
+   "weight": 0.99,
+   "note_time": 113.0
+  },
+  {
+   "text": "the",
+   "time": 111.14,
+   "weight": 0.99,
+   "note_time": 113.2
+  },
+  {
+   "text": "a",
+   "time": 111.28,
+   "weight": 0.58,
+   "note_time": 113.4
+  },
+  {
+   "text": "pos",
+   "time": 111.63,
+   "weight": 0.58,
+   "note_time": 113.6
+  },
+  {
+   "text": "tle\u2019s",
+   "time": 111.98,
+   "weight": 0.58,
+   "note_time": 113.8
+  },
+  {
+   "text": "hand",
+   "time": 112.64,
+   "weight": 0.46,
+   "note_time": 114.0
+  },
+  {
+   "text": "His",
+   "time": 113.04,
+   "weight": 0.36,
+   "note_time": 114.2
+  },
+  {
+   "text": "name",
+   "time": 115.62,
+   "weight": 0.36,
+   "note_time": 114.8
+  },
+  {
+   "text": "is",
+   "time": 117.44,
+   "weight": 0.99,
+   "note_time": 119.0
+  },
+  {
+   "text": "writ",
+   "time": 117.72,
+   "weight": 1.0,
+   "note_time": 119.2
+  },
+  {
+   "text": "ten",
+   "time": 117.93,
+   "weight": 1.0,
+   "note_time": 119.4
+  },
+  {
+   "text": "in",
+   "time": 118.14,
+   "weight": 0.54,
+   "note_time": 119.8
+  },
+  {
+   "text": "the",
+   "time": 118.58,
+   "weight": 0.86,
+   "note_time": 120.0
+  },
+  {
+   "text": "view",
+   "time": 119.14,
+   "weight": 0.92,
+   "note_time": 120.2
+  },
+  {
+   "text": "Greet",
+   "time": 121.78,
+   "weight": 0.21,
+   "note_time": 120.8
+  },
+  {
+   "text": "A",
+   "time": 122.24,
+   "weight": 0.0,
+   "note_time": 121.0
+  },
+  {
+   "text": "syn",
+   "time": 122.7,
+   "weight": 0.0,
+   "note_time": 121.2
+  },
+  {
+   "text": "cri",
+   "time": 123.16,
+   "weight": 0.0,
+   "note_time": 121.4
+  },
+  {
+   "text": "tus,",
+   "time": 123.62,
+   "weight": 0.0,
+   "note_time": 124.4
+  },
+  {
+   "text": "Phle",
+   "time": 124.08,
+   "weight": 0.86,
+   "note_time": 124.6
+  },
+  {
+   "text": "gon,",
+   "time": 124.43,
+   "weight": 0.86,
+   "note_time": 124.8
+  },
+  {
+   "text": "Her",
+   "time": 125.04,
+   "weight": 0.82,
+   "note_time": 125.2
+  },
+  {
+   "text": "mes",
+   "time": 125.39,
+   "weight": 0.82,
+   "note_time": 125.6
+  },
+  {
+   "text": "Pat",
+   "time": 126.16,
+   "weight": 0.27,
+   "note_time": 126.4
+  },
+  {
+   "text": "ro",
+   "time": 126.51,
+   "weight": 0.27,
+   "note_time": 126.6
+  },
+  {
+   "text": "bas",
+   "time": 126.86,
+   "weight": 0.27,
+   "note_time": 127.2
+  },
+  {
+   "text": "and",
+   "time": 130.2,
+   "weight": 0.94,
+   "note_time": 127.6
+  },
+  {
+   "text": "Her",
+   "time": 130.66,
+   "weight": 0.83,
+   "note_time": 131.4
+  },
+  {
+   "text": "mas",
+   "time": 131.01,
+   "weight": 0.83,
+   "note_time": 131.6
+  },
+  {
+   "text": "with",
+   "time": 131.7,
+   "weight": 0.88,
+   "note_time": 132.4
+  },
+  {
+   "text": "care",
+   "time": 131.88,
+   "weight": 1.0,
+   "note_time": 132.6
+  },
+  {
+   "text": "And",
+   "time": 134.72,
+   "weight": 0.94,
+   "note_time": 133.2
+  },
+  {
+   "text": "the",
+   "time": 135.54,
+   "weight": 0.99,
+   "note_time": 133.6
+  },
+  {
+   "text": "broth",
+   "time": 135.64,
+   "weight": 0.99,
+   "note_time": 134.0
+  },
+  {
+   "text": "ers",
+   "time": 135.85,
+   "weight": 0.99,
+   "note_time": 137.2
+  },
+  {
+   "text": "who",
+   "time": 136.06,
+   "weight": 0.98,
+   "note_time": 137.4
+  },
+  {
+   "text": "stand",
+   "time": 136.3,
+   "weight": 1.0,
+   "note_time": 137.6
+  },
+  {
+   "text": "with",
+   "time": 136.7,
+   "weight": 0.99,
+   "note_time": 137.8
+  },
+  {
+   "text": "them",
+   "time": 137.14,
+   "weight": 0.9,
+   "note_time": 138.0
+  },
+  {
+   "text": "In",
+   "time": 137.46,
+   "weight": 0.38,
+   "note_time": 138.4
+  },
+  {
+   "text": "the",
+   "time": 140.38,
+   "weight": 0.92,
+   "note_time": 138.8
+  },
+  {
+   "text": "cir",
+   "time": 140.46,
+   "weight": 0.99,
+   "note_time": 139.0
+  },
+  {
+   "text": "cle",
+   "time": 140.66,
+   "weight": 0.99,
+   "note_time": 142.2
+  },
+  {
+   "text": "of",
+   "time": 140.86,
+   "weight": 1.0,
+   "note_time": 142.4
+  },
+  {
+   "text": "love",
+   "time": 141.18,
+   "weight": 0.82,
+   "note_time": 142.6
+  },
+  {
+   "text": "that",
+   "time": 141.5,
+   "weight": 0.86,
+   "note_time": 142.8
+  },
+  {
+   "text": "is",
+   "time": 142.0,
+   "weight": 0.99,
+   "note_time": 143.0
+  },
+  {
+   "text": "fair",
+   "time": 142.14,
+   "weight": 1.0,
+   "note_time": 143.2
+  },
+  {
+   "text": "Greet",
+   "time": 145.71,
+   "weight": 0.0,
+   "note_time": 150.8
+  },
+  {
+   "text": "Her",
+   "time": 149.28,
+   "weight": 0.64,
+   "note_time": 151.2
+  },
+  {
+   "text": "mes",
+   "time": 149.56,
+   "weight": 0.64,
+   "note_time": 151.4
+  },
+  {
+   "text": "in",
+   "time": 149.84,
+   "weight": 0.97,
+   "note_time": 151.6
+  },
+  {
+   "text": "the",
+   "time": 150.0,
+   "weight": 0.97,
+   "note_time": 151.8
+  },
+  {
+   "text": "let",
+   "time": 150.16,
+   "weight": 0.86,
+   "note_time": 152.0
+  },
+  {
+   "text": "ter\u2019s",
+   "time": 150.39,
+   "weight": 0.86,
+   "note_time": 152.2
+  },
+  {
+   "text": "light",
+   "time": 150.72,
+   "weight": 0.0,
+   "note_time": 152.4
+  },
+  {
+   "text": "His",
+   "time": 151.04,
+   "weight": 0.33,
+   "note_time": 157.4
+  },
+  {
+   "text": "name",
+   "time": 154.96,
+   "weight": 0.99,
+   "note_time": 157.6
+  },
+  {
+   "text": "is",
+   "time": 156.08,
+   "weight": 0.98,
+   "note_time": 157.8
+  },
+  {
+   "text": "kept",
+   "time": 156.34,
+   "weight": 0.96,
+   "note_time": 158.2
+  },
+  {
+   "text": "in",
+   "time": 156.66,
+   "weight": 0.98,
+   "note_time": 158.8
+  },
+  {
+   "text": "the",
+   "time": 157.32,
+   "weight": 0.9,
+   "note_time": 159.0
+  },
+  {
+   "text": "Ro",
+   "time": 157.42,
+   "weight": 0.92,
+   "note_time": 159.2
+  },
+  {
+   "text": "man",
+   "time": 157.62,
+   "weight": 0.92,
+   "note_time": 159.4
+  },
+  {
+   "text": "night",
+   "time": 157.82,
+   "weight": 0.44,
+   "note_time": 159.6
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "2 of 18 lyric lines sit clearly on their notes; 16 are uncertain and printed in grey italics."
+}

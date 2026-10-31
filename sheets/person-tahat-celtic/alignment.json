@@ -1,0 +1,860 @@
+{
+ "id": "person-tahat-celtic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-tahat-celtic",
+ "offset_seconds": -1.1000000000002323,
+ "words_heard": 72,
+ "words": 79,
+ "lines": [
+  {
+   "text": "Shuthelah walked with his son",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.45,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Bered stood in the line",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tahath kept the covenant",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.99,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The blood of Ephraim divine",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tahath son of Bered",
+   "heard": 2,
+   "words": 4,
+   "error_s": 1.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Eleadah came after you",
+   "heard": 3,
+   "words": 4,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The name returns again",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the house of Joseph true",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The son of Eleadah",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.14,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Tahath once more stands",
+   "heard": 3,
+   "words": 4,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Within the tribe of Ephraim",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.94,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Where the patriarchs commanded",
+   "heard": 4,
+   "words": 4,
+   "error_s": 3.08,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Tahath son of Bered",
+   "heard": 4,
+   "words": 4,
+   "error_s": 4.56,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Eleadah came after you",
+   "heard": 3,
+   "words": 4,
+   "error_s": 1.41,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The name returns again",
+   "heard": 4,
+   "words": 4,
+   "error_s": 2.24,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the house of Joseph true",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.48,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Descendants of Ephraim",
+   "heard": 3,
+   "words": 3,
+   "error_s": 16.93,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The line continues on",
+   "heard": 4,
+   "words": 4,
+   "error_s": 23.46,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Shut",
+   "time": 32.0,
+   "weight": 0.55,
+   "note_time": 30.42
+  },
+  {
+   "text": "he",
+   "time": 32.35,
+   "weight": 0.55,
+   "note_time": 30.62
+  },
+  {
+   "text": "lah",
+   "time": 32.7,
+   "weight": 0.55,
+   "note_time": 31.25
+  },
+  {
+   "text": "walked",
+   "time": 33.4,
+   "weight": 0.93,
+   "note_time": 32.08
+  },
+  {
+   "text": "with",
+   "time": 34.04,
+   "weight": 1.0,
+   "note_time": 32.92
+  },
+  {
+   "text": "his",
+   "time": 34.84,
+   "weight": 0.82,
+   "note_time": 33.12
+  },
+  {
+   "text": "son",
+   "time": 35.18,
+   "weight": 0.93,
+   "note_time": 33.75
+  },
+  {
+   "text": "Be",
+   "time": 37.56,
+   "weight": 0.15,
+   "note_time": 37.08
+  },
+  {
+   "text": "red",
+   "time": 37.91,
+   "weight": 0.15,
+   "note_time": 37.92
+  },
+  {
+   "text": "stood",
+   "time": 38.96,
+   "weight": 0.99,
+   "note_time": 38.75
+  },
+  {
+   "text": "in",
+   "time": 39.7,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "the",
+   "time": 40.66,
+   "weight": 0.99,
+   "note_time": 40.21
+  },
+  {
+   "text": "line",
+   "time": 41.74,
+   "weight": 0.82,
+   "note_time": 40.42
+  },
+  {
+   "text": "Ta",
+   "time": 44.74,
+   "weight": 0.62,
+   "note_time": 43.75
+  },
+  {
+   "text": "hath",
+   "time": 45.09,
+   "weight": 0.62,
+   "note_time": 44.58
+  },
+  {
+   "text": "kept",
+   "time": 46.14,
+   "weight": 0.99,
+   "note_time": 45.42
+  },
+  {
+   "text": "the",
+   "time": 47.16,
+   "weight": 0.97,
+   "note_time": 46.67
+  },
+  {
+   "text": "co",
+   "time": 48.34,
+   "weight": 0.97,
+   "note_time": 47.08
+  },
+  {
+   "text": "ve",
+   "time": 48.57,
+   "weight": 0.97,
+   "note_time": 47.29
+  },
+  {
+   "text": "nant",
+   "time": 48.79,
+   "weight": 0.97,
+   "note_time": 47.5
+  },
+  {
+   "text": "The",
+   "time": 50.48,
+   "weight": 0.89,
+   "note_time": 50.21
+  },
+  {
+   "text": "blood",
+   "time": 51.88,
+   "weight": 0.96,
+   "note_time": 50.42
+  },
+  {
+   "text": "of",
+   "time": 52.36,
+   "weight": 1.0,
+   "note_time": 51.25
+  },
+  {
+   "text": "Ep",
+   "time": 53.24,
+   "weight": 0.99,
+   "note_time": 52.08
+  },
+  {
+   "text": "hraim",
+   "time": 53.59,
+   "weight": 0.99,
+   "note_time": 52.5
+  },
+  {
+   "text": "di",
+   "time": 54.42,
+   "weight": 0.73,
+   "note_time": 53.33
+  },
+  {
+   "text": "vine",
+   "time": 54.77,
+   "weight": 0.73,
+   "note_time": 53.54
+  },
+  {
+   "text": "Ta",
+   "time": 56.21,
+   "weight": 0.0,
+   "note_time": 53.75
+  },
+  {
+   "text": "hath",
+   "time": 57.66,
+   "weight": 0.0,
+   "note_time": 57.08
+  },
+  {
+   "text": "son",
+   "time": 59.1,
+   "weight": 0.73,
+   "note_time": 57.92
+  },
+  {
+   "text": "of",
+   "time": 60.06,
+   "weight": 1.0,
+   "note_time": 58.75
+  },
+  {
+   "text": "Be",
+   "time": 60.39,
+   "weight": 0.0,
+   "note_time": 59.17
+  },
+  {
+   "text": "red",
+   "time": 60.71,
+   "weight": 0.0,
+   "note_time": 59.58
+  },
+  {
+   "text": "E",
+   "time": 61.04,
+   "weight": 0.0,
+   "note_time": 60.21
+  },
+  {
+   "text": "lea",
+   "time": 61.37,
+   "weight": 0.0,
+   "note_time": 60.42
+  },
+  {
+   "text": "dah",
+   "time": 61.69,
+   "weight": 0.0,
+   "note_time": 60.62
+  },
+  {
+   "text": "came",
+   "time": 62.02,
+   "weight": 0.95,
+   "note_time": 60.83
+  },
+  {
+   "text": "af",
+   "time": 62.34,
+   "weight": 1.0,
+   "note_time": 61.25
+  },
+  {
+   "text": "ter",
+   "time": 62.69,
+   "weight": 1.0,
+   "note_time": 61.67
+  },
+  {
+   "text": "you",
+   "time": 63.06,
+   "weight": 0.88,
+   "note_time": 62.08
+  },
+  {
+   "text": "The",
+   "time": 63.54,
+   "weight": 0.75,
+   "note_time": 63.54
+  },
+  {
+   "text": "name",
+   "time": 65.0,
+   "weight": 0.91,
+   "note_time": 63.75
+  },
+  {
+   "text": "re",
+   "time": 65.38,
+   "weight": 1.0,
+   "note_time": 64.58
+  },
+  {
+   "text": "turns",
+   "time": 65.73,
+   "weight": 1.0,
+   "note_time": 65.42
+  },
+  {
+   "text": "a",
+   "time": 66.64,
+   "weight": 0.99,
+   "note_time": 65.83
+  },
+  {
+   "text": "gain",
+   "time": 66.99,
+   "weight": 0.99,
+   "note_time": 66.04
+  },
+  {
+   "text": "In",
+   "time": 67.52,
+   "weight": 0.82,
+   "note_time": 66.67
+  },
+  {
+   "text": "the",
+   "time": 68.2,
+   "weight": 1.0,
+   "note_time": 66.88
+  },
+  {
+   "text": "house",
+   "time": 68.26,
+   "weight": 0.92,
+   "note_time": 67.08
+  },
+  {
+   "text": "of",
+   "time": 68.74,
+   "weight": 1.0,
+   "note_time": 67.5
+  },
+  {
+   "text": "Jo",
+   "time": 69.12,
+   "weight": 0.98,
+   "note_time": 67.92
+  },
+  {
+   "text": "seph",
+   "time": 69.32,
+   "weight": 0.98,
+   "note_time": 68.33
+  },
+  {
+   "text": "true",
+   "time": 76.04,
+   "weight": 0.0,
+   "note_time": 68.75
+  },
+  {
+   "text": "The",
+   "time": 82.76,
+   "weight": 0.16,
+   "note_time": 83.75
+  },
+  {
+   "text": "son",
+   "time": 84.16,
+   "weight": 0.15,
+   "note_time": 84.58
+  },
+  {
+   "text": "of",
+   "time": 85.56,
+   "weight": 0.99,
+   "note_time": 85.42
+  },
+  {
+   "text": "E",
+   "time": 86.7,
+   "weight": 0.0,
+   "note_time": 86.67
+  },
+  {
+   "text": "lea",
+   "time": 87.84,
+   "weight": 0.0,
+   "note_time": 86.88
+  },
+  {
+   "text": "dah",
+   "time": 88.98,
+   "weight": 0.0,
+   "note_time": 87.08
+  },
+  {
+   "text": "Ta",
+   "time": 90.12,
+   "weight": 0.0,
+   "note_time": 87.5
+  },
+  {
+   "text": "hath",
+   "time": 91.26,
+   "weight": 0.0,
+   "note_time": 90.42
+  },
+  {
+   "text": "once",
+   "time": 92.4,
+   "weight": 0.73,
+   "note_time": 91.25
+  },
+  {
+   "text": "more",
+   "time": 93.34,
+   "weight": 1.0,
+   "note_time": 92.08
+  },
+  {
+   "text": "stands",
+   "time": 94.08,
+   "weight": 0.63,
+   "note_time": 92.92
+  },
+  {
+   "text": "With",
+   "time": 96.64,
+   "weight": 0.5,
+   "note_time": 93.33
+  },
+  {
+   "text": "in",
+   "time": 96.99,
+   "weight": 0.5,
+   "note_time": 93.75
+  },
+  {
+   "text": "the",
+   "time": 98.0,
+   "weight": 1.0,
+   "note_time": 96.88
+  },
+  {
+   "text": "tribe",
+   "time": 98.88,
+   "weight": 0.93,
+   "note_time": 97.08
+  },
+  {
+   "text": "of",
+   "time": 99.86,
+   "weight": 0.99,
+   "note_time": 97.92
+  },
+  {
+   "text": "Ep",
+   "time": 101.08,
+   "weight": 1.0,
+   "note_time": 98.75
+  },
+  {
+   "text": "hraim",
+   "time": 101.43,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "Where",
+   "time": 102.94,
+   "weight": 0.58,
+   "note_time": 100.21
+  },
+  {
+   "text": "the",
+   "time": 104.18,
+   "weight": 1.0,
+   "note_time": 100.42
+  },
+  {
+   "text": "pa",
+   "time": 104.44,
+   "weight": 0.32,
+   "note_time": 100.83
+  },
+  {
+   "text": "tri",
+   "time": 104.79,
+   "weight": 0.32,
+   "note_time": 103.33
+  },
+  {
+   "text": "archs",
+   "time": 105.14,
+   "weight": 0.32,
+   "note_time": 103.54
+  },
+  {
+   "text": "com",
+   "time": 107.36,
+   "weight": 0.86,
+   "note_time": 103.75
+  },
+  {
+   "text": "mand",
+   "time": 107.66,
+   "weight": 0.86,
+   "note_time": 104.58
+  },
+  {
+   "text": "ed",
+   "time": 107.96,
+   "weight": 0.86,
+   "note_time": 105.42
+  },
+  {
+   "text": "Ta",
+   "time": 110.6,
+   "weight": 0.77,
+   "note_time": 106.67
+  },
+  {
+   "text": "hath",
+   "time": 110.95,
+   "weight": 0.77,
+   "note_time": 106.88
+  },
+  {
+   "text": "son",
+   "time": 112.12,
+   "weight": 0.98,
+   "note_time": 107.08
+  },
+  {
+   "text": "of",
+   "time": 112.82,
+   "weight": 1.0,
+   "note_time": 107.5
+  },
+  {
+   "text": "Be",
+   "time": 113.46,
+   "weight": 0.37,
+   "note_time": 110.42
+  },
+  {
+   "text": "red",
+   "time": 113.64,
+   "weight": 0.37,
+   "note_time": 111.25
+  },
+  {
+   "text": "E",
+   "time": 113.98,
+   "weight": 0.54,
+   "note_time": 112.08
+  },
+  {
+   "text": "lea",
+   "time": 114.19,
+   "weight": 0.54,
+   "note_time": 112.5
+  },
+  {
+   "text": "dah",
+   "time": 114.41,
+   "weight": 0.54,
+   "note_time": 112.92
+  },
+  {
+   "text": "came",
+   "time": 114.62,
+   "weight": 0.83,
+   "note_time": 113.54
+  },
+  {
+   "text": "af",
+   "time": 114.94,
+   "weight": 1.0,
+   "note_time": 113.75
+  },
+  {
+   "text": "ter",
+   "time": 115.29,
+   "weight": 1.0,
+   "note_time": 113.96
+  },
+  {
+   "text": "you",
+   "time": 115.7,
+   "weight": 0.0,
+   "note_time": 114.17
+  },
+  {
+   "text": "The",
+   "time": 116.1,
+   "weight": 0.39,
+   "note_time": 114.58
+  },
+  {
+   "text": "name",
+   "time": 117.62,
+   "weight": 0.99,
+   "note_time": 115.0
+  },
+  {
+   "text": "re",
+   "time": 118.06,
+   "weight": 1.0,
+   "note_time": 115.42
+  },
+  {
+   "text": "turns",
+   "time": 118.41,
+   "weight": 1.0,
+   "note_time": 116.88
+  },
+  {
+   "text": "a",
+   "time": 119.32,
+   "weight": 1.0,
+   "note_time": 117.08
+  },
+  {
+   "text": "gain",
+   "time": 119.67,
+   "weight": 1.0,
+   "note_time": 117.92
+  },
+  {
+   "text": "In",
+   "time": 120.1,
+   "weight": 0.66,
+   "note_time": 118.75
+  },
+  {
+   "text": "the",
+   "time": 120.78,
+   "weight": 1.0,
+   "note_time": 119.17
+  },
+  {
+   "text": "house",
+   "time": 120.86,
+   "weight": 0.99,
+   "note_time": 119.38
+  },
+  {
+   "text": "of",
+   "time": 121.32,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "Jo",
+   "time": 121.7,
+   "weight": 0.99,
+   "note_time": 120.21
+  },
+  {
+   "text": "seph",
+   "time": 121.9,
+   "weight": 0.99,
+   "note_time": 120.42
+  },
+  {
+   "text": "true",
+   "time": 122.1,
+   "weight": 0.3,
+   "note_time": 120.83
+  },
+  {
+   "text": "De",
+   "time": 137.9,
+   "weight": 0.68,
+   "note_time": 121.25
+  },
+  {
+   "text": "scen",
+   "time": 138.25,
+   "weight": 0.68,
+   "note_time": 121.67
+  },
+  {
+   "text": "dants",
+   "time": 138.6,
+   "weight": 0.68,
+   "note_time": 122.08
+  },
+  {
+   "text": "of",
+   "time": 139.3,
+   "weight": 0.99,
+   "note_time": 122.08
+  },
+  {
+   "text": "Ep",
+   "time": 139.68,
+   "weight": 0.89,
+   "note_time": 122.08
+  },
+  {
+   "text": "hraim",
+   "time": 140.03,
+   "weight": 0.89,
+   "note_time": 122.08
+  },
+  {
+   "text": "The",
+   "time": 144.14,
+   "weight": 0.7,
+   "note_time": 122.08
+  },
+  {
+   "text": "line",
+   "time": 145.54,
+   "weight": 0.69,
+   "note_time": 122.08
+  },
+  {
+   "text": "con",
+   "time": 145.96,
+   "weight": 0.29,
+   "note_time": 122.08
+  },
+  {
+   "text": "tin",
+   "time": 146.31,
+   "weight": 0.29,
+   "note_time": 122.08
+  },
+  {
+   "text": "ues",
+   "time": 146.66,
+   "weight": 0.29,
+   "note_time": 122.08
+  },
+  {
+   "text": "on",
+   "time": 149.0,
+   "weight": 1.0,
+   "note_time": 30.42
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 18 lyric lines sit clearly on their notes; 9 are uncertain and printed in grey italics."
+}

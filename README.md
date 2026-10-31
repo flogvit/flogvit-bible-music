@@ -40,7 +40,7 @@ uv pip install --python .venv-images/bin/python mflux==0.24.0
 ```
 
 The first picture downloads Z-Image Turbo (31 GB) into the Hugging Face cache, and Ollama pulls `qwen3-vl:8b`
-(6 GB). Without `.venv-images`, `generate.ts run` says so and makes songs without pictures.
+(6 GB). The pictures run as a launchd agent of their own (see Pictures for the big screen).
 
 ### What the patch changes
 
@@ -139,10 +139,9 @@ the singing delivers its lyrics (see Lyrics check), makes its sheets and `librar
 `$MUSIC_SHEETS_BRANCH`), pulling first what other machines pushed, marks the song done and takes the next one. New catalog songs come first: when fewer than 4 songs are
 free it writes the next portion of the catalog (see The catalog grows by itself), so it does not run out, and only when no song is free does it remake this machine's songs whose catalog
 request changed (see remake below). It starts no song while the owner's own GPU job runs (`MUSIC_YIELD_TO`, a `pgrep -f` pattern, default a Python process running `mlx_video` or `mflux-`: the owner's video and picture jobs, not a shell whose command only names them)
-or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time. Songs come first: the pictures for the big screen
-(see Pictures for the big screen) are made when no song is left to take, so they never hold a song back
-(`MUSIC_PICTURES_PER_SONG=<n>` makes them for n library songs after each song instead). A song whose pictures
-fail is logged, skipped and tried again in the next run. It can run
+or another YuE generation runs on the Mac (a remake started by hand), and waits a minute at a time; on a Mac with
+less than 96 GB, also not while a song's pictures are made (the pictures are a process of their own: see
+Pictures for the big screen). It can run
 from a worktree; `YuE/`,
 `.venv-sheets` and `library/` are found in the main checkout. Before it takes new songs, it finishes the songs
 already made on this machine (sheets and library if they are missing) and marks them done. Its log goes to the
@@ -279,14 +278,25 @@ makes them in three steps:
    the one before it stays up longer.
 
 `scenes.json` is written last, so `publish-auto.sh` sees a new file and publishes the song again with its
-pictures. Pictures are not made while YuE generates on the same Mac (both need the GPU and much memory): the
-script waits for it. A song whose pictures fail is tried again when the run starts again. On an M5 Max one picture takes about a minute (measured), a song with five parts 5–8
-minutes with the checks.
+pictures. A song made again with other lyrics gets new pictures (`scenes/plan.json` keeps the lines it was
+planned for). On an M5 Max one picture takes about a minute and a song 5–8 minutes; on an M1 Max a picture takes
+about four minutes and a song about 25 (both measured).
+
+The pictures are not tied to making songs: a launchd agent of their own runs `scenes.ts --watch`, which makes
+them for every song in `library/` without them, the newest first, and then for each new song as it comes. It
+moves its checkout to the newest origin/main between songs and starts again when the picture code changed. A
+song whose pictures fail is logged and tried again when it starts again. On a Mac with 96 GB or more, pictures
+run beside YuE. On a smaller one (YuE 12 GB, the picture model 26 GB and the judge 17 GB at once come too close
+to 64 GB) they take turns: a song's pictures wait while YuE generates, and `generate.ts run` starts no song while a
+song's pictures are being made.
 
 ```bash
-bun scripts/scenes.ts library/<id>                 # one song, if it has no scenes.json
-bun scripts/scenes.ts --all                        # every song in library/ without pictures
-rm -r library/<id>/scenes library/<id>/scenes.json # to make a song's pictures again from scratch
+git worktree add --detach ../music-pictures origin/main
+cd ../music-pictures && scripts/install-pictures.sh   # once per machine, beside the generator and the publisher
+tail -f ~/Library/Logs/music-pictures.log
+
+bun scripts/scenes.ts library/<id>                    # one song by hand
+rm -r library/<id>/scenes library/<id>/scenes.json    # to make a song's pictures again from scratch
 ```
 
 `MUSIC_SCENES_MODEL` and `MUSIC_LOOK_MODEL` choose other Ollama models.

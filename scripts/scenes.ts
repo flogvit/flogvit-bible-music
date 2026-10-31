@@ -6,11 +6,14 @@
  * something modern or a broken body. The result is library/<id>/scenes.json with scenes/*.webp (README,
  * scenes.json), which publish.ts puts on the host next to the song.
  *
- * Usage: bun scripts/scenes.ts <library/<id>> [...]   the songs given, if they have no scenes.json yet
- *        bun scripts/scenes.ts --all                  every song in library/ without one
+ * Usage: bun scripts/scenes.ts --watch                every song in library/ without pictures, newest first, and
+ *                                                    then each new one as it comes (scripts/install-pictures.sh)
+ *        bun scripts/scenes.ts <library/<id>> [...]   the songs given
  * Environment: MUSIC_SCENES_MODEL (default qwen3.8:27b), MUSIC_LOOK_MODEL (default qwen3-vl:8b), OLLAMA_HOST.
  *
- * Pictures are not made while YuE generates on this Mac (both want the GPU and much memory): it waits.
+ * A song made again with other lyrics gets new pictures. On a Mac with less than 96 GB, pictures and YuE take
+ * turns: a song's pictures wait while YuE generates, and generate.ts starts no song while a song's pictures are
+ * being made (HOLD_GPU). On a larger Mac they run side by side.
  */
 import { existsSync, mkdirSync, openSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'fs';
 import path from 'path';
@@ -89,7 +92,8 @@ const LOOK_SCHEMA = {
 };
 type Look = { writing: boolean; modern: boolean; broken: boolean; posing: boolean; note: string };
 
-type Plan = { model: string; scenes: { line: number; description: string }[] };
+/** `lines` are the sung lines the plan was made for; a song made again with other lyrics gets a new plan. */
+type Plan = { model: string; lines?: string[]; scenes: { line: number; description: string }[] };
 
 function log(text: string) {
   console.log(`${new Date().toTimeString().slice(0, 8)} ${text}`);
@@ -172,18 +176,26 @@ export async function planOf(folder: string, sung: string[]): Promise<Plan> {
   }
   if (!scenes.length) throw new Error(`${SCENES_MODEL} gave no pictures`);
   scenes[0]!.line = 0;
-  const plan = { model: SCENES_MODEL, scenes };
+  const plan = { model: SCENES_MODEL, lines: sung, scenes };
   mkdirSync(path.dirname(file), { recursive: true });
   writeFileSync(file, JSON.stringify(plan, null, 1) + '\n');
   return plan;
 }
 
+/**
+ * YuE (12 GB), the picture model (26 GB) and the judge (17 GB) at once come too close to 64 GB, so a smaller Mac
+ * takes turns; one with 96 GB or more runs pictures beside YuE.
+ */
+const TAKE_TURNS = Number(Bun.spawnSync(['sysctl', '-n', 'hw.memsize']).stdout.toString()) < 96 * 2 ** 30;
+/** While a song's pictures are made (its own scenes.ts process, from --watch), generate.ts starts no song. */
+export const HOLD_GPU = TAKE_TURNS ? 'bun scripts/scenes\\.ts /.*/library/' : undefined;
+
 const yueRunning = () => Bun.spawnSync(['pgrep', '-f', 'yue2 batch']).exitCode === 0;
 
 async function waitForGpu() {
-  if (!yueRunning()) return;
+  if (!TAKE_TURNS || !yueRunning()) return;
   log('PICTURES WAIT: YuE is generating on this Mac');
-  while (yueRunning()) await Bun.sleep(60_000);
+  while (yueRunning()) await Bun.sleep(5_000);
 }
 
 /**
@@ -226,12 +238,28 @@ im.resize((960, 540)).save(sys.argv[3], quality=85)
   return false;
 }
 
-/** Makes scenes.json and its pictures for a library song that has none. Returns the number of pictures. */
+const sungLines = (folder: string): string[] =>
+  JSON.parse(readFileSync(path.join(folder, 'alignment.json'), 'utf8')).lines.map((l: { text: string }) => l.text);
+
+/** Pictures made for other lyrics than the song has now (it was made again). */
+function outdated(folder: string): boolean {
+  const file = path.join(folder, 'scenes', 'plan.json');
+  if (!existsSync(file)) return false;
+  const { lines } = JSON.parse(readFileSync(file, 'utf8')) as Plan;
+  return !!lines && JSON.stringify(lines) !== JSON.stringify(sungLines(folder));
+}
+
+/** Makes scenes.json and its pictures for a library song that has none, or has them for other lyrics. */
 export async function makeScenes(folder: string): Promise<number> {
   const id = path.basename(folder);
-  if (existsSync(path.join(folder, 'scenes.json'))) return 0;
   if (!existsSync(path.join(folder, 'alignment.json'))) throw new Error(`${id} has no alignment.json`);
-  const sung: string[] = JSON.parse(readFileSync(path.join(folder, 'alignment.json'), 'utf8')).lines.map((l: { text: string }) => l.text);
+  if (outdated(folder)) {
+    log(`PICTURES AGAIN ${id}: the song was made again with other lyrics`);
+    rmSync(path.join(folder, 'scenes.json'), { force: true });
+    rmSync(path.join(folder, 'scenes'), { recursive: true, force: true });
+  }
+  if (existsSync(path.join(folder, 'scenes.json'))) return 0;
+  const sung = sungLines(folder);
   const plan = await planOf(folder, sung);
   mkdirSync(path.join(folder, 'scenes'), { recursive: true });
   const logFile = path.join(folder, 'scenes', 'mflux.log');
@@ -255,26 +283,54 @@ export async function makeScenes(folder: string): Promise<number> {
   return scenes.length;
 }
 
-/** The library songs (finished: with alignment.json) that have no pictures yet. */
-export function withoutScenes(library = path.join(MAIN, 'library')): string[] {
+/** The library songs (finished: with alignment.json) that need pictures, the newest first. */
+export function songsWithoutPictures(library = path.join(MAIN, 'library')): string[] {
   if (!existsSync(library)) return [];
+  const made = (f: string) => {
+    try {
+      return Date.parse(JSON.parse(readFileSync(path.join(f, 'info.json'), 'utf8')).generated?.date) || 0;
+    } catch {
+      return 0;
+    }
+  };
   return readdirSync(library, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => path.join(library, d.name))
-    .filter((f) => existsSync(path.join(f, 'alignment.json')) && !existsSync(path.join(f, 'scenes.json'))).sort();
+    .filter((f) => existsSync(path.join(f, 'alignment.json')) && (!existsSync(path.join(f, 'scenes.json')) || outdated(f)))
+    .sort((a, b) => made(b) - made(a));
+}
+
+/** This checkout moved to the newest origin/main; true when the picture code changed, so the process restarts. */
+function update(): boolean {
+  const code = () => Bun.spawnSync(['git', 'rev-parse', 'HEAD:scripts/scenes.ts', 'HEAD:lib/music.ts'], { cwd: REPO }).stdout.toString();
+  const before = code();
+  const fetched = Bun.spawnSync(['git', 'fetch', '-q', 'origin', 'main'], { cwd: REPO }).exitCode === 0;
+  const clean = !Bun.spawnSync(['git', 'status', '--porcelain', '--untracked-files=no'], { cwd: REPO }).stdout.toString().trim();
+  if (fetched && clean) Bun.spawnSync(['git', 'checkout', '-q', '--detach', 'origin/main'], { cwd: REPO });
+  return code() !== before;
 }
 
 /**
- * Pictures for every song that lacks them, one song at a time, starting no song after `until` (ms since 1970)
- * and trying at most `max` songs; a song that fails is logged and skipped.
+ * Pictures for every library song that needs them, newest first, and then for each new one as it comes. Each
+ * song is made by a scenes.ts process of its own, which generate.ts waits for on a Mac that takes turns. A song
+ * that fails is logged and tried again when this starts again (launchd starts it again after new code too).
  */
-const failedHere = new Set<string>();
-export async function makeAllScenes(folders = withoutScenes(), until = Infinity, max = Infinity) {
-  for (const folder of folders.filter((f) => !failedHere.has(f)).slice(0, max)) {
-    if (Date.now() > until) return;
-    try {
-      await makeScenes(folder);
-    } catch (e) {
-      failedHere.add(folder); // tried again when the run starts again, not between every song
-      log(`PICTURES FAILED ${path.basename(folder)}: ${e}; skipped until the next run`);
+async function watch() {
+  const failed = new Set<string>();
+  log(`PICTURES START${TAKE_TURNS ? ', taking turns with YuE' : ', beside YuE'}`);
+  for (;;) {
+    if (update()) {
+      log('PICTURES RESTART: new picture code on origin/main');
+      process.exit(0);
+    }
+    const next = songsWithoutPictures().find((f) => !failed.has(f));
+    if (!next) {
+      await Bun.sleep(5 * 60_000);
+      continue;
+    }
+    await waitForGpu();
+    const song = Bun.spawn([process.execPath, 'scripts/scenes.ts', next], { cwd: REPO, stdout: 'inherit', stderr: 'inherit' });
+    if (await song.exited !== 0) {
+      failed.add(next);
+      log(`PICTURES FAILED ${path.basename(next)}; tried again when this starts again`);
     }
   }
 }
@@ -282,7 +338,7 @@ export async function makeAllScenes(folders = withoutScenes(), until = Infinity,
 if (import.meta.main) {
   const args = process.argv.slice(2);
   if (!args.length) {
-    console.error('Usage: bun scripts/scenes.ts <library/<id>> [...] | --all');
+    console.error('Usage: bun scripts/scenes.ts --watch | <library/<id>> [...]');
     process.exit(1);
   }
   const notReady = await scenesReady();
@@ -290,5 +346,15 @@ if (import.meta.main) {
     console.error(`cannot make pictures: ${notReady}`);
     process.exit(1);
   }
-  await makeAllScenes(args.includes('--all') ? withoutScenes() : args.map((a) => path.resolve(a)));
+  if (args[0] === '--watch') await watch();
+  let failed = 0;
+  for (const folder of args.map((a) => path.resolve(a))) {
+    try {
+      await makeScenes(folder);
+    } catch (e) {
+      failed++;
+      log(`PICTURES FAILED ${path.basename(folder)}: ${e}`);
+    }
+  }
+  process.exit(failed ? 1 : 0);
 }

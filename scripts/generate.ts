@@ -14,8 +14,7 @@
  *                                              make its sheets and library folder, mark it done, and repeat;
  *                                              with few songs free, write the next portion of the catalog
  *                                              (scripts/catalog-write.ts); with none free, remake this machine's
- *                                              songs whose catalog request (style, lyrics, cot, abc) changed, and
- *                                              make pictures (scripts/scenes.ts) for library songs without them
+ *                                              songs whose catalog request (style, lyrics, cot, abc) changed
  *   bun scripts/generate.ts status            every song in catalog/order.txt with its state
  *   bun scripts/generate.ts claim <id>         take one song by hand (prints `claimed` or who has it)
  *   bun scripts/generate.ts retry <id>         put a song that was set aside back in the queue
@@ -34,7 +33,7 @@ import { hostname } from 'os';
 import path from 'path';
 import { writeNext } from './catalog-write';
 import { judge, JUDGE_MODEL, judgeReady, outcome, type Verdict } from './lyrics-check';
-import { makeAllScenes, scenesReady } from './scenes';
+import { HOLD_GPU } from './scenes';
 
 const REPO = path.join(import.meta.dir, '..');
 // YuE/, .venv-sheets and library/ live in the main checkout, also when this runs from a worktree.
@@ -400,7 +399,8 @@ const YIELD_TO = process.env.MUSIC_YIELD_TO ?? '^[^ ]*python[^ ]*( -m)? [^ ]*(mf
 
 async function yieldGpu() {
   let waited = false;
-  for (const pattern of [YIELD_TO, '^[^ ]*python[^ ]* [^ ]*yue2 batch']) {
+  // On a Mac that takes turns, also not while a song's pictures are made (scripts/scenes.ts --watch).
+  for (const pattern of [YIELD_TO, '^[^ ]*python[^ ]* [^ ]*yue2 batch', ...(HOLD_GPU ? [HOLD_GPU] : [])]) {
     while (Bun.spawnSync(['pgrep', '-f', pattern]).exitCode === 0) {
       if (!waited) log(`WAITING: another GPU job runs (${pattern})`);
       waited = true;
@@ -421,29 +421,6 @@ async function finishLocal() {
     } catch (e) {
       log(`FINISH FAILED ${id}: ${e}`);
     }
-  }
-}
-
-/**
- * Pictures for the big screen (scripts/scenes.ts) for the songs in library/ that have none. Songs come first:
- * pictures are made when the run has no song left to take (MUSIC_PICTURES_PER_SONG, default 0, makes them for
- * that many library songs after each song instead), so pictures never hold the next song back. They are extra: a Mac that cannot make them says why once, and a
- * picture that fails is logged, skipped and tried again in the next run.
- */
-const PICTURES_PER_SONG = Number(process.env.MUSIC_PICTURES_PER_SONG ?? 0);
-let noPictures = false;
-async function pictures(songs = Infinity) {
-  if (songs <= 0) return;
-  try {
-    const notReady = await scenesReady();
-    if (notReady) {
-      if (!noPictures) log(`NO PICTURES: ${notReady}`);
-      noPictures = true;
-      return;
-    }
-    await makeAllScenes(undefined, Infinity, songs);
-  } catch (e) {
-    log(`PICTURES FAILED: ${e}; the run goes on with the next song`);
   }
 }
 
@@ -616,16 +593,8 @@ if (command === 'run') {
   const rejectedHere = new Map<string, number>();
   // A song's sheets are made while the next song generates (Whisper on the CPU, YuE on the GPU), one at a time.
   let sheets = Promise.resolve();
-  // Pictures come after a song YuE made in this run, never before the first one.
-  let picturesDue = false;
   for (;;) {
     await stopForNewCode(sheets);
-    if (picturesDue) {
-      picturesDue = false;
-      await yieldGpu();
-      await pictures(PICTURES_PER_SONG);
-      await stopForNewCode(sheets);
-    }
     await yieldGpu();
     // New catalog songs first; this machine's songs whose catalog request changed only when none is free.
     await refillCatalog(sheets);
@@ -636,12 +605,10 @@ if (command === 'run') {
       await sheets;
       await remake(changed);
       failed.add(changed);
-      picturesDue = true;
       continue;
     }
     log(`CLAIMED ${next.id}`);
     const lock = await generate(next.id, next.tip);
-    picturesDue = true;
     if (!lock) {
       failed.add(next.id);
       continue;
@@ -661,7 +628,6 @@ if (command === 'run') {
     });
   }
   await sheets;
-  await pictures();
   log('RUN END: no free songs left');
   // launchd starts run again a minute after it stops (so new code starts at once); with nothing to do, wait
   // here so an idle Mac looks for songs every ten minutes.

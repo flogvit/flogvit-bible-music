@@ -1,0 +1,46 @@
+{
+  "id": "verse-49-6-13-choral",
+  "title": "Stand Firm",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 6,
+    "verseStart": 13,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 6,
+      "verseStart": 13,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, choral, male solo with deep choir, organ, cello, timpani, violin, solemn and powerful, 90 BPM",
+    "lyrics": "[Verse]\nBe strong in the Lord and in his might\nPut on the full armor of God\nStand against the schemes of the devil\nNot against flesh and blood we go\n\n[Chorus]\nStand firm with the belt of truth\nBuckled around your waist so firm\nRighteousness as breastplate placed\nFeet strapped with gospel peace\n\n[Verse]\nShield of faith in all your hands\nExtinguish flaming arrows of evil\nHelmet of salvation on your head\nSword of Spirit is God's word\n\n[Chorus]\nStand firm with the belt of truth\nBuckled around your waist so firm\nRighteousness as breastplate placed\nFeet strapped with gospel peace\n\n[Bridge]\nPray in the Spirit at all times\nWith every kind of prayer and petition\nStay alert and persevere\nFor all the saints in the Lord\n\n[Chorus]\nStand firm with the belt of truth\nBuckled around your waist so firm\nRighteousness as breastplate placed\nFeet strapped with gospel peace\n\n[Outro]\nHold your ground on the evil day\nHaving done everything to stand",
+    "cot": "full",
+    "seed": 20222
+  }
+}

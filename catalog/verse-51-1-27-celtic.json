@@ -1,0 +1,49 @@
+{
+  "id": "verse-51-1-27-celtic",
+  "title": "The Hope of Glory",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 51,
+    "chapter": 1,
+    "verseStart": 27,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 51,
+      "chapter": 1,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "holiness"
+    ],
+    "themes": [
+      "nade",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm celtic choir, acoustic guitar, fiddle, bodhran, flute, harp, uplifting and majestic, 90 BPM",
+    "lyrics": "[Verse]\nI rejoice in the pain for your sake\nFlesh fills the gap in the cross\nFor the body of Christ, the church\nI serve by the gift he has sent\n\n[Verse]\nTo make the word of God known\nThe mystery hidden in ages\nNow revealed to his saints\nChosen to see the riches\n\n[Chorus]\nChrist in you, the hope of glory\nGlorious riches among Gentiles\nChrist in you, the hope of glory\nThe mystery now made plain\n\n[Verse]\nWe proclaim him with all wisdom\nAdmonish and teach everyone\nPresenting you mature in Christ\nLaboring by his strong power\n\n[Chorus]\nChrist in you, the hope of glory\nGlorious riches among Gentiles\nChrist in you, the hope of glory\nThe mystery now made plain\n\n[Bridge]\nNot my power but his working\nMoving within my flesh\nCompleting the afflictions\nFor the sake of the church\n\n[Chorus]\nChrist in you, the hope of glory\nGlorious riches among Gentiles\nChrist in you, the hope of glory\nThe mystery now made plain\n\n[Outro]\nChrist in you, the hope of glory",
+    "cot": "full",
+    "seed": 20224
+  }
+}

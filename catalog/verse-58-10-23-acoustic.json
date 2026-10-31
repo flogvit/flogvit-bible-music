@@ -1,0 +1,48 @@
+{
+  "id": "verse-58-10-23-acoustic",
+  "title": "Hold Unwaveringly",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 10,
+    "verseStart": 23,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 10,
+      "verseStart": 23,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "tro",
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, cello, piano, soft drums, hopeful and steady, 85 BPM",
+    "lyrics": "[Verse]\nA new and living way he opened up\nThrough the curtain of his flesh we step\nA great priest stands over God's house now\nWe draw near with true hearts and faith\n\n[Chorus]\nHold unwaveringly to the confession\nHold unwaveringly to our hope\nHe who promised is faithful to us\nHold unwaveringly to the confession\n\n[Verse]\nOur hearts are sprinkled clean from evil\nBodies washed with pure and holy water\nWe spur one another on to love\nAnd to good works in this life\n\n[Chorus]\nHold unwaveringly to the confession\nHold unwaveringly to our hope\nHe who promised is faithful to us\nHold unwaveringly to the confession\n\n[Bridge]\nDo not neglect to meet together\nEncourage one another in truth\nSee the Day is drawing near now\nKeep our eyes fixed on the light\n\n[Outro]\nHe who promised is faithful\nHold unwaveringly to the confession",
+    "cot": "full",
+    "seed": 20226
+  }
+}

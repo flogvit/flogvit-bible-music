@@ -1,0 +1,49 @@
+{
+  "id": "verse-49-6-1-jazz",
+  "title": "Honor Your Father And Mother",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 6,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, warm female solo voice, double bass, upright piano, brushed snare, muted trumpet, soft brushed rhythm, gentle and reflective mood, 75 BPM",
+    "lyrics": "[Verse]\nChildren obey in the Lord today\nFor this way is right and true\nHeaven's law is clear to show\nWhat the heart must always do\n\n[Pre-Chorus]\nListen now to the command\nFirst of all with a promise\nThat you might live long on earth\nAnd find your life in blessing\n\n[Chorus]\nHonor your father and mother\nThis is the first commandment\nWith a promise for your days\nSo that it may go well\n\n[Verse]\nWalk in the path that is set\nObey the voice of the Lord\nThis is right before your eyes\nKeep the covenant word\n\n[Chorus]\nHonor your father and mother\nThis is the first commandment\nWith a promise for your days\nSo that it may go well\n\n[Bridge]\nLive long on the earth\nGo well in your days\nHonor the command\nKeep the sacred ways\n\n[Chorus]\nHonor your father and mother\nThis is the first commandment\nWith a promise for your days\nSo that it may go well\n\n[Outro]\nHonor your father and mother\nLive long in the land",
+    "cot": "full",
+    "seed": 20220
+  }
+}

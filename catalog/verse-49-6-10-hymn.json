@@ -1,0 +1,44 @@
+{
+  "id": "verse-49-6-10-hymn",
+  "title": "Stand Firm In The Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 6,
+    "verseStart": 10,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 6,
+      "verseStart": 10,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, dignified and steady, piano, strings, acoustic guitar, cymbals, timpani, reverent and powerful mood, 72 BPM",
+    "lyrics": "[Verse]\nBe strong in the Lord and his might\nPut on the full armor of God\nSo you can stand against the devil\nAnd his scheming and wiles\n\n[Chorus]\nOur struggle is not against flesh and blood\nBut against rulers and authorities\nCosmic powers of this darkness\nForces of evil in heavenly realms\n\n[Verse]\nTherefore take up the full armor of God\nSo you may hold your ground\nOn the evil day and stand firm\nHaving done everything\n\n[Chorus]\nOur struggle is not against flesh and blood\nBut against rulers and authorities\nCosmic powers of this darkness\nForces of evil in heavenly realms\n\n[Bridge]\nStand firm with the belt of truth\nBuckled around your waist\nRighteousness as your breastplate\nProtecting your heart\n\n[Chorus]\nOur struggle is not against flesh and blood\nBut against rulers and authorities\nCosmic powers of this darkness\nForces of evil in heavenly realms\n\n[Outro]\nSo stand firm\nIn the light",
+    "cot": "full",
+    "seed": 20221
+  }
+}

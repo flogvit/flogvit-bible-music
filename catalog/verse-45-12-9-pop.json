@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-12-9-pop",
+  "title": "Hate Evil Hold Fast to Good",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 9,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 9,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "guds-trofasthet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, piano, acoustic guitar, cello, soft drums, uplifting and sincere, 90 BPM",
+    "lyrics": "[Verse]\nLove must be genuine and true\nNot a mask put on for view\nHate what is evil in your heart\nHold fast to what is good apart\n\n[Pre-Chorus]\nDevoted to one another\nBrotherly love is the path\nOutdo one another in honor\nLet the spirit be fervent and strong\n\n[Chorus]\nHate evil hold fast to good\nLet love be genuine and true\nOutdo one another in showing honor\nServe the Lord with zeal and fire\n\n[Verse]\nRejoice in hope endure in affliction\nPersevere in prayer with patience\nShare with the saints in their needs\nPursue hospitality with ease\n\n[Chorus]\nHate evil hold fast to good\nLet love be genuine and true\nOutdo one another in showing honor\nServe the Lord with zeal and fire\n\n[Bridge]\nFervent in spirit serve the Lord\nLet your zeal never grow slack\nJoy in hope through every trial\nFaithful love is the mark\n\n[Chorus]\nHate evil hold fast to good\nLet love be genuine and true\nOutdo one another in showing honor\nServe the Lord with zeal and fire\n\n[Outro]\nLet love be genuine and true\nHate evil hold fast to good",
+    "cot": "full",
+    "seed": 20219
+  }
+}

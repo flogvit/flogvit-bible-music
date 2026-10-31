@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-12-6-blues",
+  "title": "Different Gifts",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 6,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 6,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "menigheten",
+      "kjerlighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, raw and soulful, acoustic guitar, upright bass, brushed drums, Hammond organ, warm blues mood, 80 BPM",
+    "lyrics": "[Verse]\nWe are one body in Christ\nEach part has a function to play\nDo not think of yourself too high\nJudge with sober judgment today\n\n[Chorus]\nIf it is prophecy prophesy\nIn proportion to your faith\nIf it is service then serve\nIf it is teaching teach\n\n[Verse]\nIf it is encouragement encourage\nIf it is giving give generously\nIf it is leading lead diligently\nShowing mercy do it cheerfully\n\n[Chorus]\nIf it is prophecy prophesy\nIn proportion to your faith\nIf it is service then serve\nIf it is teaching teach\n\n[Bridge]\nLet love be genuine always\nHate what is evil hold fast to good\nDevoted in brotherly love\nOutdo one another in honor\n\n[Outro]\nNever let your zeal grow slack\nBe fervent in spirit serve the Lord",
+    "cot": "full",
+    "seed": 20218
+  }
+}

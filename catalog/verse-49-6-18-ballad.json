@@ -1,0 +1,47 @@
+{
+  "id": "verse-49-6-18-ballad",
+  "title": "Pray in the Spirit",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 6,
+    "verseStart": 18,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 6,
+      "verseStart": 18,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm timbre, acoustic guitar, piano, cello, soft strings, hopeful and steady mood, 80 BPM",
+    "lyrics": "[Verse]\nWith feet strapped by the gospel peace\nTake up the shield of faith\nExtinguish every flaming arrow\nOf the evil one in his wrath\n\n[Pre-Chorus]\nHelmet of salvation on my head\nSword of the Spirit in my hand\nThe word of God is the blade\nThat cuts through the darkness in the land\n\n[Chorus]\nPray in the Spirit at all times\nWith every kind of prayer and petition\nStay alert and persevere\nFor all the saints in this world\n\n[Verse]\nPray for me that words may come\nWhen I open my mouth to speak\nBoldly make known the mystery\nOf the gospel that I seek\n\n[Chorus]\nPray in the Spirit at all times\nWith every kind of prayer and petition\nStay alert and persevere\nFor all the saints in this world\n\n[Bridge]\nAn ambassador in chains I stand\nDeclare it fearlessly as I ought\nSo that you may know my path\nAnd what I am doing in thought\n\n[Outro]\nTychicus will tell you all\nOur dear and faithful servant\nPray in the Spirit at all times\nWith every kind of prayer and petition",
+    "cot": "full",
+    "seed": 20223
+  }
+}

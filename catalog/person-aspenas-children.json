@@ -1,0 +1,79 @@
+{
+  "id": "person-aspenas-children",
+  "title": "Chief of the Court",
+  "kind": "person",
+  "anchor": {
+    "person": "aspenas"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 6,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 8,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "aspenas",
+      "nebukadnesar",
+      "daniel",
+      "hananja-sonn-av-serubabel-etterkomner-av-david",
+      "misjael"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice, acoustic guitar, piano, soft flute, light percussion, warm and narrative mood, 90 BPM",
+    "lyrics": "[Verse]\nThe king ordered Ashpenaz the chief of his court officials\nTo bring in some of the Israelites from the royal family\nYoung men without any physical defect and handsome\nSkilled in all wisdom and endowed with knowledge\n\n[Pre-Chorus]\nFit to serve in the king's palace\nTo learn the writing and the language of the Chaldeans\n\n[Chorus]\nAshpenaz gave them new Babylonian names\nBelteshazzar Shadrach Meshach and Abednego\nBut Daniel resolved in his heart\nNot to defile himself with the king's food\n\n[Verse]\nGod granted him favor and compassion\nIn the sight of the chief official\nYet Ashpenaz feared the lord the king\nWho assigned their food and drink\n\n[Pre-Chorus]\nAfraid the king would see them looking worse\nThan the other young men their age\n\n[Chorus]\nAshpenaz gave them new Babylonian names\nBelteshazzar Shadrach Meshach and Abednego\nBut Daniel resolved in his heart\nNot to defile himself with the king's food\n\n[Bridge]\nYou would cost me my head before the king\nSo Daniel spoke to the steward in charge\n\n[Outro]\nThree years of training in Babylon\nKeeping faith in the king's court",
+    "cot": "full",
+    "seed": 20271
+  }
+}

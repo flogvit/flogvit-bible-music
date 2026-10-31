@@ -1,0 +1,49 @@
+{
+  "id": "verse-59-1-2-choral",
+  "title": "Nothing but Joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 59,
+    "chapter": 1,
+    "verseStart": 2,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 59,
+      "chapter": 1,
+      "verseStart": 2,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, cello, piano, harp, flute, uplifting and reflective, 75 BPM",
+    "lyrics": "[Verse]\nConsider it nothing but joy, my brothers\nWhenever we fall into trials of every kind\nYou know the testing of your faith\nProduces endurance in our daily life\n\n[Chorus]\nNothing but joy, nothing but joy\nEven when the trials come to find us\nNothing but joy, nothing but joy\nEndurance grows and our spirits bind us\n\n[Verse]\nLet endurance finish its holy work\nSo that we may be mature and complete\nLacking nothing in this sacred path\nWhere our faith is tested and made sweet\n\n[Chorus]\nNothing but joy, nothing but joy\nEven when the trials come to find us\nNothing but joy, nothing but joy\nEndurance grows and our spirits bind us\n\n[Bridge]\nIf any of you lacks wisdom, ask God\nHe gives generously to all without fault\nAsk in faith, without doubting or fear\nLike a wave, do not let the wind halt\n\n[Outro]\nMature and complete, lacking nothing\nNothing but joy, nothing but joy",
+    "cot": "full",
+    "seed": 20269
+  }
+}

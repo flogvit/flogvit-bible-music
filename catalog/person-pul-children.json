@@ -1,0 +1,74 @@
+{
+  "id": "person-pul-children",
+  "title": "The King Who Withdrew",
+  "kind": "person",
+  "anchor": {
+    "person": "pul"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 19,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 12,
+      "chapter": 16,
+      "verseStart": 7,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 13,
+      "chapter": 5,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "salvation"
+    ],
+    "themes": [
+      "nade",
+      "frykt",
+      "penger"
+    ],
+    "stories": [],
+    "persons": [
+      "pul",
+      "menakem",
+      "pekah",
+      "hosea",
+      "ahas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright solo female voice, gentle choir backing, acoustic guitar, piano, celesta, soft drums, curious and gentle mood, 90 BPM",
+    "lyrics": "[Verse]\nPul king of Assyria invaded the land\nMenahem gave him a thousand talents of silver\nTo gain his support and secure his hold\nMenahem raised the silver from every wealthy man\nExacting fifty shekels to pay the king\nSo the king of Assyria withdrew and did not remain\n\n[Chorus]\nThe king who withdrew did not stay in the land\nSilver collected from the men of Israel\nA thousand talents paid for safety and peace\nThe army turned away from the kingdom's gate\n\n[Verse]\nTiglath-Pileser came against Ijon and Abel\nCapturing Janoah and Kedesh and Hazor\nGilead and Galilee were taken too\nThe people deported to the lands of Assyria\nAhaz sent messengers with gold and silver\nFrom the house of the LORD and royal treasuries\nTo rescue him from Aram and the king of Israel\n\n[Chorus]\nThe king who withdrew did not stay in the land\nSilver collected from the men of Israel\nA thousand talents paid for safety and peace\nThe army turned away from the kingdom's gate\n\n[Bridge]\nGod stirred up the spirit of Pul and Tilgath\nCarrying away the Reubenites and Gadites\nAnd the half-tribe of Manasseh to exile\nHalah and Habor and Hara and the river\n\n[Outro]\nWhere they remain to this day\nThe silver paid for time",
+    "cot": "full",
+    "seed": 20274
+  }
+}

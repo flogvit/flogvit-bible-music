@@ -1,0 +1,42 @@
+{
+  "id": "verse-59-1-5-orchestral",
+  "title": "Ask God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 59,
+    "chapter": 1,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 59,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, piano, strings, harp, mood of gentle encouragement and faith, 85 BPM",
+    "lyrics": "[Verse]\nConsider it nothing but joy, my brothers\nWhen trials of every kind come your way\nTesting of your faith produces endurance\nLet it finish its work today\n\n[Pre-Chorus]\nSo that you may be mature and complete\nLacking nothing in the heart\nIf you lack wisdom, do not fear\nJust turn to where the light is start\n\n[Chorus]\nAsk God, who gives generously to all\nWithout finding fault, He will not fail\nIt will be given to him, it will be given to him\nAsk in faith, keep your heart from strife\n\n[Verse]\nBut let him ask in faith, without doubting\nFor the one who doubts is like a wave\nDriven and tossed by the wind\nUnstable in all he does and saves\n\n[Chorus]\nAsk God, who gives generously to all\nWithout finding fault, He will not fail\nIt will be given to him, it will be given to him\nAsk in faith, keep your heart from strife\n\n[Bridge]\nSuch a person should not expect to receive anything\nFrom the Lord, for double-minded minds are blind\nDo not be tossed about by the wind\nStand firm in the truth you will find\n\n[Chorus]\nAsk God, who gives generously to all\nWithout finding fault, He will not fail\nIt will be given to him, it will be given to him\nAsk in faith, keep your heart from strife\n\n[Outro]\nIt will be given to him\nAsk God, and be still",
+    "cot": "full",
+    "seed": 20270
+  }
+}

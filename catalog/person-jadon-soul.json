@@ -1,0 +1,66 @@
+{
+  "id": "person-jadon-soul",
+  "title": "Beyond the River",
+  "kind": "person",
+  "anchor": {
+    "person": "jadon"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 16,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 16,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "menigheten",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "jadon",
+      "nehemja",
+      "melatja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, male deep voice with gospel choir, organ, piano, drums, bass, warm, 80 BPM",
+    "lyrics": "[Verse]\nNehemiah called the people to the gate\nEliashib and priests began the work\nSheep Gate doors were set in their place\nThe wall rose up for every single soul\n\n[Verse]\nJoiada and Meshullam repaired the Old Gate\nBeams were laid and bolts were made fast\nNext to them Melatiah of Gibeon stood\nAnd Jadon from Meronot helped them build\n\n[Chorus]\nMen of Gibeon and Mizpah joined the line\nUnder the governor beyond the river\nShoulders to the work, hands on the stone\nWe raised the wall and closed the gap\n\n[Verse]\nSanballat and Tobiah were furious\nThey conspired to fight against Jerusalem\nBut we prayed to our God day and night\nAnd posted a guard against their threat\n\n[Chorus]\nMen of Gibeon and Mizpah joined the line\nUnder the governor beyond the river\nShoulders to the work, hands on the stone\nWe raised the wall and closed the gap\n\n[Chorus]\nMen of Gibeon and Mizpah joined the line\nUnder the governor beyond the river\nShoulders to the work, hands on the stone\nWe raised the wall and closed the gap\n\n[Bridge]\nThe laborers said the strength was failing\nToo much rubble to carry on our backs\nBut the Jews lived near them and warned us\nTurn around and they will come and kill\n\n[Outro]\nFinished in fifty-two days by God\nThe nations saw and their confidence sank",
+    "cot": "full",
+    "seed": 20275
+  }
+}

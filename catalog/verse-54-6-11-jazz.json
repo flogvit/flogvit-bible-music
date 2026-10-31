@@ -1,0 +1,42 @@
+{
+  "id": "verse-54-6-11-jazz",
+  "title": "Fight the Good Fight",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 54,
+    "chapter": 6,
+    "verseStart": 11,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 54,
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz voice, upright bass, piano, brushed drums, muted trumpet, warm and earnest, 90 BPM",
+    "lyrics": "[Verse]\nIf we have food and clothing we are content\nThose who want to get rich fall into a trap\nMany senseless desires plunge people into ruin\nA trap for the soul and a harmful desire\n\n[Pre-Chorus]\nLove of money is a root of all kinds of evil\nReaching for it they have wandered away from faith\nPierced through with many sorrows and deep despair\nThey have lost their way in the world of pain\n\n[Chorus]\nFlee from all this man of God today\nPursue righteousness and godliness and faith\nEndurance and love and gentleness keep close\nHold on to the life that is yours to keep\n\n[Verse]\nFight the good fight of the faith with all your might\nTake hold of the eternal life you were called to\nYou made the good confession before many witnesses\nStand firm in the truth that you have received\n\n[Chorus]\nFlee from all this man of God today\nPursue righteousness and godliness and faith\nEndurance and love and gentleness keep close\nHold on to the life that is yours to keep\n\n[Bridge]\nIn the presence of God who gives life to all\nBefore Christ Jesus who confessed before Pilate\nKeep this command without stain or any reproach\nUntil the appearing of our Lord Jesus\n\n[Chorus]\nFlee from all this man of God today\nPursue righteousness and godliness and faith\nEndurance and love and gentleness keep close\nHold on to the life that is yours to keep\n\n[Outro]\nKing of kings and Lord of lords forever\nBlessed and only Sovereign of all the earth",
+    "cot": "full",
+    "seed": 20267
+  }
+}

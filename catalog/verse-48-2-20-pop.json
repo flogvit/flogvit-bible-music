@@ -1,0 +1,51 @@
+{
+  "id": "verse-48-2-20-pop",
+  "title": "Christ Lives In Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 48,
+    "chapter": 2,
+    "verseStart": 20,
+    "verseEnd": 20
+  },
+  "references": [
+    {
+      "bookId": 48,
+      "chapter": 2,
+      "verseStart": 20,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "nade",
+      "tro",
+      "frelsen",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and intimate, acoustic guitar, piano, cello, soft drums, hopeful and reflective, 80 BPM",
+    "lyrics": "[Verse]\nI tore down the walls I built myself\nThe law said I was dead and still\nI died to the rules that bind my soul\nSo I could live for God with no control\n\n[Pre-Chorus]\nI have been crucified with Christ\nMy old self is gone in the mist\n\n[Chorus]\nIt is no longer I who live\nBut Christ who lives in me\nThe life I live in the flesh\nIs faith in the Son of grace\nHe loved me and gave himself\nFor me and for my rest\n\n[Verse]\nI do not set aside His grace\nIf law made me right, it was in vain\nChrist did not die for nothing at all\nMy hope is found in His embrace\n\n[Pre-Chorus]\nI have been crucified with Christ\nMy old self is gone in the mist\n\n[Chorus]\nIt is no longer I who live\nBut Christ who lives in me\nThe life I live in the flesh\nIs faith in the Son of grace\nHe loved me and gave himself\nFor me and for my rest\n\n[Bridge]\nWho loved me and gave himself\nFor me and for my rest\nFaith in the Son of God\nIs where my life is best\n\n[Chorus]\nIt is no longer I who live\nBut Christ who lives in me\nThe life I live in the flesh\nIs faith in the Son of grace\nHe loved me and gave himself\nFor me and for my rest\n\n[Outro]\nChrist who lives in me\nFaith in His grace",
+    "cot": "full",
+    "seed": 20266
+  }
+}

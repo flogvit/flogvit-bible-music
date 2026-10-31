@@ -1,0 +1,71 @@
+{
+  "id": "person-enan-rock",
+  "title": "Last of the Princes",
+  "kind": "person",
+  "anchor": {
+    "person": "enan"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 4,
+      "chapter": 1,
+      "verseStart": 42,
+      "verseEnd": 43
+    },
+    {
+      "bookId": 4,
+      "chapter": 2,
+      "verseStart": 29,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 4,
+      "chapter": 7,
+      "verseStart": 78,
+      "verseEnd": 83
+    },
+    {
+      "bookId": 4,
+      "chapter": 10,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "obedience"
+    ],
+    "themes": [
+      "pakten",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "enan",
+      "ahira",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male gritty rock voice, electric guitar, bass, drums, organ, heavy mood, 95 BPM",
+    "lyrics": "[Verse]\nFrom the camp on the north side\nAhira son of Enan stands\nThe banner of Dan is near\nWhere the tribe of Naphtali lands\nFifty-three thousand men\nListed by name and clan\nFit for battle they stand\nUnder the starry canopy\n\n[Chorus]\nOn the twelfth day he comes\nWith the offering of the last prince\nSilver plates and gold dish\nIn the tabernacle of God\nThis was the offering\nOf Ahira son of Enan\n\n[Verse]\nWhen the wilderness broke camp\nThe rear guard moves along\nAhira leads the division\nWhere the north wind blows strong\nTwo oxen and five rams\nFive male lambs a year old\nSin offering and burnt offering\nLaid upon the holy ground\n\n[Chorus]\nOn the twelfth day he comes\nWith the offering of the last prince\nSilver plates and gold dish\nIn the tabernacle of God\nThis was the offering\nOf Ahira son of Enan\n\n[Outro]\nSon of Enan he was\nChief of Naphtali's band\nFaithful in his charge\nUntil the journey ends",
+    "cot": "full",
+    "seed": 20273
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "verse-58-1-3-hymn",
+  "title": "Radiance of Glory",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 1,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, organ, cello, harp, strings, majestic, 80 BPM",
+    "lyrics": "[Verse]\nLong ago God spoke to fathers\nIn many ways through the prophets\nBut in these last days\nHe has spoken to us by his Son\n\n[Pre-Chorus]\nWhom he appointed heir of all things\nAnd through whom he made the ages\nNow the truth is clear\n\n[Chorus]\nThe Son is the radiance of God's glory\nThe exact imprint of his being\nSustaining all things by his powerful word\nPurification for sins complete\n\n[Verse]\nHe sat down at the right hand\nOf the Majesty on high\nAs much superior to angels\nAs the name he inherited surpasses theirs\n\n[Chorus]\nThe Son is the radiance of God's glory\nThe exact imprint of his being\nSustaining all things by his powerful word\nPurification for sins complete\n\n[Bridge]\nTo which of the angels did God ever say\nYou are my Son today I have begotten you\nI will be his Father and he will be my Son\nLet all God's angels worship him\n\n[Chorus]\nThe Son is the radiance of God's glory\nThe exact imprint of his being\nSustaining all things by his powerful word\nPurification for sins complete\n\n[Outro]\nThe radiance of God's glory\nThe exact imprint of his being",
+    "cot": "full",
+    "seed": 20268
+  }
+}

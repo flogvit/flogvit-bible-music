@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-20-7-worship",
+  "title": "We Rise Up",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 20,
+    "verseStart": 7,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 20,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice with soft choir, acoustic guitar, piano, cello, light percussion, hopeful and triumphant mood, 90 BPM",
+    "lyrics": "[Verse]\nMay He remember all your offerings\nReceive your burnt offering with favor\nGive you what your heart desires\nBring all your plans to pass\n\n[Verse]\nWe shout for joy at your victory\nRaise our banners in the name of our God\nThe LORD fulfills every request\nYour plans in His hands are held\n\n[Chorus]\nNow I know the LORD saves his anointed\nHe answers from his holy heaven\nWith the saving power of his right hand\nWe call on the name of the LORD our God\n\n[Verse]\nSome trust in chariots and some in horses\nBut we call on the name of the LORD\nThey are brought to their knees and fall\nBut we rise up and stand firm\n\n[Chorus]\nNow I know the LORD saves his anointed\nHe answers from his holy heaven\nWith the saving power of his right hand\nWe call on the name of the LORD our God\n\n[Outro]\nThey fall, but we rise up\nStanding firm in the name of the LORD",
+    "cot": "full",
+    "seed": 20239
+  }
+}

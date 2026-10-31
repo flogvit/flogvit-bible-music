@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-147-3-acoustic",
+  "title": "Heals the Brokenhearted",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 147,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 147,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, cello, soft percussion, hopeful and tender, 75 BPM",
+    "lyrics": "[Verse]\nPraise the LORD with a joyful song\nIt is good to sing to our God\nHow pleasant it is\nHow fitting to praise him\nThe LORD rebuilds Jerusalem\nHe gathers the outcasts of Israel\n\n[Chorus]\nHe heals the brokenhearted\nAnd binds up their wounds\nHe heals the brokenhearted\nAnd binds up their wounds\n\n[Verse]\nHe counts the number of the stars\nAnd calls each one by name\nGreat is our Lord\nMighty in power\nHis understanding has no limit\n\n[Chorus]\nHe heals the brokenhearted\nAnd binds up their wounds\nHe heals the brokenhearted\nAnd binds up their wounds\n\n[Bridge]\nThe LORD lifts up the humble\nHe casts the wicked to the ground\nHis power is endless\nHis love is deep\n\n[Outro]\nHe heals the brokenhearted\nAnd binds up their wounds",
+    "cot": "full",
+    "seed": 20238
+  }
+}

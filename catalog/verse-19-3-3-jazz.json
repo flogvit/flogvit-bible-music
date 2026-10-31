@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-3-3-jazz",
+  "title": "Shield Around Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 3,
+    "verseStart": 3,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 3,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal, warm and soulful, solo voice, upright bass, piano, brushed drums, double bass, mellow, 70 BPM",
+    "lyrics": "[Verse]\nMany foes have risen up against me\nVoices claim there is no help in God\nThey crowd in on every side I see\nBut I know the truth in the heart of the Lord\n\n[Chorus]\nBut you Lord are a shield around me\nMy glory and the one who lifts my head high\nYou are the strength when I am weak\nMy refuge in the dark and the light\n\n[Verse]\nI call aloud to the Lord for help\nHe answers me from his holy mountain\nMy heart finds rest in His firm grip\nThe truth that is certain and unshaken\n\n[Chorus]\nBut you Lord are a shield around me\nMy glory and the one who lifts my head high\nYou are the strength when I am weak\nMy refuge in the dark and the light\n\n[Bridge]\nI lie down and sleep in peace\nI wake again because He sustains me\nI will not fear the thousands around\nFor His hand holds me securely\n\n[Chorus]\nBut you Lord are a shield around me\nMy glory and the one who lifts my head high\nYou are the strength when I am weak\nMy refuge in the dark and the light\n\n[Outro]\nYou are my shield around me\nMy glory and my head lifted high",
+    "cot": "full",
+    "seed": 20242
+  }
+}

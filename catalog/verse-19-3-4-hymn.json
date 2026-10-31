@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-3-4-hymn",
+  "title": "Shield Around Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 3,
+    "verseStart": 4,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 3,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with backing choir, acoustic guitar, piano, cello, light percussion, solemn and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nLORD how many foes surround me now\nMany rise to bring me down\nThey say there is no help for me\nNo hope in God to be seen\n\n[Chorus]\nBut you LORD are a shield around me\nMy glory that lifts my head high\nI call aloud to you in need\nYou answer me from your holy mountain\n\n[Verse]\nI lie down and sleep in peace\nI wake again sustained by grace\nThe tens of thousands on every side\nCannot make me fear your ways\n\n[Chorus]\nBut you LORD are a shield around me\nMy glory that lifts my head high\nI call aloud to you in need\nYou answer me from your holy mountain\n\n[Bridge]\nRise up LORD and save me now\nMy God you strike the enemies\nYou break the teeth of the wicked ones\nAnd bring them to their end\n\n[Outro]\nYou are my shield and my glory\nMy head lifted high in your light",
+    "cot": "full",
+    "seed": 20243
+  }
+}

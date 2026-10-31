@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-20-8-blues",
+  "title": "We Rise Up",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 20,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 20,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone, solo with backing choir, slide guitar, upright bass, brushed drums, Hammond organ, mournful and hopeful, 78 BPM",
+    "lyrics": "[Verse]\nSome trust in chariots and some in horses\nThey lean on steel and speed on the roads\nWe call on the name of the LORD our God\nWe put our faith in his endless loads\n\n[Pre-Chorus]\nHe answers from his holy heaven high\nWith the saving power of his right hand\nNow I know that the LORD saves his anointed one\nHe holds us when the days are bad\n\n[Chorus]\nThey are brought to their knees and fall\nBut we rise up and stand firm\nMay the LORD fulfill every request you make\nWe shout for joy in the name of the Lord\n\n[Verse]\nMay he give you what your heart desires\nAnd bring all your plans to pass\nWe raise our banners in the name of our God\nLooking to the one who is above us all\n\n[Chorus]\nThey are brought to their knees and fall\nBut we rise up and stand firm\nMay the LORD fulfill every request you make\nWe shout for joy in the name of the Lord\n\n[Bridge]\nNot in chariots nor in horses do we trust\nOnly in the name of the LORD our God\nHe saves the king when we cry out to him\nHis power is strong on the mountain and the road\n\n[Outro]\nWe rise up and stand firm\nWe rise up and stand firm",
+    "cot": "full",
+    "seed": 20240
+  }
+}

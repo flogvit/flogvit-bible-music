@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-32-7-choral",
+  "title": "Surrounded by Songs",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 32,
+    "verseStart": 7,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 32,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet",
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gentle choir, piano, strings, harp, warm and reassuring mood, 72 BPM",
+    "lyrics": "[Verse]\nDay and night your hand was heavy\nMy vigor turned to summer dryness\nI made my sin known to you\nI did not cover up my guilt\n\n[Chorus]\nYou are my hiding place\nYou guard me from all trouble\nSurround me with songs\nSongs of deliverance\n\n[Verse]\nI will instruct you and teach\nThe way you should go is clear\nI will counsel you and watch\nOver you with tender care\n\n[Chorus]\nYou are my hiding place\nYou guard me from all trouble\nSurround me with songs\nSongs of deliverance\n\n[Bridge]\nDo not be like a horse\nWithout understanding or sense\nBit and bridle only curb\nElse it will not come near\n\n[Verse]\nMany sorrows mark the wicked\nBut trust in the Lord is love\nSteadfast love surrounds the soul\nWho leans upon his grace\n\n[Chorus]\nYou are my hiding place\nYou guard me from all trouble\nSurround me with songs\nSongs of deliverance\n\n[Outro]\nRejoice in the Lord be glad\nShout for joy in heart",
+    "cot": "full",
+    "seed": 20244
+  }
+}

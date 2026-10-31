@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-28-7-pop",
+  "title": "My Heart Leaped For Joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 28,
+    "verseStart": 7,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 28,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo, piano, strings, acoustic guitar, soft drums, hopeful and uplifting, 90 BPM",
+    "lyrics": "[Verse]\nI cried out and you heard the sound\nMy pleading reached your gentle ear\nYou answered when I was bound\nAnd drove away all my fear\n\n[Chorus]\nThe Lord is my strength and my shield\nIn him my heart trusted deep\nI was helped and my heart leaped\nWith joy and songs I will keep\n\n[Verse]\nYou do not tear me down\nYou build me up to stand\nIn your hands I am found\nGrasping your steady hand\n\n[Chorus]\nThe Lord is my strength and my shield\nIn him my heart trusted deep\nI was helped and my heart leaped\nWith joy and songs I will keep\n\n[Bridge]\nYou are the saving stronghold\nFor the anointed you hold\nBless your inheritance and make whole\nCarry us forever old\n\n[Chorus]\nThe Lord is my strength and my shield\nIn him my heart trusted deep\nI was helped and my heart leaped\nWith joy and songs I will keep\n\n[Outro]\nMy song I will thank him with\nStrength and shield for my soul\nWith joy and songs I will keep\nTrusted in him whole",
+    "cot": "full",
+    "seed": 20241
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-32-8-rock",
+  "title": "I Will Counsel You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 32,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 32,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "kjerlighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male solo rock voice with backing choir, electric guitar, bass, drums, organ, uplifting and steady mood, 90 BPM",
+    "lyrics": "[Verse]\nI made my sin known to you\nDid not cover up my guilt\nI said I will confess my transgressions\nAnd you forgave the guilt of my sin\n\n[Chorus]\nI will instruct you and teach you the way\nYou should go I will counsel you\nI will watch over you with care\nYou are my hiding place from trouble\n\n[Verse]\nLet all the faithful pray to you\nAt a time when you may be found\nWhen the mighty waters overflow\nThey will not reach him in that moment\n\n[Chorus]\nI will instruct you and teach you the way\nYou should go I will counsel you\nI will watch over you with care\nYou are my hiding place from trouble\n\n[Bridge]\nDo not be like a horse or a mule\nWithout understanding bit and bridle\nMany are the sorrows of the wicked\nBut trust in the Lord for steadfast love\n\n[Chorus]\nI will instruct you and teach you the way\nYou should go I will counsel you\nI will watch over you with care\nYou are my hiding place from trouble\n\n[Outro]\nRejoice in the Lord and be glad\nShout for joy you who are upright",
+    "cot": "full",
+    "seed": 20245
+  }
+}

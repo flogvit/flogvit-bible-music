@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-40-1-soul",
+  "title": "He Lifted Me Up",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 40,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 40,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "frelsen",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, female solo voice with warm backing choir, electric piano, double bass, drums, Hammond organ, hopeful and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nI waited long for the Lord to hear\nMy cry went up through the heavy air\nHe bent down low to look at me\nAnd answered what I was calling free\n\n[Chorus]\nHe lifted me up out of the pit\nFrom the clay where I was stuck in it\nHe set my feet upon a solid rock\nAnd made my steps secure and strong\n\n[Verse]\nThe mud held fast but he pulled me out\nMy fear was broken, my doubt removed\nA new song rose within my mouth\nTo praise the God who made me found\n\n[Chorus]\nHe lifted me up out of the pit\nFrom the clay where I was stuck in it\nHe set my feet upon a solid rock\nAnd made my steps secure and strong\n\n[Verse]\nMany will see and stand in awe\nAnd put their trust in what he gave\nBlessed is the one who trusts the Lord\nWho turns away from the proud and bored\n\n[Chorus]\nHe lifted me up out of the pit\nFrom the clay where I was stuck in it\nHe set my feet upon a solid rock\nAnd made my steps secure and strong\n\n[Outro]\nHe lifted me up out of the pit\nHe made my steps secure and strong",
+    "cot": "full",
+    "seed": 20246
+  }
+}

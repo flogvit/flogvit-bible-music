@@ -1,0 +1,1458 @@
+{
+ "id": "verse-49-6-10-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-49-6-10-hymn",
+ "offset_seconds": 0.11999999999974165,
+ "words_heard": 144,
+ "words": 147,
+ "lines": [
+  {
+   "text": "Be strong in the Lord and his might",
+   "heard": 5,
+   "words": 8,
+   "error_s": 3.56,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Put on the full armor of God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.43,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "So you can stand against the devil",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And his scheming and wiles",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Our struggle is not against flesh and blood",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But against rulers and authorities",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cosmic powers of this darkness",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forces of evil in heavenly realms",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Therefore take up the full armor of God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.65,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "So you may hold your ground",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.9,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "On the evil day and stand firm",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.28,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Having done everything",
+   "heard": 3,
+   "words": 3,
+   "error_s": 2.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Our struggle is not against flesh and blood",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But against rulers and authorities",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cosmic powers of this darkness",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forces of evil in heavenly realms",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stand firm with the belt of truth",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.63,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Buckled around your waist",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Righteousness as your breastplate",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Protecting your heart",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Our struggle is not against flesh and blood",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But against rulers and authorities",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cosmic powers of this darkness",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forces of evil in heavenly realms",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So stand firm",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the light",
+   "heard": 3,
+   "words": 3,
+   "error_s": 3.53,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Be",
+   "time": 24.42,
+   "weight": 0.48,
+   "note_time": 29.58
+  },
+  {
+   "text": "strong",
+   "time": 25.82,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "in",
+   "time": 27.22,
+   "weight": 1.0,
+   "note_time": 31.25
+  },
+  {
+   "text": "the",
+   "time": 28.44,
+   "weight": 1.0,
+   "note_time": 31.46
+  },
+  {
+   "text": "Lord",
+   "time": 28.58,
+   "weight": 1.0,
+   "note_time": 31.67
+  },
+  {
+   "text": "and",
+   "time": 29.5,
+   "weight": 0.0,
+   "note_time": 32.08
+  },
+  {
+   "text": "his",
+   "time": 30.41,
+   "weight": 0.0,
+   "note_time": 32.29
+  },
+  {
+   "text": "might",
+   "time": 31.33,
+   "weight": 0.0,
+   "note_time": 32.71
+  },
+  {
+   "text": "Put",
+   "time": 32.24,
+   "weight": 0.28,
+   "note_time": 32.92
+  },
+  {
+   "text": "on",
+   "time": 33.38,
+   "weight": 1.0,
+   "note_time": 33.33
+  },
+  {
+   "text": "the",
+   "time": 34.52,
+   "weight": 0.99,
+   "note_time": 37.08
+  },
+  {
+   "text": "full",
+   "time": 34.86,
+   "weight": 0.99,
+   "note_time": 37.29
+  },
+  {
+   "text": "ar",
+   "time": 35.12,
+   "weight": 0.95,
+   "note_time": 37.71
+  },
+  {
+   "text": "mor",
+   "time": 35.47,
+   "weight": 0.95,
+   "note_time": 37.92
+  },
+  {
+   "text": "of",
+   "time": 36.06,
+   "weight": 0.99,
+   "note_time": 38.33
+  },
+  {
+   "text": "God",
+   "time": 36.54,
+   "weight": 1.0,
+   "note_time": 38.75
+  },
+  {
+   "text": "So",
+   "time": 36.92,
+   "weight": 0.16,
+   "note_time": 38.96
+  },
+  {
+   "text": "you",
+   "time": 39.76,
+   "weight": 0.98,
+   "note_time": 39.17
+  },
+  {
+   "text": "can",
+   "time": 40.02,
+   "weight": 1.0,
+   "note_time": 39.38
+  },
+  {
+   "text": "stand",
+   "time": 40.26,
+   "weight": 1.0,
+   "note_time": 39.58
+  },
+  {
+   "text": "a",
+   "time": 40.88,
+   "weight": 0.99,
+   "note_time": 42.71
+  },
+  {
+   "text": "gainst",
+   "time": 41.23,
+   "weight": 0.99,
+   "note_time": 42.92
+  },
+  {
+   "text": "the",
+   "time": 41.94,
+   "weight": 1.0,
+   "note_time": 43.12
+  },
+  {
+   "text": "dev",
+   "time": 43.26,
+   "weight": 0.96,
+   "note_time": 43.33
+  },
+  {
+   "text": "il",
+   "time": 43.46,
+   "weight": 0.96,
+   "note_time": 44.58
+  },
+  {
+   "text": "And",
+   "time": 45.3,
+   "weight": 0.86,
+   "note_time": 44.79
+  },
+  {
+   "text": "his",
+   "time": 46.44,
+   "weight": 0.99,
+   "note_time": 46.04
+  },
+  {
+   "text": "sche",
+   "time": 46.78,
+   "weight": 0.4,
+   "note_time": 46.25
+  },
+  {
+   "text": "ming",
+   "time": 47.13,
+   "weight": 0.4,
+   "note_time": 46.46
+  },
+  {
+   "text": "and",
+   "time": 49.3,
+   "weight": 0.99,
+   "note_time": 49.58
+  },
+  {
+   "text": "wiles",
+   "time": 49.48,
+   "weight": 0.74,
+   "note_time": 50.0
+  },
+  {
+   "text": "Our",
+   "time": 51.88,
+   "weight": 0.42,
+   "note_time": 52.08
+  },
+  {
+   "text": "strug",
+   "time": 53.28,
+   "weight": 0.99,
+   "note_time": 52.29
+  },
+  {
+   "text": "gle",
+   "time": 53.63,
+   "weight": 0.99,
+   "note_time": 52.5
+  },
+  {
+   "text": "is",
+   "time": 54.3,
+   "weight": 0.97,
+   "note_time": 52.71
+  },
+  {
+   "text": "not",
+   "time": 55.22,
+   "weight": 1.0,
+   "note_time": 52.92
+  },
+  {
+   "text": "a",
+   "time": 55.5,
+   "weight": 1.0,
+   "note_time": 56.25
+  },
+  {
+   "text": "gainst",
+   "time": 55.73,
+   "weight": 1.0,
+   "note_time": 56.67
+  },
+  {
+   "text": "flesh",
+   "time": 55.96,
+   "weight": 1.0,
+   "note_time": 57.08
+  },
+  {
+   "text": "and",
+   "time": 56.38,
+   "weight": 1.0,
+   "note_time": 58.12
+  },
+  {
+   "text": "blood",
+   "time": 56.76,
+   "weight": 1.0,
+   "note_time": 58.33
+  },
+  {
+   "text": "But",
+   "time": 57.02,
+   "weight": 0.23,
+   "note_time": 58.54
+  },
+  {
+   "text": "a",
+   "time": 59.2,
+   "weight": 1.0,
+   "note_time": 58.75
+  },
+  {
+   "text": "gainst",
+   "time": 59.55,
+   "weight": 1.0,
+   "note_time": 59.17
+  },
+  {
+   "text": "ru",
+   "time": 60.1,
+   "weight": 1.0,
+   "note_time": 59.58
+  },
+  {
+   "text": "lers",
+   "time": 60.45,
+   "weight": 1.0,
+   "note_time": 59.79
+  },
+  {
+   "text": "and",
+   "time": 60.8,
+   "weight": 0.39,
+   "note_time": 62.5
+  },
+  {
+   "text": "au",
+   "time": 62.36,
+   "weight": 1.0,
+   "note_time": 62.71
+  },
+  {
+   "text": "thor",
+   "time": 62.51,
+   "weight": 1.0,
+   "note_time": 62.92
+  },
+  {
+   "text": "i",
+   "time": 62.66,
+   "weight": 1.0,
+   "note_time": 63.33
+  },
+  {
+   "text": "ties",
+   "time": 62.81,
+   "weight": 1.0,
+   "note_time": 63.75
+  },
+  {
+   "text": "Cos",
+   "time": 65.42,
+   "weight": 0.96,
+   "note_time": 65.21
+  },
+  {
+   "text": "mic",
+   "time": 65.77,
+   "weight": 0.96,
+   "note_time": 65.42
+  },
+  {
+   "text": "pow",
+   "time": 66.82,
+   "weight": 0.99,
+   "note_time": 65.83
+  },
+  {
+   "text": "ers",
+   "time": 67.15,
+   "weight": 0.99,
+   "note_time": 66.04
+  },
+  {
+   "text": "of",
+   "time": 67.48,
+   "weight": 1.0,
+   "note_time": 66.25
+  },
+  {
+   "text": "this",
+   "time": 68.54,
+   "weight": 1.0,
+   "note_time": 69.17
+  },
+  {
+   "text": "dark",
+   "time": 69.34,
+   "weight": 1.0,
+   "note_time": 69.58
+  },
+  {
+   "text": "ness",
+   "time": 69.69,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "For",
+   "time": 70.8,
+   "weight": 0.38,
+   "note_time": 70.62
+  },
+  {
+   "text": "ces",
+   "time": 71.15,
+   "weight": 0.38,
+   "note_time": 71.25
+  },
+  {
+   "text": "of",
+   "time": 73.04,
+   "weight": 1.0,
+   "note_time": 72.08
+  },
+  {
+   "text": "e",
+   "time": 73.44,
+   "weight": 0.99,
+   "note_time": 72.92
+  },
+  {
+   "text": "vil",
+   "time": 73.74,
+   "weight": 0.99,
+   "note_time": 73.75
+  },
+  {
+   "text": "in",
+   "time": 74.04,
+   "weight": 0.38,
+   "note_time": 73.96
+  },
+  {
+   "text": "heav",
+   "time": 75.88,
+   "weight": 0.99,
+   "note_time": 76.04
+  },
+  {
+   "text": "en",
+   "time": 76.1,
+   "weight": 0.99,
+   "note_time": 76.25
+  },
+  {
+   "text": "ly",
+   "time": 76.32,
+   "weight": 0.99,
+   "note_time": 76.46
+  },
+  {
+   "text": "realms",
+   "time": 76.54,
+   "weight": 1.0,
+   "note_time": 76.88
+  },
+  {
+   "text": "There",
+   "time": 80.0,
+   "weight": 0.15,
+   "note_time": 78.75
+  },
+  {
+   "text": "fore",
+   "time": 80.35,
+   "weight": 0.15,
+   "note_time": 79.17
+  },
+  {
+   "text": "take",
+   "time": 81.0,
+   "weight": 0.91,
+   "note_time": 79.38
+  },
+  {
+   "text": "up",
+   "time": 81.74,
+   "weight": 0.99,
+   "note_time": 79.58
+  },
+  {
+   "text": "the",
+   "time": 82.14,
+   "weight": 0.99,
+   "note_time": 79.79
+  },
+  {
+   "text": "full",
+   "time": 82.4,
+   "weight": 0.99,
+   "note_time": 83.75
+  },
+  {
+   "text": "ar",
+   "time": 82.6,
+   "weight": 0.89,
+   "note_time": 84.17
+  },
+  {
+   "text": "mor",
+   "time": 82.91,
+   "weight": 0.89,
+   "note_time": 84.58
+  },
+  {
+   "text": "of",
+   "time": 83.22,
+   "weight": 0.97,
+   "note_time": 84.79
+  },
+  {
+   "text": "God",
+   "time": 83.46,
+   "weight": 0.9,
+   "note_time": 85.21
+  },
+  {
+   "text": "So",
+   "time": 83.74,
+   "weight": 0.34,
+   "note_time": 85.42
+  },
+  {
+   "text": "you",
+   "time": 87.68,
+   "weight": 1.0,
+   "note_time": 85.83
+  },
+  {
+   "text": "may",
+   "time": 87.94,
+   "weight": 1.0,
+   "note_time": 86.04
+  },
+  {
+   "text": "hold",
+   "time": 88.24,
+   "weight": 1.0,
+   "note_time": 86.25
+  },
+  {
+   "text": "your",
+   "time": 88.64,
+   "weight": 1.0,
+   "note_time": 86.46
+  },
+  {
+   "text": "ground",
+   "time": 89.54,
+   "weight": 0.96,
+   "note_time": 90.83
+  },
+  {
+   "text": "On",
+   "time": 90.24,
+   "weight": 0.39,
+   "note_time": 91.46
+  },
+  {
+   "text": "the",
+   "time": 93.44,
+   "weight": 0.99,
+   "note_time": 92.08
+  },
+  {
+   "text": "e",
+   "time": 93.58,
+   "weight": 0.96,
+   "note_time": 92.29
+  },
+  {
+   "text": "vil",
+   "time": 93.78,
+   "weight": 0.96,
+   "note_time": 92.5
+  },
+  {
+   "text": "day",
+   "time": 93.98,
+   "weight": 0.99,
+   "note_time": 92.71
+  },
+  {
+   "text": "and",
+   "time": 94.48,
+   "weight": 0.4,
+   "note_time": 92.92
+  },
+  {
+   "text": "stand",
+   "time": 96.0,
+   "weight": 0.97,
+   "note_time": 96.46
+  },
+  {
+   "text": "firm",
+   "time": 96.58,
+   "weight": 0.99,
+   "note_time": 96.67
+  },
+  {
+   "text": "Hav",
+   "time": 99.22,
+   "weight": 0.15,
+   "note_time": 98.75
+  },
+  {
+   "text": "ing",
+   "time": 99.57,
+   "weight": 0.15,
+   "note_time": 99.38
+  },
+  {
+   "text": "done",
+   "time": 100.62,
+   "weight": 0.98,
+   "note_time": 100.0
+  },
+  {
+   "text": "ev",
+   "time": 101.96,
+   "weight": 0.94,
+   "note_time": 104.17
+  },
+  {
+   "text": "ery",
+   "time": 102.31,
+   "weight": 0.94,
+   "note_time": 104.38
+  },
+  {
+   "text": "thing",
+   "time": 102.66,
+   "weight": 0.94,
+   "note_time": 104.79
+  },
+  {
+   "text": "Our",
+   "time": 105.34,
+   "weight": 0.69,
+   "note_time": 105.62
+  },
+  {
+   "text": "strug",
+   "time": 106.74,
+   "weight": 0.99,
+   "note_time": 106.04
+  },
+  {
+   "text": "gle",
+   "time": 107.09,
+   "weight": 0.99,
+   "note_time": 106.25
+  },
+  {
+   "text": "is",
+   "time": 107.58,
+   "weight": 0.9,
+   "note_time": 108.12
+  },
+  {
+   "text": "not",
+   "time": 108.6,
+   "weight": 1.0,
+   "note_time": 108.33
+  },
+  {
+   "text": "a",
+   "time": 108.86,
+   "weight": 1.0,
+   "note_time": 109.58
+  },
+  {
+   "text": "gainst",
+   "time": 109.06,
+   "weight": 1.0,
+   "note_time": 110.0
+  },
+  {
+   "text": "flesh",
+   "time": 109.26,
+   "weight": 0.99,
+   "note_time": 110.42
+  },
+  {
+   "text": "and",
+   "time": 109.66,
+   "weight": 0.98,
+   "note_time": 111.46
+  },
+  {
+   "text": "blood",
+   "time": 110.08,
+   "weight": 1.0,
+   "note_time": 111.67
+  },
+  {
+   "text": "But",
+   "time": 110.34,
+   "weight": 0.36,
+   "note_time": 111.88
+  },
+  {
+   "text": "a",
+   "time": 112.9,
+   "weight": 1.0,
+   "note_time": 112.08
+  },
+  {
+   "text": "gainst",
+   "time": 113.17,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "ru",
+   "time": 113.44,
+   "weight": 1.0,
+   "note_time": 112.92
+  },
+  {
+   "text": "lers",
+   "time": 113.79,
+   "weight": 1.0,
+   "note_time": 113.12
+  },
+  {
+   "text": "and",
+   "time": 114.16,
+   "weight": 0.38,
+   "note_time": 115.83
+  },
+  {
+   "text": "au",
+   "time": 115.68,
+   "weight": 1.0,
+   "note_time": 116.04
+  },
+  {
+   "text": "thor",
+   "time": 115.83,
+   "weight": 1.0,
+   "note_time": 116.25
+  },
+  {
+   "text": "i",
+   "time": 115.98,
+   "weight": 1.0,
+   "note_time": 116.67
+  },
+  {
+   "text": "ties",
+   "time": 116.13,
+   "weight": 1.0,
+   "note_time": 117.08
+  },
+  {
+   "text": "Cos",
+   "time": 118.62,
+   "weight": 0.97,
+   "note_time": 118.54
+  },
+  {
+   "text": "mic",
+   "time": 118.97,
+   "weight": 0.97,
+   "note_time": 118.75
+  },
+  {
+   "text": "pow",
+   "time": 120.02,
+   "weight": 0.95,
+   "note_time": 119.17
+  },
+  {
+   "text": "ers",
+   "time": 120.37,
+   "weight": 0.95,
+   "note_time": 119.38
+  },
+  {
+   "text": "of",
+   "time": 121.08,
+   "weight": 1.0,
+   "note_time": 119.58
+  },
+  {
+   "text": "this",
+   "time": 121.78,
+   "weight": 1.0,
+   "note_time": 122.5
+  },
+  {
+   "text": "dark",
+   "time": 122.66,
+   "weight": 1.0,
+   "note_time": 122.92
+  },
+  {
+   "text": "ness",
+   "time": 123.01,
+   "weight": 1.0,
+   "note_time": 123.33
+  },
+  {
+   "text": "For",
+   "time": 124.08,
+   "weight": 0.06,
+   "note_time": 123.96
+  },
+  {
+   "text": "ces",
+   "time": 124.43,
+   "weight": 0.06,
+   "note_time": 124.58
+  },
+  {
+   "text": "of",
+   "time": 126.24,
+   "weight": 0.99,
+   "note_time": 125.42
+  },
+  {
+   "text": "e",
+   "time": 126.82,
+   "weight": 0.92,
+   "note_time": 126.25
+  },
+  {
+   "text": "vil",
+   "time": 127.09,
+   "weight": 0.92,
+   "note_time": 127.08
+  },
+  {
+   "text": "in",
+   "time": 127.36,
+   "weight": 0.28,
+   "note_time": 127.29
+  },
+  {
+   "text": "heav",
+   "time": 129.34,
+   "weight": 0.93,
+   "note_time": 129.38
+  },
+  {
+   "text": "en",
+   "time": 129.53,
+   "weight": 0.93,
+   "note_time": 129.58
+  },
+  {
+   "text": "ly",
+   "time": 129.71,
+   "weight": 0.93,
+   "note_time": 129.79
+  },
+  {
+   "text": "realms",
+   "time": 129.9,
+   "weight": 0.97,
+   "note_time": 130.21
+  },
+  {
+   "text": "Stand",
+   "time": 130.62,
+   "weight": 0.35,
+   "note_time": 132.08
+  },
+  {
+   "text": "firm",
+   "time": 133.34,
+   "weight": 0.99,
+   "note_time": 132.5
+  },
+  {
+   "text": "with",
+   "time": 133.84,
+   "weight": 0.97,
+   "note_time": 132.71
+  },
+  {
+   "text": "the",
+   "time": 135.1,
+   "weight": 0.96,
+   "note_time": 132.92
+  },
+  {
+   "text": "belt",
+   "time": 135.26,
+   "weight": 0.95,
+   "note_time": 133.12
+  },
+  {
+   "text": "of",
+   "time": 135.6,
+   "weight": 1.0,
+   "note_time": 133.33
+  },
+  {
+   "text": "truth",
+   "time": 135.96,
+   "weight": 0.98,
+   "note_time": 136.25
+  },
+  {
+   "text": "Buck",
+   "time": 136.78,
+   "weight": 0.9,
+   "note_time": 136.67
+  },
+  {
+   "text": "led",
+   "time": 137.13,
+   "weight": 0.9,
+   "note_time": 137.92
+  },
+  {
+   "text": "a",
+   "time": 138.22,
+   "weight": 1.0,
+   "note_time": 138.12
+  },
+  {
+   "text": "round",
+   "time": 138.43,
+   "weight": 1.0,
+   "note_time": 138.33
+  },
+  {
+   "text": "your",
+   "time": 138.64,
+   "weight": 0.43,
+   "note_time": 138.75
+  },
+  {
+   "text": "waist",
+   "time": 139.3,
+   "weight": 0.99,
+   "note_time": 139.58
+  },
+  {
+   "text": "Right",
+   "time": 140.34,
+   "weight": 0.4,
+   "note_time": 140.83
+  },
+  {
+   "text": "eous",
+   "time": 140.69,
+   "weight": 0.4,
+   "note_time": 141.04
+  },
+  {
+   "text": "ness",
+   "time": 141.04,
+   "weight": 0.4,
+   "note_time": 141.25
+  },
+  {
+   "text": "as",
+   "time": 142.04,
+   "weight": 0.93,
+   "note_time": 141.46
+  },
+  {
+   "text": "your",
+   "time": 142.48,
+   "weight": 0.95,
+   "note_time": 142.08
+  },
+  {
+   "text": "breast",
+   "time": 142.76,
+   "weight": 0.99,
+   "note_time": 142.92
+  },
+  {
+   "text": "plate",
+   "time": 143.11,
+   "weight": 0.99,
+   "note_time": 144.17
+  },
+  {
+   "text": "Pro",
+   "time": 144.88,
+   "weight": 0.98,
+   "note_time": 144.79
+  },
+  {
+   "text": "tect",
+   "time": 145.23,
+   "weight": 0.98,
+   "note_time": 145.21
+  },
+  {
+   "text": "ing",
+   "time": 145.58,
+   "weight": 0.98,
+   "note_time": 145.62
+  },
+  {
+   "text": "your",
+   "time": 146.12,
+   "weight": 0.97,
+   "note_time": 145.83
+  },
+  {
+   "text": "heart",
+   "time": 146.36,
+   "weight": 0.71,
+   "note_time": 146.25
+  },
+  {
+   "text": "Our",
+   "time": 146.92,
+   "weight": 0.06,
+   "note_time": 148.12
+  },
+  {
+   "text": "strug",
+   "time": 148.86,
+   "weight": 0.39,
+   "note_time": 148.33
+  },
+  {
+   "text": "gle",
+   "time": 149.21,
+   "weight": 0.39,
+   "note_time": 148.75
+  },
+  {
+   "text": "is",
+   "time": 153.9,
+   "weight": 0.97,
+   "note_time": 149.17
+  },
+  {
+   "text": "not",
+   "time": 155.24,
+   "weight": 1.0,
+   "note_time": 149.58
+  },
+  {
+   "text": "a",
+   "time": 155.52,
+   "weight": 1.0,
+   "note_time": 153.33
+  },
+  {
+   "text": "gainst",
+   "time": 155.73,
+   "weight": 1.0,
+   "note_time": 155.0
+  },
+  {
+   "text": "flesh",
+   "time": 155.94,
+   "weight": 1.0,
+   "note_time": 156.25
+  },
+  {
+   "text": "and",
+   "time": 156.34,
+   "weight": 1.0,
+   "note_time": 156.67
+  },
+  {
+   "text": "blood",
+   "time": 156.74,
+   "weight": 1.0,
+   "note_time": 157.08
+  },
+  {
+   "text": "But",
+   "time": 157.52,
+   "weight": 0.23,
+   "note_time": 158.12
+  },
+  {
+   "text": "a",
+   "time": 159.44,
+   "weight": 1.0,
+   "note_time": 158.54
+  },
+  {
+   "text": "gainst",
+   "time": 159.77,
+   "weight": 1.0,
+   "note_time": 158.75
+  },
+  {
+   "text": "ru",
+   "time": 160.1,
+   "weight": 0.99,
+   "note_time": 159.17
+  },
+  {
+   "text": "lers",
+   "time": 160.45,
+   "weight": 0.99,
+   "note_time": 159.58
+  },
+  {
+   "text": "and",
+   "time": 160.88,
+   "weight": 0.97,
+   "note_time": 159.79
+  },
+  {
+   "text": "au",
+   "time": 162.1,
+   "weight": 0.99,
+   "note_time": 162.71
+  },
+  {
+   "text": "thor",
+   "time": 162.31,
+   "weight": 0.99,
+   "note_time": 162.92
+  },
+  {
+   "text": "i",
+   "time": 162.52,
+   "weight": 0.99,
+   "note_time": 163.33
+  },
+  {
+   "text": "ties",
+   "time": 162.73,
+   "weight": 0.99,
+   "note_time": 163.75
+  },
+  {
+   "text": "Cos",
+   "time": 165.28,
+   "weight": 0.95,
+   "note_time": 165.21
+  },
+  {
+   "text": "mic",
+   "time": 165.63,
+   "weight": 0.95,
+   "note_time": 165.42
+  },
+  {
+   "text": "pow",
+   "time": 166.68,
+   "weight": 0.95,
+   "note_time": 165.83
+  },
+  {
+   "text": "ers",
+   "time": 167.03,
+   "weight": 0.95,
+   "note_time": 166.04
+  },
+  {
+   "text": "of",
+   "time": 167.58,
+   "weight": 1.0,
+   "note_time": 166.25
+  },
+  {
+   "text": "this",
+   "time": 168.48,
+   "weight": 0.99,
+   "note_time": 169.17
+  },
+  {
+   "text": "dark",
+   "time": 169.34,
+   "weight": 0.4,
+   "note_time": 169.58
+  },
+  {
+   "text": "ness",
+   "time": 169.69,
+   "weight": 0.4,
+   "note_time": 170.0
+  },
+  {
+   "text": "For",
+   "time": 170.86,
+   "weight": 0.06,
+   "note_time": 170.62
+  },
+  {
+   "text": "ces",
+   "time": 171.21,
+   "weight": 0.06,
+   "note_time": 171.25
+  },
+  {
+   "text": "of",
+   "time": 172.86,
+   "weight": 1.0,
+   "note_time": 172.08
+  },
+  {
+   "text": "e",
+   "time": 173.46,
+   "weight": 0.95,
+   "note_time": 172.92
+  },
+  {
+   "text": "vil",
+   "time": 173.66,
+   "weight": 0.95,
+   "note_time": 173.75
+  },
+  {
+   "text": "in",
+   "time": 173.86,
+   "weight": 0.32,
+   "note_time": 173.96
+  },
+  {
+   "text": "heav",
+   "time": 175.92,
+   "weight": 0.95,
+   "note_time": 176.04
+  },
+  {
+   "text": "en",
+   "time": 176.13,
+   "weight": 0.95,
+   "note_time": 176.25
+  },
+  {
+   "text": "ly",
+   "time": 176.33,
+   "weight": 0.95,
+   "note_time": 176.46
+  },
+  {
+   "text": "realms",
+   "time": 176.54,
+   "weight": 0.89,
+   "note_time": 176.88
+  },
+  {
+   "text": "So",
+   "time": 177.3,
+   "weight": 0.33,
+   "note_time": 178.75
+  },
+  {
+   "text": "stand",
+   "time": 179.4,
+   "weight": 0.97,
+   "note_time": 179.17
+  },
+  {
+   "text": "firm",
+   "time": 180.02,
+   "weight": 0.98,
+   "note_time": 179.38
+  },
+  {
+   "text": "In",
+   "time": 180.64,
+   "weight": 0.39,
+   "note_time": 182.29
+  },
+  {
+   "text": "the",
+   "time": 186.38,
+   "weight": 0.98,
+   "note_time": 182.5
+  },
+  {
+   "text": "light",
+   "time": 186.52,
+   "weight": 0.92,
+   "note_time": 183.33
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "18 of 26 lyric lines sit clearly on their notes; 8 are uncertain and printed in grey italics."
+}

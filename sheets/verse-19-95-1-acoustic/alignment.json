@@ -1,0 +1,1308 @@
+{
+ "id": "verse-19-95-1-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-95-1-acoustic",
+ "offset_seconds": -3.140000000000189,
+ "words_heard": 157,
+ "words": 164,
+ "lines": [
+  {
+   "text": "Come let us sing for joy to the Lord",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us shout aloud to our rock",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He is the source of our salvation",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The foundation of our hope",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us come before him with thanksgiving",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Shout to him with songs of praise",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the Lord is a great God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A great King above all gods",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In his hand are the depths of the earth",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the heights of the mountains are his",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sea is his for he made it",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His hands formed the dry land",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us come before him with thanksgiving",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Shout to him with songs of praise",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the Lord is a great God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A great King above all gods",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come let us sing for joy to the Lord",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.06,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Shout aloud to the rock of our salvation",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.52,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Let us come before him with thanksgiving",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.24,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Shout to him with songs of praise",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.47,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For the Lord is a great God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.54,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A great King above all gods",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.94,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Shout to him with songs of praise",
+   "heard": 0,
+   "words": 7,
+   "error_s": null,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Come",
+   "time": 13.54,
+   "weight": 0.18,
+   "note_time": 14.46
+  },
+  {
+   "text": "let",
+   "time": 14.82,
+   "weight": 0.35,
+   "note_time": 15.18
+  },
+  {
+   "text": "us",
+   "time": 15.68,
+   "weight": 1.0,
+   "note_time": 15.36
+  },
+  {
+   "text": "sing",
+   "time": 16.02,
+   "weight": 0.99,
+   "note_time": 15.72
+  },
+  {
+   "text": "for",
+   "time": 16.4,
+   "weight": 0.91,
+   "note_time": 16.99
+  },
+  {
+   "text": "joy",
+   "time": 17.52,
+   "weight": 0.98,
+   "note_time": 17.35
+  },
+  {
+   "text": "to",
+   "time": 17.92,
+   "weight": 1.0,
+   "note_time": 18.07
+  },
+  {
+   "text": "the",
+   "time": 18.52,
+   "weight": 0.98,
+   "note_time": 18.25
+  },
+  {
+   "text": "Lord",
+   "time": 18.8,
+   "weight": 0.98,
+   "note_time": 18.61
+  },
+  {
+   "text": "Let",
+   "time": 19.38,
+   "weight": 0.76,
+   "note_time": 19.88
+  },
+  {
+   "text": "us",
+   "time": 20.46,
+   "weight": 0.96,
+   "note_time": 20.06
+  },
+  {
+   "text": "shout",
+   "time": 20.66,
+   "weight": 1.0,
+   "note_time": 20.24
+  },
+  {
+   "text": "a",
+   "time": 21.34,
+   "weight": 0.99,
+   "note_time": 21.33
+  },
+  {
+   "text": "loud",
+   "time": 21.69,
+   "weight": 0.99,
+   "note_time": 21.51
+  },
+  {
+   "text": "to",
+   "time": 22.08,
+   "weight": 1.0,
+   "note_time": 22.23
+  },
+  {
+   "text": "our",
+   "time": 22.8,
+   "weight": 0.97,
+   "note_time": 22.59
+  },
+  {
+   "text": "rock",
+   "time": 23.28,
+   "weight": 0.15,
+   "note_time": 22.95
+  },
+  {
+   "text": "He",
+   "time": 23.94,
+   "weight": 0.39,
+   "note_time": 26.02
+  },
+  {
+   "text": "is",
+   "time": 26.68,
+   "weight": 1.0,
+   "note_time": 26.57
+  },
+  {
+   "text": "the",
+   "time": 27.3,
+   "weight": 1.0,
+   "note_time": 26.93
+  },
+  {
+   "text": "source",
+   "time": 27.5,
+   "weight": 0.97,
+   "note_time": 27.29
+  },
+  {
+   "text": "of",
+   "time": 28.12,
+   "weight": 1.0,
+   "note_time": 28.55
+  },
+  {
+   "text": "our",
+   "time": 29.22,
+   "weight": 0.99,
+   "note_time": 28.92
+  },
+  {
+   "text": "sal",
+   "time": 29.68,
+   "weight": 1.0,
+   "note_time": 29.64
+  },
+  {
+   "text": "va",
+   "time": 30.03,
+   "weight": 1.0,
+   "note_time": 29.82
+  },
+  {
+   "text": "tion",
+   "time": 30.38,
+   "weight": 1.0,
+   "note_time": 30.18
+  },
+  {
+   "text": "The",
+   "time": 30.86,
+   "weight": 0.86,
+   "note_time": 30.9
+  },
+  {
+   "text": "foun",
+   "time": 32.06,
+   "weight": 0.15,
+   "note_time": 31.45
+  },
+  {
+   "text": "da",
+   "time": 32.35,
+   "weight": 0.15,
+   "note_time": 31.81
+  },
+  {
+   "text": "tion",
+   "time": 32.63,
+   "weight": 0.15,
+   "note_time": 32.53
+  },
+  {
+   "text": "of",
+   "time": 32.92,
+   "weight": 0.71,
+   "note_time": 32.89
+  },
+  {
+   "text": "our",
+   "time": 33.88,
+   "weight": 0.99,
+   "note_time": 33.25
+  },
+  {
+   "text": "hope",
+   "time": 34.82,
+   "weight": 1.0,
+   "note_time": 33.98
+  },
+  {
+   "text": "Let",
+   "time": 35.38,
+   "weight": 0.27,
+   "note_time": 36.87
+  },
+  {
+   "text": "us",
+   "time": 37.38,
+   "weight": 1.0,
+   "note_time": 37.23
+  },
+  {
+   "text": "come",
+   "time": 38.0,
+   "weight": 0.99,
+   "note_time": 37.59
+  },
+  {
+   "text": "be",
+   "time": 38.34,
+   "weight": 1.0,
+   "note_time": 38.31
+  },
+  {
+   "text": "fore",
+   "time": 38.69,
+   "weight": 1.0,
+   "note_time": 38.86
+  },
+  {
+   "text": "him",
+   "time": 39.28,
+   "weight": 0.83,
+   "note_time": 39.4
+  },
+  {
+   "text": "with",
+   "time": 40.1,
+   "weight": 0.99,
+   "note_time": 39.76
+  },
+  {
+   "text": "thanks",
+   "time": 40.52,
+   "weight": 0.99,
+   "note_time": 40.12
+  },
+  {
+   "text": "giv",
+   "time": 40.8,
+   "weight": 0.99,
+   "note_time": 40.48
+  },
+  {
+   "text": "ing",
+   "time": 41.08,
+   "weight": 0.99,
+   "note_time": 40.66
+  },
+  {
+   "text": "Shout",
+   "time": 41.36,
+   "weight": 0.39,
+   "note_time": 42.65
+  },
+  {
+   "text": "to",
+   "time": 43.3,
+   "weight": 1.0,
+   "note_time": 43.01
+  },
+  {
+   "text": "him",
+   "time": 43.7,
+   "weight": 0.99,
+   "note_time": 43.37
+  },
+  {
+   "text": "with",
+   "time": 44.2,
+   "weight": 0.99,
+   "note_time": 44.1
+  },
+  {
+   "text": "songs",
+   "time": 44.98,
+   "weight": 0.97,
+   "note_time": 44.82
+  },
+  {
+   "text": "of",
+   "time": 45.54,
+   "weight": 1.0,
+   "note_time": 45.54
+  },
+  {
+   "text": "praise",
+   "time": 46.3,
+   "weight": 1.0,
+   "note_time": 46.27
+  },
+  {
+   "text": "For",
+   "time": 48.32,
+   "weight": 0.99,
+   "note_time": 48.43
+  },
+  {
+   "text": "the",
+   "time": 49.14,
+   "weight": 1.0,
+   "note_time": 48.8
+  },
+  {
+   "text": "Lord",
+   "time": 49.48,
+   "weight": 0.99,
+   "note_time": 49.16
+  },
+  {
+   "text": "is",
+   "time": 50.04,
+   "weight": 1.0,
+   "note_time": 49.88
+  },
+  {
+   "text": "a",
+   "time": 50.78,
+   "weight": 0.98,
+   "note_time": 50.24
+  },
+  {
+   "text": "great",
+   "time": 50.98,
+   "weight": 0.98,
+   "note_time": 50.42
+  },
+  {
+   "text": "God",
+   "time": 51.26,
+   "weight": 1.0,
+   "note_time": 50.96
+  },
+  {
+   "text": "A",
+   "time": 51.9,
+   "weight": 0.56,
+   "note_time": 51.87
+  },
+  {
+   "text": "great",
+   "time": 52.56,
+   "weight": 0.99,
+   "note_time": 52.05
+  },
+  {
+   "text": "King",
+   "time": 52.84,
+   "weight": 0.99,
+   "note_time": 52.77
+  },
+  {
+   "text": "a",
+   "time": 53.56,
+   "weight": 1.0,
+   "note_time": 53.31
+  },
+  {
+   "text": "bove",
+   "time": 53.87,
+   "weight": 1.0,
+   "note_time": 53.49
+  },
+  {
+   "text": "all",
+   "time": 54.18,
+   "weight": 1.0,
+   "note_time": 54.04
+  },
+  {
+   "text": "gods",
+   "time": 54.9,
+   "weight": 0.99,
+   "note_time": 54.58
+  },
+  {
+   "text": "In",
+   "time": 60.88,
+   "weight": 0.15,
+   "note_time": 61.45
+  },
+  {
+   "text": "his",
+   "time": 62.02,
+   "weight": 0.85,
+   "note_time": 61.63
+  },
+  {
+   "text": "hand",
+   "time": 62.52,
+   "weight": 0.81,
+   "note_time": 61.99
+  },
+  {
+   "text": "are",
+   "time": 63.2,
+   "weight": 0.99,
+   "note_time": 62.89
+  },
+  {
+   "text": "the",
+   "time": 63.76,
+   "weight": 1.0,
+   "note_time": 63.25
+  },
+  {
+   "text": "depths",
+   "time": 64.02,
+   "weight": 1.0,
+   "note_time": 63.43
+  },
+  {
+   "text": "of",
+   "time": 64.6,
+   "weight": 1.0,
+   "note_time": 64.34
+  },
+  {
+   "text": "the",
+   "time": 65.18,
+   "weight": 1.0,
+   "note_time": 64.52
+  },
+  {
+   "text": "earth",
+   "time": 65.36,
+   "weight": 0.99,
+   "note_time": 64.88
+  },
+  {
+   "text": "And",
+   "time": 65.86,
+   "weight": 0.4,
+   "note_time": 66.14
+  },
+  {
+   "text": "the",
+   "time": 66.68,
+   "weight": 1.0,
+   "note_time": 66.33
+  },
+  {
+   "text": "heights",
+   "time": 67.08,
+   "weight": 1.0,
+   "note_time": 66.51
+  },
+  {
+   "text": "of",
+   "time": 67.56,
+   "weight": 1.0,
+   "note_time": 67.23
+  },
+  {
+   "text": "the",
+   "time": 68.14,
+   "weight": 0.99,
+   "note_time": 67.59
+  },
+  {
+   "text": "moun",
+   "time": 68.4,
+   "weight": 1.0,
+   "note_time": 67.77
+  },
+  {
+   "text": "tains",
+   "time": 68.74,
+   "weight": 1.0,
+   "note_time": 68.49
+  },
+  {
+   "text": "are",
+   "time": 69.08,
+   "weight": 1.0,
+   "note_time": 68.86
+  },
+  {
+   "text": "his",
+   "time": 69.8,
+   "weight": 1.0,
+   "note_time": 69.4
+  },
+  {
+   "text": "The",
+   "time": 71.98,
+   "weight": 0.96,
+   "note_time": 72.83
+  },
+  {
+   "text": "sea",
+   "time": 73.12,
+   "weight": 1.0,
+   "note_time": 73.01
+  },
+  {
+   "text": "is",
+   "time": 73.98,
+   "weight": 1.0,
+   "note_time": 73.55
+  },
+  {
+   "text": "his",
+   "time": 74.34,
+   "weight": 1.0,
+   "note_time": 74.46
+  },
+  {
+   "text": "for",
+   "time": 75.14,
+   "weight": 1.0,
+   "note_time": 75.18
+  },
+  {
+   "text": "he",
+   "time": 75.36,
+   "weight": 1.0,
+   "note_time": 75.9
+  },
+  {
+   "text": "made",
+   "time": 76.1,
+   "weight": 1.0,
+   "note_time": 76.08
+  },
+  {
+   "text": "it",
+   "time": 77.3,
+   "weight": 1.0,
+   "note_time": 76.45
+  },
+  {
+   "text": "His",
+   "time": 77.98,
+   "weight": 0.98,
+   "note_time": 77.71
+  },
+  {
+   "text": "hands",
+   "time": 78.68,
+   "weight": 1.0,
+   "note_time": 78.8
+  },
+  {
+   "text": "formed",
+   "time": 79.22,
+   "weight": 0.97,
+   "note_time": 79.16
+  },
+  {
+   "text": "the",
+   "time": 80.0,
+   "weight": 1.0,
+   "note_time": 79.52
+  },
+  {
+   "text": "dry",
+   "time": 80.5,
+   "weight": 1.0,
+   "note_time": 80.06
+  },
+  {
+   "text": "land",
+   "time": 81.08,
+   "weight": 1.0,
+   "note_time": 80.6
+  },
+  {
+   "text": "Let",
+   "time": 81.62,
+   "weight": 0.22,
+   "note_time": 83.13
+  },
+  {
+   "text": "us",
+   "time": 84.0,
+   "weight": 0.99,
+   "note_time": 83.49
+  },
+  {
+   "text": "come",
+   "time": 84.52,
+   "weight": 0.9,
+   "note_time": 83.86
+  },
+  {
+   "text": "be",
+   "time": 84.84,
+   "weight": 0.99,
+   "note_time": 84.58
+  },
+  {
+   "text": "fore",
+   "time": 85.19,
+   "weight": 0.99,
+   "note_time": 85.12
+  },
+  {
+   "text": "him",
+   "time": 85.82,
+   "weight": 0.91,
+   "note_time": 85.66
+  },
+  {
+   "text": "with",
+   "time": 86.66,
+   "weight": 0.99,
+   "note_time": 86.02
+  },
+  {
+   "text": "thanks",
+   "time": 87.06,
+   "weight": 1.0,
+   "note_time": 86.39
+  },
+  {
+   "text": "giv",
+   "time": 87.34,
+   "weight": 1.0,
+   "note_time": 86.75
+  },
+  {
+   "text": "ing",
+   "time": 87.62,
+   "weight": 1.0,
+   "note_time": 86.93
+  },
+  {
+   "text": "Shout",
+   "time": 87.9,
+   "weight": 0.34,
+   "note_time": 88.92
+  },
+  {
+   "text": "to",
+   "time": 89.84,
+   "weight": 1.0,
+   "note_time": 89.28
+  },
+  {
+   "text": "him",
+   "time": 90.22,
+   "weight": 0.99,
+   "note_time": 89.64
+  },
+  {
+   "text": "with",
+   "time": 90.72,
+   "weight": 0.99,
+   "note_time": 90.36
+  },
+  {
+   "text": "songs",
+   "time": 91.5,
+   "weight": 0.99,
+   "note_time": 91.08
+  },
+  {
+   "text": "of",
+   "time": 92.1,
+   "weight": 1.0,
+   "note_time": 91.81
+  },
+  {
+   "text": "praise",
+   "time": 92.84,
+   "weight": 1.0,
+   "note_time": 92.53
+  },
+  {
+   "text": "For",
+   "time": 94.86,
+   "weight": 0.98,
+   "note_time": 94.7
+  },
+  {
+   "text": "the",
+   "time": 95.66,
+   "weight": 1.0,
+   "note_time": 95.06
+  },
+  {
+   "text": "Lord",
+   "time": 96.04,
+   "weight": 0.99,
+   "note_time": 95.42
+  },
+  {
+   "text": "is",
+   "time": 96.56,
+   "weight": 1.0,
+   "note_time": 96.14
+  },
+  {
+   "text": "a",
+   "time": 97.3,
+   "weight": 0.95,
+   "note_time": 96.51
+  },
+  {
+   "text": "great",
+   "time": 97.5,
+   "weight": 0.99,
+   "note_time": 96.69
+  },
+  {
+   "text": "God",
+   "time": 97.8,
+   "weight": 1.0,
+   "note_time": 97.23
+  },
+  {
+   "text": "A",
+   "time": 98.46,
+   "weight": 0.35,
+   "note_time": 98.13
+  },
+  {
+   "text": "great",
+   "time": 98.98,
+   "weight": 0.99,
+   "note_time": 98.31
+  },
+  {
+   "text": "King",
+   "time": 99.42,
+   "weight": 1.0,
+   "note_time": 99.04
+  },
+  {
+   "text": "a",
+   "time": 100.12,
+   "weight": 1.0,
+   "note_time": 99.58
+  },
+  {
+   "text": "bove",
+   "time": 100.42,
+   "weight": 1.0,
+   "note_time": 99.76
+  },
+  {
+   "text": "all",
+   "time": 100.72,
+   "weight": 1.0,
+   "note_time": 100.3
+  },
+  {
+   "text": "gods",
+   "time": 101.4,
+   "weight": 0.4,
+   "note_time": 100.84
+  },
+  {
+   "text": "Come",
+   "time": 106.98,
+   "weight": 0.35,
+   "note_time": 106.99
+  },
+  {
+   "text": "let",
+   "time": 108.28,
+   "weight": 1.0,
+   "note_time": 107.71
+  },
+  {
+   "text": "us",
+   "time": 108.76,
+   "weight": 1.0,
+   "note_time": 107.89
+  },
+  {
+   "text": "sing",
+   "time": 109.14,
+   "weight": 1.0,
+   "note_time": 108.25
+  },
+  {
+   "text": "for",
+   "time": 109.5,
+   "weight": 0.86,
+   "note_time": 108.43
+  },
+  {
+   "text": "joy",
+   "time": 110.6,
+   "weight": 0.98,
+   "note_time": 109.52
+  },
+  {
+   "text": "to",
+   "time": 110.96,
+   "weight": 1.0,
+   "note_time": 109.88
+  },
+  {
+   "text": "the",
+   "time": 111.66,
+   "weight": 1.0,
+   "note_time": 110.6
+  },
+  {
+   "text": "Lord",
+   "time": 111.96,
+   "weight": 1.0,
+   "note_time": 110.78
+  },
+  {
+   "text": "Shout",
+   "time": 112.42,
+   "weight": 0.77,
+   "note_time": 111.14
+  },
+  {
+   "text": "a",
+   "time": 113.5,
+   "weight": 0.96,
+   "note_time": 111.33
+  },
+  {
+   "text": "loud",
+   "time": 113.72,
+   "weight": 0.96,
+   "note_time": 112.41
+  },
+  {
+   "text": "to",
+   "time": 113.94,
+   "weight": 0.99,
+   "note_time": 112.59
+  },
+  {
+   "text": "the",
+   "time": 114.64,
+   "weight": 1.0,
+   "note_time": 112.77
+  },
+  {
+   "text": "rock",
+   "time": 114.92,
+   "weight": 0.47,
+   "note_time": 113.49
+  },
+  {
+   "text": "of",
+   "time": 115.38,
+   "weight": 1.0,
+   "note_time": 113.86
+  },
+  {
+   "text": "our",
+   "time": 115.72,
+   "weight": 0.99,
+   "note_time": 114.04
+  },
+  {
+   "text": "sal",
+   "time": 115.96,
+   "weight": 0.4,
+   "note_time": 114.22
+  },
+  {
+   "text": "va",
+   "time": 116.31,
+   "weight": 0.4,
+   "note_time": 114.58
+  },
+  {
+   "text": "tion",
+   "time": 116.66,
+   "weight": 0.4,
+   "note_time": 114.76
+  },
+  {
+   "text": "Let",
+   "time": 120.92,
+   "weight": 0.97,
+   "note_time": 115.12
+  },
+  {
+   "text": "us",
+   "time": 121.92,
+   "weight": 1.0,
+   "note_time": 115.66
+  },
+  {
+   "text": "come",
+   "time": 122.42,
+   "weight": 0.99,
+   "note_time": 116.75
+  },
+  {
+   "text": "be",
+   "time": 122.74,
+   "weight": 1.0,
+   "note_time": 120.72
+  },
+  {
+   "text": "fore",
+   "time": 123.09,
+   "weight": 1.0,
+   "note_time": 121.08
+  },
+  {
+   "text": "him",
+   "time": 123.68,
+   "weight": 0.85,
+   "note_time": 121.45
+  },
+  {
+   "text": "with",
+   "time": 124.46,
+   "weight": 0.99,
+   "note_time": 122.17
+  },
+  {
+   "text": "thanks",
+   "time": 124.86,
+   "weight": 1.0,
+   "note_time": 122.71
+  },
+  {
+   "text": "giv",
+   "time": 125.14,
+   "weight": 1.0,
+   "note_time": 122.89
+  },
+  {
+   "text": "ing",
+   "time": 125.42,
+   "weight": 1.0,
+   "note_time": 123.25
+  },
+  {
+   "text": "Shout",
+   "time": 126.74,
+   "weight": 0.99,
+   "note_time": 123.61
+  },
+  {
+   "text": "to",
+   "time": 127.74,
+   "weight": 1.0,
+   "note_time": 123.98
+  },
+  {
+   "text": "him",
+   "time": 128.04,
+   "weight": 1.0,
+   "note_time": 124.34
+  },
+  {
+   "text": "with",
+   "time": 128.54,
+   "weight": 0.99,
+   "note_time": 124.52
+  },
+  {
+   "text": "songs",
+   "time": 129.3,
+   "weight": 0.99,
+   "note_time": 126.51
+  },
+  {
+   "text": "of",
+   "time": 129.86,
+   "weight": 1.0,
+   "note_time": 126.87
+  },
+  {
+   "text": "praise",
+   "time": 130.7,
+   "weight": 1.0,
+   "note_time": 127.23
+  },
+  {
+   "text": "For",
+   "time": 131.54,
+   "weight": 0.12,
+   "note_time": 127.95
+  },
+  {
+   "text": "the",
+   "time": 133.4,
+   "weight": 0.99,
+   "note_time": 128.67
+  },
+  {
+   "text": "Lord",
+   "time": 133.86,
+   "weight": 0.98,
+   "note_time": 129.4
+  },
+  {
+   "text": "is",
+   "time": 134.38,
+   "weight": 1.0,
+   "note_time": 130.12
+  },
+  {
+   "text": "a",
+   "time": 135.1,
+   "weight": 0.98,
+   "note_time": 132.29
+  },
+  {
+   "text": "great",
+   "time": 135.32,
+   "weight": 0.99,
+   "note_time": 132.65
+  },
+  {
+   "text": "God",
+   "time": 135.62,
+   "weight": 1.0,
+   "note_time": 133.01
+  },
+  {
+   "text": "A",
+   "time": 136.46,
+   "weight": 0.89,
+   "note_time": 133.73
+  },
+  {
+   "text": "great",
+   "time": 136.9,
+   "weight": 1.0,
+   "note_time": 134.1
+  },
+  {
+   "text": "King",
+   "time": 137.22,
+   "weight": 1.0,
+   "note_time": 134.28
+  },
+  {
+   "text": "a",
+   "time": 137.86,
+   "weight": 1.0,
+   "note_time": 134.46
+  },
+  {
+   "text": "bove",
+   "time": 138.17,
+   "weight": 1.0,
+   "note_time": 134.82
+  },
+  {
+   "text": "all",
+   "time": 138.48,
+   "weight": 1.0,
+   "note_time": 135.72
+  },
+  {
+   "text": "gods",
+   "time": 139.28,
+   "weight": 0.99,
+   "note_time": 135.9
+  },
+  {
+   "text": "Shout",
+   "time": 139.68,
+   "weight": 0.0,
+   "note_time": 136.63
+  },
+  {
+   "text": "to",
+   "time": 140.08,
+   "weight": 0.0,
+   "note_time": 137.17
+  },
+  {
+   "text": "him",
+   "time": 140.48,
+   "weight": 0.0,
+   "note_time": 137.35
+  },
+  {
+   "text": "with",
+   "time": 140.88,
+   "weight": 0.0,
+   "note_time": 137.89
+  },
+  {
+   "text": "songs",
+   "time": 141.28,
+   "weight": 0.0,
+   "note_time": 138.07
+  },
+  {
+   "text": "of",
+   "time": 141.68,
+   "weight": 0.0,
+   "note_time": 138.43
+  },
+  {
+   "text": "praise",
+   "time": 142.08,
+   "weight": 0.0,
+   "note_time": 138.8
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "17 of 23 lyric lines sit clearly on their notes; 6 are uncertain and printed in grey italics."
+}

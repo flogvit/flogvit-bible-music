@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-10-17-jazz",
+  "title": "Faith Comes From Hearing",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 10,
+    "verseStart": 17,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 10,
+      "verseStart": 17,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female vocal, warm and soulful, upright bass, brushed snare, trumpet, piano, Rhodes electric piano, intimate and reflective, 80 BPM",
+    "lyrics": "[Verse]\nHow can they call on the one unknown\nHow can they trust a face not seen\nThe bridge of belief must be drawn\nBefore the voice is ever heard\n\n[Pre-Chorus]\nHow can they believe without a sound\nWithout a preacher standing near\nHow can they hear if no one speaks\nUnless the messenger is sent\n\n[Chorus]\nSo faith comes from hearing clearly now\nAnd hearing comes through the word of Christ\nThe voice has gone out to the earth\nThe words to the ends of the world\n\n[Verse]\nHow beautiful the feet that run\nCarrying the good news to the gate\nNot all have obeyed the call\nBut the message rings with holy weight\n\n[Pre-Chorus]\nHow can they believe without a sound\nWithout a preacher standing near\nHow can they hear if no one speaks\nUnless the messenger is sent\n\n[Chorus]\nSo faith comes from hearing clearly now\nAnd hearing comes through the word of Christ\nThe voice has gone out to the earth\nThe words to the ends of the world\n\n[Bridge]\nI will make you jealous by strangers\nBy a nation without understanding\nI was found by those not looking\nI revealed myself to the blind\n\n[Chorus]\nSo faith comes from hearing clearly now\nAnd hearing comes through the word of Christ\nThe voice has gone out to the earth\nThe words to the ends of the world\n\n[Outro]\nFaith comes from hearing\nHearing through the word",
+    "cot": "full",
+    "seed": 20211
+  }
+}

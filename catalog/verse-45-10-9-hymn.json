@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-10-9-hymn",
+  "title": "Believe and Confess",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 10,
+    "verseStart": 9,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 10,
+      "verseStart": 9,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo with soft choir, piano, acoustic guitar, strings, gentle percussion, reverent and hopeful, 70 BPM",
+    "lyrics": "[Verse]\nThe word is near you, in your mouth and in your heart\nNot climbing up to heaven or down into the abyss\nWe do not need to reach for Christ from the dead\nThe faith we proclaim is close and clearly set\n\n[Chorus]\nConfess with your mouth that Jesus is Lord\nBelieve in your heart that God raised him from the dead\nYou will be saved, for this is the way\nRighteousness comes to those who believe and say\n\n[Verse]\nWith the heart one believes, resulting in righteousness\nWith the mouth one confesses, resulting in salvation\nNo one who believes in him will be put to shame\nThe Lord is rich with gifts, calling out the same\n\n[Chorus]\nConfess with your mouth that Jesus is Lord\nBelieve in your heart that God raised him from the dead\nYou will be saved, for this is the way\nRighteousness comes to those who believe and say\n\n[Bridge]\nNo distinction between the Jew and the Greek\nThe same Lord is Lord of all, as the Scripture speaks\nHe pours out his riches on all who call\nFaithful is the Lord, standing by his hall\n\n[Chorus]\nConfess with your mouth that Jesus is Lord\nBelieve in your heart that God raised him from the dead\nYou will be saved, for this is the way\nRighteousness comes to those who believe and say\n\n[Outro]\nEveryone who calls on the name of the Lord\nWill be saved, for faith is the word",
+    "cot": "full",
+    "seed": 20212
+  }
+}

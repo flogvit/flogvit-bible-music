@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-12-17-country",
+  "title": "Live at peace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 17,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "kjerlighet",
+      "ydmykhet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, solo, acoustic guitar, steel guitar, fiddle, banjo, warm and earnest mood, 85 BPM",
+    "lyrics": "[Verse]\nRepay no one evil for evil\nGive careful thought to what is honorable\nDo not be wise in your own eyes\nAssociate with the lowly, stay humble\n[Chorus]\nIf it is possible, as far as it depends on you\nLive at peace with everyone\nDo not be overcome by evil\nOvercome evil with good\n[Verse]\nBless those who persecute you\nBless them and do not curse them\nRejoice with those who rejoice\nWeep with those who weep, be one\n[Chorus]\nIf it is possible, as far as it depends on you\nLive at peace with everyone\nDo not be overcome by evil\nOvercome evil with good\n[Verse]\nIf your enemy is hungry, feed him\nIf he is thirsty, give him something to drink\nYou will heap burning coals on his head\nLeave room for God's wrath, dear friends\n[Chorus]\nIf it is possible, as far as it depends on you\nLive at peace with everyone\nDo not be overcome by evil\nOvercome evil with good\n[Bridge]\nVengeance is mine, I will repay\nSays the Lord, the only judge\nDo not take revenge, dear friends\nTrust in His perfect, holy love\n[Outro]\nLive at peace with everyone\nOvercome evil with good",
+    "cot": "full",
+    "seed": 20215
+  }
+}

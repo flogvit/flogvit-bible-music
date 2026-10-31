@@ -1,0 +1,44 @@
+{
+  "id": "verse-45-12-2-acoustic",
+  "title": "Be Transformed",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, gentle and reflective, acoustic guitar, soft piano, cello, light percussion, warm and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nSo I urge you by the mercies of God\nOffer your bodies as a living sacrifice\nHoly and pleasing to Him in spirit\nThis is your true spiritual worship\n\n[Chorus]\nDo not be conformed to this age\nBe transformed by the renewing of your mind\nSo that you can discern His will\nWhat is good and pleasing and perfect\n\n[Verse]\nDo not think of yourself more highly\nThan you ought with sober judgment\nAccording to the measure of faith\nGod has assigned to each of us\n\n[Chorus]\nDo not be conformed to this age\nBe transformed by the renewing of your mind\nSo that you can discern His will\nWhat is good and pleasing and perfect\n\n[Bridge]\nJust as in one body we have many parts\nNot all the parts have the same function\nWe are one body in Christ\nEach of us belongs to all the others\n\n[Outro]\nBe transformed by the renewing of your mind\nDiscern what is good and pleasing and perfect",
+    "cot": "full",
+    "seed": 20216
+  }
+}

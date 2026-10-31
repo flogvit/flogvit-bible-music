@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-73-26-worship",
+  "title": "Rock of My Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 73,
+    "verseStart": 26,
+    "verseEnd": 26
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 73,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "love"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, piano, strings, acoustic guitar, soft percussion, intimate and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nI am always with you held by your hand\nGuided by counsel toward the promised land\nIn the heaven above I have no one else\nOn the earth below you are my wealth\n\n[Chorus]\nMy flesh and my heart may fail\nBut God is the rock of my heart\nMy portion forever remains\nThe strength within my frail\n\n[Verse]\nThose who are far from you will perish\nDestroying all who are unfaithful\nBut as for me it is good to be near\nRefuge in the Lord I find\n\n[Chorus]\nMy flesh and my heart may fail\nBut God is the rock of my heart\nMy portion forever remains\nThe strength within my frail\n\n[Bridge]\nI tell of all your works with joy\nNear God my spirit finds its home\nNo fear remains when I am close\nYour light upon the world is shown\n\n[Chorus]\nMy flesh and my heart may fail\nBut God is the rock of my heart\nMy portion forever remains\nThe strength within my frail\n\n[Outro]\nGod is my portion forever\nMy rock and my strength",
+    "cot": "full",
+    "seed": 20208
+  }
+}

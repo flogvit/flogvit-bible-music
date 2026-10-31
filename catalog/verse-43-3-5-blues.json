@@ -1,0 +1,45 @@
+{
+  "id": "verse-43-3-5-blues",
+  "title": "Born of Water and Spirit",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 3,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soulful voice, solo, acoustic guitar, upright bass, piano, organ, slow blues, 75 BPM",
+    "lyrics": "[Verse]\nHe came to Jesus by night\nAsked how a man can be born new\nNo signs like yours without God\nBut how can this be done for you\n\n[Chorus]\nUnless someone is born of water and the Spirit\nHe cannot enter the kingdom of God\nWhat is born of the flesh is flesh\nAnd what is born of the Spirit is spirit\n\n[Verse]\nI told you truly and again\nYou must be born from above\nDo not be astonished at this word\nThe wind blows where it wills, no love lost\n\n[Chorus]\nUnless someone is born of water and the Spirit\nHe cannot enter the kingdom of God\nWhat is born of the flesh is flesh\nAnd what is born of the Spirit is spirit\n\n[Bridge]\nYou hear its sound but not its source\nWhere it comes from or goes, unknown\nSo it is with everyone\nBorn of the Spirit, standing alone\n\n[Chorus]\nUnless someone is born of water and the Spirit\nHe cannot enter the kingdom of God\nWhat is born of the flesh is flesh\nAnd what is born of the Spirit is spirit\n\n[Outro]\nHow can this be, I ask\nBorn of water and the Spirit",
+    "cot": "full",
+    "seed": 20209
+  }
+}

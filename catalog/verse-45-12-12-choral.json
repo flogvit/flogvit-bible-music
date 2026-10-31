@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-12-12-choral",
+  "title": "Rejoice in Hope",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "kjerlighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm choir, acoustic guitar, piano, strings, cello, hopeful and gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nLet love be genuine and true\nHate what is evil, hold fast to good\nBe devoted to one another\nOutdo one another in honor\n\n[Verse]\nNever let your zeal grow slack\nBe fervent in spirit\nServe the Lord with all your heart\n\n[Chorus]\nRejoice in hope\nEndure in affliction\nPersevere in prayer\n\n[Verse]\nShare with the saints in their needs\nPursue hospitality always\nBless those who persecute you\nBless them and do not curse them\n\n[Chorus]\nRejoice in hope\nEndure in affliction\nPersevere in prayer\n\n[Bridge]\nRejoice with those who rejoice\nWeep with those who weep\nUnited in faith\n\n[Outro]\nRejoice in hope\nPersevere in prayer",
+    "cot": "full",
+    "seed": 20213
+  }
+}

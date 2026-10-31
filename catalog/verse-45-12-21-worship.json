@@ -1,0 +1,43 @@
+{
+  "id": "verse-45-12-21-worship",
+  "title": "Overcome Evil With Good",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 21,
+    "verseEnd": 21
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and reflective, soft piano, acoustic guitar, cello, strings, steady worship rhythm, 80 BPM",
+    "lyrics": "[Verse]\nLive at peace with everyone if you can\nLeave room for the wrath that God takes\nVengeance is mine, I will repay\nThe Lord has spoken, we obey\n\n[Pre-Chorus]\nIf your enemy is hungry, feed him\nIf he is thirsty, give him drink\nDo this and you will heap\nBurning coals upon his head\n\n[Chorus]\nDo not be overcome by evil\nBut overcome evil with good\nDo not be overcome by evil\nBut overcome evil with good\n\n[Verse]\nAs far as it depends on you\nChoose the path of peace today\nDo not take revenge, dear friends\nTrust the judgment God will pay\n\n[Chorus]\nDo not be overcome by evil\nBut overcome evil with good\nDo not be overcome by evil\nBut overcome evil with good\n\n[Bridge]\nFeed the hungry, give the drink\nLet the burning coals arise\nEvil cannot win the war\nWhen your response is love and grace\n\n[Chorus]\nDo not be overcome by evil\nBut overcome evil with good\nDo not be overcome by evil\nBut overcome evil with good",
+    "cot": "full",
+    "seed": 20217
+  }
+}

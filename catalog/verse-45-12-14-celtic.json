@@ -1,0 +1,42 @@
+{
+  "id": "verse-45-12-14-celtic",
+  "title": "Bless Those Who Persecute",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 14,
+    "verseEnd": 15
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 14,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with soft backing choir, Celtic harp, tin whistle, bodhran, uilleann pipes, warm and solemn, 78 BPM",
+    "lyrics": "[Verse]\nNever let your zeal grow slack\nBe fervent in spirit today\nServe the Lord with steady hand\nIn the light of His grace\n\n[Verse]\nShare with the saints in their need\nPursue hospitality for all\nLive in harmony with one another\nDo not be arrogant at all\n\n[Chorus]\nBless those who persecute you\nBless them and do not curse\nRejoice with those who rejoice\nWeep with those who weep\n\n[Verse]\nRepay no one evil for evil\nGive thought to what is honorable\nIf it is possible for you\nLive at peace with everyone\n\n[Chorus]\nBless those who persecute you\nBless them and do not curse\nRejoice with those who rejoice\nWeep with those who weep\n\n[Bridge]\nAssociate with the lowly ones\nDo not be wise in your own eyes\nEndure in affliction always\nPersevere in prayer\n\n[Outro]\nLive at peace with everyone\nBless them and do not curse",
+    "cot": "full",
+    "seed": 20214
+  }
+}

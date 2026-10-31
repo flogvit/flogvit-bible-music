@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-10-11-pop",
+  "title": "The Word Is Near",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 10,
+    "verseStart": 11,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 10,
+      "verseStart": 11,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, soft piano, acoustic guitar, cello, light percussion, hopeful mood, 75 BPM",
+    "lyrics": "[Verse]\nWhat does it say to you and me\nThe word is near, so freely seen\nIn your mouth and in your heart\nThe word of faith is not apart\n\n[Verse]\nConfess with mouth that Jesus reigns\nBelieve in heart of God's domain\nHe raised Him up from death and night\nSo that we may see the light\n\n[Chorus]\nNo one who believes in Him will be put to shame\nThe same Lord is Lord of all, He knows our name\nHe pours out riches on those who call on Him\nEveryone who calls on the Lord will be saved\n\n[Verse]\nNo distinction between Jew and Greek\nThe Lord is one, the Lord we seek\nHe is Lord of all without a doubt\nHis grace is here, His power is out\n\n[Chorus]\nNo one who believes in Him will be put to shame\nThe same Lord is Lord of all, He knows our name\nHe pours out riches on those who call on Him\nEveryone who calls on the Lord will be saved\n\n[Bridge]\nHow can they call if they have not believed\nHow can they believe if not received\nHow can they hear without someone preaching\nHow can they preach without sending\n\n[Chorus]\nNo one who believes in Him will be put to shame\nThe same Lord is Lord of all, He knows our name\nHe pours out riches on those who call on Him\nEveryone who calls on the Lord will be saved\n\n[Outro]\nHow beautiful are the feet that bring news\nOf the Lord who is faithful and true",
+    "cot": "full",
+    "seed": 20210
+  }
+}

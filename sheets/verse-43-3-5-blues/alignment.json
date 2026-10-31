@@ -1,0 +1,1632 @@
+{
+ "id": "verse-43-3-5-blues",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-3-5-blues",
+ "offset_seconds": -8.600000000000072,
+ "words_heard": 189,
+ "words": 193,
+ "lines": [
+  {
+   "text": "He came to Jesus by night",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Asked how a man can be born new",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "No signs like yours without God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But how can this be done for you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Unless someone is born of water and the Spirit",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He cannot enter the kingdom of God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "What is born of the flesh is flesh",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.58,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And what is born of the Spirit is spirit",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I told you truly and again",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You must be born from above",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be astonished at this word",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The wind blows where it wills, no love lost",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Unless someone is born of water and the Spirit",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He cannot enter the kingdom of God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.68,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "What is born of the flesh is flesh",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.56,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And what is born of the Spirit is spirit",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You hear its sound but not its source",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.3,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Where it comes from or goes, unknown",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So it is with everyone",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.9,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Born of the Spirit, standing alone",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Unless someone is born of water and the Spirit",
+   "heard": 9,
+   "words": 9,
+   "error_s": 3.16,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He cannot enter the kingdom of God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.3,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "What is born of the flesh is flesh",
+   "heard": 8,
+   "words": 8,
+   "error_s": 3.84,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And what is born of the Spirit is spirit",
+   "heard": 8,
+   "words": 9,
+   "error_s": 6.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "How can this be, I ask",
+   "heard": 4,
+   "words": 6,
+   "error_s": 6.4,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Born of water and the Spirit",
+   "heard": 6,
+   "words": 6,
+   "error_s": 7.14,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "He",
+   "time": 19.08,
+   "weight": 0.71,
+   "note_time": 19.2
+  },
+  {
+   "text": "came",
+   "time": 20.3,
+   "weight": 0.99,
+   "note_time": 20.0
+  },
+  {
+   "text": "to",
+   "time": 20.88,
+   "weight": 1.0,
+   "note_time": 20.2
+  },
+  {
+   "text": "Je",
+   "time": 21.22,
+   "weight": 0.99,
+   "note_time": 20.4
+  },
+  {
+   "text": "sus",
+   "time": 21.56,
+   "weight": 0.99,
+   "note_time": 21.2
+  },
+  {
+   "text": "by",
+   "time": 21.9,
+   "weight": 0.35,
+   "note_time": 22.0
+  },
+  {
+   "text": "night",
+   "time": 23.98,
+   "weight": 0.95,
+   "note_time": 24.8
+  },
+  {
+   "text": "Asked",
+   "time": 24.58,
+   "weight": 0.34,
+   "note_time": 25.2
+  },
+  {
+   "text": "how",
+   "time": 27.08,
+   "weight": 0.97,
+   "note_time": 25.6
+  },
+  {
+   "text": "a",
+   "time": 27.22,
+   "weight": 0.99,
+   "note_time": 25.8
+  },
+  {
+   "text": "man",
+   "time": 27.48,
+   "weight": 1.0,
+   "note_time": 27.8
+  },
+  {
+   "text": "can",
+   "time": 28.06,
+   "weight": 0.99,
+   "note_time": 28.0
+  },
+  {
+   "text": "be",
+   "time": 28.8,
+   "weight": 1.0,
+   "note_time": 28.4
+  },
+  {
+   "text": "born",
+   "time": 29.22,
+   "weight": 0.99,
+   "note_time": 31.8
+  },
+  {
+   "text": "new",
+   "time": 30.26,
+   "weight": 0.82,
+   "note_time": 32.4
+  },
+  {
+   "text": "No",
+   "time": 30.88,
+   "weight": 0.37,
+   "note_time": 32.6
+  },
+  {
+   "text": "signs",
+   "time": 33.3,
+   "weight": 0.97,
+   "note_time": 33.0
+  },
+  {
+   "text": "like",
+   "time": 33.64,
+   "weight": 0.99,
+   "note_time": 33.2
+  },
+  {
+   "text": "yours",
+   "time": 34.18,
+   "weight": 0.64,
+   "note_time": 34.4
+  },
+  {
+   "text": "with",
+   "time": 34.62,
+   "weight": 0.33,
+   "note_time": 34.6
+  },
+  {
+   "text": "out",
+   "time": 34.97,
+   "weight": 0.33,
+   "note_time": 34.8
+  },
+  {
+   "text": "God",
+   "time": 36.74,
+   "weight": 1.0,
+   "note_time": 36.8
+  },
+  {
+   "text": "But",
+   "time": 39.14,
+   "weight": 0.15,
+   "note_time": 39.6
+  },
+  {
+   "text": "how",
+   "time": 40.3,
+   "weight": 0.99,
+   "note_time": 40.0
+  },
+  {
+   "text": "can",
+   "time": 40.6,
+   "weight": 1.0,
+   "note_time": 40.4
+  },
+  {
+   "text": "this",
+   "time": 41.18,
+   "weight": 1.0,
+   "note_time": 40.8
+  },
+  {
+   "text": "be",
+   "time": 41.44,
+   "weight": 1.0,
+   "note_time": 41.2
+  },
+  {
+   "text": "done",
+   "time": 41.68,
+   "weight": 1.0,
+   "note_time": 41.4
+  },
+  {
+   "text": "for",
+   "time": 42.08,
+   "weight": 0.99,
+   "note_time": 42.0
+  },
+  {
+   "text": "you",
+   "time": 43.22,
+   "weight": 0.97,
+   "note_time": 44.0
+  },
+  {
+   "text": "Un",
+   "time": 44.48,
+   "weight": 0.81,
+   "note_time": 44.4
+  },
+  {
+   "text": "less",
+   "time": 44.83,
+   "weight": 0.81,
+   "note_time": 44.8
+  },
+  {
+   "text": "some",
+   "time": 45.64,
+   "weight": 0.88,
+   "note_time": 45.2
+  },
+  {
+   "text": "one",
+   "time": 45.97,
+   "weight": 0.88,
+   "note_time": 46.0
+  },
+  {
+   "text": "is",
+   "time": 46.3,
+   "weight": 1.0,
+   "note_time": 46.2
+  },
+  {
+   "text": "born",
+   "time": 46.9,
+   "weight": 0.98,
+   "note_time": 46.8
+  },
+  {
+   "text": "of",
+   "time": 47.3,
+   "weight": 0.99,
+   "note_time": 47.2
+  },
+  {
+   "text": "wa",
+   "time": 48.5,
+   "weight": 0.99,
+   "note_time": 47.4
+  },
+  {
+   "text": "ter",
+   "time": 48.85,
+   "weight": 0.99,
+   "note_time": 47.6
+  },
+  {
+   "text": "and",
+   "time": 49.22,
+   "weight": 0.89,
+   "note_time": 47.8
+  },
+  {
+   "text": "the",
+   "time": 49.62,
+   "weight": 0.95,
+   "note_time": 50.0
+  },
+  {
+   "text": "Spir",
+   "time": 49.96,
+   "weight": 0.89,
+   "note_time": 50.4
+  },
+  {
+   "text": "it",
+   "time": 50.16,
+   "weight": 0.89,
+   "note_time": 50.8
+  },
+  {
+   "text": "He",
+   "time": 50.36,
+   "weight": 0.19,
+   "note_time": 51.2
+  },
+  {
+   "text": "can",
+   "time": 52.32,
+   "weight": 0.97,
+   "note_time": 52.0
+  },
+  {
+   "text": "not",
+   "time": 52.65,
+   "weight": 0.97,
+   "note_time": 52.2
+  },
+  {
+   "text": "en",
+   "time": 52.98,
+   "weight": 1.0,
+   "note_time": 52.4
+  },
+  {
+   "text": "ter",
+   "time": 53.33,
+   "weight": 1.0,
+   "note_time": 53.6
+  },
+  {
+   "text": "the",
+   "time": 53.88,
+   "weight": 0.99,
+   "note_time": 54.0
+  },
+  {
+   "text": "kin",
+   "time": 54.8,
+   "weight": 0.7,
+   "note_time": 56.6
+  },
+  {
+   "text": "gdom",
+   "time": 55.13,
+   "weight": 0.7,
+   "note_time": 56.8
+  },
+  {
+   "text": "of",
+   "time": 55.46,
+   "weight": 1.0,
+   "note_time": 57.0
+  },
+  {
+   "text": "God",
+   "time": 56.2,
+   "weight": 1.0,
+   "note_time": 57.2
+  },
+  {
+   "text": "What",
+   "time": 56.6,
+   "weight": 0.37,
+   "note_time": 57.4
+  },
+  {
+   "text": "is",
+   "time": 58.78,
+   "weight": 1.0,
+   "note_time": 57.6
+  },
+  {
+   "text": "born",
+   "time": 59.26,
+   "weight": 1.0,
+   "note_time": 58.4
+  },
+  {
+   "text": "of",
+   "time": 59.78,
+   "weight": 1.0,
+   "note_time": 59.0
+  },
+  {
+   "text": "the",
+   "time": 60.84,
+   "weight": 0.99,
+   "note_time": 59.2
+  },
+  {
+   "text": "flesh",
+   "time": 60.98,
+   "weight": 1.0,
+   "note_time": 59.4
+  },
+  {
+   "text": "is",
+   "time": 61.38,
+   "weight": 0.93,
+   "note_time": 59.6
+  },
+  {
+   "text": "flesh",
+   "time": 62.44,
+   "weight": 1.0,
+   "note_time": 60.4
+  },
+  {
+   "text": "And",
+   "time": 64.18,
+   "weight": 0.15,
+   "note_time": 64.4
+  },
+  {
+   "text": "what",
+   "time": 65.3,
+   "weight": 0.98,
+   "note_time": 64.8
+  },
+  {
+   "text": "is",
+   "time": 65.6,
+   "weight": 1.0,
+   "note_time": 65.2
+  },
+  {
+   "text": "born",
+   "time": 65.92,
+   "weight": 0.99,
+   "note_time": 65.4
+  },
+  {
+   "text": "of",
+   "time": 66.4,
+   "weight": 0.99,
+   "note_time": 66.0
+  },
+  {
+   "text": "the",
+   "time": 67.26,
+   "weight": 1.0,
+   "note_time": 66.2
+  },
+  {
+   "text": "Spir",
+   "time": 67.74,
+   "weight": 0.9,
+   "note_time": 66.6
+  },
+  {
+   "text": "it",
+   "time": 67.91,
+   "weight": 0.9,
+   "note_time": 66.8
+  },
+  {
+   "text": "is",
+   "time": 68.08,
+   "weight": 0.99,
+   "note_time": 69.6
+  },
+  {
+   "text": "spir",
+   "time": 68.62,
+   "weight": 0.69,
+   "note_time": 70.0
+  },
+  {
+   "text": "it",
+   "time": 68.95,
+   "weight": 0.69,
+   "note_time": 70.4
+  },
+  {
+   "text": "I",
+   "time": 71.74,
+   "weight": 0.86,
+   "note_time": 72.4
+  },
+  {
+   "text": "told",
+   "time": 72.86,
+   "weight": 1.0,
+   "note_time": 73.2
+  },
+  {
+   "text": "you",
+   "time": 73.56,
+   "weight": 0.99,
+   "note_time": 73.4
+  },
+  {
+   "text": "tru",
+   "time": 74.0,
+   "weight": 0.99,
+   "note_time": 73.6
+  },
+  {
+   "text": "ly",
+   "time": 74.3,
+   "weight": 0.99,
+   "note_time": 75.6
+  },
+  {
+   "text": "and",
+   "time": 74.6,
+   "weight": 0.99,
+   "note_time": 76.0
+  },
+  {
+   "text": "a",
+   "time": 75.08,
+   "weight": 1.0,
+   "note_time": 76.4
+  },
+  {
+   "text": "gain",
+   "time": 75.36,
+   "weight": 1.0,
+   "note_time": 76.6
+  },
+  {
+   "text": "You",
+   "time": 75.64,
+   "weight": 0.38,
+   "note_time": 76.8
+  },
+  {
+   "text": "must",
+   "time": 77.88,
+   "weight": 1.0,
+   "note_time": 77.0
+  },
+  {
+   "text": "be",
+   "time": 78.44,
+   "weight": 1.0,
+   "note_time": 78.8
+  },
+  {
+   "text": "born",
+   "time": 78.84,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "from",
+   "time": 79.44,
+   "weight": 0.4,
+   "note_time": 79.6
+  },
+  {
+   "text": "a",
+   "time": 81.18,
+   "weight": 1.0,
+   "note_time": 83.0
+  },
+  {
+   "text": "bove",
+   "time": 81.53,
+   "weight": 1.0,
+   "note_time": 83.4
+  },
+  {
+   "text": "Do",
+   "time": 82.66,
+   "weight": 0.4,
+   "note_time": 84.2
+  },
+  {
+   "text": "not",
+   "time": 84.38,
+   "weight": 1.0,
+   "note_time": 84.4
+  },
+  {
+   "text": "be",
+   "time": 84.88,
+   "weight": 1.0,
+   "note_time": 85.2
+  },
+  {
+   "text": "as",
+   "time": 85.18,
+   "weight": 1.0,
+   "note_time": 85.4
+  },
+  {
+   "text": "ton",
+   "time": 85.47,
+   "weight": 1.0,
+   "note_time": 85.6
+  },
+  {
+   "text": "ished",
+   "time": 85.75,
+   "weight": 1.0,
+   "note_time": 85.8
+  },
+  {
+   "text": "at",
+   "time": 86.04,
+   "weight": 0.39,
+   "note_time": 86.0
+  },
+  {
+   "text": "this",
+   "time": 87.62,
+   "weight": 1.0,
+   "note_time": 88.0
+  },
+  {
+   "text": "word",
+   "time": 88.08,
+   "weight": 0.6,
+   "note_time": 88.4
+  },
+  {
+   "text": "The",
+   "time": 90.28,
+   "weight": 0.23,
+   "note_time": 90.8
+  },
+  {
+   "text": "wind",
+   "time": 91.48,
+   "weight": 0.89,
+   "note_time": 91.2
+  },
+  {
+   "text": "blows",
+   "time": 91.88,
+   "weight": 0.98,
+   "note_time": 91.6
+  },
+  {
+   "text": "where",
+   "time": 92.36,
+   "weight": 0.96,
+   "note_time": 92.0
+  },
+  {
+   "text": "it",
+   "time": 92.68,
+   "weight": 0.0,
+   "note_time": 92.4
+  },
+  {
+   "text": "wills,",
+   "time": 93.0,
+   "weight": 1.0,
+   "note_time": 92.6
+  },
+  {
+   "text": "no",
+   "time": 93.82,
+   "weight": 0.98,
+   "note_time": 93.2
+  },
+  {
+   "text": "love",
+   "time": 93.96,
+   "weight": 0.99,
+   "note_time": 94.8
+  },
+  {
+   "text": "lost",
+   "time": 94.44,
+   "weight": 1.0,
+   "note_time": 95.2
+  },
+  {
+   "text": "Un",
+   "time": 95.82,
+   "weight": 0.85,
+   "note_time": 95.6
+  },
+  {
+   "text": "less",
+   "time": 96.17,
+   "weight": 0.85,
+   "note_time": 96.0
+  },
+  {
+   "text": "some",
+   "time": 96.74,
+   "weight": 0.99,
+   "note_time": 96.4
+  },
+  {
+   "text": "one",
+   "time": 97.09,
+   "weight": 0.99,
+   "note_time": 97.2
+  },
+  {
+   "text": "is",
+   "time": 97.48,
+   "weight": 1.0,
+   "note_time": 97.4
+  },
+  {
+   "text": "born",
+   "time": 98.08,
+   "weight": 0.99,
+   "note_time": 98.0
+  },
+  {
+   "text": "of",
+   "time": 98.5,
+   "weight": 0.97,
+   "note_time": 98.4
+  },
+  {
+   "text": "wa",
+   "time": 99.64,
+   "weight": 1.0,
+   "note_time": 98.6
+  },
+  {
+   "text": "ter",
+   "time": 99.99,
+   "weight": 1.0,
+   "note_time": 98.8
+  },
+  {
+   "text": "and",
+   "time": 100.36,
+   "weight": 0.99,
+   "note_time": 99.0
+  },
+  {
+   "text": "the",
+   "time": 100.9,
+   "weight": 0.8,
+   "note_time": 101.2
+  },
+  {
+   "text": "Spir",
+   "time": 101.18,
+   "weight": 0.65,
+   "note_time": 101.6
+  },
+  {
+   "text": "it",
+   "time": 101.33,
+   "weight": 0.65,
+   "note_time": 102.0
+  },
+  {
+   "text": "He",
+   "time": 101.48,
+   "weight": 0.37,
+   "note_time": 102.4
+  },
+  {
+   "text": "can",
+   "time": 103.46,
+   "weight": 0.99,
+   "note_time": 103.2
+  },
+  {
+   "text": "not",
+   "time": 103.81,
+   "weight": 0.99,
+   "note_time": 103.4
+  },
+  {
+   "text": "en",
+   "time": 104.28,
+   "weight": 1.0,
+   "note_time": 103.6
+  },
+  {
+   "text": "ter",
+   "time": 104.63,
+   "weight": 1.0,
+   "note_time": 104.8
+  },
+  {
+   "text": "the",
+   "time": 105.1,
+   "weight": 0.99,
+   "note_time": 105.2
+  },
+  {
+   "text": "kin",
+   "time": 105.96,
+   "weight": 0.55,
+   "note_time": 107.8
+  },
+  {
+   "text": "gdom",
+   "time": 106.31,
+   "weight": 0.55,
+   "note_time": 108.0
+  },
+  {
+   "text": "of",
+   "time": 106.68,
+   "weight": 1.0,
+   "note_time": 108.2
+  },
+  {
+   "text": "God",
+   "time": 107.32,
+   "weight": 1.0,
+   "note_time": 108.4
+  },
+  {
+   "text": "What",
+   "time": 107.74,
+   "weight": 0.39,
+   "note_time": 108.6
+  },
+  {
+   "text": "is",
+   "time": 109.98,
+   "weight": 1.0,
+   "note_time": 108.8
+  },
+  {
+   "text": "born",
+   "time": 110.46,
+   "weight": 1.0,
+   "note_time": 109.6
+  },
+  {
+   "text": "of",
+   "time": 111.02,
+   "weight": 1.0,
+   "note_time": 110.2
+  },
+  {
+   "text": "the",
+   "time": 112.04,
+   "weight": 0.99,
+   "note_time": 110.4
+  },
+  {
+   "text": "flesh",
+   "time": 112.16,
+   "weight": 0.99,
+   "note_time": 110.6
+  },
+  {
+   "text": "is",
+   "time": 112.52,
+   "weight": 0.95,
+   "note_time": 110.8
+  },
+  {
+   "text": "flesh",
+   "time": 113.66,
+   "weight": 1.0,
+   "note_time": 111.6
+  },
+  {
+   "text": "And",
+   "time": 115.44,
+   "weight": 0.15,
+   "note_time": 115.8
+  },
+  {
+   "text": "what",
+   "time": 116.48,
+   "weight": 0.99,
+   "note_time": 116.0
+  },
+  {
+   "text": "is",
+   "time": 116.78,
+   "weight": 1.0,
+   "note_time": 116.2
+  },
+  {
+   "text": "born",
+   "time": 117.08,
+   "weight": 1.0,
+   "note_time": 116.6
+  },
+  {
+   "text": "of",
+   "time": 117.52,
+   "weight": 0.98,
+   "note_time": 117.2
+  },
+  {
+   "text": "the",
+   "time": 118.48,
+   "weight": 1.0,
+   "note_time": 117.4
+  },
+  {
+   "text": "Spir",
+   "time": 118.9,
+   "weight": 0.91,
+   "note_time": 117.8
+  },
+  {
+   "text": "it",
+   "time": 119.06,
+   "weight": 0.91,
+   "note_time": 118.2
+  },
+  {
+   "text": "is",
+   "time": 119.22,
+   "weight": 0.98,
+   "note_time": 120.8
+  },
+  {
+   "text": "spir",
+   "time": 119.76,
+   "weight": 0.61,
+   "note_time": 121.0
+  },
+  {
+   "text": "it",
+   "time": 120.09,
+   "weight": 0.61,
+   "note_time": 121.6
+  },
+  {
+   "text": "You",
+   "time": 122.8,
+   "weight": 0.77,
+   "note_time": 122.4
+  },
+  {
+   "text": "hear",
+   "time": 123.84,
+   "weight": 1.0,
+   "note_time": 122.6
+  },
+  {
+   "text": "its",
+   "time": 124.86,
+   "weight": 0.74,
+   "note_time": 122.8
+  },
+  {
+   "text": "sound",
+   "time": 125.14,
+   "weight": 1.0,
+   "note_time": 124.0
+  },
+  {
+   "text": "but",
+   "time": 125.64,
+   "weight": 0.81,
+   "note_time": 124.4
+  },
+  {
+   "text": "not",
+   "time": 125.96,
+   "weight": 0.99,
+   "note_time": 124.6
+  },
+  {
+   "text": "its",
+   "time": 126.22,
+   "weight": 0.99,
+   "note_time": 128.8
+  },
+  {
+   "text": "source",
+   "time": 126.82,
+   "weight": 0.78,
+   "note_time": 129.0
+  },
+  {
+   "text": "Where",
+   "time": 128.5,
+   "weight": 0.99,
+   "note_time": 129.2
+  },
+  {
+   "text": "it",
+   "time": 129.54,
+   "weight": 1.0,
+   "note_time": 130.0
+  },
+  {
+   "text": "comes",
+   "time": 129.84,
+   "weight": 1.0,
+   "note_time": 130.2
+  },
+  {
+   "text": "from",
+   "time": 130.5,
+   "weight": 1.0,
+   "note_time": 130.6
+  },
+  {
+   "text": "or",
+   "time": 131.22,
+   "weight": 0.73,
+   "note_time": 131.0
+  },
+  {
+   "text": "goes,",
+   "time": 131.38,
+   "weight": 1.0,
+   "note_time": 133.2
+  },
+  {
+   "text": "un",
+   "time": 131.7,
+   "weight": 0.93,
+   "note_time": 133.8
+  },
+  {
+   "text": "known",
+   "time": 132.05,
+   "weight": 0.93,
+   "note_time": 134.0
+  },
+  {
+   "text": "So",
+   "time": 136.4,
+   "weight": 0.99,
+   "note_time": 134.2
+  },
+  {
+   "text": "it",
+   "time": 137.44,
+   "weight": 1.0,
+   "note_time": 134.4
+  },
+  {
+   "text": "is",
+   "time": 137.84,
+   "weight": 1.0,
+   "note_time": 134.6
+  },
+  {
+   "text": "with",
+   "time": 138.3,
+   "weight": 1.0,
+   "note_time": 136.4
+  },
+  {
+   "text": "ev",
+   "time": 138.82,
+   "weight": 0.98,
+   "note_time": 137.0
+  },
+  {
+   "text": "ery",
+   "time": 139.04,
+   "weight": 0.98,
+   "note_time": 137.2
+  },
+  {
+   "text": "one",
+   "time": 139.26,
+   "weight": 0.98,
+   "note_time": 137.4
+  },
+  {
+   "text": "Born",
+   "time": 141.02,
+   "weight": 0.71,
+   "note_time": 142.2
+  },
+  {
+   "text": "of",
+   "time": 142.06,
+   "weight": 1.0,
+   "note_time": 142.4
+  },
+  {
+   "text": "the",
+   "time": 142.64,
+   "weight": 1.0,
+   "note_time": 142.8
+  },
+  {
+   "text": "Spir",
+   "time": 142.76,
+   "weight": 0.99,
+   "note_time": 143.2
+  },
+  {
+   "text": "it,",
+   "time": 142.91,
+   "weight": 0.99,
+   "note_time": 143.6
+  },
+  {
+   "text": "stan",
+   "time": 143.06,
+   "weight": 0.06,
+   "note_time": 144.0
+  },
+  {
+   "text": "ding",
+   "time": 143.41,
+   "weight": 0.06,
+   "note_time": 145.2
+  },
+  {
+   "text": "a",
+   "time": 145.14,
+   "weight": 0.96,
+   "note_time": 145.6
+  },
+  {
+   "text": "lone",
+   "time": 145.49,
+   "weight": 0.96,
+   "note_time": 146.0
+  },
+  {
+   "text": "Un",
+   "time": 149.8,
+   "weight": 0.49,
+   "note_time": 146.4
+  },
+  {
+   "text": "less",
+   "time": 150.15,
+   "weight": 0.49,
+   "note_time": 146.8
+  },
+  {
+   "text": "some",
+   "time": 151.12,
+   "weight": 0.98,
+   "note_time": 147.0
+  },
+  {
+   "text": "one",
+   "time": 151.47,
+   "weight": 0.98,
+   "note_time": 147.6
+  },
+  {
+   "text": "is",
+   "time": 151.84,
+   "weight": 1.0,
+   "note_time": 149.2
+  },
+  {
+   "text": "born",
+   "time": 152.48,
+   "weight": 0.98,
+   "note_time": 149.6
+  },
+  {
+   "text": "of",
+   "time": 152.9,
+   "weight": 0.91,
+   "note_time": 150.0
+  },
+  {
+   "text": "wa",
+   "time": 154.12,
+   "weight": 0.99,
+   "note_time": 150.4
+  },
+  {
+   "text": "ter",
+   "time": 154.44,
+   "weight": 0.99,
+   "note_time": 150.8
+  },
+  {
+   "text": "and",
+   "time": 154.76,
+   "weight": 0.99,
+   "note_time": 151.6
+  },
+  {
+   "text": "the",
+   "time": 155.24,
+   "weight": 0.95,
+   "note_time": 151.8
+  },
+  {
+   "text": "Spir",
+   "time": 155.56,
+   "weight": 0.83,
+   "note_time": 152.4
+  },
+  {
+   "text": "it",
+   "time": 155.74,
+   "weight": 0.83,
+   "note_time": 152.8
+  },
+  {
+   "text": "He",
+   "time": 155.92,
+   "weight": 0.34,
+   "note_time": 153.0
+  },
+  {
+   "text": "can",
+   "time": 157.9,
+   "weight": 0.97,
+   "note_time": 153.2
+  },
+  {
+   "text": "not",
+   "time": 158.24,
+   "weight": 0.97,
+   "note_time": 153.4
+  },
+  {
+   "text": "en",
+   "time": 158.58,
+   "weight": 1.0,
+   "note_time": 155.6
+  },
+  {
+   "text": "ter",
+   "time": 158.93,
+   "weight": 1.0,
+   "note_time": 156.0
+  },
+  {
+   "text": "the",
+   "time": 159.54,
+   "weight": 0.99,
+   "note_time": 156.4
+  },
+  {
+   "text": "kin",
+   "time": 160.38,
+   "weight": 0.56,
+   "note_time": 156.8
+  },
+  {
+   "text": "gdom",
+   "time": 160.73,
+   "weight": 0.56,
+   "note_time": 157.6
+  },
+  {
+   "text": "of",
+   "time": 161.1,
+   "weight": 1.0,
+   "note_time": 157.8
+  },
+  {
+   "text": "God",
+   "time": 161.72,
+   "weight": 1.0,
+   "note_time": 158.0
+  },
+  {
+   "text": "What",
+   "time": 162.18,
+   "weight": 0.39,
+   "note_time": 159.2
+  },
+  {
+   "text": "is",
+   "time": 164.4,
+   "weight": 1.0,
+   "note_time": 159.6
+  },
+  {
+   "text": "born",
+   "time": 164.84,
+   "weight": 1.0,
+   "note_time": 162.2
+  },
+  {
+   "text": "of",
+   "time": 165.32,
+   "weight": 1.0,
+   "note_time": 162.4
+  },
+  {
+   "text": "the",
+   "time": 166.44,
+   "weight": 0.99,
+   "note_time": 162.6
+  },
+  {
+   "text": "flesh",
+   "time": 166.52,
+   "weight": 0.99,
+   "note_time": 162.8
+  },
+  {
+   "text": "is",
+   "time": 166.92,
+   "weight": 0.96,
+   "note_time": 163.0
+  },
+  {
+   "text": "flesh",
+   "time": 168.06,
+   "weight": 0.97,
+   "note_time": 163.2
+  },
+  {
+   "text": "And",
+   "time": 169.8,
+   "weight": 0.55,
+   "note_time": 164.0
+  },
+  {
+   "text": "what",
+   "time": 170.92,
+   "weight": 0.96,
+   "note_time": 164.6
+  },
+  {
+   "text": "is",
+   "time": 171.18,
+   "weight": 1.0,
+   "note_time": 164.8
+  },
+  {
+   "text": "born",
+   "time": 171.5,
+   "weight": 0.87,
+   "note_time": 165.0
+  },
+  {
+   "text": "of",
+   "time": 171.94,
+   "weight": 0.99,
+   "note_time": 165.2
+  },
+  {
+   "text": "the",
+   "time": 172.88,
+   "weight": 0.99,
+   "note_time": 166.0
+  },
+  {
+   "text": "Spir",
+   "time": 173.32,
+   "weight": 0.95,
+   "note_time": 170.0
+  },
+  {
+   "text": "it",
+   "time": 173.5,
+   "weight": 0.95,
+   "note_time": 170.6
+  },
+  {
+   "text": "is",
+   "time": 173.68,
+   "weight": 0.99,
+   "note_time": 170.8
+  },
+  {
+   "text": "spir",
+   "time": 174.98,
+   "weight": 0.0,
+   "note_time": 171.2
+  },
+  {
+   "text": "it",
+   "time": 176.28,
+   "weight": 0.0,
+   "note_time": 171.4
+  },
+  {
+   "text": "How",
+   "time": 177.58,
+   "weight": 0.9,
+   "note_time": 171.6
+  },
+  {
+   "text": "can",
+   "time": 178.7,
+   "weight": 1.0,
+   "note_time": 172.4
+  },
+  {
+   "text": "this",
+   "time": 179.36,
+   "weight": 0.99,
+   "note_time": 172.8
+  },
+  {
+   "text": "be,",
+   "time": 179.7,
+   "weight": 1.0,
+   "note_time": 173.2
+  },
+  {
+   "text": "I",
+   "time": 180.75,
+   "weight": 0.0,
+   "note_time": 175.2
+  },
+  {
+   "text": "ask",
+   "time": 181.79,
+   "weight": 0.0,
+   "note_time": 175.8
+  },
+  {
+   "text": "Born",
+   "time": 182.84,
+   "weight": 0.62,
+   "note_time": 176.0
+  },
+  {
+   "text": "of",
+   "time": 183.96,
+   "weight": 1.0,
+   "note_time": 176.2
+  },
+  {
+   "text": "wa",
+   "time": 184.6,
+   "weight": 1.0,
+   "note_time": 176.4
+  },
+  {
+   "text": "ter",
+   "time": 184.81,
+   "weight": 1.0,
+   "note_time": 180.4
+  },
+  {
+   "text": "and",
+   "time": 187.02,
+   "weight": 0.34,
+   "note_time": 180.8
+  },
+  {
+   "text": "the",
+   "time": 188.14,
+   "weight": 1.0,
+   "note_time": 181.0
+  },
+  {
+   "text": "Spir",
+   "time": 189.18,
+   "weight": 1.0,
+   "note_time": 181.2
+  },
+  {
+   "text": "it",
+   "time": 189.37,
+   "weight": 1.0,
+   "note_time": 182.4
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "15 of 26 lyric lines sit clearly on their notes; 11 are uncertain and printed in grey italics."
+}

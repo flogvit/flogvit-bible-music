@@ -1,0 +1,1594 @@
+{
+ "id": "verse-19-113-1-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-113-1-hymn",
+ "offset_seconds": -3.640000000000178,
+ "words_heard": 178,
+ "words": 179,
+ "lines": [
+  {
+   "text": "Praise you servants of the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.99,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lift up your voices high",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the name of the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let the song fly",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From this time forth",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And forevermore",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The blessing endures",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Evermore",
+   "heard": 1,
+   "words": 1,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Blessed be the name of the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From rising sun to setting light",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His glory shines without end",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the day and in the night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.99,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "High above all nations stands He",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His glory lifts to the sky",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who is like the Lord our God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Enthroned on high",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who is like the Lord our God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.0,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Enthroned on high",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.6,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Who is like the Lord our God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Enthroned on high",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.68,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed be the name of the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From rising sun to setting light",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His glory shines without end",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the day and in the night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He stoops down to look upon",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The heavens and the earth below",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord is high above all nations",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His glory is the show",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed be the name of the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From rising sun to setting light",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His glory shines without end",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the day and in the night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hallelujah",
+   "heard": 1,
+   "words": 1,
+   "error_s": 2.83,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Praise the name of the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.86,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Praise",
+   "time": 15.72,
+   "weight": 0.36,
+   "note_time": 15.37
+  },
+  {
+   "text": "you",
+   "time": 16.72,
+   "weight": 0.66,
+   "note_time": 15.73
+  },
+  {
+   "text": "ser",
+   "time": 17.08,
+   "weight": 0.61,
+   "note_time": 16.1
+  },
+  {
+   "text": "vants",
+   "time": 17.37,
+   "weight": 0.61,
+   "note_time": 16.46
+  },
+  {
+   "text": "of",
+   "time": 17.66,
+   "weight": 1.0,
+   "note_time": 16.83
+  },
+  {
+   "text": "the",
+   "time": 18.26,
+   "weight": 0.99,
+   "note_time": 17.2
+  },
+  {
+   "text": "Lord",
+   "time": 18.54,
+   "weight": 0.97,
+   "note_time": 17.38
+  },
+  {
+   "text": "Lift",
+   "time": 19.04,
+   "weight": 0.24,
+   "note_time": 20.85
+  },
+  {
+   "text": "up",
+   "time": 22.2,
+   "weight": 0.99,
+   "note_time": 21.59
+  },
+  {
+   "text": "your",
+   "time": 22.6,
+   "weight": 0.99,
+   "note_time": 21.95
+  },
+  {
+   "text": "voic",
+   "time": 22.88,
+   "weight": 0.99,
+   "note_time": 22.32
+  },
+  {
+   "text": "es",
+   "time": 23.23,
+   "weight": 0.99,
+   "note_time": 22.68
+  },
+  {
+   "text": "high",
+   "time": 23.92,
+   "weight": 0.99,
+   "note_time": 23.05
+  },
+  {
+   "text": "Praise",
+   "time": 24.54,
+   "weight": 0.37,
+   "note_time": 27.07
+  },
+  {
+   "text": "the",
+   "time": 28.5,
+   "weight": 1.0,
+   "note_time": 27.44
+  },
+  {
+   "text": "name",
+   "time": 28.76,
+   "weight": 0.85,
+   "note_time": 27.62
+  },
+  {
+   "text": "of",
+   "time": 29.16,
+   "weight": 1.0,
+   "note_time": 28.54
+  },
+  {
+   "text": "the",
+   "time": 29.92,
+   "weight": 0.99,
+   "note_time": 28.9
+  },
+  {
+   "text": "Lord",
+   "time": 30.2,
+   "weight": 0.99,
+   "note_time": 29.09
+  },
+  {
+   "text": "Let",
+   "time": 30.7,
+   "weight": 0.78,
+   "note_time": 30.73
+  },
+  {
+   "text": "the",
+   "time": 32.06,
+   "weight": 0.9,
+   "note_time": 31.1
+  },
+  {
+   "text": "song",
+   "time": 32.32,
+   "weight": 0.99,
+   "note_time": 31.28
+  },
+  {
+   "text": "fly",
+   "time": 32.72,
+   "weight": 0.99,
+   "note_time": 31.83
+  },
+  {
+   "text": "From",
+   "time": 36.0,
+   "weight": 0.32,
+   "note_time": 36.22
+  },
+  {
+   "text": "this",
+   "time": 37.4,
+   "weight": 0.95,
+   "note_time": 36.59
+  },
+  {
+   "text": "time",
+   "time": 37.96,
+   "weight": 0.99,
+   "note_time": 37.13
+  },
+  {
+   "text": "forth",
+   "time": 38.58,
+   "weight": 0.99,
+   "note_time": 37.68
+  },
+  {
+   "text": "And",
+   "time": 39.26,
+   "weight": 0.93,
+   "note_time": 39.15
+  },
+  {
+   "text": "fo",
+   "time": 40.52,
+   "weight": 0.34,
+   "note_time": 39.51
+  },
+  {
+   "text": "re",
+   "time": 40.87,
+   "weight": 0.34,
+   "note_time": 39.88
+  },
+  {
+   "text": "ver",
+   "time": 41.22,
+   "weight": 0.34,
+   "note_time": 40.24
+  },
+  {
+   "text": "more",
+   "time": 41.57,
+   "weight": 0.34,
+   "note_time": 40.61
+  },
+  {
+   "text": "The",
+   "time": 42.24,
+   "weight": 0.51,
+   "note_time": 42.07
+  },
+  {
+   "text": "bles",
+   "time": 43.3,
+   "weight": 0.94,
+   "note_time": 42.44
+  },
+  {
+   "text": "sing",
+   "time": 43.65,
+   "weight": 0.94,
+   "note_time": 42.8
+  },
+  {
+   "text": "en",
+   "time": 44.08,
+   "weight": 0.4,
+   "note_time": 43.17
+  },
+  {
+   "text": "dures",
+   "time": 44.43,
+   "weight": 0.4,
+   "note_time": 43.54
+  },
+  {
+   "text": "Ev",
+   "time": 45.58,
+   "weight": 0.39,
+   "note_time": 45.73
+  },
+  {
+   "text": "er",
+   "time": 45.93,
+   "weight": 0.39,
+   "note_time": 46.1
+  },
+  {
+   "text": "more",
+   "time": 46.28,
+   "weight": 0.39,
+   "note_time": 46.28
+  },
+  {
+   "text": "Blessed",
+   "time": 49.86,
+   "weight": 0.85,
+   "note_time": 49.76
+  },
+  {
+   "text": "be",
+   "time": 51.26,
+   "weight": 1.0,
+   "note_time": 50.49
+  },
+  {
+   "text": "the",
+   "time": 51.78,
+   "weight": 1.0,
+   "note_time": 50.85
+  },
+  {
+   "text": "name",
+   "time": 52.18,
+   "weight": 0.79,
+   "note_time": 51.22
+  },
+  {
+   "text": "of",
+   "time": 52.72,
+   "weight": 1.0,
+   "note_time": 51.77
+  },
+  {
+   "text": "the",
+   "time": 53.36,
+   "weight": 1.0,
+   "note_time": 52.32
+  },
+  {
+   "text": "Lord",
+   "time": 53.62,
+   "weight": 0.99,
+   "note_time": 52.68
+  },
+  {
+   "text": "From",
+   "time": 55.16,
+   "weight": 0.97,
+   "note_time": 55.24
+  },
+  {
+   "text": "ris",
+   "time": 56.54,
+   "weight": 0.99,
+   "note_time": 55.61
+  },
+  {
+   "text": "ing",
+   "time": 56.89,
+   "weight": 0.99,
+   "note_time": 55.98
+  },
+  {
+   "text": "sun",
+   "time": 57.24,
+   "weight": 1.0,
+   "note_time": 56.34
+  },
+  {
+   "text": "to",
+   "time": 57.76,
+   "weight": 0.99,
+   "note_time": 57.44
+  },
+  {
+   "text": "set",
+   "time": 58.76,
+   "weight": 1.0,
+   "note_time": 57.8
+  },
+  {
+   "text": "ting",
+   "time": 59.01,
+   "weight": 1.0,
+   "note_time": 57.99
+  },
+  {
+   "text": "light",
+   "time": 59.26,
+   "weight": 0.99,
+   "note_time": 58.54
+  },
+  {
+   "text": "His",
+   "time": 59.98,
+   "weight": 0.12,
+   "note_time": 61.1
+  },
+  {
+   "text": "glo",
+   "time": 62.3,
+   "weight": 0.98,
+   "note_time": 61.46
+  },
+  {
+   "text": "ry",
+   "time": 62.6,
+   "weight": 0.98,
+   "note_time": 61.83
+  },
+  {
+   "text": "shines",
+   "time": 62.9,
+   "weight": 0.95,
+   "note_time": 62.56
+  },
+  {
+   "text": "with",
+   "time": 63.6,
+   "weight": 0.0,
+   "note_time": 63.29
+  },
+  {
+   "text": "out",
+   "time": 64.3,
+   "weight": 0.0,
+   "note_time": 63.48
+  },
+  {
+   "text": "end",
+   "time": 65.0,
+   "weight": 0.93,
+   "note_time": 64.02
+  },
+  {
+   "text": "In",
+   "time": 66.74,
+   "weight": 0.6,
+   "note_time": 66.59
+  },
+  {
+   "text": "the",
+   "time": 67.94,
+   "weight": 1.0,
+   "note_time": 66.95
+  },
+  {
+   "text": "day",
+   "time": 68.18,
+   "weight": 1.0,
+   "note_time": 67.13
+  },
+  {
+   "text": "and",
+   "time": 68.86,
+   "weight": 0.98,
+   "note_time": 68.41
+  },
+  {
+   "text": "in",
+   "time": 69.78,
+   "weight": 1.0,
+   "note_time": 68.78
+  },
+  {
+   "text": "the",
+   "time": 70.24,
+   "weight": 1.0,
+   "note_time": 69.88
+  },
+  {
+   "text": "night",
+   "time": 71.14,
+   "weight": 1.0,
+   "note_time": 70.06
+  },
+  {
+   "text": "High",
+   "time": 76.72,
+   "weight": 0.9,
+   "note_time": 76.83
+  },
+  {
+   "text": "a",
+   "time": 78.12,
+   "weight": 1.0,
+   "note_time": 77.2
+  },
+  {
+   "text": "bove",
+   "time": 78.4,
+   "weight": 1.0,
+   "note_time": 77.38
+  },
+  {
+   "text": "all",
+   "time": 78.68,
+   "weight": 0.99,
+   "note_time": 77.74
+  },
+  {
+   "text": "na",
+   "time": 79.16,
+   "weight": 0.99,
+   "note_time": 78.11
+  },
+  {
+   "text": "tions",
+   "time": 79.51,
+   "weight": 0.99,
+   "note_time": 78.48
+  },
+  {
+   "text": "stands",
+   "time": 79.88,
+   "weight": 0.98,
+   "note_time": 79.02
+  },
+  {
+   "text": "He",
+   "time": 80.5,
+   "weight": 0.87,
+   "note_time": 80.12
+  },
+  {
+   "text": "His",
+   "time": 82.16,
+   "weight": 0.95,
+   "note_time": 82.32
+  },
+  {
+   "text": "glo",
+   "time": 83.4,
+   "weight": 1.0,
+   "note_time": 82.68
+  },
+  {
+   "text": "ry",
+   "time": 83.75,
+   "weight": 1.0,
+   "note_time": 83.05
+  },
+  {
+   "text": "lifts",
+   "time": 84.12,
+   "weight": 0.89,
+   "note_time": 83.41
+  },
+  {
+   "text": "to",
+   "time": 84.82,
+   "weight": 1.0,
+   "note_time": 83.96
+  },
+  {
+   "text": "the",
+   "time": 85.32,
+   "weight": 1.0,
+   "note_time": 84.51
+  },
+  {
+   "text": "sky",
+   "time": 85.66,
+   "weight": 0.94,
+   "note_time": 84.88
+  },
+  {
+   "text": "Who",
+   "time": 88.9,
+   "weight": 0.26,
+   "note_time": 88.54
+  },
+  {
+   "text": "is",
+   "time": 89.78,
+   "weight": 0.98,
+   "note_time": 88.72
+  },
+  {
+   "text": "like",
+   "time": 90.18,
+   "weight": 0.98,
+   "note_time": 89.09
+  },
+  {
+   "text": "the",
+   "time": 90.5,
+   "weight": 0.99,
+   "note_time": 89.63
+  },
+  {
+   "text": "Lord",
+   "time": 90.94,
+   "weight": 0.97,
+   "note_time": 89.82
+  },
+  {
+   "text": "our",
+   "time": 91.32,
+   "weight": 0.94,
+   "note_time": 90.18
+  },
+  {
+   "text": "God",
+   "time": 91.76,
+   "weight": 1.0,
+   "note_time": 90.73
+  },
+  {
+   "text": "Ent",
+   "time": 92.68,
+   "weight": 0.99,
+   "note_time": 91.83
+  },
+  {
+   "text": "hro",
+   "time": 93.03,
+   "weight": 0.99,
+   "note_time": 92.2
+  },
+  {
+   "text": "ned",
+   "time": 93.38,
+   "weight": 0.99,
+   "note_time": 92.74
+  },
+  {
+   "text": "on",
+   "time": 94.0,
+   "weight": 1.0,
+   "note_time": 93.29
+  },
+  {
+   "text": "high",
+   "time": 94.28,
+   "weight": 1.0,
+   "note_time": 93.48
+  },
+  {
+   "text": "Who",
+   "time": 100.7,
+   "weight": 0.15,
+   "note_time": 100.24
+  },
+  {
+   "text": "is",
+   "time": 101.58,
+   "weight": 1.0,
+   "note_time": 100.61
+  },
+  {
+   "text": "like",
+   "time": 102.02,
+   "weight": 1.0,
+   "note_time": 100.79
+  },
+  {
+   "text": "the",
+   "time": 102.28,
+   "weight": 1.0,
+   "note_time": 101.34
+  },
+  {
+   "text": "Lord",
+   "time": 102.66,
+   "weight": 1.0,
+   "note_time": 101.52
+  },
+  {
+   "text": "our",
+   "time": 102.92,
+   "weight": 0.99,
+   "note_time": 101.89
+  },
+  {
+   "text": "God",
+   "time": 103.32,
+   "weight": 1.0,
+   "note_time": 102.44
+  },
+  {
+   "text": "Ent",
+   "time": 104.22,
+   "weight": 1.0,
+   "note_time": 103.54
+  },
+  {
+   "text": "hro",
+   "time": 104.57,
+   "weight": 1.0,
+   "note_time": 103.9
+  },
+  {
+   "text": "ned",
+   "time": 104.92,
+   "weight": 1.0,
+   "note_time": 104.45
+  },
+  {
+   "text": "on",
+   "time": 105.6,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "high",
+   "time": 105.8,
+   "weight": 1.0,
+   "note_time": 105.37
+  },
+  {
+   "text": "Who",
+   "time": 112.12,
+   "weight": 0.21,
+   "note_time": 111.95
+  },
+  {
+   "text": "is",
+   "time": 113.16,
+   "weight": 0.99,
+   "note_time": 112.32
+  },
+  {
+   "text": "like",
+   "time": 113.66,
+   "weight": 0.99,
+   "note_time": 112.5
+  },
+  {
+   "text": "the",
+   "time": 113.96,
+   "weight": 0.99,
+   "note_time": 113.05
+  },
+  {
+   "text": "Lord",
+   "time": 114.3,
+   "weight": 0.99,
+   "note_time": 113.23
+  },
+  {
+   "text": "our",
+   "time": 114.66,
+   "weight": 0.92,
+   "note_time": 113.6
+  },
+  {
+   "text": "God",
+   "time": 115.14,
+   "weight": 0.92,
+   "note_time": 114.15
+  },
+  {
+   "text": "Ent",
+   "time": 116.14,
+   "weight": 0.78,
+   "note_time": 115.24
+  },
+  {
+   "text": "hro",
+   "time": 116.49,
+   "weight": 0.78,
+   "note_time": 115.61
+  },
+  {
+   "text": "ned",
+   "time": 116.84,
+   "weight": 0.78,
+   "note_time": 116.16
+  },
+  {
+   "text": "on",
+   "time": 117.3,
+   "weight": 1.0,
+   "note_time": 116.71
+  },
+  {
+   "text": "high",
+   "time": 117.68,
+   "weight": 0.97,
+   "note_time": 117.07
+  },
+  {
+   "text": "Blessed",
+   "time": 123.34,
+   "weight": 0.8,
+   "note_time": 122.93
+  },
+  {
+   "text": "be",
+   "time": 124.38,
+   "weight": 0.99,
+   "note_time": 123.66
+  },
+  {
+   "text": "the",
+   "time": 124.94,
+   "weight": 1.0,
+   "note_time": 124.02
+  },
+  {
+   "text": "name",
+   "time": 125.32,
+   "weight": 0.96,
+   "note_time": 124.39
+  },
+  {
+   "text": "of",
+   "time": 125.84,
+   "weight": 0.98,
+   "note_time": 124.94
+  },
+  {
+   "text": "the",
+   "time": 126.42,
+   "weight": 1.0,
+   "note_time": 125.49
+  },
+  {
+   "text": "Lord",
+   "time": 126.78,
+   "weight": 1.0,
+   "note_time": 125.85
+  },
+  {
+   "text": "From",
+   "time": 128.64,
+   "weight": 0.99,
+   "note_time": 128.41
+  },
+  {
+   "text": "ris",
+   "time": 129.68,
+   "weight": 1.0,
+   "note_time": 128.78
+  },
+  {
+   "text": "ing",
+   "time": 130.03,
+   "weight": 1.0,
+   "note_time": 129.15
+  },
+  {
+   "text": "sun",
+   "time": 130.4,
+   "weight": 1.0,
+   "note_time": 129.51
+  },
+  {
+   "text": "to",
+   "time": 130.9,
+   "weight": 0.87,
+   "note_time": 130.61
+  },
+  {
+   "text": "set",
+   "time": 131.88,
+   "weight": 1.0,
+   "note_time": 130.98
+  },
+  {
+   "text": "ting",
+   "time": 132.16,
+   "weight": 1.0,
+   "note_time": 131.16
+  },
+  {
+   "text": "light",
+   "time": 132.44,
+   "weight": 0.99,
+   "note_time": 131.71
+  },
+  {
+   "text": "His",
+   "time": 133.16,
+   "weight": 0.15,
+   "note_time": 134.27
+  },
+  {
+   "text": "glo",
+   "time": 135.5,
+   "weight": 0.96,
+   "note_time": 134.63
+  },
+  {
+   "text": "ry",
+   "time": 135.79,
+   "weight": 0.96,
+   "note_time": 135.0
+  },
+  {
+   "text": "shines",
+   "time": 136.08,
+   "weight": 0.99,
+   "note_time": 135.73
+  },
+  {
+   "text": "with",
+   "time": 136.98,
+   "weight": 0.98,
+   "note_time": 136.46
+  },
+  {
+   "text": "out",
+   "time": 137.33,
+   "weight": 0.98,
+   "note_time": 136.65
+  },
+  {
+   "text": "end",
+   "time": 137.94,
+   "weight": 1.0,
+   "note_time": 137.2
+  },
+  {
+   "text": "In",
+   "time": 139.58,
+   "weight": 0.24,
+   "note_time": 139.76
+  },
+  {
+   "text": "the",
+   "time": 141.08,
+   "weight": 1.0,
+   "note_time": 140.12
+  },
+  {
+   "text": "day",
+   "time": 141.34,
+   "weight": 1.0,
+   "note_time": 140.3
+  },
+  {
+   "text": "and",
+   "time": 142.06,
+   "weight": 0.99,
+   "note_time": 141.59
+  },
+  {
+   "text": "in",
+   "time": 142.94,
+   "weight": 1.0,
+   "note_time": 141.95
+  },
+  {
+   "text": "the",
+   "time": 143.4,
+   "weight": 1.0,
+   "note_time": 143.05
+  },
+  {
+   "text": "night",
+   "time": 144.28,
+   "weight": 1.0,
+   "note_time": 143.23
+  },
+  {
+   "text": "He",
+   "time": 147.04,
+   "weight": 0.97,
+   "note_time": 147.07
+  },
+  {
+   "text": "stoops",
+   "time": 148.44,
+   "weight": 0.25,
+   "note_time": 147.44
+  },
+  {
+   "text": "down",
+   "time": 148.78,
+   "weight": 1.0,
+   "note_time": 147.8
+  },
+  {
+   "text": "to",
+   "time": 149.26,
+   "weight": 1.0,
+   "note_time": 148.17
+  },
+  {
+   "text": "look",
+   "time": 149.5,
+   "weight": 1.0,
+   "note_time": 148.35
+  },
+  {
+   "text": "up",
+   "time": 149.86,
+   "weight": 0.99,
+   "note_time": 148.72
+  },
+  {
+   "text": "on",
+   "time": 150.12,
+   "weight": 0.99,
+   "note_time": 149.09
+  },
+  {
+   "text": "The",
+   "time": 151.22,
+   "weight": 0.39,
+   "note_time": 151.83
+  },
+  {
+   "text": "heav",
+   "time": 153.16,
+   "weight": 1.0,
+   "note_time": 152.2
+  },
+  {
+   "text": "ens",
+   "time": 153.51,
+   "weight": 1.0,
+   "note_time": 152.56
+  },
+  {
+   "text": "and",
+   "time": 153.86,
+   "weight": 1.0,
+   "note_time": 153.29
+  },
+  {
+   "text": "the",
+   "time": 154.64,
+   "weight": 1.0,
+   "note_time": 153.48
+  },
+  {
+   "text": "earth",
+   "time": 154.82,
+   "weight": 1.0,
+   "note_time": 153.66
+  },
+  {
+   "text": "be",
+   "time": 155.28,
+   "weight": 1.0,
+   "note_time": 154.21
+  },
+  {
+   "text": "low",
+   "time": 155.63,
+   "weight": 1.0,
+   "note_time": 154.76
+  },
+  {
+   "text": "The",
+   "time": 156.02,
+   "weight": 0.06,
+   "note_time": 157.87
+  },
+  {
+   "text": "Lord",
+   "time": 158.12,
+   "weight": 0.94,
+   "note_time": 158.05
+  },
+  {
+   "text": "is",
+   "time": 159.5,
+   "weight": 0.98,
+   "note_time": 159.15
+  },
+  {
+   "text": "high",
+   "time": 159.82,
+   "weight": 0.92,
+   "note_time": 159.51
+  },
+  {
+   "text": "a",
+   "time": 160.14,
+   "weight": 1.0,
+   "note_time": 160.24
+  },
+  {
+   "text": "bove",
+   "time": 160.43,
+   "weight": 1.0,
+   "note_time": 160.98
+  },
+  {
+   "text": "all",
+   "time": 160.72,
+   "weight": 1.0,
+   "note_time": 161.16
+  },
+  {
+   "text": "na",
+   "time": 161.72,
+   "weight": 1.0,
+   "note_time": 161.34
+  },
+  {
+   "text": "tions",
+   "time": 162.07,
+   "weight": 1.0,
+   "note_time": 161.71
+  },
+  {
+   "text": "His",
+   "time": 163.38,
+   "weight": 1.0,
+   "note_time": 163.54
+  },
+  {
+   "text": "glo",
+   "time": 164.78,
+   "weight": 0.99,
+   "note_time": 163.9
+  },
+  {
+   "text": "ry",
+   "time": 165.13,
+   "weight": 0.99,
+   "note_time": 164.63
+  },
+  {
+   "text": "is",
+   "time": 165.78,
+   "weight": 1.0,
+   "note_time": 165.37
+  },
+  {
+   "text": "the",
+   "time": 166.86,
+   "weight": 0.99,
+   "note_time": 166.46
+  },
+  {
+   "text": "show",
+   "time": 167.74,
+   "weight": 0.92,
+   "note_time": 166.83
+  },
+  {
+   "text": "Blessed",
+   "time": 172.74,
+   "weight": 0.41,
+   "note_time": 172.68
+  },
+  {
+   "text": "be",
+   "time": 174.14,
+   "weight": 0.99,
+   "note_time": 173.41
+  },
+  {
+   "text": "the",
+   "time": 174.68,
+   "weight": 1.0,
+   "note_time": 173.78
+  },
+  {
+   "text": "name",
+   "time": 175.08,
+   "weight": 0.87,
+   "note_time": 174.15
+  },
+  {
+   "text": "of",
+   "time": 175.62,
+   "weight": 1.0,
+   "note_time": 174.7
+  },
+  {
+   "text": "the",
+   "time": 176.18,
+   "weight": 1.0,
+   "note_time": 175.24
+  },
+  {
+   "text": "Lord",
+   "time": 176.5,
+   "weight": 1.0,
+   "note_time": 175.61
+  },
+  {
+   "text": "From",
+   "time": 177.98,
+   "weight": 1.0,
+   "note_time": 178.17
+  },
+  {
+   "text": "ris",
+   "time": 179.38,
+   "weight": 1.0,
+   "note_time": 178.54
+  },
+  {
+   "text": "ing",
+   "time": 179.73,
+   "weight": 1.0,
+   "note_time": 178.9
+  },
+  {
+   "text": "sun",
+   "time": 180.14,
+   "weight": 1.0,
+   "note_time": 179.27
+  },
+  {
+   "text": "to",
+   "time": 180.66,
+   "weight": 0.99,
+   "note_time": 180.37
+  },
+  {
+   "text": "set",
+   "time": 181.62,
+   "weight": 1.0,
+   "note_time": 180.73
+  },
+  {
+   "text": "ting",
+   "time": 181.89,
+   "weight": 1.0,
+   "note_time": 180.91
+  },
+  {
+   "text": "light",
+   "time": 182.16,
+   "weight": 0.99,
+   "note_time": 181.46
+  },
+  {
+   "text": "His",
+   "time": 182.96,
+   "weight": 0.32,
+   "note_time": 184.02
+  },
+  {
+   "text": "glo",
+   "time": 185.24,
+   "weight": 0.99,
+   "note_time": 184.39
+  },
+  {
+   "text": "ry",
+   "time": 185.55,
+   "weight": 0.99,
+   "note_time": 184.76
+  },
+  {
+   "text": "shines",
+   "time": 185.86,
+   "weight": 0.99,
+   "note_time": 185.49
+  },
+  {
+   "text": "with",
+   "time": 186.74,
+   "weight": 0.58,
+   "note_time": 186.22
+  },
+  {
+   "text": "out",
+   "time": 187.09,
+   "weight": 0.58,
+   "note_time": 186.4
+  },
+  {
+   "text": "end",
+   "time": 187.7,
+   "weight": 0.96,
+   "note_time": 186.95
+  },
+  {
+   "text": "In",
+   "time": 189.28,
+   "weight": 0.28,
+   "note_time": 189.51
+  },
+  {
+   "text": "the",
+   "time": 190.82,
+   "weight": 1.0,
+   "note_time": 189.88
+  },
+  {
+   "text": "day",
+   "time": 191.12,
+   "weight": 1.0,
+   "note_time": 190.06
+  },
+  {
+   "text": "and",
+   "time": 191.56,
+   "weight": 0.98,
+   "note_time": 191.34
+  },
+  {
+   "text": "in",
+   "time": 192.68,
+   "weight": 1.0,
+   "note_time": 191.71
+  },
+  {
+   "text": "the",
+   "time": 193.16,
+   "weight": 1.0,
+   "note_time": 192.8
+  },
+  {
+   "text": "night",
+   "time": 194.02,
+   "weight": 1.0,
+   "note_time": 192.99
+  },
+  {
+   "text": "Hal",
+   "time": 200.6,
+   "weight": 0.76,
+   "note_time": 196.1
+  },
+  {
+   "text": "le",
+   "time": 200.95,
+   "weight": 0.76,
+   "note_time": 197.56
+  },
+  {
+   "text": "lu",
+   "time": 201.3,
+   "weight": 0.76,
+   "note_time": 199.02
+  },
+  {
+   "text": "jah",
+   "time": 201.65,
+   "weight": 0.76,
+   "note_time": 200.49
+  },
+  {
+   "text": "Praise",
+   "time": 204.18,
+   "weight": 0.62,
+   "note_time": 203.41
+  },
+  {
+   "text": "the",
+   "time": 205.58,
+   "weight": 1.0,
+   "note_time": 203.78
+  },
+  {
+   "text": "name",
+   "time": 206.06,
+   "weight": 0.83,
+   "note_time": 204.15
+  },
+  {
+   "text": "of",
+   "time": 206.58,
+   "weight": 1.0,
+   "note_time": 204.51
+  },
+  {
+   "text": "the",
+   "time": 207.1,
+   "weight": 1.0,
+   "note_time": 205.61
+  },
+  {
+   "text": "Lord",
+   "time": 208.06,
+   "weight": 1.0,
+   "note_time": 205.98
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "31 of 34 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

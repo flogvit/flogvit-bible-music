@@ -1,0 +1,43 @@
+{
+  "id": "story-joasj-setter-tempelet-i-stand-acoustic",
+  "title": "Restored",
+  "kind": "story",
+  "anchor": {
+    "story": "joasj-setter-tempelet-i-stand"
+  },
+  "references": [
+    {
+      "bookId": 14,
+      "chapter": 24,
+      "verseStart": 4,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "joasj-setter-tempelet-i-stand"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, soft piano, cello, gentle percussion, hopeful and steady mood, 80 BPM",
+    "lyrics": "[Verse]\nSome time later Joash resolved\nTo restore the house of the LORD\nHe gathered priests and Levites\nTo collect money from all Israel\nBut they did not act quickly\nThe chief priest asked for the tax\nLaid down by Moses in the wilderness\nFor the tent of the testimony\n\n[Chorus]\nThey made a chest at the gate\nAnd the people dropped their silver in\nAll the officials rejoiced\nAnd the chest was filled to the brim\nStonecutters and carpenters worked\nTo restore the original design\nThe workmen labored day by day\nAnd the house of God was made whole\n\n[Verse]\nAthaliah had broken in\nAnd used sacred things for Baal\nNow the king commanded repair\nAnd the work went forward\nThe Levites carried the chest\nTo the king’s officers each day\nA large amount of money\nWas collected for the temple\n\n[Chorus]\nThey made a chest at the gate\nAnd the people dropped their silver in\nAll the officials rejoiced\nAnd the chest was filled to the brim\nStonecutters and carpenters worked\nTo restore the original design\nThe workmen labored day by day\nAnd the house of God was made whole\n\n[Bridge]\nWhen they had finished the work\nThey brought the rest of the money\nTo make vessels for service\nAnd articles of gold and silver\nThroughout Jehoiada’s life\nBurnt offerings were presented\nContinually in the house of the LORD\n\n[Outro]\nThe house of God was restored\nAnd the burnt offerings continued\nFaithful hands rebuilt the walls\nAnd the sacred things returned",
+    "cot": "full",
+    "seed": 20279
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "story-josva-oppfordrer-efraim-og-manasse-hymn",
+  "title": "Clear The Forest",
+  "kind": "story",
+  "anchor": {
+    "story": "josva-oppfordrer-efraim-og-manasse"
+  },
+  "references": [
+    {
+      "bookId": 6,
+      "chapter": 17,
+      "verseStart": 14,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "pakten",
+      "tro"
+    ],
+    "stories": [
+      "josva-oppfordrer-efraim-og-manasse"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo baritone, warm and resolute, acoustic guitar, cello, flute, timpani, solemn hymn, 80 BPM",
+    "lyrics": "[Verse]\nThe sons of Joseph spoke to Joshua,\nSaying why one lot for us today,\nWe are a numerous and blessed people,\nYet we receive but one inheritance.\n\n[Verse]\nJoshua answered with a firm command,\nGo up into the forest land,\nClear ground in the land of Perizzites,\nWhere the Rephaim dwell in old days.\n\n[Verse]\nThey said the hill country is too cramped,\nAnd Canaanites in valleys strong,\nThey have iron chariots of war,\nIn Beth-shean and Jezreel ground.\n\n[Verse]\nThen Joshua spoke to Ephraim and Manasseh,\nYou have great strength and power immense,\nThe hill country shall be yours to take,\nThough it is forest, clear it well.\n\n[Verse]\nIt shall be yours to its farthest limits,\nDrive out the Canaanites who stay,\nEven with iron chariots strong,\nYou will make the land your own.\n\n[Outro]\nThe forest cleared and the land is mine.",
+    "cot": "full",
+    "seed": 20284
+  }
+}

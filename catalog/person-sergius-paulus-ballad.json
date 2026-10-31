@@ -1,0 +1,62 @@
+{
+  "id": "person-sergius-paulus-ballad",
+  "title": "Eager to Hear the Word of God",
+  "kind": "person",
+  "anchor": {
+    "person": "sergius-paulus"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 6,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 9,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sergius-paulus",
+      "paulus",
+      "barnabas",
+      "barjesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm baritone, acoustic guitar, piano, cello, soft drums, reflective and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nThey traveled through the island to Paphos town\nWhere a magician named Bar-Jesus was found\nWith the proconsul Sergius Paulus he stayed\nAn intelligent man in the ancient way\nHe sent for Barnabas and Saul to come\nEager to hear the word of God in the room\n\n[Chorus]\nEager to hear the word of God\nSergius Paulus sought the living Lord\nWhen the proconsul saw what had been done\nHe believed in the light that was won\n\n[Verse]\nBut Elymas the magician stood in the way\nTrying to turn the proconsul from the day\nHe opposed them with his tricks of old\nSeeking to stop the story to be told\nThen Saul filled with the Spirit looked at him straight\nAnd declared the judgment from God’s own gate\n\n[Chorus]\nEager to hear the word of God\nSergius Paulus sought the living Lord\nWhen the proconsul saw what had been done\nHe believed in the light that was won\n\n[Bridge]\nA mist and darkness came over his eyes\nHe groped for hands in the surprise\nTwisting the straight paths of the Lord he tried\nBut the hand of the Lord was his guide\n\n[Chorus]\nEager to hear the word of God\nSergius Paulus sought the living Lord\nWhen the proconsul saw what had been done\nHe believed in the light that was won\n\n[Outro]\nAstounded at the teaching of the Lord\nHe came to faith with a heart transformed",
+    "cot": "full",
+    "seed": 20276
+  }
+}

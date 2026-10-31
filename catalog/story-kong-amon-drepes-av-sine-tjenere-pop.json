@@ -1,0 +1,41 @@
+{
+  "id": "story-kong-amon-drepes-av-sine-tjenere-pop",
+  "title": "Buried in the Garden",
+  "kind": "story",
+  "anchor": {
+    "story": "kong-amon-drepes-av-sine-tjenere"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 21,
+      "verseStart": 19,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "kong-amon-drepes-av-sine-tjenere"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, melancholic female solo voice, piano, cello, soft drums, reverb, 72 BPM",
+    "lyrics": "[Verse]\nAmon was twenty-two when he took the throne\nReigned two years in Jerusalem alone\nHis mother Meshullemeth from Jotbah came\nHe walked in the paths of his father's name\n\n[Verse]\nHe did what was evil in the eyes of the LORD\nServing the idols his father adored\nHe bowed down to them in the dust\nHe forsook the God of his fathers just\n\n[Chorus]\nHis officials conspired in the house of the king\nThey struck down the ruler and silenced the ring\nThe people of the land rose up in fear\nThey made Josiah king while the shadows appear\n\n[Verse]\nThey struck down all who had conspired that day\nTo keep the kingdom from slipping away\nHe was buried in his tomb deep below\nIn the garden of Uzza where the winds blow\n\n[Chorus]\nHis officials conspired in the house of the king\nThey struck down the ruler and silenced the ring\nThe people of the land rose up in fear\nThey made Josiah king while the shadows appear\n\n[Outro]\nJosiah succeeded him on the throne\nIn the garden of Uzza all is known",
+    "cot": "full",
+    "seed": 20282
+  }
+}

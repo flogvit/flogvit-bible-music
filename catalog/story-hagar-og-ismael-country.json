@@ -1,0 +1,43 @@
+{
+  "id": "story-hagar-og-ismael-country",
+  "title": "Beer-lahai-roi",
+  "kind": "story",
+  "anchor": {
+    "story": "hagar-og-ismael"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "hagar-og-ismael"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and narrative, acoustic guitar, fiddle, piano, cello, gentle, 80 BPM",
+    "lyrics": "[Verse]\nSarai had borne him no children yet\nAn Egyptian slave girl named Hagar\nShe gave her to Abram instead\nTo build a family through her\n\n[Verse]\nHagar became pregnant with joy\nBut began to despise her mistress\nSarai cried out to the Lord\nAbram said do as you wish\n\n[Chorus]\nHagar the slave girl of Sarai\nWhere have you come from and where are you going\nI am running away from my mistress\nIn the wilderness I am alone\n\n[Pre-Chorus]\nFound her by a spring of water\nBeside the road to Shur\nThe angel of the Lord spoke\nTo the weary heart\n\n[Chorus]\nHagar the slave girl of Sarai\nWhere have you come from and where are you going\nI am running away from my mistress\nIn the wilderness I am alone\n\n[Verse]\nGo back to your mistress he said\nSubmit to her authority\nI will greatly increase your descendants\nToo many for counting to see\n\n[Chorus]\nHagar the slave girl of Sarai\nWhere have you come from and where are you going\nI am running away from my mistress\nIn the wilderness I am alone\n\n[Bridge]\nYou are pregnant and will give birth\nName him Ishmael for God hears\nHe will be like a wild donkey\nLiving at odds with his kin\n\n[Outro]\nShe called the Lord the God who sees me\nBeer-lahai-roi by the well\nHagar bore Abram a son\nAnd lived to tell the tale",
+    "cot": "full",
+    "seed": 20278
+  }
+}

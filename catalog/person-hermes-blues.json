@@ -1,0 +1,51 @@
+{
+  "id": "person-hermes-blues",
+  "title": "Greet Hermes",
+  "kind": "person",
+  "anchor": {
+    "person": "hermes"
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 16,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "paulus",
+      "menigheten",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": [
+      "hermes",
+      "paulus",
+      "asynkritos",
+      "flegon",
+      "hermas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, gritty and soulful, acoustic guitar, upright bass, brushed drums, mournful, 75 BPM",
+    "lyrics": "[Verse]\nPaul writes to the believers in Rome\nA list of names in the letter of grace\nAsyncritus and Phlegon are known\nBut Hermes stands in the open space\n\n[Chorus]\nGreet Asyncritus, Phlegon, Hermes\nPatrobas and Hermas with care\nAnd the brothers who stand with them\nIn the circle of love that is fair\n\n[Verse]\nA Christian living in the city walls\nPart of the community that he knew\nRecognized by the apostle’s hand\nHis name is written in the view\n\n[Chorus]\nGreet Asyncritus, Phlegon, Hermes\nPatrobas and Hermas with care\nAnd the brothers who stand with them\nIn the circle of love that is fair\n\n[Outro]\nGreet Hermes in the letter’s light\nHis name is kept in the Roman night",
+    "cot": "full",
+    "seed": 20281
+  }
+}

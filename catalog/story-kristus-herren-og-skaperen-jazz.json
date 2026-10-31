@@ -1,0 +1,44 @@
+{
+  "id": "story-kristus-herren-og-skaperen-jazz",
+  "title": "Image of the Invisible God",
+  "kind": "story",
+  "anchor": {
+    "story": "kristus-herren-og-skaperen"
+  },
+  "references": [
+    {
+      "bookId": 51,
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "kristus-herren-og-skaperen"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful female alto, upright bass, brushed drums, muted trumpet, piano, vibraphone, warm and reverent, 72 BPM",
+    "lyrics": "[Verse]\nHe is the image of the invisible God\nThe firstborn over all creation\nIn him all things were created\nIn heaven and on earth\nThe visible and the invisible\nThrones or dominions or rulers\nAuthorities all created through him\nAnd for him everything stands\n\n[Chorus]\nHe is before all things\nIn him all things hold together\nThe head of the body the church\nThe beginning the firstborn from the dead\nIn everything he might be preeminent\nMaking peace by the blood of his cross\n\n[Verse]\nGod was pleased to have his fullness\nDwell in him completely\nThrough him to reconcile all things\nTo himself in this way\nWhether things on earth\nOr things in heaven\nAll made peace through the cross\nHis supreme role remains\n\n[Chorus]\nHe is before all things\nIn him all things hold together\nThe head of the body the church\nThe beginning the firstborn from the dead\nIn everything he might be preeminent\nMaking peace by the blood of his cross\n\n[Bridge]\nAll things created through him\nAll things created for him\nHe holds the universe together\nIn him we find our peace\n\n[Outro]\nHe is the image of the invisible God\nThe firstborn over all creation",
+    "cot": "full",
+    "seed": 20283
+  }
+}

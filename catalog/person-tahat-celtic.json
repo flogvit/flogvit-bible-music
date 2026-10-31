@@ -1,0 +1,46 @@
+{
+  "id": "person-tahat-celtic",
+  "title": "Tahath",
+  "kind": "person",
+  "anchor": {
+    "person": "tahat"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 20,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "tahat",
+      "efraim-josefs-sonn",
+      "sjutelah",
+      "bered",
+      "elada"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male solo voice, celtic harp, bodhran, uilleann pipes, fiddle, flute, somber and reverent mood, 72 BPM",
+    "lyrics": "[Verse]\nShuthelah walked with his son\nBered stood in the line\nTahath kept the covenant\nThe blood of Ephraim divine\n\n[Chorus]\nTahath son of Bered\nEleadah came after you\nThe name returns again\nIn the house of Joseph true\n\n[Verse]\nThe son of Eleadah\nTahath once more stands\nWithin the tribe of Ephraim\nWhere the patriarchs commanded\n\n[Chorus]\nTahath son of Bered\nEleadah came after you\nThe name returns again\nIn the house of Joseph true\n\n[Outro]\nDescendants of Ephraim\nThe line continues on",
+    "cot": "full",
+    "seed": 20277
+  }
+}

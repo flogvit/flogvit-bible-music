@@ -1,0 +1,46 @@
+{
+  "id": "story-rehabeams-regjering-i-juda-worship",
+  "title": "Bronze Shields",
+  "kind": "story",
+  "anchor": {
+    "story": "rehabeams-regjering-i-juda"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 14,
+      "verseStart": 21,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "abraham",
+      "josef"
+    ],
+    "stories": [
+      "rehabeams-regjering-i-juda"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male voice, solo with choir, acoustic guitar, cello, drums, bass, melancholic, 72 BPM",
+    "lyrics": "[Verse]\nSolomon's son took the crown of the south\nForty-one years he stood at the gate\nSeventeen years in the chosen city\nHis mother Naamah from Ammon's state\nThe people turned from the Lord's command\nThey sinned and provoked His jealousy\nBuilding high places on every hill\nIdols under every green tree\n\n[Chorus]\nHe carried off the treasures of the Lord\nGold shields from the palace hall\nRehoboam made shields of bronze\nFor the guard to stand and call\n\n[Verse]\nIn the fifth year the Egypt king came\nShishak marched against Jerusalem\nHe took the gold from the house of God\nAnd from the royal palace as well\nNothing was left in the holy place\nExcept the bronze that could not be kept\nHe gave them to the commanders of the guard\nTo watch at the palace gate\n\n[Chorus]\nHe carried off the treasures of the Lord\nGold shields from the palace hall\nRehoboam made shields of bronze\nFor the guard to stand and call\n\n[Bridge]\nWar between Rehoboam and Jeroboam\nContinual conflict in the land\nHe lay down with his fathers at last\nBuried in the City of David's hand\nAbijam stood up to take the throne\nThe story remains as it was planned\n\n[Outro]\nBronze shields for the guard to keep\nIn the house of the Lord they sleep",
+    "cot": "full",
+    "seed": 20280
+  }
+}

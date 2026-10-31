@@ -1,0 +1,1404 @@
+{
+ "id": "verse-46-15-55-worship",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-46-15-55-worship",
+ "offset_seconds": -2.240000000000208,
+ "words_heard": 152,
+ "words": 164,
+ "lines": [
+  {
+   "text": "The trumpet sounds in a blink of an eye",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The dead rise up to live eternally",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This perishable puts on what is immortal",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The mortal body is changed by the call",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where O death is your victory",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where O death is your sting",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sting of death is sin",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But God gives us the victory",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Thanks be to God for the win",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through our Lord Jesus Christ we begin",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Be steadfast and immovable stand",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Always abounding in the Lord's hand",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where O death is your victory",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where O death is your sting",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sting of death is sin",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But God gives us the victory",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Labor in the Lord is not vain",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hope remains for us in the rain",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The law held power over sin",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But Christ has broken the chain",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where O death is your victory",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where O death is your sting",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sting of death is sin",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But God gives us the victory",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Death has been swallowed up",
+   "heard": 0,
+   "words": 5,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Victory is ours to keep",
+   "heard": 1,
+   "words": 5,
+   "error_s": 10.03,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 22.9,
+   "weight": 0.51,
+   "note_time": 23.65
+  },
+  {
+   "text": "trum",
+   "time": 23.78,
+   "weight": 0.73,
+   "note_time": 23.82
+  },
+  {
+   "text": "pet",
+   "time": 24.12,
+   "weight": 0.73,
+   "note_time": 24.18
+  },
+  {
+   "text": "sounds",
+   "time": 24.46,
+   "weight": 0.99,
+   "note_time": 24.35
+  },
+  {
+   "text": "in",
+   "time": 24.94,
+   "weight": 0.92,
+   "note_time": 25.06
+  },
+  {
+   "text": "a",
+   "time": 25.64,
+   "weight": 0.96,
+   "note_time": 25.24
+  },
+  {
+   "text": "blink",
+   "time": 25.76,
+   "weight": 1.0,
+   "note_time": 25.41
+  },
+  {
+   "text": "of",
+   "time": 26.02,
+   "weight": 1.0,
+   "note_time": 25.76
+  },
+  {
+   "text": "an",
+   "time": 26.34,
+   "weight": 0.98,
+   "note_time": 26.12
+  },
+  {
+   "text": "eye",
+   "time": 26.74,
+   "weight": 1.0,
+   "note_time": 26.47
+  },
+  {
+   "text": "The",
+   "time": 27.22,
+   "weight": 0.72,
+   "note_time": 27.88
+  },
+  {
+   "text": "dead",
+   "time": 28.14,
+   "weight": 0.99,
+   "note_time": 28.06
+  },
+  {
+   "text": "rise",
+   "time": 28.68,
+   "weight": 1.0,
+   "note_time": 28.41
+  },
+  {
+   "text": "up",
+   "time": 28.96,
+   "weight": 0.99,
+   "note_time": 28.59
+  },
+  {
+   "text": "to",
+   "time": 29.26,
+   "weight": 1.0,
+   "note_time": 28.94
+  },
+  {
+   "text": "live",
+   "time": 29.44,
+   "weight": 1.0,
+   "note_time": 29.12
+  },
+  {
+   "text": "e",
+   "time": 29.76,
+   "weight": 1.0,
+   "note_time": 29.47
+  },
+  {
+   "text": "ter",
+   "time": 30.11,
+   "weight": 1.0,
+   "note_time": 29.65
+  },
+  {
+   "text": "nal",
+   "time": 30.46,
+   "weight": 1.0,
+   "note_time": 30.18
+  },
+  {
+   "text": "ly",
+   "time": 30.81,
+   "weight": 1.0,
+   "note_time": 30.71
+  },
+  {
+   "text": "This",
+   "time": 31.24,
+   "weight": 0.33,
+   "note_time": 31.41
+  },
+  {
+   "text": "pe",
+   "time": 32.02,
+   "weight": 0.99,
+   "note_time": 31.76
+  },
+  {
+   "text": "ris",
+   "time": 32.28,
+   "weight": 0.99,
+   "note_time": 32.12
+  },
+  {
+   "text": "hab",
+   "time": 32.54,
+   "weight": 0.99,
+   "note_time": 32.47
+  },
+  {
+   "text": "le",
+   "time": 32.8,
+   "weight": 0.99,
+   "note_time": 32.65
+  },
+  {
+   "text": "puts",
+   "time": 33.06,
+   "weight": 0.74,
+   "note_time": 33.53
+  },
+  {
+   "text": "on",
+   "time": 34.04,
+   "weight": 1.0,
+   "note_time": 33.71
+  },
+  {
+   "text": "what",
+   "time": 34.24,
+   "weight": 0.98,
+   "note_time": 33.88
+  },
+  {
+   "text": "is",
+   "time": 34.54,
+   "weight": 0.99,
+   "note_time": 34.24
+  },
+  {
+   "text": "im",
+   "time": 34.96,
+   "weight": 0.96,
+   "note_time": 34.59
+  },
+  {
+   "text": "mor",
+   "time": 35.08,
+   "weight": 0.96,
+   "note_time": 34.76
+  },
+  {
+   "text": "tal",
+   "time": 35.2,
+   "weight": 0.96,
+   "note_time": 35.29
+  },
+  {
+   "text": "The",
+   "time": 35.9,
+   "weight": 0.38,
+   "note_time": 36.35
+  },
+  {
+   "text": "mor",
+   "time": 36.9,
+   "weight": 0.98,
+   "note_time": 36.53
+  },
+  {
+   "text": "tal",
+   "time": 37.1,
+   "weight": 0.98,
+   "note_time": 36.88
+  },
+  {
+   "text": "bo",
+   "time": 37.3,
+   "weight": 1.0,
+   "note_time": 37.06
+  },
+  {
+   "text": "dy",
+   "time": 37.65,
+   "weight": 1.0,
+   "note_time": 37.41
+  },
+  {
+   "text": "is",
+   "time": 38.0,
+   "weight": 1.0,
+   "note_time": 37.76
+  },
+  {
+   "text": "changed",
+   "time": 38.42,
+   "weight": 1.0,
+   "note_time": 38.12
+  },
+  {
+   "text": "by",
+   "time": 38.78,
+   "weight": 1.0,
+   "note_time": 38.65
+  },
+  {
+   "text": "the",
+   "time": 39.34,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "call",
+   "time": 40.95,
+   "weight": 0.0,
+   "note_time": 39.18
+  },
+  {
+   "text": "Where",
+   "time": 42.56,
+   "weight": 0.93,
+   "note_time": 42.71
+  },
+  {
+   "text": "O",
+   "time": 43.4,
+   "weight": 0.92,
+   "note_time": 43.06
+  },
+  {
+   "text": "death",
+   "time": 43.72,
+   "weight": 0.96,
+   "note_time": 43.41
+  },
+  {
+   "text": "is",
+   "time": 44.1,
+   "weight": 1.0,
+   "note_time": 43.76
+  },
+  {
+   "text": "your",
+   "time": 44.5,
+   "weight": 0.96,
+   "note_time": 44.12
+  },
+  {
+   "text": "vic",
+   "time": 44.78,
+   "weight": 1.0,
+   "note_time": 44.47
+  },
+  {
+   "text": "tory",
+   "time": 45.13,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "Where",
+   "time": 47.16,
+   "weight": 1.0,
+   "note_time": 46.94
+  },
+  {
+   "text": "O",
+   "time": 47.58,
+   "weight": 1.0,
+   "note_time": 47.65
+  },
+  {
+   "text": "death",
+   "time": 48.0,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "is",
+   "time": 48.36,
+   "weight": 1.0,
+   "note_time": 48.35
+  },
+  {
+   "text": "your",
+   "time": 48.8,
+   "weight": 1.0,
+   "note_time": 48.53
+  },
+  {
+   "text": "sting",
+   "time": 49.08,
+   "weight": 0.98,
+   "note_time": 49.06
+  },
+  {
+   "text": "The",
+   "time": 51.4,
+   "weight": 0.99,
+   "note_time": 51.18
+  },
+  {
+   "text": "sting",
+   "time": 51.76,
+   "weight": 1.0,
+   "note_time": 51.88
+  },
+  {
+   "text": "of",
+   "time": 52.0,
+   "weight": 1.0,
+   "note_time": 52.24
+  },
+  {
+   "text": "death",
+   "time": 52.64,
+   "weight": 1.0,
+   "note_time": 52.59
+  },
+  {
+   "text": "is",
+   "time": 52.98,
+   "weight": 1.0,
+   "note_time": 52.76
+  },
+  {
+   "text": "sin",
+   "time": 53.58,
+   "weight": 0.99,
+   "note_time": 53.29
+  },
+  {
+   "text": "But",
+   "time": 54.14,
+   "weight": 0.85,
+   "note_time": 54.35
+  },
+  {
+   "text": "God",
+   "time": 55.08,
+   "weight": 1.0,
+   "note_time": 55.06
+  },
+  {
+   "text": "gives",
+   "time": 55.46,
+   "weight": 1.0,
+   "note_time": 55.41
+  },
+  {
+   "text": "us",
+   "time": 55.86,
+   "weight": 1.0,
+   "note_time": 55.94
+  },
+  {
+   "text": "the",
+   "time": 56.48,
+   "weight": 1.0,
+   "note_time": 56.12
+  },
+  {
+   "text": "vic",
+   "time": 56.6,
+   "weight": 1.0,
+   "note_time": 56.65
+  },
+  {
+   "text": "tory",
+   "time": 56.94,
+   "weight": 1.0,
+   "note_time": 57.18
+  },
+  {
+   "text": "Thanks",
+   "time": 61.16,
+   "weight": 0.52,
+   "note_time": 61.76
+  },
+  {
+   "text": "be",
+   "time": 62.44,
+   "weight": 0.99,
+   "note_time": 62.12
+  },
+  {
+   "text": "to",
+   "time": 62.8,
+   "weight": 1.0,
+   "note_time": 62.29
+  },
+  {
+   "text": "God",
+   "time": 63.02,
+   "weight": 0.98,
+   "note_time": 62.47
+  },
+  {
+   "text": "for",
+   "time": 63.4,
+   "weight": 0.96,
+   "note_time": 63.53
+  },
+  {
+   "text": "the",
+   "time": 64.22,
+   "weight": 0.99,
+   "note_time": 64.06
+  },
+  {
+   "text": "win",
+   "time": 64.8,
+   "weight": 0.49,
+   "note_time": 64.41
+  },
+  {
+   "text": "Through",
+   "time": 65.36,
+   "weight": 0.23,
+   "note_time": 66.0
+  },
+  {
+   "text": "our",
+   "time": 66.68,
+   "weight": 0.96,
+   "note_time": 66.53
+  },
+  {
+   "text": "Lord",
+   "time": 67.02,
+   "weight": 0.93,
+   "note_time": 66.71
+  },
+  {
+   "text": "Je",
+   "time": 67.24,
+   "weight": 0.98,
+   "note_time": 67.24
+  },
+  {
+   "text": "sus",
+   "time": 67.45,
+   "weight": 0.98,
+   "note_time": 67.76
+  },
+  {
+   "text": "Christ",
+   "time": 67.66,
+   "weight": 1.0,
+   "note_time": 68.12
+  },
+  {
+   "text": "we",
+   "time": 68.5,
+   "weight": 0.9,
+   "note_time": 68.47
+  },
+  {
+   "text": "be",
+   "time": 68.94,
+   "weight": 0.99,
+   "note_time": 68.82
+  },
+  {
+   "text": "gin",
+   "time": 69.25,
+   "weight": 0.99,
+   "note_time": 69.53
+  },
+  {
+   "text": "Be",
+   "time": 69.6,
+   "weight": 0.87,
+   "note_time": 69.88
+  },
+  {
+   "text": "stead",
+   "time": 70.24,
+   "weight": 1.0,
+   "note_time": 70.41
+  },
+  {
+   "text": "fast",
+   "time": 70.59,
+   "weight": 1.0,
+   "note_time": 70.59
+  },
+  {
+   "text": "and",
+   "time": 71.54,
+   "weight": 0.95,
+   "note_time": 71.65
+  },
+  {
+   "text": "im",
+   "time": 72.44,
+   "weight": 1.0,
+   "note_time": 71.82
+  },
+  {
+   "text": "mo",
+   "time": 72.63,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "vab",
+   "time": 72.81,
+   "weight": 1.0,
+   "note_time": 72.35
+  },
+  {
+   "text": "le",
+   "time": 73.0,
+   "weight": 1.0,
+   "note_time": 72.53
+  },
+  {
+   "text": "stand",
+   "time": 73.18,
+   "weight": 0.56,
+   "note_time": 73.06
+  },
+  {
+   "text": "Al",
+   "time": 73.9,
+   "weight": 0.39,
+   "note_time": 74.47
+  },
+  {
+   "text": "ways",
+   "time": 74.25,
+   "weight": 0.39,
+   "note_time": 74.82
+  },
+  {
+   "text": "a",
+   "time": 75.56,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "boun",
+   "time": 75.85,
+   "weight": 1.0,
+   "note_time": 75.18
+  },
+  {
+   "text": "ding",
+   "time": 76.15,
+   "weight": 1.0,
+   "note_time": 75.71
+  },
+  {
+   "text": "in",
+   "time": 76.44,
+   "weight": 1.0,
+   "note_time": 76.24
+  },
+  {
+   "text": "the",
+   "time": 77.14,
+   "weight": 1.0,
+   "note_time": 76.59
+  },
+  {
+   "text": "Lord's",
+   "time": 77.36,
+   "weight": 1.0,
+   "note_time": 76.76
+  },
+  {
+   "text": "hand",
+   "time": 78.0,
+   "weight": 0.98,
+   "note_time": 77.29
+  },
+  {
+   "text": "Where",
+   "time": 83.0,
+   "weight": 0.15,
+   "note_time": 82.94
+  },
+  {
+   "text": "O",
+   "time": 83.9,
+   "weight": 0.53,
+   "note_time": 83.65
+  },
+  {
+   "text": "death",
+   "time": 84.18,
+   "weight": 0.71,
+   "note_time": 84.0
+  },
+  {
+   "text": "is",
+   "time": 84.62,
+   "weight": 1.0,
+   "note_time": 84.35
+  },
+  {
+   "text": "your",
+   "time": 85.0,
+   "weight": 0.95,
+   "note_time": 84.71
+  },
+  {
+   "text": "vic",
+   "time": 85.28,
+   "weight": 0.99,
+   "note_time": 85.24
+  },
+  {
+   "text": "tory",
+   "time": 85.63,
+   "weight": 0.99,
+   "note_time": 85.76
+  },
+  {
+   "text": "Where",
+   "time": 86.34,
+   "weight": 0.06,
+   "note_time": 87.18
+  },
+  {
+   "text": "O",
+   "time": 88.14,
+   "weight": 1.0,
+   "note_time": 87.88
+  },
+  {
+   "text": "death",
+   "time": 88.54,
+   "weight": 0.99,
+   "note_time": 88.24
+  },
+  {
+   "text": "is",
+   "time": 88.98,
+   "weight": 1.0,
+   "note_time": 88.59
+  },
+  {
+   "text": "your",
+   "time": 89.3,
+   "weight": 1.0,
+   "note_time": 88.76
+  },
+  {
+   "text": "sting",
+   "time": 89.6,
+   "weight": 0.68,
+   "note_time": 89.29
+  },
+  {
+   "text": "The",
+   "time": 91.46,
+   "weight": 0.86,
+   "note_time": 91.41
+  },
+  {
+   "text": "sting",
+   "time": 92.24,
+   "weight": 0.99,
+   "note_time": 92.12
+  },
+  {
+   "text": "of",
+   "time": 92.5,
+   "weight": 1.0,
+   "note_time": 92.47
+  },
+  {
+   "text": "death",
+   "time": 93.0,
+   "weight": 1.0,
+   "note_time": 92.82
+  },
+  {
+   "text": "is",
+   "time": 93.44,
+   "weight": 0.99,
+   "note_time": 93.0
+  },
+  {
+   "text": "sin",
+   "time": 93.88,
+   "weight": 1.0,
+   "note_time": 93.53
+  },
+  {
+   "text": "But",
+   "time": 94.58,
+   "weight": 0.92,
+   "note_time": 94.59
+  },
+  {
+   "text": "God",
+   "time": 95.56,
+   "weight": 0.99,
+   "note_time": 95.47
+  },
+  {
+   "text": "gives",
+   "time": 95.94,
+   "weight": 0.99,
+   "note_time": 95.65
+  },
+  {
+   "text": "us",
+   "time": 96.32,
+   "weight": 1.0,
+   "note_time": 96.18
+  },
+  {
+   "text": "the",
+   "time": 96.92,
+   "weight": 0.95,
+   "note_time": 96.35
+  },
+  {
+   "text": "vic",
+   "time": 97.08,
+   "weight": 0.99,
+   "note_time": 96.88
+  },
+  {
+   "text": "tory",
+   "time": 97.43,
+   "weight": 0.99,
+   "note_time": 97.41
+  },
+  {
+   "text": "La",
+   "time": 101.98,
+   "weight": 0.15,
+   "note_time": 102.0
+  },
+  {
+   "text": "bor",
+   "time": 102.33,
+   "weight": 0.15,
+   "note_time": 102.18
+  },
+  {
+   "text": "in",
+   "time": 102.92,
+   "weight": 0.99,
+   "note_time": 102.35
+  },
+  {
+   "text": "the",
+   "time": 103.34,
+   "weight": 1.0,
+   "note_time": 102.53
+  },
+  {
+   "text": "Lord",
+   "time": 103.48,
+   "weight": 0.98,
+   "note_time": 102.71
+  },
+  {
+   "text": "is",
+   "time": 103.78,
+   "weight": 1.0,
+   "note_time": 103.06
+  },
+  {
+   "text": "not",
+   "time": 104.16,
+   "weight": 1.0,
+   "note_time": 103.41
+  },
+  {
+   "text": "vain",
+   "time": 104.44,
+   "weight": 0.92,
+   "note_time": 103.76
+  },
+  {
+   "text": "Hope",
+   "time": 105.76,
+   "weight": 0.73,
+   "note_time": 106.24
+  },
+  {
+   "text": "re",
+   "time": 107.14,
+   "weight": 0.9,
+   "note_time": 106.76
+  },
+  {
+   "text": "mains",
+   "time": 107.33,
+   "weight": 0.9,
+   "note_time": 106.94
+  },
+  {
+   "text": "for",
+   "time": 107.52,
+   "weight": 0.99,
+   "note_time": 107.29
+  },
+  {
+   "text": "us",
+   "time": 107.84,
+   "weight": 1.0,
+   "note_time": 107.65
+  },
+  {
+   "text": "in",
+   "time": 108.1,
+   "weight": 1.0,
+   "note_time": 107.82
+  },
+  {
+   "text": "the",
+   "time": 108.36,
+   "weight": 1.0,
+   "note_time": 108.35
+  },
+  {
+   "text": "rain",
+   "time": 108.62,
+   "weight": 0.84,
+   "note_time": 108.53
+  },
+  {
+   "text": "The",
+   "time": 110.54,
+   "weight": 0.19,
+   "note_time": 110.47
+  },
+  {
+   "text": "law",
+   "time": 111.48,
+   "weight": 0.82,
+   "note_time": 110.65
+  },
+  {
+   "text": "held",
+   "time": 111.76,
+   "weight": 0.96,
+   "note_time": 111.0
+  },
+  {
+   "text": "pow",
+   "time": 112.0,
+   "weight": 0.99,
+   "note_time": 111.18
+  },
+  {
+   "text": "er",
+   "time": 112.23,
+   "weight": 0.99,
+   "note_time": 111.53
+  },
+  {
+   "text": "o",
+   "time": 112.46,
+   "weight": 1.0,
+   "note_time": 111.71
+  },
+  {
+   "text": "ver",
+   "time": 112.7,
+   "weight": 1.0,
+   "note_time": 112.06
+  },
+  {
+   "text": "sin",
+   "time": 112.94,
+   "weight": 1.0,
+   "note_time": 112.24
+  },
+  {
+   "text": "But",
+   "time": 114.32,
+   "weight": 0.99,
+   "note_time": 114.0
+  },
+  {
+   "text": "Christ",
+   "time": 115.08,
+   "weight": 0.99,
+   "note_time": 115.06
+  },
+  {
+   "text": "has",
+   "time": 115.84,
+   "weight": 0.99,
+   "note_time": 115.41
+  },
+  {
+   "text": "bro",
+   "time": 116.58,
+   "weight": 1.0,
+   "note_time": 116.47
+  },
+  {
+   "text": "ken",
+   "time": 116.93,
+   "weight": 1.0,
+   "note_time": 117.0
+  },
+  {
+   "text": "the",
+   "time": 117.64,
+   "weight": 0.99,
+   "note_time": 117.35
+  },
+  {
+   "text": "chain",
+   "time": 118.32,
+   "weight": 0.99,
+   "note_time": 117.53
+  },
+  {
+   "text": "Where",
+   "time": 121.26,
+   "weight": 0.47,
+   "note_time": 121.06
+  },
+  {
+   "text": "O",
+   "time": 121.87,
+   "weight": 0.0,
+   "note_time": 121.76
+  },
+  {
+   "text": "death",
+   "time": 122.48,
+   "weight": 0.99,
+   "note_time": 122.47
+  },
+  {
+   "text": "is",
+   "time": 122.9,
+   "weight": 0.99,
+   "note_time": 122.65
+  },
+  {
+   "text": "your",
+   "time": 123.28,
+   "weight": 0.84,
+   "note_time": 122.82
+  },
+  {
+   "text": "vic",
+   "time": 123.58,
+   "weight": 1.0,
+   "note_time": 123.35
+  },
+  {
+   "text": "tory",
+   "time": 123.93,
+   "weight": 1.0,
+   "note_time": 123.88
+  },
+  {
+   "text": "Where",
+   "time": 125.56,
+   "weight": 0.62,
+   "note_time": 125.29
+  },
+  {
+   "text": "O",
+   "time": 126.16,
+   "weight": 0.0,
+   "note_time": 126.0
+  },
+  {
+   "text": "death",
+   "time": 126.76,
+   "weight": 1.0,
+   "note_time": 126.35
+  },
+  {
+   "text": "is",
+   "time": 127.18,
+   "weight": 1.0,
+   "note_time": 126.71
+  },
+  {
+   "text": "your",
+   "time": 127.54,
+   "weight": 1.0,
+   "note_time": 126.88
+  },
+  {
+   "text": "sting",
+   "time": 127.92,
+   "weight": 0.98,
+   "note_time": 127.41
+  },
+  {
+   "text": "The",
+   "time": 129.76,
+   "weight": 0.99,
+   "note_time": 129.53
+  },
+  {
+   "text": "sting",
+   "time": 130.62,
+   "weight": 0.99,
+   "note_time": 130.24
+  },
+  {
+   "text": "of",
+   "time": 130.84,
+   "weight": 1.0,
+   "note_time": 130.59
+  },
+  {
+   "text": "death",
+   "time": 131.34,
+   "weight": 1.0,
+   "note_time": 130.94
+  },
+  {
+   "text": "is",
+   "time": 131.82,
+   "weight": 1.0,
+   "note_time": 131.12
+  },
+  {
+   "text": "sin",
+   "time": 132.26,
+   "weight": 1.0,
+   "note_time": 131.65
+  },
+  {
+   "text": "But",
+   "time": 133.38,
+   "weight": 0.97,
+   "note_time": 132.71
+  },
+  {
+   "text": "God",
+   "time": 133.88,
+   "weight": 1.0,
+   "note_time": 133.41
+  },
+  {
+   "text": "gives",
+   "time": 134.28,
+   "weight": 1.0,
+   "note_time": 133.76
+  },
+  {
+   "text": "us",
+   "time": 134.66,
+   "weight": 1.0,
+   "note_time": 134.29
+  },
+  {
+   "text": "the",
+   "time": 135.22,
+   "weight": 1.0,
+   "note_time": 134.47
+  },
+  {
+   "text": "vic",
+   "time": 135.42,
+   "weight": 1.0,
+   "note_time": 135.0
+  },
+  {
+   "text": "tory",
+   "time": 135.77,
+   "weight": 1.0,
+   "note_time": 135.53
+  },
+  {
+   "text": "Death",
+   "time": 135.71,
+   "weight": 0.0,
+   "note_time": 139.76
+  },
+  {
+   "text": "has",
+   "time": 135.66,
+   "weight": 0.0,
+   "note_time": 140.82
+  },
+  {
+   "text": "been",
+   "time": 135.6,
+   "weight": 0.0,
+   "note_time": 141.88
+  },
+  {
+   "text": "swal",
+   "time": 135.55,
+   "weight": 0.0,
+   "note_time": 142.94
+  },
+  {
+   "text": "lowed",
+   "time": 135.49,
+   "weight": 0.0,
+   "note_time": 143.65
+  },
+  {
+   "text": "up",
+   "time": 135.44,
+   "weight": 0.0,
+   "note_time": 144.0
+  },
+  {
+   "text": "Vic",
+   "time": 135.38,
+   "weight": 0.88,
+   "note_time": 145.06
+  },
+  {
+   "text": "tory",
+   "time": 135.73,
+   "weight": 0.88,
+   "note_time": 146.12
+  },
+  {
+   "text": "is",
+   "time": 136.13,
+   "weight": 0.0,
+   "note_time": 147.18
+  },
+  {
+   "text": "ours",
+   "time": 136.53,
+   "weight": 0.0,
+   "note_time": 147.88
+  },
+  {
+   "text": "to",
+   "time": 136.93,
+   "weight": 0.0,
+   "note_time": 148.24
+  },
+  {
+   "text": "keep",
+   "time": 137.33,
+   "weight": 0.0,
+   "note_time": 149.29
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "24 of 26 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

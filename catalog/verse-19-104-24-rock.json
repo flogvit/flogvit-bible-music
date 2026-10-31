@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-104-24-rock",
+  "title": "Full of your creatures",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 104,
+    "verseStart": 24,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 104,
+      "verseStart": 24,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone solo with backing choir, acoustic guitar, electric guitar, drums, bass, piano, uplifting and majestic mood, 95 BPM",
+    "lyrics": "[Verse]\nThe young lions roar for their prey\nSeeking their food from God alone\nWhen the sun rises in the east\nThey steal away to lie down in dens\n\n[Verse]\nPeople go out to their work\nTo their labor until evening comes\nBut the earth is full of your creatures\nMade by wisdom, one by one\n\n[Chorus]\nHow many are your works, LORD\nIn wisdom you made them all\nThe earth is full of your creatures\nGreat and small, standing tall\n\n[Verse]\nThere is the sea, vast and wide\nTeeming with creatures beyond number\nLiving things both small and great\nShips move along, that’s the measure\n\n[Chorus]\nHow many are your works, LORD\nIn wisdom you made them all\nThe earth is full of your creatures\nGreat and small, standing tall\n\n[Bridge]\nLeviathan plays in the deep\nWhich you formed to roam\nAll of them look to you\nTo give them food in time\n\n[Chorus]\nHow many are your works, LORD\nIn wisdom you made them all\nThe earth is full of your creatures\nGreat and small, standing tall\n\n[Outro]\nLook to you for food at the proper time\nGreat are your works, in wisdom made",
+    "cot": "full",
+    "seed": 20287
+  }
+}

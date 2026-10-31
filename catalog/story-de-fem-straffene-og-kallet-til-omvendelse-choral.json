@@ -1,0 +1,46 @@
+{
+  "id": "story-de-fem-straffene-og-kallet-til-omvendelse-choral",
+  "title": "Prepare to Meet Your God",
+  "kind": "story",
+  "anchor": {
+    "story": "de-fem-straffene-og-kallet-til-omvendelse"
+  },
+  "references": [
+    {
+      "bookId": 30,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [
+      "de-fem-straffene-og-kallet-til-omvendelse"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn male baritone solo with choir, organ, cello, timpani, harp, low brass, grave and majestic, 72 BPM",
+    "lyrics": "[Verse]\nI gave you empty stomachs in all your cities\nLack of bread in all your places, yet you refused\nI withheld the rain when harvest was near\nSent it on one city, but not on another\n\n[Verse]\nFields staggered for water but found no relief\nBlight and mildew struck your gardens and trees\nLocusts devoured figs and vines you loved\nPlagues went out as they did to Egypt\n\n[Verse]\nYour young men killed by the sword, horses taken\nStench of camps rose into your nostrils\nI overthrew you like Sodom and Gomorrah\nA charred stick snatched from the fire\n\n[Verse]\nYet you did not return to me, declares the Lord\nTherefore I will do this to you, Israel\nPrepare yourself to meet your God, Israel\nHe who forms the mountains and creates the wind\n\n[Outro]\nThe LORD, the God of hosts, is his name",
+    "cot": "full",
+    "seed": 20285
+  }
+}

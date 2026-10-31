@@ -1,0 +1,42 @@
+{
+  "id": "story-jeremia-39-lofte-til-ebed-melek-orchestral",
+  "title": "You Have Trusted In Me",
+  "kind": "story",
+  "anchor": {
+    "story": "jeremia-39-lofte-til-ebed-melek"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 39,
+      "verseStart": 15,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "jeremia-39-lofte-til-ebed-melek"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, cello, flute, piano, timpani, majestic and hopeful mood, 90 BPM",
+    "lyrics": "[Verse]\nJeremiah waits in the guard court alone\nThe word of the Lord breaks the heavy stone\nA message is sent to Ebed-melech\nFor the Cushite man who holds his breath\n\n[Pre-Chorus]\nThe city faces disaster and not good\nThe words will pass before his eyes in the flood\n\n[Chorus]\nBut I will rescue you on that day\nYou will not be handed over in fear\nI will surely deliver you away\nYou will escape with your life, I swear\n\n[Verse]\nThe men you dread will not take you down\nYour trust in me has saved the crown\nYou have trusted in me, declares the Lord\nA life preserved by the mighty word\n\n[Chorus]\nBut I will rescue you on that day\nYou will not be handed over in fear\nI will surely deliver you away\nYou will escape with your life, I swear\n\n[Bridge]\nThe sword shall not fall, the doom is gone\nThe promise stands like the rising sun\n\n[Chorus]\nBut I will rescue you on that day\nYou will not be handed over in fear\nI will surely deliver you away\nYou will escape with your life, I swear\n\n[Outro]\nBecause you have trusted in me",
+    "cot": "full",
+    "seed": 20286
+  }
+}

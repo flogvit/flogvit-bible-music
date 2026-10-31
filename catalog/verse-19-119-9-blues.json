@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-119-9-blues",
+  "title": "Guarding My Path",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 119,
+    "verseStart": 9,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 119,
+      "verseStart": 9,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, double bass, muted trumpet, slow and reflective, 70 BPM",
+    "lyrics": "[Verse]\nHow can a young man keep his path pure\nBy guarding it according to your word\nWith all my heart I seek you now\nDo not let me stray from your commandments\n\n[Chorus]\nI have stored up your word in my heart\nSo that I may not sin against you\nYour law is the light of my feet\nGuiding me through the night\n\n[Verse]\nI will thank you with an upright heart\nAs I learn your righteous judgments\nI will keep your statutes close\nDo not utterly forsake me here\n\n[Chorus]\nI have stored up your word in my heart\nSo that I may not sin against you\nYour law is the light of my feet\nGuiding me through the night\n\n[Bridge]\nBlessed are you Lord teach me your statutes\nWith my lips I recount all the judgments\nIn the way of your testimonies I rejoice\nAs over all riches in the world\n\n[Chorus]\nI have stored up your word in my heart\nSo that I may not sin against you\nYour law is the light of my feet\nGuiding me through the night\n\n[Outro]\nGuarding it according to your word\nMy heart is safe within your law",
+    "cot": "full",
+    "seed": 20294
+  }
+}

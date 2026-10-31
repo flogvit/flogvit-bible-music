@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-119-105-acoustic",
+  "title": "Lamp and Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 119,
+    "verseStart": 105,
+    "verseEnd": 105
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 119,
+      "verseStart": 105,
+      "verseEnd": 105
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, cello, soft piano, ambient pads, gentle flute, serene and reflective, 80 BPM",
+    "lyrics": "[Verse]\nI have not turned away from your judgments\nFor you yourself have taught me the way\nHow sweet your promise is to my taste\nSweeter than honey in my mouth\nFrom your precepts I gain understanding\nI hate every path of falsehood\n\n[Chorus]\nYour word is a lamp to my feet\nA light on my path in the night\nGuiding my steps with divine grace\nShining through the darkness deep\n\n[Verse]\nI have sworn an oath and confirmed it\nTo keep your righteous judgments true\nI have been afflicted beyond measure\nLORD give me life according to your word\nAccept the freewill offerings of my mouth\nAnd teach me your judgments again\n\n[Chorus]\nYour word is a lamp to my feet\nA light on my path in the night\nGuiding my steps with divine grace\nShining through the darkness deep\n\n[Bridge]\nSweet honey flows into my heart\nUnderstanding grows from your precepts\nFalsehood fades in the bright light\nYour truth remains forever sure\n\n[Outro]\nYour word is a lamp to my feet\nA light on my path in the night",
+    "cot": "full",
+    "seed": 20292
+  }
+}

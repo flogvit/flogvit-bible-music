@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-119-165-worship",
+  "title": "Nothing Makes Them Stumble",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 119,
+    "verseStart": 165,
+    "verseEnd": 165
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 119,
+      "verseStart": 165,
+      "verseEnd": 165
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "obedience",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice with soft choir, acoustic piano, cello, gentle pads, steady drums, peaceful and reverent, 72 BPM",
+    "lyrics": "[Verse]\nI rejoice over your promise like one who finds great spoil\nI hate and detest falsehood but I love your law\nSeven times a day I praise you for your righteous judgments\nMy soul keeps your testimonies and I love them deeply\n\n[Chorus]\nGreat peace belongs to those who love your law\nAnd nothing makes them stumble\nI wait for your salvation and I follow your commandments\nGreat peace belongs to those who love your law\nAnd nothing makes them stumble\n\n[Verse]\nI keep your precepts and your testimonies\nFor all my ways lie open before you\nMy soul keeps your testimonies and I love them deeply\nGreat peace belongs to those who love your law\n\n[Chorus]\nGreat peace belongs to those who love your law\nAnd nothing makes them stumble\nI wait for your salvation and I follow your commandments\nGreat peace belongs to those who love your law\nAnd nothing makes them stumble\n\n[Bridge]\nI hate and detest falsehood but I love your law\nSeven times a day I praise you for your righteous judgments\nMy soul keeps your testimonies and I love them deeply\n\n[Outro]\nGreat peace belongs to those who love your law\nAnd nothing makes them stumble",
+    "cot": "full",
+    "seed": 20293
+  }
+}

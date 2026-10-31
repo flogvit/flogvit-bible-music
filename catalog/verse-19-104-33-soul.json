@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-104-33-soul",
+  "title": "I Will Sing to the Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 104,
+    "verseStart": 33,
+    "verseEnd": 34
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 104,
+      "verseStart": 33,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, female solo voice with deep choir, upright bass, Hammond organ, warm drums, soft piano, uplifting and reverent, 80 BPM",
+    "lyrics": "[Verse]\nWhen you send forth your Spirit\nThey are created anew\nYou renew the face of the earth\nWith grace that we receive\n\n[Pre-Chorus]\nMay the glory of the Lord\nEndure forevermore\nMay he rejoice in his works\nWho trembles the earth and more\n\n[Chorus]\nI will sing to the Lord all my life\nI will sing praise to my God as long as I live\nMay my meditation please him\nI will rejoice in the Lord\n\n[Verse]\nHe looks at the earth and it trembles\nTouches the mountains and they smoke\nThe wicked shall vanish from the earth\nSinners shall be no more\n\n[Chorus]\nI will sing to the Lord all my life\nI will sing praise to my God as long as I live\nMay my meditation please him\nI will rejoice in the Lord\n\n[Bridge]\nBless the Lord my soul\nPraise the Lord forever\nHis works are perfect\nHis presence is near\n\n[Chorus]\nI will sing to the Lord all my life\nI will sing praise to my God as long as I live\nMay my meditation please him\nI will rejoice in the Lord",
+    "cot": "full",
+    "seed": 20288
+  }
+}

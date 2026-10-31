@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-118-1-celtic",
+  "title": "His Steadfast Love",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 118,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 118,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with ethereal choir, celtic harp, bodhran, tin whistle, piano, atmospheric pads, joyful and reverent mood, 110 BPM",
+    "lyrics": "[Verse]\nGive thanks to the LORD, for he is good\nHis steadfast love endures forever\nLet Israel say it with one voice\nHis steadfast love endures forever\n\n[Chorus]\nHis steadfast love endures forever\nHis steadfast love endures forever\n\n[Verse]\nLet the house of Aaron say it\nHis steadfast love endures forever\nLet those who fear the LORD say it\nHis steadfast love endures forever\n\n[Chorus]\nHis steadfast love endures forever\nHis steadfast love endures forever\n\n[Bridge]\nGoodness found in the ancient way\nLove that never fades or decays\nSay it now, let the words ring out\nSteadfast love, without a doubt\n\n[Chorus]\nHis steadfast love endures forever\nHis steadfast love endures forever\n\n[Outro]\nGive thanks, for he is good\nHis steadfast love endures forever",
+    "cot": "full",
+    "seed": 20290
+  }
+}

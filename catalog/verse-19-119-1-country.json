@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-119-1-country",
+  "title": "Walk in the Law",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 119,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 119,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "holiness",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male warm baritone solo, acoustic guitar, piano, cello, fiddle, soft drums, reflective and hopeful, 85 BPM",
+    "lyrics": "[Verse]\nBlessed are those whose way is blameless\nWho walk in the law of the Lord\nThey keep his testimonies so\nAnd seek him with their whole heart's core\n\n[Chorus]\nBlessed are those who walk in the law\nBlessed are those who keep his word\nBlessed are those who walk in the law\nBlessed are those who keep his word\n\n[Verse]\nIndeed they do no wrong at all\nThey walk in his ways on the ground\nYou have laid down your precepts there\nTo be kept with care in every place\n\n[Chorus]\nBlessed are those who walk in the law\nBlessed are those who keep his word\nBlessed are those who walk in the law\nBlessed are those who keep his word\n\n[Bridge]\nOh that my ways were steady\nIn keeping your statutes true\nMy heart would find its rest then\nIn what your spirit has done\n\n[Outro]\nBlessed are those who walk in the law\nBlessed are those who keep his word",
+    "cot": "full",
+    "seed": 20291
+  }
+}

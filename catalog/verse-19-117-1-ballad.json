@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-117-1-ballad",
+  "title": "Great is his steadfast love",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 117,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 117,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, warm and inviting, acoustic guitar, piano, strings, cello, hopeful, 80 BPM",
+    "lyrics": "[Verse]\nAll you nations praise the LORD\nExtol him all you peoples here\nHis love is great toward us\nHis faithfulness endures forever\n\n[Chorus]\nPraise the LORD all you nations\nExtol him all you peoples\nGreat is his steadfast love\nFaithfulness endures forever\n\n[Verse]\nNo border stops this song\nNo people left behind\nThe LORD is faithful still\nTo us his love is kind\n\n[Chorus]\nPraise the LORD all you nations\nExtol him all you peoples\nGreat is his steadfast love\nFaithfulness endures forever\n\n[Bridge]\nHis love is great toward us\nHis faithfulness never ends\nPraise the LORD\n\n[Chorus]\nPraise the LORD all you nations\nExtol him all you peoples\nGreat is his steadfast love\nFaithfulness endures forever\n\n[Outro]\nEndures forever\nPraise the LORD",
+    "cot": "full",
+    "seed": 20289
+  }
+}

@@ -1,0 +1,1376 @@
+{
+ "id": "verse-49-3-20-blues",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-49-3-20-blues",
+ "offset_seconds": -4.200000000000166,
+ "words_heard": 142,
+ "words": 145,
+ "lines": [
+  {
+   "text": "Christ dwells in hearts through faith",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Rooted and grounded in love",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Power with saints to grasp",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The wide and long and high and deep",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To Him who is able to do",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Far beyond all that we ask or imagine",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "According to the power at work",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Within us, glory be",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Know the love that surpasses knowledge",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Filled with the fullness of God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the church and in Christ Jesus",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Glory throughout all generations",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To Him who is able to do",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Far beyond all that we ask or imagine",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "According to the power at work",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Within us, glory be",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forever and ever, Amen",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Glory in the church and in Christ",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Beyond our asking, beyond our sight",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The power at work within us",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To Him who is able to do",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Far beyond all that we ask or imagine",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "According to the power at work",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Within us, glory be",
+   "heard": 4,
+   "words": 4,
+   "error_s": 3.19,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Christ",
+   "time": 43.5,
+   "weight": 0.25,
+   "note_time": 43.56
+  },
+  {
+   "text": "dwells",
+   "time": 44.88,
+   "weight": 0.98,
+   "note_time": 44.38
+  },
+  {
+   "text": "in",
+   "time": 46.24,
+   "weight": 0.99,
+   "note_time": 45.21
+  },
+  {
+   "text": "hearts",
+   "time": 46.54,
+   "weight": 1.0,
+   "note_time": 45.62
+  },
+  {
+   "text": "through",
+   "time": 47.2,
+   "weight": 0.98,
+   "note_time": 46.44
+  },
+  {
+   "text": "faith",
+   "time": 47.78,
+   "weight": 0.99,
+   "note_time": 47.26
+  },
+  {
+   "text": "Root",
+   "time": 51.32,
+   "weight": 0.91,
+   "note_time": 50.96
+  },
+  {
+   "text": "ed",
+   "time": 51.67,
+   "weight": 0.91,
+   "note_time": 51.37
+  },
+  {
+   "text": "and",
+   "time": 52.7,
+   "weight": 0.97,
+   "note_time": 51.78
+  },
+  {
+   "text": "ground",
+   "time": 53.18,
+   "weight": 0.98,
+   "note_time": 52.19
+  },
+  {
+   "text": "ed",
+   "time": 53.53,
+   "weight": 0.98,
+   "note_time": 53.01
+  },
+  {
+   "text": "in",
+   "time": 54.26,
+   "weight": 0.98,
+   "note_time": 53.42
+  },
+  {
+   "text": "love",
+   "time": 54.86,
+   "weight": 0.99,
+   "note_time": 53.84
+  },
+  {
+   "text": "Pow",
+   "time": 57.62,
+   "weight": 0.98,
+   "note_time": 57.53
+  },
+  {
+   "text": "er",
+   "time": 57.97,
+   "weight": 0.98,
+   "note_time": 57.95
+  },
+  {
+   "text": "with",
+   "time": 59.0,
+   "weight": 0.98,
+   "note_time": 58.36
+  },
+  {
+   "text": "saints",
+   "time": 59.72,
+   "weight": 1.0,
+   "note_time": 58.77
+  },
+  {
+   "text": "to",
+   "time": 60.2,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "grasp",
+   "time": 61.34,
+   "weight": 0.72,
+   "note_time": 60.41
+  },
+  {
+   "text": "The",
+   "time": 61.96,
+   "weight": 0.1,
+   "note_time": 62.26
+  },
+  {
+   "text": "wide",
+   "time": 63.52,
+   "weight": 0.98,
+   "note_time": 63.7
+  },
+  {
+   "text": "and",
+   "time": 64.04,
+   "weight": 0.99,
+   "note_time": 63.9
+  },
+  {
+   "text": "long",
+   "time": 64.72,
+   "weight": 0.99,
+   "note_time": 64.11
+  },
+  {
+   "text": "and",
+   "time": 65.5,
+   "weight": 0.75,
+   "note_time": 65.75
+  },
+  {
+   "text": "high",
+   "time": 66.86,
+   "weight": 0.98,
+   "note_time": 66.58
+  },
+  {
+   "text": "and",
+   "time": 67.26,
+   "weight": 0.98,
+   "note_time": 66.99
+  },
+  {
+   "text": "deep",
+   "time": 68.06,
+   "weight": 1.0,
+   "note_time": 67.19
+  },
+  {
+   "text": "To",
+   "time": 68.54,
+   "weight": 0.71,
+   "note_time": 68.63
+  },
+  {
+   "text": "Him",
+   "time": 69.96,
+   "weight": 0.78,
+   "note_time": 69.86
+  },
+  {
+   "text": "who",
+   "time": 70.5,
+   "weight": 0.93,
+   "note_time": 70.68
+  },
+  {
+   "text": "is",
+   "time": 71.22,
+   "weight": 0.99,
+   "note_time": 71.1
+  },
+  {
+   "text": "ab",
+   "time": 71.76,
+   "weight": 1.0,
+   "note_time": 71.51
+  },
+  {
+   "text": "le",
+   "time": 72.09,
+   "weight": 1.0,
+   "note_time": 71.92
+  },
+  {
+   "text": "to",
+   "time": 72.42,
+   "weight": 1.0,
+   "note_time": 72.53
+  },
+  {
+   "text": "do",
+   "time": 72.9,
+   "weight": 1.0,
+   "note_time": 72.74
+  },
+  {
+   "text": "Far",
+   "time": 74.8,
+   "weight": 0.8,
+   "note_time": 74.79
+  },
+  {
+   "text": "be",
+   "time": 76.02,
+   "weight": 1.0,
+   "note_time": 75.21
+  },
+  {
+   "text": "yond",
+   "time": 76.37,
+   "weight": 1.0,
+   "note_time": 75.41
+  },
+  {
+   "text": "all",
+   "time": 76.8,
+   "weight": 1.0,
+   "note_time": 76.03
+  },
+  {
+   "text": "that",
+   "time": 77.48,
+   "weight": 0.99,
+   "note_time": 76.44
+  },
+  {
+   "text": "we",
+   "time": 77.82,
+   "weight": 1.0,
+   "note_time": 76.85
+  },
+  {
+   "text": "ask",
+   "time": 78.22,
+   "weight": 0.99,
+   "note_time": 77.05
+  },
+  {
+   "text": "or",
+   "time": 79.0,
+   "weight": 0.99,
+   "note_time": 78.08
+  },
+  {
+   "text": "i",
+   "time": 79.5,
+   "weight": 1.0,
+   "note_time": 78.29
+  },
+  {
+   "text": "ma",
+   "time": 79.71,
+   "weight": 1.0,
+   "note_time": 78.49
+  },
+  {
+   "text": "gine",
+   "time": 79.93,
+   "weight": 1.0,
+   "note_time": 79.11
+  },
+  {
+   "text": "Ac",
+   "time": 82.4,
+   "weight": 0.98,
+   "note_time": 81.99
+  },
+  {
+   "text": "cord",
+   "time": 82.75,
+   "weight": 0.98,
+   "note_time": 82.4
+  },
+  {
+   "text": "ing",
+   "time": 83.1,
+   "weight": 0.98,
+   "note_time": 83.01
+  },
+  {
+   "text": "to",
+   "time": 83.62,
+   "weight": 1.0,
+   "note_time": 83.63
+  },
+  {
+   "text": "the",
+   "time": 84.32,
+   "weight": 0.99,
+   "note_time": 84.25
+  },
+  {
+   "text": "pow",
+   "time": 84.78,
+   "weight": 0.97,
+   "note_time": 84.66
+  },
+  {
+   "text": "er",
+   "time": 85.13,
+   "weight": 0.97,
+   "note_time": 85.07
+  },
+  {
+   "text": "at",
+   "time": 85.64,
+   "weight": 0.0,
+   "note_time": 85.68
+  },
+  {
+   "text": "work",
+   "time": 86.14,
+   "weight": 0.51,
+   "note_time": 85.89
+  },
+  {
+   "text": "With",
+   "time": 88.06,
+   "weight": 0.16,
+   "note_time": 87.95
+  },
+  {
+   "text": "in",
+   "time": 88.41,
+   "weight": 0.16,
+   "note_time": 88.36
+  },
+  {
+   "text": "us,",
+   "time": 89.46,
+   "weight": 1.0,
+   "note_time": 89.18
+  },
+  {
+   "text": "glo",
+   "time": 93.74,
+   "weight": 0.57,
+   "note_time": 93.7
+  },
+  {
+   "text": "ry",
+   "time": 94.09,
+   "weight": 0.57,
+   "note_time": 94.52
+  },
+  {
+   "text": "be",
+   "time": 95.14,
+   "weight": 0.96,
+   "note_time": 94.93
+  },
+  {
+   "text": "Know",
+   "time": 102.56,
+   "weight": 0.92,
+   "note_time": 102.74
+  },
+  {
+   "text": "the",
+   "time": 103.96,
+   "weight": 1.0,
+   "note_time": 103.15
+  },
+  {
+   "text": "love",
+   "time": 104.42,
+   "weight": 0.99,
+   "note_time": 103.36
+  },
+  {
+   "text": "that",
+   "time": 104.86,
+   "weight": 0.92,
+   "note_time": 103.97
+  },
+  {
+   "text": "sur",
+   "time": 105.32,
+   "weight": 0.39,
+   "note_time": 104.38
+  },
+  {
+   "text": "pass",
+   "time": 105.67,
+   "weight": 0.39,
+   "note_time": 104.79
+  },
+  {
+   "text": "es",
+   "time": 106.02,
+   "weight": 0.39,
+   "note_time": 105.62
+  },
+  {
+   "text": "knowl",
+   "time": 107.04,
+   "weight": 0.96,
+   "note_time": 106.44
+  },
+  {
+   "text": "edge",
+   "time": 107.39,
+   "weight": 0.96,
+   "note_time": 107.26
+  },
+  {
+   "text": "Filled",
+   "time": 110.16,
+   "weight": 0.98,
+   "note_time": 110.14
+  },
+  {
+   "text": "with",
+   "time": 111.56,
+   "weight": 1.0,
+   "note_time": 110.55
+  },
+  {
+   "text": "the",
+   "time": 111.92,
+   "weight": 1.0,
+   "note_time": 110.96
+  },
+  {
+   "text": "full",
+   "time": 112.28,
+   "weight": 0.99,
+   "note_time": 111.37
+  },
+  {
+   "text": "ness",
+   "time": 112.63,
+   "weight": 0.99,
+   "note_time": 112.19
+  },
+  {
+   "text": "of",
+   "time": 113.24,
+   "weight": 1.0,
+   "note_time": 112.6
+  },
+  {
+   "text": "God",
+   "time": 113.88,
+   "weight": 1.0,
+   "note_time": 113.01
+  },
+  {
+   "text": "In",
+   "time": 114.54,
+   "weight": 0.17,
+   "note_time": 115.89
+  },
+  {
+   "text": "the",
+   "time": 117.08,
+   "weight": 0.99,
+   "note_time": 116.3
+  },
+  {
+   "text": "church",
+   "time": 117.28,
+   "weight": 0.81,
+   "note_time": 117.12
+  },
+  {
+   "text": "and",
+   "time": 117.9,
+   "weight": 0.98,
+   "note_time": 117.95
+  },
+  {
+   "text": "in",
+   "time": 118.58,
+   "weight": 0.99,
+   "note_time": 118.77
+  },
+  {
+   "text": "Christ",
+   "time": 119.3,
+   "weight": 1.0,
+   "note_time": 119.59
+  },
+  {
+   "text": "Je",
+   "time": 120.02,
+   "weight": 1.0,
+   "note_time": 120.21
+  },
+  {
+   "text": "sus",
+   "time": 120.37,
+   "weight": 1.0,
+   "note_time": 120.41
+  },
+  {
+   "text": "Glo",
+   "time": 121.56,
+   "weight": 0.79,
+   "note_time": 121.64
+  },
+  {
+   "text": "ry",
+   "time": 121.91,
+   "weight": 0.79,
+   "note_time": 122.05
+  },
+  {
+   "text": "through",
+   "time": 122.82,
+   "weight": 1.0,
+   "note_time": 122.88
+  },
+  {
+   "text": "out",
+   "time": 123.17,
+   "weight": 1.0,
+   "note_time": 123.08
+  },
+  {
+   "text": "all",
+   "time": 123.72,
+   "weight": 1.0,
+   "note_time": 123.29
+  },
+  {
+   "text": "gen",
+   "time": 124.98,
+   "weight": 0.39,
+   "note_time": 123.7
+  },
+  {
+   "text": "er",
+   "time": 125.33,
+   "weight": 0.39,
+   "note_time": 125.34
+  },
+  {
+   "text": "a",
+   "time": 125.68,
+   "weight": 0.39,
+   "note_time": 125.75
+  },
+  {
+   "text": "tions",
+   "time": 126.03,
+   "weight": 0.39,
+   "note_time": 126.16
+  },
+  {
+   "text": "To",
+   "time": 127.9,
+   "weight": 0.98,
+   "note_time": 127.81
+  },
+  {
+   "text": "Him",
+   "time": 128.86,
+   "weight": 0.76,
+   "note_time": 129.04
+  },
+  {
+   "text": "who",
+   "time": 129.4,
+   "weight": 0.99,
+   "note_time": 129.45
+  },
+  {
+   "text": "is",
+   "time": 130.1,
+   "weight": 1.0,
+   "note_time": 129.86
+  },
+  {
+   "text": "ab",
+   "time": 130.68,
+   "weight": 1.0,
+   "note_time": 130.27
+  },
+  {
+   "text": "le",
+   "time": 131.02,
+   "weight": 1.0,
+   "note_time": 130.68
+  },
+  {
+   "text": "to",
+   "time": 131.36,
+   "weight": 1.0,
+   "note_time": 131.1
+  },
+  {
+   "text": "do",
+   "time": 131.8,
+   "weight": 1.0,
+   "note_time": 131.71
+  },
+  {
+   "text": "Far",
+   "time": 132.9,
+   "weight": 0.39,
+   "note_time": 133.97
+  },
+  {
+   "text": "be",
+   "time": 134.96,
+   "weight": 1.0,
+   "note_time": 134.38
+  },
+  {
+   "text": "yond",
+   "time": 135.21,
+   "weight": 1.0,
+   "note_time": 134.59
+  },
+  {
+   "text": "all",
+   "time": 135.46,
+   "weight": 1.0,
+   "note_time": 135.21
+  },
+  {
+   "text": "that",
+   "time": 136.32,
+   "weight": 1.0,
+   "note_time": 135.62
+  },
+  {
+   "text": "we",
+   "time": 136.68,
+   "weight": 1.0,
+   "note_time": 136.03
+  },
+  {
+   "text": "ask",
+   "time": 137.0,
+   "weight": 0.97,
+   "note_time": 136.23
+  },
+  {
+   "text": "or",
+   "time": 137.68,
+   "weight": 0.99,
+   "note_time": 137.26
+  },
+  {
+   "text": "i",
+   "time": 138.32,
+   "weight": 1.0,
+   "note_time": 137.47
+  },
+  {
+   "text": "ma",
+   "time": 138.53,
+   "weight": 1.0,
+   "note_time": 137.67
+  },
+  {
+   "text": "gine",
+   "time": 138.73,
+   "weight": 1.0,
+   "note_time": 138.29
+  },
+  {
+   "text": "Ac",
+   "time": 140.82,
+   "weight": 0.49,
+   "note_time": 141.16
+  },
+  {
+   "text": "cord",
+   "time": 141.17,
+   "weight": 0.49,
+   "note_time": 141.37
+  },
+  {
+   "text": "ing",
+   "time": 141.52,
+   "weight": 0.49,
+   "note_time": 141.58
+  },
+  {
+   "text": "to",
+   "time": 142.22,
+   "weight": 0.99,
+   "note_time": 142.19
+  },
+  {
+   "text": "the",
+   "time": 143.06,
+   "weight": 0.97,
+   "note_time": 142.81
+  },
+  {
+   "text": "pow",
+   "time": 143.48,
+   "weight": 0.97,
+   "note_time": 143.42
+  },
+  {
+   "text": "er",
+   "time": 143.8,
+   "weight": 0.97,
+   "note_time": 143.84
+  },
+  {
+   "text": "at",
+   "time": 144.34,
+   "weight": 0.0,
+   "note_time": 144.25
+  },
+  {
+   "text": "work",
+   "time": 144.88,
+   "weight": 0.7,
+   "note_time": 144.86
+  },
+  {
+   "text": "With",
+   "time": 145.34,
+   "weight": 0.26,
+   "note_time": 147.12
+  },
+  {
+   "text": "in",
+   "time": 145.69,
+   "weight": 0.26,
+   "note_time": 147.53
+  },
+  {
+   "text": "us,",
+   "time": 148.38,
+   "weight": 1.0,
+   "note_time": 148.36
+  },
+  {
+   "text": "glo",
+   "time": 152.42,
+   "weight": 0.44,
+   "note_time": 152.88
+  },
+  {
+   "text": "ry",
+   "time": 152.77,
+   "weight": 0.44,
+   "note_time": 153.7
+  },
+  {
+   "text": "be",
+   "time": 153.82,
+   "weight": 0.9,
+   "note_time": 154.11
+  },
+  {
+   "text": "For",
+   "time": 186.32,
+   "weight": 0.81,
+   "note_time": 186.99
+  },
+  {
+   "text": "ev",
+   "time": 186.67,
+   "weight": 0.81,
+   "note_time": 187.4
+  },
+  {
+   "text": "er",
+   "time": 187.02,
+   "weight": 0.81,
+   "note_time": 187.81
+  },
+  {
+   "text": "and",
+   "time": 187.5,
+   "weight": 0.99,
+   "note_time": 188.22
+  },
+  {
+   "text": "ev",
+   "time": 188.46,
+   "weight": 0.99,
+   "note_time": 188.63
+  },
+  {
+   "text": "er,",
+   "time": 188.79,
+   "weight": 0.99,
+   "note_time": 189.45
+  },
+  {
+   "text": "A",
+   "time": 189.85,
+   "weight": 0.0,
+   "note_time": 189.86
+  },
+  {
+   "text": "men",
+   "time": 190.9,
+   "weight": 0.0,
+   "note_time": 190.27
+  },
+  {
+   "text": "Glo",
+   "time": 191.96,
+   "weight": 0.56,
+   "note_time": 193.15
+  },
+  {
+   "text": "ry",
+   "time": 192.31,
+   "weight": 0.56,
+   "note_time": 193.36
+  },
+  {
+   "text": "in",
+   "time": 193.14,
+   "weight": 1.0,
+   "note_time": 193.56
+  },
+  {
+   "text": "the",
+   "time": 193.62,
+   "weight": 0.99,
+   "note_time": 193.77
+  },
+  {
+   "text": "church",
+   "time": 193.76,
+   "weight": 0.7,
+   "note_time": 193.97
+  },
+  {
+   "text": "and",
+   "time": 194.28,
+   "weight": 0.33,
+   "note_time": 196.44
+  },
+  {
+   "text": "in",
+   "time": 196.42,
+   "weight": 0.98,
+   "note_time": 196.64
+  },
+  {
+   "text": "Christ",
+   "time": 196.6,
+   "weight": 1.0,
+   "note_time": 196.85
+  },
+  {
+   "text": "Be",
+   "time": 197.1,
+   "weight": 0.06,
+   "note_time": 199.52
+  },
+  {
+   "text": "yond",
+   "time": 197.45,
+   "weight": 0.06,
+   "note_time": 199.73
+  },
+  {
+   "text": "our",
+   "time": 199.52,
+   "weight": 0.96,
+   "note_time": 199.93
+  },
+  {
+   "text": "ask",
+   "time": 199.94,
+   "weight": 0.91,
+   "note_time": 200.34
+  },
+  {
+   "text": "ing,",
+   "time": 200.29,
+   "weight": 0.91,
+   "note_time": 200.96
+  },
+  {
+   "text": "be",
+   "time": 201.02,
+   "weight": 0.39,
+   "note_time": 203.01
+  },
+  {
+   "text": "yond",
+   "time": 201.37,
+   "weight": 0.39,
+   "note_time": 203.22
+  },
+  {
+   "text": "our",
+   "time": 202.72,
+   "weight": 0.99,
+   "note_time": 203.63
+  },
+  {
+   "text": "sight",
+   "time": 203.12,
+   "weight": 0.99,
+   "note_time": 204.25
+  },
+  {
+   "text": "The",
+   "time": 203.82,
+   "weight": 0.31,
+   "note_time": 206.3
+  },
+  {
+   "text": "pow",
+   "time": 206.0,
+   "weight": 0.95,
+   "note_time": 206.71
+  },
+  {
+   "text": "er",
+   "time": 206.35,
+   "weight": 0.95,
+   "note_time": 207.53
+  },
+  {
+   "text": "at",
+   "time": 206.92,
+   "weight": 0.3,
+   "note_time": 211.64
+  },
+  {
+   "text": "work",
+   "time": 211.24,
+   "weight": 1.0,
+   "note_time": 212.05
+  },
+  {
+   "text": "with",
+   "time": 211.74,
+   "weight": 1.0,
+   "note_time": 212.88
+  },
+  {
+   "text": "in",
+   "time": 212.09,
+   "weight": 1.0,
+   "note_time": 213.29
+  },
+  {
+   "text": "us",
+   "time": 212.62,
+   "weight": 1.0,
+   "note_time": 214.11
+  },
+  {
+   "text": "To",
+   "time": 217.76,
+   "weight": 0.9,
+   "note_time": 219.86
+  },
+  {
+   "text": "Him",
+   "time": 219.16,
+   "weight": 0.77,
+   "note_time": 220.27
+  },
+  {
+   "text": "who",
+   "time": 219.68,
+   "weight": 0.97,
+   "note_time": 221.1
+  },
+  {
+   "text": "is",
+   "time": 220.4,
+   "weight": 0.98,
+   "note_time": 221.51
+  },
+  {
+   "text": "ab",
+   "time": 220.9,
+   "weight": 1.0,
+   "note_time": 221.92
+  },
+  {
+   "text": "le",
+   "time": 221.22,
+   "weight": 1.0,
+   "note_time": 222.33
+  },
+  {
+   "text": "to",
+   "time": 221.54,
+   "weight": 1.0,
+   "note_time": 222.74
+  },
+  {
+   "text": "do",
+   "time": 222.02,
+   "weight": 1.0,
+   "note_time": 223.15
+  },
+  {
+   "text": "Far",
+   "time": 222.56,
+   "weight": 0.06,
+   "note_time": 223.77
+  },
+  {
+   "text": "be",
+   "time": 225.12,
+   "weight": 1.0,
+   "note_time": 223.97
+  },
+  {
+   "text": "yond",
+   "time": 225.47,
+   "weight": 1.0,
+   "note_time": 226.03
+  },
+  {
+   "text": "all",
+   "time": 225.82,
+   "weight": 0.99,
+   "note_time": 226.44
+  },
+  {
+   "text": "that",
+   "time": 226.5,
+   "weight": 1.0,
+   "note_time": 226.64
+  },
+  {
+   "text": "we",
+   "time": 226.86,
+   "weight": 1.0,
+   "note_time": 227.26
+  },
+  {
+   "text": "ask",
+   "time": 227.14,
+   "weight": 0.98,
+   "note_time": 227.67
+  },
+  {
+   "text": "or",
+   "time": 227.96,
+   "weight": 0.99,
+   "note_time": 228.08
+  },
+  {
+   "text": "i",
+   "time": 228.44,
+   "weight": 1.0,
+   "note_time": 228.29
+  },
+  {
+   "text": "ma",
+   "time": 228.64,
+   "weight": 1.0,
+   "note_time": 229.32
+  },
+  {
+   "text": "gine",
+   "time": 228.84,
+   "weight": 1.0,
+   "note_time": 229.52
+  },
+  {
+   "text": "Ac",
+   "time": 231.06,
+   "weight": 0.93,
+   "note_time": 229.73
+  },
+  {
+   "text": "cord",
+   "time": 231.41,
+   "weight": 0.93,
+   "note_time": 230.34
+  },
+  {
+   "text": "ing",
+   "time": 231.76,
+   "weight": 0.93,
+   "note_time": 233.22
+  },
+  {
+   "text": "to",
+   "time": 232.44,
+   "weight": 1.0,
+   "note_time": 233.42
+  },
+  {
+   "text": "the",
+   "time": 233.12,
+   "weight": 0.99,
+   "note_time": 233.63
+  },
+  {
+   "text": "pow",
+   "time": 233.54,
+   "weight": 0.96,
+   "note_time": 234.25
+  },
+  {
+   "text": "er",
+   "time": 233.89,
+   "weight": 0.96,
+   "note_time": 234.66
+  },
+  {
+   "text": "at",
+   "time": 234.3,
+   "weight": 0.9,
+   "note_time": 234.86
+  },
+  {
+   "text": "work",
+   "time": 234.88,
+   "weight": 1.0,
+   "note_time": 235.48
+  },
+  {
+   "text": "With",
+   "time": 236.14,
+   "weight": 0.11,
+   "note_time": 235.89
+  },
+  {
+   "text": "in",
+   "time": 236.49,
+   "weight": 0.11,
+   "note_time": 236.3
+  },
+  {
+   "text": "us,",
+   "time": 238.08,
+   "weight": 1.0,
+   "note_time": 236.92
+  },
+  {
+   "text": "glo",
+   "time": 242.32,
+   "weight": 0.82,
+   "note_time": 237.12
+  },
+  {
+   "text": "ry",
+   "time": 242.67,
+   "weight": 0.82,
+   "note_time": 239.59
+  },
+  {
+   "text": "be",
+   "time": 243.7,
+   "weight": 0.94,
+   "note_time": 240.41
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "21 of 24 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

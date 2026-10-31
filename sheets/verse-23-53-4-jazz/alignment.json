@@ -1,0 +1,1960 @@
+{
+ "id": "verse-23-53-4-jazz",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-23-53-4-jazz",
+ "offset_seconds": -4.840000000000153,
+ "words_heard": 216,
+ "words": 220,
+ "lines": [
+  {
+   "text": "Who has believed our message",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And to whom was the arm revealed",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He grew like a root in dry ground",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No beauty to draw our eyes",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Despised and rejected by men",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A man of sorrows and grief",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We hid our faces from him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And held him of no account",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yet it was our griefs he bore",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Our sorrows he carried alone",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We thought him struck by God",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But pierced for our transgressions",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Crushed for our iniquities",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "By his wounds we are healed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The punishment brought us peace",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.37,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Laid upon him was the weight",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "All we have strayed like sheep",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Turned to our own ways",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord laid on him",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The iniquity of us all",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yet it was our griefs he bore",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Our sorrows he carried alone",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We thought him struck by God",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But pierced for our transgressions",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Crushed for our iniquities",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.62,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "By his wounds we are healed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.83,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Oppressed and afflicted",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.27,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He did not open his mouth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a lamb to slaughter",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Silent before shearers",
+   "heard": 2,
+   "words": 3,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He gave up his life",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the transgression of my people",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yet it was our griefs he bore",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Our sorrows he carried alone",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We thought him struck by God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But pierced for our transgressions",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Crushed for our iniquities",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "By his wounds we are healed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "By his wounds we are healed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "By his wounds we are healed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Who",
+   "time": 18.74,
+   "weight": 0.51,
+   "note_time": 18.75
+  },
+  {
+   "text": "has",
+   "time": 20.14,
+   "weight": 0.99,
+   "note_time": 19.22
+  },
+  {
+   "text": "be",
+   "time": 20.9,
+   "weight": 0.99,
+   "note_time": 19.45
+  },
+  {
+   "text": "lieved",
+   "time": 21.25,
+   "weight": 0.99,
+   "note_time": 20.62
+  },
+  {
+   "text": "our",
+   "time": 21.72,
+   "weight": 0.95,
+   "note_time": 21.56
+  },
+  {
+   "text": "mes",
+   "time": 23.2,
+   "weight": 0.98,
+   "note_time": 22.03
+  },
+  {
+   "text": "sage",
+   "time": 23.54,
+   "weight": 0.98,
+   "note_time": 22.5
+  },
+  {
+   "text": "And",
+   "time": 23.88,
+   "weight": 0.07,
+   "note_time": 25.55
+  },
+  {
+   "text": "to",
+   "time": 27.12,
+   "weight": 0.99,
+   "note_time": 25.78
+  },
+  {
+   "text": "whom",
+   "time": 27.34,
+   "weight": 0.99,
+   "note_time": 26.25
+  },
+  {
+   "text": "was",
+   "time": 27.84,
+   "weight": 0.99,
+   "note_time": 27.42
+  },
+  {
+   "text": "the",
+   "time": 28.92,
+   "weight": 0.99,
+   "note_time": 27.66
+  },
+  {
+   "text": "arm",
+   "time": 29.22,
+   "weight": 0.97,
+   "note_time": 28.12
+  },
+  {
+   "text": "re",
+   "time": 29.76,
+   "weight": 0.99,
+   "note_time": 29.06
+  },
+  {
+   "text": "vealed",
+   "time": 30.11,
+   "weight": 0.99,
+   "note_time": 29.53
+  },
+  {
+   "text": "He",
+   "time": 33.18,
+   "weight": 0.34,
+   "note_time": 33.28
+  },
+  {
+   "text": "grew",
+   "time": 34.58,
+   "weight": 0.93,
+   "note_time": 34.92
+  },
+  {
+   "text": "like",
+   "time": 35.1,
+   "weight": 0.97,
+   "note_time": 35.16
+  },
+  {
+   "text": "a",
+   "time": 36.44,
+   "weight": 0.96,
+   "note_time": 35.62
+  },
+  {
+   "text": "root",
+   "time": 36.72,
+   "weight": 0.69,
+   "note_time": 36.56
+  },
+  {
+   "text": "in",
+   "time": 37.1,
+   "weight": 0.99,
+   "note_time": 37.03
+  },
+  {
+   "text": "dry",
+   "time": 38.1,
+   "weight": 0.94,
+   "note_time": 37.97
+  },
+  {
+   "text": "ground",
+   "time": 38.56,
+   "weight": 1.0,
+   "note_time": 38.2
+  },
+  {
+   "text": "No",
+   "time": 40.1,
+   "weight": 0.31,
+   "note_time": 40.78
+  },
+  {
+   "text": "beau",
+   "time": 42.28,
+   "weight": 0.99,
+   "note_time": 41.72
+  },
+  {
+   "text": "ty",
+   "time": 42.59,
+   "weight": 0.99,
+   "note_time": 42.66
+  },
+  {
+   "text": "to",
+   "time": 42.9,
+   "weight": 1.0,
+   "note_time": 43.12
+  },
+  {
+   "text": "draw",
+   "time": 44.04,
+   "weight": 0.99,
+   "note_time": 44.06
+  },
+  {
+   "text": "our",
+   "time": 44.48,
+   "weight": 0.99,
+   "note_time": 44.53
+  },
+  {
+   "text": "eyes",
+   "time": 45.64,
+   "weight": 0.99,
+   "note_time": 44.77
+  },
+  {
+   "text": "De",
+   "time": 49.34,
+   "weight": 0.99,
+   "note_time": 48.28
+  },
+  {
+   "text": "spised",
+   "time": 49.69,
+   "weight": 0.99,
+   "note_time": 48.75
+  },
+  {
+   "text": "and",
+   "time": 50.74,
+   "weight": 0.99,
+   "note_time": 49.92
+  },
+  {
+   "text": "re",
+   "time": 51.48,
+   "weight": 1.0,
+   "note_time": 50.16
+  },
+  {
+   "text": "ject",
+   "time": 51.66,
+   "weight": 1.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "ed",
+   "time": 51.84,
+   "weight": 1.0,
+   "note_time": 51.09
+  },
+  {
+   "text": "by",
+   "time": 52.02,
+   "weight": 1.0,
+   "note_time": 51.33
+  },
+  {
+   "text": "men",
+   "time": 52.84,
+   "weight": 0.63,
+   "note_time": 52.03
+  },
+  {
+   "text": "A",
+   "time": 55.76,
+   "weight": 0.29,
+   "note_time": 55.78
+  },
+  {
+   "text": "man",
+   "time": 57.16,
+   "weight": 0.99,
+   "note_time": 56.25
+  },
+  {
+   "text": "of",
+   "time": 57.66,
+   "weight": 0.98,
+   "note_time": 57.66
+  },
+  {
+   "text": "sor",
+   "time": 58.96,
+   "weight": 0.99,
+   "note_time": 58.59
+  },
+  {
+   "text": "rows",
+   "time": 59.31,
+   "weight": 0.99,
+   "note_time": 59.53
+  },
+  {
+   "text": "and",
+   "time": 60.38,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "grief",
+   "time": 61.04,
+   "weight": 1.0,
+   "note_time": 60.23
+  },
+  {
+   "text": "We",
+   "time": 63.32,
+   "weight": 0.78,
+   "note_time": 63.28
+  },
+  {
+   "text": "hid",
+   "time": 64.72,
+   "weight": 1.0,
+   "note_time": 64.69
+  },
+  {
+   "text": "our",
+   "time": 65.26,
+   "weight": 1.0,
+   "note_time": 65.62
+  },
+  {
+   "text": "fa",
+   "time": 66.28,
+   "weight": 1.0,
+   "note_time": 66.09
+  },
+  {
+   "text": "ces",
+   "time": 66.63,
+   "weight": 1.0,
+   "note_time": 66.33
+  },
+  {
+   "text": "from",
+   "time": 67.46,
+   "weight": 1.0,
+   "note_time": 67.03
+  },
+  {
+   "text": "him",
+   "time": 68.34,
+   "weight": 0.73,
+   "note_time": 67.97
+  },
+  {
+   "text": "And",
+   "time": 69.38,
+   "weight": 0.39,
+   "note_time": 70.78
+  },
+  {
+   "text": "held",
+   "time": 71.78,
+   "weight": 1.0,
+   "note_time": 71.72
+  },
+  {
+   "text": "him",
+   "time": 72.68,
+   "weight": 1.0,
+   "note_time": 72.66
+  },
+  {
+   "text": "of",
+   "time": 73.26,
+   "weight": 1.0,
+   "note_time": 73.36
+  },
+  {
+   "text": "no",
+   "time": 74.16,
+   "weight": 1.0,
+   "note_time": 73.59
+  },
+  {
+   "text": "ac",
+   "time": 74.7,
+   "weight": 1.0,
+   "note_time": 74.53
+  },
+  {
+   "text": "count",
+   "time": 75.05,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "Yet",
+   "time": 77.18,
+   "weight": 0.99,
+   "note_time": 76.88
+  },
+  {
+   "text": "it",
+   "time": 78.36,
+   "weight": 0.99,
+   "note_time": 77.81
+  },
+  {
+   "text": "was",
+   "time": 78.76,
+   "weight": 1.0,
+   "note_time": 78.28
+  },
+  {
+   "text": "our",
+   "time": 79.24,
+   "weight": 1.0,
+   "note_time": 78.75
+  },
+  {
+   "text": "griefs",
+   "time": 79.86,
+   "weight": 0.67,
+   "note_time": 79.69
+  },
+  {
+   "text": "he",
+   "time": 80.9,
+   "weight": 0.94,
+   "note_time": 80.16
+  },
+  {
+   "text": "bore",
+   "time": 81.04,
+   "weight": 1.0,
+   "note_time": 80.39
+  },
+  {
+   "text": "Our",
+   "time": 81.62,
+   "weight": 0.3,
+   "note_time": 82.03
+  },
+  {
+   "text": "sor",
+   "time": 83.38,
+   "weight": 1.0,
+   "note_time": 82.5
+  },
+  {
+   "text": "rows",
+   "time": 83.73,
+   "weight": 1.0,
+   "note_time": 82.97
+  },
+  {
+   "text": "he",
+   "time": 84.84,
+   "weight": 0.72,
+   "note_time": 83.91
+  },
+  {
+   "text": "car",
+   "time": 85.24,
+   "weight": 1.0,
+   "note_time": 84.38
+  },
+  {
+   "text": "ried",
+   "time": 85.59,
+   "weight": 1.0,
+   "note_time": 84.84
+  },
+  {
+   "text": "a",
+   "time": 86.2,
+   "weight": 0.8,
+   "note_time": 85.78
+  },
+  {
+   "text": "lone",
+   "time": 86.55,
+   "weight": 0.8,
+   "note_time": 86.25
+  },
+  {
+   "text": "We",
+   "time": 92.18,
+   "weight": 0.84,
+   "note_time": 92.34
+  },
+  {
+   "text": "thought",
+   "time": 93.58,
+   "weight": 0.96,
+   "note_time": 92.81
+  },
+  {
+   "text": "him",
+   "time": 94.11,
+   "weight": 0.0,
+   "note_time": 93.28
+  },
+  {
+   "text": "struck",
+   "time": 94.64,
+   "weight": 1.0,
+   "note_time": 93.75
+  },
+  {
+   "text": "by",
+   "time": 95.1,
+   "weight": 1.0,
+   "note_time": 94.22
+  },
+  {
+   "text": "God",
+   "time": 95.64,
+   "weight": 1.0,
+   "note_time": 95.16
+  },
+  {
+   "text": "But",
+   "time": 97.36,
+   "weight": 0.94,
+   "note_time": 97.03
+  },
+  {
+   "text": "pierced",
+   "time": 98.4,
+   "weight": 1.0,
+   "note_time": 98.2
+  },
+  {
+   "text": "for",
+   "time": 99.06,
+   "weight": 1.0,
+   "note_time": 98.44
+  },
+  {
+   "text": "our",
+   "time": 99.34,
+   "weight": 1.0,
+   "note_time": 98.67
+  },
+  {
+   "text": "trans",
+   "time": 99.62,
+   "weight": 0.4,
+   "note_time": 99.38
+  },
+  {
+   "text": "gres",
+   "time": 99.97,
+   "weight": 0.4,
+   "note_time": 99.61
+  },
+  {
+   "text": "sions",
+   "time": 100.32,
+   "weight": 0.4,
+   "note_time": 99.84
+  },
+  {
+   "text": "Crushed",
+   "time": 101.92,
+   "weight": 0.99,
+   "note_time": 101.25
+  },
+  {
+   "text": "for",
+   "time": 103.12,
+   "weight": 1.0,
+   "note_time": 101.95
+  },
+  {
+   "text": "our",
+   "time": 103.28,
+   "weight": 1.0,
+   "note_time": 102.19
+  },
+  {
+   "text": "in",
+   "time": 103.72,
+   "weight": 1.0,
+   "note_time": 102.89
+  },
+  {
+   "text": "iq",
+   "time": 104.02,
+   "weight": 1.0,
+   "note_time": 103.12
+  },
+  {
+   "text": "ui",
+   "time": 104.31,
+   "weight": 1.0,
+   "note_time": 103.36
+  },
+  {
+   "text": "ties",
+   "time": 104.61,
+   "weight": 1.0,
+   "note_time": 103.59
+  },
+  {
+   "text": "By",
+   "time": 104.9,
+   "weight": 0.7,
+   "note_time": 104.3
+  },
+  {
+   "text": "his",
+   "time": 105.58,
+   "weight": 1.0,
+   "note_time": 104.53
+  },
+  {
+   "text": "wounds",
+   "time": 106.02,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "we",
+   "time": 106.64,
+   "weight": 0.34,
+   "note_time": 107.34
+  },
+  {
+   "text": "are",
+   "time": 108.64,
+   "weight": 1.0,
+   "note_time": 108.05
+  },
+  {
+   "text": "healed",
+   "time": 109.42,
+   "weight": 1.0,
+   "note_time": 108.75
+  },
+  {
+   "text": "The",
+   "time": 116.44,
+   "weight": 0.41,
+   "note_time": 117.19
+  },
+  {
+   "text": "pun",
+   "time": 117.84,
+   "weight": 0.95,
+   "note_time": 117.42
+  },
+  {
+   "text": "ish",
+   "time": 118.19,
+   "weight": 0.95,
+   "note_time": 117.66
+  },
+  {
+   "text": "ment",
+   "time": 118.54,
+   "weight": 0.95,
+   "note_time": 118.12
+  },
+  {
+   "text": "brought",
+   "time": 118.92,
+   "weight": 0.99,
+   "note_time": 118.59
+  },
+  {
+   "text": "us",
+   "time": 119.4,
+   "weight": 0.99,
+   "note_time": 119.53
+  },
+  {
+   "text": "peace",
+   "time": 120.02,
+   "weight": 0.98,
+   "note_time": 120.0
+  },
+  {
+   "text": "Laid",
+   "time": 123.06,
+   "weight": 0.65,
+   "note_time": 123.05
+  },
+  {
+   "text": "up",
+   "time": 124.46,
+   "weight": 0.99,
+   "note_time": 123.28
+  },
+  {
+   "text": "on",
+   "time": 124.64,
+   "weight": 0.99,
+   "note_time": 123.75
+  },
+  {
+   "text": "him",
+   "time": 124.82,
+   "weight": 0.59,
+   "note_time": 124.22
+  },
+  {
+   "text": "was",
+   "time": 125.58,
+   "weight": 0.38,
+   "note_time": 126.09
+  },
+  {
+   "text": "the",
+   "time": 127.34,
+   "weight": 1.0,
+   "note_time": 127.03
+  },
+  {
+   "text": "weight",
+   "time": 129.05,
+   "weight": 0.0,
+   "note_time": 127.5
+  },
+  {
+   "text": "All",
+   "time": 130.76,
+   "weight": 0.45,
+   "note_time": 130.78
+  },
+  {
+   "text": "we",
+   "time": 132.16,
+   "weight": 0.99,
+   "note_time": 132.19
+  },
+  {
+   "text": "have",
+   "time": 133.36,
+   "weight": 0.99,
+   "note_time": 132.42
+  },
+  {
+   "text": "strayed",
+   "time": 133.8,
+   "weight": 1.0,
+   "note_time": 133.12
+  },
+  {
+   "text": "like",
+   "time": 134.94,
+   "weight": 0.98,
+   "note_time": 133.83
+  },
+  {
+   "text": "sheep",
+   "time": 135.18,
+   "weight": 0.99,
+   "note_time": 134.53
+  },
+  {
+   "text": "Turned",
+   "time": 136.4,
+   "weight": 0.33,
+   "note_time": 136.88
+  },
+  {
+   "text": "to",
+   "time": 138.42,
+   "weight": 1.0,
+   "note_time": 137.58
+  },
+  {
+   "text": "our",
+   "time": 138.54,
+   "weight": 1.0,
+   "note_time": 138.05
+  },
+  {
+   "text": "own",
+   "time": 138.8,
+   "weight": 0.99,
+   "note_time": 138.28
+  },
+  {
+   "text": "ways",
+   "time": 139.56,
+   "weight": 0.7,
+   "note_time": 138.75
+  },
+  {
+   "text": "The",
+   "time": 140.3,
+   "weight": 0.42,
+   "note_time": 138.98
+  },
+  {
+   "text": "Lord",
+   "time": 141.34,
+   "weight": 0.99,
+   "note_time": 140.16
+  },
+  {
+   "text": "laid",
+   "time": 141.7,
+   "weight": 0.99,
+   "note_time": 140.62
+  },
+  {
+   "text": "on",
+   "time": 142.14,
+   "weight": 0.99,
+   "note_time": 141.09
+  },
+  {
+   "text": "him",
+   "time": 142.5,
+   "weight": 0.41,
+   "note_time": 141.33
+  },
+  {
+   "text": "The",
+   "time": 142.8,
+   "weight": 0.95,
+   "note_time": 141.56
+  },
+  {
+   "text": "in",
+   "time": 143.34,
+   "weight": 1.0,
+   "note_time": 142.27
+  },
+  {
+   "text": "iq",
+   "time": 143.57,
+   "weight": 1.0,
+   "note_time": 142.5
+  },
+  {
+   "text": "ui",
+   "time": 143.79,
+   "weight": 1.0,
+   "note_time": 142.73
+  },
+  {
+   "text": "ty",
+   "time": 144.02,
+   "weight": 1.0,
+   "note_time": 142.97
+  },
+  {
+   "text": "of",
+   "time": 144.24,
+   "weight": 1.0,
+   "note_time": 143.67
+  },
+  {
+   "text": "us",
+   "time": 144.98,
+   "weight": 0.99,
+   "note_time": 143.91
+  },
+  {
+   "text": "all",
+   "time": 145.34,
+   "weight": 1.0,
+   "note_time": 144.38
+  },
+  {
+   "text": "Yet",
+   "time": 146.36,
+   "weight": 0.59,
+   "note_time": 146.25
+  },
+  {
+   "text": "it",
+   "time": 147.48,
+   "weight": 0.98,
+   "note_time": 146.72
+  },
+  {
+   "text": "was",
+   "time": 147.96,
+   "weight": 1.0,
+   "note_time": 147.19
+  },
+  {
+   "text": "our",
+   "time": 148.42,
+   "weight": 1.0,
+   "note_time": 147.66
+  },
+  {
+   "text": "griefs",
+   "time": 149.04,
+   "weight": 0.99,
+   "note_time": 148.12
+  },
+  {
+   "text": "he",
+   "time": 150.16,
+   "weight": 0.99,
+   "note_time": 149.06
+  },
+  {
+   "text": "bore",
+   "time": 150.24,
+   "weight": 1.0,
+   "note_time": 149.53
+  },
+  {
+   "text": "Our",
+   "time": 151.46,
+   "weight": 0.88,
+   "note_time": 151.41
+  },
+  {
+   "text": "sor",
+   "time": 152.56,
+   "weight": 1.0,
+   "note_time": 152.34
+  },
+  {
+   "text": "rows",
+   "time": 152.91,
+   "weight": 1.0,
+   "note_time": 153.28
+  },
+  {
+   "text": "he",
+   "time": 153.92,
+   "weight": 0.99,
+   "note_time": 153.75
+  },
+  {
+   "text": "car",
+   "time": 154.44,
+   "weight": 1.0,
+   "note_time": 154.22
+  },
+  {
+   "text": "ried",
+   "time": 154.79,
+   "weight": 1.0,
+   "note_time": 155.16
+  },
+  {
+   "text": "a",
+   "time": 155.14,
+   "weight": 0.39,
+   "note_time": 155.39
+  },
+  {
+   "text": "lone",
+   "time": 155.49,
+   "weight": 0.39,
+   "note_time": 155.62
+  },
+  {
+   "text": "We",
+   "time": 161.66,
+   "weight": 0.97,
+   "note_time": 161.72
+  },
+  {
+   "text": "thought",
+   "time": 162.76,
+   "weight": 0.98,
+   "note_time": 162.19
+  },
+  {
+   "text": "him",
+   "time": 163.29,
+   "weight": 0.0,
+   "note_time": 162.66
+  },
+  {
+   "text": "struck",
+   "time": 163.82,
+   "weight": 0.99,
+   "note_time": 163.12
+  },
+  {
+   "text": "by",
+   "time": 164.26,
+   "weight": 1.0,
+   "note_time": 163.59
+  },
+  {
+   "text": "God",
+   "time": 164.78,
+   "weight": 1.0,
+   "note_time": 164.53
+  },
+  {
+   "text": "But",
+   "time": 165.76,
+   "weight": 0.08,
+   "note_time": 166.41
+  },
+  {
+   "text": "pierced",
+   "time": 167.44,
+   "weight": 0.91,
+   "note_time": 166.88
+  },
+  {
+   "text": "for",
+   "time": 168.24,
+   "weight": 0.96,
+   "note_time": 167.34
+  },
+  {
+   "text": "our",
+   "time": 168.5,
+   "weight": 0.98,
+   "note_time": 167.58
+  },
+  {
+   "text": "trans",
+   "time": 168.82,
+   "weight": 0.4,
+   "note_time": 167.81
+  },
+  {
+   "text": "gres",
+   "time": 169.17,
+   "weight": 0.4,
+   "note_time": 168.05
+  },
+  {
+   "text": "sions",
+   "time": 169.52,
+   "weight": 0.4,
+   "note_time": 168.75
+  },
+  {
+   "text": "Crushed",
+   "time": 171.1,
+   "weight": 0.89,
+   "note_time": 168.98
+  },
+  {
+   "text": "for",
+   "time": 172.32,
+   "weight": 0.99,
+   "note_time": 169.22
+  },
+  {
+   "text": "our",
+   "time": 172.44,
+   "weight": 1.0,
+   "note_time": 170.62
+  },
+  {
+   "text": "in",
+   "time": 172.88,
+   "weight": 1.0,
+   "note_time": 171.33
+  },
+  {
+   "text": "iq",
+   "time": 173.18,
+   "weight": 1.0,
+   "note_time": 171.56
+  },
+  {
+   "text": "ui",
+   "time": 173.48,
+   "weight": 1.0,
+   "note_time": 172.27
+  },
+  {
+   "text": "ties",
+   "time": 173.78,
+   "weight": 1.0,
+   "note_time": 172.5
+  },
+  {
+   "text": "By",
+   "time": 174.08,
+   "weight": 0.81,
+   "note_time": 172.73
+  },
+  {
+   "text": "his",
+   "time": 174.8,
+   "weight": 0.6,
+   "note_time": 172.97
+  },
+  {
+   "text": "wounds",
+   "time": 175.16,
+   "weight": 1.0,
+   "note_time": 173.67
+  },
+  {
+   "text": "we",
+   "time": 175.8,
+   "weight": 0.28,
+   "note_time": 173.91
+  },
+  {
+   "text": "are",
+   "time": 177.78,
+   "weight": 1.0,
+   "note_time": 174.38
+  },
+  {
+   "text": "healed",
+   "time": 178.58,
+   "weight": 1.0,
+   "note_time": 176.72
+  },
+  {
+   "text": "Op",
+   "time": 183.04,
+   "weight": 0.99,
+   "note_time": 177.42
+  },
+  {
+   "text": "pressed",
+   "time": 183.39,
+   "weight": 0.99,
+   "note_time": 178.12
+  },
+  {
+   "text": "and",
+   "time": 184.12,
+   "weight": 1.0,
+   "note_time": 182.81
+  },
+  {
+   "text": "af",
+   "time": 184.4,
+   "weight": 1.0,
+   "note_time": 183.28
+  },
+  {
+   "text": "flict",
+   "time": 184.69,
+   "weight": 1.0,
+   "note_time": 183.52
+  },
+  {
+   "text": "ed",
+   "time": 184.99,
+   "weight": 1.0,
+   "note_time": 183.75
+  },
+  {
+   "text": "He",
+   "time": 185.28,
+   "weight": 0.38,
+   "note_time": 184.22
+  },
+  {
+   "text": "did",
+   "time": 187.0,
+   "weight": 1.0,
+   "note_time": 186.09
+  },
+  {
+   "text": "not",
+   "time": 187.14,
+   "weight": 1.0,
+   "note_time": 186.56
+  },
+  {
+   "text": "o",
+   "time": 187.48,
+   "weight": 1.0,
+   "note_time": 187.03
+  },
+  {
+   "text": "pen",
+   "time": 187.69,
+   "weight": 1.0,
+   "note_time": 187.27
+  },
+  {
+   "text": "his",
+   "time": 187.9,
+   "weight": 0.99,
+   "note_time": 187.5
+  },
+  {
+   "text": "mouth",
+   "time": 188.3,
+   "weight": 1.0,
+   "note_time": 188.91
+  },
+  {
+   "text": "Like",
+   "time": 189.4,
+   "weight": 0.95,
+   "note_time": 189.14
+  },
+  {
+   "text": "a",
+   "time": 189.98,
+   "weight": 0.79,
+   "note_time": 189.38
+  },
+  {
+   "text": "lamb",
+   "time": 190.2,
+   "weight": 0.99,
+   "note_time": 190.08
+  },
+  {
+   "text": "to",
+   "time": 190.66,
+   "weight": 1.0,
+   "note_time": 190.31
+  },
+  {
+   "text": "slaug",
+   "time": 191.08,
+   "weight": 1.0,
+   "note_time": 190.78
+  },
+  {
+   "text": "hter",
+   "time": 191.3,
+   "weight": 1.0,
+   "note_time": 191.25
+  },
+  {
+   "text": "Si",
+   "time": 191.52,
+   "weight": 0.17,
+   "note_time": 191.72
+  },
+  {
+   "text": "lent",
+   "time": 191.87,
+   "weight": 0.17,
+   "note_time": 192.19
+  },
+  {
+   "text": "be",
+   "time": 192.28,
+   "weight": 0.98,
+   "note_time": 192.42
+  },
+  {
+   "text": "fore",
+   "time": 192.63,
+   "weight": 0.98,
+   "note_time": 193.12
+  },
+  {
+   "text": "shea",
+   "time": 193.59,
+   "weight": 0.0,
+   "note_time": 193.59
+  },
+  {
+   "text": "rers",
+   "time": 194.56,
+   "weight": 0.0,
+   "note_time": 195.47
+  },
+  {
+   "text": "He",
+   "time": 195.52,
+   "weight": 0.81,
+   "note_time": 195.94
+  },
+  {
+   "text": "gave",
+   "time": 196.46,
+   "weight": 1.0,
+   "note_time": 196.17
+  },
+  {
+   "text": "up",
+   "time": 197.0,
+   "weight": 1.0,
+   "note_time": 196.41
+  },
+  {
+   "text": "his",
+   "time": 197.46,
+   "weight": 0.54,
+   "note_time": 196.64
+  },
+  {
+   "text": "life",
+   "time": 197.7,
+   "weight": 1.0,
+   "note_time": 196.88
+  },
+  {
+   "text": "For",
+   "time": 199.52,
+   "weight": 0.76,
+   "note_time": 199.69
+  },
+  {
+   "text": "the",
+   "time": 200.72,
+   "weight": 1.0,
+   "note_time": 200.16
+  },
+  {
+   "text": "trans",
+   "time": 201.02,
+   "weight": 0.99,
+   "note_time": 200.62
+  },
+  {
+   "text": "gres",
+   "time": 201.37,
+   "weight": 0.99,
+   "note_time": 201.09
+  },
+  {
+   "text": "sion",
+   "time": 201.72,
+   "weight": 0.99,
+   "note_time": 202.97
+  },
+  {
+   "text": "of",
+   "time": 202.12,
+   "weight": 0.29,
+   "note_time": 203.91
+  },
+  {
+   "text": "my",
+   "time": 204.02,
+   "weight": 0.98,
+   "note_time": 204.38
+  },
+  {
+   "text": "peo",
+   "time": 204.8,
+   "weight": 0.99,
+   "note_time": 204.84
+  },
+  {
+   "text": "ple",
+   "time": 205.15,
+   "weight": 0.99,
+   "note_time": 206.25
+  },
+  {
+   "text": "Yet",
+   "time": 206.52,
+   "weight": 0.97,
+   "note_time": 206.72
+  },
+  {
+   "text": "it",
+   "time": 207.4,
+   "weight": 0.79,
+   "note_time": 207.19
+  },
+  {
+   "text": "was",
+   "time": 207.8,
+   "weight": 1.0,
+   "note_time": 207.66
+  },
+  {
+   "text": "our",
+   "time": 208.16,
+   "weight": 1.0,
+   "note_time": 208.12
+  },
+  {
+   "text": "griefs",
+   "time": 208.86,
+   "weight": 0.94,
+   "note_time": 209.06
+  },
+  {
+   "text": "he",
+   "time": 210.0,
+   "weight": 0.71,
+   "note_time": 209.53
+  },
+  {
+   "text": "bore",
+   "time": 210.06,
+   "weight": 0.99,
+   "note_time": 209.77
+  },
+  {
+   "text": "Our",
+   "time": 211.52,
+   "weight": 0.96,
+   "note_time": 211.41
+  },
+  {
+   "text": "sor",
+   "time": 212.5,
+   "weight": 0.99,
+   "note_time": 211.88
+  },
+  {
+   "text": "rows",
+   "time": 212.85,
+   "weight": 0.99,
+   "note_time": 212.34
+  },
+  {
+   "text": "he",
+   "time": 213.72,
+   "weight": 0.98,
+   "note_time": 213.28
+  },
+  {
+   "text": "car",
+   "time": 214.24,
+   "weight": 1.0,
+   "note_time": 213.75
+  },
+  {
+   "text": "ried",
+   "time": 214.55,
+   "weight": 1.0,
+   "note_time": 214.22
+  },
+  {
+   "text": "a",
+   "time": 214.86,
+   "weight": 0.39,
+   "note_time": 215.16
+  },
+  {
+   "text": "lone",
+   "time": 215.21,
+   "weight": 0.39,
+   "note_time": 215.62
+  },
+  {
+   "text": "We",
+   "time": 221.6,
+   "weight": 0.73,
+   "note_time": 221.72
+  },
+  {
+   "text": "thought",
+   "time": 222.76,
+   "weight": 0.93,
+   "note_time": 222.19
+  },
+  {
+   "text": "him",
+   "time": 223.18,
+   "weight": 0.59,
+   "note_time": 222.66
+  },
+  {
+   "text": "struck",
+   "time": 223.68,
+   "weight": 1.0,
+   "note_time": 223.12
+  },
+  {
+   "text": "by",
+   "time": 224.04,
+   "weight": 1.0,
+   "note_time": 223.59
+  },
+  {
+   "text": "God",
+   "time": 224.62,
+   "weight": 0.98,
+   "note_time": 224.53
+  },
+  {
+   "text": "But",
+   "time": 225.86,
+   "weight": 0.35,
+   "note_time": 226.41
+  },
+  {
+   "text": "pierced",
+   "time": 227.36,
+   "weight": 0.99,
+   "note_time": 227.34
+  },
+  {
+   "text": "for",
+   "time": 228.06,
+   "weight": 0.99,
+   "note_time": 227.58
+  },
+  {
+   "text": "our",
+   "time": 228.3,
+   "weight": 1.0,
+   "note_time": 227.81
+  },
+  {
+   "text": "trans",
+   "time": 228.62,
+   "weight": 0.4,
+   "note_time": 228.05
+  },
+  {
+   "text": "gres",
+   "time": 228.97,
+   "weight": 0.4,
+   "note_time": 228.75
+  },
+  {
+   "text": "sions",
+   "time": 229.32,
+   "weight": 0.4,
+   "note_time": 228.98
+  },
+  {
+   "text": "Crushed",
+   "time": 230.44,
+   "weight": 0.95,
+   "note_time": 229.22
+  },
+  {
+   "text": "for",
+   "time": 231.64,
+   "weight": 1.0,
+   "note_time": 230.62
+  },
+  {
+   "text": "our",
+   "time": 232.3,
+   "weight": 1.0,
+   "note_time": 231.33
+  },
+  {
+   "text": "in",
+   "time": 232.7,
+   "weight": 1.0,
+   "note_time": 231.56
+  },
+  {
+   "text": "iq",
+   "time": 233.01,
+   "weight": 1.0,
+   "note_time": 232.27
+  },
+  {
+   "text": "ui",
+   "time": 233.31,
+   "weight": 1.0,
+   "note_time": 232.5
+  },
+  {
+   "text": "ties",
+   "time": 233.62,
+   "weight": 1.0,
+   "note_time": 232.73
+  },
+  {
+   "text": "By",
+   "time": 233.92,
+   "weight": 0.65,
+   "note_time": 232.97
+  },
+  {
+   "text": "his",
+   "time": 234.6,
+   "weight": 0.71,
+   "note_time": 233.67
+  },
+  {
+   "text": "wounds",
+   "time": 234.98,
+   "weight": 0.99,
+   "note_time": 233.91
+  },
+  {
+   "text": "we",
+   "time": 235.74,
+   "weight": 0.32,
+   "note_time": 234.38
+  },
+  {
+   "text": "are",
+   "time": 237.58,
+   "weight": 1.0,
+   "note_time": 236.72
+  },
+  {
+   "text": "healed",
+   "time": 238.36,
+   "weight": 1.0,
+   "note_time": 237.42
+  },
+  {
+   "text": "By",
+   "time": 243.46,
+   "weight": 0.6,
+   "note_time": 238.12
+  },
+  {
+   "text": "his",
+   "time": 244.14,
+   "weight": 0.99,
+   "note_time": 243.28
+  },
+  {
+   "text": "wounds",
+   "time": 244.54,
+   "weight": 1.0,
+   "note_time": 243.75
+  },
+  {
+   "text": "we",
+   "time": 245.04,
+   "weight": 0.99,
+   "note_time": 244.69
+  },
+  {
+   "text": "are",
+   "time": 245.64,
+   "weight": 1.0,
+   "note_time": 245.16
+  },
+  {
+   "text": "healed",
+   "time": 246.12,
+   "weight": 1.0,
+   "note_time": 245.62
+  },
+  {
+   "text": "By",
+   "time": 250.58,
+   "weight": 0.97,
+   "note_time": 250.31
+  },
+  {
+   "text": "his",
+   "time": 251.26,
+   "weight": 0.99,
+   "note_time": 250.78
+  },
+  {
+   "text": "wounds",
+   "time": 251.72,
+   "weight": 1.0,
+   "note_time": 251.25
+  },
+  {
+   "text": "we",
+   "time": 252.08,
+   "weight": 0.4,
+   "note_time": 253.12
+  },
+  {
+   "text": "are",
+   "time": 253.82,
+   "weight": 1.0,
+   "note_time": 254.06
+  },
+  {
+   "text": "healed",
+   "time": 254.5,
+   "weight": 1.0,
+   "note_time": 255.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "36 of 40 lyric lines sit clearly on their notes; 4 are uncertain and printed in grey italics."
+}

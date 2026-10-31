@@ -1,0 +1,1228 @@
+{
+ "id": "verse-19-130-7-jazz",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-130-7-jazz",
+ "offset_seconds": -2.8200000000001957,
+ "words_heard": 141,
+ "words": 143,
+ "lines": [
+  {
+   "text": "Deep down my soul is calling out",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To you who sit above the clouds",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.89,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My heart is waiting on your word",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.88,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In all the dark and heavy furor",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "With the Lord there is steadfast love",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.63,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And abundant redemption flows",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He will redeem us from our sins",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.53,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "This is where the mercy ends",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I put my hope in what you say",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul waits more than watchmen stay",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They wait for morning breaking light",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I wait for you through day and night",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With the Lord there is steadfast love",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And abundant redemption flows",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will redeem us from our sins",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This is where the mercy ends",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forgiveness rests within your hands",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So we may fear you as we stand",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not in dread but holy awe",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your truth will never fail or waver",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Israel, hope in the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "With him is love, a living word",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Deep",
+   "time": 15.46,
+   "weight": 0.59,
+   "note_time": 14.14
+  },
+  {
+   "text": "down",
+   "time": 16.62,
+   "weight": 0.98,
+   "note_time": 15.0
+  },
+  {
+   "text": "my",
+   "time": 17.08,
+   "weight": 0.86,
+   "note_time": 15.43
+  },
+  {
+   "text": "soul",
+   "time": 17.44,
+   "weight": 1.0,
+   "note_time": 16.07
+  },
+  {
+   "text": "is",
+   "time": 17.96,
+   "weight": 0.99,
+   "note_time": 16.71
+  },
+  {
+   "text": "call",
+   "time": 18.72,
+   "weight": 1.0,
+   "note_time": 17.57
+  },
+  {
+   "text": "ing",
+   "time": 19.03,
+   "weight": 1.0,
+   "note_time": 17.79
+  },
+  {
+   "text": "out",
+   "time": 19.34,
+   "weight": 1.0,
+   "note_time": 18.0
+  },
+  {
+   "text": "To",
+   "time": 20.54,
+   "weight": 0.32,
+   "note_time": 21.21
+  },
+  {
+   "text": "you",
+   "time": 23.58,
+   "weight": 0.95,
+   "note_time": 21.43
+  },
+  {
+   "text": "who",
+   "time": 23.88,
+   "weight": 0.96,
+   "note_time": 21.86
+  },
+  {
+   "text": "sit",
+   "time": 24.14,
+   "weight": 0.99,
+   "note_time": 22.29
+  },
+  {
+   "text": "a",
+   "time": 24.68,
+   "weight": 0.99,
+   "note_time": 22.93
+  },
+  {
+   "text": "bove",
+   "time": 25.03,
+   "weight": 0.99,
+   "note_time": 23.14
+  },
+  {
+   "text": "the",
+   "time": 25.54,
+   "weight": 1.0,
+   "note_time": 23.79
+  },
+  {
+   "text": "clouds",
+   "time": 26.2,
+   "weight": 0.99,
+   "note_time": 24.0
+  },
+  {
+   "text": "My",
+   "time": 28.76,
+   "weight": 0.31,
+   "note_time": 27.86
+  },
+  {
+   "text": "heart",
+   "time": 30.16,
+   "weight": 0.99,
+   "note_time": 28.29
+  },
+  {
+   "text": "is",
+   "time": 30.76,
+   "weight": 1.0,
+   "note_time": 28.71
+  },
+  {
+   "text": "wait",
+   "time": 31.22,
+   "weight": 0.98,
+   "note_time": 29.14
+  },
+  {
+   "text": "ing",
+   "time": 31.46,
+   "weight": 0.98,
+   "note_time": 29.57
+  },
+  {
+   "text": "on",
+   "time": 31.7,
+   "weight": 0.93,
+   "note_time": 30.43
+  },
+  {
+   "text": "your",
+   "time": 32.98,
+   "weight": 0.48,
+   "note_time": 31.29
+  },
+  {
+   "text": "word",
+   "time": 33.74,
+   "weight": 0.77,
+   "note_time": 32.14
+  },
+  {
+   "text": "In",
+   "time": 34.78,
+   "weight": 0.25,
+   "note_time": 34.07
+  },
+  {
+   "text": "all",
+   "time": 36.46,
+   "weight": 1.0,
+   "note_time": 34.29
+  },
+  {
+   "text": "the",
+   "time": 36.78,
+   "weight": 0.99,
+   "note_time": 34.71
+  },
+  {
+   "text": "dark",
+   "time": 37.06,
+   "weight": 1.0,
+   "note_time": 34.93
+  },
+  {
+   "text": "and",
+   "time": 37.64,
+   "weight": 0.99,
+   "note_time": 35.57
+  },
+  {
+   "text": "hea",
+   "time": 38.02,
+   "weight": 0.99,
+   "note_time": 36.43
+  },
+  {
+   "text": "vy",
+   "time": 38.37,
+   "weight": 0.99,
+   "note_time": 36.86
+  },
+  {
+   "text": "fu",
+   "time": 39.02,
+   "weight": 0.22,
+   "note_time": 37.29
+  },
+  {
+   "text": "ror",
+   "time": 39.37,
+   "weight": 0.22,
+   "note_time": 38.14
+  },
+  {
+   "text": "With",
+   "time": 40.58,
+   "weight": 0.37,
+   "note_time": 40.71
+  },
+  {
+   "text": "the",
+   "time": 43.06,
+   "weight": 0.98,
+   "note_time": 40.93
+  },
+  {
+   "text": "Lord",
+   "time": 43.2,
+   "weight": 0.99,
+   "note_time": 41.14
+  },
+  {
+   "text": "there",
+   "time": 43.82,
+   "weight": 0.87,
+   "note_time": 42.43
+  },
+  {
+   "text": "is",
+   "time": 44.92,
+   "weight": 1.0,
+   "note_time": 43.29
+  },
+  {
+   "text": "stead",
+   "time": 45.8,
+   "weight": 0.4,
+   "note_time": 44.14
+  },
+  {
+   "text": "fast",
+   "time": 46.15,
+   "weight": 0.4,
+   "note_time": 45.0
+  },
+  {
+   "text": "love",
+   "time": 47.32,
+   "weight": 0.99,
+   "note_time": 45.86
+  },
+  {
+   "text": "And",
+   "time": 48.22,
+   "weight": 0.22,
+   "note_time": 47.57
+  },
+  {
+   "text": "a",
+   "time": 49.74,
+   "weight": 1.0,
+   "note_time": 47.79
+  },
+  {
+   "text": "bun",
+   "time": 49.95,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "dant",
+   "time": 50.17,
+   "weight": 1.0,
+   "note_time": 48.64
+  },
+  {
+   "text": "re",
+   "time": 50.38,
+   "weight": 1.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "demp",
+   "time": 50.73,
+   "weight": 1.0,
+   "note_time": 49.71
+  },
+  {
+   "text": "tion",
+   "time": 51.08,
+   "weight": 1.0,
+   "note_time": 50.36
+  },
+  {
+   "text": "flows",
+   "time": 51.68,
+   "weight": 0.4,
+   "note_time": 51.0
+  },
+  {
+   "text": "He",
+   "time": 53.32,
+   "weight": 0.06,
+   "note_time": 53.57
+  },
+  {
+   "text": "will",
+   "time": 55.44,
+   "weight": 0.94,
+   "note_time": 54.0
+  },
+  {
+   "text": "re",
+   "time": 56.24,
+   "weight": 0.98,
+   "note_time": 54.43
+  },
+  {
+   "text": "deem",
+   "time": 56.59,
+   "weight": 0.98,
+   "note_time": 54.86
+  },
+  {
+   "text": "us",
+   "time": 56.98,
+   "weight": 1.0,
+   "note_time": 55.71
+  },
+  {
+   "text": "from",
+   "time": 58.1,
+   "weight": 0.99,
+   "note_time": 56.57
+  },
+  {
+   "text": "our",
+   "time": 58.78,
+   "weight": 0.95,
+   "note_time": 57.0
+  },
+  {
+   "text": "sins",
+   "time": 59.32,
+   "weight": 0.98,
+   "note_time": 57.86
+  },
+  {
+   "text": "This",
+   "time": 61.64,
+   "weight": 0.77,
+   "note_time": 60.86
+  },
+  {
+   "text": "is",
+   "time": 63.04,
+   "weight": 1.0,
+   "note_time": 61.71
+  },
+  {
+   "text": "where",
+   "time": 63.38,
+   "weight": 0.99,
+   "note_time": 63.0
+  },
+  {
+   "text": "the",
+   "time": 63.9,
+   "weight": 0.97,
+   "note_time": 63.43
+  },
+  {
+   "text": "mer",
+   "time": 65.12,
+   "weight": 1.0,
+   "note_time": 64.71
+  },
+  {
+   "text": "cy",
+   "time": 65.47,
+   "weight": 1.0,
+   "note_time": 64.93
+  },
+  {
+   "text": "ends",
+   "time": 66.28,
+   "weight": 0.99,
+   "note_time": 65.14
+  },
+  {
+   "text": "I",
+   "time": 72.12,
+   "weight": 0.92,
+   "note_time": 72.64
+  },
+  {
+   "text": "put",
+   "time": 73.52,
+   "weight": 0.99,
+   "note_time": 72.86
+  },
+  {
+   "text": "my",
+   "time": 74.8,
+   "weight": 1.0,
+   "note_time": 73.29
+  },
+  {
+   "text": "hope",
+   "time": 75.22,
+   "weight": 1.0,
+   "note_time": 73.71
+  },
+  {
+   "text": "in",
+   "time": 75.78,
+   "weight": 1.0,
+   "note_time": 74.36
+  },
+  {
+   "text": "what",
+   "time": 76.48,
+   "weight": 0.99,
+   "note_time": 75.0
+  },
+  {
+   "text": "you",
+   "time": 76.92,
+   "weight": 0.57,
+   "note_time": 75.86
+  },
+  {
+   "text": "say",
+   "time": 77.72,
+   "weight": 0.99,
+   "note_time": 76.71
+  },
+  {
+   "text": "My",
+   "time": 78.68,
+   "weight": 0.06,
+   "note_time": 79.29
+  },
+  {
+   "text": "soul",
+   "time": 81.1,
+   "weight": 0.99,
+   "note_time": 80.14
+  },
+  {
+   "text": "waits",
+   "time": 81.62,
+   "weight": 0.98,
+   "note_time": 80.57
+  },
+  {
+   "text": "more",
+   "time": 82.12,
+   "weight": 0.97,
+   "note_time": 81.21
+  },
+  {
+   "text": "than",
+   "time": 82.46,
+   "weight": 0.99,
+   "note_time": 81.43
+  },
+  {
+   "text": "watch",
+   "time": 83.04,
+   "weight": 0.86,
+   "note_time": 81.86
+  },
+  {
+   "text": "men",
+   "time": 83.39,
+   "weight": 0.86,
+   "note_time": 82.07
+  },
+  {
+   "text": "stay",
+   "time": 83.94,
+   "weight": 0.95,
+   "note_time": 82.71
+  },
+  {
+   "text": "They",
+   "time": 86.44,
+   "weight": 0.89,
+   "note_time": 86.14
+  },
+  {
+   "text": "wait",
+   "time": 87.84,
+   "weight": 1.0,
+   "note_time": 86.57
+  },
+  {
+   "text": "for",
+   "time": 88.38,
+   "weight": 1.0,
+   "note_time": 87.0
+  },
+  {
+   "text": "morn",
+   "time": 88.84,
+   "weight": 0.95,
+   "note_time": 87.43
+  },
+  {
+   "text": "ing",
+   "time": 89.19,
+   "weight": 0.95,
+   "note_time": 88.07
+  },
+  {
+   "text": "break",
+   "time": 89.6,
+   "weight": 0.91,
+   "note_time": 88.71
+  },
+  {
+   "text": "ing",
+   "time": 89.95,
+   "weight": 0.91,
+   "note_time": 89.57
+  },
+  {
+   "text": "light",
+   "time": 90.64,
+   "weight": 0.4,
+   "note_time": 90.43
+  },
+  {
+   "text": "I",
+   "time": 92.22,
+   "weight": 0.39,
+   "note_time": 92.14
+  },
+  {
+   "text": "wait",
+   "time": 93.8,
+   "weight": 0.98,
+   "note_time": 92.57
+  },
+  {
+   "text": "for",
+   "time": 94.28,
+   "weight": 1.0,
+   "note_time": 93.0
+  },
+  {
+   "text": "you",
+   "time": 94.68,
+   "weight": 0.56,
+   "note_time": 93.21
+  },
+  {
+   "text": "through",
+   "time": 94.98,
+   "weight": 0.98,
+   "note_time": 93.86
+  },
+  {
+   "text": "day",
+   "time": 95.6,
+   "weight": 0.99,
+   "note_time": 94.71
+  },
+  {
+   "text": "and",
+   "time": 96.38,
+   "weight": 1.0,
+   "note_time": 95.36
+  },
+  {
+   "text": "night",
+   "time": 97.12,
+   "weight": 1.0,
+   "note_time": 96.0
+  },
+  {
+   "text": "With",
+   "time": 98.72,
+   "weight": 0.39,
+   "note_time": 99.0
+  },
+  {
+   "text": "the",
+   "time": 100.7,
+   "weight": 0.99,
+   "note_time": 99.21
+  },
+  {
+   "text": "Lord",
+   "time": 100.8,
+   "weight": 0.99,
+   "note_time": 99.43
+  },
+  {
+   "text": "there",
+   "time": 101.38,
+   "weight": 0.87,
+   "note_time": 100.71
+  },
+  {
+   "text": "is",
+   "time": 102.46,
+   "weight": 1.0,
+   "note_time": 101.57
+  },
+  {
+   "text": "stead",
+   "time": 103.44,
+   "weight": 1.0,
+   "note_time": 102.43
+  },
+  {
+   "text": "fast",
+   "time": 103.79,
+   "weight": 1.0,
+   "note_time": 103.29
+  },
+  {
+   "text": "love",
+   "time": 104.88,
+   "weight": 1.0,
+   "note_time": 104.14
+  },
+  {
+   "text": "And",
+   "time": 105.82,
+   "weight": 0.06,
+   "note_time": 105.86
+  },
+  {
+   "text": "a",
+   "time": 107.38,
+   "weight": 0.99,
+   "note_time": 106.07
+  },
+  {
+   "text": "bun",
+   "time": 107.67,
+   "weight": 0.99,
+   "note_time": 106.29
+  },
+  {
+   "text": "dant",
+   "time": 107.97,
+   "weight": 0.99,
+   "note_time": 106.93
+  },
+  {
+   "text": "re",
+   "time": 108.26,
+   "weight": 0.99,
+   "note_time": 107.57
+  },
+  {
+   "text": "demp",
+   "time": 108.61,
+   "weight": 0.99,
+   "note_time": 108.0
+  },
+  {
+   "text": "tion",
+   "time": 108.96,
+   "weight": 0.99,
+   "note_time": 108.64
+  },
+  {
+   "text": "flows",
+   "time": 109.4,
+   "weight": 0.99,
+   "note_time": 109.29
+  },
+  {
+   "text": "He",
+   "time": 111.82,
+   "weight": 0.89,
+   "note_time": 111.86
+  },
+  {
+   "text": "will",
+   "time": 113.18,
+   "weight": 1.0,
+   "note_time": 112.29
+  },
+  {
+   "text": "re",
+   "time": 113.72,
+   "weight": 1.0,
+   "note_time": 112.71
+  },
+  {
+   "text": "deem",
+   "time": 114.07,
+   "weight": 1.0,
+   "note_time": 113.14
+  },
+  {
+   "text": "us",
+   "time": 114.54,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "from",
+   "time": 115.56,
+   "weight": 0.99,
+   "note_time": 114.86
+  },
+  {
+   "text": "our",
+   "time": 116.26,
+   "weight": 1.0,
+   "note_time": 115.29
+  },
+  {
+   "text": "sins",
+   "time": 116.88,
+   "weight": 0.99,
+   "note_time": 116.14
+  },
+  {
+   "text": "This",
+   "time": 119.14,
+   "weight": 0.98,
+   "note_time": 119.14
+  },
+  {
+   "text": "is",
+   "time": 120.54,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "where",
+   "time": 120.86,
+   "weight": 1.0,
+   "note_time": 121.29
+  },
+  {
+   "text": "the",
+   "time": 121.4,
+   "weight": 0.99,
+   "note_time": 121.71
+  },
+  {
+   "text": "mer",
+   "time": 122.54,
+   "weight": 1.0,
+   "note_time": 123.0
+  },
+  {
+   "text": "cy",
+   "time": 122.89,
+   "weight": 1.0,
+   "note_time": 123.21
+  },
+  {
+   "text": "ends",
+   "time": 123.8,
+   "weight": 0.99,
+   "note_time": 123.43
+  },
+  {
+   "text": "For",
+   "time": 131.52,
+   "weight": 0.82,
+   "note_time": 130.93
+  },
+  {
+   "text": "give",
+   "time": 131.87,
+   "weight": 0.82,
+   "note_time": 131.14
+  },
+  {
+   "text": "ness",
+   "time": 132.22,
+   "weight": 0.82,
+   "note_time": 131.57
+  },
+  {
+   "text": "rests",
+   "time": 132.62,
+   "weight": 0.88,
+   "note_time": 132.0
+  },
+  {
+   "text": "with",
+   "time": 133.18,
+   "weight": 0.99,
+   "note_time": 132.64
+  },
+  {
+   "text": "in",
+   "time": 133.53,
+   "weight": 0.99,
+   "note_time": 132.86
+  },
+  {
+   "text": "your",
+   "time": 133.92,
+   "weight": 0.59,
+   "note_time": 133.29
+  },
+  {
+   "text": "hands",
+   "time": 134.5,
+   "weight": 0.99,
+   "note_time": 134.14
+  },
+  {
+   "text": "So",
+   "time": 137.68,
+   "weight": 0.87,
+   "note_time": 137.79
+  },
+  {
+   "text": "we",
+   "time": 138.78,
+   "weight": 0.98,
+   "note_time": 138.43
+  },
+  {
+   "text": "may",
+   "time": 139.04,
+   "weight": 1.0,
+   "note_time": 138.86
+  },
+  {
+   "text": "fear",
+   "time": 139.48,
+   "weight": 1.0,
+   "note_time": 139.5
+  },
+  {
+   "text": "you",
+   "time": 140.02,
+   "weight": 0.88,
+   "note_time": 139.71
+  },
+  {
+   "text": "as",
+   "time": 140.54,
+   "weight": 1.0,
+   "note_time": 140.14
+  },
+  {
+   "text": "we",
+   "time": 141.0,
+   "weight": 1.0,
+   "note_time": 141.0
+  },
+  {
+   "text": "stand",
+   "time": 141.26,
+   "weight": 1.0,
+   "note_time": 141.64
+  },
+  {
+   "text": "Not",
+   "time": 144.84,
+   "weight": 0.97,
+   "note_time": 144.86
+  },
+  {
+   "text": "in",
+   "time": 145.94,
+   "weight": 1.0,
+   "note_time": 145.29
+  },
+  {
+   "text": "dread",
+   "time": 146.38,
+   "weight": 1.0,
+   "note_time": 145.71
+  },
+  {
+   "text": "but",
+   "time": 146.72,
+   "weight": 0.56,
+   "note_time": 146.36
+  },
+  {
+   "text": "ho",
+   "time": 147.0,
+   "weight": 0.0,
+   "note_time": 146.57
+  },
+  {
+   "text": "ly",
+   "time": 147.27,
+   "weight": 0.0,
+   "note_time": 147.0
+  },
+  {
+   "text": "awe",
+   "time": 147.55,
+   "weight": 0.0,
+   "note_time": 147.43
+  },
+  {
+   "text": "Your",
+   "time": 147.82,
+   "weight": 0.31,
+   "note_time": 149.57
+  },
+  {
+   "text": "truth",
+   "time": 148.8,
+   "weight": 0.39,
+   "note_time": 150.0
+  },
+  {
+   "text": "will",
+   "time": 150.9,
+   "weight": 0.99,
+   "note_time": 150.43
+  },
+  {
+   "text": "ne",
+   "time": 151.38,
+   "weight": 1.0,
+   "note_time": 150.86
+  },
+  {
+   "text": "ver",
+   "time": 151.64,
+   "weight": 1.0,
+   "note_time": 151.71
+  },
+  {
+   "text": "fail",
+   "time": 151.9,
+   "weight": 0.39,
+   "note_time": 152.57
+  },
+  {
+   "text": "or",
+   "time": 153.54,
+   "weight": 0.95,
+   "note_time": 153.86
+  },
+  {
+   "text": "wa",
+   "time": 154.84,
+   "weight": 0.99,
+   "note_time": 154.29
+  },
+  {
+   "text": "ver",
+   "time": 155.19,
+   "weight": 0.99,
+   "note_time": 155.57
+  },
+  {
+   "text": "Is",
+   "time": 162.7,
+   "weight": 0.58,
+   "note_time": 161.14
+  },
+  {
+   "text": "rael,",
+   "time": 163.05,
+   "weight": 0.58,
+   "note_time": 161.79
+  },
+  {
+   "text": "hope",
+   "time": 164.1,
+   "weight": 0.75,
+   "note_time": 162.43
+  },
+  {
+   "text": "in",
+   "time": 165.5,
+   "weight": 1.0,
+   "note_time": 165.21
+  },
+  {
+   "text": "the",
+   "time": 166.04,
+   "weight": 1.0,
+   "note_time": 165.86
+  },
+  {
+   "text": "Lord",
+   "time": 166.48,
+   "weight": 0.98,
+   "note_time": 166.29
+  },
+  {
+   "text": "With",
+   "time": 167.08,
+   "weight": 0.77,
+   "note_time": 167.57
+  },
+  {
+   "text": "him",
+   "time": 168.34,
+   "weight": 0.84,
+   "note_time": 168.0
+  },
+  {
+   "text": "is",
+   "time": 168.8,
+   "weight": 0.99,
+   "note_time": 168.86
+  },
+  {
+   "text": "love,",
+   "time": 169.74,
+   "weight": 0.98,
+   "note_time": 169.71
+  },
+  {
+   "text": "a",
+   "time": 170.92,
+   "weight": 0.99,
+   "note_time": 171.0
+  },
+  {
+   "text": "liv",
+   "time": 171.6,
+   "weight": 0.99,
+   "note_time": 171.43
+  },
+  {
+   "text": "ing",
+   "time": 171.95,
+   "weight": 0.99,
+   "note_time": 172.71
+  },
+  {
+   "text": "word",
+   "time": 172.44,
+   "weight": 0.19,
+   "note_time": 172.93
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "14 of 22 lyric lines sit clearly on their notes; 8 are uncertain and printed in grey italics."
+}

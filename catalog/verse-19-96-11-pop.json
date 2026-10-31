@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-96-11-pop",
+  "title": "He Is Coming",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 96,
+    "verseStart": 11,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 96,
+      "verseStart": 11,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with gospel choir, piano, strings, drums, cymbals, hopeful and majestic, 80 BPM",
+    "lyrics": "[Verse]\nAscribe to the Lord the glory due his name\nBring an offering and enter his courts\nWorship the Lord in the splendor of holiness\nTremble before him all the earth\n\n[Chorus]\nThe Lord reigns the world stands firm\nIt cannot be shaken by fear\nHe will judge the peoples with fairness\nThe Lord is here he is near\n\n[Verse]\nSay among the nations that the Lord reigns\nThe world stands firm and cannot be shaken\nHe will judge the peoples with fairness\nHis word is true his promise remains\n\n[Chorus]\nThe Lord reigns the world stands firm\nIt cannot be shaken by fear\nHe will judge the peoples with fairness\nThe Lord is here he is near\n\n[Bridge]\nLet the heavens rejoice and the earth be glad\nLet the sea and all that fills it resound\nLet the field exult and everything in it\nAll the trees of the forest will sing for joy\n\n[Chorus]\nThe Lord reigns the world stands firm\nIt cannot be shaken by fear\nHe will judge the peoples with fairness\nThe Lord is here he is near\n\n[Outro]\nHe is coming to judge the earth\nHe will judge the world in righteousness",
+    "cot": "full",
+    "seed": 20253
+  }
+}

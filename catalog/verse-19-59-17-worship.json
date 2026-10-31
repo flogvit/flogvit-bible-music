@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-59-17-worship",
+  "title": "My Strength",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 59,
+    "verseStart": 17,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 59,
+      "verseStart": 17,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with soft female choir, piano, acoustic guitar, cello, timpani, reverent and hopeful, 85 BPM",
+    "lyrics": "[Verse]\nConsume them in wrath\nTill they are no more\nThen they will know\nGod rules over Jacob\nTo the ends of the earth\n\n[Verse]\nThey return at evening\nSnarling like dogs\nProwling around the city\nRoaming for food\nIf not filled they howl\nThrough the dark night\n\n[Chorus]\nBut I will sing of your strength\nIn the morning I will sing aloud\nOf your mercy\nFor you have been my fortress\nMy refuge in my distress\n\n[Verse]\nO my Strength\nTo you I sing praise\nFor God is my fortress\nMy God of mercy\n\n[Chorus]\nBut I will sing of your strength\nIn the morning I will sing aloud\nOf your mercy\nFor you have been my fortress\nMy refuge in my distress\n\n[Bridge]\nIn the day of my distress\nYou are my fortress\nMy God of mercy\n\n[Chorus]\nBut I will sing of your strength\nIn the morning I will sing aloud\nOf your mercy\nFor you have been my fortress\nMy refuge in my distress\n\n[Outro]\nO my Strength\nTo you I sing praise",
+    "cot": "full",
+    "seed": 20251
+  }
+}

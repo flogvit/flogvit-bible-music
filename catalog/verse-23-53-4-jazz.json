@@ -1,0 +1,46 @@
+{
+  "id": "verse-23-53-4-jazz",
+  "title": "By His Wounds We Are Healed",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 53,
+    "verseStart": 4,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 53,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal, smooth and sorrowful, solo with soft choir, upright piano, double bass, brushed drums, muted trumpet, 80 BPM",
+    "lyrics": "[Verse]\nWho has believed our message\nAnd to whom was the arm revealed\nHe grew like a root in dry ground\nNo beauty to draw our eyes\n\n[Verse]\nDespised and rejected by men\nA man of sorrows and grief\nWe hid our faces from him\nAnd held him of no account\n\n[Chorus]\nYet it was our griefs he bore\nOur sorrows he carried alone\nWe thought him struck by God\nBut pierced for our transgressions\nCrushed for our iniquities\nBy his wounds we are healed\n\n[Verse]\nThe punishment brought us peace\nLaid upon him was the weight\nAll we have strayed like sheep\nTurned to our own ways\nThe Lord laid on him\nThe iniquity of us all\n\n[Chorus]\nYet it was our griefs he bore\nOur sorrows he carried alone\nWe thought him struck by God\nBut pierced for our transgressions\nCrushed for our iniquities\nBy his wounds we are healed\n\n[Bridge]\nOppressed and afflicted\nHe did not open his mouth\nLike a lamb to slaughter\nSilent before shearers\nHe gave up his life\nFor the transgression of my people\n\n[Chorus]\nYet it was our griefs he bore\nOur sorrows he carried alone\nWe thought him struck by God\nBut pierced for our transgressions\nCrushed for our iniquities\nBy his wounds we are healed\n\n[Outro]\nBy his wounds we are healed\nBy his wounds we are healed",
+    "cot": "full",
+    "seed": 20254
+  }
+}

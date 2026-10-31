@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-59-16-acoustic",
+  "title": "O My Strength",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 59,
+    "verseStart": 16,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 59,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, cello, soft drums, gentle strings, hopeful and resilient, 80 BPM",
+    "lyrics": "[Verse]\nThey return at evening, snarling like dogs\nProwling around the city in the dark\nThey roam about for food, unsatisfied\nAnd howl through the night without a rest\n\n[Pre-Chorus]\nFor the sin of their mouths, let them be caught\nIn their own pride, by the lies they tell\nConsume them in wrath until they are gone\nThen they will know God rules over Jacob\n\n[Chorus]\nBut I will sing of your strength\nIn the morning I will sing aloud of your mercy\nYou have been my fortress\nMy refuge in the day of my distress\n\n[Verse]\nTo the ends of the earth your rule is known\nThe proud are consumed in your holy wrath\nThe snarling dogs circle and find no food\nTheir howling fades into the silence\n\n[Chorus]\nBut I will sing of your strength\nIn the morning I will sing aloud of your mercy\nYou have been my fortress\nMy refuge in the day of my distress\n\n[Bridge]\nO my Strength, to you I sing praise\nFor God is my fortress\nMy God of mercy\n\n[Chorus]\nBut I will sing of your strength\nIn the morning I will sing aloud of your mercy\nYou have been my fortress\nMy refuge in the day of my distress\n\n[Outro]\nMy God of mercy\nO my Strength",
+    "cot": "full",
+    "seed": 20250
+  }
+}

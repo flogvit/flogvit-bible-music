@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-46-10-celtic",
+  "title": "Be Still",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 46,
+    "verseStart": 10,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 46,
+      "verseStart": 10,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, acoustic guitar, Celtic harp, fiddle, bodhran, flute, serene and majestic, 80 BPM",
+    "lyrics": "[Verse]\nNations rage in the deep\nKingdoms totter and sleep\nHe lifts his voice high\nThe earth melts away\nThe LORD of hosts stands\nThe God of Jacob plans\nHe is our fortress\n[Chorus]\nBe still and know\nI am God\nI will be exalted\nIn the earth so low\nBe still and know\nI am God\n[Verse]\nCome see the works done\nDesolations at dawn\nHe makes wars cease\nTo the ends where we go\nHe breaks the bow now\nShatters the spear\nBurns the chariots\nIn the fire of fear\n[Chorus]\nBe still and know\nI am God\nI will be exalted\nIn the earth so low\nBe still and know\nI am God\n[Verse]\nAmong the nations\nI will stand\nIn the earth\nI will be grand\nThe LORD is with us\nJacob's God\nOur fortress\n[Chorus]\nBe still and know\nI am God\nI will be exalted\nIn the earth so low\nBe still and know\nI am God\n[Outro]\nBe still\nKnow I am God",
+    "cot": "full",
+    "seed": 20248
+  }
+}

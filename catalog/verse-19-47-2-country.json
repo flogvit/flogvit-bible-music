@@ -1,0 +1,42 @@
+{
+  "id": "verse-19-47-2-country",
+  "title": "Shout with cries of joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 47,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 47,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, warm and resonant, acoustic guitar, fiddle, banjo, upright bass, handclaps, joyful and majestic, 90 BPM",
+    "lyrics": "[Verse]\nAll you peoples come near\nClap your hands in the air\nShout to God with cries of joy\nLet the noise ring out loud\n\n[Chorus]\nThe LORD Most High is to be feared\nA great King over all the earth\nHe subdues peoples under us\nNations beneath our feet\n\n[Verse]\nHe chooses our inheritance for us\nThe pride of Jacob whom he loves\nSelah rests upon the land\nWe stand in His command\n\n[Chorus]\nThe LORD Most High is to be feared\nA great King over all the earth\nHe subdues peoples under us\nNations beneath our feet\n\n[Bridge]\nJoy fills the hearts of the nations\nFear and awe in our hearts\nThe King rules over everything\nWith power and with love\n\n[Chorus]\nThe LORD Most High is to be feared\nA great King over all the earth\nHe subdues peoples under us\nNations beneath our feet\n\n[Outro]\nPride of Jacob whom he loves\nGreat King over all the earth",
+    "cot": "full",
+    "seed": 20249
+  }
+}

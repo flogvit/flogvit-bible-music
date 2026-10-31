@@ -1,0 +1,42 @@
+{
+  "id": "verse-19-22-1-ballad",
+  "title": "Why Have You Forsaken Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 22,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, emotional and raw, acoustic guitar, piano, cello, light percussion, somber and desperate mood, 70 BPM",
+    "lyrics": "[Verse]\nMy God my God why have you forsaken me\nWhy so far from saving me\nSo far from the words of my groaning\nI call by day and you do not answer\nBy night I find no rest\n\n[Chorus]\nYet you are holy\nEnthroned on the praises of Israel\nYou are holy\nEnthroned on the praises of Israel\n\n[Verse]\nIn you our fathers trusted\nThey trusted and you rescued them\nMy God my God why have you forsaken me\nWhy so far from saving me\nSo far from the words of my groaning\n\n[Chorus]\nYet you are holy\nEnthroned on the praises of Israel\nYou are holy\nEnthroned on the praises of Israel\n\n[Outro]\nMy God my God\nWhy have you forsaken me",
+    "cot": "full",
+    "seed": 20247
+  }
+}

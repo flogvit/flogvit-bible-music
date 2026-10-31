@@ -1,0 +1,46 @@
+{
+  "id": "verse-23-53-5-hymn",
+  "title": "By His Wounds We Are Healed",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 53,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 53,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female vocal solo with gentle choir support, piano, strings, cello, organ, reverent and sorrowful mood, 72 BPM",
+    "lyrics": "[Verse]\nA young shoot in the dry ground\nNo beauty to draw our eyes\nHe was despised and rejected\nA man of sorrows and grief\nWe hid our faces from him\nHolding him of no account\nYet he bore our heavy griefs\nCarrying our deep sorrows\n\n[Chorus]\nBut he was pierced for our transgressions\nCrushed for our iniquities\nThe punishment brought us peace\nLaid upon his body\nBy his wounds we are healed\nBy his wounds we are healed\n\n[Verse]\nAll of us have strayed like sheep\nTurning to our own ways\nThe Lord laid all our sin\nUpon his innocent soul\nOppressed and afflicted he stood\nYet did not open his mouth\nLike a lamb to the slaughter\nSilent before the shearers\n\n[Chorus]\nBut he was pierced for our transgressions\nCrushed for our iniquities\nThe punishment brought us peace\nLaid upon his body\nBy his wounds we are healed\nBy his wounds we are healed\n\n[Verse]\nTaken by judgment and oppression\nWho gave it a thought in his generation\nCut off from the land of the living\nStricken for our transgression\nHe who knew no sin was led\nTo bear the weight of the world\nThe curse that was ours became his\nThe joy that is ours came from his pain\n\n[Chorus]\nBut he was pierced for our transgressions\nCrushed for our iniquities\nThe punishment brought us peace\nLaid upon his body\nBy his wounds we are healed\nBy his wounds we are healed\n\n[Outro]\nHealed by his wounds\nPierced for our sins\nHealed by his wounds",
+    "cot": "full",
+    "seed": 20255
+  }
+}

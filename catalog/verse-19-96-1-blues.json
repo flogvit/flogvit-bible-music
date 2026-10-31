@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-96-1-blues",
+  "title": "Sing To The Lord A New Song",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 96,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 96,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful female voice, electric guitar, upright bass, piano, drums, organ, melancholic and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nSing to the LORD a new song\nCall out to all the earth\nSing to the LORD and bless his name\nHis salvation is so dear\n\n[Chorus]\nProclaim his salvation day after day\nDeclare his glory among the nations\nHis wonders shown to all peoples\nGreat is the LORD in praise\n\n[Verse]\nHe is to be feared above all gods\nFor all the gods of the peoples\nAre idols and nothing more\nBut the LORD made the heavens\n\n[Chorus]\nProclaim his salvation day after day\nDeclare his glory among the nations\nHis wonders shown to all peoples\nGreat is the LORD in praise\n\n[Outro]\nSplendor and majesty before him\nStrength and beauty in his sanctuary",
+    "cot": "full",
+    "seed": 20252
+  }
+}

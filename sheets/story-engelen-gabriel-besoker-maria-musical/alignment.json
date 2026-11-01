@@ -1,0 +1,1260 @@
+{
+ "id": "story-engelen-gabriel-besoker-maria-musical",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-engelen-gabriel-besoker-maria-musical",
+ "offset_seconds": -3.3000000000001855,
+ "words_heard": 137,
+ "words": 139,
+ "lines": [
+  {
+   "text": "Do not be afraid, Mary",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "You have found favor with God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will bear a son and call him Jesus",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And his kingdom will never end",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How can this be, how can this be",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When I have never known a man",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.13,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I am only a girl from Nazareth",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How can this be his plan",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.19,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Nothing is impossible with God",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Nothing is impossible with God",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Holy Spirit will come upon you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The power of the Most High will overshadow you",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And your cousin Elizabeth in her old age",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is with child, for nothing is too hard",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am the servant of the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let it be to me according to your word",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am the servant of the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, let it be to me as you have said",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nothing is impossible with God",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nothing is impossible with God",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Do",
+   "time": 22.98,
+   "weight": 0.62,
+   "note_time": 24.0
+  },
+  {
+   "text": "not",
+   "time": 24.14,
+   "weight": 0.99,
+   "note_time": 24.33
+  },
+  {
+   "text": "be",
+   "time": 25.3,
+   "weight": 1.0,
+   "note_time": 24.67
+  },
+  {
+   "text": "af",
+   "time": 25.58,
+   "weight": 1.0,
+   "note_time": 25.0
+  },
+  {
+   "text": "raid,",
+   "time": 25.93,
+   "weight": 1.0,
+   "note_time": 25.33
+  },
+  {
+   "text": "Ma",
+   "time": 26.66,
+   "weight": 1.0,
+   "note_time": 26.0
+  },
+  {
+   "text": "ry",
+   "time": 26.86,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "You",
+   "time": 29.56,
+   "weight": 0.15,
+   "note_time": 29.67
+  },
+  {
+   "text": "have",
+   "time": 30.6,
+   "weight": 0.87,
+   "note_time": 30.0
+  },
+  {
+   "text": "found",
+   "time": 31.02,
+   "weight": 0.98,
+   "note_time": 30.33
+  },
+  {
+   "text": "fa",
+   "time": 31.4,
+   "weight": 0.72,
+   "note_time": 30.67
+  },
+  {
+   "text": "vor",
+   "time": 31.66,
+   "weight": 0.72,
+   "note_time": 31.17
+  },
+  {
+   "text": "with",
+   "time": 31.92,
+   "weight": 0.99,
+   "note_time": 31.67
+  },
+  {
+   "text": "God",
+   "time": 32.78,
+   "weight": 0.98,
+   "note_time": 32.0
+  },
+  {
+   "text": "You",
+   "time": 33.68,
+   "weight": 0.29,
+   "note_time": 34.0
+  },
+  {
+   "text": "will",
+   "time": 35.16,
+   "weight": 0.99,
+   "note_time": 34.33
+  },
+  {
+   "text": "bear",
+   "time": 35.48,
+   "weight": 0.99,
+   "note_time": 34.67
+  },
+  {
+   "text": "a",
+   "time": 35.98,
+   "weight": 0.99,
+   "note_time": 35.33
+  },
+  {
+   "text": "son",
+   "time": 36.5,
+   "weight": 0.97,
+   "note_time": 36.0
+  },
+  {
+   "text": "and",
+   "time": 37.3,
+   "weight": 0.77,
+   "note_time": 37.0
+  },
+  {
+   "text": "call",
+   "time": 38.18,
+   "weight": 1.0,
+   "note_time": 37.33
+  },
+  {
+   "text": "him",
+   "time": 38.6,
+   "weight": 0.57,
+   "note_time": 38.0
+  },
+  {
+   "text": "Je",
+   "time": 39.26,
+   "weight": 0.98,
+   "note_time": 38.67
+  },
+  {
+   "text": "sus",
+   "time": 39.61,
+   "weight": 0.98,
+   "note_time": 39.0
+  },
+  {
+   "text": "And",
+   "time": 39.98,
+   "weight": 0.33,
+   "note_time": 40.67
+  },
+  {
+   "text": "his",
+   "time": 41.84,
+   "weight": 0.79,
+   "note_time": 41.33
+  },
+  {
+   "text": "kin",
+   "time": 42.3,
+   "weight": 0.97,
+   "note_time": 41.83
+  },
+  {
+   "text": "gdom",
+   "time": 42.61,
+   "weight": 0.97,
+   "note_time": 42.33
+  },
+  {
+   "text": "will",
+   "time": 42.92,
+   "weight": 1.0,
+   "note_time": 42.67
+  },
+  {
+   "text": "ne",
+   "time": 43.64,
+   "weight": 1.0,
+   "note_time": 42.83
+  },
+  {
+   "text": "ver",
+   "time": 43.87,
+   "weight": 1.0,
+   "note_time": 43.0
+  },
+  {
+   "text": "end",
+   "time": 44.1,
+   "weight": 1.0,
+   "note_time": 43.17
+  },
+  {
+   "text": "How",
+   "time": 48.12,
+   "weight": 0.95,
+   "note_time": 48.0
+  },
+  {
+   "text": "can",
+   "time": 49.16,
+   "weight": 1.0,
+   "note_time": 48.5
+  },
+  {
+   "text": "this",
+   "time": 49.76,
+   "weight": 1.0,
+   "note_time": 49.0
+  },
+  {
+   "text": "be,",
+   "time": 50.32,
+   "weight": 1.0,
+   "note_time": 49.33
+  },
+  {
+   "text": "how",
+   "time": 51.08,
+   "weight": 0.98,
+   "note_time": 50.67
+  },
+  {
+   "text": "can",
+   "time": 52.0,
+   "weight": 1.0,
+   "note_time": 51.17
+  },
+  {
+   "text": "this",
+   "time": 52.44,
+   "weight": 1.0,
+   "note_time": 51.67
+  },
+  {
+   "text": "be",
+   "time": 53.02,
+   "weight": 1.0,
+   "note_time": 52.0
+  },
+  {
+   "text": "When",
+   "time": 53.38,
+   "weight": 0.14,
+   "note_time": 53.67
+  },
+  {
+   "text": "I",
+   "time": 55.08,
+   "weight": 0.99,
+   "note_time": 54.0
+  },
+  {
+   "text": "have",
+   "time": 55.46,
+   "weight": 0.99,
+   "note_time": 54.33
+  },
+  {
+   "text": "ne",
+   "time": 55.82,
+   "weight": 1.0,
+   "note_time": 54.67
+  },
+  {
+   "text": "ver",
+   "time": 56.01,
+   "weight": 1.0,
+   "note_time": 54.83
+  },
+  {
+   "text": "known",
+   "time": 56.2,
+   "weight": 0.99,
+   "note_time": 55.17
+  },
+  {
+   "text": "a",
+   "time": 56.72,
+   "weight": 0.98,
+   "note_time": 55.67
+  },
+  {
+   "text": "man",
+   "time": 57.22,
+   "weight": 1.0,
+   "note_time": 56.0
+  },
+  {
+   "text": "I",
+   "time": 58.32,
+   "weight": 0.82,
+   "note_time": 58.0
+  },
+  {
+   "text": "am",
+   "time": 59.52,
+   "weight": 0.99,
+   "note_time": 58.67
+  },
+  {
+   "text": "on",
+   "time": 59.92,
+   "weight": 1.0,
+   "note_time": 59.33
+  },
+  {
+   "text": "ly",
+   "time": 60.27,
+   "weight": 1.0,
+   "note_time": 59.67
+  },
+  {
+   "text": "a",
+   "time": 60.64,
+   "weight": 1.0,
+   "note_time": 59.83
+  },
+  {
+   "text": "girl",
+   "time": 61.14,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "from",
+   "time": 61.64,
+   "weight": 0.99,
+   "note_time": 60.67
+  },
+  {
+   "text": "Na",
+   "time": 62.32,
+   "weight": 0.38,
+   "note_time": 61.33
+  },
+  {
+   "text": "za",
+   "time": 62.67,
+   "weight": 0.38,
+   "note_time": 62.0
+  },
+  {
+   "text": "reth",
+   "time": 63.02,
+   "weight": 0.38,
+   "note_time": 62.67
+  },
+  {
+   "text": "How",
+   "time": 64.64,
+   "weight": 0.96,
+   "note_time": 64.33
+  },
+  {
+   "text": "can",
+   "time": 65.88,
+   "weight": 1.0,
+   "note_time": 64.67
+  },
+  {
+   "text": "this",
+   "time": 66.22,
+   "weight": 1.0,
+   "note_time": 65.0
+  },
+  {
+   "text": "be",
+   "time": 66.64,
+   "weight": 1.0,
+   "note_time": 65.33
+  },
+  {
+   "text": "his",
+   "time": 66.96,
+   "weight": 0.7,
+   "note_time": 66.33
+  },
+  {
+   "text": "plan",
+   "time": 67.84,
+   "weight": 0.99,
+   "note_time": 66.67
+  },
+  {
+   "text": "Noth",
+   "time": 70.69,
+   "weight": 0.99,
+   "note_time": 69.33
+  },
+  {
+   "text": "ing",
+   "time": 70.96,
+   "weight": 0.99,
+   "note_time": 70.0
+  },
+  {
+   "text": "is",
+   "time": 71.22,
+   "weight": 1.0,
+   "note_time": 70.33
+  },
+  {
+   "text": "im",
+   "time": 71.76,
+   "weight": 1.0,
+   "note_time": 70.67
+  },
+  {
+   "text": "pos",
+   "time": 71.92,
+   "weight": 1.0,
+   "note_time": 71.0
+  },
+  {
+   "text": "si",
+   "time": 72.08,
+   "weight": 1.0,
+   "note_time": 71.17
+  },
+  {
+   "text": "ble",
+   "time": 72.24,
+   "weight": 1.0,
+   "note_time": 71.67
+  },
+  {
+   "text": "with",
+   "time": 72.4,
+   "weight": 0.99,
+   "note_time": 72.0
+  },
+  {
+   "text": "God",
+   "time": 73.46,
+   "weight": 1.0,
+   "note_time": 73.33
+  },
+  {
+   "text": "Noth",
+   "time": 80.32,
+   "weight": 0.56,
+   "note_time": 80.0
+  },
+  {
+   "text": "ing",
+   "time": 80.67,
+   "weight": 0.56,
+   "note_time": 80.67
+  },
+  {
+   "text": "is",
+   "time": 81.6,
+   "weight": 0.99,
+   "note_time": 81.0
+  },
+  {
+   "text": "im",
+   "time": 82.38,
+   "weight": 0.99,
+   "note_time": 81.33
+  },
+  {
+   "text": "pos",
+   "time": 82.53,
+   "weight": 0.99,
+   "note_time": 81.67
+  },
+  {
+   "text": "si",
+   "time": 82.67,
+   "weight": 0.99,
+   "note_time": 81.83
+  },
+  {
+   "text": "ble",
+   "time": 82.82,
+   "weight": 0.99,
+   "note_time": 82.33
+  },
+  {
+   "text": "with",
+   "time": 82.96,
+   "weight": 0.98,
+   "note_time": 82.67
+  },
+  {
+   "text": "God",
+   "time": 83.98,
+   "weight": 1.0,
+   "note_time": 84.0
+  },
+  {
+   "text": "The",
+   "time": 90.26,
+   "weight": 0.69,
+   "note_time": 91.0
+  },
+  {
+   "text": "Ho",
+   "time": 91.54,
+   "weight": 0.95,
+   "note_time": 91.33
+  },
+  {
+   "text": "ly",
+   "time": 91.89,
+   "weight": 0.95,
+   "note_time": 91.67
+  },
+  {
+   "text": "Spir",
+   "time": 92.82,
+   "weight": 0.99,
+   "note_time": 92.0
+  },
+  {
+   "text": "it",
+   "time": 93.14,
+   "weight": 0.99,
+   "note_time": 92.33
+  },
+  {
+   "text": "will",
+   "time": 93.46,
+   "weight": 0.99,
+   "note_time": 93.0
+  },
+  {
+   "text": "come",
+   "time": 94.42,
+   "weight": 1.0,
+   "note_time": 93.33
+  },
+  {
+   "text": "up",
+   "time": 94.8,
+   "weight": 0.99,
+   "note_time": 94.0
+  },
+  {
+   "text": "on",
+   "time": 95.15,
+   "weight": 0.99,
+   "note_time": 94.67
+  },
+  {
+   "text": "you",
+   "time": 95.8,
+   "weight": 0.99,
+   "note_time": 95.33
+  },
+  {
+   "text": "The",
+   "time": 96.82,
+   "weight": 0.94,
+   "note_time": 96.33
+  },
+  {
+   "text": "pow",
+   "time": 97.7,
+   "weight": 0.98,
+   "note_time": 96.5
+  },
+  {
+   "text": "er",
+   "time": 97.88,
+   "weight": 0.98,
+   "note_time": 96.83
+  },
+  {
+   "text": "of",
+   "time": 98.06,
+   "weight": 1.0,
+   "note_time": 97.0
+  },
+  {
+   "text": "the",
+   "time": 98.42,
+   "weight": 0.99,
+   "note_time": 97.17
+  },
+  {
+   "text": "Most",
+   "time": 98.48,
+   "weight": 0.86,
+   "note_time": 97.33
+  },
+  {
+   "text": "High",
+   "time": 98.76,
+   "weight": 0.99,
+   "note_time": 97.83
+  },
+  {
+   "text": "will",
+   "time": 99.28,
+   "weight": 0.99,
+   "note_time": 98.33
+  },
+  {
+   "text": "o",
+   "time": 99.72,
+   "weight": 0.4,
+   "note_time": 98.67
+  },
+  {
+   "text": "ver",
+   "time": 100.07,
+   "weight": 0.4,
+   "note_time": 99.33
+  },
+  {
+   "text": "sha",
+   "time": 100.42,
+   "weight": 0.4,
+   "note_time": 100.0
+  },
+  {
+   "text": "dow",
+   "time": 100.77,
+   "weight": 0.4,
+   "note_time": 100.17
+  },
+  {
+   "text": "you",
+   "time": 101.54,
+   "weight": 1.0,
+   "note_time": 100.5
+  },
+  {
+   "text": "And",
+   "time": 101.9,
+   "weight": 0.18,
+   "note_time": 101.5
+  },
+  {
+   "text": "your",
+   "time": 102.74,
+   "weight": 0.94,
+   "note_time": 102.0
+  },
+  {
+   "text": "cou",
+   "time": 103.02,
+   "weight": 0.99,
+   "note_time": 102.17
+  },
+  {
+   "text": "sin",
+   "time": 103.25,
+   "weight": 0.99,
+   "note_time": 102.33
+  },
+  {
+   "text": "E",
+   "time": 103.48,
+   "weight": 0.81,
+   "note_time": 102.5
+  },
+  {
+   "text": "li",
+   "time": 103.63,
+   "weight": 0.81,
+   "note_time": 102.67
+  },
+  {
+   "text": "za",
+   "time": 103.77,
+   "weight": 0.81,
+   "note_time": 102.83
+  },
+  {
+   "text": "beth",
+   "time": 103.92,
+   "weight": 0.81,
+   "note_time": 103.0
+  },
+  {
+   "text": "in",
+   "time": 104.06,
+   "weight": 0.52,
+   "note_time": 104.0
+  },
+  {
+   "text": "her",
+   "time": 105.38,
+   "weight": 0.99,
+   "note_time": 104.5
+  },
+  {
+   "text": "old",
+   "time": 105.78,
+   "weight": 0.99,
+   "note_time": 105.0
+  },
+  {
+   "text": "age",
+   "time": 106.27,
+   "weight": 0.0,
+   "note_time": 105.33
+  },
+  {
+   "text": "Is",
+   "time": 106.75,
+   "weight": 0.0,
+   "note_time": 106.0
+  },
+  {
+   "text": "with",
+   "time": 107.24,
+   "weight": 0.92,
+   "note_time": 106.33
+  },
+  {
+   "text": "child,",
+   "time": 107.64,
+   "weight": 0.99,
+   "note_time": 106.67
+  },
+  {
+   "text": "for",
+   "time": 108.08,
+   "weight": 0.54,
+   "note_time": 107.83
+  },
+  {
+   "text": "noth",
+   "time": 109.02,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "ing",
+   "time": 109.23,
+   "weight": 1.0,
+   "note_time": 108.17
+  },
+  {
+   "text": "is",
+   "time": 109.44,
+   "weight": 1.0,
+   "note_time": 108.5
+  },
+  {
+   "text": "too",
+   "time": 109.88,
+   "weight": 0.99,
+   "note_time": 109.0
+  },
+  {
+   "text": "hard",
+   "time": 110.22,
+   "weight": 1.0,
+   "note_time": 109.33
+  },
+  {
+   "text": "I",
+   "time": 115.0,
+   "weight": 0.94,
+   "note_time": 115.0
+  },
+  {
+   "text": "am",
+   "time": 115.92,
+   "weight": 0.99,
+   "note_time": 115.33
+  },
+  {
+   "text": "the",
+   "time": 116.56,
+   "weight": 0.97,
+   "note_time": 115.67
+  },
+  {
+   "text": "ser",
+   "time": 116.82,
+   "weight": 0.96,
+   "note_time": 116.0
+  },
+  {
+   "text": "vant",
+   "time": 117.14,
+   "weight": 0.96,
+   "note_time": 116.33
+  },
+  {
+   "text": "of",
+   "time": 117.46,
+   "weight": 1.0,
+   "note_time": 116.67
+  },
+  {
+   "text": "the",
+   "time": 117.86,
+   "weight": 1.0,
+   "note_time": 117.0
+  },
+  {
+   "text": "Lord",
+   "time": 118.08,
+   "weight": 0.98,
+   "note_time": 117.17
+  },
+  {
+   "text": "Let",
+   "time": 120.52,
+   "weight": 0.96,
+   "note_time": 120.33
+  },
+  {
+   "text": "it",
+   "time": 121.44,
+   "weight": 1.0,
+   "note_time": 120.5
+  },
+  {
+   "text": "be",
+   "time": 121.6,
+   "weight": 1.0,
+   "note_time": 120.67
+  },
+  {
+   "text": "to",
+   "time": 121.8,
+   "weight": 1.0,
+   "note_time": 121.0
+  },
+  {
+   "text": "me",
+   "time": 122.06,
+   "weight": 0.99,
+   "note_time": 121.17
+  },
+  {
+   "text": "ac",
+   "time": 122.3,
+   "weight": 0.96,
+   "note_time": 122.33
+  },
+  {
+   "text": "cord",
+   "time": 122.65,
+   "weight": 0.96,
+   "note_time": 122.67
+  },
+  {
+   "text": "ing",
+   "time": 123.0,
+   "weight": 0.96,
+   "note_time": 123.0
+  },
+  {
+   "text": "to",
+   "time": 123.7,
+   "weight": 1.0,
+   "note_time": 123.33
+  },
+  {
+   "text": "your",
+   "time": 124.36,
+   "weight": 0.6,
+   "note_time": 123.5
+  },
+  {
+   "text": "word",
+   "time": 124.7,
+   "weight": 0.83,
+   "note_time": 124.0
+  },
+  {
+   "text": "I",
+   "time": 125.34,
+   "weight": 0.99,
+   "note_time": 125.67
+  },
+  {
+   "text": "am",
+   "time": 126.66,
+   "weight": 1.0,
+   "note_time": 126.33
+  },
+  {
+   "text": "the",
+   "time": 127.12,
+   "weight": 1.0,
+   "note_time": 126.67
+  },
+  {
+   "text": "ser",
+   "time": 127.38,
+   "weight": 1.0,
+   "note_time": 127.0
+  },
+  {
+   "text": "vant",
+   "time": 127.68,
+   "weight": 1.0,
+   "note_time": 127.33
+  },
+  {
+   "text": "of",
+   "time": 127.98,
+   "weight": 1.0,
+   "note_time": 127.67
+  },
+  {
+   "text": "the",
+   "time": 128.48,
+   "weight": 1.0,
+   "note_time": 127.83
+  },
+  {
+   "text": "Lord",
+   "time": 128.66,
+   "weight": 1.0,
+   "note_time": 128.67
+  },
+  {
+   "text": "Lord,",
+   "time": 129.34,
+   "weight": 0.24,
+   "note_time": 129.33
+  },
+  {
+   "text": "let",
+   "time": 129.98,
+   "weight": 0.99,
+   "note_time": 130.0
+  },
+  {
+   "text": "it",
+   "time": 131.12,
+   "weight": 1.0,
+   "note_time": 130.33
+  },
+  {
+   "text": "be",
+   "time": 131.36,
+   "weight": 1.0,
+   "note_time": 130.67
+  },
+  {
+   "text": "to",
+   "time": 131.72,
+   "weight": 0.95,
+   "note_time": 131.83
+  },
+  {
+   "text": "me",
+   "time": 132.82,
+   "weight": 0.99,
+   "note_time": 132.0
+  },
+  {
+   "text": "as",
+   "time": 133.04,
+   "weight": 0.97,
+   "note_time": 132.33
+  },
+  {
+   "text": "you",
+   "time": 133.4,
+   "weight": 0.52,
+   "note_time": 132.67
+  },
+  {
+   "text": "have",
+   "time": 133.6,
+   "weight": 1.0,
+   "note_time": 132.83
+  },
+  {
+   "text": "said",
+   "time": 133.92,
+   "weight": 1.0,
+   "note_time": 133.33
+  },
+  {
+   "text": "Noth",
+   "time": 135.7,
+   "weight": 0.57,
+   "note_time": 136.0
+  },
+  {
+   "text": "ing",
+   "time": 136.05,
+   "weight": 0.57,
+   "note_time": 136.33
+  },
+  {
+   "text": "is",
+   "time": 136.92,
+   "weight": 1.0,
+   "note_time": 136.67
+  },
+  {
+   "text": "im",
+   "time": 137.72,
+   "weight": 1.0,
+   "note_time": 137.0
+  },
+  {
+   "text": "pos",
+   "time": 137.88,
+   "weight": 1.0,
+   "note_time": 137.33
+  },
+  {
+   "text": "si",
+   "time": 138.04,
+   "weight": 1.0,
+   "note_time": 137.67
+  },
+  {
+   "text": "ble",
+   "time": 138.2,
+   "weight": 1.0,
+   "note_time": 137.83
+  },
+  {
+   "text": "with",
+   "time": 138.36,
+   "weight": 1.0,
+   "note_time": 138.33
+  },
+  {
+   "text": "God",
+   "time": 139.32,
+   "weight": 1.0,
+   "note_time": 138.67
+  },
+  {
+   "text": "Noth",
+   "time": 145.74,
+   "weight": 0.96,
+   "note_time": 146.67
+  },
+  {
+   "text": "ing",
+   "time": 146.09,
+   "weight": 0.96,
+   "note_time": 147.0
+  },
+  {
+   "text": "is",
+   "time": 146.96,
+   "weight": 1.0,
+   "note_time": 147.33
+  },
+  {
+   "text": "im",
+   "time": 148.18,
+   "weight": 1.0,
+   "note_time": 147.67
+  },
+  {
+   "text": "pos",
+   "time": 148.32,
+   "weight": 1.0,
+   "note_time": 148.0
+  },
+  {
+   "text": "si",
+   "time": 148.46,
+   "weight": 1.0,
+   "note_time": 148.33
+  },
+  {
+   "text": "ble",
+   "time": 148.6,
+   "weight": 1.0,
+   "note_time": 148.5
+  },
+  {
+   "text": "with",
+   "time": 148.74,
+   "weight": 1.0,
+   "note_time": 149.0
+  },
+  {
+   "text": "God",
+   "time": 149.82,
+   "weight": 1.0,
+   "note_time": 149.33
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "15 of 20 lyric lines sit clearly on their notes; 5 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,1066 @@
+{
+ "id": "story-israelittene-gar-gjennom-rodehavet-middle-eastern",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-israelittene-gar-gjennom-rodehavet-middle-eastern",
+ "offset_seconds": -1.120000000000232,
+ "words_heard": 117,
+ "words": 122,
+ "lines": [
+  {
+   "text": "Miriam took the tambourine",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "All the women followed her",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Dancing on the farther shore",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where the sea had closed once more",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sing to the Lord, for he is highly exalted",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Horse and rider he has hurled into the sea",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sing to the Lord, for he is highly exalted",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Horse and rider he has hurled into the sea",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord is my strength and my song",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He has become my salvation",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He is my God and I will praise him",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My father's God, I will exalt him",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sing to the Lord, for he is highly exalted",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Horse and rider he has hurled into the sea",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sing to the Lord, for he is highly exalted",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Horse and rider he has hurled into the sea",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Miri",
+   "time": 27.74,
+   "weight": 0.0,
+   "note_time": 27.27
+  },
+  {
+   "text": "am",
+   "time": 28.14,
+   "weight": 0.0,
+   "note_time": 27.73
+  },
+  {
+   "text": "took",
+   "time": 28.54,
+   "weight": 0.99,
+   "note_time": 28.18
+  },
+  {
+   "text": "the",
+   "time": 28.86,
+   "weight": 0.99,
+   "note_time": 28.64
+  },
+  {
+   "text": "tam",
+   "time": 29.3,
+   "weight": 0.39,
+   "note_time": 29.09
+  },
+  {
+   "text": "bou",
+   "time": 29.65,
+   "weight": 0.39,
+   "note_time": 29.55
+  },
+  {
+   "text": "rine",
+   "time": 30.0,
+   "weight": 0.39,
+   "note_time": 29.77
+  },
+  {
+   "text": "All",
+   "time": 30.92,
+   "weight": 0.72,
+   "note_time": 30.68
+  },
+  {
+   "text": "the",
+   "time": 31.2,
+   "weight": 0.98,
+   "note_time": 30.91
+  },
+  {
+   "text": "wom",
+   "time": 31.4,
+   "weight": 1.0,
+   "note_time": 31.59
+  },
+  {
+   "text": "en",
+   "time": 31.75,
+   "weight": 1.0,
+   "note_time": 31.82
+  },
+  {
+   "text": "fol",
+   "time": 32.18,
+   "weight": 0.96,
+   "note_time": 32.27
+  },
+  {
+   "text": "lowed",
+   "time": 32.44,
+   "weight": 0.96,
+   "note_time": 32.73
+  },
+  {
+   "text": "her",
+   "time": 32.7,
+   "weight": 0.98,
+   "note_time": 32.95
+  },
+  {
+   "text": "Danc",
+   "time": 33.54,
+   "weight": 0.0,
+   "note_time": 34.55
+  },
+  {
+   "text": "ing",
+   "time": 34.38,
+   "weight": 0.0,
+   "note_time": 35.23
+  },
+  {
+   "text": "on",
+   "time": 35.22,
+   "weight": 0.94,
+   "note_time": 35.45
+  },
+  {
+   "text": "the",
+   "time": 35.9,
+   "weight": 0.99,
+   "note_time": 35.91
+  },
+  {
+   "text": "far",
+   "time": 36.08,
+   "weight": 0.82,
+   "note_time": 36.36
+  },
+  {
+   "text": "ther",
+   "time": 36.43,
+   "weight": 0.82,
+   "note_time": 36.82
+  },
+  {
+   "text": "shore",
+   "time": 37.1,
+   "weight": 1.0,
+   "note_time": 37.05
+  },
+  {
+   "text": "Where",
+   "time": 37.54,
+   "weight": 0.72,
+   "note_time": 37.5
+  },
+  {
+   "text": "the",
+   "time": 38.02,
+   "weight": 0.98,
+   "note_time": 37.73
+  },
+  {
+   "text": "sea",
+   "time": 38.18,
+   "weight": 0.97,
+   "note_time": 37.95
+  },
+  {
+   "text": "had",
+   "time": 38.44,
+   "weight": 0.25,
+   "note_time": 38.18
+  },
+  {
+   "text": "closed",
+   "time": 38.64,
+   "weight": 0.99,
+   "note_time": 38.86
+  },
+  {
+   "text": "once",
+   "time": 38.92,
+   "weight": 0.98,
+   "note_time": 39.09
+  },
+  {
+   "text": "more",
+   "time": 40.28,
+   "weight": 1.0,
+   "note_time": 39.55
+  },
+  {
+   "text": "Sing",
+   "time": 42.04,
+   "weight": 0.82,
+   "note_time": 41.82
+  },
+  {
+   "text": "to",
+   "time": 42.48,
+   "weight": 1.0,
+   "note_time": 42.5
+  },
+  {
+   "text": "the",
+   "time": 42.86,
+   "weight": 1.0,
+   "note_time": 42.73
+  },
+  {
+   "text": "Lord,",
+   "time": 43.14,
+   "weight": 0.92,
+   "note_time": 43.18
+  },
+  {
+   "text": "for",
+   "time": 43.56,
+   "weight": 0.64,
+   "note_time": 43.64
+  },
+  {
+   "text": "he",
+   "time": 43.84,
+   "weight": 0.65,
+   "note_time": 44.32
+  },
+  {
+   "text": "is",
+   "time": 44.34,
+   "weight": 0.98,
+   "note_time": 44.55
+  },
+  {
+   "text": "high",
+   "time": 44.96,
+   "weight": 0.68,
+   "note_time": 44.77
+  },
+  {
+   "text": "ly",
+   "time": 45.2,
+   "weight": 0.68,
+   "note_time": 45.0
+  },
+  {
+   "text": "ex",
+   "time": 45.44,
+   "weight": 0.99,
+   "note_time": 45.23
+  },
+  {
+   "text": "alt",
+   "time": 45.79,
+   "weight": 0.99,
+   "note_time": 45.45
+  },
+  {
+   "text": "ed",
+   "time": 46.14,
+   "weight": 0.99,
+   "note_time": 45.91
+  },
+  {
+   "text": "Horse",
+   "time": 49.06,
+   "weight": 0.81,
+   "note_time": 49.09
+  },
+  {
+   "text": "and",
+   "time": 49.94,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "rid",
+   "time": 50.3,
+   "weight": 0.99,
+   "note_time": 50.23
+  },
+  {
+   "text": "er",
+   "time": 50.58,
+   "weight": 0.99,
+   "note_time": 50.45
+  },
+  {
+   "text": "he",
+   "time": 51.22,
+   "weight": 0.93,
+   "note_time": 50.91
+  },
+  {
+   "text": "has",
+   "time": 51.52,
+   "weight": 0.93,
+   "note_time": 51.59
+  },
+  {
+   "text": "hurled",
+   "time": 52.05,
+   "weight": 0.0,
+   "note_time": 51.82
+  },
+  {
+   "text": "in",
+   "time": 52.58,
+   "weight": 0.52,
+   "note_time": 52.05
+  },
+  {
+   "text": "to",
+   "time": 52.71,
+   "weight": 0.52,
+   "note_time": 52.27
+  },
+  {
+   "text": "the",
+   "time": 52.84,
+   "weight": 0.98,
+   "note_time": 52.5
+  },
+  {
+   "text": "sea",
+   "time": 53.12,
+   "weight": 0.98,
+   "note_time": 52.73
+  },
+  {
+   "text": "Sing",
+   "time": 56.12,
+   "weight": 0.6,
+   "note_time": 56.36
+  },
+  {
+   "text": "to",
+   "time": 57.0,
+   "weight": 1.0,
+   "note_time": 57.05
+  },
+  {
+   "text": "the",
+   "time": 57.42,
+   "weight": 1.0,
+   "note_time": 57.27
+  },
+  {
+   "text": "Lord,",
+   "time": 57.66,
+   "weight": 0.97,
+   "note_time": 57.73
+  },
+  {
+   "text": "for",
+   "time": 58.12,
+   "weight": 0.8,
+   "note_time": 58.18
+  },
+  {
+   "text": "he",
+   "time": 58.4,
+   "weight": 0.6,
+   "note_time": 58.86
+  },
+  {
+   "text": "is",
+   "time": 58.88,
+   "weight": 0.96,
+   "note_time": 59.09
+  },
+  {
+   "text": "high",
+   "time": 59.58,
+   "weight": 0.81,
+   "note_time": 59.32
+  },
+  {
+   "text": "ly",
+   "time": 59.77,
+   "weight": 0.81,
+   "note_time": 59.55
+  },
+  {
+   "text": "ex",
+   "time": 59.96,
+   "weight": 1.0,
+   "note_time": 59.77
+  },
+  {
+   "text": "alt",
+   "time": 60.31,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "ed",
+   "time": 60.66,
+   "weight": 1.0,
+   "note_time": 60.45
+  },
+  {
+   "text": "Horse",
+   "time": 63.58,
+   "weight": 0.44,
+   "note_time": 63.64
+  },
+  {
+   "text": "and",
+   "time": 64.46,
+   "weight": 1.0,
+   "note_time": 64.55
+  },
+  {
+   "text": "rid",
+   "time": 64.82,
+   "weight": 1.0,
+   "note_time": 64.77
+  },
+  {
+   "text": "er",
+   "time": 65.12,
+   "weight": 1.0,
+   "note_time": 65.0
+  },
+  {
+   "text": "he",
+   "time": 65.42,
+   "weight": 0.7,
+   "note_time": 65.45
+  },
+  {
+   "text": "has",
+   "time": 66.16,
+   "weight": 0.98,
+   "note_time": 66.14
+  },
+  {
+   "text": "hurled",
+   "time": 66.8,
+   "weight": 0.69,
+   "note_time": 66.36
+  },
+  {
+   "text": "in",
+   "time": 67.16,
+   "weight": 0.67,
+   "note_time": 66.59
+  },
+  {
+   "text": "to",
+   "time": 67.28,
+   "weight": 0.67,
+   "note_time": 66.82
+  },
+  {
+   "text": "the",
+   "time": 67.4,
+   "weight": 1.0,
+   "note_time": 67.05
+  },
+  {
+   "text": "sea",
+   "time": 67.66,
+   "weight": 0.99,
+   "note_time": 67.27
+  },
+  {
+   "text": "The",
+   "time": 99.48,
+   "weight": 0.2,
+   "note_time": 99.77
+  },
+  {
+   "text": "Lord",
+   "time": 100.34,
+   "weight": 0.96,
+   "note_time": 100.0
+  },
+  {
+   "text": "is",
+   "time": 100.74,
+   "weight": 1.0,
+   "note_time": 100.45
+  },
+  {
+   "text": "my",
+   "time": 101.2,
+   "weight": 1.0,
+   "note_time": 100.91
+  },
+  {
+   "text": "strength",
+   "time": 101.54,
+   "weight": 1.0,
+   "note_time": 101.36
+  },
+  {
+   "text": "and",
+   "time": 102.18,
+   "weight": 0.96,
+   "note_time": 101.82
+  },
+  {
+   "text": "my",
+   "time": 102.56,
+   "weight": 0.99,
+   "note_time": 102.27
+  },
+  {
+   "text": "song",
+   "time": 102.94,
+   "weight": 1.0,
+   "note_time": 102.5
+  },
+  {
+   "text": "He",
+   "time": 103.46,
+   "weight": 0.42,
+   "note_time": 103.18
+  },
+  {
+   "text": "has",
+   "time": 103.6,
+   "weight": 0.99,
+   "note_time": 103.41
+  },
+  {
+   "text": "be",
+   "time": 103.88,
+   "weight": 1.0,
+   "note_time": 103.64
+  },
+  {
+   "text": "come",
+   "time": 104.07,
+   "weight": 1.0,
+   "note_time": 104.32
+  },
+  {
+   "text": "my",
+   "time": 104.26,
+   "weight": 0.99,
+   "note_time": 104.55
+  },
+  {
+   "text": "sal",
+   "time": 104.98,
+   "weight": 0.97,
+   "note_time": 105.0
+  },
+  {
+   "text": "va",
+   "time": 105.28,
+   "weight": 0.97,
+   "note_time": 105.45
+  },
+  {
+   "text": "tion",
+   "time": 105.58,
+   "weight": 0.97,
+   "note_time": 105.68
+  },
+  {
+   "text": "He",
+   "time": 105.88,
+   "weight": 0.89,
+   "note_time": 107.27
+  },
+  {
+   "text": "is",
+   "time": 107.1,
+   "weight": 0.87,
+   "note_time": 107.95
+  },
+  {
+   "text": "my",
+   "time": 108.04,
+   "weight": 1.0,
+   "note_time": 108.18
+  },
+  {
+   "text": "God",
+   "time": 108.58,
+   "weight": 0.99,
+   "note_time": 108.64
+  },
+  {
+   "text": "and",
+   "time": 108.98,
+   "weight": 0.9,
+   "note_time": 109.09
+  },
+  {
+   "text": "I",
+   "time": 109.38,
+   "weight": 1.0,
+   "note_time": 109.55
+  },
+  {
+   "text": "will",
+   "time": 109.78,
+   "weight": 1.0,
+   "note_time": 109.77
+  },
+  {
+   "text": "praise",
+   "time": 110.26,
+   "weight": 1.0,
+   "note_time": 110.0
+  },
+  {
+   "text": "him",
+   "time": 110.74,
+   "weight": 0.93,
+   "note_time": 110.23
+  },
+  {
+   "text": "My",
+   "time": 110.92,
+   "weight": 0.15,
+   "note_time": 110.68
+  },
+  {
+   "text": "fa",
+   "time": 111.16,
+   "weight": 0.71,
+   "note_time": 110.91
+  },
+  {
+   "text": "ther's",
+   "time": 111.51,
+   "weight": 0.71,
+   "note_time": 111.59
+  },
+  {
+   "text": "God,",
+   "time": 112.34,
+   "weight": 0.98,
+   "note_time": 111.82
+  },
+  {
+   "text": "I",
+   "time": 112.74,
+   "weight": 1.0,
+   "note_time": 112.27
+  },
+  {
+   "text": "will",
+   "time": 113.02,
+   "weight": 1.0,
+   "note_time": 112.73
+  },
+  {
+   "text": "ex",
+   "time": 113.46,
+   "weight": 0.99,
+   "note_time": 113.41
+  },
+  {
+   "text": "alt",
+   "time": 113.81,
+   "weight": 0.99,
+   "note_time": 113.64
+  },
+  {
+   "text": "him",
+   "time": 114.52,
+   "weight": 0.9,
+   "note_time": 114.09
+  },
+  {
+   "text": "Sing",
+   "time": 117.96,
+   "weight": 0.5,
+   "note_time": 118.18
+  },
+  {
+   "text": "to",
+   "time": 118.72,
+   "weight": 1.0,
+   "note_time": 118.64
+  },
+  {
+   "text": "the",
+   "time": 119.22,
+   "weight": 1.0,
+   "note_time": 119.09
+  },
+  {
+   "text": "Lord,",
+   "time": 119.48,
+   "weight": 0.99,
+   "note_time": 119.55
+  },
+  {
+   "text": "for",
+   "time": 120.02,
+   "weight": 0.99,
+   "note_time": 120.0
+  },
+  {
+   "text": "he",
+   "time": 120.2,
+   "weight": 0.92,
+   "note_time": 120.68
+  },
+  {
+   "text": "is",
+   "time": 120.64,
+   "weight": 0.99,
+   "note_time": 120.91
+  },
+  {
+   "text": "high",
+   "time": 121.38,
+   "weight": 0.92,
+   "note_time": 121.14
+  },
+  {
+   "text": "ly",
+   "time": 121.57,
+   "weight": 0.92,
+   "note_time": 121.36
+  },
+  {
+   "text": "ex",
+   "time": 121.76,
+   "weight": 1.0,
+   "note_time": 121.59
+  },
+  {
+   "text": "alt",
+   "time": 122.11,
+   "weight": 1.0,
+   "note_time": 121.82
+  },
+  {
+   "text": "ed",
+   "time": 122.46,
+   "weight": 1.0,
+   "note_time": 122.27
+  },
+  {
+   "text": "Horse",
+   "time": 125.52,
+   "weight": 0.87,
+   "note_time": 125.45
+  },
+  {
+   "text": "and",
+   "time": 126.28,
+   "weight": 1.0,
+   "note_time": 126.36
+  },
+  {
+   "text": "rid",
+   "time": 126.62,
+   "weight": 0.99,
+   "note_time": 126.59
+  },
+  {
+   "text": "er",
+   "time": 126.93,
+   "weight": 0.99,
+   "note_time": 126.82
+  },
+  {
+   "text": "he",
+   "time": 127.48,
+   "weight": 0.97,
+   "note_time": 127.27
+  },
+  {
+   "text": "has",
+   "time": 127.86,
+   "weight": 0.91,
+   "note_time": 127.95
+  },
+  {
+   "text": "hurled",
+   "time": 128.6,
+   "weight": 0.88,
+   "note_time": 128.18
+  },
+  {
+   "text": "in",
+   "time": 128.86,
+   "weight": 0.0,
+   "note_time": 128.41
+  },
+  {
+   "text": "to",
+   "time": 129.12,
+   "weight": 0.0,
+   "note_time": 128.64
+  },
+  {
+   "text": "the",
+   "time": 129.38,
+   "weight": 0.99,
+   "note_time": 128.86
+  },
+  {
+   "text": "sea",
+   "time": 129.48,
+   "weight": 0.98,
+   "note_time": 129.09
+  },
+  {
+   "text": "Sing",
+   "time": 132.74,
+   "weight": 0.98,
+   "note_time": 132.73
+  },
+  {
+   "text": "to",
+   "time": 133.5,
+   "weight": 1.0,
+   "note_time": 133.41
+  },
+  {
+   "text": "the",
+   "time": 133.8,
+   "weight": 1.0,
+   "note_time": 133.64
+  },
+  {
+   "text": "Lord,",
+   "time": 134.08,
+   "weight": 1.0,
+   "note_time": 134.09
+  },
+  {
+   "text": "for",
+   "time": 134.54,
+   "weight": 1.0,
+   "note_time": 134.55
+  },
+  {
+   "text": "he",
+   "time": 134.82,
+   "weight": 1.0,
+   "note_time": 135.23
+  },
+  {
+   "text": "is",
+   "time": 135.26,
+   "weight": 1.0,
+   "note_time": 135.45
+  },
+  {
+   "text": "high",
+   "time": 135.98,
+   "weight": 1.0,
+   "note_time": 135.68
+  },
+  {
+   "text": "ly",
+   "time": 136.15,
+   "weight": 1.0,
+   "note_time": 135.91
+  },
+  {
+   "text": "ex",
+   "time": 136.32,
+   "weight": 1.0,
+   "note_time": 136.14
+  },
+  {
+   "text": "alt",
+   "time": 136.67,
+   "weight": 1.0,
+   "note_time": 136.36
+  },
+  {
+   "text": "ed",
+   "time": 137.02,
+   "weight": 1.0,
+   "note_time": 136.82
+  },
+  {
+   "text": "Horse",
+   "time": 140.1,
+   "weight": 0.71,
+   "note_time": 140.0
+  },
+  {
+   "text": "and",
+   "time": 140.82,
+   "weight": 0.98,
+   "note_time": 140.91
+  },
+  {
+   "text": "rid",
+   "time": 141.16,
+   "weight": 0.98,
+   "note_time": 141.14
+  },
+  {
+   "text": "er",
+   "time": 141.44,
+   "weight": 0.98,
+   "note_time": 141.36
+  },
+  {
+   "text": "he",
+   "time": 142.02,
+   "weight": 0.93,
+   "note_time": 141.82
+  },
+  {
+   "text": "has",
+   "time": 142.44,
+   "weight": 0.98,
+   "note_time": 142.5
+  },
+  {
+   "text": "hurled",
+   "time": 143.16,
+   "weight": 0.85,
+   "note_time": 142.73
+  },
+  {
+   "text": "in",
+   "time": 143.35,
+   "weight": 0.0,
+   "note_time": 142.95
+  },
+  {
+   "text": "to",
+   "time": 143.55,
+   "weight": 0.0,
+   "note_time": 143.18
+  },
+  {
+   "text": "the",
+   "time": 143.74,
+   "weight": 1.0,
+   "note_time": 143.41
+  },
+  {
+   "text": "sea",
+   "time": 144.02,
+   "weight": 0.98,
+   "note_time": 143.64
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "15 of 16 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

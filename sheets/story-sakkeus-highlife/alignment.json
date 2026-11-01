@@ -1,0 +1,1202 @@
+{
+ "id": "story-sakkeus-highlife",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-sakkeus-highlife",
+ "offset_seconds": -1.4600000000002247,
+ "words_heard": 136,
+ "words": 137,
+ "lines": [
+  {
+   "text": "Jesus came to Jericho",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A crowd was all around",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zacchaeus was a little man",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He could not see from the ground",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He ran ahead and climbed a tree",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A sycamore so high",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Jesus stopped and looked up there",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And called him from the sky",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zacchaeus, come down, come down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Today I'm staying at your house",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zacchaeus, come down, come down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Salvation has come to your house",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He hurried down with joy that day",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The people grumbled loud",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Look, Lord, I give half to the poor",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And four times what I owe",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Son of Man has come to seek",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And save the ones who're lost",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zacchaeus, son of Abraham",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is found at any cost",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zacchaeus, come down, come down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Today I'm staying at your house",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zacchaeus, come down, come down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Salvation has come to your house",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Je",
+   "time": 17.48,
+   "weight": 0.29,
+   "note_time": 17.93
+  },
+  {
+   "text": "sus",
+   "time": 17.83,
+   "weight": 0.29,
+   "note_time": 18.29
+  },
+  {
+   "text": "came",
+   "time": 18.68,
+   "weight": 0.9,
+   "note_time": 18.54
+  },
+  {
+   "text": "to",
+   "time": 19.26,
+   "weight": 1.0,
+   "note_time": 19.15
+  },
+  {
+   "text": "Je",
+   "time": 19.86,
+   "weight": 0.99,
+   "note_time": 19.27
+  },
+  {
+   "text": "ric",
+   "time": 20.13,
+   "weight": 0.99,
+   "note_time": 19.39
+  },
+  {
+   "text": "ho",
+   "time": 20.41,
+   "weight": 0.99,
+   "note_time": 19.63
+  },
+  {
+   "text": "A",
+   "time": 20.68,
+   "weight": 0.15,
+   "note_time": 21.83
+  },
+  {
+   "text": "crowd",
+   "time": 21.18,
+   "weight": 0.4,
+   "note_time": 21.95
+  },
+  {
+   "text": "was",
+   "time": 22.78,
+   "weight": 1.0,
+   "note_time": 22.2
+  },
+  {
+   "text": "all",
+   "time": 23.06,
+   "weight": 1.0,
+   "note_time": 22.44
+  },
+  {
+   "text": "a",
+   "time": 23.32,
+   "weight": 1.0,
+   "note_time": 22.8
+  },
+  {
+   "text": "round",
+   "time": 23.64,
+   "weight": 1.0,
+   "note_time": 23.17
+  },
+  {
+   "text": "Zac",
+   "time": 26.36,
+   "weight": 0.68,
+   "note_time": 25.73
+  },
+  {
+   "text": "chaeus",
+   "time": 26.71,
+   "weight": 0.68,
+   "note_time": 26.22
+  },
+  {
+   "text": "was",
+   "time": 27.08,
+   "weight": 0.97,
+   "note_time": 26.71
+  },
+  {
+   "text": "a",
+   "time": 27.42,
+   "weight": 0.99,
+   "note_time": 26.95
+  },
+  {
+   "text": "lit",
+   "time": 27.7,
+   "weight": 0.99,
+   "note_time": 27.2
+  },
+  {
+   "text": "tle",
+   "time": 27.87,
+   "weight": 0.99,
+   "note_time": 27.44
+  },
+  {
+   "text": "man",
+   "time": 28.04,
+   "weight": 0.99,
+   "note_time": 27.68
+  },
+  {
+   "text": "He",
+   "time": 28.48,
+   "weight": 0.16,
+   "note_time": 29.39
+  },
+  {
+   "text": "could",
+   "time": 30.06,
+   "weight": 0.99,
+   "note_time": 29.63
+  },
+  {
+   "text": "not",
+   "time": 30.36,
+   "weight": 1.0,
+   "note_time": 29.88
+  },
+  {
+   "text": "see",
+   "time": 30.64,
+   "weight": 1.0,
+   "note_time": 30.24
+  },
+  {
+   "text": "from",
+   "time": 30.94,
+   "weight": 1.0,
+   "note_time": 30.61
+  },
+  {
+   "text": "the",
+   "time": 31.34,
+   "weight": 1.0,
+   "note_time": 30.85
+  },
+  {
+   "text": "ground",
+   "time": 31.58,
+   "weight": 0.99,
+   "note_time": 31.1
+  },
+  {
+   "text": "He",
+   "time": 33.42,
+   "weight": 0.94,
+   "note_time": 33.54
+  },
+  {
+   "text": "ran",
+   "time": 34.14,
+   "weight": 0.98,
+   "note_time": 33.66
+  },
+  {
+   "text": "a",
+   "time": 34.44,
+   "weight": 0.99,
+   "note_time": 33.9
+  },
+  {
+   "text": "head",
+   "time": 34.6,
+   "weight": 0.99,
+   "note_time": 34.02
+  },
+  {
+   "text": "and",
+   "time": 34.76,
+   "weight": 0.98,
+   "note_time": 34.63
+  },
+  {
+   "text": "climbed",
+   "time": 35.4,
+   "weight": 1.0,
+   "note_time": 34.88
+  },
+  {
+   "text": "a",
+   "time": 35.7,
+   "weight": 0.95,
+   "note_time": 35.24
+  },
+  {
+   "text": "tree",
+   "time": 36.0,
+   "weight": 1.0,
+   "note_time": 35.49
+  },
+  {
+   "text": "A",
+   "time": 36.36,
+   "weight": 0.27,
+   "note_time": 37.44
+  },
+  {
+   "text": "sy",
+   "time": 38.14,
+   "weight": 0.99,
+   "note_time": 37.56
+  },
+  {
+   "text": "ca",
+   "time": 38.39,
+   "weight": 0.99,
+   "note_time": 37.8
+  },
+  {
+   "text": "more",
+   "time": 38.65,
+   "weight": 0.99,
+   "note_time": 38.05
+  },
+  {
+   "text": "so",
+   "time": 38.9,
+   "weight": 0.99,
+   "note_time": 38.41
+  },
+  {
+   "text": "high",
+   "time": 39.1,
+   "weight": 1.0,
+   "note_time": 38.78
+  },
+  {
+   "text": "And",
+   "time": 41.3,
+   "weight": 0.93,
+   "note_time": 41.34
+  },
+  {
+   "text": "Je",
+   "time": 42.02,
+   "weight": 0.99,
+   "note_time": 41.46
+  },
+  {
+   "text": "sus",
+   "time": 42.18,
+   "weight": 0.99,
+   "note_time": 41.71
+  },
+  {
+   "text": "stopped",
+   "time": 42.34,
+   "weight": 0.99,
+   "note_time": 41.95
+  },
+  {
+   "text": "and",
+   "time": 42.8,
+   "weight": 0.99,
+   "note_time": 42.44
+  },
+  {
+   "text": "looked",
+   "time": 43.2,
+   "weight": 1.0,
+   "note_time": 42.68
+  },
+  {
+   "text": "up",
+   "time": 43.54,
+   "weight": 1.0,
+   "note_time": 43.05
+  },
+  {
+   "text": "there",
+   "time": 43.88,
+   "weight": 1.0,
+   "note_time": 43.41
+  },
+  {
+   "text": "And",
+   "time": 44.3,
+   "weight": 0.92,
+   "note_time": 45.24
+  },
+  {
+   "text": "called",
+   "time": 45.3,
+   "weight": 0.99,
+   "note_time": 45.37
+  },
+  {
+   "text": "him",
+   "time": 46.24,
+   "weight": 0.91,
+   "note_time": 45.61
+  },
+  {
+   "text": "from",
+   "time": 46.4,
+   "weight": 1.0,
+   "note_time": 45.85
+  },
+  {
+   "text": "the",
+   "time": 46.62,
+   "weight": 1.0,
+   "note_time": 46.34
+  },
+  {
+   "text": "sky",
+   "time": 47.06,
+   "weight": 0.99,
+   "note_time": 46.59
+  },
+  {
+   "text": "Zac",
+   "time": 48.92,
+   "weight": 0.47,
+   "note_time": 48.29
+  },
+  {
+   "text": "chaeus,",
+   "time": 49.27,
+   "weight": 0.47,
+   "note_time": 48.78
+  },
+  {
+   "text": "come",
+   "time": 50.24,
+   "weight": 0.76,
+   "note_time": 49.27
+  },
+  {
+   "text": "down,",
+   "time": 51.02,
+   "weight": 1.0,
+   "note_time": 50.24
+  },
+  {
+   "text": "come",
+   "time": 51.8,
+   "weight": 0.99,
+   "note_time": 50.73
+  },
+  {
+   "text": "down",
+   "time": 52.88,
+   "weight": 1.0,
+   "note_time": 52.68
+  },
+  {
+   "text": "To",
+   "time": 53.62,
+   "weight": 0.61,
+   "note_time": 53.54
+  },
+  {
+   "text": "day",
+   "time": 53.96,
+   "weight": 0.61,
+   "note_time": 53.66
+  },
+  {
+   "text": "I'm",
+   "time": 54.3,
+   "weight": 0.97,
+   "note_time": 53.78
+  },
+  {
+   "text": "sta",
+   "time": 54.58,
+   "weight": 0.92,
+   "note_time": 54.02
+  },
+  {
+   "text": "ying",
+   "time": 54.7,
+   "weight": 0.92,
+   "note_time": 54.27
+  },
+  {
+   "text": "at",
+   "time": 54.82,
+   "weight": 1.0,
+   "note_time": 54.51
+  },
+  {
+   "text": "your",
+   "time": 55.3,
+   "weight": 0.97,
+   "note_time": 54.76
+  },
+  {
+   "text": "house",
+   "time": 55.52,
+   "weight": 1.0,
+   "note_time": 55.0
+  },
+  {
+   "text": "Zac",
+   "time": 56.04,
+   "weight": 0.39,
+   "note_time": 56.1
+  },
+  {
+   "text": "chaeus,",
+   "time": 56.39,
+   "weight": 0.39,
+   "note_time": 56.59
+  },
+  {
+   "text": "come",
+   "time": 58.02,
+   "weight": 0.99,
+   "note_time": 57.07
+  },
+  {
+   "text": "down,",
+   "time": 58.8,
+   "weight": 1.0,
+   "note_time": 58.05
+  },
+  {
+   "text": "come",
+   "time": 59.62,
+   "weight": 1.0,
+   "note_time": 58.54
+  },
+  {
+   "text": "down",
+   "time": 60.7,
+   "weight": 1.0,
+   "note_time": 60.49
+  },
+  {
+   "text": "Sal",
+   "time": 61.32,
+   "weight": 0.99,
+   "note_time": 61.22
+  },
+  {
+   "text": "va",
+   "time": 61.65,
+   "weight": 0.99,
+   "note_time": 61.46
+  },
+  {
+   "text": "tion",
+   "time": 61.99,
+   "weight": 0.99,
+   "note_time": 61.71
+  },
+  {
+   "text": "has",
+   "time": 62.32,
+   "weight": 1.0,
+   "note_time": 61.95
+  },
+  {
+   "text": "come",
+   "time": 62.74,
+   "weight": 1.0,
+   "note_time": 62.32
+  },
+  {
+   "text": "to",
+   "time": 63.02,
+   "weight": 1.0,
+   "note_time": 62.56
+  },
+  {
+   "text": "your",
+   "time": 63.3,
+   "weight": 1.0,
+   "note_time": 62.8
+  },
+  {
+   "text": "house",
+   "time": 63.56,
+   "weight": 1.0,
+   "note_time": 63.05
+  },
+  {
+   "text": "He",
+   "time": 72.5,
+   "weight": 0.3,
+   "note_time": 72.56
+  },
+  {
+   "text": "hur",
+   "time": 73.24,
+   "weight": 0.99,
+   "note_time": 72.68
+  },
+  {
+   "text": "ried",
+   "time": 73.45,
+   "weight": 0.99,
+   "note_time": 72.93
+  },
+  {
+   "text": "down",
+   "time": 73.66,
+   "weight": 0.99,
+   "note_time": 73.05
+  },
+  {
+   "text": "with",
+   "time": 74.02,
+   "weight": 0.98,
+   "note_time": 73.66
+  },
+  {
+   "text": "joy",
+   "time": 74.42,
+   "weight": 1.0,
+   "note_time": 73.9
+  },
+  {
+   "text": "that",
+   "time": 74.64,
+   "weight": 0.99,
+   "note_time": 74.27
+  },
+  {
+   "text": "day",
+   "time": 75.02,
+   "weight": 1.0,
+   "note_time": 74.63
+  },
+  {
+   "text": "The",
+   "time": 75.5,
+   "weight": 0.54,
+   "note_time": 76.46
+  },
+  {
+   "text": "peo",
+   "time": 76.78,
+   "weight": 1.0,
+   "note_time": 76.59
+  },
+  {
+   "text": "ple",
+   "time": 77.13,
+   "weight": 1.0,
+   "note_time": 76.83
+  },
+  {
+   "text": "grum",
+   "time": 77.48,
+   "weight": 0.98,
+   "note_time": 77.07
+  },
+  {
+   "text": "bled",
+   "time": 77.8,
+   "weight": 0.98,
+   "note_time": 77.44
+  },
+  {
+   "text": "loud",
+   "time": 78.12,
+   "weight": 0.93,
+   "note_time": 77.8
+  },
+  {
+   "text": "Look,",
+   "time": 80.22,
+   "weight": 0.66,
+   "note_time": 80.12
+  },
+  {
+   "text": "Lord,",
+   "time": 80.96,
+   "weight": 0.98,
+   "note_time": 80.37
+  },
+  {
+   "text": "I",
+   "time": 81.26,
+   "weight": 1.0,
+   "note_time": 80.61
+  },
+  {
+   "text": "give",
+   "time": 81.42,
+   "weight": 0.97,
+   "note_time": 80.85
+  },
+  {
+   "text": "half",
+   "time": 81.68,
+   "weight": 1.0,
+   "note_time": 81.34
+  },
+  {
+   "text": "to",
+   "time": 82.18,
+   "weight": 1.0,
+   "note_time": 81.71
+  },
+  {
+   "text": "the",
+   "time": 82.42,
+   "weight": 1.0,
+   "note_time": 82.07
+  },
+  {
+   "text": "poor",
+   "time": 82.76,
+   "weight": 1.0,
+   "note_time": 82.44
+  },
+  {
+   "text": "And",
+   "time": 84.26,
+   "weight": 0.88,
+   "note_time": 84.27
+  },
+  {
+   "text": "four",
+   "time": 85.0,
+   "weight": 0.99,
+   "note_time": 84.63
+  },
+  {
+   "text": "times",
+   "time": 85.1,
+   "weight": 1.0,
+   "note_time": 85.12
+  },
+  {
+   "text": "what",
+   "time": 85.52,
+   "weight": 1.0,
+   "note_time": 85.37
+  },
+  {
+   "text": "I",
+   "time": 85.88,
+   "weight": 1.0,
+   "note_time": 85.61
+  },
+  {
+   "text": "owe",
+   "time": 86.2,
+   "weight": 0.93,
+   "note_time": 85.73
+  },
+  {
+   "text": "The",
+   "time": 88.16,
+   "weight": 0.99,
+   "note_time": 88.17
+  },
+  {
+   "text": "Son",
+   "time": 88.9,
+   "weight": 0.96,
+   "note_time": 88.29
+  },
+  {
+   "text": "of",
+   "time": 89.06,
+   "weight": 1.0,
+   "note_time": 88.54
+  },
+  {
+   "text": "Man",
+   "time": 89.26,
+   "weight": 0.97,
+   "note_time": 88.66
+  },
+  {
+   "text": "has",
+   "time": 89.5,
+   "weight": 1.0,
+   "note_time": 89.27
+  },
+  {
+   "text": "come",
+   "time": 90.04,
+   "weight": 1.0,
+   "note_time": 89.51
+  },
+  {
+   "text": "to",
+   "time": 90.28,
+   "weight": 1.0,
+   "note_time": 89.88
+  },
+  {
+   "text": "seek",
+   "time": 90.58,
+   "weight": 0.94,
+   "note_time": 90.24
+  },
+  {
+   "text": "And",
+   "time": 91.0,
+   "weight": 0.17,
+   "note_time": 92.07
+  },
+  {
+   "text": "save",
+   "time": 92.6,
+   "weight": 0.43,
+   "note_time": 92.2
+  },
+  {
+   "text": "the",
+   "time": 93.04,
+   "weight": 0.99,
+   "note_time": 92.44
+  },
+  {
+   "text": "ones",
+   "time": 93.18,
+   "weight": 0.98,
+   "note_time": 92.68
+  },
+  {
+   "text": "who're",
+   "time": 93.54,
+   "weight": 0.99,
+   "note_time": 93.05
+  },
+  {
+   "text": "lost",
+   "time": 93.78,
+   "weight": 0.98,
+   "note_time": 93.41
+  },
+  {
+   "text": "Zac",
+   "time": 96.34,
+   "weight": 0.91,
+   "note_time": 95.98
+  },
+  {
+   "text": "chaeus,",
+   "time": 96.69,
+   "weight": 0.91,
+   "note_time": 96.34
+  },
+  {
+   "text": "son",
+   "time": 97.3,
+   "weight": 0.9,
+   "note_time": 96.83
+  },
+  {
+   "text": "of",
+   "time": 97.64,
+   "weight": 1.0,
+   "note_time": 97.07
+  },
+  {
+   "text": "Ab",
+   "time": 97.88,
+   "weight": 0.99,
+   "note_time": 97.32
+  },
+  {
+   "text": "ra",
+   "time": 98.05,
+   "weight": 0.99,
+   "note_time": 97.68
+  },
+  {
+   "text": "ham",
+   "time": 98.21,
+   "weight": 0.99,
+   "note_time": 98.05
+  },
+  {
+   "text": "Is",
+   "time": 99.34,
+   "weight": 0.0,
+   "note_time": 99.88
+  },
+  {
+   "text": "found",
+   "time": 100.46,
+   "weight": 1.0,
+   "note_time": 100.24
+  },
+  {
+   "text": "at",
+   "time": 100.84,
+   "weight": 1.0,
+   "note_time": 100.49
+  },
+  {
+   "text": "a",
+   "time": 101.02,
+   "weight": 0.99,
+   "note_time": 100.98
+  },
+  {
+   "text": "ny",
+   "time": 101.29,
+   "weight": 0.99,
+   "note_time": 101.22
+  },
+  {
+   "text": "cost",
+   "time": 101.56,
+   "weight": 1.0,
+   "note_time": 101.34
+  },
+  {
+   "text": "Zac",
+   "time": 103.86,
+   "weight": 0.99,
+   "note_time": 102.93
+  },
+  {
+   "text": "chaeus,",
+   "time": 104.21,
+   "weight": 0.99,
+   "note_time": 103.41
+  },
+  {
+   "text": "come",
+   "time": 104.82,
+   "weight": 0.95,
+   "note_time": 103.9
+  },
+  {
+   "text": "down,",
+   "time": 105.64,
+   "weight": 1.0,
+   "note_time": 104.88
+  },
+  {
+   "text": "come",
+   "time": 106.44,
+   "weight": 0.99,
+   "note_time": 105.37
+  },
+  {
+   "text": "down",
+   "time": 107.5,
+   "weight": 1.0,
+   "note_time": 107.32
+  },
+  {
+   "text": "To",
+   "time": 108.12,
+   "weight": 0.98,
+   "note_time": 108.17
+  },
+  {
+   "text": "day",
+   "time": 108.47,
+   "weight": 0.98,
+   "note_time": 108.29
+  },
+  {
+   "text": "I'm",
+   "time": 108.94,
+   "weight": 0.98,
+   "note_time": 108.41
+  },
+  {
+   "text": "sta",
+   "time": 109.22,
+   "weight": 0.97,
+   "note_time": 108.66
+  },
+  {
+   "text": "ying",
+   "time": 109.33,
+   "weight": 0.97,
+   "note_time": 108.9
+  },
+  {
+   "text": "at",
+   "time": 109.44,
+   "weight": 1.0,
+   "note_time": 109.15
+  },
+  {
+   "text": "your",
+   "time": 109.92,
+   "weight": 0.98,
+   "note_time": 109.39
+  },
+  {
+   "text": "house",
+   "time": 110.14,
+   "weight": 1.0,
+   "note_time": 109.63
+  },
+  {
+   "text": "Zac",
+   "time": 111.66,
+   "weight": 1.0,
+   "note_time": 110.73
+  },
+  {
+   "text": "chaeus,",
+   "time": 112.01,
+   "weight": 1.0,
+   "note_time": 111.22
+  },
+  {
+   "text": "come",
+   "time": 112.64,
+   "weight": 1.0,
+   "note_time": 111.71
+  },
+  {
+   "text": "down,",
+   "time": 113.44,
+   "weight": 1.0,
+   "note_time": 112.68
+  },
+  {
+   "text": "come",
+   "time": 114.28,
+   "weight": 1.0,
+   "note_time": 113.17
+  },
+  {
+   "text": "down",
+   "time": 115.36,
+   "weight": 1.0,
+   "note_time": 115.12
+  },
+  {
+   "text": "Sal",
+   "time": 115.98,
+   "weight": 0.99,
+   "note_time": 115.85
+  },
+  {
+   "text": "va",
+   "time": 116.31,
+   "weight": 0.99,
+   "note_time": 116.1
+  },
+  {
+   "text": "tion",
+   "time": 116.63,
+   "weight": 0.99,
+   "note_time": 116.34
+  },
+  {
+   "text": "has",
+   "time": 116.96,
+   "weight": 1.0,
+   "note_time": 116.59
+  },
+  {
+   "text": "come",
+   "time": 117.42,
+   "weight": 1.0,
+   "note_time": 116.95
+  },
+  {
+   "text": "to",
+   "time": 117.66,
+   "weight": 1.0,
+   "note_time": 117.2
+  },
+  {
+   "text": "your",
+   "time": 117.94,
+   "weight": 1.0,
+   "note_time": 117.44
+  },
+  {
+   "text": "house",
+   "time": 118.2,
+   "weight": 1.0,
+   "note_time": 117.68
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 24 lyric lines sit on their notes."
+}

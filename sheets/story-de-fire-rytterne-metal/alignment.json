@@ -1,0 +1,1186 @@
+{
+ "id": "story-de-fire-rytterne-metal",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-de-fire-rytterne-metal",
+ "offset_seconds": -1.1000000000002323,
+ "words_heard": 138,
+ "words": 140,
+ "lines": [
+  {
+   "text": "The third seal, a black horse, its rider is Death",
+   "heard": 9,
+   "words": 10,
+   "error_s": 42.26,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And Hades follows close behind",
+   "heard": 5,
+   "words": 5,
+   "error_s": 33.96,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lamb has opened the first seal",
+   "heard": 7,
+   "words": 7,
+   "error_s": 11.58,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A voice like thunder cries out, come",
+   "heard": 7,
+   "words": 7,
+   "error_s": 8.48,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A white horse rides, its rider holds a bow",
+   "heard": 9,
+   "words": 9,
+   "error_s": 5.63,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "He goes out conquering, a crown upon his head",
+   "heard": 9,
+   "words": 9,
+   "error_s": 18.15,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The second seal, a fiery red horse",
+   "heard": 7,
+   "words": 7,
+   "error_s": 5.07,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Its rider takes the peace from the earth",
+   "heard": 7,
+   "words": 8,
+   "error_s": 4.56,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A great sword in his hand",
+   "heard": 6,
+   "words": 6,
+   "error_s": 3.54,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And people turn on one another",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.84,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Come, cries the thunder",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.76,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "The horsemen ride",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.53,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Who can stand before the Lamb",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the seals are opened wide",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The third seal, a black horse",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A pair of scales in its rider's hand",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The fourth, a pale horse, its rider is Death",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Hades follows close behind",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come, cries the thunder",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The horsemen ride",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who can stand before the Lamb",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the seals are opened wide",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 11.4,
+   "weight": 0.15,
+   "note_time": 55.0
+  },
+  {
+   "text": "third",
+   "time": 11.44,
+   "weight": 0.15,
+   "note_time": 55.2
+  },
+  {
+   "text": "seal,",
+   "time": 11.48,
+   "weight": 0.15,
+   "note_time": 55.6
+  },
+  {
+   "text": "a",
+   "time": 12.66,
+   "weight": 0.15,
+   "note_time": 55.8
+  },
+  {
+   "text": "black",
+   "time": 13.67,
+   "weight": 0.0,
+   "note_time": 56.0
+  },
+  {
+   "text": "horse,",
+   "time": 14.68,
+   "weight": 0.76,
+   "note_time": 56.2
+  },
+  {
+   "text": "its",
+   "time": 15.14,
+   "weight": 0.15,
+   "note_time": 56.6
+  },
+  {
+   "text": "rid",
+   "time": 15.14,
+   "weight": 0.99,
+   "note_time": 57.0
+  },
+  {
+   "text": "er",
+   "time": 15.14,
+   "weight": 0.99,
+   "note_time": 57.4
+  },
+  {
+   "text": "is",
+   "time": 15.14,
+   "weight": 0.93,
+   "note_time": 57.6
+  },
+  {
+   "text": "Death",
+   "time": 15.14,
+   "weight": 0.95,
+   "note_time": 61.4
+  },
+  {
+   "text": "And",
+   "time": 16.0,
+   "weight": 0.89,
+   "note_time": 61.6
+  },
+  {
+   "text": "Hades",
+   "time": 16.0,
+   "weight": 0.4,
+   "note_time": 62.0
+  },
+  {
+   "text": "fol",
+   "time": 29.24,
+   "weight": 0.89,
+   "note_time": 62.4
+  },
+  {
+   "text": "lows",
+   "time": 29.24,
+   "weight": 0.89,
+   "note_time": 62.8
+  },
+  {
+   "text": "close",
+   "time": 29.24,
+   "weight": 0.81,
+   "note_time": 63.0
+  },
+  {
+   "text": "be",
+   "time": 29.24,
+   "weight": 0.97,
+   "note_time": 63.4
+  },
+  {
+   "text": "hind",
+   "time": 29.24,
+   "weight": 0.97,
+   "note_time": 63.8
+  },
+  {
+   "text": "The",
+   "time": 55.16,
+   "weight": 0.34,
+   "note_time": 64.0
+  },
+  {
+   "text": "Lamb",
+   "time": 56.12,
+   "weight": 0.74,
+   "note_time": 67.8
+  },
+  {
+   "text": "has",
+   "time": 56.6,
+   "weight": 0.95,
+   "note_time": 68.0
+  },
+  {
+   "text": "ope",
+   "time": 56.84,
+   "weight": 1.0,
+   "note_time": 68.2
+  },
+  {
+   "text": "ned",
+   "time": 57.12,
+   "weight": 1.0,
+   "note_time": 68.6
+  },
+  {
+   "text": "the",
+   "time": 57.4,
+   "weight": 0.2,
+   "note_time": 68.8
+  },
+  {
+   "text": "first",
+   "time": 57.86,
+   "weight": 0.98,
+   "note_time": 70.0
+  },
+  {
+   "text": "seal",
+   "time": 58.3,
+   "weight": 0.94,
+   "note_time": 70.4
+  },
+  {
+   "text": "A",
+   "time": 61.64,
+   "weight": 0.36,
+   "note_time": 70.6
+  },
+  {
+   "text": "voice",
+   "time": 62.52,
+   "weight": 0.73,
+   "note_time": 71.0
+  },
+  {
+   "text": "like",
+   "time": 62.92,
+   "weight": 0.99,
+   "note_time": 71.4
+  },
+  {
+   "text": "thun",
+   "time": 63.26,
+   "weight": 0.99,
+   "note_time": 71.6
+  },
+  {
+   "text": "der",
+   "time": 63.55,
+   "weight": 0.99,
+   "note_time": 72.0
+  },
+  {
+   "text": "cries",
+   "time": 63.84,
+   "weight": 0.99,
+   "note_time": 74.2
+  },
+  {
+   "text": "out,",
+   "time": 64.28,
+   "weight": 0.89,
+   "note_time": 74.4
+  },
+  {
+   "text": "come",
+   "time": 64.82,
+   "weight": 0.49,
+   "note_time": 74.6
+  },
+  {
+   "text": "A",
+   "time": 68.04,
+   "weight": 0.5,
+   "note_time": 75.0
+  },
+  {
+   "text": "white",
+   "time": 68.92,
+   "weight": 0.93,
+   "note_time": 75.2
+  },
+  {
+   "text": "horse",
+   "time": 69.32,
+   "weight": 1.0,
+   "note_time": 75.4
+  },
+  {
+   "text": "rides,",
+   "time": 69.58,
+   "weight": 1.0,
+   "note_time": 75.6
+  },
+  {
+   "text": "its",
+   "time": 70.7,
+   "weight": 0.89,
+   "note_time": 76.6
+  },
+  {
+   "text": "rid",
+   "time": 71.34,
+   "weight": 1.0,
+   "note_time": 76.8
+  },
+  {
+   "text": "er",
+   "time": 71.57,
+   "weight": 1.0,
+   "note_time": 77.2
+  },
+  {
+   "text": "holds",
+   "time": 71.8,
+   "weight": 1.0,
+   "note_time": 77.4
+  },
+  {
+   "text": "a",
+   "time": 72.22,
+   "weight": 1.0,
+   "note_time": 77.8
+  },
+  {
+   "text": "bow",
+   "time": 72.66,
+   "weight": 1.0,
+   "note_time": 78.2
+  },
+  {
+   "text": "He",
+   "time": 74.48,
+   "weight": 0.99,
+   "note_time": 78.4
+  },
+  {
+   "text": "goes",
+   "time": 75.36,
+   "weight": 1.0,
+   "note_time": 93.4
+  },
+  {
+   "text": "out",
+   "time": 75.66,
+   "weight": 1.0,
+   "note_time": 93.6
+  },
+  {
+   "text": "con",
+   "time": 75.96,
+   "weight": 1.0,
+   "note_time": 93.8
+  },
+  {
+   "text": "quer",
+   "time": 76.31,
+   "weight": 1.0,
+   "note_time": 94.2
+  },
+  {
+   "text": "ing,",
+   "time": 76.65,
+   "weight": 1.0,
+   "note_time": 94.4
+  },
+  {
+   "text": "a",
+   "time": 77.02,
+   "weight": 1.0,
+   "note_time": 95.8
+  },
+  {
+   "text": "crown",
+   "time": 77.74,
+   "weight": 1.0,
+   "note_time": 96.0
+  },
+  {
+   "text": "up",
+   "time": 78.1,
+   "weight": 1.0,
+   "note_time": 96.6
+  },
+  {
+   "text": "on",
+   "time": 78.3,
+   "weight": 1.0,
+   "note_time": 97.0
+  },
+  {
+   "text": "his",
+   "time": 78.5,
+   "weight": 0.99,
+   "note_time": 97.4
+  },
+  {
+   "text": "head",
+   "time": 79.14,
+   "weight": 1.0,
+   "note_time": 97.6
+  },
+  {
+   "text": "The",
+   "time": 93.4,
+   "weight": 0.75,
+   "note_time": 99.8
+  },
+  {
+   "text": "sec",
+   "time": 94.6,
+   "weight": 0.87,
+   "note_time": 100.0
+  },
+  {
+   "text": "ond",
+   "time": 94.81,
+   "weight": 0.87,
+   "note_time": 100.2
+  },
+  {
+   "text": "seal,",
+   "time": 95.02,
+   "weight": 0.98,
+   "note_time": 100.6
+  },
+  {
+   "text": "a",
+   "time": 96.04,
+   "weight": 0.95,
+   "note_time": 100.8
+  },
+  {
+   "text": "fiery",
+   "time": 96.94,
+   "weight": 0.99,
+   "note_time": 101.0
+  },
+  {
+   "text": "red",
+   "time": 97.62,
+   "weight": 0.98,
+   "note_time": 101.4
+  },
+  {
+   "text": "horse",
+   "time": 98.26,
+   "weight": 1.0,
+   "note_time": 101.8
+  },
+  {
+   "text": "Its",
+   "time": 99.06,
+   "weight": 0.17,
+   "note_time": 102.0
+  },
+  {
+   "text": "rid",
+   "time": 101.04,
+   "weight": 0.98,
+   "note_time": 102.2
+  },
+  {
+   "text": "er",
+   "time": 101.22,
+   "weight": 0.98,
+   "note_time": 102.4
+  },
+  {
+   "text": "takes",
+   "time": 101.4,
+   "weight": 0.99,
+   "note_time": 106.2
+  },
+  {
+   "text": "the",
+   "time": 101.84,
+   "weight": 1.0,
+   "note_time": 106.4
+  },
+  {
+   "text": "peace",
+   "time": 102.28,
+   "weight": 0.0,
+   "note_time": 107.0
+  },
+  {
+   "text": "from",
+   "time": 102.72,
+   "weight": 1.0,
+   "note_time": 107.2
+  },
+  {
+   "text": "the",
+   "time": 103.04,
+   "weight": 0.99,
+   "note_time": 107.8
+  },
+  {
+   "text": "earth",
+   "time": 103.2,
+   "weight": 0.91,
+   "note_time": 108.2
+  },
+  {
+   "text": "A",
+   "time": 106.2,
+   "weight": 0.94,
+   "note_time": 108.6
+  },
+  {
+   "text": "great",
+   "time": 107.4,
+   "weight": 0.99,
+   "note_time": 108.8
+  },
+  {
+   "text": "sword",
+   "time": 107.74,
+   "weight": 0.98,
+   "note_time": 111.6
+  },
+  {
+   "text": "in",
+   "time": 108.3,
+   "weight": 0.99,
+   "note_time": 112.0
+  },
+  {
+   "text": "his",
+   "time": 109.14,
+   "weight": 0.95,
+   "note_time": 112.6
+  },
+  {
+   "text": "hand",
+   "time": 109.58,
+   "weight": 0.96,
+   "note_time": 113.2
+  },
+  {
+   "text": "And",
+   "time": 111.76,
+   "weight": 0.86,
+   "note_time": 113.6
+  },
+  {
+   "text": "peo",
+   "time": 112.96,
+   "weight": 1.0,
+   "note_time": 113.8
+  },
+  {
+   "text": "ple",
+   "time": 113.16,
+   "weight": 1.0,
+   "note_time": 115.2
+  },
+  {
+   "text": "turn",
+   "time": 113.36,
+   "weight": 0.99,
+   "note_time": 115.8
+  },
+  {
+   "text": "on",
+   "time": 114.42,
+   "weight": 0.99,
+   "note_time": 116.4
+  },
+  {
+   "text": "one",
+   "time": 115.42,
+   "weight": 0.94,
+   "note_time": 116.8
+  },
+  {
+   "text": "an",
+   "time": 116.46,
+   "weight": 1.0,
+   "note_time": 117.0
+  },
+  {
+   "text": "oth",
+   "time": 116.81,
+   "weight": 1.0,
+   "note_time": 118.4
+  },
+  {
+   "text": "er",
+   "time": 117.16,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "Come,",
+   "time": 117.8,
+   "weight": 0.23,
+   "note_time": 120.8
+  },
+  {
+   "text": "cries",
+   "time": 119.86,
+   "weight": 0.71,
+   "note_time": 121.2
+  },
+  {
+   "text": "the",
+   "time": 121.24,
+   "weight": 0.93,
+   "note_time": 121.6
+  },
+  {
+   "text": "thun",
+   "time": 122.08,
+   "weight": 0.93,
+   "note_time": 122.0
+  },
+  {
+   "text": "der",
+   "time": 122.43,
+   "weight": 0.93,
+   "note_time": 123.6
+  },
+  {
+   "text": "The",
+   "time": 123.52,
+   "weight": 0.94,
+   "note_time": 123.8
+  },
+  {
+   "text": "horse",
+   "time": 124.76,
+   "weight": 0.97,
+   "note_time": 124.2
+  },
+  {
+   "text": "men",
+   "time": 125.09,
+   "weight": 0.97,
+   "note_time": 124.6
+  },
+  {
+   "text": "ride",
+   "time": 125.42,
+   "weight": 0.99,
+   "note_time": 124.8
+  },
+  {
+   "text": "Who",
+   "time": 130.38,
+   "weight": 0.81,
+   "note_time": 130.4
+  },
+  {
+   "text": "can",
+   "time": 131.54,
+   "weight": 1.0,
+   "note_time": 131.2
+  },
+  {
+   "text": "stand",
+   "time": 131.86,
+   "weight": 0.99,
+   "note_time": 132.0
+  },
+  {
+   "text": "be",
+   "time": 132.44,
+   "weight": 1.0,
+   "note_time": 132.4
+  },
+  {
+   "text": "fore",
+   "time": 132.79,
+   "weight": 1.0,
+   "note_time": 133.2
+  },
+  {
+   "text": "the",
+   "time": 133.5,
+   "weight": 0.99,
+   "note_time": 133.6
+  },
+  {
+   "text": "Lamb",
+   "time": 134.86,
+   "weight": 0.8,
+   "note_time": 134.0
+  },
+  {
+   "text": "When",
+   "time": 135.44,
+   "weight": 0.61,
+   "note_time": 135.6
+  },
+  {
+   "text": "the",
+   "time": 136.8,
+   "weight": 0.99,
+   "note_time": 135.8
+  },
+  {
+   "text": "seals",
+   "time": 137.0,
+   "weight": 0.97,
+   "note_time": 136.0
+  },
+  {
+   "text": "are",
+   "time": 137.36,
+   "weight": 1.0,
+   "note_time": 136.4
+  },
+  {
+   "text": "ope",
+   "time": 137.66,
+   "weight": 0.91,
+   "note_time": 136.6
+  },
+  {
+   "text": "ned",
+   "time": 137.92,
+   "weight": 0.91,
+   "note_time": 137.0
+  },
+  {
+   "text": "wide",
+   "time": 138.18,
+   "weight": 1.0,
+   "note_time": 137.4
+  },
+  {
+   "text": "The",
+   "time": 157.66,
+   "weight": 0.66,
+   "note_time": 157.4
+  },
+  {
+   "text": "third",
+   "time": 158.58,
+   "weight": 0.85,
+   "note_time": 157.6
+  },
+  {
+   "text": "seal,",
+   "time": 159.04,
+   "weight": 0.99,
+   "note_time": 158.2
+  },
+  {
+   "text": "a",
+   "time": 159.92,
+   "weight": 0.39,
+   "note_time": 160.6
+  },
+  {
+   "text": "black",
+   "time": 161.74,
+   "weight": 0.99,
+   "note_time": 160.8
+  },
+  {
+   "text": "horse",
+   "time": 162.08,
+   "weight": 1.0,
+   "note_time": 161.4
+  },
+  {
+   "text": "A",
+   "time": 163.0,
+   "weight": 0.27,
+   "note_time": 163.8
+  },
+  {
+   "text": "pair",
+   "time": 164.56,
+   "weight": 1.0,
+   "note_time": 164.2
+  },
+  {
+   "text": "of",
+   "time": 165.28,
+   "weight": 1.0,
+   "note_time": 164.6
+  },
+  {
+   "text": "scales",
+   "time": 165.52,
+   "weight": 1.0,
+   "note_time": 165.2
+  },
+  {
+   "text": "in",
+   "time": 165.84,
+   "weight": 0.98,
+   "note_time": 165.4
+  },
+  {
+   "text": "its",
+   "time": 166.52,
+   "weight": 0.97,
+   "note_time": 165.6
+  },
+  {
+   "text": "rid",
+   "time": 166.68,
+   "weight": 0.99,
+   "note_time": 165.8
+  },
+  {
+   "text": "er's",
+   "time": 166.98,
+   "weight": 0.99,
+   "note_time": 166.2
+  },
+  {
+   "text": "hand",
+   "time": 167.28,
+   "weight": 0.99,
+   "note_time": 166.4
+  },
+  {
+   "text": "The",
+   "time": 170.48,
+   "weight": 0.98,
+   "note_time": 170.2
+  },
+  {
+   "text": "fourth,",
+   "time": 171.4,
+   "weight": 0.99,
+   "note_time": 170.4
+  },
+  {
+   "text": "a",
+   "time": 172.3,
+   "weight": 1.0,
+   "note_time": 172.0
+  },
+  {
+   "text": "pale",
+   "time": 172.94,
+   "weight": 1.0,
+   "note_time": 172.4
+  },
+  {
+   "text": "horse,",
+   "time": 173.3,
+   "weight": 1.0,
+   "note_time": 173.4
+  },
+  {
+   "text": "its",
+   "time": 173.84,
+   "weight": 0.35,
+   "note_time": 173.6
+  },
+  {
+   "text": "rid",
+   "time": 174.56,
+   "weight": 1.0,
+   "note_time": 173.8
+  },
+  {
+   "text": "er",
+   "time": 174.77,
+   "weight": 1.0,
+   "note_time": 174.0
+  },
+  {
+   "text": "is",
+   "time": 174.98,
+   "weight": 1.0,
+   "note_time": 174.2
+  },
+  {
+   "text": "Death",
+   "time": 175.24,
+   "weight": 0.88,
+   "note_time": 174.4
+  },
+  {
+   "text": "And",
+   "time": 175.58,
+   "weight": 0.22,
+   "note_time": 176.6
+  },
+  {
+   "text": "Hades",
+   "time": 177.5,
+   "weight": 0.97,
+   "note_time": 177.6
+  },
+  {
+   "text": "fol",
+   "time": 178.3,
+   "weight": 0.99,
+   "note_time": 177.8
+  },
+  {
+   "text": "lows",
+   "time": 178.51,
+   "weight": 0.99,
+   "note_time": 178.2
+  },
+  {
+   "text": "close",
+   "time": 178.72,
+   "weight": 0.92,
+   "note_time": 178.6
+  },
+  {
+   "text": "be",
+   "time": 179.4,
+   "weight": 1.0,
+   "note_time": 179.0
+  },
+  {
+   "text": "hind",
+   "time": 179.75,
+   "weight": 1.0,
+   "note_time": 179.2
+  },
+  {
+   "text": "Come,",
+   "time": 182.54,
+   "weight": 0.88,
+   "note_time": 182.4
+  },
+  {
+   "text": "cries",
+   "time": 183.94,
+   "weight": 0.9,
+   "note_time": 184.0
+  },
+  {
+   "text": "the",
+   "time": 185.22,
+   "weight": 0.99,
+   "note_time": 184.8
+  },
+  {
+   "text": "thun",
+   "time": 186.04,
+   "weight": 0.97,
+   "note_time": 185.2
+  },
+  {
+   "text": "der",
+   "time": 186.39,
+   "weight": 0.97,
+   "note_time": 186.0
+  },
+  {
+   "text": "The",
+   "time": 186.8,
+   "weight": 0.2,
+   "note_time": 187.6
+  },
+  {
+   "text": "horse",
+   "time": 188.84,
+   "weight": 0.98,
+   "note_time": 187.8
+  },
+  {
+   "text": "men",
+   "time": 189.13,
+   "weight": 0.98,
+   "note_time": 188.2
+  },
+  {
+   "text": "ride",
+   "time": 189.42,
+   "weight": 0.99,
+   "note_time": 188.6
+  },
+  {
+   "text": "Who",
+   "time": 194.26,
+   "weight": 0.98,
+   "note_time": 194.4
+  },
+  {
+   "text": "can",
+   "time": 195.62,
+   "weight": 1.0,
+   "note_time": 195.2
+  },
+  {
+   "text": "stand",
+   "time": 195.88,
+   "weight": 0.98,
+   "note_time": 196.0
+  },
+  {
+   "text": "be",
+   "time": 196.44,
+   "weight": 0.99,
+   "note_time": 196.4
+  },
+  {
+   "text": "fore",
+   "time": 196.79,
+   "weight": 0.99,
+   "note_time": 197.2
+  },
+  {
+   "text": "the",
+   "time": 197.46,
+   "weight": 0.99,
+   "note_time": 197.6
+  },
+  {
+   "text": "Lamb",
+   "time": 198.86,
+   "weight": 0.87,
+   "note_time": 198.0
+  },
+  {
+   "text": "When",
+   "time": 199.92,
+   "weight": 0.87,
+   "note_time": 199.6
+  },
+  {
+   "text": "the",
+   "time": 200.78,
+   "weight": 1.0,
+   "note_time": 199.8
+  },
+  {
+   "text": "seals",
+   "time": 200.98,
+   "weight": 0.99,
+   "note_time": 200.0
+  },
+  {
+   "text": "are",
+   "time": 201.38,
+   "weight": 1.0,
+   "note_time": 200.4
+  },
+  {
+   "text": "ope",
+   "time": 201.64,
+   "weight": 0.91,
+   "note_time": 200.6
+  },
+  {
+   "text": "ned",
+   "time": 201.88,
+   "weight": 0.91,
+   "note_time": 201.0
+  },
+  {
+   "text": "wide",
+   "time": 202.12,
+   "weight": 1.0,
+   "note_time": 201.4
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "12 of 22 lyric lines sit clearly on their notes; 10 are uncertain and printed in grey italics."
+}

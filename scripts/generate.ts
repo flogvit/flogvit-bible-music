@@ -344,8 +344,11 @@ async function generate(id: string, tip: string, failState: State = 'failed'): P
   // YuE runs in the background by default; MUSIC_NICE=<n> gives it normal priority at that niceness instead,
   // for a machine where generation should come before other work.
   const yuePriority = process.env.MUSIC_NICE ? ['nice', '-n', process.env.MUSIC_NICE] : ['taskpolicy', '-b'];
+  // Compiled one-token decode makes the song tokens several times faster on Apple GPUs (README, Compiled
+  // decode); YUE2_COMPILE=0 turns it off.
   const child = run([...yuePriority, '.venv/bin/yue2', 'batch', '--input', batch, '--output', OUTPUTS,
-    '--config', path.join(REPO, 'configs', 'long-12000.json'), '--resume'], YUE, logFile);
+    '--config', path.join(REPO, 'configs', 'long-12000.json'), '--resume'], YUE, logFile,
+    { YUE2_COMPILE: process.env.YUE2_COMPILE ?? '1' });
   children.add(child);
   // On power, the Mac stays awake while the song generates; asleep, its lock would go stale after 20 minutes.
   Bun.spawn(['caffeinate', '-s', '-w', String(child.pid)]);

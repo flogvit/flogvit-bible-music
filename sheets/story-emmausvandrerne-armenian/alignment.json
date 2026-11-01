@@ -1,0 +1,760 @@
+{
+ "id": "story-emmausvandrerne-armenian",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-emmausvandrerne-armenian",
+ "offset_seconds": -3.4000000000001833,
+ "words_heard": 95,
+ "words": 96,
+ "lines": [
+  {
+   "text": "They drew near the village where they were going",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And he acted as though he would go farther",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But they urged him strongly",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stay with us, for it is evening",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stay with us, Lord, for it is evening",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the day is now far spent",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He took the bread and blessed it",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He broke it and gave it to them",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Their eyes were opened and they knew him",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And he vanished from their sight",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stay with us, Lord, for it is evening",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the day is now far spent",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Would not our hearts burn within us",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "They",
+   "time": 17.38,
+   "weight": 0.58,
+   "note_time": 17.42
+  },
+  {
+   "text": "drew",
+   "time": 18.64,
+   "weight": 0.97,
+   "note_time": 18.87
+  },
+  {
+   "text": "near",
+   "time": 19.74,
+   "weight": 1.0,
+   "note_time": 19.35
+  },
+  {
+   "text": "the",
+   "time": 20.28,
+   "weight": 0.98,
+   "note_time": 20.32
+  },
+  {
+   "text": "vil",
+   "time": 20.64,
+   "weight": 0.99,
+   "note_time": 20.81
+  },
+  {
+   "text": "lage",
+   "time": 20.99,
+   "weight": 0.99,
+   "note_time": 21.29
+  },
+  {
+   "text": "where",
+   "time": 22.12,
+   "weight": 0.85,
+   "note_time": 21.77
+  },
+  {
+   "text": "they",
+   "time": 23.14,
+   "weight": 0.99,
+   "note_time": 22.26
+  },
+  {
+   "text": "were",
+   "time": 23.54,
+   "weight": 0.99,
+   "note_time": 22.74
+  },
+  {
+   "text": "go",
+   "time": 24.02,
+   "weight": 1.0,
+   "note_time": 23.23
+  },
+  {
+   "text": "ing",
+   "time": 24.37,
+   "weight": 1.0,
+   "note_time": 24.19
+  },
+  {
+   "text": "And",
+   "time": 24.92,
+   "weight": 0.45,
+   "note_time": 24.68
+  },
+  {
+   "text": "he",
+   "time": 26.08,
+   "weight": 0.95,
+   "note_time": 25.16
+  },
+  {
+   "text": "act",
+   "time": 26.38,
+   "weight": 1.0,
+   "note_time": 26.13
+  },
+  {
+   "text": "ed",
+   "time": 26.73,
+   "weight": 1.0,
+   "note_time": 26.61
+  },
+  {
+   "text": "as",
+   "time": 27.82,
+   "weight": 0.99,
+   "note_time": 27.1
+  },
+  {
+   "text": "though",
+   "time": 28.54,
+   "weight": 1.0,
+   "note_time": 27.58
+  },
+  {
+   "text": "he",
+   "time": 28.78,
+   "weight": 1.0,
+   "note_time": 28.06
+  },
+  {
+   "text": "would",
+   "time": 29.32,
+   "weight": 0.99,
+   "note_time": 28.55
+  },
+  {
+   "text": "go",
+   "time": 29.82,
+   "weight": 1.0,
+   "note_time": 29.03
+  },
+  {
+   "text": "far",
+   "time": 30.22,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "ther",
+   "time": 30.57,
+   "weight": 0.99,
+   "note_time": 33.39
+  },
+  {
+   "text": "But",
+   "time": 33.4,
+   "weight": 0.78,
+   "note_time": 33.87
+  },
+  {
+   "text": "they",
+   "time": 34.54,
+   "weight": 0.99,
+   "note_time": 34.35
+  },
+  {
+   "text": "urged",
+   "time": 35.04,
+   "weight": 1.0,
+   "note_time": 34.84
+  },
+  {
+   "text": "him",
+   "time": 35.7,
+   "weight": 0.49,
+   "note_time": 35.81
+  },
+  {
+   "text": "strong",
+   "time": 35.98,
+   "weight": 0.96,
+   "note_time": 36.05
+  },
+  {
+   "text": "ly",
+   "time": 36.33,
+   "weight": 0.96,
+   "note_time": 36.29
+  },
+  {
+   "text": "Stay",
+   "time": 37.6,
+   "weight": 0.34,
+   "note_time": 37.74
+  },
+  {
+   "text": "with",
+   "time": 38.32,
+   "weight": 1.0,
+   "note_time": 38.23
+  },
+  {
+   "text": "us,",
+   "time": 39.26,
+   "weight": 1.0,
+   "note_time": 38.71
+  },
+  {
+   "text": "for",
+   "time": 39.98,
+   "weight": 0.97,
+   "note_time": 39.68
+  },
+  {
+   "text": "it",
+   "time": 40.52,
+   "weight": 1.0,
+   "note_time": 40.16
+  },
+  {
+   "text": "is",
+   "time": 41.4,
+   "weight": 1.0,
+   "note_time": 40.65
+  },
+  {
+   "text": "eve",
+   "time": 41.68,
+   "weight": 1.0,
+   "note_time": 41.61
+  },
+  {
+   "text": "ning",
+   "time": 42.03,
+   "weight": 1.0,
+   "note_time": 41.85
+  },
+  {
+   "text": "Stay",
+   "time": 48.3,
+   "weight": 0.99,
+   "note_time": 48.39
+  },
+  {
+   "text": "with",
+   "time": 49.7,
+   "weight": 1.0,
+   "note_time": 49.84
+  },
+  {
+   "text": "us,",
+   "time": 50.68,
+   "weight": 1.0,
+   "note_time": 50.32
+  },
+  {
+   "text": "Lord,",
+   "time": 51.44,
+   "weight": 1.0,
+   "note_time": 51.53
+  },
+  {
+   "text": "for",
+   "time": 52.28,
+   "weight": 1.0,
+   "note_time": 52.26
+  },
+  {
+   "text": "it",
+   "time": 53.0,
+   "weight": 1.0,
+   "note_time": 52.74
+  },
+  {
+   "text": "is",
+   "time": 53.72,
+   "weight": 1.0,
+   "note_time": 53.23
+  },
+  {
+   "text": "eve",
+   "time": 54.04,
+   "weight": 1.0,
+   "note_time": 53.71
+  },
+  {
+   "text": "ning",
+   "time": 54.39,
+   "weight": 1.0,
+   "note_time": 54.19
+  },
+  {
+   "text": "And",
+   "time": 55.42,
+   "weight": 1.0,
+   "note_time": 55.65
+  },
+  {
+   "text": "the",
+   "time": 56.54,
+   "weight": 0.99,
+   "note_time": 56.13
+  },
+  {
+   "text": "day",
+   "time": 56.84,
+   "weight": 0.92,
+   "note_time": 57.1
+  },
+  {
+   "text": "is",
+   "time": 57.48,
+   "weight": 1.0,
+   "note_time": 57.58
+  },
+  {
+   "text": "now",
+   "time": 58.52,
+   "weight": 1.0,
+   "note_time": 58.55
+  },
+  {
+   "text": "far",
+   "time": 59.38,
+   "weight": 0.94,
+   "note_time": 59.03
+  },
+  {
+   "text": "spent",
+   "time": 60.38,
+   "weight": 0.66,
+   "note_time": 59.52
+  },
+  {
+   "text": "He",
+   "time": 63.92,
+   "weight": 0.74,
+   "note_time": 63.87
+  },
+  {
+   "text": "took",
+   "time": 64.88,
+   "weight": 0.98,
+   "note_time": 64.6
+  },
+  {
+   "text": "the",
+   "time": 65.44,
+   "weight": 0.98,
+   "note_time": 64.84
+  },
+  {
+   "text": "bread",
+   "time": 65.66,
+   "weight": 0.99,
+   "note_time": 65.32
+  },
+  {
+   "text": "and",
+   "time": 66.08,
+   "weight": 0.97,
+   "note_time": 65.81
+  },
+  {
+   "text": "blessed",
+   "time": 66.54,
+   "weight": 0.98,
+   "note_time": 66.77
+  },
+  {
+   "text": "it",
+   "time": 67.22,
+   "weight": 0.98,
+   "note_time": 67.26
+  },
+  {
+   "text": "He",
+   "time": 68.24,
+   "weight": 0.64,
+   "note_time": 68.23
+  },
+  {
+   "text": "broke",
+   "time": 68.36,
+   "weight": 1.0,
+   "note_time": 68.47
+  },
+  {
+   "text": "it",
+   "time": 68.84,
+   "weight": 0.99,
+   "note_time": 68.71
+  },
+  {
+   "text": "and",
+   "time": 69.32,
+   "weight": 0.99,
+   "note_time": 69.19
+  },
+  {
+   "text": "gave",
+   "time": 69.56,
+   "weight": 1.0,
+   "note_time": 69.44
+  },
+  {
+   "text": "it",
+   "time": 69.86,
+   "weight": 0.99,
+   "note_time": 69.68
+  },
+  {
+   "text": "to",
+   "time": 70.3,
+   "weight": 1.0,
+   "note_time": 70.65
+  },
+  {
+   "text": "them",
+   "time": 70.48,
+   "weight": 1.0,
+   "note_time": 71.13
+  },
+  {
+   "text": "Their",
+   "time": 71.18,
+   "weight": 0.4,
+   "note_time": 71.61
+  },
+  {
+   "text": "eyes",
+   "time": 71.66,
+   "weight": 1.0,
+   "note_time": 72.58
+  },
+  {
+   "text": "were",
+   "time": 72.88,
+   "weight": 0.99,
+   "note_time": 72.82
+  },
+  {
+   "text": "ope",
+   "time": 73.66,
+   "weight": 0.99,
+   "note_time": 73.55
+  },
+  {
+   "text": "ned",
+   "time": 74.01,
+   "weight": 0.99,
+   "note_time": 74.03
+  },
+  {
+   "text": "and",
+   "time": 74.98,
+   "weight": 0.85,
+   "note_time": 74.52
+  },
+  {
+   "text": "they",
+   "time": 75.52,
+   "weight": 0.99,
+   "note_time": 75.0
+  },
+  {
+   "text": "knew",
+   "time": 75.94,
+   "weight": 1.0,
+   "note_time": 75.48
+  },
+  {
+   "text": "him",
+   "time": 76.46,
+   "weight": 0.91,
+   "note_time": 76.45
+  },
+  {
+   "text": "And",
+   "time": 79.36,
+   "weight": 0.92,
+   "note_time": 79.35
+  },
+  {
+   "text": "he",
+   "time": 80.32,
+   "weight": 0.95,
+   "note_time": 80.32
+  },
+  {
+   "text": "van",
+   "time": 80.66,
+   "weight": 0.99,
+   "note_time": 80.81
+  },
+  {
+   "text": "ished",
+   "time": 81.01,
+   "weight": 0.99,
+   "note_time": 81.29
+  },
+  {
+   "text": "from",
+   "time": 81.62,
+   "weight": 1.0,
+   "note_time": 81.77
+  },
+  {
+   "text": "their",
+   "time": 82.14,
+   "weight": 0.99,
+   "note_time": 82.26
+  },
+  {
+   "text": "sight",
+   "time": 82.68,
+   "weight": 0.91,
+   "note_time": 82.5
+  },
+  {
+   "text": "Stay",
+   "time": 83.16,
+   "weight": 0.45,
+   "note_time": 83.23
+  },
+  {
+   "text": "with",
+   "time": 84.0,
+   "weight": 1.0,
+   "note_time": 83.95
+  },
+  {
+   "text": "us,",
+   "time": 84.52,
+   "weight": 0.99,
+   "note_time": 84.19
+  },
+  {
+   "text": "Lord,",
+   "time": 84.92,
+   "weight": 0.99,
+   "note_time": 84.68
+  },
+  {
+   "text": "for",
+   "time": 85.66,
+   "weight": 1.0,
+   "note_time": 85.16
+  },
+  {
+   "text": "it",
+   "time": 85.92,
+   "weight": 0.99,
+   "note_time": 86.13
+  },
+  {
+   "text": "is",
+   "time": 87.1,
+   "weight": 1.0,
+   "note_time": 86.61
+  },
+  {
+   "text": "eve",
+   "time": 87.4,
+   "weight": 0.98,
+   "note_time": 87.1
+  },
+  {
+   "text": "ning",
+   "time": 87.75,
+   "weight": 0.98,
+   "note_time": 88.06
+  },
+  {
+   "text": "And",
+   "time": 88.5,
+   "weight": 0.16,
+   "note_time": 89.03
+  },
+  {
+   "text": "the",
+   "time": 89.6,
+   "weight": 0.91,
+   "note_time": 89.52
+  },
+  {
+   "text": "day",
+   "time": 90.22,
+   "weight": 0.73,
+   "note_time": 90.0
+  },
+  {
+   "text": "is",
+   "time": 90.82,
+   "weight": 0.96,
+   "note_time": 90.48
+  },
+  {
+   "text": "now",
+   "time": 91.42,
+   "weight": 0.99,
+   "note_time": 90.97
+  },
+  {
+   "text": "far",
+   "time": 91.72,
+   "weight": 0.85,
+   "note_time": 91.94
+  },
+  {
+   "text": "spent",
+   "time": 92.68,
+   "weight": 0.88,
+   "note_time": 95.81
+  },
+  {
+   "text": "Would",
+   "time": 108.52,
+   "weight": 0.25,
+   "note_time": 110.32
+  },
+  {
+   "text": "not",
+   "time": 110.74,
+   "weight": 0.99,
+   "note_time": 111.29
+  },
+  {
+   "text": "our",
+   "time": 111.7,
+   "weight": 0.99,
+   "note_time": 111.77
+  },
+  {
+   "text": "hearts",
+   "time": 112.4,
+   "weight": 0.97,
+   "note_time": 112.26
+  },
+  {
+   "text": "burn",
+   "time": 113.64,
+   "weight": 0.95,
+   "note_time": 114.19
+  },
+  {
+   "text": "with",
+   "time": 114.94,
+   "weight": 0.38,
+   "note_time": 114.68
+  },
+  {
+   "text": "in",
+   "time": 115.29,
+   "weight": 0.38,
+   "note_time": 115.16
+  },
+  {
+   "text": "us",
+   "time": 115.69,
+   "weight": 0.0,
+   "note_time": 115.65
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 13 lyric lines sit on their notes."
+}

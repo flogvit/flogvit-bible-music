@@ -1,0 +1,770 @@
+{
+ "id": "chapter-19-130-armenian",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-130-armenian",
+ "offset_seconds": -2.060000000000212,
+ "words_heard": 87,
+ "words": 91,
+ "lines": [
+  {
+   "text": "Out of the depths I cry to you, O Lord",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, hear my voice",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let your ears be attentive",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To my cry for mercy",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul waits for the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.41,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "More than watchmen for the morning",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "More than watchmen for the morning",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If you, Lord, kept a record of sins",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, who could stand",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But with you there is forgiveness",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And in your word I hold",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul waits for the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "More than watchmen for the morning",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "More than watchmen for the morning",
+   "heard": 4,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With the Lord there is steadfast love",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Out",
+   "time": 25.44,
+   "weight": 0.42,
+   "note_time": 26.8
+  },
+  {
+   "text": "of",
+   "time": 26.84,
+   "weight": 0.99,
+   "note_time": 27.2
+  },
+  {
+   "text": "the",
+   "time": 27.78,
+   "weight": 0.99,
+   "note_time": 27.6
+  },
+  {
+   "text": "depths",
+   "time": 28.12,
+   "weight": 0.95,
+   "note_time": 28.0
+  },
+  {
+   "text": "I",
+   "time": 28.84,
+   "weight": 0.84,
+   "note_time": 28.4
+  },
+  {
+   "text": "cry",
+   "time": 29.64,
+   "weight": 0.81,
+   "note_time": 28.8
+  },
+  {
+   "text": "to",
+   "time": 30.34,
+   "weight": 1.0,
+   "note_time": 29.2
+  },
+  {
+   "text": "you,",
+   "time": 31.0,
+   "weight": 0.8,
+   "note_time": 29.6
+  },
+  {
+   "text": "O",
+   "time": 31.52,
+   "weight": 0.49,
+   "note_time": 31.2
+  },
+  {
+   "text": "Lord",
+   "time": 32.3,
+   "weight": 0.83,
+   "note_time": 32.4
+  },
+  {
+   "text": "Lord,",
+   "time": 33.66,
+   "weight": 0.78,
+   "note_time": 34.0
+  },
+  {
+   "text": "hear",
+   "time": 34.98,
+   "weight": 0.99,
+   "note_time": 34.4
+  },
+  {
+   "text": "my",
+   "time": 35.72,
+   "weight": 1.0,
+   "note_time": 34.8
+  },
+  {
+   "text": "voice",
+   "time": 37.16,
+   "weight": 0.4,
+   "note_time": 38.4
+  },
+  {
+   "text": "Let",
+   "time": 39.6,
+   "weight": 0.99,
+   "note_time": 39.6
+  },
+  {
+   "text": "your",
+   "time": 40.48,
+   "weight": 0.86,
+   "note_time": 40.0
+  },
+  {
+   "text": "ears",
+   "time": 40.92,
+   "weight": 0.99,
+   "note_time": 40.4
+  },
+  {
+   "text": "be",
+   "time": 41.96,
+   "weight": 1.0,
+   "note_time": 40.8
+  },
+  {
+   "text": "at",
+   "time": 42.54,
+   "weight": 1.0,
+   "note_time": 41.6
+  },
+  {
+   "text": "ten",
+   "time": 42.89,
+   "weight": 1.0,
+   "note_time": 43.6
+  },
+  {
+   "text": "tive",
+   "time": 43.24,
+   "weight": 1.0,
+   "note_time": 44.0
+  },
+  {
+   "text": "To",
+   "time": 43.6,
+   "weight": 0.39,
+   "note_time": 44.8
+  },
+  {
+   "text": "my",
+   "time": 46.12,
+   "weight": 1.0,
+   "note_time": 46.0
+  },
+  {
+   "text": "cry",
+   "time": 46.62,
+   "weight": 1.0,
+   "note_time": 46.4
+  },
+  {
+   "text": "for",
+   "time": 47.44,
+   "weight": 1.0,
+   "note_time": 46.8
+  },
+  {
+   "text": "mer",
+   "time": 48.88,
+   "weight": 1.0,
+   "note_time": 47.2
+  },
+  {
+   "text": "cy",
+   "time": 49.23,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "My",
+   "time": 53.72,
+   "weight": 0.22,
+   "note_time": 52.8
+  },
+  {
+   "text": "soul",
+   "time": 55.12,
+   "weight": 0.99,
+   "note_time": 54.4
+  },
+  {
+   "text": "waits",
+   "time": 56.52,
+   "weight": 0.38,
+   "note_time": 56.0
+  },
+  {
+   "text": "for",
+   "time": 58.16,
+   "weight": 0.99,
+   "note_time": 56.8
+  },
+  {
+   "text": "the",
+   "time": 58.7,
+   "weight": 0.99,
+   "note_time": 57.2
+  },
+  {
+   "text": "Lord",
+   "time": 59.06,
+   "weight": 0.97,
+   "note_time": 57.6
+  },
+  {
+   "text": "More",
+   "time": 59.74,
+   "weight": 0.37,
+   "note_time": 59.2
+  },
+  {
+   "text": "than",
+   "time": 61.16,
+   "weight": 0.99,
+   "note_time": 60.8
+  },
+  {
+   "text": "watch",
+   "time": 61.96,
+   "weight": 0.94,
+   "note_time": 61.6
+  },
+  {
+   "text": "men",
+   "time": 62.31,
+   "weight": 0.94,
+   "note_time": 62.4
+  },
+  {
+   "text": "for",
+   "time": 63.38,
+   "weight": 0.99,
+   "note_time": 63.0
+  },
+  {
+   "text": "the",
+   "time": 64.14,
+   "weight": 1.0,
+   "note_time": 63.2
+  },
+  {
+   "text": "morn",
+   "time": 64.66,
+   "weight": 0.95,
+   "note_time": 63.4
+  },
+  {
+   "text": "ing",
+   "time": 65.01,
+   "weight": 0.95,
+   "note_time": 63.6
+  },
+  {
+   "text": "More",
+   "time": 65.96,
+   "weight": 0.85,
+   "note_time": 65.6
+  },
+  {
+   "text": "than",
+   "time": 67.22,
+   "weight": 1.0,
+   "note_time": 67.2
+  },
+  {
+   "text": "watch",
+   "time": 68.12,
+   "weight": 1.0,
+   "note_time": 68.0
+  },
+  {
+   "text": "men",
+   "time": 68.47,
+   "weight": 1.0,
+   "note_time": 68.8
+  },
+  {
+   "text": "for",
+   "time": 69.56,
+   "weight": 1.0,
+   "note_time": 69.4
+  },
+  {
+   "text": "the",
+   "time": 70.32,
+   "weight": 1.0,
+   "note_time": 69.6
+  },
+  {
+   "text": "morn",
+   "time": 70.88,
+   "weight": 1.0,
+   "note_time": 69.8
+  },
+  {
+   "text": "ing",
+   "time": 71.23,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "If",
+   "time": 80.36,
+   "weight": 0.86,
+   "note_time": 79.6
+  },
+  {
+   "text": "you,",
+   "time": 80.8,
+   "weight": 0.82,
+   "note_time": 80.0
+  },
+  {
+   "text": "Lord,",
+   "time": 81.36,
+   "weight": 0.99,
+   "note_time": 80.8
+  },
+  {
+   "text": "kept",
+   "time": 82.34,
+   "weight": 0.99,
+   "note_time": 81.6
+  },
+  {
+   "text": "a",
+   "time": 82.62,
+   "weight": 0.95,
+   "note_time": 82.0
+  },
+  {
+   "text": "re",
+   "time": 83.1,
+   "weight": 1.0,
+   "note_time": 82.4
+  },
+  {
+   "text": "cord",
+   "time": 83.32,
+   "weight": 1.0,
+   "note_time": 82.6
+  },
+  {
+   "text": "of",
+   "time": 83.54,
+   "weight": 1.0,
+   "note_time": 82.8
+  },
+  {
+   "text": "sins",
+   "time": 83.86,
+   "weight": 0.98,
+   "note_time": 83.2
+  },
+  {
+   "text": "Lord,",
+   "time": 85.52,
+   "weight": 0.25,
+   "note_time": 85.6
+  },
+  {
+   "text": "who",
+   "time": 86.78,
+   "weight": 0.99,
+   "note_time": 86.4
+  },
+  {
+   "text": "could",
+   "time": 87.24,
+   "weight": 0.4,
+   "note_time": 88.0
+  },
+  {
+   "text": "stand",
+   "time": 88.76,
+   "weight": 0.4,
+   "note_time": 88.8
+  },
+  {
+   "text": "But",
+   "time": 91.88,
+   "weight": 0.99,
+   "note_time": 92.4
+  },
+  {
+   "text": "with",
+   "time": 92.98,
+   "weight": 0.99,
+   "note_time": 92.8
+  },
+  {
+   "text": "you",
+   "time": 93.46,
+   "weight": 0.93,
+   "note_time": 93.2
+  },
+  {
+   "text": "there",
+   "time": 93.96,
+   "weight": 0.88,
+   "note_time": 94.0
+  },
+  {
+   "text": "is",
+   "time": 94.64,
+   "weight": 0.99,
+   "note_time": 94.4
+  },
+  {
+   "text": "for",
+   "time": 95.24,
+   "weight": 1.0,
+   "note_time": 95.0
+  },
+  {
+   "text": "give",
+   "time": 95.44,
+   "weight": 1.0,
+   "note_time": 95.2
+  },
+  {
+   "text": "ness",
+   "time": 95.64,
+   "weight": 1.0,
+   "note_time": 95.6
+  },
+  {
+   "text": "And",
+   "time": 97.17,
+   "weight": 0.84,
+   "note_time": 97.2
+  },
+  {
+   "text": "in",
+   "time": 97.72,
+   "weight": 0.99,
+   "note_time": 97.6
+  },
+  {
+   "text": "your",
+   "time": 98.14,
+   "weight": 0.98,
+   "note_time": 98.0
+  },
+  {
+   "text": "word",
+   "time": 98.54,
+   "weight": 0.72,
+   "note_time": 98.8
+  },
+  {
+   "text": "I",
+   "time": 99.52,
+   "weight": 0.34,
+   "note_time": 100.8
+  },
+  {
+   "text": "hold",
+   "time": 101.28,
+   "weight": 0.69,
+   "note_time": 101.2
+  },
+  {
+   "text": "My",
+   "time": 103.36,
+   "weight": 0.93,
+   "note_time": 104.0
+  },
+  {
+   "text": "soul",
+   "time": 104.16,
+   "weight": 0.39,
+   "note_time": 104.8
+  },
+  {
+   "text": "waits",
+   "time": 105.8,
+   "weight": 0.4,
+   "note_time": 105.6
+  },
+  {
+   "text": "for",
+   "time": 107.52,
+   "weight": 1.0,
+   "note_time": 107.2
+  },
+  {
+   "text": "the",
+   "time": 108.02,
+   "weight": 0.99,
+   "note_time": 108.0
+  },
+  {
+   "text": "Lord",
+   "time": 108.4,
+   "weight": 0.99,
+   "note_time": 108.4
+  },
+  {
+   "text": "More",
+   "time": 109.33,
+   "weight": 0.0,
+   "note_time": 110.4
+  },
+  {
+   "text": "than",
+   "time": 110.27,
+   "weight": 0.0,
+   "note_time": 111.2
+  },
+  {
+   "text": "watch",
+   "time": 111.2,
+   "weight": 0.99,
+   "note_time": 112.0
+  },
+  {
+   "text": "men",
+   "time": 111.55,
+   "weight": 0.99,
+   "note_time": 112.8
+  },
+  {
+   "text": "for",
+   "time": 112.6,
+   "weight": 0.91,
+   "note_time": 113.6
+  },
+  {
+   "text": "the",
+   "time": 113.34,
+   "weight": 1.0,
+   "note_time": 114.2
+  },
+  {
+   "text": "morn",
+   "time": 113.92,
+   "weight": 0.82,
+   "note_time": 114.4
+  },
+  {
+   "text": "ing",
+   "time": 114.27,
+   "weight": 0.82,
+   "note_time": 114.6
+  },
+  {
+   "text": "More",
+   "time": 115.3,
+   "weight": 0.0,
+   "note_time": 116.8
+  },
+  {
+   "text": "than",
+   "time": 116.33,
+   "weight": 0.0,
+   "note_time": 117.6
+  },
+  {
+   "text": "watch",
+   "time": 117.36,
+   "weight": 1.0,
+   "note_time": 118.4
+  },
+  {
+   "text": "men",
+   "time": 117.71,
+   "weight": 1.0,
+   "note_time": 119.2
+  },
+  {
+   "text": "for",
+   "time": 118.76,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "the",
+   "time": 119.52,
+   "weight": 1.0,
+   "note_time": 120.6
+  },
+  {
+   "text": "morn",
+   "time": 120.12,
+   "weight": 1.0,
+   "note_time": 120.8
+  },
+  {
+   "text": "ing",
+   "time": 120.47,
+   "weight": 1.0,
+   "note_time": 121.0
+  },
+  {
+   "text": "With",
+   "time": 124.36,
+   "weight": 0.87,
+   "note_time": 126.4
+  },
+  {
+   "text": "the",
+   "time": 125.76,
+   "weight": 1.0,
+   "note_time": 126.8
+  },
+  {
+   "text": "Lord",
+   "time": 126.22,
+   "weight": 0.99,
+   "note_time": 127.2
+  },
+  {
+   "text": "there",
+   "time": 127.1,
+   "weight": 0.39,
+   "note_time": 130.0
+  },
+  {
+   "text": "is",
+   "time": 129.22,
+   "weight": 1.0,
+   "note_time": 130.4
+  },
+  {
+   "text": "stead",
+   "time": 130.0,
+   "weight": 0.4,
+   "note_time": 131.2
+  },
+  {
+   "text": "fast",
+   "time": 130.35,
+   "weight": 0.4,
+   "note_time": 132.0
+  },
+  {
+   "text": "love",
+   "time": 131.7,
+   "weight": 0.99,
+   "note_time": 132.8
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "13 of 15 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

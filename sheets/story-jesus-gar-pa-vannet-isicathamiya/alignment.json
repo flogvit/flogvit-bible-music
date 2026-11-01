@@ -1,0 +1,1012 @@
+{
+ "id": "story-jesus-gar-pa-vannet-isicathamiya",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-jesus-gar-pa-vannet-isicathamiya",
+ "offset_seconds": -2.3600000000002055,
+ "words_heard": 123,
+ "words": 123,
+ "lines": [
+  {
+   "text": "In the fourth watch of the night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He came walking on the sea",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The disciples cried in fear",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It's a ghost, what can it be",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Take heart, it is I",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be afraid",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Take heart, it is I",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be afraid",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Peter said, Lord, if it's you",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tell me, come to you on the water",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He stepped out and walked to Jesus",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But he saw the wind and sank",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Take heart, it is I",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be afraid",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Take heart, it is I",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be afraid",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jesus reached out his hand",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You of little faith, why did you doubt",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the wind died down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Truly you are the Son of God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Take heart, it is I",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be afraid",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "In",
+   "time": 22.0,
+   "weight": 0.39,
+   "note_time": 23.02
+  },
+  {
+   "text": "the",
+   "time": 23.24,
+   "weight": 0.99,
+   "note_time": 23.37
+  },
+  {
+   "text": "fourth",
+   "time": 24.48,
+   "weight": 0.81,
+   "note_time": 24.77
+  },
+  {
+   "text": "watch",
+   "time": 24.96,
+   "weight": 0.99,
+   "note_time": 25.12
+  },
+  {
+   "text": "of",
+   "time": 25.98,
+   "weight": 1.0,
+   "note_time": 25.47
+  },
+  {
+   "text": "the",
+   "time": 26.34,
+   "weight": 1.0,
+   "note_time": 25.81
+  },
+  {
+   "text": "night",
+   "time": 26.94,
+   "weight": 1.0,
+   "note_time": 26.16
+  },
+  {
+   "text": "He",
+   "time": 27.56,
+   "weight": 0.11,
+   "note_time": 28.6
+  },
+  {
+   "text": "came",
+   "time": 29.6,
+   "weight": 0.98,
+   "note_time": 29.3
+  },
+  {
+   "text": "walk",
+   "time": 30.0,
+   "weight": 0.99,
+   "note_time": 30.35
+  },
+  {
+   "text": "ing",
+   "time": 30.35,
+   "weight": 0.99,
+   "note_time": 30.7
+  },
+  {
+   "text": "on",
+   "time": 31.08,
+   "weight": 0.99,
+   "note_time": 31.05
+  },
+  {
+   "text": "the",
+   "time": 31.94,
+   "weight": 0.99,
+   "note_time": 31.4
+  },
+  {
+   "text": "sea",
+   "time": 32.48,
+   "weight": 0.79,
+   "note_time": 31.74
+  },
+  {
+   "text": "The",
+   "time": 32.94,
+   "weight": 0.31,
+   "note_time": 34.19
+  },
+  {
+   "text": "dis",
+   "time": 35.34,
+   "weight": 0.97,
+   "note_time": 34.53
+  },
+  {
+   "text": "ci",
+   "time": 35.57,
+   "weight": 0.97,
+   "note_time": 34.88
+  },
+  {
+   "text": "ples",
+   "time": 35.81,
+   "weight": 0.97,
+   "note_time": 35.93
+  },
+  {
+   "text": "cried",
+   "time": 36.04,
+   "weight": 0.99,
+   "note_time": 36.28
+  },
+  {
+   "text": "in",
+   "time": 37.48,
+   "weight": 0.96,
+   "note_time": 36.63
+  },
+  {
+   "text": "fear",
+   "time": 38.14,
+   "weight": 1.0,
+   "note_time": 36.98
+  },
+  {
+   "text": "It's",
+   "time": 38.56,
+   "weight": 0.34,
+   "note_time": 39.77
+  },
+  {
+   "text": "a",
+   "time": 41.04,
+   "weight": 1.0,
+   "note_time": 40.12
+  },
+  {
+   "text": "ghost,",
+   "time": 41.12,
+   "weight": 0.99,
+   "note_time": 40.29
+  },
+  {
+   "text": "what",
+   "time": 42.34,
+   "weight": 0.99,
+   "note_time": 41.51
+  },
+  {
+   "text": "can",
+   "time": 42.62,
+   "weight": 1.0,
+   "note_time": 41.86
+  },
+  {
+   "text": "it",
+   "time": 42.96,
+   "weight": 0.99,
+   "note_time": 42.56
+  },
+  {
+   "text": "be",
+   "time": 43.74,
+   "weight": 1.0,
+   "note_time": 42.91
+  },
+  {
+   "text": "Take",
+   "time": 46.21,
+   "weight": 0.99,
+   "note_time": 45.35
+  },
+  {
+   "text": "heart,",
+   "time": 46.84,
+   "weight": 1.0,
+   "note_time": 46.05
+  },
+  {
+   "text": "it",
+   "time": 48.46,
+   "weight": 0.98,
+   "note_time": 48.14
+  },
+  {
+   "text": "is",
+   "time": 49.42,
+   "weight": 0.99,
+   "note_time": 48.31
+  },
+  {
+   "text": "I",
+   "time": 49.66,
+   "weight": 1.0,
+   "note_time": 48.84
+  },
+  {
+   "text": "Do",
+   "time": 50.24,
+   "weight": 0.75,
+   "note_time": 50.23
+  },
+  {
+   "text": "not",
+   "time": 51.36,
+   "weight": 1.0,
+   "note_time": 50.41
+  },
+  {
+   "text": "be",
+   "time": 51.68,
+   "weight": 1.0,
+   "note_time": 50.93
+  },
+  {
+   "text": "af",
+   "time": 52.02,
+   "weight": 1.0,
+   "note_time": 51.1
+  },
+  {
+   "text": "raid",
+   "time": 52.34,
+   "weight": 1.0,
+   "note_time": 51.45
+  },
+  {
+   "text": "Take",
+   "time": 54.56,
+   "weight": 0.17,
+   "note_time": 53.72
+  },
+  {
+   "text": "heart,",
+   "time": 55.36,
+   "weight": 0.99,
+   "note_time": 54.42
+  },
+  {
+   "text": "it",
+   "time": 56.24,
+   "weight": 0.96,
+   "note_time": 56.51
+  },
+  {
+   "text": "is",
+   "time": 57.7,
+   "weight": 1.0,
+   "note_time": 56.69
+  },
+  {
+   "text": "I",
+   "time": 57.96,
+   "weight": 0.99,
+   "note_time": 57.21
+  },
+  {
+   "text": "Do",
+   "time": 58.86,
+   "weight": 0.99,
+   "note_time": 58.6
+  },
+  {
+   "text": "not",
+   "time": 59.66,
+   "weight": 1.0,
+   "note_time": 58.78
+  },
+  {
+   "text": "be",
+   "time": 60.04,
+   "weight": 1.0,
+   "note_time": 59.3
+  },
+  {
+   "text": "af",
+   "time": 60.38,
+   "weight": 1.0,
+   "note_time": 59.48
+  },
+  {
+   "text": "raid",
+   "time": 60.71,
+   "weight": 1.0,
+   "note_time": 59.83
+  },
+  {
+   "text": "Pe",
+   "time": 65.32,
+   "weight": 0.58,
+   "note_time": 64.88
+  },
+  {
+   "text": "ter",
+   "time": 65.67,
+   "weight": 0.58,
+   "note_time": 65.58
+  },
+  {
+   "text": "said,",
+   "time": 66.12,
+   "weight": 0.99,
+   "note_time": 66.63
+  },
+  {
+   "text": "Lord,",
+   "time": 67.04,
+   "weight": 0.66,
+   "note_time": 66.98
+  },
+  {
+   "text": "if",
+   "time": 67.98,
+   "weight": 1.0,
+   "note_time": 67.33
+  },
+  {
+   "text": "it's",
+   "time": 68.54,
+   "weight": 1.0,
+   "note_time": 67.67
+  },
+  {
+   "text": "you",
+   "time": 69.04,
+   "weight": 0.33,
+   "note_time": 68.02
+  },
+  {
+   "text": "Tell",
+   "time": 69.46,
+   "weight": 0.96,
+   "note_time": 69.77
+  },
+  {
+   "text": "me,",
+   "time": 70.88,
+   "weight": 1.0,
+   "note_time": 70.12
+  },
+  {
+   "text": "come",
+   "time": 71.3,
+   "weight": 0.97,
+   "note_time": 70.47
+  },
+  {
+   "text": "to",
+   "time": 71.56,
+   "weight": 1.0,
+   "note_time": 70.81
+  },
+  {
+   "text": "you",
+   "time": 71.94,
+   "weight": 1.0,
+   "note_time": 70.99
+  },
+  {
+   "text": "on",
+   "time": 72.28,
+   "weight": 0.36,
+   "note_time": 73.26
+  },
+  {
+   "text": "the",
+   "time": 74.36,
+   "weight": 1.0,
+   "note_time": 73.6
+  },
+  {
+   "text": "wa",
+   "time": 74.66,
+   "weight": 1.0,
+   "note_time": 73.78
+  },
+  {
+   "text": "ter",
+   "time": 75.01,
+   "weight": 1.0,
+   "note_time": 74.3
+  },
+  {
+   "text": "He",
+   "time": 75.4,
+   "weight": 0.32,
+   "note_time": 76.05
+  },
+  {
+   "text": "stepped",
+   "time": 77.14,
+   "weight": 1.0,
+   "note_time": 76.74
+  },
+  {
+   "text": "out",
+   "time": 77.52,
+   "weight": 1.0,
+   "note_time": 77.79
+  },
+  {
+   "text": "and",
+   "time": 78.16,
+   "weight": 0.99,
+   "note_time": 78.14
+  },
+  {
+   "text": "walked",
+   "time": 78.98,
+   "weight": 1.0,
+   "note_time": 78.49
+  },
+  {
+   "text": "to",
+   "time": 79.5,
+   "weight": 1.0,
+   "note_time": 78.84
+  },
+  {
+   "text": "Je",
+   "time": 79.98,
+   "weight": 1.0,
+   "note_time": 79.19
+  },
+  {
+   "text": "sus",
+   "time": 80.33,
+   "weight": 1.0,
+   "note_time": 79.88
+  },
+  {
+   "text": "But",
+   "time": 80.84,
+   "weight": 0.26,
+   "note_time": 81.63
+  },
+  {
+   "text": "he",
+   "time": 82.8,
+   "weight": 0.6,
+   "note_time": 81.8
+  },
+  {
+   "text": "saw",
+   "time": 83.0,
+   "weight": 1.0,
+   "note_time": 82.33
+  },
+  {
+   "text": "the",
+   "time": 83.46,
+   "weight": 1.0,
+   "note_time": 83.37
+  },
+  {
+   "text": "wind",
+   "time": 84.5,
+   "weight": 1.0,
+   "note_time": 83.55
+  },
+  {
+   "text": "and",
+   "time": 84.92,
+   "weight": 1.0,
+   "note_time": 84.42
+  },
+  {
+   "text": "sank",
+   "time": 85.62,
+   "weight": 0.74,
+   "note_time": 84.77
+  },
+  {
+   "text": "Take",
+   "time": 87.32,
+   "weight": 0.95,
+   "note_time": 87.21
+  },
+  {
+   "text": "heart,",
+   "time": 88.52,
+   "weight": 1.0,
+   "note_time": 87.91
+  },
+  {
+   "text": "it",
+   "time": 90.24,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "is",
+   "time": 91.22,
+   "weight": 1.0,
+   "note_time": 90.17
+  },
+  {
+   "text": "I",
+   "time": 91.5,
+   "weight": 1.0,
+   "note_time": 90.7
+  },
+  {
+   "text": "Do",
+   "time": 92.1,
+   "weight": 0.37,
+   "note_time": 92.09
+  },
+  {
+   "text": "not",
+   "time": 92.98,
+   "weight": 1.0,
+   "note_time": 92.27
+  },
+  {
+   "text": "be",
+   "time": 93.48,
+   "weight": 1.0,
+   "note_time": 92.79
+  },
+  {
+   "text": "af",
+   "time": 93.88,
+   "weight": 1.0,
+   "note_time": 92.97
+  },
+  {
+   "text": "raid",
+   "time": 94.19,
+   "weight": 1.0,
+   "note_time": 93.31
+  },
+  {
+   "text": "Take",
+   "time": 94.5,
+   "weight": 0.4,
+   "note_time": 95.58
+  },
+  {
+   "text": "heart,",
+   "time": 96.7,
+   "weight": 1.0,
+   "note_time": 96.28
+  },
+  {
+   "text": "it",
+   "time": 98.06,
+   "weight": 1.0,
+   "note_time": 98.37
+  },
+  {
+   "text": "is",
+   "time": 99.54,
+   "weight": 1.0,
+   "note_time": 98.55
+  },
+  {
+   "text": "I",
+   "time": 99.86,
+   "weight": 1.0,
+   "note_time": 99.07
+  },
+  {
+   "text": "Do",
+   "time": 100.42,
+   "weight": 1.0,
+   "note_time": 100.47
+  },
+  {
+   "text": "not",
+   "time": 101.6,
+   "weight": 1.0,
+   "note_time": 100.64
+  },
+  {
+   "text": "be",
+   "time": 101.92,
+   "weight": 1.0,
+   "note_time": 101.16
+  },
+  {
+   "text": "af",
+   "time": 102.26,
+   "weight": 1.0,
+   "note_time": 101.34
+  },
+  {
+   "text": "raid",
+   "time": 102.56,
+   "weight": 1.0,
+   "note_time": 101.69
+  },
+  {
+   "text": "Je",
+   "time": 107.72,
+   "weight": 0.68,
+   "note_time": 107.44
+  },
+  {
+   "text": "sus",
+   "time": 108.07,
+   "weight": 0.68,
+   "note_time": 107.97
+  },
+  {
+   "text": "reached",
+   "time": 108.94,
+   "weight": 0.99,
+   "note_time": 108.84
+  },
+  {
+   "text": "out",
+   "time": 109.6,
+   "weight": 1.0,
+   "note_time": 109.19
+  },
+  {
+   "text": "his",
+   "time": 110.1,
+   "weight": 0.46,
+   "note_time": 109.53
+  },
+  {
+   "text": "hand",
+   "time": 110.7,
+   "weight": 0.99,
+   "note_time": 109.88
+  },
+  {
+   "text": "You",
+   "time": 111.26,
+   "weight": 0.28,
+   "note_time": 111.63
+  },
+  {
+   "text": "of",
+   "time": 112.84,
+   "weight": 0.98,
+   "note_time": 111.98
+  },
+  {
+   "text": "lit",
+   "time": 113.16,
+   "weight": 1.0,
+   "note_time": 112.33
+  },
+  {
+   "text": "tle",
+   "time": 113.36,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "faith,",
+   "time": 113.56,
+   "weight": 1.0,
+   "note_time": 112.85
+  },
+  {
+   "text": "why",
+   "time": 115.06,
+   "weight": 0.43,
+   "note_time": 114.77
+  },
+  {
+   "text": "did",
+   "time": 115.84,
+   "weight": 1.0,
+   "note_time": 115.12
+  },
+  {
+   "text": "you",
+   "time": 116.22,
+   "weight": 0.94,
+   "note_time": 115.29
+  },
+  {
+   "text": "doubt",
+   "time": 116.5,
+   "weight": 1.0,
+   "note_time": 115.47
+  },
+  {
+   "text": "And",
+   "time": 118.43,
+   "weight": 0.99,
+   "note_time": 117.91
+  },
+  {
+   "text": "the",
+   "time": 119.04,
+   "weight": 1.0,
+   "note_time": 118.26
+  },
+  {
+   "text": "wind",
+   "time": 119.32,
+   "weight": 0.99,
+   "note_time": 118.43
+  },
+  {
+   "text": "died",
+   "time": 120.0,
+   "weight": 0.39,
+   "note_time": 120.7
+  },
+  {
+   "text": "down",
+   "time": 122.06,
+   "weight": 1.0,
+   "note_time": 121.4
+  },
+  {
+   "text": "Tru",
+   "time": 123.4,
+   "weight": 0.98,
+   "note_time": 123.49
+  },
+  {
+   "text": "ly",
+   "time": 123.75,
+   "weight": 0.98,
+   "note_time": 123.84
+  },
+  {
+   "text": "you",
+   "time": 124.76,
+   "weight": 0.53,
+   "note_time": 124.01
+  },
+  {
+   "text": "are",
+   "time": 125.18,
+   "weight": 1.0,
+   "note_time": 124.88
+  },
+  {
+   "text": "the",
+   "time": 126.12,
+   "weight": 0.99,
+   "note_time": 125.23
+  },
+  {
+   "text": "Son",
+   "time": 126.34,
+   "weight": 0.98,
+   "note_time": 125.58
+  },
+  {
+   "text": "of",
+   "time": 126.78,
+   "weight": 1.0,
+   "note_time": 126.28
+  },
+  {
+   "text": "God",
+   "time": 127.54,
+   "weight": 1.0,
+   "note_time": 126.63
+  },
+  {
+   "text": "Take",
+   "time": 139.98,
+   "weight": 0.72,
+   "note_time": 140.23
+  },
+  {
+   "text": "heart,",
+   "time": 141.32,
+   "weight": 1.0,
+   "note_time": 140.93
+  },
+  {
+   "text": "it",
+   "time": 143.44,
+   "weight": 0.97,
+   "note_time": 143.02
+  },
+  {
+   "text": "is",
+   "time": 144.24,
+   "weight": 1.0,
+   "note_time": 143.2
+  },
+  {
+   "text": "I",
+   "time": 144.5,
+   "weight": 0.99,
+   "note_time": 143.72
+  },
+  {
+   "text": "Do",
+   "time": 145.46,
+   "weight": 0.97,
+   "note_time": 145.12
+  },
+  {
+   "text": "not",
+   "time": 146.16,
+   "weight": 1.0,
+   "note_time": 145.29
+  },
+  {
+   "text": "be",
+   "time": 146.52,
+   "weight": 1.0,
+   "note_time": 145.81
+  },
+  {
+   "text": "af",
+   "time": 146.9,
+   "weight": 1.0,
+   "note_time": 145.99
+  },
+  {
+   "text": "raid",
+   "time": 147.22,
+   "weight": 1.0,
+   "note_time": 146.34
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 22 lyric lines sit on their notes."
+}

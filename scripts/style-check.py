@@ -2,7 +2,7 @@
 """
 Does a song sound like the style it was asked for, and does it sound different from the songs we already have?
 
-CLAP (laion/larger_clap_music, a model that puts music and text descriptions in one space) listens to the song in
+CLAP (laion/clap-htsat-unfused, a model that puts audio and text descriptions in one space) listens to the song in
 10-second windows. Two numbers come out per song:
 
 - style rank: the song's own style (its catalog tags.style[0]) among the descriptions of every style in STYLES,
@@ -13,7 +13,7 @@ CLAP (laion/larger_clap_music, a model that puts music and text descriptions in 
 Usage:
   .venv-style/bin/python scripts/style-check.py <song folder> [...]      # YuE/outputs/catalog/<id> or library/<id>
   .venv-style/bin/python scripts/style-check.py --json out.json <song folder> [...]
-Setup: uv venv --python 3.12 .venv-style && uv pip install --python .venv-style/bin/python torch transformers librosa
+Setup: uv venv --python 3.12 .venv-style && uv pip install --python .venv-style/bin/python torch "transformers==4.46.3" librosa
 The library embeddings are cached in YuE/outputs/style-embeddings.json in the main checkout.
 """
 import argparse
@@ -27,8 +27,10 @@ import numpy as np
 REPO = Path(__file__).resolve().parent.parent
 MAIN = Path(subprocess.run(["git", "rev-parse", "--path-format=absolute", "--git-common-dir"], cwd=REPO,
                            capture_output=True, text=True, check=True).stdout.strip()).parent
-CACHE = MAIN / "YuE" / "outputs" / "style-embeddings.json"
-MODEL = "laion/larger_clap_music"
+# laion/larger_clap_music, the music-trained CLAP, gives text and audio embeddings that do not meet in transformers
+# 4.46 and 5.22 (cosine about 0 for every pair, 0.97 between any two songs); the general model works.
+MODEL = "laion/clap-htsat-unfused"
+CACHE = MAIN / "YuE" / "outputs" / f"style-embeddings-{MODEL.split('/')[-1]}.json"
 SR = 48000
 WINDOW = 10
 
@@ -122,7 +124,7 @@ def embed_audio(path: Path) -> np.ndarray:
     clips = [y[s:s + n] for s in starts if len(y[s:s + n]) == n] or [y[:n]]
     m, p = model()
     with torch.no_grad():
-        inputs = p(audio=clips, sampling_rate=SR, return_tensors="pt")
+        inputs = p(audios=clips, sampling_rate=SR, return_tensors="pt")
         e = m.get_audio_features(**inputs)
         e = getattr(e, "pooler_output", e)
     e = torch.nn.functional.normalize(e, dim=-1).mean(0)

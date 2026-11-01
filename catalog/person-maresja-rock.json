@@ -1,0 +1,66 @@
+{
+  "id": "person-maresja-rock",
+  "title": "Shattered Before the Lord",
+  "kind": "person",
+  "anchor": {
+    "person": "maresja"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 42,
+      "verseEnd": 42
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 3,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 6,
+      "chapter": 15,
+      "verseStart": 44,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 14,
+      "chapter": 14,
+      "verseStart": 9,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "maresja",
+      "kaleb",
+      "hebron",
+      "juda"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with backing choir, electric guitar, bass, drums, organ, anthemic rock mood, 110 BPM",
+    "lyrics": "[Verse]\nSons of Judah born in the land\nEr and Onan and Shelah stand\nFive sons in all from Perez line\nHezron and Hamul in design\n\n[Chorus]\nShattered before the Lord and his army\nThe Cushites fell and none were left alive\nHelp us Lord for we rely on you\nIn your name we fight the multitude\n\n[Verse]\nMesha the firstborn father of Ziph\nMareshah the father of Hebron\nKeilah Akzib and Mareshah towns\nNine villages in Judah's bounds\n\n[Chorus]\nShattered before the Lord and his army\nThe Cushites fell and none were left alive\nHelp us Lord for we rely on you\nIn your name we fight the multitude\n\n[Verse]\nAsa went out to meet the foe\nIn Valley of Zephathah low\nHe called upon the Lord his God\nPowerless against the mighty load\n\n[Chorus]\nShattered before the Lord and his army\nThe Cushites fell and none were left alive\nHelp us Lord for we rely on you\nIn your name we fight the multitude\n\n[Outro]\nCarried off a very great amount of plunder\nBefore the Lord the enemy is under",
+    "cot": "full",
+    "seed": 31114
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person-hananja-falsk-profet-hymn",
+  "title": "Yokes of Iron",
+  "kind": "person",
+  "anchor": {
+    "person": "hananja-falsk-profet"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 28,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 24,
+      "chapter": 28,
+      "verseStart": 5,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 24,
+      "chapter": 28,
+      "verseStart": 10,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 24,
+      "chapter": 28,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 24,
+      "chapter": 28,
+      "verseStart": 17,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "hananja-falsk-profet",
+      "jeremia",
+      "sidkia-sonn-av-kenaana-profet-under-akab"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo with choir, acoustic piano, cello, organ, timpani, somber and majestic, 80 BPM",
+    "lyrics": "[Verse]\nIn the fifth month of that year\nThe prophet Hananiah stood\nIn the house of the LORD\nBefore the priests and crowd\nHe spoke in the name of God\nThat Babylon's rule would cease\nAnd vessels would return\nFrom the distant Babylon\n\n[Verse]\nHe would bring back Jeconiah\nAnd all the exiles home\nWithin two years he said\nThe yoke would be undone\nJeremiah replied Amen\nMay the LORD do so\nBut listen to my word\nTo you and to the crowd\n\n[Verse]\nProphets long before your time\nSpoke of war and plague\nBut he who prophesies peace\nMust see it come to pass\nThen Hananiah took the yoke\nFrom the prophet's neck\nHe broke it in pieces\nBefore the eyes of all\n\n[Verse]\nHe declared to the people\nThat God had spoken\nThat within two years\nHe'd break the yoke off\nJeremiah went his way\nBut the word came to him\nYou broke yokes of wood\nYet you made yokes of iron\n\n[Verse]\nThe LORD of hosts has put\nAn iron yoke on them\nTo serve Nebuchadnezzar\nAnd serve him they will\nThe wild animals given\nTo the king of Babylon\nYou have made them trust\nIn a great and heavy lie\n\n[Outro]\nHananiah died in the seventh month\nIn that very same year",
+    "cot": "full",
+    "seed": 31109
+  }
+}

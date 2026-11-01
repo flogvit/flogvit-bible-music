@@ -1,0 +1,61 @@
+{
+  "id": "person-joadda-folk",
+  "title": "Recorded in the House",
+  "kind": "person",
+  "anchor": {
+    "person": "joadda"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 10,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 16,
+      "chapter": 13,
+      "verseStart": 28,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [
+      "pakten",
+      "guds-hellighet",
+      "nade"
+    ],
+    "stories": [],
+    "persons": [
+      "joadda",
+      "nehemja",
+      "eljasjib",
+      "jonatan",
+      "sanballat"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, folk, warm male solo voice with soft choir, acoustic guitar, fiddle, harp, 80 BPM, contemplative and reverent",
+    "lyrics": "[Verse]\nFrom Jeshua the line began to flow\nJoiakim passed the torch and the robe\nEliashib stood where the altar stood\nJoiada served in the holy wood\n\n[Chorus]\nRecorded in the house of the fathers\nPriests and Levites in ancient places\nIn the days of Darius the Persian\nThe names are kept in a holy version\n\n[Verse]\nJonathan walked in the priestly path\nAnd Jaddua kept the sacred oath\nBut one of the sons sought a foreign wife\nSanballat’s daughter became his life\n\n[Chorus]\nRecorded in the house of the fathers\nPriests and Levites in ancient places\nIn the days of Darius the Persian\nThe names are kept in a holy version\n\n[Bridge]\nNehemiah drove the son away\nTo keep the covenant clear and bright\nThe walls were rebuilt the spirit stayed\nServing the Lord with righteous light\n\n[Outro]\nJoiada fathered Jonathan\nJonathan fathered Jaddua\nThe line of Eliashib stands",
+    "cot": "full",
+    "seed": 31111
+  }
+}

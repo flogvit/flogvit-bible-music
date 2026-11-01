@@ -1,0 +1,65 @@
+{
+  "id": "person-jason-choral",
+  "title": "Another King",
+  "kind": "person",
+  "anchor": {
+    "person": "jason"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 6,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 9,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 45,
+      "chapter": 16,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jason",
+      "paulus",
+      "silas",
+      "sosipater"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo voice with warm choir, acoustic guitar, cello, piano, flute, solemn and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nThey rounded up the scoundrels\nFrom the marketplace street\nFormed a wild and angry mob\nIn the city's heat\nThey stormed the house at night\nTo find the two men\nBut they could not find them there\nSo the search was done\n\n[Verse]\nThey dragged Jason to the court\nAlong with some brothers\nShouting out their accusation\nWith their loud reports\nThese men turned the world upside down\nNow they have come here\nJason has taken them in\nThe anger is clear\n\n[Verse]\nThey act against the decrees\nOf Caesar the great\nSaying there is another king\nWith a different fate\nThe crowd was thrown into confusion\nThe officials confused\nBut Jason stood his ground\nIn this dangerous news\n\n[Verse]\nSo they took bail from Jason\nAnd the others too\nAnd released them from the court\nAs the day broke through\nThe cost was paid for the gospel\nThe loss was his share\nYet he welcomed them freely\nWith his open door\n\n[Outro]\nJason sends his greetings\nA kinsman of Paul",
+    "cot": "full",
+    "seed": 31110
+  }
+}

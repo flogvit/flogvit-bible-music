@@ -1,0 +1,66 @@
+{
+  "id": "person-onesimus-soul",
+  "title": "Better Than a Slave",
+  "kind": "person",
+  "anchor": {
+    "person": "onesimus"
+  },
+  "references": [
+    {
+      "bookId": 57,
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 57,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 57,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 51,
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "onesimus",
+      "paulus",
+      "filemon",
+      "tykikus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male solo voice with gospel choir harmony, piano, electric bass, soft drums, electric guitar, warm and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nHe was separated from you for a while\nSo that you might have him back forever\nMy child Onesimus born in my chains\nA spiritual father in prison's silence\n\n[Pre-Chorus]\nI am sending him back to you now\nAnd with him goes my very heart\nI would have liked to keep him near\nTo serve me in your place so dear\n\n[Chorus]\nNo longer as a slave to be\nBut better than a slave as free\nA dear brother in the Lord is he\nDear to me but dearer to you\nWelcome him as you would welcome me\nFor we are partners in this new decree\n\n[Verse]\nIf he has wronged you in any way\nOr owes you anything that is paid\nCharge it to me I am the debt\nIn the gospel truth we do not fret\n\n[Chorus]\nNo longer as a slave to be\nBut better than a slave as free\nA dear brother in the Lord is he\nDear to me but dearer to you\nWelcome him as you would welcome me\nFor we are partners in this new decree\n\n[Bridge]\nTychicus speaks of my situation\nBeloved brother and faithful servant\nOnesimus comes with them to tell\nThe faithful brother we can well\n\n[Chorus]\nNo longer as a slave to be\nBut better than a slave as free\nA dear brother in the Lord is he\nDear to me but dearer to you\nWelcome him as you would welcome me\nFor we are partners in this new decree\n\n[Outro]\nYour kindness voluntary and free\nWelcome him as you would welcome me",
+    "cot": "full",
+    "seed": 31116
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "person-sjeba-jazz",
+  "title": "We Have No Share In David",
+  "kind": "person",
+  "anchor": {
+    "person": "sjeba"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 20,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 10,
+      "chapter": 20,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 10,
+      "chapter": 20,
+      "verseStart": 4,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 10,
+      "chapter": 20,
+      "verseStart": 8,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 10,
+      "chapter": 20,
+      "verseStart": 14,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 10,
+      "chapter": 20,
+      "verseStart": 16,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "sjeba",
+      "david",
+      "joab",
+      "amasa",
+      "absalom"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female contralto, smoky and dramatic, upright bass, brushed drums, muted trumpet, piano, double bass, moody and tense, 72 BPM",
+    "lyrics": "[Verse]\nA scoundrel named Sheba son of Bichri\nSounded the horn and cried out loud\nWe have no share in David's rule\nNo inheritance in the son of Jesse\n\n[Chorus]\nTo your tents Israel go away\nAll the men deserted the king\nBut Judah stayed loyal and true\nFrom the Jordan river to Jerusalem\n\n[Verse]\nDavid told Amasa to summon the men\nWithin three days be here at once\nBut he took too long to gather them\nSo Joab took command of the troops\n\n[Chorus]\nTo your tents Israel go away\nAll the men deserted the king\nBut Judah stayed loyal and true\nFrom the Jordan river to Jerusalem\n\n[Verse]\nAt the great stone in Gibeon they met\nJoab kissed him and drew the sword\nAmasa was not on guard at all\nAnd died on the ground without a second blow\n\n[Chorus]\nTo your tents Israel go away\nAll the men deserted the king\nBut Judah stayed loyal and true\nFrom the Jordan river to Jerusalem\n\n[Verse]\nSheba fled to Abel Beth Maacah\nJoab besieged the city walls\nA wise woman called out to speak\nListen to the words of your servant\n\n[Bridge]\nWhy would you swallow the Lord's inheritance\nTo destroy a city that is a mother\nHer counsel was wise and she spoke with care\nHand over that one man to end the war\n\n[Outro]\nThey cut off the head of Sheba\nAnd threw it over the wall\nThe horn was sounded and the men dispersed\nEach man to his own tent",
+    "cot": "full",
+    "seed": 31108
+  }
+}

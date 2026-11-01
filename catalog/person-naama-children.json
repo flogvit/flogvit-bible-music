@@ -1,0 +1,72 @@
+{
+  "id": "person-naama-children",
+  "title": "Naamah the Ammonite",
+  "kind": "person",
+  "anchor": {
+    "person": "naama"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 11,
+      "chapter": 14,
+      "verseStart": 21,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 11,
+      "chapter": 11,
+      "verseStart": 4,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 14,
+      "chapter": 12,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 11,
+      "chapter": 12,
+      "verseStart": 16,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "menigheten",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "naama",
+      "salomo",
+      "rehabeam",
+      "jeroboam-i"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice, acoustic guitar, piano, strings, soft percussion, warm and reflective, 80 BPM",
+    "lyrics": "[Verse]\nKing Solomon loved many foreign women\nMoabites and Ammonites were among them\nFrom the nations the Lord had warned against\nYet he clung to them in his love\n\n[Verse]\nWhen the king grew old in his days\nHis wives turned his heart away\nHe followed Ashtoreth and Milcom too\nHis heart was no longer true\n\n[Chorus]\nNaamah the Ammonite stood in the court\nMother of Rehoboam by record\nIn the city the Lord had chosen she lived\nHer story is what the text gives\n\n[Verse]\nRehoboam reigned in Jerusalem\nForty-one years old when he began\nHe ruled for seventeen years there\nHis mother's name was Naamah\n\n[Chorus]\nNaamah the Ammonite stood in the court\nMother of Rehoboam by record\nIn the city the Lord had chosen she lived\nHer story is what the text gives\n\n[Bridge]\nThe people said we have no share in David\nTo your tents Israel go away\nThe tribes rebelled against the house of David\nJudah alone remained to stay\n\n[Outro]\nNaamah the Ammonite is remembered\nMother of Rehoboam in the text",
+    "cot": "full",
+    "seed": 31115
+  }
+}

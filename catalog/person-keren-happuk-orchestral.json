@@ -1,0 +1,64 @@
+{
+  "id": "person-keren-happuk-orchestral",
+  "title": "Keren-Happuch",
+  "kind": "person",
+  "anchor": {
+    "person": "keren-happuk"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 10,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "keren-happuk",
+      "job",
+      "jemima",
+      "kesia"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soprano solo with choir, harp, strings, flute, cello, ethereal and majestic, 80 BPM",
+    "lyrics": "[Verse]\nThe LORD restored his fortunes once again\nGave him twice as much as he had before\nHis brothers and sisters came to his house\nTo console and comfort him in his pain\n\n[Verse]\nEach gave him a piece of silver and gold\nA ring from the hand of one who knew\nThe LORD blessed the latter part of his life\nMore than the first he had known\n\n[Chorus]\nKeren-happuch is the third of the daughters\nNamed by the hand of God\nNo women in the land were as beautiful\nAs these three in his grace\n\n[Verse]\nHe had seven sons and three daughters\nBorn when his joy returned to him\nJemimah first and Keziah second\nThen Keren-happuch came after\n\n[Chorus]\nKeren-happuch is the third of the daughters\nNamed by the hand of God\nNo women in the land were as beautiful\nAs these three in his grace\n\n[Bridge]\nTheir father granted them an inheritance\nAmong their brothers in the land\nA justice and generosity seen\nIn the blessing of his house\n\n[Outro]\nJob lived a hundred and forty years\nSaw his children to the fourth generation\nAnd so he died old and full of days\nIn the peace of the Lord",
+    "cot": "full",
+    "seed": 31113
+  }
+}

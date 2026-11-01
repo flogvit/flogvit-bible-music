@@ -1,0 +1,72 @@
+{
+  "id": "person-josabad-gospel",
+  "title": "In Charge of the Outside Work",
+  "kind": "person",
+  "anchor": {
+    "person": "josabad"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 33,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 16,
+      "chapter": 8,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 11,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 44,
+      "verseEnd": 45
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "josabad",
+      "esra",
+      "nehemja",
+      "sjerebja",
+      "hasjabja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gospel choir, acoustic guitar, piano, upright bass, drums, timpani, reverent and solemn, 90 BPM",
+    "lyrics": "[Verse]\nOn the fourth day they weighed the silver\nGold and vessels in the house of our God\nInto the hands of the priests they went\nWith the Levites standing close by\n\n[Pre-Chorus]\nJozabad son of Jeshua was there\nNoadiah son of Binnui too\nWeighing out what was brought from exile\nRecording all that the people gave\n\n[Chorus]\nIn charge of the outside work\nOf the house of God he stood\nKeeping the charge of his God\nAs the singers and gatekeepers did\n\n[Verse]\nThe Levites explained the Law\nWhile the people remained in their places\nJeshua Bani Sherebiah\nJamin Akkub Shabbethai Hodiah\n\n[Pre-Chorus]\nMaaseiah Kelita Azariah\nJozabad Hanan and Pelaiah\nThey made the words plain and clear\nTo the assembly gathered there\n\n[Chorus]\nIn charge of the outside work\nOf the house of God he stood\nKeeping the charge of his God\nAs the singers and gatekeepers did\n\n[Bridge]\nShabbethai and Jozabad stood\nTwo heads of the Levites\nManaging the daily service\nOf the temple life they led\n\n[Outro]\nAccording to the command\nOf David and Solomon\nThey kept the charge of purity\nIn the house of our God",
+    "cot": "full",
+    "seed": 31112
+  }
+}

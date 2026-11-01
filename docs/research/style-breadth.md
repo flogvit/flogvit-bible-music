@@ -132,10 +132,74 @@ how good the lead sheet is, not whether the song is kept. Meter and key: what Yu
 
 ### Style check
 
-`scripts/style-check.py` (CLAP) is to say whether each probe sounds like its style and how close it is to the
-songs we had. The music-trained model (`laion/larger_clap_music`) turned out not to match text to audio at all
-(cosine about 0 for every pair); the general model does. Its results for the probes follow here once the
-library is embedded.
+`scripts/style-check.py` (CLAP `laion/clap-htsat-unfused`) listened to each probe in six 10-second windows and ranked
+the descriptions of all 53 styles (`STYLES` in the script) by how close they are to the audio. The music-trained
+model (`laion/larger_clap_music`) turned out not to match text to audio at all (cosine about 0 for every pair, in
+transformers 4.46 and 5.22); the general model does.
+
+**What the measure is worth.** The same check on the 187 songs of the 16 styles we had puts their own style at
+rank 8 (median) of 53, in the top three for 29 % of them: rock and soul at 1, country at 2, but celtic at 23 and
+orchestral at 37, styles we know the songs have. So CLAP hears broad families (rock, rap, electronic, Latin) and
+not fine traditions (Sacred Harp, Coptic chant, a brass band), and its rank alone cannot drop a style.
+
+| | own style's rank (median of 53) | own style in the top three | similarity to the nearest old song (median) |
+|---|---|---|---|
+| the 187 songs we had | 8 | 29 % | 0.971 (to the nearest other old song) |
+| the 36 probes | 7.5 | 33 % | 0.950 |
+
+The probes are heard as their own style at least as often as the old songs are, and they sit further from the
+catalog than its songs sit from each other: they add sound it did not have. Most distinct from anything we had:
+salsa (0.823), brass band (0.881), hip hop (0.908), Byzantine chant (0.898). Closest: punk (0.981, to a rock
+song) and polyphony and the chorale (0.979, to an orchestral song).
+
+| style | rank | CLAP's top three | nearest old song |
+|---|---|---|---|
+| hiphop | 1 | hiphop, lofi, pop | `verse-45-10-17-jazz` (0.908) |
+| metal | 1 | metal, rock, country | `verse-19-27-1-rock` (0.976) |
+| salsa | 1 | salsa, shanty, middle-eastern | `story-noas-ark-og-syndfloden-children` (0.823) |
+| lofi | 1 | lofi, soul, hiphop | `verse-62-4-7-soul` (0.952) |
+| anthem | 1 | anthem, shanty, isicathamiya | `verse-44-1-8-choral` (0.956) |
+| kveding | 2 | soul, kveding, lament | `story-isaks-binding-folk` (0.956) |
+| lament | 2 | soul, lament, kveding | `verse-19-127-1-worship` (0.94) |
+| bedehus | 2 | country, bedehus, kveding | `story-den-fortapte-sonn-country` (0.954) |
+| byzantine | 2 | isicathamiya, byzantine, lament | `verse-40-6-9-choral` (0.898) |
+| isicathamiya | 3 | soul, taize, isicathamiya | `verse-4-6-24-celtic` (0.962) |
+| bluegrass | 3 | bedehus, country, bluegrass | `chapter-19-100-country` (0.911) |
+| punk | 3 | metal, rock, punk | `verse-19-27-1-rock` (0.981) |
+| edm | 4 | soul, worship, ambient | `verse-19-103-19-pop` (0.941) |
+| reggae | 5 | country, pop, bedehus | `chapter-19-150-jazz` (0.903) |
+| shanty | 5 | country, soul, bedehus | `chapter-19-100-country` (0.937) |
+| polyphony | 6 | soul, isicathamiya, taize | `story-skapelsen-av-verden-orchestral` (0.979) |
+| middle-eastern | 7 | edm, children, soul | `verse-50-4-13-pop` (0.911) |
+| ambient | 7 | soul, ballad, worship | `verse-19-130-7-jazz` (0.957) |
+| lullaby | 8 | soul, worship, ballad | `verse-19-44-26-pop` (0.972) |
+| southern-gospel | 9 | kveding, soul, country | `verse-40-5-3-folk` (0.961) |
+| taize | 9 | isicathamiya, lament, hymn | `verse-19-85-9-celtic` (0.938) |
+| bhajan | 9 | soul, armenian, isicathamiya | `verse-4-6-24-celtic` (0.936) |
+| coptic | 10 | isicathamiya, gregorian, byzantine | `verse-40-6-9-choral` (0.929) |
+| armenian | 12 | choral, isicathamiya, soul | `verse-43-1-1-orchestral` (0.966) |
+| baroque | 13 | isicathamiya, choral, kveding | `verse-66-21-3-orchestral` (0.95) |
+| childrens-choir | 13 | isicathamiya, shanty, hymn | `story-david-og-goliat-children` (0.923) |
+| klezmer | 15 | bedehus, kveding, country | `verse-19-118-24-children` (0.94) |
+| mass-choir | 16 | shanty, kveding, isicathamiya | `story-pinsedagen-gospel` (0.95) |
+| highlife | 19 | country, children, edm | `chapter-19-100-country` (0.942) |
+| gregorian | 20 | lament, kveding, isicathamiya | `verse-19-103-17-choral` (0.931) |
+| chorale | 22 | soul, isicathamiya, taize | `story-skapelsen-av-verden-orchestral` (0.979) |
+| spiritual | 38 | soul, armenian, isicathamiya | `theme-nade-soul` (0.949) |
+| brass-band | 39 | shanty, kveding, salsa | `story-vismennene-fra-osten-orchestral` (0.881) |
+| sacred-harp | 39 | kveding, folk, celtic | `verse-45-12-12-choral` (0.964) |
+| spoken-word | 41 | soul, lament, worship | `verse-45-5-6-acoustic` (0.96) |
+| musical | 42 | soul, lament, gospel | `verse-45-12-14-celtic` (0.965) |
+
+Five probes rank 38 or lower: spiritual, brass band, Sacred Harp, spoken word and the musical, where CLAP hears
+soul, shanty, folk or lament. That is the range the old orchestral songs sit in, so it does not drop them, but
+they are the ones to listen to first.
+
+**Why it is not a gate in the ordinary lane.** At this precision a style check that decides keep or remake would
+reject good songs: with a threshold strict enough to catch a wrong style (say, own style in the top ten), it would have remade more
+than half of the orchestral, celtic, jazz and pop songs we had. It
+also costs CPU on the Home Mac, where Whisper already waits for CPU. It stays a script for test groups like this
+one.
 
 ## Instrumental pieces
 

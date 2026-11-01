@@ -21,7 +21,9 @@ if (!existsSync(generate)) {
 
 const KINDS = ['verse', 'chapter', 'story', 'theme', 'person'];
 const LYRICS_MODES = ['verbatim', 'mixed', 'thematic'];
-const TEXT_SOURCES = ['osen', 'kjv'];
+const TEXT_SOURCES = ['osen', 'kjv', 'osnb', 'vulgate'];
+// The language a song is sung in opens its style line, and its quotes come from a Bible in that language.
+const LANGUAGES: Record<string, string[]> = { English: ['osen', 'kjv'], Norwegian: ['osnb'], Latin: ['vulgate'] };
 const COT = ['full', 'melody', 'off'];
 
 const slugs = (dir: string) =>
@@ -122,7 +124,9 @@ for (const { file, song: s } of songs) {
   if (!TEXT_SOURCES.includes(s.textSource)) errors.push(`textSource must be one of ${TEXT_SOURCES.join(', ')}`);
 
   const r = s.request ?? {};
-  if (typeof r.style !== 'string' || !r.style.startsWith('English')) errors.push('request.style must start with "English"');
+  const language = typeof r.style === 'string' ? r.style.split(',')[0].trim() : '';
+  if (!LANGUAGES[language]) errors.push(`request.style must start with a language: ${Object.keys(LANGUAGES).join(', ')}`);
+  else if (!LANGUAGES[language].includes(s.textSource)) errors.push(`textSource ${s.textSource} is not a ${language} Bible (${LANGUAGES[language].join(', ')})`);
   if (!COT.includes(r.cot)) errors.push(`request.cot must be one of ${COT.join(', ')}`);
   if (!Number.isInteger(r.seed)) errors.push('request.seed must be an integer');
   if (typeof r.lyrics !== 'string' || !r.lyrics.trim()) errors.push('request.lyrics missing');

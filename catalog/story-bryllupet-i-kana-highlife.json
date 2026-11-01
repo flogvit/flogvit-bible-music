@@ -1,0 +1,46 @@
+{
+  "id": "story-bryllupet-i-kana-highlife",
+  "title": "The Best Wine Is Now",
+  "kind": "story",
+  "anchor": {
+    "story": "bryllupet-i-kana"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "highlife"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "glede",
+      "ekteskap"
+    ],
+    "stories": [
+      "bryllupet-i-kana"
+    ],
+    "persons": [
+      "maria-jesu-mor"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, West African highlife gospel, bright interlocking clean electric guitars, horn section riffs, talking drum, shakers and congas, joyful male lead with a call-and-response choir, irresistible dancing rhythm, 120 BPM",
+    "lyrics": "[Verse]\nThere was a wedding in Cana town\nThe music playing all around\nBut the wine ran out before the night\nAnd Mary said, they have no more wine\nDo whatever he tells you, do whatever he says\nFill the jars with water, fill them to the brim\n\n[Chorus]\nOh, the best wine is now\nHe kept the best for now\nWater into wine, his glory shine\nThe best wine is now\n\n[Verse]\nSix stone jars along the wall\nThe servants filled them one and all\nDraw it out and take it to the master of the feast\nHe tasted and he said, you kept the best wine for last\nEverybody serves the good wine first\nBut you kept the good wine until now\n\n[Chorus]\nOh, the best wine is now\nHe kept the best for now\nWater into wine, his glory shine\nThe best wine is now\n\n[Outro]\nHis disciples believed in him\nThe best wine is now",
+    "cot": "full",
+    "seed": 30015
+  }
+}

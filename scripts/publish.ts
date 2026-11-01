@@ -196,7 +196,7 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   if (await sink.put(`${base}/info.json`, json(info), "application/json")) written++;
   songs.push({
     id: info.id, collection, title: info.title, kind: info.kind, anchor: info.anchor, references: info.references ?? [],
-    style: info.style ?? [], styleDescription: info.styleDescription, tags: info.tags ?? {},
+    style: info.style ?? [], styleDescription: info.styleDescription, language: info.language, tags: info.tags ?? {},
     lyrics: info.lyrics?.text, lyricsMode: info.lyricsMode, textSource: info.textSource, textCredit: info.textCredit,
     music: info.music, published, files,
   });

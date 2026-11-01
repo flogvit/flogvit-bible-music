@@ -1,0 +1,45 @@
+{
+  "id": "person-job-lament",
+  "title": "Let the Day Perish",
+  "kind": "person",
+  "anchor": {
+    "person": "job"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 18,
+      "chapter": 30,
+      "verseStart": 16,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "lament"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": [
+      "job"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lament, an old man's cracked and weary voice, slow solo cello and a low drone, a sparse frame drum like a tired heartbeat, D minor, desolate and unresolved, no comfort in the sound, 52 BPM",
+    "lyrics": "[Verse]\nLet the day perish on which I was born\nAnd the night that said, a boy is conceived\nLet that day be darkness\nLet no light shine upon it\n\n[Chorus]\nWhy did I not die at birth\nWhy did I not breathe my last\nWhy is light given to the one in misery\nWhy\n\n[Verse]\nNow my life is poured out within me\nDays of affliction have taken hold of me\nNight pierces my bones\nThe pains that gnaw me never rest\n\n[Verse]\nI cry out to you, and you do not answer\nI stand before you, and you only look at me\nYou lift me up to the wind\nYou melt me away in the roar of the storm\n\n[Chorus]\nWhy did I not die at birth\nWhy did I not breathe my last\nWhy is light given to the one in misery\nWhy\n\n[Outro]\nI have become like dust and ashes",
+    "cot": "full",
+    "seed": 30028
+  }
+}

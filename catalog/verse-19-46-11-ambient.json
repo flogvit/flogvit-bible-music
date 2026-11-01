@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-46-11-ambient",
+  "title": "Be Still",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 46,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 46,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "ambient"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ambient devotional, slow evolving synth pads, distant felt piano notes, a soft breathy female voice, lots of space and long reverb, no drums, still and peaceful, 60 BPM",
+    "lyrics": "[Verse]\nBe still\nAnd know that I am God\nBe still\nAnd know that I am God\n\n[Chorus]\nI will be exalted among the nations\nI will be exalted in the earth\n\n[Verse]\nThe Lord of hosts is with us\nThe God of Jacob is our fortress\nBe still\nAnd know that I am God\n\n[Chorus]\nI will be exalted among the nations\nI will be exalted in the earth\n\n[Outro]\nBe still",
+    "cot": "full",
+    "seed": 30023
+  }
+}

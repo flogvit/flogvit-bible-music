@@ -1,0 +1,43 @@
+{
+  "id": "story-de-fire-rytterne-metal",
+  "title": "Four Horsemen",
+  "kind": "story",
+  "anchor": {
+    "story": "de-fire-rytterne"
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "metal"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "endetiden"
+    ],
+    "stories": [
+      "de-fire-rytterne"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, heavy metal, distorted down-tuned guitars, galloping riffs, double kick drums, a powerful clean male vocal with a gritty edge, choir pads in the chorus, epic and dark, minor key, 150 BPM",
+    "lyrics": "[Verse]\nThe Lamb has opened the first seal\nA voice like thunder cries out, come\nA white horse rides, its rider holds a bow\nHe goes out conquering, a crown upon his head\n\n[Verse]\nThe second seal, a fiery red horse\nIts rider takes the peace from the earth\nA great sword in his hand\nAnd people turn on one another\n\n[Chorus]\nCome, cries the thunder\nThe horsemen ride\nWho can stand before the Lamb\nWhen the seals are opened wide\n\n[Verse]\nThe third seal, a black horse\nA pair of scales in its rider's hand\nThe fourth, a pale horse, its rider is Death\nAnd Hades follows close behind\n\n[Chorus]\nCome, cries the thunder\nThe horsemen ride\nWho can stand before the Lamb\nWhen the seals are opened wide",
+    "cot": "full",
+    "seed": 30020
+  }
+}

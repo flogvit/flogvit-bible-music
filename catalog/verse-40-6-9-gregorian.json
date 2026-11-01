@@ -1,0 +1,44 @@
+{
+  "id": "verse-40-6-9-gregorian",
+  "title": "Pater Noster",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 6,
+    "verseStart": 9,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 6,
+      "verseStart": 9,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "gregorian"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "vulgate",
+  "request": {
+    "style": "Latin, Gregorian chant, plainsong sung in unison by a schola of male monks, no instruments, free unmetered rhythm, Dorian mode, long stone abbey reverb, meditative and austere, 60 BPM",
+    "lyrics": "[Verse]\nPater noster, qui es in caelis\nsanctificetur nomen tuum\nAdveniat regnum tuum\nfiat voluntas tua\nsicut in caelo et in terra\n\n[Verse]\nPanem nostrum supersubstantialem\nda nobis hodie\net dimitte nobis debita nostra\nsicut et nos dimittimus debitoribus nostris\n\n[Verse]\nEt ne nos inducas in tentationem\nsed libera nos a malo\n\n[Outro]\nAmen",
+    "cot": "full",
+    "seed": 30001
+  }
+}

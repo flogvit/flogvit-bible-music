@@ -1,0 +1,44 @@
+{
+  "id": "story-jesus-stiller-stormen-bluegrass",
+  "title": "Even the Wind Obeys",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-stiller-stormen"
+  },
+  "references": [
+    {
+      "bookId": 41,
+      "chapter": 4,
+      "verseStart": 37,
+      "verseEnd": 41
+    }
+  ],
+  "tags": {
+    "style": [
+      "bluegrass"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frykt",
+      "tro"
+    ],
+    "stories": [
+      "jesus-stiller-stormen"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bluegrass gospel, fast banjo rolls, mandolin chop, fiddle runs, dobro slides, upright bass, high lonesome tenor lead with tight three-part harmony on the chorus, driving and bright, 132 BPM",
+    "lyrics": "[Verse]\nThe wind came howling off the hills\nThe waves broke over the side\nThe boat was filling fast with water\nAnd the fishermen cried\nBut Jesus slept down in the stern\nHis head upon a pillow\nTeacher, don't you care at all\nWe're going down below\n\n[Chorus]\nQuiet, be still, he said to the sea\nAnd the wind lay down at his feet\nWho is this man, who can this be\nEven the wind and the waves obey\n\n[Verse]\nHe rose and spoke into the gale\nAnd all the storm was gone\nThe water lay as smooth as glass\nBeneath the morning sun\nWhy are you so afraid, he said\nDo you still have no faith\nThey trembled in the quiet boat\nAnd looked into his face\n\n[Chorus]\nQuiet, be still, he said to the sea\nAnd the wind lay down at his feet\nWho is this man, who can this be\nEven the wind and the waves obey",
+    "cot": "full",
+    "seed": 30009
+  }
+}

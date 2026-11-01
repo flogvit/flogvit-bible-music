@@ -1,0 +1,44 @@
+{
+  "id": "story-den-fortapte-sonn-bedehus",
+  "title": "Far, jeg har syndet",
+  "kind": "story",
+  "anchor": {
+    "story": "den-fortapte-sonn"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 15,
+      "verseStart": 18,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "bedehus"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "tilgivelse",
+      "lignelsene"
+    ],
+    "stories": [
+      "den-fortapte-sonn"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osnb",
+  "request": {
+    "style": "Norwegian, Norwegian revival song from the prayer house tradition, warm middle-aged male voice, accordion and acoustic guitar, simple waltz in 3/4, a small congregation joining on the refrain, nostalgic and heartfelt, 92 BPM",
+    "lyrics": "[Verse]\nLangt borte i et fremmed land\nder satt jeg uten noe\nJeg tenkte på min fars hus\nog alt det gode der\nJeg vil bryte opp og gå\nog si til ham i dag\nFar, jeg har syndet mot himmelen og mot deg\n\n[Chorus]\nHan løp meg i møte\nhan kastet seg om halsen min\nHan var død og er blitt levende\nhan var tapt og er funnet\n\n[Verse]\nJeg er ikke lenger verdig\nå kalles sønnen din\nMen far han hentet kappen\nog ringen til min hånd\nOg sko på mine føtter\nog festen ble gjort klar\nFor denne sønnen min var død og lever nå\n\n[Chorus]\nHan løp meg i møte\nhan kastet seg om halsen min\nHan var død og er blitt levende\nhan var tapt og er funnet",
+    "cot": "full",
+    "seed": 30011
+  }
+}

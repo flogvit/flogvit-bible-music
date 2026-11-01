@@ -1,0 +1,47 @@
+{
+  "id": "theme-bonn-bhajan",
+  "title": "My Soul Thirsts",
+  "kind": "theme",
+  "anchor": {
+    "theme": "bonn"
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 42,
+      "verseStart": 2,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 19,
+      "chapter": 63,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "bhajan"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Indian Christian bhajan, harmonium drone, tabla, sitar, small hand cymbals, a devotional male lead answered by a group, starting slow and gradually accelerating, 84 BPM",
+    "lyrics": "[Verse]\nAs the deer longs for water\nSo my soul longs for you\nMy soul thirsts for the living God\nWhen can I come to you\n\n[Chorus]\nYeshu, Yeshu, my soul thirsts for you\nYeshu, Yeshu, my soul longs for you\n\n[Verse]\nIn a dry and weary land\nWhere no water is\nEarly I will seek your face\nMy soul is yours\n\n[Chorus]\nYeshu, Yeshu, my soul thirsts for you\nYeshu, Yeshu, my soul longs for you\n\n[Outro]\nMy soul thirsts for you",
+    "cot": "full",
+    "seed": 30036
+  }
+}

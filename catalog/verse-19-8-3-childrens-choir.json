@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-8-3-childrens-choir",
+  "title": "From the Mouths of Children",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 8,
+    "verseStart": 2,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 8,
+      "verseStart": 2,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "childrens-choir"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's choir, bright unison children's voices with two young soloists, piano, light strings and glockenspiel, joyful and innocent, 100 BPM",
+    "lyrics": "[Verse]\nWhen I look up at the sky\nThe moon and stars you made\nWhat are we that you think of us\nAnd care for us each day\n\n[Chorus]\nLord, our Lord, how majestic is your name\nIn all the earth, in all the earth\nFrom the mouths of children you made strength\nLord, our Lord\n\n[Verse]\nEvery little voice can sing\nAnd every child can pray\nYou set your splendor in the heavens\nAnd hear the songs we raise\n\n[Chorus]\nLord, our Lord, how majestic is your name\nIn all the earth, in all the earth\nFrom the mouths of children you made strength\nLord, our Lord",
+    "cot": "full",
+    "seed": 30034
+  }
+}

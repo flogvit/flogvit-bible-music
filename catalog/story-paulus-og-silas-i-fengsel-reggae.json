@@ -1,0 +1,48 @@
+{
+  "id": "story-paulus-og-silas-i-fengsel-reggae",
+  "title": "Midnight in the Prison",
+  "kind": "story",
+  "anchor": {
+    "story": "paulus-og-silas-i-fengsel"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 16,
+      "verseStart": 25,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "reggae"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "frelsen",
+      "paulus"
+    ],
+    "stories": [
+      "paulus-og-silas-i-fengsel"
+    ],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, roots reggae, one drop drums, deep round bass line, offbeat guitar skank, bubbling organ, warm male lead with female harmony singers, a song of freedom, 76 BPM",
+    "lyrics": "[Verse]\nDown in the dungeon, feet in the stocks\nPaul and Silas behind the locks\nAround midnight they began to pray\nSinging hymns to God, and the prisoners heard them that day\n\n[Chorus]\nAnd the chains fell loose, the doors flew open\nEvery prison shook, every chain was broken\nSing at midnight, sing in the night\nTill the morning comes with the light\n\n[Verse]\nThe jailer woke and he drew his sword\nDo not harm yourself, we are all here, said Paul\nWhat must I do to be saved, he cried\nBelieve in the Lord Jesus and you'll be saved, they replied\n\n[Chorus]\nAnd the chains fell loose, the doors flew open\nEvery prison shook, every chain was broken\nSing at midnight, sing in the night\nTill the morning comes with the light",
+    "cot": "full",
+    "seed": 30017
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "person-moses-spiritual",
+  "title": "Tell Old Pharaoh",
+  "kind": "person",
+  "anchor": {
+    "person": "moses"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 2,
+      "chapter": 3,
+      "verseStart": 7,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "spiritual"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "moses",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "moses"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "call-response",
+  "request": {
+    "style": "English, African-American spiritual, deep weathered male lead calling out each line, congregation answering in rich harmony, hand claps and foot stomps on a wooden floor, no instruments, slow and heavy, 72 BPM",
+    "lyrics": "[Verse]\nMoses went down to Pharaoh's land\nLet my people go\nWith a shepherd's staff in his hand\nLet my people go\nThe Lord has seen his people cry\nLet my people go\nHe heard them under the burning sky\nLet my people go\n\n[Chorus]\nTell old Pharaoh, the Lord has spoken\nEvery chain is going to be broken\nTell old Pharaoh, we're marching on\nOut of the night and into the dawn\n\n[Verse]\nPharaoh's heart was cold as stone\nLet my people go\nBut Israel did not walk alone\nLet my people go\nThrough the water, through the sea\nLet my people go\nThe Lord will set his children free\nLet my people go\n\n[Chorus]\nTell old Pharaoh, the Lord has spoken\nEvery chain is going to be broken\nTell old Pharaoh, we're marching on\nOut of the night and into the dawn",
+    "cot": "full",
+    "seed": 30007
+  }
+}

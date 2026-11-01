@@ -107,7 +107,7 @@ One file per song in `catalog/<id>.json`:
 | `lyricsMode` | `verbatim`, `mixed` (quotes the verse) or `thematic` |
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
 | `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed. `strophic`: verses only (a hymn, a metrical psalm), at least 3, of one length unless verbatim. `ballad`: a story in at least 4 verses of one length, no chorus or bridge, a refrain at most as the last line of every verse. `chant`: one text of 2–4 lines sung as every verse, at least 4 times (Taizé). `call-response`: in every verse a lead line answered by a short response (at most 6 words, at most 2 different ones), with a chorus. The rules are in `scripts/lyrics-form.ts`; section 4 of `docs/research/diversity.md` says why |
-| `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed` |
+| `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed`. The style line opens with the language the song is sung in: `English` (quotes from `osen` or `kjv`), `Norwegian` (`osnb`) or `Latin` (`vulgate`, the Clementine Vulgate). Whisper listens for that language, the lead sheet splits syllables by its rules, and `info.json` has it as `language` |
 
 Check new or changed songs before committing them:
 
@@ -273,6 +273,14 @@ passes, whether the new take is kept or the old one is better, and at most `MUSI
 takes fail; `YuE/outputs/catalog/remakes.json` keeps each song's last remake on the machine. Run it from a checkout with the changed catalog entry, with a `MUSIC_MACHINE` of its
 own (a generator on the same machine name would otherwise finish the song too when it restarts). On a Mac that
 is also generating, start it when `top -l 2 -n 0 -s 2` shows at least 25 % idle and `ollama ps` shows no model.
+
+A list of songs that are on a branch and not in `main`'s catalog yet (a test group) is made one after another with
+`scripts/remake-queue.sh`, from a checkout of that branch, between the generator's songs; a second Mac can run the
+same list from the other end with `--reverse`.
+
+Whether a song sounds like the style it asked for, and how close it is to the songs already in `library/`, is what
+`scripts/style-check.py` measures (CLAP; setup in the script's header, docs/research/style-breadth.md for what it
+found).
 
 ```bash
 ls aside/                                       # songs set aside

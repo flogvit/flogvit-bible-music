@@ -1,0 +1,46 @@
+{
+  "id": "story-jesus-gar-pa-vannet-isicathamiya",
+  "title": "Take Heart, It Is I",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-gar-pa-vannet"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 14,
+      "verseStart": 25,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "isicathamiya"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "frykt"
+    ],
+    "stories": [
+      "jesus-gar-pa-vannet"
+    ],
+    "persons": [
+      "peter"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, South African isicathamiya, a cappella male choir in close warm harmony, deep bass voices, a high falsetto lead calling and the choir answering, soft tiptoe stepping and tongue clicks, no instruments, gentle swaying swing, 84 BPM",
+    "lyrics": "[Verse]\nIn the fourth watch of the night\nHe came walking on the sea\nThe disciples cried in fear\nIt's a ghost, what can it be\n\n[Chorus]\nTake heart, it is I\nDo not be afraid\nTake heart, it is I\nDo not be afraid\n\n[Verse]\nPeter said, Lord, if it's you\nTell me, come to you on the water\nHe stepped out and walked to Jesus\nBut he saw the wind and sank\n\n[Chorus]\nTake heart, it is I\nDo not be afraid\nTake heart, it is I\nDo not be afraid\n\n[Verse]\nJesus reached out his hand\nYou of little faith, why did you doubt\nAnd the wind died down\nTruly you are the Son of God\n\n[Chorus]\nTake heart, it is I\nDo not be afraid",
+    "cot": "full",
+    "seed": 30014
+  }
+}

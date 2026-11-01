@@ -1,0 +1,43 @@
+{
+  "id": "story-tempelrenselsen-punk",
+  "title": "Not a Marketplace",
+  "kind": "story",
+  "anchor": {
+    "story": "tempelrenselsen"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 2,
+      "verseStart": 13,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "punk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "penger"
+    ],
+    "stories": [
+      "tempelrenselsen"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, punk rock, fast distorted power chords, driving bass, loud snare on every beat, a shouted male lead with gang vocals on the chorus, raw garage production, 160 BPM",
+    "lyrics": "[Verse]\nPassover in Jerusalem\nMoney changers at their tables\nCattle, sheep and doves for sale\nIn the courts of the temple\n\n[Verse]\nHe made a whip out of cords\nDrove them out with all their cattle\nScattered coins across the floor\nOverturned their tables\n\n[Chorus]\nGet it out, get it out of here\nNot a marketplace\nMy Father's house, my Father's house\nNot a marketplace\n\n[Verse]\nHis disciples remembered\nWhat was written long ago\nZeal for your house will consume me\nZeal for your house will consume me\n\n[Chorus]\nGet it out, get it out of here\nNot a marketplace\nMy Father's house, my Father's house\nNot a marketplace",
+    "cot": "full",
+    "seed": 30021
+  }
+}

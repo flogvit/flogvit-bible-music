@@ -24,7 +24,7 @@ worse? Every number below says where it comes from. "Not known" means the source
 
 ## 1. What YuE2 handles well
 
-We run YuE2-3B (`YuE/`, upstream commit `1647252` with `patches/yue2-mps.patch`). YuE2 is a different model from the
+We run YuE2-3B (`YuE/`, upstream commit `134817f`, unchanged; before 2026-11-01 `1647252` with our MPS patch). YuE2 is a different model from the
 YuE in arXiv:2503.08638; what that paper and the YuE-v1 README say about tags and reference audio applies only
 partly here, and is marked where used.
 

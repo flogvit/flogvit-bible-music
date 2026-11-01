@@ -1,0 +1,1288 @@
+{
+ "id": "story-bryllupet-i-kana-highlife",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-bryllupet-i-kana-highlife",
+ "offset_seconds": -1.7200000000002191,
+ "words_heard": 153,
+ "words": 154,
+ "lines": [
+  {
+   "text": "There was a wedding in Cana town",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The music playing all around",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the wine ran out before the night",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Mary said, they have no more wine",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do whatever he tells you, do whatever he says",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Fill the jars with water, fill them to the brim",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Oh, the best wine is now",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He kept the best for now",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Water into wine, his glory shine",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The best wine is now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Six stone jars along the wall",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The servants filled them one and all",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Draw it out and take it to the master of the feast",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He tasted and he said, you kept the best wine for last",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Everybody serves the good wine first",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But you kept the good wine until now",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Oh, the best wine is now",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He kept the best for now",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Water into wine, his glory shine",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The best wine is now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His disciples believed in him",
+   "heard": 5,
+   "words": 5,
+   "error_s": 28.06,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The best wine is now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 30.65,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "There",
+   "time": 17.04,
+   "weight": 0.62,
+   "note_time": 17.12
+  },
+  {
+   "text": "was",
+   "time": 18.02,
+   "weight": 0.99,
+   "note_time": 17.5
+  },
+  {
+   "text": "a",
+   "time": 18.4,
+   "weight": 0.99,
+   "note_time": 17.88
+  },
+  {
+   "text": "wed",
+   "time": 18.78,
+   "weight": 0.98,
+   "note_time": 18.0
+  },
+  {
+   "text": "ding",
+   "time": 19.03,
+   "weight": 0.98,
+   "note_time": 18.38
+  },
+  {
+   "text": "in",
+   "time": 19.28,
+   "weight": 0.88,
+   "note_time": 19.25
+  },
+  {
+   "text": "Ca",
+   "time": 20.24,
+   "weight": 0.21,
+   "note_time": 19.5
+  },
+  {
+   "text": "na",
+   "time": 20.5,
+   "weight": 0.21,
+   "note_time": 19.88
+  },
+  {
+   "text": "town",
+   "time": 20.76,
+   "weight": 0.56,
+   "note_time": 20.12
+  },
+  {
+   "text": "The",
+   "time": 21.0,
+   "weight": 0.62,
+   "note_time": 21.38
+  },
+  {
+   "text": "mu",
+   "time": 22.26,
+   "weight": 0.99,
+   "note_time": 21.5
+  },
+  {
+   "text": "sic",
+   "time": 22.45,
+   "weight": 0.99,
+   "note_time": 21.75
+  },
+  {
+   "text": "play",
+   "time": 22.64,
+   "weight": 0.87,
+   "note_time": 22.0
+  },
+  {
+   "text": "ing",
+   "time": 22.88,
+   "weight": 0.87,
+   "note_time": 22.5
+  },
+  {
+   "text": "all",
+   "time": 23.12,
+   "weight": 0.97,
+   "note_time": 23.5
+  },
+  {
+   "text": "a",
+   "time": 24.46,
+   "weight": 0.98,
+   "note_time": 23.88
+  },
+  {
+   "text": "round",
+   "time": 24.71,
+   "weight": 0.98,
+   "note_time": 24.0
+  },
+  {
+   "text": "But",
+   "time": 24.96,
+   "weight": 0.38,
+   "note_time": 25.62
+  },
+  {
+   "text": "the",
+   "time": 26.56,
+   "weight": 0.99,
+   "note_time": 25.88
+  },
+  {
+   "text": "wine",
+   "time": 26.74,
+   "weight": 0.99,
+   "note_time": 26.0
+  },
+  {
+   "text": "ran",
+   "time": 27.04,
+   "weight": 1.0,
+   "note_time": 26.38
+  },
+  {
+   "text": "out",
+   "time": 27.28,
+   "weight": 1.0,
+   "note_time": 26.75
+  },
+  {
+   "text": "be",
+   "time": 27.82,
+   "weight": 0.99,
+   "note_time": 27.38
+  },
+  {
+   "text": "fore",
+   "time": 28.09,
+   "weight": 0.99,
+   "note_time": 27.5
+  },
+  {
+   "text": "the",
+   "time": 28.36,
+   "weight": 0.98,
+   "note_time": 27.88
+  },
+  {
+   "text": "night",
+   "time": 28.76,
+   "weight": 0.99,
+   "note_time": 28.0
+  },
+  {
+   "text": "And",
+   "time": 29.08,
+   "weight": 0.71,
+   "note_time": 29.38
+  },
+  {
+   "text": "Ma",
+   "time": 29.61,
+   "weight": 0.0,
+   "note_time": 29.5
+  },
+  {
+   "text": "ry",
+   "time": 30.13,
+   "weight": 0.0,
+   "note_time": 29.75
+  },
+  {
+   "text": "said,",
+   "time": 30.66,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "they",
+   "time": 31.18,
+   "weight": 0.79,
+   "note_time": 30.88
+  },
+  {
+   "text": "have",
+   "time": 31.74,
+   "weight": 0.99,
+   "note_time": 31.12
+  },
+  {
+   "text": "no",
+   "time": 32.04,
+   "weight": 1.0,
+   "note_time": 31.38
+  },
+  {
+   "text": "more",
+   "time": 32.26,
+   "weight": 1.0,
+   "note_time": 31.62
+  },
+  {
+   "text": "wine",
+   "time": 32.6,
+   "weight": 1.0,
+   "note_time": 32.0
+  },
+  {
+   "text": "Do",
+   "time": 33.02,
+   "weight": 0.8,
+   "note_time": 33.5
+  },
+  {
+   "text": "what",
+   "time": 34.36,
+   "weight": 1.0,
+   "note_time": 33.88
+  },
+  {
+   "text": "ev",
+   "time": 34.54,
+   "weight": 1.0,
+   "note_time": 34.0
+  },
+  {
+   "text": "er",
+   "time": 34.72,
+   "weight": 1.0,
+   "note_time": 34.38
+  },
+  {
+   "text": "he",
+   "time": 34.9,
+   "weight": 0.96,
+   "note_time": 34.75
+  },
+  {
+   "text": "tells",
+   "time": 35.6,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "you,",
+   "time": 36.02,
+   "weight": 0.97,
+   "note_time": 35.25
+  },
+  {
+   "text": "do",
+   "time": 36.2,
+   "weight": 1.0,
+   "note_time": 35.5
+  },
+  {
+   "text": "what",
+   "time": 36.38,
+   "weight": 1.0,
+   "note_time": 35.88
+  },
+  {
+   "text": "ev",
+   "time": 36.56,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "er",
+   "time": 36.74,
+   "weight": 1.0,
+   "note_time": 36.38
+  },
+  {
+   "text": "he",
+   "time": 36.92,
+   "weight": 1.0,
+   "note_time": 36.75
+  },
+  {
+   "text": "says",
+   "time": 37.58,
+   "weight": 1.0,
+   "note_time": 37.0
+  },
+  {
+   "text": "Fill",
+   "time": 37.98,
+   "weight": 0.99,
+   "note_time": 38.0
+  },
+  {
+   "text": "the",
+   "time": 38.88,
+   "weight": 1.0,
+   "note_time": 38.88
+  },
+  {
+   "text": "jars",
+   "time": 39.24,
+   "weight": 1.0,
+   "note_time": 39.12
+  },
+  {
+   "text": "with",
+   "time": 39.52,
+   "weight": 1.0,
+   "note_time": 39.25
+  },
+  {
+   "text": "wa",
+   "time": 39.86,
+   "weight": 1.0,
+   "note_time": 39.75
+  },
+  {
+   "text": "ter,",
+   "time": 40.16,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "fill",
+   "time": 40.6,
+   "weight": 1.0,
+   "note_time": 40.38
+  },
+  {
+   "text": "them",
+   "time": 40.94,
+   "weight": 1.0,
+   "note_time": 40.62
+  },
+  {
+   "text": "to",
+   "time": 41.28,
+   "weight": 1.0,
+   "note_time": 40.88
+  },
+  {
+   "text": "the",
+   "time": 41.5,
+   "weight": 1.0,
+   "note_time": 41.0
+  },
+  {
+   "text": "brim",
+   "time": 41.78,
+   "weight": 1.0,
+   "note_time": 41.12
+  },
+  {
+   "text": "Oh,",
+   "time": 43.64,
+   "weight": 0.98,
+   "note_time": 43.38
+  },
+  {
+   "text": "the",
+   "time": 44.46,
+   "weight": 1.0,
+   "note_time": 43.88
+  },
+  {
+   "text": "best",
+   "time": 44.76,
+   "weight": 1.0,
+   "note_time": 44.0
+  },
+  {
+   "text": "wine",
+   "time": 45.08,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "is",
+   "time": 45.98,
+   "weight": 1.0,
+   "note_time": 45.5
+  },
+  {
+   "text": "now",
+   "time": 46.56,
+   "weight": 1.0,
+   "note_time": 46.0
+  },
+  {
+   "text": "He",
+   "time": 47.0,
+   "weight": 0.34,
+   "note_time": 47.75
+  },
+  {
+   "text": "kept",
+   "time": 48.58,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "the",
+   "time": 49.02,
+   "weight": 1.0,
+   "note_time": 48.75
+  },
+  {
+   "text": "best",
+   "time": 49.66,
+   "weight": 1.0,
+   "note_time": 49.0
+  },
+  {
+   "text": "for",
+   "time": 50.04,
+   "weight": 1.0,
+   "note_time": 49.5
+  },
+  {
+   "text": "now",
+   "time": 50.38,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "Wa",
+   "time": 50.98,
+   "weight": 1.0,
+   "note_time": 51.0
+  },
+  {
+   "text": "ter",
+   "time": 51.33,
+   "weight": 1.0,
+   "note_time": 51.25
+  },
+  {
+   "text": "in",
+   "time": 52.12,
+   "weight": 1.0,
+   "note_time": 51.5
+  },
+  {
+   "text": "to",
+   "time": 52.34,
+   "weight": 1.0,
+   "note_time": 51.75
+  },
+  {
+   "text": "wine,",
+   "time": 52.56,
+   "weight": 1.0,
+   "note_time": 52.0
+  },
+  {
+   "text": "his",
+   "time": 53.24,
+   "weight": 0.9,
+   "note_time": 52.75
+  },
+  {
+   "text": "glo",
+   "time": 53.68,
+   "weight": 0.99,
+   "note_time": 53.0
+  },
+  {
+   "text": "ry",
+   "time": 53.9,
+   "weight": 0.99,
+   "note_time": 53.5
+  },
+  {
+   "text": "shine",
+   "time": 54.12,
+   "weight": 0.88,
+   "note_time": 54.0
+  },
+  {
+   "text": "The",
+   "time": 59.08,
+   "weight": 0.47,
+   "note_time": 58.88
+  },
+  {
+   "text": "best",
+   "time": 59.72,
+   "weight": 0.91,
+   "note_time": 59.0
+  },
+  {
+   "text": "wine",
+   "time": 60.06,
+   "weight": 0.93,
+   "note_time": 59.38
+  },
+  {
+   "text": "is",
+   "time": 60.34,
+   "weight": 0.99,
+   "note_time": 59.75
+  },
+  {
+   "text": "now",
+   "time": 60.72,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "Six",
+   "time": 68.0,
+   "weight": 0.49,
+   "note_time": 68.0
+  },
+  {
+   "text": "stone",
+   "time": 68.64,
+   "weight": 0.95,
+   "note_time": 68.75
+  },
+  {
+   "text": "jars",
+   "time": 69.28,
+   "weight": 1.0,
+   "note_time": 69.25
+  },
+  {
+   "text": "a",
+   "time": 69.68,
+   "weight": 0.93,
+   "note_time": 69.38
+  },
+  {
+   "text": "long",
+   "time": 70.03,
+   "weight": 0.93,
+   "note_time": 69.5
+  },
+  {
+   "text": "the",
+   "time": 70.4,
+   "weight": 0.99,
+   "note_time": 69.88
+  },
+  {
+   "text": "wall",
+   "time": 70.74,
+   "weight": 0.94,
+   "note_time": 70.0
+  },
+  {
+   "text": "The",
+   "time": 72.12,
+   "weight": 0.63,
+   "note_time": 71.88
+  },
+  {
+   "text": "ser",
+   "time": 72.76,
+   "weight": 0.97,
+   "note_time": 72.38
+  },
+  {
+   "text": "vants",
+   "time": 73.02,
+   "weight": 0.97,
+   "note_time": 72.75
+  },
+  {
+   "text": "filled",
+   "time": 73.28,
+   "weight": 0.94,
+   "note_time": 73.25
+  },
+  {
+   "text": "them",
+   "time": 73.72,
+   "weight": 1.0,
+   "note_time": 73.5
+  },
+  {
+   "text": "one",
+   "time": 74.2,
+   "weight": 0.98,
+   "note_time": 73.75
+  },
+  {
+   "text": "and",
+   "time": 74.48,
+   "weight": 0.98,
+   "note_time": 73.88
+  },
+  {
+   "text": "all",
+   "time": 74.8,
+   "weight": 1.0,
+   "note_time": 74.0
+  },
+  {
+   "text": "Draw",
+   "time": 76.36,
+   "weight": 0.83,
+   "note_time": 76.0
+  },
+  {
+   "text": "it",
+   "time": 77.0,
+   "weight": 1.0,
+   "note_time": 76.38
+  },
+  {
+   "text": "out",
+   "time": 77.3,
+   "weight": 1.0,
+   "note_time": 76.5
+  },
+  {
+   "text": "and",
+   "time": 77.6,
+   "weight": 0.99,
+   "note_time": 76.88
+  },
+  {
+   "text": "take",
+   "time": 77.78,
+   "weight": 1.0,
+   "note_time": 77.0
+  },
+  {
+   "text": "it",
+   "time": 78.0,
+   "weight": 1.0,
+   "note_time": 77.38
+  },
+  {
+   "text": "to",
+   "time": 78.26,
+   "weight": 0.99,
+   "note_time": 77.5
+  },
+  {
+   "text": "the",
+   "time": 78.4,
+   "weight": 0.93,
+   "note_time": 77.88
+  },
+  {
+   "text": "mas",
+   "time": 78.7,
+   "weight": 0.94,
+   "note_time": 78.0
+  },
+  {
+   "text": "ter",
+   "time": 78.93,
+   "weight": 0.94,
+   "note_time": 78.38
+  },
+  {
+   "text": "of",
+   "time": 79.16,
+   "weight": 1.0,
+   "note_time": 78.5
+  },
+  {
+   "text": "the",
+   "time": 79.46,
+   "weight": 1.0,
+   "note_time": 78.88
+  },
+  {
+   "text": "feast",
+   "time": 79.76,
+   "weight": 0.99,
+   "note_time": 79.0
+  },
+  {
+   "text": "He",
+   "time": 80.08,
+   "weight": 0.96,
+   "note_time": 79.75
+  },
+  {
+   "text": "tast",
+   "time": 80.7,
+   "weight": 0.98,
+   "note_time": 80.38
+  },
+  {
+   "text": "ed",
+   "time": 80.94,
+   "weight": 0.98,
+   "note_time": 80.5
+  },
+  {
+   "text": "and",
+   "time": 81.18,
+   "weight": 0.98,
+   "note_time": 80.75
+  },
+  {
+   "text": "he",
+   "time": 81.46,
+   "weight": 0.98,
+   "note_time": 81.0
+  },
+  {
+   "text": "said,",
+   "time": 81.66,
+   "weight": 1.0,
+   "note_time": 81.75
+  },
+  {
+   "text": "you",
+   "time": 81.98,
+   "weight": 0.34,
+   "note_time": 82.0
+  },
+  {
+   "text": "kept",
+   "time": 82.68,
+   "weight": 0.94,
+   "note_time": 82.38
+  },
+  {
+   "text": "the",
+   "time": 83.0,
+   "weight": 0.99,
+   "note_time": 82.5
+  },
+  {
+   "text": "best",
+   "time": 83.28,
+   "weight": 0.98,
+   "note_time": 83.0
+  },
+  {
+   "text": "wine",
+   "time": 83.6,
+   "weight": 0.98,
+   "note_time": 83.75
+  },
+  {
+   "text": "for",
+   "time": 84.3,
+   "weight": 0.82,
+   "note_time": 84.0
+  },
+  {
+   "text": "last",
+   "time": 84.64,
+   "weight": 0.7,
+   "note_time": 86.0
+  },
+  {
+   "text": "Eve",
+   "time": 87.32,
+   "weight": 0.75,
+   "note_time": 87.0
+  },
+  {
+   "text": "ry",
+   "time": 87.55,
+   "weight": 0.75,
+   "note_time": 87.25
+  },
+  {
+   "text": "bo",
+   "time": 87.78,
+   "weight": 0.75,
+   "note_time": 87.5
+  },
+  {
+   "text": "dy",
+   "time": 88.01,
+   "weight": 0.75,
+   "note_time": 87.75
+  },
+  {
+   "text": "serves",
+   "time": 88.24,
+   "weight": 0.93,
+   "note_time": 88.0
+  },
+  {
+   "text": "the",
+   "time": 88.94,
+   "weight": 0.98,
+   "note_time": 88.75
+  },
+  {
+   "text": "good",
+   "time": 89.68,
+   "weight": 0.99,
+   "note_time": 89.0
+  },
+  {
+   "text": "wine",
+   "time": 89.96,
+   "weight": 1.0,
+   "note_time": 89.5
+  },
+  {
+   "text": "first",
+   "time": 90.52,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "But",
+   "time": 91.08,
+   "weight": 0.95,
+   "note_time": 91.5
+  },
+  {
+   "text": "you",
+   "time": 92.48,
+   "weight": 0.91,
+   "note_time": 92.38
+  },
+  {
+   "text": "kept",
+   "time": 92.64,
+   "weight": 0.92,
+   "note_time": 92.75
+  },
+  {
+   "text": "the",
+   "time": 93.04,
+   "weight": 0.97,
+   "note_time": 93.0
+  },
+  {
+   "text": "good",
+   "time": 93.36,
+   "weight": 1.0,
+   "note_time": 93.38
+  },
+  {
+   "text": "wine",
+   "time": 93.66,
+   "weight": 0.99,
+   "note_time": 93.75
+  },
+  {
+   "text": "un",
+   "time": 94.08,
+   "weight": 0.99,
+   "note_time": 93.88
+  },
+  {
+   "text": "til",
+   "time": 94.35,
+   "weight": 0.99,
+   "note_time": 94.0
+  },
+  {
+   "text": "now",
+   "time": 94.62,
+   "weight": 1.0,
+   "note_time": 94.25
+  },
+  {
+   "text": "Oh,",
+   "time": 99.48,
+   "weight": 0.78,
+   "note_time": 99.38
+  },
+  {
+   "text": "the",
+   "time": 100.44,
+   "weight": 0.98,
+   "note_time": 99.88
+  },
+  {
+   "text": "best",
+   "time": 100.76,
+   "weight": 0.99,
+   "note_time": 100.0
+  },
+  {
+   "text": "wine",
+   "time": 101.08,
+   "weight": 0.99,
+   "note_time": 101.0
+  },
+  {
+   "text": "is",
+   "time": 101.96,
+   "weight": 1.0,
+   "note_time": 101.5
+  },
+  {
+   "text": "now",
+   "time": 102.56,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "He",
+   "time": 103.02,
+   "weight": 0.39,
+   "note_time": 103.75
+  },
+  {
+   "text": "kept",
+   "time": 104.7,
+   "weight": 0.99,
+   "note_time": 104.0
+  },
+  {
+   "text": "the",
+   "time": 105.04,
+   "weight": 1.0,
+   "note_time": 104.75
+  },
+  {
+   "text": "best",
+   "time": 105.66,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "for",
+   "time": 106.04,
+   "weight": 0.99,
+   "note_time": 105.5
+  },
+  {
+   "text": "now",
+   "time": 106.44,
+   "weight": 1.0,
+   "note_time": 106.0
+  },
+  {
+   "text": "Wa",
+   "time": 107.02,
+   "weight": 0.99,
+   "note_time": 107.0
+  },
+  {
+   "text": "ter",
+   "time": 107.37,
+   "weight": 0.99,
+   "note_time": 107.25
+  },
+  {
+   "text": "in",
+   "time": 108.12,
+   "weight": 0.99,
+   "note_time": 107.5
+  },
+  {
+   "text": "to",
+   "time": 108.33,
+   "weight": 0.99,
+   "note_time": 107.75
+  },
+  {
+   "text": "wine,",
+   "time": 108.54,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "his",
+   "time": 109.24,
+   "weight": 0.61,
+   "note_time": 108.75
+  },
+  {
+   "text": "glo",
+   "time": 109.66,
+   "weight": 0.74,
+   "note_time": 109.0
+  },
+  {
+   "text": "ry",
+   "time": 109.89,
+   "weight": 0.74,
+   "note_time": 109.5
+  },
+  {
+   "text": "shine",
+   "time": 110.12,
+   "weight": 0.66,
+   "note_time": 110.0
+  },
+  {
+   "text": "The",
+   "time": 110.94,
+   "weight": 0.83,
+   "note_time": 110.88
+  },
+  {
+   "text": "best",
+   "time": 111.76,
+   "weight": 0.96,
+   "note_time": 111.0
+  },
+  {
+   "text": "wine",
+   "time": 112.06,
+   "weight": 0.9,
+   "note_time": 111.38
+  },
+  {
+   "text": "is",
+   "time": 112.4,
+   "weight": 1.0,
+   "note_time": 111.75
+  },
+  {
+   "text": "now",
+   "time": 112.72,
+   "weight": 0.99,
+   "note_time": 112.0
+  },
+  {
+   "text": "His",
+   "time": 123.02,
+   "weight": 0.23,
+   "note_time": 112.38
+  },
+  {
+   "text": "dis",
+   "time": 139.36,
+   "weight": 0.4,
+   "note_time": 112.5
+  },
+  {
+   "text": "ci",
+   "time": 139.71,
+   "weight": 0.4,
+   "note_time": 112.88
+  },
+  {
+   "text": "ples",
+   "time": 140.06,
+   "weight": 0.4,
+   "note_time": 113.0
+  },
+  {
+   "text": "be",
+   "time": 140.86,
+   "weight": 0.97,
+   "note_time": 113.38
+  },
+  {
+   "text": "lieved",
+   "time": 141.21,
+   "weight": 0.97,
+   "note_time": 113.5
+  },
+  {
+   "text": "in",
+   "time": 142.28,
+   "weight": 1.0,
+   "note_time": 113.88
+  },
+  {
+   "text": "him",
+   "time": 142.62,
+   "weight": 0.69,
+   "note_time": 114.0
+  },
+  {
+   "text": "The",
+   "time": 145.06,
+   "weight": 0.82,
+   "note_time": 114.88
+  },
+  {
+   "text": "best",
+   "time": 145.74,
+   "weight": 0.97,
+   "note_time": 115.0
+  },
+  {
+   "text": "wine",
+   "time": 146.02,
+   "weight": 0.82,
+   "note_time": 115.38
+  },
+  {
+   "text": "is",
+   "time": 146.36,
+   "weight": 0.99,
+   "note_time": 115.75
+  },
+  {
+   "text": "now",
+   "time": 146.72,
+   "weight": 0.98,
+   "note_time": 116.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "20 of 22 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

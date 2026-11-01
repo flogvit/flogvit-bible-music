@@ -1,0 +1,906 @@
+{
+ "id": "story-david-farer-arken-til-jerusalem-klezmer",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-david-farer-arken-til-jerusalem-klezmer",
+ "offset_seconds": -1.68000000000022,
+ "words_heard": 101,
+ "words": 103,
+ "lines": [
+  {
+   "text": "They brought the ark up to the city",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With shouting and the sound of the horn",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "David danced before the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With all his might, with all his might",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Dance, dance before the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leap for joy before the Lord",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will celebrate before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will dance before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Michal watched him from the window",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Saw the king leaping in the street",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will be even more undignified",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Than this for the Lord",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Dance, dance before the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leap for joy before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will celebrate before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will dance before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With all his might",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "They",
+   "time": 22.54,
+   "weight": 0.84,
+   "note_time": 22.5
+  },
+  {
+   "text": "brought",
+   "time": 23.3,
+   "weight": 0.29,
+   "note_time": 22.71
+  },
+  {
+   "text": "the",
+   "time": 23.58,
+   "weight": 0.99,
+   "note_time": 22.93
+  },
+  {
+   "text": "ark",
+   "time": 23.84,
+   "weight": 0.82,
+   "note_time": 23.14
+  },
+  {
+   "text": "up",
+   "time": 24.14,
+   "weight": 0.99,
+   "note_time": 23.36
+  },
+  {
+   "text": "to",
+   "time": 24.32,
+   "weight": 1.0,
+   "note_time": 23.57
+  },
+  {
+   "text": "the",
+   "time": 24.48,
+   "weight": 1.0,
+   "note_time": 23.79
+  },
+  {
+   "text": "c",
+   "time": 24.68,
+   "weight": 0.69,
+   "note_time": 24.0
+  },
+  {
+   "text": "ity",
+   "time": 24.95,
+   "weight": 0.69,
+   "note_time": 24.21
+  },
+  {
+   "text": "With",
+   "time": 26.12,
+   "weight": 0.92,
+   "note_time": 25.93
+  },
+  {
+   "text": "shout",
+   "time": 26.54,
+   "weight": 1.0,
+   "note_time": 26.14
+  },
+  {
+   "text": "ing",
+   "time": 26.83,
+   "weight": 1.0,
+   "note_time": 26.36
+  },
+  {
+   "text": "and",
+   "time": 27.12,
+   "weight": 1.0,
+   "note_time": 26.57
+  },
+  {
+   "text": "the",
+   "time": 27.56,
+   "weight": 0.96,
+   "note_time": 26.79
+  },
+  {
+   "text": "sound",
+   "time": 27.7,
+   "weight": 1.0,
+   "note_time": 27.0
+  },
+  {
+   "text": "of",
+   "time": 28.1,
+   "weight": 1.0,
+   "note_time": 27.43
+  },
+  {
+   "text": "the",
+   "time": 28.46,
+   "weight": 1.0,
+   "note_time": 28.07
+  },
+  {
+   "text": "horn",
+   "time": 28.94,
+   "weight": 1.0,
+   "note_time": 28.29
+  },
+  {
+   "text": "Da",
+   "time": 29.48,
+   "weight": 0.8,
+   "note_time": 29.57
+  },
+  {
+   "text": "vid",
+   "time": 29.83,
+   "weight": 0.8,
+   "note_time": 29.79
+  },
+  {
+   "text": "danced",
+   "time": 30.58,
+   "weight": 0.87,
+   "note_time": 30.0
+  },
+  {
+   "text": "be",
+   "time": 31.04,
+   "weight": 0.99,
+   "note_time": 30.32
+  },
+  {
+   "text": "fore",
+   "time": 31.2,
+   "weight": 0.99,
+   "note_time": 30.43
+  },
+  {
+   "text": "the",
+   "time": 31.36,
+   "weight": 0.99,
+   "note_time": 30.64
+  },
+  {
+   "text": "Lord",
+   "time": 31.64,
+   "weight": 0.95,
+   "note_time": 30.86
+  },
+  {
+   "text": "With",
+   "time": 31.96,
+   "weight": 0.56,
+   "note_time": 31.5
+  },
+  {
+   "text": "all",
+   "time": 32.42,
+   "weight": 1.0,
+   "note_time": 31.71
+  },
+  {
+   "text": "his",
+   "time": 32.74,
+   "weight": 0.99,
+   "note_time": 32.14
+  },
+  {
+   "text": "might,",
+   "time": 33.12,
+   "weight": 1.0,
+   "note_time": 32.57
+  },
+  {
+   "text": "with",
+   "time": 33.8,
+   "weight": 0.97,
+   "note_time": 33.21
+  },
+  {
+   "text": "all",
+   "time": 34.12,
+   "weight": 1.0,
+   "note_time": 33.43
+  },
+  {
+   "text": "his",
+   "time": 34.44,
+   "weight": 1.0,
+   "note_time": 33.86
+  },
+  {
+   "text": "might",
+   "time": 34.88,
+   "weight": 1.0,
+   "note_time": 34.29
+  },
+  {
+   "text": "Dance,",
+   "time": 37.84,
+   "weight": 0.51,
+   "note_time": 37.71
+  },
+  {
+   "text": "dance",
+   "time": 39.04,
+   "weight": 0.99,
+   "note_time": 38.57
+  },
+  {
+   "text": "be",
+   "time": 39.48,
+   "weight": 0.99,
+   "note_time": 38.89
+  },
+  {
+   "text": "fore",
+   "time": 39.66,
+   "weight": 0.99,
+   "note_time": 39.0
+  },
+  {
+   "text": "the",
+   "time": 39.84,
+   "weight": 1.0,
+   "note_time": 39.21
+  },
+  {
+   "text": "Lord",
+   "time": 40.14,
+   "weight": 1.0,
+   "note_time": 39.43
+  },
+  {
+   "text": "Leap",
+   "time": 41.14,
+   "weight": 0.0,
+   "note_time": 41.14
+  },
+  {
+   "text": "for",
+   "time": 42.14,
+   "weight": 0.98,
+   "note_time": 41.79
+  },
+  {
+   "text": "joy",
+   "time": 42.6,
+   "weight": 0.99,
+   "note_time": 42.0
+  },
+  {
+   "text": "be",
+   "time": 42.92,
+   "weight": 0.99,
+   "note_time": 42.32
+  },
+  {
+   "text": "fore",
+   "time": 43.09,
+   "weight": 0.99,
+   "note_time": 42.43
+  },
+  {
+   "text": "the",
+   "time": 43.26,
+   "weight": 1.0,
+   "note_time": 42.64
+  },
+  {
+   "text": "Lord",
+   "time": 43.56,
+   "weight": 1.0,
+   "note_time": 42.86
+  },
+  {
+   "text": "I",
+   "time": 44.18,
+   "weight": 0.99,
+   "note_time": 44.57
+  },
+  {
+   "text": "will",
+   "time": 45.54,
+   "weight": 0.99,
+   "note_time": 45.21
+  },
+  {
+   "text": "cel",
+   "time": 46.1,
+   "weight": 0.99,
+   "note_time": 45.43
+  },
+  {
+   "text": "e",
+   "time": 46.28,
+   "weight": 0.99,
+   "note_time": 45.75
+  },
+  {
+   "text": "brate",
+   "time": 46.46,
+   "weight": 0.99,
+   "note_time": 45.86
+  },
+  {
+   "text": "be",
+   "time": 46.64,
+   "weight": 1.0,
+   "note_time": 46.07
+  },
+  {
+   "text": "fore",
+   "time": 46.88,
+   "weight": 1.0,
+   "note_time": 46.29
+  },
+  {
+   "text": "the",
+   "time": 47.12,
+   "weight": 1.0,
+   "note_time": 46.93
+  },
+  {
+   "text": "Lord",
+   "time": 47.84,
+   "weight": 1.0,
+   "note_time": 47.14
+  },
+  {
+   "text": "I",
+   "time": 48.22,
+   "weight": 0.71,
+   "note_time": 47.57
+  },
+  {
+   "text": "will",
+   "time": 48.46,
+   "weight": 1.0,
+   "note_time": 47.79
+  },
+  {
+   "text": "dance",
+   "time": 48.7,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "be",
+   "time": 49.16,
+   "weight": 1.0,
+   "note_time": 48.64
+  },
+  {
+   "text": "fore",
+   "time": 49.41,
+   "weight": 1.0,
+   "note_time": 48.86
+  },
+  {
+   "text": "the",
+   "time": 49.66,
+   "weight": 1.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "Lord",
+   "time": 50.22,
+   "weight": 1.0,
+   "note_time": 49.71
+  },
+  {
+   "text": "Mic",
+   "time": 67.5,
+   "weight": 0.79,
+   "note_time": 67.29
+  },
+  {
+   "text": "hal",
+   "time": 67.85,
+   "weight": 0.79,
+   "note_time": 67.5
+  },
+  {
+   "text": "watched",
+   "time": 68.3,
+   "weight": 0.99,
+   "note_time": 67.71
+  },
+  {
+   "text": "him",
+   "time": 68.62,
+   "weight": 0.99,
+   "note_time": 67.93
+  },
+  {
+   "text": "from",
+   "time": 68.9,
+   "weight": 1.0,
+   "note_time": 68.14
+  },
+  {
+   "text": "the",
+   "time": 69.1,
+   "weight": 1.0,
+   "note_time": 68.36
+  },
+  {
+   "text": "win",
+   "time": 69.3,
+   "weight": 1.0,
+   "note_time": 68.57
+  },
+  {
+   "text": "dow",
+   "time": 69.51,
+   "weight": 1.0,
+   "note_time": 68.79
+  },
+  {
+   "text": "Saw",
+   "time": 70.72,
+   "weight": 0.73,
+   "note_time": 70.71
+  },
+  {
+   "text": "the",
+   "time": 71.52,
+   "weight": 1.0,
+   "note_time": 71.14
+  },
+  {
+   "text": "king",
+   "time": 71.82,
+   "weight": 0.92,
+   "note_time": 71.36
+  },
+  {
+   "text": "leap",
+   "time": 72.1,
+   "weight": 1.0,
+   "note_time": 71.57
+  },
+  {
+   "text": "ing",
+   "time": 72.45,
+   "weight": 1.0,
+   "note_time": 71.79
+  },
+  {
+   "text": "in",
+   "time": 72.82,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "the",
+   "time": 73.06,
+   "weight": 1.0,
+   "note_time": 72.64
+  },
+  {
+   "text": "street",
+   "time": 73.48,
+   "weight": 1.0,
+   "note_time": 72.86
+  },
+  {
+   "text": "I",
+   "time": 73.88,
+   "weight": 0.97,
+   "note_time": 73.93
+  },
+  {
+   "text": "will",
+   "time": 74.84,
+   "weight": 0.98,
+   "note_time": 74.14
+  },
+  {
+   "text": "be",
+   "time": 75.04,
+   "weight": 1.0,
+   "note_time": 74.36
+  },
+  {
+   "text": "e",
+   "time": 75.24,
+   "weight": 1.0,
+   "note_time": 74.57
+  },
+  {
+   "text": "ven",
+   "time": 75.44,
+   "weight": 1.0,
+   "note_time": 74.79
+  },
+  {
+   "text": "more",
+   "time": 75.64,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "un",
+   "time": 75.96,
+   "weight": 0.93,
+   "note_time": 75.21
+  },
+  {
+   "text": "dig",
+   "time": 76.25,
+   "weight": 0.93,
+   "note_time": 75.43
+  },
+  {
+   "text": "ni",
+   "time": 76.53,
+   "weight": 0.93,
+   "note_time": 76.07
+  },
+  {
+   "text": "fied",
+   "time": 76.82,
+   "weight": 0.93,
+   "note_time": 76.29
+  },
+  {
+   "text": "Than",
+   "time": 77.1,
+   "weight": 0.86,
+   "note_time": 76.93
+  },
+  {
+   "text": "this",
+   "time": 77.82,
+   "weight": 1.0,
+   "note_time": 77.14
+  },
+  {
+   "text": "for",
+   "time": 78.2,
+   "weight": 0.96,
+   "note_time": 78.0
+  },
+  {
+   "text": "the",
+   "time": 78.86,
+   "weight": 0.99,
+   "note_time": 78.43
+  },
+  {
+   "text": "Lord",
+   "time": 80.76,
+   "weight": 0.0,
+   "note_time": 78.86
+  },
+  {
+   "text": "Dance,",
+   "time": 82.66,
+   "weight": 0.59,
+   "note_time": 82.29
+  },
+  {
+   "text": "dance",
+   "time": 83.64,
+   "weight": 0.99,
+   "note_time": 83.14
+  },
+  {
+   "text": "be",
+   "time": 84.08,
+   "weight": 0.99,
+   "note_time": 83.46
+  },
+  {
+   "text": "fore",
+   "time": 84.24,
+   "weight": 0.99,
+   "note_time": 83.57
+  },
+  {
+   "text": "the",
+   "time": 84.4,
+   "weight": 1.0,
+   "note_time": 83.79
+  },
+  {
+   "text": "Lord",
+   "time": 84.68,
+   "weight": 0.99,
+   "note_time": 84.0
+  },
+  {
+   "text": "Leap",
+   "time": 85.64,
+   "weight": 0.55,
+   "note_time": 85.71
+  },
+  {
+   "text": "for",
+   "time": 86.74,
+   "weight": 0.98,
+   "note_time": 86.36
+  },
+  {
+   "text": "joy",
+   "time": 87.18,
+   "weight": 1.0,
+   "note_time": 86.57
+  },
+  {
+   "text": "be",
+   "time": 87.48,
+   "weight": 1.0,
+   "note_time": 86.89
+  },
+  {
+   "text": "fore",
+   "time": 87.66,
+   "weight": 1.0,
+   "note_time": 87.0
+  },
+  {
+   "text": "the",
+   "time": 87.84,
+   "weight": 1.0,
+   "note_time": 87.21
+  },
+  {
+   "text": "Lord",
+   "time": 88.14,
+   "weight": 1.0,
+   "note_time": 87.43
+  },
+  {
+   "text": "I",
+   "time": 88.74,
+   "weight": 0.99,
+   "note_time": 89.14
+  },
+  {
+   "text": "will",
+   "time": 90.16,
+   "weight": 1.0,
+   "note_time": 89.79
+  },
+  {
+   "text": "cel",
+   "time": 90.66,
+   "weight": 0.99,
+   "note_time": 90.0
+  },
+  {
+   "text": "e",
+   "time": 90.83,
+   "weight": 0.99,
+   "note_time": 90.32
+  },
+  {
+   "text": "brate",
+   "time": 91.01,
+   "weight": 0.99,
+   "note_time": 90.43
+  },
+  {
+   "text": "be",
+   "time": 91.18,
+   "weight": 1.0,
+   "note_time": 90.64
+  },
+  {
+   "text": "fore",
+   "time": 91.44,
+   "weight": 1.0,
+   "note_time": 90.86
+  },
+  {
+   "text": "the",
+   "time": 91.7,
+   "weight": 1.0,
+   "note_time": 91.5
+  },
+  {
+   "text": "Lord",
+   "time": 92.38,
+   "weight": 1.0,
+   "note_time": 91.71
+  },
+  {
+   "text": "I",
+   "time": 92.72,
+   "weight": 0.98,
+   "note_time": 92.14
+  },
+  {
+   "text": "will",
+   "time": 93.06,
+   "weight": 1.0,
+   "note_time": 92.36
+  },
+  {
+   "text": "dance",
+   "time": 93.28,
+   "weight": 1.0,
+   "note_time": 92.57
+  },
+  {
+   "text": "be",
+   "time": 93.7,
+   "weight": 1.0,
+   "note_time": 93.21
+  },
+  {
+   "text": "fore",
+   "time": 93.96,
+   "weight": 1.0,
+   "note_time": 93.43
+  },
+  {
+   "text": "the",
+   "time": 94.22,
+   "weight": 1.0,
+   "note_time": 93.86
+  },
+  {
+   "text": "Lord",
+   "time": 94.76,
+   "weight": 1.0,
+   "note_time": 94.29
+  },
+  {
+   "text": "With",
+   "time": 100.1,
+   "weight": 0.94,
+   "note_time": 100.07
+  },
+  {
+   "text": "all",
+   "time": 100.98,
+   "weight": 1.0,
+   "note_time": 100.29
+  },
+  {
+   "text": "his",
+   "time": 101.26,
+   "weight": 0.58,
+   "note_time": 100.71
+  },
+  {
+   "text": "might",
+   "time": 101.64,
+   "weight": 0.99,
+   "note_time": 101.14
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 17 lyric lines sit on their notes."
+}

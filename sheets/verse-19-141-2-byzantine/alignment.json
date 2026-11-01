@@ -1,0 +1,744 @@
+{
+ "id": "verse-19-141-2-byzantine",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-141-2-byzantine",
+ "offset_seconds": -5.320000000000142,
+ "words_heard": 84,
+ "words": 88,
+ "lines": [
+  {
+   "text": "Lord, I call to you, here",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Listen to my voice when I call to you here",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hear me, O Lord",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hear me, O Lord",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let my prayers be for you like incense",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The lifting of my hands like the evening sacrifice",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Set a guard, O Lord, over my mouth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.07,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Keep watch at the door of my lips",
+   "heard": 6,
+   "words": 8,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hear me, O Lord",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hear me, O Lord",
+   "heard": 4,
+   "words": 4,
+   "error_s": 2.88,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let my prayer rise before you like incense",
+   "heard": 8,
+   "words": 8,
+   "error_s": 7.08,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The lifting of my hands like the evening sacrifice",
+   "heard": 8,
+   "words": 9,
+   "error_s": 9.82,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Lord, have mercy",
+   "heard": 3,
+   "words": 3,
+   "error_s": 15.93,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Lord, have mercy",
+   "heard": 3,
+   "words": 3,
+   "error_s": 26.0,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Lord,",
+   "time": 27.72,
+   "weight": 0.68,
+   "note_time": 27.62
+  },
+  {
+   "text": "I",
+   "time": 28.32,
+   "weight": 1.0,
+   "note_time": 28.1
+  },
+  {
+   "text": "call",
+   "time": 28.58,
+   "weight": 0.99,
+   "note_time": 28.57
+  },
+  {
+   "text": "to",
+   "time": 29.02,
+   "weight": 1.0,
+   "note_time": 29.52
+  },
+  {
+   "text": "you,",
+   "time": 29.82,
+   "weight": 0.77,
+   "note_time": 29.76
+  },
+  {
+   "text": "here",
+   "time": 30.96,
+   "weight": 0.96,
+   "note_time": 30.0
+  },
+  {
+   "text": "Lis",
+   "time": 38.96,
+   "weight": 0.99,
+   "note_time": 39.05
+  },
+  {
+   "text": "ten",
+   "time": 39.31,
+   "weight": 0.99,
+   "note_time": 39.52
+  },
+  {
+   "text": "to",
+   "time": 39.66,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "my",
+   "time": 40.28,
+   "weight": 1.0,
+   "note_time": 40.95
+  },
+  {
+   "text": "voice",
+   "time": 41.3,
+   "weight": 0.4,
+   "note_time": 41.19
+  },
+  {
+   "text": "when",
+   "time": 42.82,
+   "weight": 0.92,
+   "note_time": 42.86
+  },
+  {
+   "text": "I",
+   "time": 44.46,
+   "weight": 0.98,
+   "note_time": 44.76
+  },
+  {
+   "text": "call",
+   "time": 45.16,
+   "weight": 1.0,
+   "note_time": 45.48
+  },
+  {
+   "text": "to",
+   "time": 46.12,
+   "weight": 1.0,
+   "note_time": 45.71
+  },
+  {
+   "text": "you",
+   "time": 46.98,
+   "weight": 1.0,
+   "note_time": 46.67
+  },
+  {
+   "text": "here",
+   "time": 48.06,
+   "weight": 0.99,
+   "note_time": 47.62
+  },
+  {
+   "text": "Hear",
+   "time": 50.28,
+   "weight": 0.98,
+   "note_time": 50.48
+  },
+  {
+   "text": "me,",
+   "time": 50.98,
+   "weight": 1.0,
+   "note_time": 51.19
+  },
+  {
+   "text": "O",
+   "time": 51.94,
+   "weight": 0.7,
+   "note_time": 51.43
+  },
+  {
+   "text": "Lord",
+   "time": 52.84,
+   "weight": 0.39,
+   "note_time": 52.38
+  },
+  {
+   "text": "Hear",
+   "time": 54.6,
+   "weight": 0.25,
+   "note_time": 56.19
+  },
+  {
+   "text": "me,",
+   "time": 56.82,
+   "weight": 0.99,
+   "note_time": 56.9
+  },
+  {
+   "text": "O",
+   "time": 57.76,
+   "weight": 0.91,
+   "note_time": 57.14
+  },
+  {
+   "text": "Lord",
+   "time": 58.52,
+   "weight": 0.39,
+   "note_time": 58.1
+  },
+  {
+   "text": "Let",
+   "time": 61.06,
+   "weight": 0.28,
+   "note_time": 61.9
+  },
+  {
+   "text": "my",
+   "time": 62.18,
+   "weight": 0.99,
+   "note_time": 62.38
+  },
+  {
+   "text": "prayers",
+   "time": 63.26,
+   "weight": 0.59,
+   "note_time": 62.86
+  },
+  {
+   "text": "be",
+   "time": 64.72,
+   "weight": 0.7,
+   "note_time": 64.76
+  },
+  {
+   "text": "for",
+   "time": 66.9,
+   "weight": 0.64,
+   "note_time": 65.71
+  },
+  {
+   "text": "you",
+   "time": 67.86,
+   "weight": 0.78,
+   "note_time": 67.62
+  },
+  {
+   "text": "like",
+   "time": 68.52,
+   "weight": 0.72,
+   "note_time": 68.1
+  },
+  {
+   "text": "in",
+   "time": 69.32,
+   "weight": 0.99,
+   "note_time": 68.57
+  },
+  {
+   "text": "cense",
+   "time": 69.67,
+   "weight": 0.99,
+   "note_time": 69.52
+  },
+  {
+   "text": "The",
+   "time": 70.78,
+   "weight": 0.39,
+   "note_time": 73.33
+  },
+  {
+   "text": "lift",
+   "time": 71.94,
+   "weight": 0.4,
+   "note_time": 73.81
+  },
+  {
+   "text": "ing",
+   "time": 72.29,
+   "weight": 0.4,
+   "note_time": 74.29
+  },
+  {
+   "text": "of",
+   "time": 74.0,
+   "weight": 0.99,
+   "note_time": 75.24
+  },
+  {
+   "text": "my",
+   "time": 74.62,
+   "weight": 1.0,
+   "note_time": 75.48
+  },
+  {
+   "text": "hands",
+   "time": 75.62,
+   "weight": 0.99,
+   "note_time": 75.71
+  },
+  {
+   "text": "like",
+   "time": 76.74,
+   "weight": 0.15,
+   "note_time": 75.95
+  },
+  {
+   "text": "the",
+   "time": 76.95,
+   "weight": 0.0,
+   "note_time": 76.19
+  },
+  {
+   "text": "eve",
+   "time": 77.16,
+   "weight": 0.42,
+   "note_time": 76.67
+  },
+  {
+   "text": "ning",
+   "time": 77.51,
+   "weight": 0.42,
+   "note_time": 77.14
+  },
+  {
+   "text": "sac",
+   "time": 78.0,
+   "weight": 0.38,
+   "note_time": 79.05
+  },
+  {
+   "text": "ri",
+   "time": 78.35,
+   "weight": 0.38,
+   "note_time": 79.52
+  },
+  {
+   "text": "fice",
+   "time": 78.7,
+   "weight": 0.38,
+   "note_time": 80.0
+  },
+  {
+   "text": "Set",
+   "time": 83.4,
+   "weight": 0.15,
+   "note_time": 84.76
+  },
+  {
+   "text": "a",
+   "time": 84.8,
+   "weight": 0.41,
+   "note_time": 85.24
+  },
+  {
+   "text": "guard,",
+   "time": 85.64,
+   "weight": 0.98,
+   "note_time": 85.71
+  },
+  {
+   "text": "O",
+   "time": 86.84,
+   "weight": 0.89,
+   "note_time": 86.9
+  },
+  {
+   "text": "Lord,",
+   "time": 87.12,
+   "weight": 0.97,
+   "note_time": 87.14
+  },
+  {
+   "text": "o",
+   "time": 89.22,
+   "weight": 0.19,
+   "note_time": 88.1
+  },
+  {
+   "text": "ver",
+   "time": 89.57,
+   "weight": 0.19,
+   "note_time": 88.57
+  },
+  {
+   "text": "my",
+   "time": 90.92,
+   "weight": 0.99,
+   "note_time": 91.19
+  },
+  {
+   "text": "mouth",
+   "time": 91.74,
+   "weight": 1.0,
+   "note_time": 91.43
+  },
+  {
+   "text": "Keep",
+   "time": 92.81,
+   "weight": 0.0,
+   "note_time": 96.19
+  },
+  {
+   "text": "watch",
+   "time": 93.89,
+   "weight": 0.0,
+   "note_time": 96.9
+  },
+  {
+   "text": "at",
+   "time": 94.96,
+   "weight": 0.32,
+   "note_time": 97.14
+  },
+  {
+   "text": "the",
+   "time": 96.46,
+   "weight": 1.0,
+   "note_time": 98.1
+  },
+  {
+   "text": "door",
+   "time": 97.44,
+   "weight": 1.0,
+   "note_time": 99.05
+  },
+  {
+   "text": "of",
+   "time": 98.6,
+   "weight": 1.0,
+   "note_time": 99.52
+  },
+  {
+   "text": "my",
+   "time": 99.38,
+   "weight": 1.0,
+   "note_time": 99.76
+  },
+  {
+   "text": "lips",
+   "time": 99.82,
+   "weight": 0.71,
+   "note_time": 100.0
+  },
+  {
+   "text": "Hear",
+   "time": 100.52,
+   "weight": 0.07,
+   "note_time": 101.9
+  },
+  {
+   "text": "me,",
+   "time": 102.26,
+   "weight": 1.0,
+   "note_time": 102.62
+  },
+  {
+   "text": "O",
+   "time": 103.38,
+   "weight": 0.99,
+   "note_time": 102.86
+  },
+  {
+   "text": "Lord",
+   "time": 104.28,
+   "weight": 0.4,
+   "note_time": 103.81
+  },
+  {
+   "text": "Hear",
+   "time": 107.82,
+   "weight": 0.72,
+   "note_time": 105.24
+  },
+  {
+   "text": "me,",
+   "time": 108.36,
+   "weight": 0.99,
+   "note_time": 105.48
+  },
+  {
+   "text": "O",
+   "time": 109.16,
+   "weight": 0.71,
+   "note_time": 105.71
+  },
+  {
+   "text": "Lord",
+   "time": 109.94,
+   "weight": 0.38,
+   "note_time": 105.95
+  },
+  {
+   "text": "Let",
+   "time": 111.72,
+   "weight": 0.2,
+   "note_time": 107.62
+  },
+  {
+   "text": "my",
+   "time": 113.58,
+   "weight": 0.99,
+   "note_time": 108.1
+  },
+  {
+   "text": "prayer",
+   "time": 114.06,
+   "weight": 0.95,
+   "note_time": 108.57
+  },
+  {
+   "text": "rise",
+   "time": 114.78,
+   "weight": 0.98,
+   "note_time": 109.52
+  },
+  {
+   "text": "be",
+   "time": 115.8,
+   "weight": 0.4,
+   "note_time": 109.76
+  },
+  {
+   "text": "fore",
+   "time": 116.15,
+   "weight": 0.4,
+   "note_time": 110.0
+  },
+  {
+   "text": "you",
+   "time": 117.32,
+   "weight": 0.76,
+   "note_time": 110.24
+  },
+  {
+   "text": "like",
+   "time": 119.14,
+   "weight": 0.96,
+   "note_time": 110.48
+  },
+  {
+   "text": "in",
+   "time": 119.68,
+   "weight": 1.0,
+   "note_time": 110.95
+  },
+  {
+   "text": "cense",
+   "time": 119.96,
+   "weight": 1.0,
+   "note_time": 111.43
+  },
+  {
+   "text": "The",
+   "time": 120.74,
+   "weight": 0.98,
+   "note_time": 113.1
+  },
+  {
+   "text": "lift",
+   "time": 121.22,
+   "weight": 0.98,
+   "note_time": 113.33
+  },
+  {
+   "text": "ing",
+   "time": 121.57,
+   "weight": 0.98,
+   "note_time": 113.81
+  },
+  {
+   "text": "of",
+   "time": 122.54,
+   "weight": 0.44,
+   "note_time": 114.29
+  },
+  {
+   "text": "my",
+   "time": 123.16,
+   "weight": 0.32,
+   "note_time": 115.24
+  },
+  {
+   "text": "hands",
+   "time": 125.06,
+   "weight": 0.98,
+   "note_time": 115.48
+  },
+  {
+   "text": "like",
+   "time": 125.78,
+   "weight": 1.0,
+   "note_time": 115.71
+  },
+  {
+   "text": "the",
+   "time": 126.48,
+   "weight": 0.99,
+   "note_time": 115.95
+  },
+  {
+   "text": "eve",
+   "time": 126.9,
+   "weight": 0.99,
+   "note_time": 116.19
+  },
+  {
+   "text": "ning",
+   "time": 127.25,
+   "weight": 0.99,
+   "note_time": 116.67
+  },
+  {
+   "text": "sac",
+   "time": 128.79,
+   "weight": 0.0,
+   "note_time": 117.14
+  },
+  {
+   "text": "ri",
+   "time": 130.34,
+   "weight": 0.0,
+   "note_time": 119.05
+  },
+  {
+   "text": "fice",
+   "time": 131.88,
+   "weight": 0.0,
+   "note_time": 119.52
+  },
+  {
+   "text": "Lord,",
+   "time": 133.42,
+   "weight": 0.34,
+   "note_time": 120.0
+  },
+  {
+   "text": "have",
+   "time": 136.52,
+   "weight": 0.76,
+   "note_time": 120.95
+  },
+  {
+   "text": "mer",
+   "time": 137.12,
+   "weight": 0.99,
+   "note_time": 121.19
+  },
+  {
+   "text": "cy",
+   "time": 137.47,
+   "weight": 0.99,
+   "note_time": 121.43
+  },
+  {
+   "text": "Lord,",
+   "time": 146.52,
+   "weight": 1.0,
+   "note_time": 121.67
+  },
+  {
+   "text": "have",
+   "time": 147.92,
+   "weight": 1.0,
+   "note_time": 121.9
+  },
+  {
+   "text": "mer",
+   "time": 148.5,
+   "weight": 1.0,
+   "note_time": 122.38
+  },
+  {
+   "text": "cy",
+   "time": 148.85,
+   "weight": 1.0,
+   "note_time": 122.86
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 14 lyric lines sit clearly on their notes; 5 are uncertain and printed in grey italics."
+}

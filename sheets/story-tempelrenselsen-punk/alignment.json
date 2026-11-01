@@ -1,0 +1,1014 @@
+{
+ "id": "story-tempelrenselsen-punk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-tempelrenselsen-punk",
+ "offset_seconds": -0.8400000000002379,
+ "words_heard": 104,
+ "words": 104,
+ "lines": [
+  {
+   "text": "Passover in Jerusalem",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Money changers at their tables",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cattle, sheep and doves for sale",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the courts of the temple",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He made a whip out of cords",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Drove them out with all their cattle",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Scattered coins across the floor",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Overturned their tables",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Get it out, get it out of here",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not a marketplace",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My Father's house, my Father's house",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not a marketplace",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His disciples remembered",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "What was written long ago",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zeal for your house will consume me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zeal for your house will consume me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Get it out, get it out of here",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not a marketplace",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My Father's house, my Father's house",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not a marketplace",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Pas",
+   "time": 11.22,
+   "weight": 0.86,
+   "note_time": 11.0
+  },
+  {
+   "text": "so",
+   "time": 11.54,
+   "weight": 0.86,
+   "note_time": 11.33
+  },
+  {
+   "text": "ver",
+   "time": 11.86,
+   "weight": 0.86,
+   "note_time": 11.67
+  },
+  {
+   "text": "in",
+   "time": 12.18,
+   "weight": 0.99,
+   "note_time": 12.0
+  },
+  {
+   "text": "Je",
+   "time": 12.9,
+   "weight": 0.99,
+   "note_time": 12.33
+  },
+  {
+   "text": "ru",
+   "time": 13.09,
+   "weight": 0.99,
+   "note_time": 12.5
+  },
+  {
+   "text": "sa",
+   "time": 13.28,
+   "weight": 0.99,
+   "note_time": 12.83
+  },
+  {
+   "text": "lem",
+   "time": 13.47,
+   "weight": 0.99,
+   "note_time": 13.17
+  },
+  {
+   "text": "Mon",
+   "time": 13.66,
+   "weight": 0.25,
+   "note_time": 14.33
+  },
+  {
+   "text": "ey",
+   "time": 14.01,
+   "weight": 0.25,
+   "note_time": 14.5
+  },
+  {
+   "text": "chang",
+   "time": 15.24,
+   "weight": 0.85,
+   "note_time": 14.67
+  },
+  {
+   "text": "ers",
+   "time": 15.57,
+   "weight": 0.85,
+   "note_time": 15.0
+  },
+  {
+   "text": "at",
+   "time": 15.9,
+   "weight": 0.99,
+   "note_time": 15.17
+  },
+  {
+   "text": "their",
+   "time": 16.12,
+   "weight": 0.99,
+   "note_time": 15.5
+  },
+  {
+   "text": "ta",
+   "time": 16.38,
+   "weight": 0.98,
+   "note_time": 15.83
+  },
+  {
+   "text": "bles",
+   "time": 16.72,
+   "weight": 0.98,
+   "note_time": 16.17
+  },
+  {
+   "text": "Cat",
+   "time": 17.06,
+   "weight": 0.98,
+   "note_time": 16.67
+  },
+  {
+   "text": "tle,",
+   "time": 17.39,
+   "weight": 0.98,
+   "note_time": 16.83
+  },
+  {
+   "text": "sheep",
+   "time": 17.78,
+   "weight": 0.99,
+   "note_time": 17.33
+  },
+  {
+   "text": "and",
+   "time": 18.12,
+   "weight": 0.68,
+   "note_time": 17.5
+  },
+  {
+   "text": "doves",
+   "time": 18.42,
+   "weight": 0.99,
+   "note_time": 17.83
+  },
+  {
+   "text": "for",
+   "time": 18.9,
+   "weight": 0.99,
+   "note_time": 18.33
+  },
+  {
+   "text": "sale",
+   "time": 19.18,
+   "weight": 1.0,
+   "note_time": 18.5
+  },
+  {
+   "text": "In",
+   "time": 19.56,
+   "weight": 0.93,
+   "note_time": 19.67
+  },
+  {
+   "text": "the",
+   "time": 20.58,
+   "weight": 1.0,
+   "note_time": 19.83
+  },
+  {
+   "text": "courts",
+   "time": 20.66,
+   "weight": 0.94,
+   "note_time": 20.0
+  },
+  {
+   "text": "of",
+   "time": 21.14,
+   "weight": 1.0,
+   "note_time": 20.5
+  },
+  {
+   "text": "the",
+   "time": 21.48,
+   "weight": 1.0,
+   "note_time": 21.0
+  },
+  {
+   "text": "tem",
+   "time": 21.82,
+   "weight": 0.58,
+   "note_time": 21.17
+  },
+  {
+   "text": "ple",
+   "time": 22.07,
+   "weight": 0.58,
+   "note_time": 21.5
+  },
+  {
+   "text": "He",
+   "time": 32.34,
+   "weight": 0.89,
+   "note_time": 32.33
+  },
+  {
+   "text": "made",
+   "time": 33.1,
+   "weight": 1.0,
+   "note_time": 32.67
+  },
+  {
+   "text": "a",
+   "time": 33.5,
+   "weight": 1.0,
+   "note_time": 33.0
+  },
+  {
+   "text": "whip",
+   "time": 33.88,
+   "weight": 0.97,
+   "note_time": 33.17
+  },
+  {
+   "text": "out",
+   "time": 34.12,
+   "weight": 0.94,
+   "note_time": 34.0
+  },
+  {
+   "text": "of",
+   "time": 34.88,
+   "weight": 1.0,
+   "note_time": 34.17
+  },
+  {
+   "text": "cords",
+   "time": 35.14,
+   "weight": 0.74,
+   "note_time": 34.5
+  },
+  {
+   "text": "Drove",
+   "time": 35.52,
+   "weight": 0.71,
+   "note_time": 35.33
+  },
+  {
+   "text": "them",
+   "time": 36.38,
+   "weight": 0.99,
+   "note_time": 35.67
+  },
+  {
+   "text": "out",
+   "time": 36.56,
+   "weight": 1.0,
+   "note_time": 35.83
+  },
+  {
+   "text": "with",
+   "time": 36.92,
+   "weight": 1.0,
+   "note_time": 36.33
+  },
+  {
+   "text": "all",
+   "time": 37.22,
+   "weight": 1.0,
+   "note_time": 36.5
+  },
+  {
+   "text": "their",
+   "time": 37.44,
+   "weight": 1.0,
+   "note_time": 36.83
+  },
+  {
+   "text": "cat",
+   "time": 37.74,
+   "weight": 0.99,
+   "note_time": 37.17
+  },
+  {
+   "text": "tle",
+   "time": 38.03,
+   "weight": 0.99,
+   "note_time": 37.5
+  },
+  {
+   "text": "Scat",
+   "time": 38.32,
+   "weight": 0.99,
+   "note_time": 38.0
+  },
+  {
+   "text": "tered",
+   "time": 38.67,
+   "weight": 0.99,
+   "note_time": 38.17
+  },
+  {
+   "text": "coins",
+   "time": 39.02,
+   "weight": 0.99,
+   "note_time": 38.67
+  },
+  {
+   "text": "ac",
+   "time": 39.56,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "ross",
+   "time": 39.76,
+   "weight": 1.0,
+   "note_time": 39.17
+  },
+  {
+   "text": "the",
+   "time": 39.96,
+   "weight": 1.0,
+   "note_time": 39.67
+  },
+  {
+   "text": "floor",
+   "time": 40.48,
+   "weight": 1.0,
+   "note_time": 39.83
+  },
+  {
+   "text": "Over",
+   "time": 42.18,
+   "weight": 0.97,
+   "note_time": 41.33
+  },
+  {
+   "text": "tur",
+   "time": 42.43,
+   "weight": 0.97,
+   "note_time": 41.67
+  },
+  {
+   "text": "ned",
+   "time": 42.69,
+   "weight": 0.97,
+   "note_time": 41.83
+  },
+  {
+   "text": "their",
+   "time": 42.94,
+   "weight": 1.0,
+   "note_time": 42.17
+  },
+  {
+   "text": "ta",
+   "time": 43.04,
+   "weight": 0.99,
+   "note_time": 42.5
+  },
+  {
+   "text": "bles",
+   "time": 43.35,
+   "weight": 0.99,
+   "note_time": 42.83
+  },
+  {
+   "text": "Get",
+   "time": 43.66,
+   "weight": 0.95,
+   "note_time": 43.33
+  },
+  {
+   "text": "it",
+   "time": 44.24,
+   "weight": 1.0,
+   "note_time": 43.67
+  },
+  {
+   "text": "out,",
+   "time": 44.54,
+   "weight": 1.0,
+   "note_time": 43.83
+  },
+  {
+   "text": "get",
+   "time": 45.08,
+   "weight": 1.0,
+   "note_time": 44.67
+  },
+  {
+   "text": "it",
+   "time": 45.48,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "out",
+   "time": 45.92,
+   "weight": 0.91,
+   "note_time": 45.17
+  },
+  {
+   "text": "of",
+   "time": 46.38,
+   "weight": 1.0,
+   "note_time": 45.67
+  },
+  {
+   "text": "here",
+   "time": 46.54,
+   "weight": 1.0,
+   "note_time": 45.83
+  },
+  {
+   "text": "Not",
+   "time": 46.84,
+   "weight": 0.99,
+   "note_time": 46.67
+  },
+  {
+   "text": "a",
+   "time": 47.56,
+   "weight": 1.0,
+   "note_time": 47.0
+  },
+  {
+   "text": "mar",
+   "time": 47.84,
+   "weight": 0.95,
+   "note_time": 47.17
+  },
+  {
+   "text": "ket",
+   "time": 48.07,
+   "weight": 0.95,
+   "note_time": 47.5
+  },
+  {
+   "text": "place",
+   "time": 48.31,
+   "weight": 0.95,
+   "note_time": 47.83
+  },
+  {
+   "text": "My",
+   "time": 48.8,
+   "weight": 0.99,
+   "note_time": 48.33
+  },
+  {
+   "text": "Fa",
+   "time": 49.18,
+   "weight": 0.99,
+   "note_time": 48.67
+  },
+  {
+   "text": "ther's",
+   "time": 49.53,
+   "weight": 0.99,
+   "note_time": 48.83
+  },
+  {
+   "text": "house,",
+   "time": 49.88,
+   "weight": 1.0,
+   "note_time": 49.17
+  },
+  {
+   "text": "my",
+   "time": 50.18,
+   "weight": 0.43,
+   "note_time": 49.67
+  },
+  {
+   "text": "Fa",
+   "time": 50.5,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "ther's",
+   "time": 50.85,
+   "weight": 1.0,
+   "note_time": 50.17
+  },
+  {
+   "text": "house",
+   "time": 51.2,
+   "weight": 1.0,
+   "note_time": 50.5
+  },
+  {
+   "text": "Not",
+   "time": 53.12,
+   "weight": 0.48,
+   "note_time": 52.33
+  },
+  {
+   "text": "a",
+   "time": 53.12,
+   "weight": 1.0,
+   "note_time": 52.5
+  },
+  {
+   "text": "mar",
+   "time": 53.34,
+   "weight": 0.87,
+   "note_time": 52.67
+  },
+  {
+   "text": "ket",
+   "time": 53.49,
+   "weight": 0.87,
+   "note_time": 52.83
+  },
+  {
+   "text": "place",
+   "time": 53.65,
+   "weight": 0.87,
+   "note_time": 53.17
+  },
+  {
+   "text": "His",
+   "time": 59.14,
+   "weight": 0.72,
+   "note_time": 59.33
+  },
+  {
+   "text": "dis",
+   "time": 60.06,
+   "weight": 1.0,
+   "note_time": 59.67
+  },
+  {
+   "text": "ci",
+   "time": 60.31,
+   "weight": 1.0,
+   "note_time": 59.83
+  },
+  {
+   "text": "ples",
+   "time": 60.55,
+   "weight": 1.0,
+   "note_time": 60.5
+  },
+  {
+   "text": "re",
+   "time": 60.8,
+   "weight": 0.96,
+   "note_time": 61.0
+  },
+  {
+   "text": "mem",
+   "time": 61.15,
+   "weight": 0.96,
+   "note_time": 61.17
+  },
+  {
+   "text": "bered",
+   "time": 61.5,
+   "weight": 0.96,
+   "note_time": 61.5
+  },
+  {
+   "text": "What",
+   "time": 62.0,
+   "weight": 0.99,
+   "note_time": 62.0
+  },
+  {
+   "text": "was",
+   "time": 62.82,
+   "weight": 1.0,
+   "note_time": 62.33
+  },
+  {
+   "text": "writ",
+   "time": 63.28,
+   "weight": 0.95,
+   "note_time": 62.67
+  },
+  {
+   "text": "ten",
+   "time": 63.42,
+   "weight": 0.95,
+   "note_time": 62.83
+  },
+  {
+   "text": "long",
+   "time": 63.56,
+   "weight": 1.0,
+   "note_time": 63.33
+  },
+  {
+   "text": "a",
+   "time": 64.24,
+   "weight": 1.0,
+   "note_time": 63.67
+  },
+  {
+   "text": "go",
+   "time": 64.46,
+   "weight": 1.0,
+   "note_time": 63.83
+  },
+  {
+   "text": "Zeal",
+   "time": 64.68,
+   "weight": 0.55,
+   "note_time": 64.33
+  },
+  {
+   "text": "for",
+   "time": 65.24,
+   "weight": 1.0,
+   "note_time": 64.67
+  },
+  {
+   "text": "your",
+   "time": 65.42,
+   "weight": 1.0,
+   "note_time": 65.0
+  },
+  {
+   "text": "house",
+   "time": 65.8,
+   "weight": 1.0,
+   "note_time": 65.17
+  },
+  {
+   "text": "will",
+   "time": 66.24,
+   "weight": 0.99,
+   "note_time": 66.0
+  },
+  {
+   "text": "con",
+   "time": 66.8,
+   "weight": 1.0,
+   "note_time": 66.33
+  },
+  {
+   "text": "sume",
+   "time": 67.05,
+   "weight": 1.0,
+   "note_time": 66.5
+  },
+  {
+   "text": "me",
+   "time": 67.3,
+   "weight": 1.0,
+   "note_time": 66.83
+  },
+  {
+   "text": "Zeal",
+   "time": 69.64,
+   "weight": 0.84,
+   "note_time": 69.67
+  },
+  {
+   "text": "for",
+   "time": 70.56,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "your",
+   "time": 70.84,
+   "weight": 1.0,
+   "note_time": 70.33
+  },
+  {
+   "text": "house",
+   "time": 71.14,
+   "weight": 1.0,
+   "note_time": 70.5
+  },
+  {
+   "text": "will",
+   "time": 71.6,
+   "weight": 1.0,
+   "note_time": 71.33
+  },
+  {
+   "text": "con",
+   "time": 72.16,
+   "weight": 1.0,
+   "note_time": 71.67
+  },
+  {
+   "text": "sume",
+   "time": 72.4,
+   "weight": 1.0,
+   "note_time": 71.83
+  },
+  {
+   "text": "me",
+   "time": 72.64,
+   "weight": 1.0,
+   "note_time": 72.17
+  },
+  {
+   "text": "Get",
+   "time": 73.04,
+   "weight": 0.99,
+   "note_time": 72.67
+  },
+  {
+   "text": "it",
+   "time": 73.54,
+   "weight": 1.0,
+   "note_time": 73.0
+  },
+  {
+   "text": "out,",
+   "time": 73.86,
+   "weight": 1.0,
+   "note_time": 73.17
+  },
+  {
+   "text": "get",
+   "time": 74.4,
+   "weight": 1.0,
+   "note_time": 74.0
+  },
+  {
+   "text": "it",
+   "time": 74.8,
+   "weight": 1.0,
+   "note_time": 74.33
+  },
+  {
+   "text": "out",
+   "time": 75.18,
+   "weight": 0.89,
+   "note_time": 74.5
+  },
+  {
+   "text": "of",
+   "time": 75.66,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "here",
+   "time": 75.86,
+   "weight": 1.0,
+   "note_time": 75.17
+  },
+  {
+   "text": "Not",
+   "time": 76.1,
+   "weight": 0.87,
+   "note_time": 76.0
+  },
+  {
+   "text": "a",
+   "time": 76.86,
+   "weight": 1.0,
+   "note_time": 76.33
+  },
+  {
+   "text": "mar",
+   "time": 77.16,
+   "weight": 1.0,
+   "note_time": 76.5
+  },
+  {
+   "text": "ket",
+   "time": 77.33,
+   "weight": 1.0,
+   "note_time": 76.83
+  },
+  {
+   "text": "place",
+   "time": 77.49,
+   "weight": 1.0,
+   "note_time": 77.17
+  },
+  {
+   "text": "My",
+   "time": 77.66,
+   "weight": 0.66,
+   "note_time": 77.67
+  },
+  {
+   "text": "Fa",
+   "time": 78.5,
+   "weight": 1.0,
+   "note_time": 78.0
+  },
+  {
+   "text": "ther's",
+   "time": 78.85,
+   "weight": 1.0,
+   "note_time": 78.17
+  },
+  {
+   "text": "house,",
+   "time": 79.22,
+   "weight": 1.0,
+   "note_time": 78.5
+  },
+  {
+   "text": "my",
+   "time": 79.66,
+   "weight": 1.0,
+   "note_time": 79.0
+  },
+  {
+   "text": "Fa",
+   "time": 79.92,
+   "weight": 1.0,
+   "note_time": 79.33
+  },
+  {
+   "text": "ther's",
+   "time": 80.23,
+   "weight": 1.0,
+   "note_time": 79.5
+  },
+  {
+   "text": "house",
+   "time": 80.54,
+   "weight": 1.0,
+   "note_time": 79.83
+  },
+  {
+   "text": "Not",
+   "time": 81.06,
+   "weight": 0.9,
+   "note_time": 81.67
+  },
+  {
+   "text": "a",
+   "time": 82.5,
+   "weight": 0.99,
+   "note_time": 81.83
+  },
+  {
+   "text": "mar",
+   "time": 82.64,
+   "weight": 0.92,
+   "note_time": 82.0
+  },
+  {
+   "text": "ket",
+   "time": 82.81,
+   "weight": 0.92,
+   "note_time": 82.17
+  },
+  {
+   "text": "place",
+   "time": 82.99,
+   "weight": 0.92,
+   "note_time": 82.5
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 20 lyric lines sit on their notes."
+}

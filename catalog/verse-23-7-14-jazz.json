@@ -1,0 +1,49 @@
+{
+  "id": "verse-23-7-14-jazz",
+  "title": "Immanuel",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 7,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 7,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "salvation"
+    ],
+    "themes": [
+      "nade",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female mezzo-soprano solo with gentle choir, upright bass, brushed drums, piano, saxophone, mellow mood, 90 BPM",
+    "lyrics": "[Verse]\nHouse of David, listen now\nPatience worn thin by the crowd\nDo not weary your God again\nAsk for a sign, deep or high\nAhaz refuses the test\nWill not put the Lord to trial\nThen the prophet speaks aloud\nThe Lord himself will give you proof\n\n[Chorus]\nSee, the virgin will conceive\nGive birth to a son, she says\nAnd she will call him Immanuel\nThe sign is given, clear and true\nGod is with us, the name reveals\nA promise standing in the street\nThe virgin will conceive\nShe will give birth to a son\nAnd she will call him Immanuel\n\n[Verse]\nHe will eat curds and honey\nWhen he knows enough to choose\nReject the wrong, select the right\nBefore he walks in full understanding\nThe land of the two kings you dread\nWill be laid waste, broken down\nDays like none since Ephraim left\nThe king of Assyria shall come\n\n[Chorus]\nSee, the virgin will conceive\nGive birth to a son, she says\nAnd she will call him Immanuel\nThe sign is given, clear and true\nGod is with us, the name reveals\nA promise standing in the street\nThe virgin will conceive\nShe will give birth to a son\nAnd she will call him Immanuel\n\n[Outro]\nImmanuel, God with us\nThe sign remains, the promise stands",
+    "cot": "full",
+    "seed": 20323
+  }
+}

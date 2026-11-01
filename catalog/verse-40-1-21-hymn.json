@@ -1,0 +1,50 @@
+{
+  "id": "verse-40-1-21-hymn",
+  "title": "He Will Save His People",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 1,
+    "verseStart": 21,
+    "verseEnd": 21
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "den-hellige-and",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with warm choir, acoustic piano, cello, harp, soft strings, reverent and hopeful, 72 BPM",
+    "lyrics": "[Verse]\nMary was betrothed to Joseph\nPregnant before they came together\nThrough the Holy Spirit she conceived\nA child of promise yet to be\n\nJoseph was a man of righteousness\nHe chose to hide her from disgrace\nTo divorce her quietly in secret\nBut God had a different way\n\n[Pre-Chorus]\nAn angel spoke in his dream\nJoseph son of David do not be afraid\nTake Mary home as your wife\nFor the child is from the Holy Spirit\n\n[Chorus]\nShe will give birth to a son\nAnd you are to name him Jesus\nFor he will save his people\nFrom their sins this is the news\n\n[Verse]\nAll this happened to fulfill\nWhat the Lord spoke through the prophet\nBehold the virgin will conceive\nAnd give birth to a son indeed\n\nThey will call him Immanuel\nWhich means God with us is here\nWhen Joseph woke from his sleep\nHe took her home as commanded\n\n[Chorus]\nShe will give birth to a son\nAnd you are to name him Jesus\nFor he will save his people\nFrom their sins this is the news\n\n[Chorus]\nShe will give birth to a son\nAnd you are to name him Jesus\nFor he will save his people\nFrom their sins this is the news\n\n[Bridge]\nGod with us in the humble birth\nThe promise kept in the heart\nJesus the savior for all\nIn his love and his art\n\n[Outro]\nHe will save his people\nFrom their sins\nJesus the name we know\nGod with us today",
+    "cot": "full",
+    "seed": 20324
+  }
+}

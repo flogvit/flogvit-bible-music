@@ -1,0 +1,45 @@
+{
+  "id": "verse-23-40-3-blues",
+  "title": "In the wilderness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 40,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male, deep baritone, solo, slide guitar, upright bass, brushed drums, slow blues, melancholic, 72 BPM",
+    "lyrics": "[Verse]\nComfort falls like morning light\nYour God speaks to the soul tonight\nSpeak tenderly to the city gate\nHer hard service is paid and late\n\n[Verse]\nGuilt is washed away in the rain\nDouble payment for the pain\nA voice cries out through the night\nPrepare the way in the light\n\n[Chorus]\nIn the wilderness prepare the way\nMake straight in the desert a highway for our God\nEvery valley lifted high\nMountains made low to the sky\n\n[Verse]\nRugged ground becomes a plain\nRough places smoothed by His name\nThe glory of the Lord is seen\nAll flesh together in the green\n\n[Chorus]\nIn the wilderness prepare the way\nMake straight in the desert a highway for our God\nEvery valley lifted high\nMountains made low to the sky\n\n[Bridge]\nA voice says cry out loud\nWhat shall I cry in this crowd\nAll flesh is grass and flower\nFading like dust on the power\n\n[Chorus]\nIn the wilderness prepare the way\nMake straight in the desert a highway for our God\nEvery valley lifted high\nMountains made low to the sky\n\n[Outro]\nThe mouth of the Lord has spoken\nComfort is never broken",
+    "cot": "full",
+    "seed": 20321
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "verse-23-11-1-worship",
+  "title": "The Shoot from Jesse",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 11,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, piano, acoustic guitar, cello, warm strings, hopeful and majestic, 72 BPM",
+    "lyrics": "[Verse]\nA shoot will come up from the stump of Jesse\nFrom his roots a branch will bear fruit\nThe Spirit of the LORD will rest on him\nWisdom and understanding fill his view\n\n[Chorus]\nThe Spirit of counsel and might\nThe Spirit of knowledge and the fear of the LORD\nHis delight will be in the fear of the LORD\nRighteousness and justice are his song\n\n[Verse]\nHe will not judge by what his eyes see\nNor decide by what his ears hear\nWith righteousness he will judge the poor\nAnd with justice decide for the lowly of the earth\n\n[Chorus]\nThe Spirit of counsel and might\nThe Spirit of knowledge and the fear of the LORD\nHis delight will be in the fear of the LORD\nRighteousness and justice are his song\n\n[Bridge]\nRighteousness will be the belt around his waist\nFaithfulness the sash around his hips\nHe will strike the earth with the rod of his mouth\nAnd slay the wicked with the breath of his lips\n\n[Outro]\nA shoot from the stump of Jesse\nA branch bearing fruit\nThe Spirit rests on him",
+    "cot": "full",
+    "seed": 20320
+  }
+}

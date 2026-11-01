@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-98-1-acoustic",
+  "title": "Sing a New Song",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 98,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 98,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, warm and reverent, acoustic guitar, piano, cello, light percussion, hopeful and joyful, 90 BPM",
+    "lyrics": "[Verse]\nSing to the LORD a new song\nHe has done great wonders today\nHis right hand and holy arm\nHave won him victory in light\n\n[Pre-Chorus]\nThe LORD has made his salvation known\nRevealed his righteousness clear\nBefore the eyes of all nations\nHis truth is now appearing here\n\n[Chorus]\nSing to the LORD a new song\nShout for joy to all the earth\nAll the ends have seen the light\nSalvation of our God is worth\n\n[Verse]\nHe has remembered his mercy\nHis faithfulness to Israel\nThe whole world has seen the way\nHis love is fully revealed\n\n[Pre-Chorus]\nThe LORD has made his salvation known\nRevealed his righteousness clear\nBefore the eyes of all nations\nHis truth is now appearing here\n\n[Chorus]\nSing to the LORD a new song\nShout for joy to all the earth\nAll the ends have seen the light\nSalvation of our God is worth\n\n[Bridge]\nMake music to the LORD with lyre\nWith the sound of sweet song\nWith trumpets and ram's horn shout\nBefore the King, the Lord\n\n[Outro]\nSing to the LORD a new song\nHis victory is forever strong",
+    "cot": "full",
+    "seed": 20319
+  }
+}

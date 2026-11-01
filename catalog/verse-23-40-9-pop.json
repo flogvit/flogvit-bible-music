@@ -1,0 +1,45 @@
+{
+  "id": "verse-23-40-9-pop",
+  "title": "Here Is Your God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 40,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 40,
+      "verseStart": 9,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, piano, strings, acoustic guitar, cello, hopeful and majestic, 84 BPM",
+    "lyrics": "[Verse]\nThe voice cries out to speak\nAll flesh is just like grass\nIts beauty fades so fast\nThe flower dies in the field\n\n[Verse]\nThe breath of the Lord blows on it\nSurely the people are grass\nThe word of our God stands forever\nIt will not fade away\n\n[Pre-Chorus]\nGo up on a high mountain\nYou who bring good news to Zion\nLift up your voice with strength\nDo not be afraid at all\n\n[Chorus]\nSay to the cities of Judah\nHere is your God\nBehold there is their God\nHere is your God\n\n[Verse]\nSee the Lord comes with power\nHis arm rules for him\nHis reward is with him\nHis recompense goes before him\n\n[Chorus]\nSay to the cities of Judah\nHere is your God\nBehold there is their God\nHere is your God\n\n[Bridge]\nHe gathers the lambs in his arms\nCarries them close to his heart\nGently leads the nursing ewes\nHe tends his flock like a shepherd\n\n[Outro]\nHere is your God\nHere is your God",
+    "cot": "full",
+    "seed": 20322
+  }
+}

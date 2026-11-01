@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-9-1-country",
+  "title": "With All My Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 9,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, solo with gospel choir, acoustic guitar, upright bass, piano, drums, fiddle, warm and reverent, 90 BPM",
+    "lyrics": "[Verse]\nI will thank the LORD with all my heart\nI will tell of all your wonders\nYou are the Most High, the judge of earth\nMy enemies turn back and lose their grounders\n\n[Pre-Chorus]\nThey stumble and perish before your face\nYou have upheld my right in this place\n\n[Chorus]\nWith all my heart I sing your praise\nRejoicing in the joy of your days\nI will tell of all your wonders\nWith all my heart I stand\n\n[Verse]\nYou have taken your seat on the throne\nA righteous judge who is known\nMy cause is upheld in your light\nMy enemies are gone from sight\n\n[Pre-Chorus]\nThey stumble and perish before your face\nYou have upheld my right in this place\n\n[Chorus]\nWith all my heart I sing your praise\nRejoicing in the joy of your days\nI will tell of all your wonders\nWith all my heart I stand\n\n[Bridge]\nGlad and rejoice in you alone\nYour name is holy, your love is known\n\n[Chorus]\nWith all my heart I sing your praise\nRejoicing in the joy of your days\nI will tell of all your wonders\nWith all my heart I stand",
+    "cot": "full",
+    "seed": 20318
+  }
+}

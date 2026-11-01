@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-85-9-celtic",
+  "title": "Steadfast Love",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 85,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 85,
+      "verseStart": 9,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with soft celtic choir, harp, fiddle, bodhran, flute, ethereal, 90 BPM",
+    "lyrics": "[Verse]\nWill you be angry with us forever\nProlong your anger through all generations\nWill you not revive us again\nSo your people may rejoice in you\n\n[Chorus]\nSteadfast love and faithfulness have met\nRighteousness and peace have kissed\nFaithfulness springs up from the earth\nRighteousness looks down from heaven\n\n[Verse]\nShow us your steadfast love Lord\nGrant us your salvation now\nLet me hear what God the Lord will speak\nHe will speak peace to his people\n\n[Chorus]\nSteadfast love and faithfulness have met\nRighteousness and peace have kissed\nFaithfulness springs up from the earth\nRighteousness looks down from heaven\n\n[Bridge]\nTo his faithful ones let them not turn back\nThey must not turn back to folly\nSurely his salvation is near to those\nWho fear him and dwell in his land\n\n[Chorus]\nSteadfast love and faithfulness have met\nRighteousness and peace have kissed\nFaithfulness springs up from the earth\nRighteousness looks down from heaven\n\n[Outro]\nThat glory may dwell in our land\nPeace to his people",
+    "cot": "full",
+    "seed": 20317
+  }
+}

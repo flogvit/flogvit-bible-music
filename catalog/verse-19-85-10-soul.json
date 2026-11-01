@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-85-10-soul",
+  "title": "Steadfast Love and Faithfulness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 85,
+    "verseStart": 10,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 85,
+      "verseStart": 10,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "nade",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, female solo with gospel choir, acoustic piano, cello, warm strings, soft drums, hopeful and tender, 78 BPM",
+    "lyrics": "[Verse]\nGrace and truth have finally met\nRighteousness and peace have kissed\nSalvation is close for the ones who fear\nGlory is dwelling right here\n\n[Chorus]\nSteadfast love and faithfulness met\nRighteousness and peace have kissed\nFaithfulness springs up from the ground\nRighteousness looks down from on high\n\n[Verse]\nThe Lord himself will give what is good\nOur land will yield its increase\nRighteousness goes before him\nMaking a path for his steps\n\n[Chorus]\nSteadfast love and faithfulness met\nRighteousness and peace have kissed\nFaithfulness springs up from the ground\nRighteousness looks down from on high\n\n[Chorus]\nSteadfast love and faithfulness met\nRighteousness and peace have kissed\nFaithfulness springs up from the ground\nRighteousness looks down from on high\n\n[Outro]\nGrace and truth have met\nPeace and justice kiss",
+    "cot": "full",
+    "seed": 20315
+  }
+}

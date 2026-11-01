@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-85-11-ballad",
+  "title": "Steadfast Love and Faithfulness Have Met",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 85,
+    "verseStart": 11,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 85,
+      "verseStart": 11,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, piano, cello, acoustic guitar, soft strings, uplifting ballad, 80 BPM",
+    "lyrics": "[Verse]\nShow us your steadfast love, O Lord\nGrant us your salvation now\nI will hear what God the Lord will speak\nPeace to his people, his faithful ones\n\n[Pre-Chorus]\nLet them not turn back to folly\nHis salvation is near to those who fear him\nThat glory may dwell in our land\n\n[Chorus]\nSteadfast love and faithfulness have met\nRighteousness and peace have kissed\nFaithfulness springs up from the earth\nRighteousness looks down from heaven\n\n[Verse]\nThe Lord himself will give what is good\nOur land will yield its increase\nRighteousness goes before him\nMakes a path for his steps\n\n[Chorus]\nSteadfast love and faithfulness have met\nRighteousness and peace have kissed\nFaithfulness springs up from the earth\nRighteousness looks down from heaven\n\n[Bridge]\nGlory dwells in the land\nPeace speaks to the faithful\nSalvation is near\nSteadfast love abides\n\n[Chorus]\nSteadfast love and faithfulness have met\nRighteousness and peace have kissed\nFaithfulness springs up from the earth\nRighteousness looks down from heaven\n\n[Outro]\nRighteousness goes before him\nAnd makes a path for his steps",
+    "cot": "full",
+    "seed": 20316
+  }
+}

@@ -1,0 +1,942 @@
+{
+ "id": "theme-den-hellige-and-edm",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/theme-den-hellige-and-edm",
+ "offset_seconds": -2.6400000000001995,
+ "words_heard": 97,
+ "words": 109,
+ "lines": [
+  {
+   "text": "Like a rushing mighty wind",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Filling every room",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tongues of fire on every head",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Spirit, fall on us too",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The wind blows where it wants to",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We hear it but don't know where it goes",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come, Holy Spirit, come",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Wind and fire, fall on us",
+   "heard": 3,
+   "words": 6,
+   "error_s": 4.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Come, Holy Spirit, come",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Wind and fire, fall on us",
+   "heard": 3,
+   "words": 6,
+   "error_s": 4.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "All of them were filled",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.02,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Speaking every tongue",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Every nation hears his name",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The new day has begun",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The wind blows where it wants to",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We hear it but don't know where it goes",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come, Holy Spirit, come",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Wind and fire, fall on us",
+   "heard": 3,
+   "words": 6,
+   "error_s": 1.48,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Come, Holy Spirit, come",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Wind and fire, fall on us",
+   "heard": 3,
+   "words": 6,
+   "error_s": 3.93,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Like",
+   "time": 19.64,
+   "weight": 0.64,
+   "note_time": 19.69
+  },
+  {
+   "text": "a",
+   "time": 21.04,
+   "weight": 0.98,
+   "note_time": 19.92
+  },
+  {
+   "text": "rush",
+   "time": 21.32,
+   "weight": 0.66,
+   "note_time": 20.39
+  },
+  {
+   "text": "ing",
+   "time": 21.67,
+   "weight": 0.66,
+   "note_time": 20.86
+  },
+  {
+   "text": "mig",
+   "time": 22.18,
+   "weight": 0.82,
+   "note_time": 21.33
+  },
+  {
+   "text": "hty",
+   "time": 22.53,
+   "weight": 0.82,
+   "note_time": 21.8
+  },
+  {
+   "text": "wind",
+   "time": 22.92,
+   "weight": 1.0,
+   "note_time": 22.27
+  },
+  {
+   "text": "Fill",
+   "time": 28.36,
+   "weight": 0.89,
+   "note_time": 28.12
+  },
+  {
+   "text": "ing",
+   "time": 28.71,
+   "weight": 0.89,
+   "note_time": 28.36
+  },
+  {
+   "text": "ev",
+   "time": 29.76,
+   "weight": 0.99,
+   "note_time": 28.83
+  },
+  {
+   "text": "ery",
+   "time": 30.08,
+   "weight": 0.99,
+   "note_time": 29.3
+  },
+  {
+   "text": "room",
+   "time": 30.4,
+   "weight": 0.85,
+   "note_time": 29.53
+  },
+  {
+   "text": "Tongues",
+   "time": 34.96,
+   "weight": 0.5,
+   "note_time": 34.69
+  },
+  {
+   "text": "of",
+   "time": 36.2,
+   "weight": 0.99,
+   "note_time": 35.39
+  },
+  {
+   "text": "fire",
+   "time": 36.36,
+   "weight": 0.97,
+   "note_time": 35.86
+  },
+  {
+   "text": "on",
+   "time": 37.06,
+   "weight": 0.74,
+   "note_time": 36.09
+  },
+  {
+   "text": "ev",
+   "time": 37.52,
+   "weight": 0.99,
+   "note_time": 36.33
+  },
+  {
+   "text": "ery",
+   "time": 37.83,
+   "weight": 0.99,
+   "note_time": 36.8
+  },
+  {
+   "text": "head",
+   "time": 38.14,
+   "weight": 0.9,
+   "note_time": 37.27
+  },
+  {
+   "text": "Spir",
+   "time": 42.06,
+   "weight": 0.81,
+   "note_time": 40.31
+  },
+  {
+   "text": "it,",
+   "time": 42.41,
+   "weight": 0.81,
+   "note_time": 40.55
+  },
+  {
+   "text": "fall",
+   "time": 43.3,
+   "weight": 0.97,
+   "note_time": 43.83
+  },
+  {
+   "text": "on",
+   "time": 44.54,
+   "weight": 1.0,
+   "note_time": 44.06
+  },
+  {
+   "text": "us",
+   "time": 45.28,
+   "weight": 1.0,
+   "note_time": 44.3
+  },
+  {
+   "text": "too",
+   "time": 45.88,
+   "weight": 0.93,
+   "note_time": 44.77
+  },
+  {
+   "text": "The",
+   "time": 49.6,
+   "weight": 0.97,
+   "note_time": 49.45
+  },
+  {
+   "text": "wind",
+   "time": 50.84,
+   "weight": 1.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "blows",
+   "time": 51.26,
+   "weight": 1.0,
+   "note_time": 51.56
+  },
+  {
+   "text": "where",
+   "time": 52.16,
+   "weight": 0.98,
+   "note_time": 51.8
+  },
+  {
+   "text": "it",
+   "time": 53.0,
+   "weight": 0.95,
+   "note_time": 52.03
+  },
+  {
+   "text": "wants",
+   "time": 53.42,
+   "weight": 1.0,
+   "note_time": 52.27
+  },
+  {
+   "text": "to",
+   "time": 53.88,
+   "weight": 1.0,
+   "note_time": 52.97
+  },
+  {
+   "text": "We",
+   "time": 56.82,
+   "weight": 0.44,
+   "note_time": 56.95
+  },
+  {
+   "text": "hear",
+   "time": 58.22,
+   "weight": 0.6,
+   "note_time": 57.42
+  },
+  {
+   "text": "it",
+   "time": 58.62,
+   "weight": 0.98,
+   "note_time": 57.66
+  },
+  {
+   "text": "but",
+   "time": 58.88,
+   "weight": 0.75,
+   "note_time": 58.12
+  },
+  {
+   "text": "don't",
+   "time": 59.06,
+   "weight": 0.99,
+   "note_time": 58.59
+  },
+  {
+   "text": "know",
+   "time": 59.72,
+   "weight": 0.99,
+   "note_time": 59.06
+  },
+  {
+   "text": "where",
+   "time": 60.0,
+   "weight": 1.0,
+   "note_time": 59.3
+  },
+  {
+   "text": "it",
+   "time": 60.48,
+   "weight": 1.0,
+   "note_time": 59.53
+  },
+  {
+   "text": "goes",
+   "time": 60.9,
+   "weight": 1.0,
+   "note_time": 59.77
+  },
+  {
+   "text": "Come,",
+   "time": 65.16,
+   "weight": 0.83,
+   "note_time": 63.75
+  },
+  {
+   "text": "Ho",
+   "time": 66.56,
+   "weight": 0.54,
+   "note_time": 63.98
+  },
+  {
+   "text": "ly",
+   "time": 66.91,
+   "weight": 0.54,
+   "note_time": 67.03
+  },
+  {
+   "text": "Spir",
+   "time": 67.96,
+   "weight": 0.97,
+   "note_time": 67.5
+  },
+  {
+   "text": "it,",
+   "time": 68.31,
+   "weight": 0.97,
+   "note_time": 68.2
+  },
+  {
+   "text": "come",
+   "time": 69.0,
+   "weight": 0.38,
+   "note_time": 68.44
+  },
+  {
+   "text": "Wind",
+   "time": 71.76,
+   "weight": 0.11,
+   "note_time": 70.31
+  },
+  {
+   "text": "and",
+   "time": 74.66,
+   "weight": 1.0,
+   "note_time": 70.55
+  },
+  {
+   "text": "fire,",
+   "time": 75.5,
+   "weight": 0.98,
+   "note_time": 70.78
+  },
+  {
+   "text": "fall",
+   "time": 76.71,
+   "weight": 0.0,
+   "note_time": 71.02
+  },
+  {
+   "text": "on",
+   "time": 77.91,
+   "weight": 0.0,
+   "note_time": 71.25
+  },
+  {
+   "text": "us",
+   "time": 79.12,
+   "weight": 0.0,
+   "note_time": 71.95
+  },
+  {
+   "text": "Come,",
+   "time": 80.32,
+   "weight": 0.48,
+   "note_time": 78.75
+  },
+  {
+   "text": "Ho",
+   "time": 81.72,
+   "weight": 0.92,
+   "note_time": 78.98
+  },
+  {
+   "text": "ly",
+   "time": 82.07,
+   "weight": 0.92,
+   "note_time": 82.03
+  },
+  {
+   "text": "Spir",
+   "time": 83.12,
+   "weight": 0.99,
+   "note_time": 82.5
+  },
+  {
+   "text": "it,",
+   "time": 83.47,
+   "weight": 0.99,
+   "note_time": 83.2
+  },
+  {
+   "text": "come",
+   "time": 84.02,
+   "weight": 0.32,
+   "note_time": 83.44
+  },
+  {
+   "text": "Wind",
+   "time": 87.6,
+   "weight": 0.32,
+   "note_time": 85.31
+  },
+  {
+   "text": "and",
+   "time": 89.68,
+   "weight": 1.0,
+   "note_time": 85.55
+  },
+  {
+   "text": "fire,",
+   "time": 90.48,
+   "weight": 0.99,
+   "note_time": 85.78
+  },
+  {
+   "text": "fall",
+   "time": 95.55,
+   "weight": 0.0,
+   "note_time": 86.02
+  },
+  {
+   "text": "on",
+   "time": 100.61,
+   "weight": 0.0,
+   "note_time": 86.25
+  },
+  {
+   "text": "us",
+   "time": 105.68,
+   "weight": 0.0,
+   "note_time": 86.95
+  },
+  {
+   "text": "All",
+   "time": 110.74,
+   "weight": 0.46,
+   "note_time": 110.62
+  },
+  {
+   "text": "of",
+   "time": 112.14,
+   "weight": 0.98,
+   "note_time": 110.86
+  },
+  {
+   "text": "them",
+   "time": 112.38,
+   "weight": 0.99,
+   "note_time": 111.33
+  },
+  {
+   "text": "were",
+   "time": 112.78,
+   "weight": 0.96,
+   "note_time": 111.8
+  },
+  {
+   "text": "filled",
+   "time": 113.18,
+   "weight": 0.86,
+   "note_time": 112.27
+  },
+  {
+   "text": "Spea",
+   "time": 118.12,
+   "weight": 0.6,
+   "note_time": 118.12
+  },
+  {
+   "text": "king",
+   "time": 118.47,
+   "weight": 0.6,
+   "note_time": 118.36
+  },
+  {
+   "text": "ev",
+   "time": 119.52,
+   "weight": 0.96,
+   "note_time": 118.83
+  },
+  {
+   "text": "ery",
+   "time": 119.87,
+   "weight": 0.96,
+   "note_time": 119.3
+  },
+  {
+   "text": "tongue",
+   "time": 120.38,
+   "weight": 0.78,
+   "note_time": 119.53
+  },
+  {
+   "text": "Ev",
+   "time": 124.84,
+   "weight": 0.99,
+   "note_time": 124.69
+  },
+  {
+   "text": "ery",
+   "time": 125.19,
+   "weight": 0.99,
+   "note_time": 124.92
+  },
+  {
+   "text": "na",
+   "time": 126.24,
+   "weight": 0.99,
+   "note_time": 125.39
+  },
+  {
+   "text": "tion",
+   "time": 126.59,
+   "weight": 0.99,
+   "note_time": 125.86
+  },
+  {
+   "text": "hears",
+   "time": 126.96,
+   "weight": 0.98,
+   "note_time": 126.33
+  },
+  {
+   "text": "his",
+   "time": 127.84,
+   "weight": 0.59,
+   "note_time": 126.8
+  },
+  {
+   "text": "name",
+   "time": 128.22,
+   "weight": 1.0,
+   "note_time": 127.27
+  },
+  {
+   "text": "The",
+   "time": 130.18,
+   "weight": 0.88,
+   "note_time": 130.08
+  },
+  {
+   "text": "new",
+   "time": 131.5,
+   "weight": 0.97,
+   "note_time": 130.31
+  },
+  {
+   "text": "day",
+   "time": 131.74,
+   "weight": 1.0,
+   "note_time": 130.78
+  },
+  {
+   "text": "has",
+   "time": 132.2,
+   "weight": 0.15,
+   "note_time": 133.83
+  },
+  {
+   "text": "be",
+   "time": 135.06,
+   "weight": 1.0,
+   "note_time": 134.3
+  },
+  {
+   "text": "gun",
+   "time": 135.41,
+   "weight": 1.0,
+   "note_time": 134.53
+  },
+  {
+   "text": "The",
+   "time": 139.58,
+   "weight": 0.2,
+   "note_time": 139.45
+  },
+  {
+   "text": "wind",
+   "time": 140.74,
+   "weight": 0.7,
+   "note_time": 140.62
+  },
+  {
+   "text": "blows",
+   "time": 141.28,
+   "weight": 0.96,
+   "note_time": 141.56
+  },
+  {
+   "text": "where",
+   "time": 142.26,
+   "weight": 0.93,
+   "note_time": 141.8
+  },
+  {
+   "text": "it",
+   "time": 143.0,
+   "weight": 0.65,
+   "note_time": 142.03
+  },
+  {
+   "text": "wants",
+   "time": 143.44,
+   "weight": 1.0,
+   "note_time": 142.27
+  },
+  {
+   "text": "to",
+   "time": 143.92,
+   "weight": 0.99,
+   "note_time": 142.97
+  },
+  {
+   "text": "We",
+   "time": 146.9,
+   "weight": 0.89,
+   "note_time": 146.95
+  },
+  {
+   "text": "hear",
+   "time": 148.06,
+   "weight": 0.99,
+   "note_time": 147.42
+  },
+  {
+   "text": "it",
+   "time": 148.64,
+   "weight": 1.0,
+   "note_time": 147.66
+  },
+  {
+   "text": "but",
+   "time": 148.9,
+   "weight": 0.88,
+   "note_time": 148.12
+  },
+  {
+   "text": "don't",
+   "time": 149.02,
+   "weight": 0.99,
+   "note_time": 148.59
+  },
+  {
+   "text": "know",
+   "time": 149.62,
+   "weight": 1.0,
+   "note_time": 149.06
+  },
+  {
+   "text": "where",
+   "time": 150.06,
+   "weight": 1.0,
+   "note_time": 149.3
+  },
+  {
+   "text": "it",
+   "time": 150.48,
+   "weight": 1.0,
+   "note_time": 149.53
+  },
+  {
+   "text": "goes",
+   "time": 150.88,
+   "weight": 1.0,
+   "note_time": 149.77
+  },
+  {
+   "text": "Come,",
+   "time": 155.9,
+   "weight": 0.98,
+   "note_time": 156.56
+  },
+  {
+   "text": "Ho",
+   "time": 157.06,
+   "weight": 0.95,
+   "note_time": 157.03
+  },
+  {
+   "text": "ly",
+   "time": 157.41,
+   "weight": 0.95,
+   "note_time": 157.5
+  },
+  {
+   "text": "Spir",
+   "time": 158.22,
+   "weight": 1.0,
+   "note_time": 158.2
+  },
+  {
+   "text": "it,",
+   "time": 158.57,
+   "weight": 1.0,
+   "note_time": 158.44
+  },
+  {
+   "text": "come",
+   "time": 159.82,
+   "weight": 0.38,
+   "note_time": 160.55
+  },
+  {
+   "text": "Wind",
+   "time": 162.04,
+   "weight": 0.39,
+   "note_time": 161.95
+  },
+  {
+   "text": "and",
+   "time": 164.62,
+   "weight": 1.0,
+   "note_time": 163.12
+  },
+  {
+   "text": "fire,",
+   "time": 165.52,
+   "weight": 0.99,
+   "note_time": 164.06
+  },
+  {
+   "text": "fall",
+   "time": 166.77,
+   "weight": 0.0,
+   "note_time": 165.0
+  },
+  {
+   "text": "on",
+   "time": 168.02,
+   "weight": 0.0,
+   "note_time": 168.75
+  },
+  {
+   "text": "us",
+   "time": 169.27,
+   "weight": 0.0,
+   "note_time": 168.98
+  },
+  {
+   "text": "Come,",
+   "time": 170.52,
+   "weight": 0.57,
+   "note_time": 171.56
+  },
+  {
+   "text": "Ho",
+   "time": 171.92,
+   "weight": 0.93,
+   "note_time": 172.03
+  },
+  {
+   "text": "ly",
+   "time": 172.27,
+   "weight": 0.93,
+   "note_time": 172.5
+  },
+  {
+   "text": "Spir",
+   "time": 173.32,
+   "weight": 1.0,
+   "note_time": 173.2
+  },
+  {
+   "text": "it,",
+   "time": 173.67,
+   "weight": 1.0,
+   "note_time": 173.44
+  },
+  {
+   "text": "come",
+   "time": 174.68,
+   "weight": 0.4,
+   "note_time": 175.55
+  },
+  {
+   "text": "Wind",
+   "time": 177.38,
+   "weight": 0.4,
+   "note_time": 175.78
+  },
+  {
+   "text": "and",
+   "time": 179.64,
+   "weight": 1.0,
+   "note_time": 176.02
+  },
+  {
+   "text": "fire,",
+   "time": 180.48,
+   "weight": 1.0,
+   "note_time": 176.25
+  },
+  {
+   "text": "fall",
+   "time": 180.88,
+   "weight": 0.0,
+   "note_time": 176.95
+  },
+  {
+   "text": "on",
+   "time": 181.28,
+   "weight": 0.0,
+   "note_time": 179.06
+  },
+  {
+   "text": "us",
+   "time": 181.68,
+   "weight": 0.0,
+   "note_time": 180.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "12 of 20 lyric lines sit clearly on their notes; 8 are uncertain and printed in grey italics."
+}

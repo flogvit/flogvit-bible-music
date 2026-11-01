@@ -1,0 +1,44 @@
+{
+  "id": "verse-42-1-46-gregorian",
+  "title": "Magnificat",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 1,
+    "verseStart": 46,
+    "verseEnd": 50
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 46,
+      "verseEnd": 50
+    }
+  ],
+  "tags": {
+    "style": [
+      "gregorian"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "maria-jesu-mor"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "vulgate",
+  "request": {
+    "style": "Latin, Gregorian chant, Magnificat sung in alternation between a solo cantor and a schola of male monks, no instruments, psalm tone with a gentle reciting note, abbey reverb, luminous and calm, 64 BPM",
+    "lyrics": "[Verse]\nMagnificat anima mea Dominum\net exsultavit spiritus meus\nin Deo salutari meo\n\n[Verse]\nQuia respexit humilitatem ancillae suae\necce enim ex hoc beatam me dicent\nomnes generationes\n\n[Verse]\nQuia fecit mihi magna qui potens est\net sanctum nomen ejus\net misericordia ejus a progenie in progenies\ntimentibus eum",
+    "cot": "full",
+    "seed": 31001
+  }
+}

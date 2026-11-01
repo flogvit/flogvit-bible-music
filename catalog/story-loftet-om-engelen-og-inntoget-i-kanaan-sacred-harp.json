@@ -1,0 +1,58 @@
+{
+  "id": "story-loftet-om-engelen-og-inntoget-i-kanaan-sacred-harp",
+  "title": "Over Jordan",
+  "kind": "story",
+  "anchor": {
+    "story": "loftet-om-engelen-og-inntoget-i-kanaan"
+  },
+  "references": [
+    {
+      "bookId": 6,
+      "chapter": 3,
+      "verseStart": 14,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 5,
+      "chapter": 34,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "sacred-harp"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "moses",
+      "hap"
+    ],
+    "stories": [
+      "loftet-om-engelen-og-inntoget-i-kanaan"
+    ],
+    "persons": [
+      "moses",
+      "josva"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, Sacred Harp fuguing tune, a loud rugged four-part congregation, the parts entering one after another in the second half of every verse, no instruments, major key with open fifths, driving and hopeful, 4/4, 104 BPM",
+    "lyrics": "[Verse]\nOn Nebo's height old Moses stood\nAnd looked on Canaan's land\nThe Lord showed him the promised good\nLaid out on every hand\n\n[Verse]\nThe priests went down to Jordan's flood\nThe ark upon their shoulders high\nThe waters stood up where they stood\nAnd Israel passed by dry\n\n[Verse]\nSo when I come to Jordan's side\nAnd hear the waters roar\nThe Lord will part the swelling tide\nAnd lead me safely o'er\n\n[Verse]\nThen I shall stand on Canaan's ground\nAnd see the promised land\nWhere milk and honey flow around\nAt God's own right hand",
+    "cot": "full",
+    "seed": 31017
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "verse-66-19-6-anthem",
+  "title": "The Lord Our God Reigns",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 19,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 19,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 66,
+      "chapter": 19,
+      "verseStart": 6,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "anthem"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "endetiden"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, triumphant cinematic anthem, a massive choir, pipe organ and full orchestra with brass and timpani, a broad build to a thunderous final chorus, victorious major key, 96 BPM",
+    "lyrics": "[Verse]\nI heard what seemed to be the voice of a great multitude\nLike the roar of many waters\nAnd like the sound of mighty peals of thunder\nCrying out\n\n[Chorus]\nHallelujah, for the Lord our God\nThe Almighty reigns\nHallelujah, hallelujah\nThe Lord our God reigns\n\n[Verse]\nLet us rejoice and exult\nAnd give him the glory\nFor the marriage of the Lamb has come\nAnd his bride has made herself ready\n\n[Chorus]\nHallelujah, for the Lord our God\nThe Almighty reigns\nHallelujah, hallelujah\nThe Lord our God reigns",
+    "cot": "full",
+    "seed": 31102
+  }
+}

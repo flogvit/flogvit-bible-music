@@ -1,0 +1,46 @@
+{
+  "id": "story-hannas-bonn-og-samuels-vekst-middle-eastern",
+  "title": "My Heart Exults in the Lord",
+  "kind": "story",
+  "anchor": {
+    "story": "hannas-bonn-og-samuels-vekst"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "middle-eastern"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "ydmykhet"
+    ],
+    "stories": [
+      "hannas-bonn-og-samuels-vekst"
+    ],
+    "persons": [
+      "hanna"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ancient Middle Eastern song of thanksgiving, a woman's voice alone over an oud drone, then frame drums and women's voices join, Maqam Hijaz, slow then rising, 92 BPM",
+    "lyrics": "[Verse]\nMy heart exults in the Lord\nMy strength is lifted up in the Lord\nThere is none holy like the Lord\nThere is none besides you\n\n[Chorus]\nThe Lord brings low and he lifts up\nHe raises the poor from the dust\nHe lifts the needy from the ash heap\nTo sit with princes\n\n[Verse]\nThe bows of the mighty are broken\nThe feeble are clothed with strength\nThe barren has borne seven\nThe Lord kills and brings to life\n\n[Chorus]\nThe Lord brings low and he lifts up\nHe raises the poor from the dust\nHe lifts the needy from the ash heap\nTo sit with princes",
+    "cot": "full",
+    "seed": 31067
+  }
+}

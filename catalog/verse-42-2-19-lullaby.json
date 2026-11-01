@@ -1,0 +1,55 @@
+{
+  "id": "verse-42-2-19-lullaby",
+  "title": "Mary Kept These Things",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 19,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 16,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "lullaby"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [],
+    "persons": [
+      "maria-jesu-mor"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Christmas lullaby, a young mother's tender soprano, harp, celesta and soft strings, gently rocking 3/4, hushed and wondering, 58 BPM",
+    "lyrics": "[Verse]\nWrapped in cloth and laid in hay\nThere was no room for us to stay\nThe shepherds came and knelt to see\nThe baby sleeping close to me\n\n[Chorus]\nHush now, hush now, little King\nThe angels told me everything\nAnd I will keep these things and ponder\nIn my heart, in my heart\n\n[Verse]\nThey told of angels in the sky\nOf glory sung to God on high\nAnd all who heard it were amazed\nNow sleep while heaven gives you praise\n\n[Chorus]\nHush now, hush now, little King\nThe angels told me everything\nAnd I will keep these things and ponder\nIn my heart, in my heart",
+    "cot": "full",
+    "seed": 31094
+  }
+}

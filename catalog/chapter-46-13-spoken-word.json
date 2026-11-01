@@ -1,0 +1,42 @@
+{
+  "id": "chapter-46-13-spoken-word",
+  "title": "Love Is Patient",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 13
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "spoken-word"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, spoken word poetry, a woman speaking with quiet intensity over a sparse acoustic guitar and soft synth pad, a choir humming under the refrain, intimate, 72 BPM",
+    "lyrics": "[Verse]\nIf I speak in the tongues of men and of angels\nBut have not love\nI am a noisy gong, a clanging cymbal\nIf I have all faith, so as to remove mountains\nBut have not love, I am nothing\n\n[Chorus]\nLove is patient, love is kind\nLove never ends\n\n[Verse]\nLove does not envy or boast\nIt is not arrogant or rude\nIt does not insist on its own way\nIt bears all things, believes all things\nHopes all things, endures all things\n\n[Chorus]\nLove is patient, love is kind\nLove never ends\n\n[Verse]\nFor now we see in a mirror dimly\nBut then face to face\nNow I know in part, then I shall know fully\nSo now faith, hope and love abide, these three\nBut the greatest of these is love",
+    "cot": "full",
+    "seed": 31075
+  }
+}

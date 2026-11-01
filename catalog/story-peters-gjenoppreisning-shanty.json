@@ -1,0 +1,46 @@
+{
+  "id": "story-peters-gjenoppreisning-shanty",
+  "title": "Cast the Net on the Right Side",
+  "kind": "story",
+  "anchor": {
+    "story": "peters-gjenoppreisning"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 21,
+      "verseStart": 3,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "shanty"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "peter",
+      "oppstandelsen"
+    ],
+    "stories": [
+      "peters-gjenoppreisning"
+    ],
+    "persons": [
+      "peter"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, fishermen's work song, a crew of men singing with a lead, accordion, fiddle, bodhrán and foot stomps, steady pulling rhythm, hopeful and warm, 100 BPM",
+    "lyrics": "[Verse]\nI'm going fishing, Peter said\nAnd we went with him too\nAll night we fished on Galilee\nAnd not a fish came through\nAt dawn a man stood on the shore\nHave you any fish, my friends\nCast the net on the right side\nAnd you will find some then\n\n[Chorus]\nCast the net on the right side\nHaul it in, haul it in\nA hundred fifty three great fish\nAnd the net was not torn\n\n[Verse]\nIt is the Lord, said John to him\nAnd Peter jumped into the sea\nA fire of coals upon the beach\nWith fish and bread for free\nCome and have breakfast, Jesus said\nAnd no one dared to ask\nThey knew it was the Lord himself\nWho served them at the last\n\n[Chorus]\nCast the net on the right side\nHaul it in, haul it in\nA hundred fifty three great fish\nAnd the net was not torn",
+    "cot": "full",
+    "seed": 31097
+  }
+}

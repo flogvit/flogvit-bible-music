@@ -1,0 +1,51 @@
+{
+  "id": "chapter-19-90-sacred-harp",
+  "title": "Our Dwelling Place",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 90
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 90,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 19,
+      "chapter": 90,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "sacred-harp"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "visdom"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, Sacred Harp shape-note singing, a loud raw congregation in four parts, no instruments, bare open harmony in a minor key, slow and stern, 3/2 feel, 76 BPM",
+    "lyrics": "[Verse]\nLord, you have been our dwelling place\nThrough all the years gone by\nBefore the mountains rose in space\nYou were, and you are nigh\n\n[Verse]\nYou turn us back to dust again\nReturn, you sons of men\nA thousand years are in your sight\nLike yesterday, like a watch in the night\n\n[Verse]\nWe flourish like the morning grass\nBy evening it is dry\nSo teach us how our days will pass\nThat wise our hearts may lie\n\n[Verse]\nLord, you have been our dwelling place\nThrough all the years gone by\nBefore the mountains rose in space\nYou were, and you are nigh",
+    "cot": "full",
+    "seed": 31016
+  }
+}

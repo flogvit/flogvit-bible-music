@@ -1,0 +1,46 @@
+{
+  "id": "story-peter-helbreder-den-lamme-highlife",
+  "title": "Walking and Leaping",
+  "kind": "story",
+  "anchor": {
+    "story": "peter-helbreder-den-lamme"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "highlife"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "glede",
+      "peter"
+    ],
+    "stories": [
+      "peter-helbreder-den-lamme"
+    ],
+    "persons": [
+      "peter"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, West African highlife gospel, fast palm-wine guitar, horns, talking drum and handclaps, a male lead telling the story and the choir shouting the refrain, ecstatic, 132 BPM",
+    "lyrics": "[Verse]\nAt the Beautiful Gate of the temple\nSat a man who was lame from birth\nHe asked Peter and John for money\nLook at us, said Peter, look at us\n\n[Chorus]\nWalking and leaping and praising God\nWalking and leaping and praising God\nIn the name of Jesus, rise up and walk\nWalking and leaping and praising God\n\n[Verse]\nSilver and gold I do not have\nBut what I have I give to you\nPeter took him by the right hand\nHis feet and ankles were made strong\n\n[Chorus]\nWalking and leaping and praising God\nWalking and leaping and praising God\nIn the name of Jesus, rise up and walk\nWalking and leaping and praising God",
+    "cot": "full",
+    "seed": 31069
+  }
+}

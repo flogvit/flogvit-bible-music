@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-15-5-bhajan",
+  "title": "I Am the Vine",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 15,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 15,
+      "verseStart": 4,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "bhajan"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Indian Christian bhajan, harmonium and tanpura drone, tabla, flute, a female lead answered by a group, slow devotional opening gradually speeding up, 80 BPM",
+    "lyrics": "[Verse]\nI am the vine, you are the branches\nAbide in me, and I in you\nWhoever abides in me bears much fruit\nFor apart from me you can do nothing\n\n[Chorus]\nAbide in me, abide in me\nAbide in my love\nAbide in me, abide in me\nAbide in my love\n\n[Verse]\nAs the Father has loved me\nSo have I loved you\nBy this my Father is glorified\nThat you bear much fruit\n\n[Chorus]\nAbide in me, abide in me\nAbide in my love\nAbide in me, abide in me\nAbide in my love",
+    "cot": "full",
+    "seed": 31061
+  }
+}

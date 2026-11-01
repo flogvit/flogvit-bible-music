@@ -1,0 +1,44 @@
+{
+  "id": "verse-40-11-28-lofi",
+  "title": "Come to Me and Rest",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 11,
+    "verseStart": 28,
+    "verseEnd": 30
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 11,
+      "verseStart": 28,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "lofi"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lo-fi hip hop, rainy window ambience, mellow swung drums, jazzy guitar chords, a soft female vocal, late-night calm, 74 BPM",
+    "lyrics": "[Verse]\nLong day, heavy shoulders\nToo much on my mind\nHear a voice inside the quiet\nSaying leave it all behind\n\n[Chorus]\nCome to me, all you who are weary\nCome to me and I will give you rest\nMy yoke is easy and my burden light\nCome to me and rest\n\n[Verse]\nTake my yoke and learn from me\nI am gentle, lowly in heart\nYou will find rest for your souls\nRight here where you are\n\n[Chorus]\nCome to me, all you who are weary\nCome to me and I will give you rest\nMy yoke is easy and my burden light\nCome to me and rest",
+    "cot": "full",
+    "seed": 31088
+  }
+}

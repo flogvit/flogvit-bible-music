@@ -1,0 +1,46 @@
+{
+  "id": "story-moses-fodsel-lullaby",
+  "title": "Little Basket on the River",
+  "kind": "story",
+  "anchor": {
+    "story": "moses-fodsel"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "lullaby"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "moses"
+    ],
+    "stories": [
+      "moses-fodsel"
+    ],
+    "persons": [
+      "moses",
+      "miriam"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lullaby, a mother's soft breathy voice with a gentle oud and frame drum played softly, water sounds, slow rocking, tender and anxious, 3/4, 60 BPM",
+    "lyrics": "[Verse]\nThree months I hid you in the house\nI could not hide you any more\nI made a basket out of reeds\nAnd laid you by the river shore\n\n[Chorus]\nSleep, little one, on the river\nSleep in the basket of reeds\nThe Lord will watch you on the water\nSleep, little one, sleep\n\n[Verse]\nYour sister watches from afar\nTo see what will become of you\nThe daughter of the king comes down\nShe sees you crying, and she knew\n\n[Chorus]\nSleep, little one, on the river\nSleep in the basket of reeds\nThe Lord will watch you on the water\nSleep, little one, sleep",
+    "cot": "full",
+    "seed": 31095
+  }
+}

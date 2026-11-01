@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-34-4-mass-choir",
+  "title": "Magnify the Lord With Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 2,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "mass-choir"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary gospel worship ballad, a female soloist with a huge choir building behind her, Hammond organ, piano, bass and drums, slow build to a shouting climax with a key change, 72 BPM",
+    "lyrics": "[Verse]\nI will bless the Lord at all times\nHis praise shall always be in my mouth\nMy soul shall boast in the Lord\nLet the humble hear and be glad\n\n[Chorus]\nOh, magnify the Lord with me\nLet us exalt his name together\nOh, magnify the Lord with me\nLet us exalt his name\n\n[Verse]\nI sought the Lord and he answered me\nHe delivered me from all my fears\nThose who look to him are radiant\nTheir faces shall never be ashamed\n\n[Chorus]\nOh, magnify the Lord with me\nLet us exalt his name together\nOh, magnify the Lord with me\nLet us exalt his name\n\n[Bridge]\nTaste and see, taste and see\nThat the Lord is good\n\n[Chorus]\nOh, magnify the Lord with me\nLet us exalt his name together\nOh, magnify the Lord with me\nLet us exalt his name",
+    "cot": "full",
+    "seed": 31045
+  }
+}

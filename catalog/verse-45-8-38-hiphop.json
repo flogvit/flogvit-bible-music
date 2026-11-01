@@ -1,0 +1,45 @@
+{
+  "id": "verse-45-8-38-hiphop",
+  "title": "Nothing Can Separate",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 38,
+    "verseEnd": 39
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "hiphop"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Christian hip hop, a female rapper with a warm confident delivery, a soulful sung hook, boom bap drums, sampled gospel choir chops, jazzy bass, 92 BPM",
+    "lyrics": "[Verse]\nIf God is for us, tell me who can be against us\nHe didn't spare his Son, gave him up for all of us\nWho brings a charge, who condemns, who's the judge\nChrist died and rose, now he's interceding with love\nTrouble or hardship, persecution or hunger\nNakedness, danger, the sword pulling under\nIn all these things we are more than conquerors\nThrough him who loved us, yeah, that's the anchor\n\n[Chorus]\nNothing can separate us from the love of God\nNot death, not life, not angels, not powers\nNot height, not depth, nothing in all creation\nNothing can separate us from his love\n\n[Verse]\nI'm convinced in my bones and I'm sure in my soul\nNot things in the present or the future unknown\nNot the night that I cried or the day that I fell\nNot the voice in my head saying I couldn't be held\nI'm a child of the King, I'm called by his name\nHis love doesn't flicker, his love doesn't change\nSo I walk in the storm and I stand in the fire\nHeld by a love that is deeper and higher\n\n[Chorus]\nNothing can separate us from the love of God\nNot death, not life, not angels, not powers\nNot height, not depth, nothing in all creation\nNothing can separate us from his love",
+    "cot": "full",
+    "seed": 31072
+  }
+}

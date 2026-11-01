@@ -1,0 +1,46 @@
+{
+  "id": "verse-24-31-15-lament",
+  "title": "Rachel Weeping",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 24,
+    "chapter": 31,
+    "verseStart": 15,
+    "verseEnd": 15
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 31,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 40,
+      "chapter": 2,
+      "verseStart": 16,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "lament"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lament, a women's choir in low close harmony and a solo alto, a single drone and a tolling bell, very slow, minor mode, grief without comfort, 50 BPM",
+    "lyrics": "[Verse]\nA voice is heard in Ramah\nLamentation and bitter weeping\nRachel is weeping for her children\nShe refuses to be comforted\n\n[Chorus]\nBecause they are no more\nBecause they are no more\n\n[Verse]\nHerod was furious\nHe sent and killed all the boys in Bethlehem\nAnd in all that region\nTwo years old and under\n\n[Chorus]\nBecause they are no more\nBecause they are no more\n\n[Outro]\nRachel weeping for her children",
+    "cot": "full",
+    "seed": 31101
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "verse-42-2-14-childrens-choir",
+  "title": "Glory in the Highest",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "childrens-choir"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children's Christmas choir, a children's choir with a girl soloist, sleigh bells, glockenspiel, piano and strings, sparkling and happy, 104 BPM",
+    "lyrics": "[Verse]\nShepherds in the field at night\nWatching all their sheep\nAn angel came with shining light\nAnd woke them from their sleep\n\n[Chorus]\nGlory, glory in the highest\nPeace on earth tonight\nGlory, glory in the highest\nJesus Christ is born tonight\n\n[Verse]\nDo not be afraid, he said\nI bring you news of joy\nIn Bethlehem, a manger bed\nNow holds a baby boy\n\n[Chorus]\nGlory, glory in the highest\nPeace on earth tonight\nGlory, glory in the highest\nJesus Christ is born tonight",
+    "cot": "full",
+    "seed": 31107
+  }
+}

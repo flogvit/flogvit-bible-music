@@ -1,0 +1,664 @@
+{
+ "id": "theme-bonn-bhajan",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/theme-bonn-bhajan",
+ "offset_seconds": -2.4600000000002034,
+ "words_heard": 78,
+ "words": 78,
+ "lines": [
+  {
+   "text": "As the deer longs for water",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So my soul longs for you",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul thirsts for the living God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "When can I come to you",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Yeshu, Yeshu, my soul thirsts for you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.26,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Yeshu, Yeshu, my soul longs for you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In a dry and weary land",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where no water is",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Early I will seek your face",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul is yours",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yeshu, Yeshu, my soul thirsts for you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Yeshu, Yeshu, my soul longs for you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My soul thirsts for you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 3.46,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "As",
+   "time": 18.18,
+   "weight": 0.61,
+   "note_time": 18.35
+  },
+  {
+   "text": "the",
+   "time": 19.58,
+   "weight": 0.99,
+   "note_time": 19.76
+  },
+  {
+   "text": "deer",
+   "time": 20.04,
+   "weight": 0.97,
+   "note_time": 20.12
+  },
+  {
+   "text": "longs",
+   "time": 20.58,
+   "weight": 0.4,
+   "note_time": 20.47
+  },
+  {
+   "text": "for",
+   "time": 22.4,
+   "weight": 1.0,
+   "note_time": 20.82
+  },
+  {
+   "text": "wa",
+   "time": 22.44,
+   "weight": 1.0,
+   "note_time": 21.18
+  },
+  {
+   "text": "ter",
+   "time": 22.79,
+   "weight": 1.0,
+   "note_time": 21.88
+  },
+  {
+   "text": "So",
+   "time": 23.86,
+   "weight": 0.48,
+   "note_time": 23.29
+  },
+  {
+   "text": "my",
+   "time": 25.26,
+   "weight": 0.95,
+   "note_time": 25.41
+  },
+  {
+   "text": "soul",
+   "time": 25.72,
+   "weight": 0.99,
+   "note_time": 25.76
+  },
+  {
+   "text": "longs",
+   "time": 26.34,
+   "weight": 0.4,
+   "note_time": 26.12
+  },
+  {
+   "text": "for",
+   "time": 27.96,
+   "weight": 1.0,
+   "note_time": 26.47
+  },
+  {
+   "text": "you",
+   "time": 28.12,
+   "weight": 0.85,
+   "note_time": 26.82
+  },
+  {
+   "text": "My",
+   "time": 28.94,
+   "weight": 0.18,
+   "note_time": 28.94
+  },
+  {
+   "text": "soul",
+   "time": 31.0,
+   "weight": 0.96,
+   "note_time": 31.06
+  },
+  {
+   "text": "thirsts",
+   "time": 31.8,
+   "weight": 0.38,
+   "note_time": 31.41
+  },
+  {
+   "text": "for",
+   "time": 33.66,
+   "weight": 0.99,
+   "note_time": 31.76
+  },
+  {
+   "text": "the",
+   "time": 33.78,
+   "weight": 0.91,
+   "note_time": 32.12
+  },
+  {
+   "text": "liv",
+   "time": 34.1,
+   "weight": 0.8,
+   "note_time": 32.47
+  },
+  {
+   "text": "ing",
+   "time": 34.38,
+   "weight": 0.8,
+   "note_time": 32.82
+  },
+  {
+   "text": "God",
+   "time": 34.66,
+   "weight": 0.98,
+   "note_time": 33.18
+  },
+  {
+   "text": "When",
+   "time": 35.84,
+   "weight": 0.64,
+   "note_time": 34.59
+  },
+  {
+   "text": "can",
+   "time": 36.68,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "I",
+   "time": 37.36,
+   "weight": 1.0,
+   "note_time": 36.71
+  },
+  {
+   "text": "come",
+   "time": 38.24,
+   "weight": 1.0,
+   "note_time": 37.41
+  },
+  {
+   "text": "to",
+   "time": 38.86,
+   "weight": 1.0,
+   "note_time": 37.76
+  },
+  {
+   "text": "you",
+   "time": 39.48,
+   "weight": 0.6,
+   "note_time": 38.12
+  },
+  {
+   "text": "Yes",
+   "time": 41.5,
+   "weight": 0.53,
+   "note_time": 40.24
+  },
+  {
+   "text": "hu,",
+   "time": 41.85,
+   "weight": 0.53,
+   "note_time": 40.94
+  },
+  {
+   "text": "Yes",
+   "time": 43.32,
+   "weight": 0.39,
+   "note_time": 43.06
+  },
+  {
+   "text": "hu,",
+   "time": 43.67,
+   "weight": 0.39,
+   "note_time": 43.76
+  },
+  {
+   "text": "my",
+   "time": 45.52,
+   "weight": 0.38,
+   "note_time": 46.59
+  },
+  {
+   "text": "soul",
+   "time": 47.96,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "thirsts",
+   "time": 48.66,
+   "weight": 0.4,
+   "note_time": 48.71
+  },
+  {
+   "text": "for",
+   "time": 50.6,
+   "weight": 1.0,
+   "note_time": 49.06
+  },
+  {
+   "text": "you",
+   "time": 50.8,
+   "weight": 0.99,
+   "note_time": 49.41
+  },
+  {
+   "text": "Yes",
+   "time": 51.52,
+   "weight": 0.4,
+   "note_time": 51.53
+  },
+  {
+   "text": "hu,",
+   "time": 51.87,
+   "weight": 0.4,
+   "note_time": 51.88
+  },
+  {
+   "text": "Yes",
+   "time": 54.54,
+   "weight": 0.4,
+   "note_time": 54.35
+  },
+  {
+   "text": "hu,",
+   "time": 54.89,
+   "weight": 0.4,
+   "note_time": 55.06
+  },
+  {
+   "text": "my",
+   "time": 56.84,
+   "weight": 0.11,
+   "note_time": 57.88
+  },
+  {
+   "text": "soul",
+   "time": 59.12,
+   "weight": 0.83,
+   "note_time": 59.29
+  },
+  {
+   "text": "longs",
+   "time": 60.0,
+   "weight": 0.4,
+   "note_time": 60.0
+  },
+  {
+   "text": "for",
+   "time": 61.8,
+   "weight": 1.0,
+   "note_time": 60.35
+  },
+  {
+   "text": "you",
+   "time": 61.94,
+   "weight": 0.38,
+   "note_time": 60.71
+  },
+  {
+   "text": "In",
+   "time": 62.64,
+   "weight": 0.27,
+   "note_time": 62.82
+  },
+  {
+   "text": "a",
+   "time": 64.76,
+   "weight": 0.98,
+   "note_time": 64.59
+  },
+  {
+   "text": "dry",
+   "time": 65.22,
+   "weight": 1.0,
+   "note_time": 65.29
+  },
+  {
+   "text": "and",
+   "time": 65.98,
+   "weight": 0.99,
+   "note_time": 65.65
+  },
+  {
+   "text": "wea",
+   "time": 66.66,
+   "weight": 0.99,
+   "note_time": 66.0
+  },
+  {
+   "text": "ry",
+   "time": 66.88,
+   "weight": 0.99,
+   "note_time": 66.35
+  },
+  {
+   "text": "land",
+   "time": 67.1,
+   "weight": 1.0,
+   "note_time": 67.06
+  },
+  {
+   "text": "Where",
+   "time": 68.52,
+   "weight": 0.32,
+   "note_time": 68.47
+  },
+  {
+   "text": "no",
+   "time": 70.52,
+   "weight": 1.0,
+   "note_time": 70.59
+  },
+  {
+   "text": "wa",
+   "time": 71.22,
+   "weight": 0.4,
+   "note_time": 70.94
+  },
+  {
+   "text": "ter",
+   "time": 71.57,
+   "weight": 0.4,
+   "note_time": 71.29
+  },
+  {
+   "text": "is",
+   "time": 72.84,
+   "weight": 0.99,
+   "note_time": 71.65
+  },
+  {
+   "text": "Ear",
+   "time": 75.64,
+   "weight": 0.98,
+   "note_time": 75.88
+  },
+  {
+   "text": "ly",
+   "time": 75.99,
+   "weight": 0.98,
+   "note_time": 76.24
+  },
+  {
+   "text": "I",
+   "time": 77.04,
+   "weight": 0.91,
+   "note_time": 76.59
+  },
+  {
+   "text": "will",
+   "time": 77.56,
+   "weight": 0.99,
+   "note_time": 76.94
+  },
+  {
+   "text": "seek",
+   "time": 77.98,
+   "weight": 1.0,
+   "note_time": 77.29
+  },
+  {
+   "text": "your",
+   "time": 78.46,
+   "weight": 0.95,
+   "note_time": 77.65
+  },
+  {
+   "text": "face",
+   "time": 79.02,
+   "weight": 0.99,
+   "note_time": 78.35
+  },
+  {
+   "text": "My",
+   "time": 79.74,
+   "weight": 0.39,
+   "note_time": 79.76
+  },
+  {
+   "text": "soul",
+   "time": 81.94,
+   "weight": 0.99,
+   "note_time": 81.88
+  },
+  {
+   "text": "is",
+   "time": 82.62,
+   "weight": 1.0,
+   "note_time": 82.94
+  },
+  {
+   "text": "yours",
+   "time": 84.06,
+   "weight": 0.96,
+   "note_time": 83.29
+  },
+  {
+   "text": "Yes",
+   "time": 85.44,
+   "weight": 0.26,
+   "note_time": 85.76
+  },
+  {
+   "text": "hu,",
+   "time": 85.79,
+   "weight": 0.26,
+   "note_time": 86.12
+  },
+  {
+   "text": "Yes",
+   "time": 88.82,
+   "weight": 0.37,
+   "note_time": 88.24
+  },
+  {
+   "text": "hu,",
+   "time": 89.17,
+   "weight": 0.37,
+   "note_time": 88.94
+  },
+  {
+   "text": "my",
+   "time": 91.28,
+   "weight": 0.33,
+   "note_time": 91.76
+  },
+  {
+   "text": "soul",
+   "time": 93.1,
+   "weight": 0.99,
+   "note_time": 93.18
+  },
+  {
+   "text": "thirsts",
+   "time": 93.9,
+   "weight": 0.39,
+   "note_time": 93.88
+  },
+  {
+   "text": "for",
+   "time": 95.78,
+   "weight": 1.0,
+   "note_time": 94.24
+  },
+  {
+   "text": "you",
+   "time": 95.92,
+   "weight": 0.68,
+   "note_time": 94.59
+  },
+  {
+   "text": "Yes",
+   "time": 99.5,
+   "weight": 0.76,
+   "note_time": 97.41
+  },
+  {
+   "text": "hu,",
+   "time": 99.85,
+   "weight": 0.76,
+   "note_time": 99.53
+  },
+  {
+   "text": "Yes",
+   "time": 100.9,
+   "weight": 0.99,
+   "note_time": 100.24
+  },
+  {
+   "text": "hu,",
+   "time": 101.25,
+   "weight": 0.99,
+   "note_time": 102.35
+  },
+  {
+   "text": "my",
+   "time": 102.74,
+   "weight": 0.4,
+   "note_time": 103.06
+  },
+  {
+   "text": "soul",
+   "time": 104.54,
+   "weight": 1.0,
+   "note_time": 104.47
+  },
+  {
+   "text": "longs",
+   "time": 105.2,
+   "weight": 0.4,
+   "note_time": 105.18
+  },
+  {
+   "text": "for",
+   "time": 107.08,
+   "weight": 1.0,
+   "note_time": 105.53
+  },
+  {
+   "text": "you",
+   "time": 107.2,
+   "weight": 0.99,
+   "note_time": 105.88
+  },
+  {
+   "text": "My",
+   "time": 107.98,
+   "weight": 0.31,
+   "note_time": 108.0
+  },
+  {
+   "text": "soul",
+   "time": 110.12,
+   "weight": 0.92,
+   "note_time": 108.71
+  },
+  {
+   "text": "thirsts",
+   "time": 110.84,
+   "weight": 0.33,
+   "note_time": 111.53
+  },
+  {
+   "text": "for",
+   "time": 115.54,
+   "weight": 0.99,
+   "note_time": 111.88
+  },
+  {
+   "text": "you",
+   "time": 115.7,
+   "weight": 0.56,
+   "note_time": 112.24
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "7 of 13 lyric lines sit clearly on their notes; 6 are uncertain and printed in grey italics."
+}

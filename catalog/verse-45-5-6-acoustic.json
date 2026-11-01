@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-5-6-acoustic",
+  "title": "Love Proved in Death",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 5,
+    "verseStart": 6,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 5,
+      "verseStart": 6,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male solo voice, warm and intimate, acoustic guitar, piano, cello, soft drum kit, gentle, 72 BPM",
+    "lyrics": "[Verse]\nWhile we were still helpless and weak\nThe right time came for the Savior to speak\nNot with words of power or fear\nBut with a heart laid bare and near\n\n[Verse]\nRarely does one die for the good\nOr for the just as it should\nWe were ungodly, far away\nBut he did not turn us away\n\n[Chorus]\nGod proves his love in this alone\nWhile we were sinners on the throne\nOf our own brokenness and shame\nChrist died for us, the same\n\n[Verse]\nJustified now by his blood\nSaved from wrath through his good\nEnemies reconciled by grace\nHis life gives us a sacred place\n\n[Chorus]\nGod proves his love in this alone\nWhile we were sinners on the throne\nOf our own brokenness and shame\nChrist died for us, the same\n\n[Bridge]\nHow much more saved by his life\nWhen death was the bitter strife\nWe boast in God through the Lord\nReconciliation in this word\n\n[Chorus]\nGod proves his love in this alone\nWhile we were sinners on the throne\nOf our own brokenness and shame\nChrist died for us, the same\n\n[Outro]\nChrist died for us\nLove proved in death",
+    "cot": "full",
+    "seed": 20347
+  }
+}

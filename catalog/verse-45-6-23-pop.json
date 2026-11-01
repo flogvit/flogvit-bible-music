@@ -1,0 +1,44 @@
+{
+  "id": "verse-45-6-23-pop",
+  "title": "Free Gift of God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 6,
+    "verseStart": 23,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 6,
+      "verseStart": 23,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, warm and uplifting, solo with subtle choir, acoustic guitar, piano, strings, soft drums, hopeful and reflective mood, 85 BPM",
+    "lyrics": "[Verse]\nSlaves to sin we used to be\nFree from righteousness we were\nShamed by what we did\nThe end was death for us\n\n[Chorus]\nWages of sin is death\nBut free gift of God\nEternal life in Christ\nJesus our Lord\n\n[Verse]\nNow set free from sin we stand\nSlaves of God we have become\nFruit that leads to holiness\nIts end is eternal life\n\n[Chorus]\nWages of sin is death\nBut free gift of God\nEternal life in Christ\nJesus our Lord\n\n[Bridge]\nShame is past and gone\nWe serve the Living God\nHoliness grows in us\nLife without end\n\n[Chorus]\nWages of sin is death\nBut free gift of God\nEternal life in Christ\nJesus our Lord\n\n[Outro]\nFree gift of God\nEternal life",
+    "cot": "full",
+    "seed": 20350
+  }
+}

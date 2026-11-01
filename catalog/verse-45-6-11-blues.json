@@ -1,0 +1,44 @@
+{
+  "id": "verse-45-6-11-blues",
+  "title": "Dead to Sin",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 6,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone solo, slide guitar, upright bass, brushed drums, mournful mood, 85 BPM",
+    "lyrics": "[Verse]\nDied with Christ in the tomb\nWe believe we live with him now\nHe rose from the dead\nDeath has no power over him\n\n[Verse]\nHe died to sin once for all\nHe lives to God from the fall\nConsider yourselves dead to sin\nAlive to God in Christ Jesus\n\n[Chorus]\nDead to sin but alive to God\nDead to sin in the mortal body\nAlive to God in Christ Jesus\nDo not let sin reign in you\n\n[Verse]\nDo not obey its evil desires\nDo not offer parts as weapons\nOffer yourselves to God alone\nAlive from the dead to stand\n\n[Chorus]\nDead to sin but alive to God\nDead to sin in the mortal body\nAlive to God in Christ Jesus\nDo not let sin reign in you\n\n[Bridge]\nOffer parts as weapons of righteousness\nSin shall not be your master\nNot under law but under grace\nYou are alive in God\n\n[Chorus]\nDead to sin but alive to God\nDead to sin in the mortal body\nAlive to God in Christ Jesus\nDo not let sin reign in you\n\n[Outro]\nAlive to God in Christ Jesus\nDead to sin",
+    "cot": "full",
+    "seed": 20349
+  }
+}

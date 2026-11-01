@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-5-1-celtic",
+  "title": "Peace With God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 5,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, acoustic guitar, fiddle, bodhran, piano, cello, gentle and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nJustified by faith we stand today\nPeace with God is our new way\nThrough Christ our Lord the path is clear\nWe have access to draw near\n\n[Chorus]\nWe boast in the hope of glory\nGod's love is our story\nPeace with God through Jesus\nIn grace we rest and trust you\n\n[Verse]\nSuffering brings endurance true\nCharacter grows from trials through\nHope remains and will not fail\nGod's love fills our hearts with mail\n\n[Chorus]\nWe boast in the hope of glory\nGod's love is our story\nPeace with God through Jesus\nIn grace we rest and trust you\n\n[Bridge]\nThe Spirit pours love deep inside\nWe are justified and abide\nNo shame can take what is ours\nHope in His power and His powers\n\n[Chorus]\nWe boast in the hope of glory\nGod's love is our story\nPeace with God through Jesus\nIn grace we rest and trust you\n\n[Outro]\nPeace with God through Jesus\nIn grace we rest and trust you",
+    "cot": "full",
+    "seed": 20345
+  }
+}

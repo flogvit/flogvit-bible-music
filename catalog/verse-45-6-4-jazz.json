@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-6-4-jazz",
+  "title": "Walk in Newness of Life",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 6,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 6,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female smooth jazz vocal, upright bass, brushed drums, piano, saxophone, mellow, 85 BPM",
+    "lyrics": "[Verse]\nWhat shall we say about grace\nShould we keep on sinning more\nBy no means we died to sin\nSo how can we live in it\n\n[Verse]\nDo you not know the truth\nWe were baptized into Christ\nInto His death we went\nAll of us who followed\n\n[Chorus]\nBuried with Him into death\nIn order that we might rise\nAs Christ was raised from the dead\nWe too walk in newness\n\n[Verse]\nUnited in His death\nWe will be united in life\nOur old self was crucified\nThe body of sin is gone\n\n[Chorus]\nBuried with Him into death\nIn order that we might rise\nAs Christ was raised from the dead\nWe too walk in newness\n\n[Bridge]\nNo longer slaves to sin\nRendered powerless is the body\nWe have died and are set free\nFree from the old life\n\n[Outro]\nWalk in newness of life\nRaised by the glory of the Father",
+    "cot": "full",
+    "seed": 20351
+  }
+}

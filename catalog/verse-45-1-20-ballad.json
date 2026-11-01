@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-1-20-ballad",
+  "title": "Clearly Seen",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 1,
+    "verseStart": 20,
+    "verseEnd": 20
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 1,
+      "verseStart": 20,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female vocal, warm and reflective, solo with piano and strings, hopeful yet solemn, 72 BPM",
+    "lyrics": "[Verse]\nWhat can be known is plain to see\nGod has made the truth so clear\nSince the world began to be\nThe invisible are fully near\n\n[Chorus]\nHis invisible qualities shown\nEternal power and divine nature\nFrom what he made we know\nHis glory shines without a measure\n\n[Verse]\nThough they knew him, they did not praise\nThey gave no thanks to God\nTheir thinking became futile days\nTheir senseless hearts were darkened, cold\n\n[Chorus]\nHis invisible qualities shown\nEternal power and divine nature\nFrom what he made we know\nHis glory shines without a measure\n\n[Bridge]\nClaiming wisdom, they became fools\nExchanged glory for the dead\nImages of mortal things\nWhere the living God instead\n\n[Chorus]\nHis invisible qualities shown\nEternal power and divine nature\nFrom what he made we know\nHis glory shines without a measure\n\n[Outro]\nSo they are without excuse\nThe invisible are clearly seen",
+    "cot": "full",
+    "seed": 20344
+  }
+}

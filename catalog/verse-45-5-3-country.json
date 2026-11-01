@@ -1,0 +1,46 @@
+{
+  "id": "verse-45-5-3-country",
+  "title": "Boast in Suffering",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 5,
+    "verseStart": 3,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 5,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, pedal steel, piano, strings, warm mood, 72 BPM",
+    "lyrics": "[Verse]\nJustified by faith we find peace\nThrough our Lord Jesus Christ\nAccess gained into grace\nWe stand in this light\n\n[Chorus]\nWe boast in our sufferings\nKnowing suffering produces endurance\nEndurance produces character\nAnd character produces hope\n\n[Verse]\nHope does not put us to shame\nGod's love poured into hearts\nThe Holy Spirit given\nIs the part we start\n\n[Chorus]\nWe boast in our sufferings\nKnowing suffering produces endurance\nEndurance produces character\nAnd character produces hope\n\n[Bridge]\nWhile we were still helpless\nAt just the right time\nChrist died for the ungodly\nIn His mighty prime\n\n[Outro]\nRarely die for the good\nBut Christ gave His life\nEndurance and hope\nAre the result of strife",
+    "cot": "full",
+    "seed": 20346
+  }
+}

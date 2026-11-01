@@ -1,0 +1,42 @@
+{
+  "id": "verse-49-1-18-choral",
+  "title": "Riches of Hope",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 1,
+    "verseStart": 18,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 1,
+      "verseStart": 18,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with choir, harp, cello, piano, strings, ethereal pads, majestic and hopeful, 90 BPM",
+    "lyrics": "[Verse]\nEver since I heard your faith in Christ\nAnd love for all the saints\nI have not stopped giving thanks\nRemembering you in my prayers\n\n[Chorus]\nEyes of your heart may be enlightened\nKnowing the hope of his calling\nRiches of his glorious inheritance\nAmong the saints\n\n[Verse]\nA spirit of wisdom and revelation\nIn the knowledge of him\nThe God of our Lord Jesus Christ\nThe Father of glory\n\n[Chorus]\nEyes of your heart may be enlightened\nKnowing the hope of his calling\nRiches of his glorious inheritance\nAmong the saints\n\n[Bridge]\nSurpassingly great is his power\nToward us who believe\nAccording to the working\nOf his mighty strength\n\n[Outro]\nHe raised him from the dead\nSeated at his right hand",
+    "cot": "full",
+    "seed": 20353
+  }
+}

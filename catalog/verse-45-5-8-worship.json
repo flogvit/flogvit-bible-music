@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-5-8-worship",
+  "title": "While We Were Sinners",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 5,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 5,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female solo voice with soft choir, piano, strings, cello, harp, deep and reverent, 80 BPM",
+    "lyrics": "[Verse]\nHope does not put us to shame\nGod's love is poured into our hearts\nThrough the Spirit who has been given\nFor while we were still helpless\nAt just the right time Christ died\nFor the ungodly in that moment\n\n[Chorus]\nRarely will anyone die\nFor a righteous or good person\nBut God proves his own love\nWhile we were still sinners\nChrist died for us\n\n[Verse]\nHow much more since we are justified\nBy his blood we will be saved\nThrough him from God's wrath\nIf we were enemies before\nReconciled by the death of his Son\n\n[Chorus]\nRarely will anyone die\nFor a righteous or good person\nBut God proves his own love\nWhile we were still sinners\nChrist died for us\n\n[Bridge]\nHaving been reconciled to God\nWe will be saved by his life\nNot only that but we boast\nIn God through our Lord Jesus Christ\nThrough whom we received reconciliation\n\n[Chorus]\nRarely will anyone die\nFor a righteous or good person\nBut God proves his own love\nWhile we were still sinners\nChrist died for us\n\n[Outro]\nWe boast in God\nThrough our Lord Jesus Christ",
+    "cot": "full",
+    "seed": 20348
+  }
+}

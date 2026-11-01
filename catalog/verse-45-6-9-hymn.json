@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-6-9-hymn",
+  "title": "Death Has No Dominion",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 6,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 6,
+      "verseStart": 9,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with warm choir, acoustic guitar, piano, cello, organ, hopeful and majestic mood, 80 BPM",
+    "lyrics": "[Verse]\nWe know our old self was crucified with him\nThe body of sin is rendered powerless now\nNo longer slaves to the weight of our sin\nFor anyone who died is set free somehow\n\n[Chorus]\nChrist has been raised from the dead\nHe will never die again\nDeath no longer has dominion over him\nHis life is pure and clean\n\n[Verse]\nIf we died with him we believe we live\nWe will also live with him forever\nThe death he died was once for all\nHe lives to God in every way\n\n[Chorus]\nChrist has been raised from the dead\nHe will never die again\nDeath no longer has dominion over him\nHis life is pure and clean\n\n[Bridge]\nConsider yourselves dead to sin\nBut alive to God in Christ Jesus\nDo not let sin reign in your body\nDo not obey its empty wishes\n\n[Outro]\nHe lives to God\nDeath has no dominion",
+    "cot": "full",
+    "seed": 20352
+  }
+}

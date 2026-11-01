@@ -1,0 +1,832 @@
+{
+ "id": "verse-19-8-3-childrens-choir",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-8-3-childrens-choir",
+ "offset_seconds": -1.1000000000002323,
+ "words_heard": 104,
+ "words": 104,
+ "lines": [
+  {
+   "text": "When I look up at the sky",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The moon and stars you made",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.07,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "What are we that you think of us",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And care for us each day",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, our Lord, how majestic is your name",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In all the earth, in all the earth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the mouths of children you made strength",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, our Lord",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Every little voice can sing",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And every child can pray",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You set your splendor in the heavens",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And hear the songs we raise",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, our Lord, how majestic is your name",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In all the earth, in all the earth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the mouths of children you made strength",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, our Lord",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "When",
+   "time": 9.96,
+   "weight": 0.27,
+   "note_time": 10.59
+  },
+  {
+   "text": "I",
+   "time": 11.04,
+   "weight": 0.99,
+   "note_time": 10.88
+  },
+  {
+   "text": "look",
+   "time": 11.44,
+   "weight": 0.94,
+   "note_time": 11.18
+  },
+  {
+   "text": "up",
+   "time": 11.82,
+   "weight": 1.0,
+   "note_time": 11.47
+  },
+  {
+   "text": "at",
+   "time": 12.14,
+   "weight": 0.99,
+   "note_time": 11.76
+  },
+  {
+   "text": "the",
+   "time": 12.36,
+   "weight": 1.0,
+   "note_time": 12.35
+  },
+  {
+   "text": "sky",
+   "time": 12.9,
+   "weight": 1.0,
+   "note_time": 12.94
+  },
+  {
+   "text": "The",
+   "time": 13.52,
+   "weight": 0.13,
+   "note_time": 15.0
+  },
+  {
+   "text": "moon",
+   "time": 15.44,
+   "weight": 0.98,
+   "note_time": 15.29
+  },
+  {
+   "text": "and",
+   "time": 16.0,
+   "weight": 1.0,
+   "note_time": 15.88
+  },
+  {
+   "text": "stars",
+   "time": 16.5,
+   "weight": 0.99,
+   "note_time": 16.47
+  },
+  {
+   "text": "you",
+   "time": 17.06,
+   "weight": 0.93,
+   "note_time": 17.06
+  },
+  {
+   "text": "made",
+   "time": 17.72,
+   "weight": 0.87,
+   "note_time": 17.65
+  },
+  {
+   "text": "What",
+   "time": 19.56,
+   "weight": 0.97,
+   "note_time": 20.0
+  },
+  {
+   "text": "are",
+   "time": 20.64,
+   "weight": 1.0,
+   "note_time": 20.29
+  },
+  {
+   "text": "we",
+   "time": 20.92,
+   "weight": 1.0,
+   "note_time": 20.59
+  },
+  {
+   "text": "that",
+   "time": 21.2,
+   "weight": 0.98,
+   "note_time": 21.18
+  },
+  {
+   "text": "you",
+   "time": 21.74,
+   "weight": 0.98,
+   "note_time": 21.47
+  },
+  {
+   "text": "think",
+   "time": 22.12,
+   "weight": 1.0,
+   "note_time": 21.76
+  },
+  {
+   "text": "of",
+   "time": 22.42,
+   "weight": 1.0,
+   "note_time": 22.06
+  },
+  {
+   "text": "us",
+   "time": 22.76,
+   "weight": 1.0,
+   "note_time": 22.35
+  },
+  {
+   "text": "And",
+   "time": 23.22,
+   "weight": 0.84,
+   "note_time": 23.24
+  },
+  {
+   "text": "care",
+   "time": 23.74,
+   "weight": 1.0,
+   "note_time": 23.53
+  },
+  {
+   "text": "for",
+   "time": 24.18,
+   "weight": 1.0,
+   "note_time": 24.12
+  },
+  {
+   "text": "us",
+   "time": 24.74,
+   "weight": 1.0,
+   "note_time": 24.71
+  },
+  {
+   "text": "each",
+   "time": 25.72,
+   "weight": 0.99,
+   "note_time": 25.88
+  },
+  {
+   "text": "day",
+   "time": 26.7,
+   "weight": 1.0,
+   "note_time": 26.76
+  },
+  {
+   "text": "Lord,",
+   "time": 27.86,
+   "weight": 0.16,
+   "note_time": 28.82
+  },
+  {
+   "text": "our",
+   "time": 29.66,
+   "weight": 0.87,
+   "note_time": 29.12
+  },
+  {
+   "text": "Lord,",
+   "time": 29.9,
+   "weight": 0.98,
+   "note_time": 29.41
+  },
+  {
+   "text": "how",
+   "time": 30.44,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "ma",
+   "time": 30.62,
+   "weight": 1.0,
+   "note_time": 30.44
+  },
+  {
+   "text": "jes",
+   "time": 30.85,
+   "weight": 1.0,
+   "note_time": 30.59
+  },
+  {
+   "text": "tic",
+   "time": 31.09,
+   "weight": 1.0,
+   "note_time": 30.88
+  },
+  {
+   "text": "is",
+   "time": 31.32,
+   "weight": 1.0,
+   "note_time": 31.18
+  },
+  {
+   "text": "your",
+   "time": 31.88,
+   "weight": 0.65,
+   "note_time": 31.47
+  },
+  {
+   "text": "name",
+   "time": 32.16,
+   "weight": 0.96,
+   "note_time": 31.76
+  },
+  {
+   "text": "In",
+   "time": 33.36,
+   "weight": 0.38,
+   "note_time": 33.24
+  },
+  {
+   "text": "all",
+   "time": 33.86,
+   "weight": 1.0,
+   "note_time": 33.38
+  },
+  {
+   "text": "the",
+   "time": 34.22,
+   "weight": 1.0,
+   "note_time": 33.82
+  },
+  {
+   "text": "earth,",
+   "time": 34.5,
+   "weight": 0.99,
+   "note_time": 34.12
+  },
+  {
+   "text": "in",
+   "time": 34.98,
+   "weight": 0.99,
+   "note_time": 34.41
+  },
+  {
+   "text": "all",
+   "time": 35.12,
+   "weight": 1.0,
+   "note_time": 34.56
+  },
+  {
+   "text": "the",
+   "time": 35.38,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "earth",
+   "time": 35.68,
+   "weight": 1.0,
+   "note_time": 35.29
+  },
+  {
+   "text": "From",
+   "time": 36.18,
+   "weight": 0.95,
+   "note_time": 36.18
+  },
+  {
+   "text": "the",
+   "time": 36.82,
+   "weight": 1.0,
+   "note_time": 36.32
+  },
+  {
+   "text": "mouths",
+   "time": 36.98,
+   "weight": 0.98,
+   "note_time": 36.47
+  },
+  {
+   "text": "of",
+   "time": 37.3,
+   "weight": 1.0,
+   "note_time": 36.76
+  },
+  {
+   "text": "chil",
+   "time": 37.42,
+   "weight": 1.0,
+   "note_time": 36.91
+  },
+  {
+   "text": "dren",
+   "time": 37.66,
+   "weight": 1.0,
+   "note_time": 37.35
+  },
+  {
+   "text": "you",
+   "time": 37.9,
+   "weight": 0.93,
+   "note_time": 37.65
+  },
+  {
+   "text": "made",
+   "time": 38.34,
+   "weight": 0.54,
+   "note_time": 38.24
+  },
+  {
+   "text": "strength",
+   "time": 39.0,
+   "weight": 0.99,
+   "note_time": 38.82
+  },
+  {
+   "text": "Lord,",
+   "time": 40.58,
+   "weight": 0.98,
+   "note_time": 40.59
+  },
+  {
+   "text": "our",
+   "time": 41.42,
+   "weight": 1.0,
+   "note_time": 40.88
+  },
+  {
+   "text": "Lord",
+   "time": 41.72,
+   "weight": 1.0,
+   "note_time": 41.18
+  },
+  {
+   "text": "Ev",
+   "time": 43.16,
+   "weight": 0.93,
+   "note_time": 43.53
+  },
+  {
+   "text": "ery",
+   "time": 43.51,
+   "weight": 0.93,
+   "note_time": 43.82
+  },
+  {
+   "text": "lit",
+   "time": 44.28,
+   "weight": 1.0,
+   "note_time": 44.12
+  },
+  {
+   "text": "tle",
+   "time": 44.57,
+   "weight": 1.0,
+   "note_time": 44.41
+  },
+  {
+   "text": "voice",
+   "time": 44.86,
+   "weight": 1.0,
+   "note_time": 44.71
+  },
+  {
+   "text": "can",
+   "time": 45.5,
+   "weight": 1.0,
+   "note_time": 45.29
+  },
+  {
+   "text": "sing",
+   "time": 46.02,
+   "weight": 1.0,
+   "note_time": 45.88
+  },
+  {
+   "text": "And",
+   "time": 47.22,
+   "weight": 0.96,
+   "note_time": 47.94
+  },
+  {
+   "text": "ev",
+   "time": 48.68,
+   "weight": 1.0,
+   "note_time": 48.24
+  },
+  {
+   "text": "ery",
+   "time": 48.92,
+   "weight": 1.0,
+   "note_time": 48.82
+  },
+  {
+   "text": "child",
+   "time": 49.16,
+   "weight": 1.0,
+   "note_time": 49.41
+  },
+  {
+   "text": "can",
+   "time": 50.16,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "pray",
+   "time": 50.72,
+   "weight": 1.0,
+   "note_time": 50.59
+  },
+  {
+   "text": "You",
+   "time": 52.12,
+   "weight": 1.0,
+   "note_time": 52.06
+  },
+  {
+   "text": "set",
+   "time": 52.86,
+   "weight": 0.99,
+   "note_time": 52.35
+  },
+  {
+   "text": "your",
+   "time": 53.1,
+   "weight": 1.0,
+   "note_time": 52.65
+  },
+  {
+   "text": "splen",
+   "time": 53.42,
+   "weight": 0.99,
+   "note_time": 52.94
+  },
+  {
+   "text": "dor",
+   "time": 53.77,
+   "weight": 0.99,
+   "note_time": 53.53
+  },
+  {
+   "text": "in",
+   "time": 54.36,
+   "weight": 1.0,
+   "note_time": 54.12
+  },
+  {
+   "text": "the",
+   "time": 54.98,
+   "weight": 1.0,
+   "note_time": 54.71
+  },
+  {
+   "text": "heav",
+   "time": 55.42,
+   "weight": 1.0,
+   "note_time": 55.29
+  },
+  {
+   "text": "ens",
+   "time": 55.77,
+   "weight": 1.0,
+   "note_time": 55.88
+  },
+  {
+   "text": "And",
+   "time": 56.62,
+   "weight": 0.31,
+   "note_time": 56.76
+  },
+  {
+   "text": "hear",
+   "time": 57.4,
+   "weight": 0.98,
+   "note_time": 57.06
+  },
+  {
+   "text": "the",
+   "time": 57.88,
+   "weight": 1.0,
+   "note_time": 57.35
+  },
+  {
+   "text": "songs",
+   "time": 58.1,
+   "weight": 0.99,
+   "note_time": 57.65
+  },
+  {
+   "text": "we",
+   "time": 58.92,
+   "weight": 0.99,
+   "note_time": 58.82
+  },
+  {
+   "text": "raise",
+   "time": 59.64,
+   "weight": 0.94,
+   "note_time": 60.0
+  },
+  {
+   "text": "Lord,",
+   "time": 61.82,
+   "weight": 0.74,
+   "note_time": 61.76
+  },
+  {
+   "text": "our",
+   "time": 62.74,
+   "weight": 0.97,
+   "note_time": 62.06
+  },
+  {
+   "text": "Lord,",
+   "time": 63.02,
+   "weight": 0.99,
+   "note_time": 62.35
+  },
+  {
+   "text": "how",
+   "time": 63.5,
+   "weight": 0.99,
+   "note_time": 62.94
+  },
+  {
+   "text": "ma",
+   "time": 63.72,
+   "weight": 1.0,
+   "note_time": 63.38
+  },
+  {
+   "text": "jes",
+   "time": 63.95,
+   "weight": 1.0,
+   "note_time": 63.53
+  },
+  {
+   "text": "tic",
+   "time": 64.17,
+   "weight": 1.0,
+   "note_time": 63.82
+  },
+  {
+   "text": "is",
+   "time": 64.4,
+   "weight": 0.99,
+   "note_time": 64.12
+  },
+  {
+   "text": "your",
+   "time": 64.94,
+   "weight": 0.71,
+   "note_time": 64.41
+  },
+  {
+   "text": "name",
+   "time": 65.24,
+   "weight": 0.97,
+   "note_time": 64.71
+  },
+  {
+   "text": "In",
+   "time": 66.58,
+   "weight": 0.86,
+   "note_time": 66.18
+  },
+  {
+   "text": "all",
+   "time": 67.08,
+   "weight": 1.0,
+   "note_time": 66.32
+  },
+  {
+   "text": "the",
+   "time": 67.3,
+   "weight": 1.0,
+   "note_time": 66.76
+  },
+  {
+   "text": "earth,",
+   "time": 67.62,
+   "weight": 1.0,
+   "note_time": 67.06
+  },
+  {
+   "text": "in",
+   "time": 68.08,
+   "weight": 0.99,
+   "note_time": 67.35
+  },
+  {
+   "text": "all",
+   "time": 68.24,
+   "weight": 1.0,
+   "note_time": 67.5
+  },
+  {
+   "text": "the",
+   "time": 68.5,
+   "weight": 1.0,
+   "note_time": 67.94
+  },
+  {
+   "text": "earth",
+   "time": 68.78,
+   "weight": 1.0,
+   "note_time": 68.24
+  },
+  {
+   "text": "From",
+   "time": 69.28,
+   "weight": 0.98,
+   "note_time": 69.12
+  },
+  {
+   "text": "the",
+   "time": 69.92,
+   "weight": 1.0,
+   "note_time": 69.26
+  },
+  {
+   "text": "mouths",
+   "time": 70.12,
+   "weight": 0.95,
+   "note_time": 69.41
+  },
+  {
+   "text": "of",
+   "time": 70.42,
+   "weight": 1.0,
+   "note_time": 69.71
+  },
+  {
+   "text": "chil",
+   "time": 70.56,
+   "weight": 1.0,
+   "note_time": 69.85
+  },
+  {
+   "text": "dren",
+   "time": 70.8,
+   "weight": 1.0,
+   "note_time": 70.29
+  },
+  {
+   "text": "you",
+   "time": 71.04,
+   "weight": 0.93,
+   "note_time": 70.59
+  },
+  {
+   "text": "made",
+   "time": 71.44,
+   "weight": 0.74,
+   "note_time": 71.18
+  },
+  {
+   "text": "strength",
+   "time": 72.1,
+   "weight": 0.99,
+   "note_time": 71.76
+  },
+  {
+   "text": "Lord,",
+   "time": 73.72,
+   "weight": 0.99,
+   "note_time": 73.53
+  },
+  {
+   "text": "our",
+   "time": 74.52,
+   "weight": 1.0,
+   "note_time": 73.82
+  },
+  {
+   "text": "Lord",
+   "time": 74.82,
+   "weight": 1.0,
+   "note_time": 74.12
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

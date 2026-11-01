@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-55-22-choral",
+  "title": "Cast Your Burden",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 55,
+    "verseStart": 22,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 55,
+      "verseStart": 22,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with solemn choir, piano, cello, flute, harp, strings, reverent and steady, 72 BPM",
+    "lyrics": "[Verse]\nHe rescues me unharmed from battle\nThough many oppose my soul\nGod hears and humbles the proud ones\nWho have no fear of Him\n\n[Verse]\nMy companion raised a hand\nAgainst his friends in trust\nHe violated the covenant\nAnd broke his sacred word\n\n[Chorus]\nCast your burden on the Lord\nAnd he will sustain you\nHe will never let the\nRighteous be shaken\n\n[Verse]\nHis speech was smoother than butter\nYet war lived in his heart\nHis words were softer than oil\nYet they were drawn swords\n\n[Chorus]\nCast your burden on the Lord\nAnd he will sustain you\nHe will never let the\nRighteous be shaken\n\n[Bridge]\nHe will bring them down\nTo the pit of destruction\nMen of blood and treachery\nWill not live out half their days\n\n[Outro]\nBut I will trust in you",
+    "cot": "full",
+    "seed": 20311
+  }
+}

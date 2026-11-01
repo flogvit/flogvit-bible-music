@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-34-3-acoustic",
+  "title": "Soul Boasts in the Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "david",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, soft cello, gentle drums, hopeful and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nDavid feigned madness in fear\nAbimelech drove him away\nHe left to find safety nearby\nBlessing the Lord day by day\n\n[Chorus]\nMy soul boasts in the Lord\nLet the humble hear and rejoice\nMagnify the Lord with me\nLet us exalt his name together\n\n[Verse]\nI sought the Lord in my distress\nHe answered me and delivered\nHe saved me from all my fears\nHis light has fully arrived\n\n[Chorus]\nMy soul boasts in the Lord\nLet the humble hear and rejoice\nMagnify the Lord with me\nLet us exalt his name together\n\n[Bridge]\nThose who look to him shine\nRadiant faces stand before him\nTheir shame has been washed away\nHis praise remains on my lips\n\n[Chorus]\nMy soul boasts in the Lord\nLet the humble hear and rejoice\nMagnify the Lord with me\nLet us exalt his name together\n\n[Outro]\nHis praise will always be on my lips\nMy soul boasts in the Lord",
+    "cot": "full",
+    "seed": 20305
+  }
+}

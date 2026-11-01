@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-44-26-pop",
+  "title": "Rise up and help us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 44,
+    "verseStart": 26,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 44,
+      "verseStart": 26,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo vocal, emotional and pleading, piano, strings, cello, soft drums, 80 BPM",
+    "lyrics": "[Verse]\nFor your sake we are killed all day\nRegarded as sheep for the slaughter\nAwake Lord why do you sleep\nRouse yourself do not reject us\n\n[Chorus]\nRise up and help us\nRedeem us for your steadfast love\nRise up and help us\nOur soul is sunk down to the dust\n\n[Verse]\nWhy do you hide your face\nForget our affliction and oppression\nOur body clings to the ground\nWe wait for your faithful hand\n\n[Chorus]\nRise up and help us\nRedeem us for your steadfast love\nRise up and help us\nOur soul is sunk down to the dust\n\n[Bridge]\nWe are regarded as sheep\nWaiting for the dawn to break\nDo not forget our cries\nRemember our suffering pain\n\n[Chorus]\nRise up and help us\nRedeem us for your steadfast love\nRise up and help us\nOur soul is sunk down to the dust\n\n[Outro]\nRise up and help us\nRedeem us for your steadfast love",
+    "cot": "full",
+    "seed": 20308
+  }
+}

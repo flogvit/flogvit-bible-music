@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-34-8-blues",
+  "title": "Taste and See",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "ydmykhet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone, solo with gospel choir, acoustic piano, upright bass, brushed drums, slide guitar, warm and contemplative, 75 BPM",
+    "lyrics": "[Verse]\nI sought the Lord and he heard my cry\nHe answered me from the other side\nDelivered me from all my fears\nThe weight of the world disappears\n\n[Chorus]\nTaste and see that the Lord is good\nBlessed is the one who stands in his blood\nRefuge found in the shelter of grace\nNo matter the price of time or space\n\n[Verse]\nThose who look to him shine with light\nTheir faces never see the night of shame\nThe poor man called and the Lord heard\nHe saved him from every trouble found\n\n[Chorus]\nTaste and see that the Lord is good\nBlessed is the one who stands in his blood\nRefuge found in the shelter of grace\nNo matter the price of time or space\n\n[Bridge]\nHis angel encamps around the faithful\nRescuing the soul that has been shaken\nFear the Lord you holy ones\nLacking nothing under the sun\n\n[Outro]\nYoung lions grow poor and hungry\nBut those who seek lack no good thing",
+    "cot": "full",
+    "seed": 20307
+  }
+}

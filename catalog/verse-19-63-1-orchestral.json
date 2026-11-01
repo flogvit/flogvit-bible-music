@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-63-1-orchestral",
+  "title": "My Soul Thirsts",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 63,
+    "verseStart": 1,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 63,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "david",
+      "kjerlighet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male baritone solo with ethereal choir, harp, cello, flute, gentle strings, reverent and yearning mood, 72 BPM",
+    "lyrics": "[Verse]\nO God, you are my God, I seek you at dawn\nMy soul thirsts for you in the dry land\nMy body longs for you where there is no water\nIn the wilderness of Judah, I stand\n\n[Pre-Chorus]\nSo I have gazed on you in the sanctuary\nTo see your power and your glory shine\n\n[Chorus]\nYour steadfast love is better than life\nMy lips will praise you with all my might\nI will bless you as long as I live\nIn your name, my hands will rise\n\n[Verse]\nYour love is better than the breath of life\nMy lips will praise you, they will never cease\nI will bless you while my days remain\nIn your holy name, I find my peace\n\n[Chorus]\nYour steadfast love is better than life\nMy lips will praise you with all my might\nI will bless you as long as I live\nIn your name, my hands will rise\n\n[Bridge]\nMy soul will be satisfied as with rich food\nWith joyful lips, my mouth will praise you\n\n[Outro]\nO God, you are my God, I seek you at dawn",
+    "cot": "full",
+    "seed": 20313
+  }
+}

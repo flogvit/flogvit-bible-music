@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-67-1-rock",
+  "title": "Make His Face Shine Upon Us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 67,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 67,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, powerful male rock voice with soaring tenor, electric guitar, heavy drums, bass, piano, epic choir backing, anthemic and triumphant mood, 95 BPM",
+    "lyrics": "[Verse]\nMay God be gracious to us and bless us\nAnd make his face shine upon us\nHis light breaks through the morning\nA mercy that we cannot earn\n\n[Chorus]\nLet your way be known on earth\nYour salvation among all nations\nLet the peoples praise you, O God\nLet all the peoples praise you\n\n[Verse]\nThe nations are glad and sing for joy\nFor you judge the peoples with fairness\nYou guide them upon the earth\nA path of justice and grace\n\n[Chorus]\nLet your way be known on earth\nYour salvation among all nations\nLet the peoples praise you, O God\nLet all the peoples praise you\n\n[Bridge]\nYour hand reaches out to all\nNo boundary holds your love\nThe world turns to see your light\nAnd bows before your throne\n\n[Outro]\nMay God be gracious to us\nAnd make his face shine upon us",
+    "cot": "full",
+    "seed": 20314
+  }
+}

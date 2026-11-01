@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-44-27-jazz",
+  "title": "Redeem Us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 44,
+    "verseStart": 27,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 44,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful female jazz vocal, upright piano, upright bass, brushed drums, muted trumpet, warm and pleading mood, 72 BPM",
+    "lyrics": "[Verse]\nAwake Lord why do you sleep\nRouse yourself from your rest\nDo not reject us forever\nKeep us in your sight\n\n[Verse]\nWhy hide your face away\nForget our deep distress\nOur soul is sunk to dust\nOur body clings to ground\n\n[Chorus]\nRise up and help us now\nRedeem us in your love\nSteadfast kindness holds us fast\nWhen all our strength is gone\n\n[Chorus]\nRise up and help us now\nRedeem us in your love\nSteadfast kindness holds us fast\nWhen all our strength is gone\n\n[Outro]\nRise up and help us\nRedeem us for your love",
+    "cot": "full",
+    "seed": 20309
+  }
+}

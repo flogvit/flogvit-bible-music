@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-51-10-hymn",
+  "title": "Create in me a clean heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 51,
+    "verseStart": 10,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 10,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with soft choir, acoustic guitar, piano, strings, gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nI was born in guilt and sin\nMy mother conceived me in shame\nYou delight in truth within\nTeach me wisdom in the hidden place\n\n[Pre-Chorus]\nCleanse me with hyssop now\nWash me and I will be clean\nWhiter than snow I become\nWhen your hand removes the stain\n\n[Chorus]\nCreate in me a clean heart, O God\nRenew a steadfast spirit within me\nDo not cast me from your presence\nDo not take your holy Spirit from me\n\n[Verse]\nHide your face from my sins\nBlot out all my guilt and shame\nLet me hear joy and gladness\nLet the bones you crushed rejoice\n\n[Chorus]\nCreate in me a clean heart, O God\nRenew a steadfast spirit within me\nDo not cast me from your presence\nDo not take your holy Spirit from me\n\n[Bridge]\nTruth is deep in your nature\nWisdom in the hidden place\nI am washed by your mercy\nWhiter than snow in your grace\n\n[Chorus]\nCreate in me a clean heart, O God\nRenew a steadfast spirit within me\nDo not cast me from your presence\nDo not take your holy Spirit from me\n\n[Outro]\nSteadfast spirit within me\nHoly Spirit remain",
+    "cot": "full",
+    "seed": 20310
+  }
+}

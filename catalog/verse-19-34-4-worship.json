@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-34-4-worship",
+  "title": "I Sought The Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 34,
+    "verseStart": 4,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 34,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice, warm and intimate, acoustic guitar, piano, cello, soft drums, hopeful and gentle, 75 BPM",
+    "lyrics": "[Verse]\nI sought the Lord and he answered me\nHe delivered me from all my fears\nMy soul boasts in the Lord today\nLet the humble hear and rejoice\n\n[Chorus]\nMagnify the Lord with me\nLet us exalt his name together\nI sought the Lord and he answered me\nDelivered me from all my fears\n\n[Verse]\nThose who look to him are radiant\nTheir faces will never be ashamed\nThis poor man called and the Lord heard\nHe saved him out of all his troubles\n\n[Chorus]\nMagnify the Lord with me\nLet us exalt his name together\nI sought the Lord and he answered me\nDelivered me from all my fears\n\n[Bridge]\nThe angel of the Lord encamps around\nThose who fear him he rescues\nHis praise will always be on my lips\nI will bless the Lord at all times\n\n[Outro]\nI sought the Lord and he answered me\nHe delivered me from all my fears",
+    "cot": "full",
+    "seed": 20306
+  }
+}

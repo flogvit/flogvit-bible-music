@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-55-23-gospel",
+  "title": "Cast Your Burden",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 55,
+    "verseStart": 23,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 55,
+      "verseStart": 23,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful female solo with gospel choir, piano, organ, electric guitar, drums, bass, uplifting and powerful, 90 BPM",
+    "lyrics": "[Verse]\nCompanion raised his hand against his friends\nViolated the covenant he made\nSpeech smoother than butter to the eye\nWar was hidden deep inside\n\n[Pre-Chorus]\nWords softer than oil on the tongue\nYet drawn swords were waiting there\nThey have no fear of God in their hearts\nAnd they never change their ways\n\n[Chorus]\nCast your burden on the LORD\nHe will sustain you forever\nHe will never let the righteous be shaken\nWhen the trouble starts to grow\n\n[Verse]\nGod will hear and humble them\nWho are enthroned from of old\nMen of blood and treachery\nWill not live out half their days\n\n[Chorus]\nCast your burden on the LORD\nHe will sustain you forever\nHe will never let the righteous be shaken\nWhen the trouble starts to grow\n\n[Bridge]\nYou will bring them down to the pit\nTo the place of destruction\nBut I will trust in you alone\nIn your endless protection\n\n[Chorus]\nCast your burden on the LORD\nHe will sustain you forever\nHe will never let the righteous be shaken\nWhen the trouble starts to grow\n\n[Outro]\nCast your burden on the LORD\nHe will sustain you",
+    "cot": "full",
+    "seed": 20312
+  }
+}

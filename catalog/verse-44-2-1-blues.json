@@ -1,0 +1,44 @@
+{
+  "id": "verse-44-2-1-blues",
+  "title": "Rushing Violent Wind",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 44,
+    "chapter": 2,
+    "verseStart": 1,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, solo with gospel choir, electric guitar, organ, drums, bass, mournful and powerful, 85 BPM",
+    "lyrics": "[Verse]\nThe day of Pentecost had finally come\nThey were all together in one place\nWaiting for the promise to be fulfilled\nIn the quiet of that gathered space\n\n[Pre-Chorus]\nSuddenly a sound came from the sky\nLike a rushing, violent wind\nIt filled the whole house where they sat\nAnd the air began to spin\n\n[Chorus]\nTongues as of fire appeared and divided\nComing to rest on each of them\nFilled with the Holy Spirit completely\nSpeaking in other tongues again\n\n[Verse]\nDevout Jews from every nation\nLiving in Jerusalem now\nWhen the sound was heard by the crowd\nThey gathered in a bewildered hour\nEach one heard them speaking clearly\nIn his own language, strange and true\n\n[Chorus]\nTongues as of fire appeared and divided\nComing to rest on each of them\nFilled with the Holy Spirit completely\nSpeaking in other tongues again\n\n[Bridge]\nThey were astounded and amazed\nSaying look at these speakers here\nAre not all these Galileans\nWho stand before us with such fear\n\n[Chorus]\nTongues as of fire appeared and divided\nComing to rest on each of them\nFilled with the Holy Spirit completely\nSpeaking in other tongues again\n\n[Outro]\nAs the Spirit gave them utterance\nThe world heard the word in its own tongue",
+    "cot": "full",
+    "seed": 20335
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "verse-45-3-23-soul",
+  "title": "Justified Freely",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 3,
+    "verseStart": 23,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 3,
+      "verseStart": 23,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "synden",
+      "frelsen",
+      "tro",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soul voice, warm and resonant, solo with gospel choir, upright piano, acoustic guitar, bass, drums, organ, hopeful and triumphant, 84 BPM",
+    "lyrics": "[Verse]\nNo human being stands in sight\nBy works of law we find no light\nThrough the law we know our sin\nBut the revelation begins\n\n[Chorus]\nAll have sinned and fall short\nOf the glory of God so much\nJustified freely by his grace\nThrough the redemption in this place\nIn Christ Jesus we are found\nBy faith alone on holy ground\n\n[Verse]\nApart from the law it is shown\nThe righteousness God has known\nAttested by the prophets clear\nFor all who believe draw near\n\n[Chorus]\nAll have sinned and fall short\nOf the glory of God so much\nJustified freely by his grace\nThrough the redemption in this place\nIn Christ Jesus we are found\nBy faith alone on holy ground\n\n[Bridge]\nNo distinction between the high\nNor the low beneath the sky\nGod presented him as the sacrifice\nReceived through faith in his sacrifice\n\n[Outro]\nBoasting is excluded from the view\nOn the principle of faith we renew",
+    "cot": "full",
+    "seed": 20343
+  }
+}

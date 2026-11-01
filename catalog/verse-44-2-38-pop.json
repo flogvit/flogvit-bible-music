@@ -1,0 +1,44 @@
+{
+  "id": "verse-44-2-38-pop",
+  "title": "Repent and Be Baptized",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 44,
+    "chapter": 2,
+    "verseStart": 38,
+    "verseEnd": 39
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 38,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soft female solo voice, acoustic guitar, piano, strings, light percussion, hopeful and urgent mood, 90 BPM",
+    "lyrics": "[Verse]\nWhen they heard his voice they were cut to the heart\nBrothers what shall we do in this place\nPeter answered clearly with a call to turn\nRepent and be baptized in Christ's name\n\n[Chorus]\nIn the name of Jesus Christ for forgiveness\nReceive the gift of the Holy Spirit now\nThe promise is for you and your children\nFor all whom the Lord our God calls home\n\n[Verse]\nBe saved from this crooked generation\nMany words he bore witness with\nThose who welcomed the message that day\nAbout three thousand souls were added\n\n[Chorus]\nIn the name of Jesus Christ for forgiveness\nReceive the gift of the Holy Spirit now\nThe promise is for you and your children\nFor all whom the Lord our God calls home\n\n[Bridge]\nDevoted to the apostles teaching\nFellowship and breaking of bread\nPrayers and the faith they shared\nLiving in the light of grace\n\n[Outro]\nThe promise is for you and your children\nFor all whom the Lord our God calls home",
+    "cot": "full",
+    "seed": 20336
+  }
+}

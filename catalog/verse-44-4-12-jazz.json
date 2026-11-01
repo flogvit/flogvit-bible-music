@@ -1,0 +1,45 @@
+{
+  "id": "verse-44-4-12-jazz",
+  "title": "No Other Name",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 44,
+    "chapter": 4,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female smooth voice, solo, upright bass, piano, brushed drums, muted trumpet, warm and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nExamined for a good deed done today\nA crippled man now healed and stands up straight\nLet it be known to all of Israel\nBy the name of Jesus Christ of Nazareth\n\n[Chorus]\nWhom you crucified and God raised from the dead\nThis man stands before you fully healed\nHe is the stone you builders rejected\nNow the cornerstone where our hope is met\n\n[Verse]\nThere is salvation in no one else\nNo other name under heaven given to men\nBy which we must be saved from our sin\nThe council sees their boldness is real\n\n[Chorus]\nWhom you crucified and God raised from the dead\nThis man stands before you fully healed\nHe is the stone you builders rejected\nNow the cornerstone where our hope is met\n\n[Bridge]\nAmazed by ordinary men who knew Jesus\nSeeing the healed man they have no reply\nOrdered to leave and confer together\nThe truth remains for the world to see\n\n[Chorus]\nWhom you crucified and God raised from the dead\nThis man stands before you fully healed\nHe is the stone you builders rejected\nNow the cornerstone where our hope is met\n\n[Outro]\nNo other name under heaven\nBy which we must be saved",
+    "cot": "full",
+    "seed": 20337
+  }
+}

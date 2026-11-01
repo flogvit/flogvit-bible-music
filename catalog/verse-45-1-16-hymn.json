@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-1-16-hymn",
+  "title": "Power of the Gospel",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 1,
+    "verseStart": 16,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone solo with supporting choir, organ, strings, piano, acoustic guitar, majestic and hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nI am not ashamed of the good news\nIt carries the power of God\nFor the salvation of all who believe\nFrom the first to the last\n\n[Chorus]\nIt is the power of God for salvation\nOf everyone who believes in Him\nRighteousness is revealed in the gospel\nFrom faith to faith it comes\n\n[Verse]\nI have been prevented from coming to you\nBut I am eager to preach the truth\nTo the wise and to the foolish alike\nI am under this obligation\n\n[Chorus]\nIt is the power of God for salvation\nOf everyone who believes in Him\nRighteousness is revealed in the gospel\nFrom faith to faith it comes\n\n[Bridge]\nThe righteous will live by faith\nAs it is written in scripture\nGod has made it plain to them\nWhat can be known is clear\n\n[Chorus]\nIt is the power of God for salvation\nOf everyone who believes in Him\nRighteousness is revealed in the gospel\nFrom faith to faith it comes\n\n[Outro]\nFirst for the Jew and then the Greek\nThe power of God is real",
+    "cot": "full",
+    "seed": 20338
+  }
+}

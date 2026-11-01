@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-11-36-orchestral",
+  "title": "From Him and Through Him",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 11,
+    "verseStart": 36,
+    "verseEnd": 36
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 11,
+      "verseStart": 36,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "mercy"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, ethereal and reverent, organ, strings, piano, harp, choral pads, majestic and awe-inspiring, 80 BPM",
+    "lyrics": "[Verse]\nOh the depth of the riches of God\nHis wisdom is beyond our sight\nHis knowledge is a hidden well\nInfinite in the fading light\nHow unsearchable his judgments are\nHow untraceable his ways\nWe cannot map the hidden depths\nNor trace the end of days\n\n[Chorus]\nFrom him and through him and to him\nAll things are held in his hand\nFrom him and through him and to him\nForever the glory stands\nAll things are his creation’s song\nGlory to him forever\nFrom him and through him and to him\nThe light that never tires\n\n[Verse]\nWho has known the mind of the Lord\nWho has been his counselor\nWe have no answer to give him\nNo debt that needs return\nWho has ever given to him\nThat he should be repaid\nHe needs nothing from our offering\nHis grace is free and paid\n\n[Chorus]\nFrom him and through him and to him\nAll things are held in his hand\nFrom him and through him and to him\nForever the glory stands\nAll things are his creation’s song\nGlory to him forever\nFrom him and through him and to him\nThe light that never tires\n\n[Bridge]\nUnsearchable is his wisdom\nUntraceable is his way\nWe bow before the mystery\nThe light that we cannot say\nNo mind can grasp the counselor\nNo hand can hold the source\nWe rest in the depth of riches\nThe heart of the universe\n\n[Outro]\nFrom him and through him and to him\nTo him be the glory forever\nAmen",
+    "cot": "full",
+    "seed": 20341
+  }
+}

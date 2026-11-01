@@ -1,0 +1,50 @@
+{
+  "id": "verse-45-1-17-choral",
+  "title": "The Righteous Will Live by Faith",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 1,
+    "verseStart": 17,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 1,
+      "verseStart": 17,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frykt",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo with warm choir, harp, piano, cello, flute, strings, solemn and hopeful, 72 BPM",
+    "lyrics": "[Verse]\nI am under obligation to the wise\nAnd to the foolish, both without disguise\nI am eager to preach the good news to you\nWho dwell in the city of Rome, this is true\n\n[Pre-Chorus]\nI am not ashamed of the gospel I hold\nIt is the power of God, a story of old\n\n[Chorus]\nFor in the gospel the righteousness of God is revealed\nFrom faith to faith, as the ancient text sealed\nThe righteous will live by faith, so the soul may be free\nThe righteous will live by faith, eternally\n\n[Verse]\nFor the wrath of God is revealed from on high\nAgainst the ungodliness, the wickedness of the lie\nPeople suppress the truth with their wickedness and sin\nBut what can be known about God is plain within\n\n[Pre-Chorus]\nHe has made it plain to them, clear to see\nThe invisible qualities, the eternal decree\n\n[Chorus]\nFor in the gospel the righteousness of God is revealed\nFrom faith to faith, as the ancient text sealed\nThe righteous will live by faith, so the soul may be free\nThe righteous will live by faith, eternally\n\n[Bridge]\nSince the creation of the world, they have been seen\nUnderstood from what he has made, in between\nHis eternal power and divine nature stand\nSo they are without excuse in this promised land\n\n[Chorus]\nFor in the gospel the righteousness of God is revealed\nFrom faith to faith, as the ancient text sealed\nThe righteous will live by faith, so the soul may be free\nThe righteous will live by faith, eternally\n\n[Outro]\nFirst for the Jew, then for the Greek\nThe power of God, the salvation we seek",
+    "cot": "full",
+    "seed": 20339
+  }
+}

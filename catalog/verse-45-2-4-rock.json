@@ -1,0 +1,43 @@
+{
+  "id": "verse-45-2-4-rock",
+  "title": "Riches of His Kindness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 2,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 2,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, gritty and urgent, electric guitar, distorted bass, driving drums, keys, mood is intense and reflective, 120 BPM",
+    "lyrics": "[Verse]\nYou sit in judgment on another\nCondemning them for what they do\nBut you the judge do the same\nNo excuse remains for you\n\n[Verse]\nGod's judgment comes according to truth\nOn those who act in such a way\nDo you think you will escape\nWhen you judge others day by day\n\n[Chorus]\nDo you despise the riches of his kindness\nForbearance and patience toward you\nNot realizing his kindness\nIs meant to lead you to repentance\n\n[Verse]\nStubborn heart and unrepentant soul\nYou store up wrath for yourself\nFor the day of wrath is coming\nWhen his righteous judgment will be revealed\n\n[Chorus]\nDo you despise the riches of his kindness\nForbearance and patience toward you\nNot realizing his kindness\nIs meant to lead you to repentance\n\n[Bridge]\nHe will repay each one\nAccording to their works alone\nEternal life for patient endurance\nSeeking glory and honor in God\n\n[Chorus]\nDo you despise the riches of his kindness\nForbearance and patience toward you\nNot realizing his kindness\nIs meant to lead you to repentance\n\n[Outro]\nHis kindness leads you to repentance\nTurn away from your stubborn ways\nHis kindness leads you to repentance\nSeek his glory in your days",
+    "cot": "full",
+    "seed": 20342
+  }
+}

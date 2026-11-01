@@ -1,0 +1,871 @@
+{
+ "id": "verse-66-19-6-anthem",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-66-19-6-anthem",
+ "offset_seconds": -1.2200000000002298,
+ "words_heard": 86,
+ "words": 86,
+ "lines": [
+  {
+   "text": "I heard what seemed to be the voice of a great multitude",
+   "heard": 12,
+   "words": 12,
+   "error_s": 1.28,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Like the roar of many waters",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And like the sound of mighty peals of thunder",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Crying out",
+   "heard": 2,
+   "words": 2,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Hallelujah, for the Lord our God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.24,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Almighty reigns",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Hallelujah, hallelujah",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord our God reigns",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let us rejoice and exult",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.19,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And give him the glory",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the marriage of the Lamb has come",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And his bride has made herself ready",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hallelujah, for the Lord our God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.17,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Almighty reigns",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hallelujah, hallelujah",
+   "heard": 2,
+   "words": 2,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord our God reigns",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.22,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 19.88,
+   "weight": 0.48,
+   "note_time": 19.67
+  },
+  {
+   "text": "heard",
+   "time": 21.26,
+   "weight": 0.95,
+   "note_time": 20.0
+  },
+  {
+   "text": "what",
+   "time": 21.88,
+   "weight": 0.98,
+   "note_time": 21.0
+  },
+  {
+   "text": "seemed",
+   "time": 22.64,
+   "weight": 0.98,
+   "note_time": 21.33
+  },
+  {
+   "text": "to",
+   "time": 23.08,
+   "weight": 1.0,
+   "note_time": 21.67
+  },
+  {
+   "text": "be",
+   "time": 23.42,
+   "weight": 1.0,
+   "note_time": 22.0
+  },
+  {
+   "text": "the",
+   "time": 24.41,
+   "weight": 0.38,
+   "note_time": 23.67
+  },
+  {
+   "text": "voice",
+   "time": 25.1,
+   "weight": 0.98,
+   "note_time": 24.0
+  },
+  {
+   "text": "of",
+   "time": 25.98,
+   "weight": 1.0,
+   "note_time": 25.0
+  },
+  {
+   "text": "a",
+   "time": 26.78,
+   "weight": 0.99,
+   "note_time": 25.33
+  },
+  {
+   "text": "great",
+   "time": 27.0,
+   "weight": 1.0,
+   "note_time": 25.67
+  },
+  {
+   "text": "mul",
+   "time": 27.42,
+   "weight": 0.99,
+   "note_time": 26.0
+  },
+  {
+   "text": "ti",
+   "time": 27.73,
+   "weight": 0.99,
+   "note_time": 26.67
+  },
+  {
+   "text": "tude",
+   "time": 28.05,
+   "weight": 0.99,
+   "note_time": 27.0
+  },
+  {
+   "text": "Like",
+   "time": 28.36,
+   "weight": 0.22,
+   "note_time": 28.0
+  },
+  {
+   "text": "the",
+   "time": 29.48,
+   "weight": 0.96,
+   "note_time": 29.0
+  },
+  {
+   "text": "roar",
+   "time": 30.62,
+   "weight": 0.94,
+   "note_time": 29.33
+  },
+  {
+   "text": "of",
+   "time": 31.02,
+   "weight": 1.0,
+   "note_time": 29.67
+  },
+  {
+   "text": "ma",
+   "time": 31.46,
+   "weight": 0.97,
+   "note_time": 30.0
+  },
+  {
+   "text": "ny",
+   "time": 31.81,
+   "weight": 0.97,
+   "note_time": 31.0
+  },
+  {
+   "text": "wa",
+   "time": 32.44,
+   "weight": 0.96,
+   "note_time": 32.0
+  },
+  {
+   "text": "ters",
+   "time": 32.79,
+   "weight": 0.96,
+   "note_time": 32.67
+  },
+  {
+   "text": "And",
+   "time": 34.66,
+   "weight": 0.26,
+   "note_time": 34.67
+  },
+  {
+   "text": "like",
+   "time": 36.32,
+   "weight": 0.98,
+   "note_time": 35.0
+  },
+  {
+   "text": "the",
+   "time": 36.9,
+   "weight": 0.99,
+   "note_time": 35.67
+  },
+  {
+   "text": "sound",
+   "time": 37.36,
+   "weight": 0.99,
+   "note_time": 36.0
+  },
+  {
+   "text": "of",
+   "time": 38.18,
+   "weight": 0.97,
+   "note_time": 37.0
+  },
+  {
+   "text": "mig",
+   "time": 38.84,
+   "weight": 0.99,
+   "note_time": 37.33
+  },
+  {
+   "text": "hty",
+   "time": 39.07,
+   "weight": 0.99,
+   "note_time": 37.67
+  },
+  {
+   "text": "peals",
+   "time": 39.3,
+   "weight": 0.98,
+   "note_time": 38.0
+  },
+  {
+   "text": "of",
+   "time": 40.28,
+   "weight": 0.98,
+   "note_time": 39.0
+  },
+  {
+   "text": "thun",
+   "time": 40.94,
+   "weight": 0.99,
+   "note_time": 40.0
+  },
+  {
+   "text": "der",
+   "time": 41.29,
+   "weight": 0.99,
+   "note_time": 40.67
+  },
+  {
+   "text": "Cry",
+   "time": 42.94,
+   "weight": 0.39,
+   "note_time": 43.0
+  },
+  {
+   "text": "ing",
+   "time": 43.29,
+   "weight": 0.39,
+   "note_time": 43.67
+  },
+  {
+   "text": "out",
+   "time": 45.06,
+   "weight": 1.0,
+   "note_time": 44.0
+  },
+  {
+   "text": "Hal",
+   "time": 52.26,
+   "weight": 0.18,
+   "note_time": 51.0
+  },
+  {
+   "text": "le",
+   "time": 52.61,
+   "weight": 0.18,
+   "note_time": 51.67
+  },
+  {
+   "text": "lu",
+   "time": 52.96,
+   "weight": 0.18,
+   "note_time": 52.0
+  },
+  {
+   "text": "jah,",
+   "time": 53.31,
+   "weight": 0.18,
+   "note_time": 52.67
+  },
+  {
+   "text": "for",
+   "time": 53.66,
+   "weight": 0.48,
+   "note_time": 53.33
+  },
+  {
+   "text": "the",
+   "time": 55.0,
+   "weight": 0.98,
+   "note_time": 53.67
+  },
+  {
+   "text": "Lord",
+   "time": 55.36,
+   "weight": 0.95,
+   "note_time": 54.0
+  },
+  {
+   "text": "our",
+   "time": 56.14,
+   "weight": 0.93,
+   "note_time": 55.0
+  },
+  {
+   "text": "God",
+   "time": 56.94,
+   "weight": 1.0,
+   "note_time": 56.0
+  },
+  {
+   "text": "The",
+   "time": 58.32,
+   "weight": 0.15,
+   "note_time": 57.33
+  },
+  {
+   "text": "Al",
+   "time": 59.02,
+   "weight": 0.46,
+   "note_time": 57.67
+  },
+  {
+   "text": "mig",
+   "time": 59.25,
+   "weight": 0.46,
+   "note_time": 58.0
+  },
+  {
+   "text": "hty",
+   "time": 59.47,
+   "weight": 0.46,
+   "note_time": 58.67
+  },
+  {
+   "text": "reigns",
+   "time": 59.7,
+   "weight": 0.36,
+   "note_time": 59.0
+  },
+  {
+   "text": "Hal",
+   "time": 61.52,
+   "weight": 0.85,
+   "note_time": 60.67
+  },
+  {
+   "text": "le",
+   "time": 61.74,
+   "weight": 0.85,
+   "note_time": 61.0
+  },
+  {
+   "text": "lu",
+   "time": 61.95,
+   "weight": 0.85,
+   "note_time": 61.67
+  },
+  {
+   "text": "jah,",
+   "time": 62.17,
+   "weight": 0.85,
+   "note_time": 62.0
+  },
+  {
+   "text": "hal",
+   "time": 62.86,
+   "weight": 0.27,
+   "note_time": 62.67
+  },
+  {
+   "text": "le",
+   "time": 63.21,
+   "weight": 0.27,
+   "note_time": 63.0
+  },
+  {
+   "text": "lu",
+   "time": 63.56,
+   "weight": 0.27,
+   "note_time": 63.67
+  },
+  {
+   "text": "jah",
+   "time": 63.91,
+   "weight": 0.27,
+   "note_time": 64.0
+  },
+  {
+   "text": "The",
+   "time": 65.48,
+   "weight": 0.33,
+   "note_time": 65.67
+  },
+  {
+   "text": "Lord",
+   "time": 67.4,
+   "weight": 1.0,
+   "note_time": 66.0
+  },
+  {
+   "text": "our",
+   "time": 68.04,
+   "weight": 0.97,
+   "note_time": 67.0
+  },
+  {
+   "text": "God",
+   "time": 68.78,
+   "weight": 1.0,
+   "note_time": 67.67
+  },
+  {
+   "text": "reigns",
+   "time": 69.44,
+   "weight": 0.4,
+   "note_time": 68.0
+  },
+  {
+   "text": "Let",
+   "time": 73.22,
+   "weight": 0.57,
+   "note_time": 72.67
+  },
+  {
+   "text": "us",
+   "time": 74.38,
+   "weight": 1.0,
+   "note_time": 73.0
+  },
+  {
+   "text": "re",
+   "time": 74.86,
+   "weight": 0.99,
+   "note_time": 73.67
+  },
+  {
+   "text": "joice",
+   "time": 75.21,
+   "weight": 0.99,
+   "note_time": 74.0
+  },
+  {
+   "text": "and",
+   "time": 75.68,
+   "weight": 0.96,
+   "note_time": 75.0
+  },
+  {
+   "text": "ex",
+   "time": 76.84,
+   "weight": 0.82,
+   "note_time": 75.67
+  },
+  {
+   "text": "ult",
+   "time": 77.19,
+   "weight": 0.82,
+   "note_time": 76.0
+  },
+  {
+   "text": "And",
+   "time": 78.58,
+   "weight": 0.2,
+   "note_time": 77.67
+  },
+  {
+   "text": "give",
+   "time": 79.16,
+   "weight": 1.0,
+   "note_time": 79.0
+  },
+  {
+   "text": "him",
+   "time": 79.78,
+   "weight": 0.71,
+   "note_time": 79.67
+  },
+  {
+   "text": "the",
+   "time": 80.66,
+   "weight": 1.0,
+   "note_time": 80.67
+  },
+  {
+   "text": "glo",
+   "time": 81.32,
+   "weight": 1.0,
+   "note_time": 81.33
+  },
+  {
+   "text": "ry",
+   "time": 81.61,
+   "weight": 1.0,
+   "note_time": 81.67
+  },
+  {
+   "text": "For",
+   "time": 82.42,
+   "weight": 0.97,
+   "note_time": 82.33
+  },
+  {
+   "text": "the",
+   "time": 83.0,
+   "weight": 1.0,
+   "note_time": 82.67
+  },
+  {
+   "text": "mar",
+   "time": 83.32,
+   "weight": 0.99,
+   "note_time": 82.83
+  },
+  {
+   "text": "riage",
+   "time": 83.67,
+   "weight": 0.99,
+   "note_time": 83.0
+  },
+  {
+   "text": "of",
+   "time": 84.1,
+   "weight": 1.0,
+   "note_time": 83.67
+  },
+  {
+   "text": "the",
+   "time": 84.48,
+   "weight": 0.61,
+   "note_time": 84.0
+  },
+  {
+   "text": "Lamb",
+   "time": 84.54,
+   "weight": 1.0,
+   "note_time": 85.33
+  },
+  {
+   "text": "has",
+   "time": 85.02,
+   "weight": 0.99,
+   "note_time": 85.67
+  },
+  {
+   "text": "come",
+   "time": 85.56,
+   "weight": 1.0,
+   "note_time": 86.0
+  },
+  {
+   "text": "And",
+   "time": 86.46,
+   "weight": 0.98,
+   "note_time": 86.67
+  },
+  {
+   "text": "his",
+   "time": 87.04,
+   "weight": 0.99,
+   "note_time": 87.0
+  },
+  {
+   "text": "bride",
+   "time": 87.44,
+   "weight": 0.98,
+   "note_time": 87.5
+  },
+  {
+   "text": "has",
+   "time": 87.88,
+   "weight": 0.99,
+   "note_time": 87.67
+  },
+  {
+   "text": "made",
+   "time": 88.42,
+   "weight": 1.0,
+   "note_time": 88.0
+  },
+  {
+   "text": "her",
+   "time": 88.84,
+   "weight": 1.0,
+   "note_time": 88.67
+  },
+  {
+   "text": "self",
+   "time": 89.09,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "rea",
+   "time": 89.34,
+   "weight": 1.0,
+   "note_time": 91.0
+  },
+  {
+   "text": "dy",
+   "time": 89.69,
+   "weight": 1.0,
+   "note_time": 92.0
+  },
+  {
+   "text": "Hal",
+   "time": 93.88,
+   "weight": 0.15,
+   "note_time": 95.0
+  },
+  {
+   "text": "le",
+   "time": 94.23,
+   "weight": 0.15,
+   "note_time": 95.67
+  },
+  {
+   "text": "lu",
+   "time": 94.58,
+   "weight": 0.15,
+   "note_time": 96.0
+  },
+  {
+   "text": "jah,",
+   "time": 94.93,
+   "weight": 0.15,
+   "note_time": 96.67
+  },
+  {
+   "text": "for",
+   "time": 98.5,
+   "weight": 0.45,
+   "note_time": 97.33
+  },
+  {
+   "text": "the",
+   "time": 99.0,
+   "weight": 0.99,
+   "note_time": 97.67
+  },
+  {
+   "text": "Lord",
+   "time": 99.36,
+   "weight": 0.98,
+   "note_time": 98.0
+  },
+  {
+   "text": "our",
+   "time": 100.0,
+   "weight": 0.98,
+   "note_time": 99.0
+  },
+  {
+   "text": "God",
+   "time": 100.9,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "The",
+   "time": 102.04,
+   "weight": 0.93,
+   "note_time": 101.33
+  },
+  {
+   "text": "Al",
+   "time": 102.96,
+   "weight": 0.85,
+   "note_time": 102.0
+  },
+  {
+   "text": "mig",
+   "time": 103.2,
+   "weight": 0.85,
+   "note_time": 102.67
+  },
+  {
+   "text": "hty",
+   "time": 103.44,
+   "weight": 0.85,
+   "note_time": 103.0
+  },
+  {
+   "text": "reigns",
+   "time": 103.68,
+   "weight": 0.4,
+   "note_time": 104.0
+  },
+  {
+   "text": "Hal",
+   "time": 105.5,
+   "weight": 0.17,
+   "note_time": 104.67
+  },
+  {
+   "text": "le",
+   "time": 105.74,
+   "weight": 0.17,
+   "note_time": 105.0
+  },
+  {
+   "text": "lu",
+   "time": 105.98,
+   "weight": 0.17,
+   "note_time": 105.67
+  },
+  {
+   "text": "jah,",
+   "time": 106.22,
+   "weight": 0.17,
+   "note_time": 106.0
+  },
+  {
+   "text": "hal",
+   "time": 107.48,
+   "weight": 0.32,
+   "note_time": 106.67
+  },
+  {
+   "text": "le",
+   "time": 107.83,
+   "weight": 0.32,
+   "note_time": 107.0
+  },
+  {
+   "text": "lu",
+   "time": 108.18,
+   "weight": 0.32,
+   "note_time": 107.67
+  },
+  {
+   "text": "jah",
+   "time": 108.53,
+   "weight": 0.32,
+   "note_time": 108.0
+  },
+  {
+   "text": "The",
+   "time": 109.56,
+   "weight": 0.37,
+   "note_time": 109.67
+  },
+  {
+   "text": "Lord",
+   "time": 111.26,
+   "weight": 1.0,
+   "note_time": 110.0
+  },
+  {
+   "text": "our",
+   "time": 112.22,
+   "weight": 0.99,
+   "note_time": 111.0
+  },
+  {
+   "text": "God",
+   "time": 112.74,
+   "weight": 1.0,
+   "note_time": 111.67
+  },
+  {
+   "text": "reigns",
+   "time": 113.46,
+   "weight": 0.4,
+   "note_time": 112.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 2.2 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "6 of 16 lyric lines sit clearly on their notes; 10 are uncertain and printed in grey italics."
+}

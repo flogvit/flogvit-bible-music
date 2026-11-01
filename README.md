@@ -344,7 +344,9 @@ bun scripts/scenes.ts library/<id>                    # one song by hand
 rm -r library/<id>/scenes library/<id>/scenes.json    # to make a song's pictures again from scratch
 ```
 
-`MUSIC_SCENES_MODEL` and `MUSIC_LOOK_MODEL` choose other Ollama models.
+`MUSIC_SCENES_MODEL` and `MUSIC_LOOK_MODEL` choose other Ollama models. The agent is
+`com.flogvit.music-pictures`: pause it and go on again as the generator (Generate), or remove it with
+`scripts/install-pictures.sh --uninstall`. A song left half done goes on from the pictures it has.
 
 ### Single songs or your own batch
 

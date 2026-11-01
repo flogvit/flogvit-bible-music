@@ -1,0 +1,688 @@
+{
+ "id": "verse-19-42-2-polyphony",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-42-2-polyphony",
+ "offset_seconds": 7.119999999999592,
+ "words_heard": 33,
+ "words": 45,
+ "lines": [
+  {
+   "text": "Quemadmodum desiderat cervus ad fontes aquarum",
+   "heard": 5,
+   "words": 6,
+   "error_s": 2.48,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "ita desiderat anima mea ad te, Deus",
+   "heard": 5,
+   "words": 7,
+   "error_s": 1.43,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sitivit anima mea ad Deum fortem, vivum",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "quando veniam et apparebo ante faciem Dei",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Fuerunt mihi lacrimae panes die ac nocte",
+   "heard": 4,
+   "words": 7,
+   "error_s": 1.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "dum dicitur mihi quotidie: ubi est Deus tuus",
+   "heard": 5,
+   "words": 8,
+   "error_s": 1.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "ad te, Deus",
+   "heard": 1,
+   "words": 3,
+   "error_s": 1.23,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Qu",
+   "time": 4.34,
+   "weight": 0.0,
+   "note_time": 2.82
+  },
+  {
+   "text": "e",
+   "time": 4.74,
+   "weight": 0.0,
+   "note_time": 3.18
+  },
+  {
+   "text": "mad",
+   "time": 5.14,
+   "weight": 0.0,
+   "note_time": 3.53
+  },
+  {
+   "text": "mo",
+   "time": 5.54,
+   "weight": 0.0,
+   "note_time": 3.88
+  },
+  {
+   "text": "dum",
+   "time": 5.94,
+   "weight": 0.0,
+   "note_time": 4.24
+  },
+  {
+   "text": "de",
+   "time": 6.34,
+   "weight": 0.38,
+   "note_time": 4.59
+  },
+  {
+   "text": "si",
+   "time": 6.69,
+   "weight": 0.38,
+   "note_time": 4.94
+  },
+  {
+   "text": "de",
+   "time": 7.04,
+   "weight": 0.38,
+   "note_time": 5.29
+  },
+  {
+   "text": "rat",
+   "time": 7.39,
+   "weight": 0.38,
+   "note_time": 5.65
+  },
+  {
+   "text": "cer",
+   "time": 8.58,
+   "weight": 0.21,
+   "note_time": 6.35
+  },
+  {
+   "text": "vus",
+   "time": 8.93,
+   "weight": 0.21,
+   "note_time": 8.82
+  },
+  {
+   "text": "ad",
+   "time": 10.7,
+   "weight": 0.94,
+   "note_time": 9.18
+  },
+  {
+   "text": "fon",
+   "time": 11.28,
+   "weight": 0.96,
+   "note_time": 9.53
+  },
+  {
+   "text": "tes",
+   "time": 11.63,
+   "weight": 0.96,
+   "note_time": 9.88
+  },
+  {
+   "text": "a",
+   "time": 12.74,
+   "weight": 0.95,
+   "note_time": 10.24
+  },
+  {
+   "text": "qu",
+   "time": 13.09,
+   "weight": 0.95,
+   "note_time": 10.59
+  },
+  {
+   "text": "a",
+   "time": 13.43,
+   "weight": 0.95,
+   "note_time": 10.94
+  },
+  {
+   "text": "rum",
+   "time": 13.78,
+   "weight": 0.95,
+   "note_time": 11.29
+  },
+  {
+   "text": "i",
+   "time": 14.12,
+   "weight": 0.28,
+   "note_time": 14.12
+  },
+  {
+   "text": "ta",
+   "time": 14.47,
+   "weight": 0.28,
+   "note_time": 14.82
+  },
+  {
+   "text": "de",
+   "time": 15.84,
+   "weight": 0.4,
+   "note_time": 15.53
+  },
+  {
+   "text": "si",
+   "time": 16.19,
+   "weight": 0.4,
+   "note_time": 16.24
+  },
+  {
+   "text": "de",
+   "time": 16.54,
+   "weight": 0.4,
+   "note_time": 16.94
+  },
+  {
+   "text": "rat",
+   "time": 16.89,
+   "weight": 0.4,
+   "note_time": 17.65
+  },
+  {
+   "text": "a",
+   "time": 17.64,
+   "weight": 0.92,
+   "note_time": 18.0
+  },
+  {
+   "text": "ni",
+   "time": 17.99,
+   "weight": 0.92,
+   "note_time": 18.35
+  },
+  {
+   "text": "ma",
+   "time": 18.33,
+   "weight": 0.92,
+   "note_time": 19.76
+  },
+  {
+   "text": "me",
+   "time": 18.68,
+   "weight": 0.61,
+   "note_time": 20.47
+  },
+  {
+   "text": "a",
+   "time": 19.03,
+   "weight": 0.61,
+   "note_time": 21.18
+  },
+  {
+   "text": "ad",
+   "time": 19.48,
+   "weight": 0.15,
+   "note_time": 21.88
+  },
+  {
+   "text": "te,",
+   "time": 21.05,
+   "weight": 0.0,
+   "note_time": 22.59
+  },
+  {
+   "text": "De",
+   "time": 22.61,
+   "weight": 0.0,
+   "note_time": 23.29
+  },
+  {
+   "text": "us",
+   "time": 24.18,
+   "weight": 0.0,
+   "note_time": 23.65
+  },
+  {
+   "text": "Si",
+   "time": 25.74,
+   "weight": 0.65,
+   "note_time": 25.41
+  },
+  {
+   "text": "ti",
+   "time": 26.09,
+   "weight": 0.65,
+   "note_time": 26.12
+  },
+  {
+   "text": "vit",
+   "time": 26.44,
+   "weight": 0.65,
+   "note_time": 26.82
+  },
+  {
+   "text": "a",
+   "time": 27.14,
+   "weight": 0.85,
+   "note_time": 27.18
+  },
+  {
+   "text": "ni",
+   "time": 27.49,
+   "weight": 0.85,
+   "note_time": 27.53
+  },
+  {
+   "text": "ma",
+   "time": 27.84,
+   "weight": 0.85,
+   "note_time": 27.88
+  },
+  {
+   "text": "me",
+   "time": 28.38,
+   "weight": 0.81,
+   "note_time": 28.24
+  },
+  {
+   "text": "a",
+   "time": 28.73,
+   "weight": 0.81,
+   "note_time": 28.59
+  },
+  {
+   "text": "ad",
+   "time": 29.03,
+   "weight": 0.0,
+   "note_time": 28.94
+  },
+  {
+   "text": "De",
+   "time": 29.32,
+   "weight": 0.26,
+   "note_time": 29.29
+  },
+  {
+   "text": "um",
+   "time": 29.67,
+   "weight": 0.26,
+   "note_time": 29.65
+  },
+  {
+   "text": "for",
+   "time": 31.16,
+   "weight": 0.38,
+   "note_time": 30.0
+  },
+  {
+   "text": "tem,",
+   "time": 31.51,
+   "weight": 0.38,
+   "note_time": 30.35
+  },
+  {
+   "text": "vi",
+   "time": 32.76,
+   "weight": 0.35,
+   "note_time": 30.71
+  },
+  {
+   "text": "vum",
+   "time": 33.11,
+   "weight": 0.35,
+   "note_time": 31.06
+  },
+  {
+   "text": "qu",
+   "time": 36.26,
+   "weight": 0.15,
+   "note_time": 36.35
+  },
+  {
+   "text": "an",
+   "time": 36.52,
+   "weight": 0.15,
+   "note_time": 36.71
+  },
+  {
+   "text": "do",
+   "time": 36.78,
+   "weight": 0.15,
+   "note_time": 37.41
+  },
+  {
+   "text": "ve",
+   "time": 37.04,
+   "weight": 0.39,
+   "note_time": 38.12
+  },
+  {
+   "text": "ni",
+   "time": 37.39,
+   "weight": 0.39,
+   "note_time": 38.47
+  },
+  {
+   "text": "am",
+   "time": 37.74,
+   "weight": 0.39,
+   "note_time": 38.82
+  },
+  {
+   "text": "et",
+   "time": 39.2,
+   "weight": 0.94,
+   "note_time": 39.53
+  },
+  {
+   "text": "ap",
+   "time": 39.98,
+   "weight": 0.73,
+   "note_time": 40.24
+  },
+  {
+   "text": "pa",
+   "time": 40.33,
+   "weight": 0.73,
+   "note_time": 40.59
+  },
+  {
+   "text": "re",
+   "time": 40.68,
+   "weight": 0.73,
+   "note_time": 40.94
+  },
+  {
+   "text": "bo",
+   "time": 41.03,
+   "weight": 0.73,
+   "note_time": 41.65
+  },
+  {
+   "text": "an",
+   "time": 41.4,
+   "weight": 0.97,
+   "note_time": 42.35
+  },
+  {
+   "text": "te",
+   "time": 41.69,
+   "weight": 0.97,
+   "note_time": 43.06
+  },
+  {
+   "text": "fa",
+   "time": 41.98,
+   "weight": 0.9,
+   "note_time": 45.18
+  },
+  {
+   "text": "ci",
+   "time": 42.33,
+   "weight": 0.9,
+   "note_time": 45.88
+  },
+  {
+   "text": "em",
+   "time": 42.68,
+   "weight": 0.9,
+   "note_time": 46.24
+  },
+  {
+   "text": "De",
+   "time": 43.2,
+   "weight": 0.97,
+   "note_time": 46.59
+  },
+  {
+   "text": "i",
+   "time": 43.55,
+   "weight": 0.97,
+   "note_time": 48.0
+  },
+  {
+   "text": "Fu",
+   "time": 47.62,
+   "weight": 0.83,
+   "note_time": 48.71
+  },
+  {
+   "text": "e",
+   "time": 47.97,
+   "weight": 0.83,
+   "note_time": 49.41
+  },
+  {
+   "text": "runt",
+   "time": 48.32,
+   "weight": 0.83,
+   "note_time": 49.76
+  },
+  {
+   "text": "mi",
+   "time": 49.02,
+   "weight": 0.98,
+   "note_time": 50.12
+  },
+  {
+   "text": "hi",
+   "time": 49.37,
+   "weight": 0.98,
+   "note_time": 50.82
+  },
+  {
+   "text": "lac",
+   "time": 49.92,
+   "weight": 0.0,
+   "note_time": 51.53
+  },
+  {
+   "text": "ri",
+   "time": 50.46,
+   "weight": 0.0,
+   "note_time": 51.88
+  },
+  {
+   "text": "mae",
+   "time": 51.01,
+   "weight": 0.0,
+   "note_time": 52.24
+  },
+  {
+   "text": "pa",
+   "time": 51.56,
+   "weight": 0.0,
+   "note_time": 52.59
+  },
+  {
+   "text": "nes",
+   "time": 52.1,
+   "weight": 0.0,
+   "note_time": 52.94
+  },
+  {
+   "text": "di",
+   "time": 52.65,
+   "weight": 0.0,
+   "note_time": 53.29
+  },
+  {
+   "text": "e",
+   "time": 53.19,
+   "weight": 0.0,
+   "note_time": 53.65
+  },
+  {
+   "text": "ac",
+   "time": 53.74,
+   "weight": 0.18,
+   "note_time": 54.0
+  },
+  {
+   "text": "noc",
+   "time": 55.64,
+   "weight": 0.39,
+   "note_time": 54.35
+  },
+  {
+   "text": "te",
+   "time": 55.99,
+   "weight": 0.39,
+   "note_time": 55.06
+  },
+  {
+   "text": "dum",
+   "time": 58.16,
+   "weight": 0.45,
+   "note_time": 55.76
+  },
+  {
+   "text": "di",
+   "time": 59.06,
+   "weight": 0.96,
+   "note_time": 56.12
+  },
+  {
+   "text": "ci",
+   "time": 59.41,
+   "weight": 0.96,
+   "note_time": 56.47
+  },
+  {
+   "text": "tur",
+   "time": 59.76,
+   "weight": 0.96,
+   "note_time": 59.29
+  },
+  {
+   "text": "mi",
+   "time": 60.36,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "hi",
+   "time": 60.71,
+   "weight": 0.99,
+   "note_time": 60.71
+  },
+  {
+   "text": "qu",
+   "time": 61.03,
+   "weight": 0.0,
+   "note_time": 61.41
+  },
+  {
+   "text": "o",
+   "time": 61.34,
+   "weight": 0.0,
+   "note_time": 62.12
+  },
+  {
+   "text": "ti",
+   "time": 61.66,
+   "weight": 0.0,
+   "note_time": 62.47
+  },
+  {
+   "text": "di",
+   "time": 61.98,
+   "weight": 0.0,
+   "note_time": 62.82
+  },
+  {
+   "text": "e:",
+   "time": 62.29,
+   "weight": 0.0,
+   "note_time": 63.53
+  },
+  {
+   "text": "u",
+   "time": 62.61,
+   "weight": 0.0,
+   "note_time": 64.24
+  },
+  {
+   "text": "bi",
+   "time": 62.92,
+   "weight": 0.0,
+   "note_time": 64.94
+  },
+  {
+   "text": "est",
+   "time": 63.24,
+   "weight": 0.82,
+   "note_time": 65.65
+  },
+  {
+   "text": "De",
+   "time": 63.76,
+   "weight": 0.3,
+   "note_time": 67.76
+  },
+  {
+   "text": "us",
+   "time": 64.11,
+   "weight": 0.3,
+   "note_time": 68.47
+  },
+  {
+   "text": "tu",
+   "time": 65.37,
+   "weight": 0.0,
+   "note_time": 68.82
+  },
+  {
+   "text": "us",
+   "time": 66.63,
+   "weight": 0.0,
+   "note_time": 69.18
+  },
+  {
+   "text": "ad",
+   "time": 67.9,
+   "weight": 0.0,
+   "note_time": 70.59
+  },
+  {
+   "text": "te,",
+   "time": 69.16,
+   "weight": 0.0,
+   "note_time": 71.29
+  },
+  {
+   "text": "De",
+   "time": 70.42,
+   "weight": 0.89,
+   "note_time": 71.65
+  },
+  {
+   "text": "us",
+   "time": 70.77,
+   "weight": 0.89,
+   "note_time": 72.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "1 of 7 lyric lines sit clearly on their notes; 6 are uncertain and printed in grey italics."
+}

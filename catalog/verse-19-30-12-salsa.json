@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-30-12-salsa",
+  "title": "Mourning into Dancing",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 30,
+    "verseStart": 12,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 30,
+      "verseStart": 12,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "salsa"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Latin worship salsa, piano montuno, congas, timbales and bongos, a bright trumpet and trombone section, bass tumbao on the clave, joyful female lead with a coro answering, 98 BPM",
+    "lyrics": "[Verse]\nI was dressed in sackcloth\nSitting in the dust\nBut you came and lifted me\nYou turned it all around\n\n[Chorus]\nYou turned my mourning into dancing\nYou clothed me with joy\nMy heart will sing your praise\nAnd not be silent\n\n[Verse]\nTake away my sorrow\nPut the music in my feet\nLord, my God, I thank you\nForever I will sing\n\n[Chorus]\nYou turned my mourning into dancing\nYou clothed me with joy\nMy heart will sing your praise\nAnd not be silent\n\n[Bridge]\nBaila, baila, dance before the Lord\nI will thank you forever\n\n[Chorus]\nYou turned my mourning into dancing\nYou clothed me with joy\nMy heart will sing your praise\nAnd not be silent",
+    "cot": "full",
+    "seed": 30016
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "story-elias-himmelfart-southern-gospel",
+  "title": "Chariot of Fire",
+  "kind": "story",
+  "anchor": {
+    "story": "elias-himmelfart"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 2,
+      "verseStart": 9,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "southern-gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "elias-himmelfart"
+    ],
+    "persons": [
+      "elia"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Southern gospel male quartet, high tenor, lead, baritone and a booming bass singer trading lines, honky-tonk gospel piano, upright bass, brushed drums, bright major key, bouncy shuffle, 112 BPM",
+    "lyrics": "[Verse]\nElijah walked with Elisha by the river Jordan's side\nAsk me what you want, my son, before I cross the great divide\nElisha said a double portion of your spirit let it be\nIf you see me when I'm taken, it will come to you, said he\n\n[Chorus]\nSwing low, chariot of fire\nHorses of fire, carry him higher\nUp in a whirlwind, gone in a flash\nElijah went home and he never looked back\n\n[Verse]\nAs they walked along and talked, the sky began to burn\nA chariot came between them and there would be no return\nMy father, oh my father, cried Elisha on the ground\nAnd he picked up the mantle that came floating softly down\n\n[Chorus]\nSwing low, chariot of fire\nHorses of fire, carry him higher\nUp in a whirlwind, gone in a flash\nElijah went home and he never looked back\n\n[Outro]\nHe never looked back\nNo, he never looked back",
+    "cot": "full",
+    "seed": 30008
+  }
+}

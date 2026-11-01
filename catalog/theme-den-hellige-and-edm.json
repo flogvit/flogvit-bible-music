@@ -1,0 +1,48 @@
+{
+  "id": "theme-den-hellige-and-edm",
+  "title": "Wind and Fire",
+  "kind": "theme",
+  "anchor": {
+    "theme": "den-hellige-and"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "edm"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "pinse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, EDM worship, four-on-the-floor kick, side-chained synth pads, plucked synth arpeggios, a long rising build into a big drop, euphoric female vocal, crowd singing along, 126 BPM",
+    "lyrics": "[Verse]\nLike a rushing mighty wind\nFilling every room\nTongues of fire on every head\nSpirit, fall on us too\n\n[Pre-Chorus]\nThe wind blows where it wants to\nWe hear it but don't know where it goes\n\n[Chorus]\nCome, Holy Spirit, come\nWind and fire, fall on us\nCome, Holy Spirit, come\nWind and fire, fall on us\n\n[Verse]\nAll of them were filled\nSpeaking every tongue\nEvery nation hears his name\nThe new day has begun\n\n[Pre-Chorus]\nThe wind blows where it wants to\nWe hear it but don't know where it goes\n\n[Chorus]\nCome, Holy Spirit, come\nWind and fire, fall on us\nCome, Holy Spirit, come\nWind and fire, fall on us",
+    "cot": "full",
+    "seed": 30022
+  }
+}

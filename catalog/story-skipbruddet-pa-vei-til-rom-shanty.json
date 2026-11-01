@@ -1,0 +1,54 @@
+{
+  "id": "story-skipbruddet-pa-vei-til-rom-shanty",
+  "title": "Keep Up Your Courage",
+  "kind": "story",
+  "anchor": {
+    "story": "skipbruddet-pa-vei-til-rom"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 27,
+      "verseStart": 20,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 44,
+      "chapter": 27,
+      "verseStart": 41,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "shanty"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "paulus",
+      "tro"
+    ],
+    "stories": [
+      "skipbruddet-pa-vei-til-rom"
+    ],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "call-response",
+  "request": {
+    "style": "English, sea shanty, a rough male crew singing in unison with a lead calling the lines, heavy foot stomps, accordion, fiddle and bodhrán, hearty tavern sound, 104 BPM",
+    "lyrics": "[Verse]\nNo sun, no stars for many days\nKeep up your courage, men\nThe storm was raging on the waves\nKeep up your courage, men\nWe gave up hope of being saved\nKeep up your courage, men\nThen Paul stood up and spoke to us\nKeep up your courage, men\n\n[Chorus]\nAn angel stood beside me in the night\nNot one of you will be lost\nOnly the ship, only the ship\nNot one of you will be lost\n\n[Verse]\nWe struck a sandbar in the bay\nKeep up your courage, men\nThe stern was broken by the waves\nKeep up your courage, men\nSome swam and some on planks of wood\nKeep up your courage, men\nAnd every soul came safe to land\nKeep up your courage, men\n\n[Chorus]\nAn angel stood beside me in the night\nNot one of you will be lost\nOnly the ship, only the ship\nNot one of you will be lost",
+    "cot": "full",
+    "seed": 30027
+  }
+}

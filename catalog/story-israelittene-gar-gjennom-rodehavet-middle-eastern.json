@@ -1,0 +1,52 @@
+{
+  "id": "story-israelittene-gar-gjennom-rodehavet-middle-eastern",
+  "title": "Horse and Rider",
+  "kind": "story",
+  "anchor": {
+    "story": "israelittene-gar-gjennom-rodehavet"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 2,
+      "chapter": 15,
+      "verseStart": 20,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "middle-eastern"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "moses",
+      "glede"
+    ],
+    "stories": [
+      "israelittene-gar-gjennom-rodehavet"
+    ],
+    "persons": [
+      "miriam"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ancient Middle Eastern dance song, a women's chorus led by a strong female voice, frame drums and darbuka, oud, ney flute, ululation and handclaps, Phrygian dominant scale, 6/8, 132 BPM",
+    "lyrics": "[Verse]\nMiriam took the tambourine\nAll the women followed her\nDancing on the farther shore\nWhere the sea had closed once more\n\n[Chorus]\nSing to the Lord, for he is highly exalted\nHorse and rider he has hurled into the sea\nSing to the Lord, for he is highly exalted\nHorse and rider he has hurled into the sea\n\n[Verse]\nThe Lord is my strength and my song\nHe has become my salvation\nHe is my God and I will praise him\nMy father's God, I will exalt him\n\n[Chorus]\nSing to the Lord, for he is highly exalted\nHorse and rider he has hurled into the sea\nSing to the Lord, for he is highly exalted\nHorse and rider he has hurled into the sea",
+    "cot": "full",
+    "seed": 30029
+  }
+}

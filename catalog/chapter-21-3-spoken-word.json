@@ -1,0 +1,48 @@
+{
+  "id": "chapter-21-3-spoken-word",
+  "title": "A Time for Everything",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 21,
+    "chapter": 3
+  },
+  "references": [
+    {
+      "bookId": 21,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 21,
+      "chapter": 3,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "spoken-word"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "visdom"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, spoken word poetry, a calm male voice speaking rhythmic lines over ambient piano and soft cello, a quiet female voice singing the short refrain, intimate and reflective, 70 BPM",
+    "lyrics": "[Verse]\nFor everything there is a season\nA time for every matter under heaven\nA time to be born, and a time to die\nA time to plant, and a time to uproot what was planted\nA time to tear down, and a time to build\n\n[Chorus]\nHe has made everything beautiful in its time\nEternity set in our hearts\n\n[Verse]\nA time to weep, and a time to laugh\nA time to mourn, and a time to dance\nA time to embrace, and a time to let go\nA time to keep silent, and a time to speak\nA time for war, and a time for peace\n\n[Chorus]\nHe has made everything beautiful in its time\nEternity set in our hearts\n\n[Outro]\nEverything beautiful in its time",
+    "cot": "full",
+    "seed": 30019
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "theme-frelsen-brass-band",
+  "title": "Marching to Zion's Gate",
+  "kind": "theme",
+  "anchor": {
+    "theme": "frelsen"
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 10,
+      "verseStart": 9,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 19,
+      "chapter": 118,
+      "verseStart": 14,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "brass-band"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Salvation Army brass band, cornets, tenor horns, euphoniums and tubas, snare drum and bass drum march, an open-air congregation singing in unison behind a strong male officer leading, bold and triumphant march, 112 BPM",
+    "lyrics": "[Verse]\nIf you confess with your mouth\nThat Jesus Christ is Lord\nAnd believe within your heart\nThat God has raised him up\nYou will be saved\n\n[Chorus]\nThe Lord is my strength and my song\nHe has become my salvation\nShouts of joy in the tents of the righteous\nThe Lord's right hand does valiantly\n\n[Verse]\nEveryone who calls on him\nWill never be put to shame\nThere is no Jew or Greek\nFor he is Lord of all\nCall on his name\n\n[Chorus]\nThe Lord is my strength and my song\nHe has become my salvation\nShouts of joy in the tents of the righteous\nThe Lord's right hand does valiantly\n\n[Outro]\nCall on his name",
+    "cot": "full",
+    "seed": 30012
+  }
+}

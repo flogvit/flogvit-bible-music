@@ -47,6 +47,8 @@ export interface Song {
   references: Passage[];
   style: string[];
   styleDescription?: string;
+  /** The language it is sung in (ISO 639-1); English when missing. */
+  language?: string;
   tags: {
     sentiment?: string[];
     liturgy?: string[];

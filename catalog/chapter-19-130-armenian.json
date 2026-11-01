@@ -1,0 +1,43 @@
+{
+  "id": "chapter-19-130-armenian",
+  "title": "Out of the Depths",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 130
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 130,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "armenian"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "tilgivelse",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Armenian sacred chant, solemn mixed choir and a soprano soloist, a duduk melody over a sustained drone, ancient modal harmony, stone church reverb, mournful yet steady, 58 BPM",
+    "lyrics": "[Verse]\nOut of the depths I cry to you, O Lord\nLord, hear my voice\nLet your ears be attentive\nTo my cry for mercy\n\n[Chorus]\nMy soul waits for the Lord\nMore than watchmen for the morning\nMore than watchmen for the morning\n\n[Verse]\nIf you, Lord, kept a record of sins\nLord, who could stand\nBut with you there is forgiveness\nAnd in your word I hope\n\n[Chorus]\nMy soul waits for the Lord\nMore than watchmen for the morning\nMore than watchmen for the morning\n\n[Outro]\nWith the Lord there is steadfast love",
+    "cot": "full",
+    "seed": 30032
+  }
+}

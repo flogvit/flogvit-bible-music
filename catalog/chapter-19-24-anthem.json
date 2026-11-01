@@ -1,0 +1,48 @@
+{
+  "id": "chapter-19-24-anthem",
+  "title": "King of Glory",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 24
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 24,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 19,
+      "chapter": 24,
+      "verseStart": 7,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "anthem"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, triumphant cinematic anthem, massive symphonic choir with men and women answering each other, brass fanfares, pounding timpani, full orchestra, victorious major key, 104 BPM",
+    "lyrics": "[Verse]\nThe earth is the Lord's and all it holds\nThe world and all who live in it\nFor he founded it upon the seas\nAnd set it firm upon the waters\n\n[Chorus]\nLift up your heads, you gates\nBe lifted up, you ancient doors\nThat the King of glory may come in\n\n[Verse]\nWho is this King of glory\nThe Lord, strong and mighty\nThe Lord, mighty in battle\nWho is he, this King of glory\n\n[Chorus]\nLift up your heads, you gates\nBe lifted up, you ancient doors\nThat the King of glory may come in\n\n[Outro]\nThe Lord of hosts, he is the King of glory",
+    "cot": "full",
+    "seed": 30033
+  }
+}

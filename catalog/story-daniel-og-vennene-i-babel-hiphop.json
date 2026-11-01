@@ -1,0 +1,47 @@
+{
+  "id": "story-daniel-og-vennene-i-babel-hiphop",
+  "title": "Not My Plate",
+  "kind": "story",
+  "anchor": {
+    "story": "daniel-og-vennene-i-babel"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "hiphop"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "visdom",
+      "tro"
+    ],
+    "stories": [
+      "daniel-og-vennene-i-babel"
+    ],
+    "persons": [
+      "daniel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Christian hip hop, confident male rapper delivering tight rhymed verses, a melodic sung hook by a female vocalist, boom bap drums, deep 808 bass, dark piano loop, 90 BPM",
+    "lyrics": "[Verse]\nTaken from Jerusalem, dropped in Babylon\nNew name, new tongue, they want the old me gone\nKings table spread with the richest wine and meat\nDaniel made up his mind, that is food I won't eat\nAsked the chief official, give us ten days of greens\nWater and vegetables, then see what it means\nIf we look worse than the boys who eat the king's food\nDo what you want, but give us ten days to prove\n\n[Chorus]\nI'm in Babylon but I'm not of it\nThey can change my name but they can't change my heart\nI won't bow down, I won't be bought\nIn Babylon, I still belong to God\n\n[Verse]\nTen days later, look at them, they shine\nHealthier and stronger than the ones who drank the wine\nGod gave them knowledge, wisdom, every skill in a book\nDaniel understood the visions and the dreams they took\nThe king put them to the test with every question he had\nTen times better than the magicians in his land\nSo when the world says blend in, take the easy road\nRemember four young men who would not let go\n\n[Chorus]\nI'm in Babylon but I'm not of it\nThey can change my name but they can't change my heart\nI won't bow down, I won't be bought\nIn Babylon, I still belong to God",
+    "cot": "full",
+    "seed": 30018
+  }
+}

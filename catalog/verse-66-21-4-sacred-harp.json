@@ -1,0 +1,49 @@
+{
+  "id": "verse-66-21-4-sacred-harp",
+  "title": "No More Tears",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 21,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 21,
+      "verseStart": 3,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "sacred-harp"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "endetiden",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, Sacred Harp shape-note singing, loud raw four-part congregation seated in a hollow square, no instruments, open fifths and bare harmonies, a fuguing entry in each verse, rustic Appalachian voices, strong accented downbeats, 3/4, 96 BPM",
+    "lyrics": "[Verse]\nI heard a voice come from the throne\nBehold, God dwells with men\nHe makes his home among his own\nAnd they are his again\n\n[Verse]\nHe wipes the tears from every eye\nAnd death shall be no more\nNo grief, no pain, no mourning cry\nUpon that shining shore\n\n[Verse]\nThe former things have passed away\nThe one upon the throne\nSays, I make all things new today\nAnd claims us as his own\n\n[Verse]\nSo write it down, these words are true\nAnd trustworthy and sure\nLord, make my weary spirit new\nTill I am home secure",
+    "cot": "full",
+    "seed": 30006
+  }
+}

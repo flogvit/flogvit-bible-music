@@ -1,0 +1,44 @@
+{
+  "id": "verse-23-6-3-coptic",
+  "title": "Holy, Holy, Holy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 6,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "coptic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Coptic Orthodox hymn, a male cantor singing long melismatic phrases answered by a group of deacons, hand cymbals and a triangle keeping time, ancient Egyptian church modes, solemn and ornate, 70 BPM",
+    "lyrics": "[Verse]\nIn the year that King Uzziah died\nI saw the Lord on a high and lofty throne\nThe train of his robe filled the temple\nSeraphim stood above him\n\n[Chorus]\nHoly, holy, holy is the Lord of hosts\nThe whole earth is full of his glory\n\n[Verse]\nWith two wings they covered their faces\nWith two wings they covered their feet\nWith two wings they flew\nAnd they called out to one another\n\n[Chorus]\nHoly, holy, holy is the Lord of hosts\nThe whole earth is full of his glory\n\n[Outro]\nHoly, holy, holy",
+    "cot": "full",
+    "seed": 30031
+  }
+}

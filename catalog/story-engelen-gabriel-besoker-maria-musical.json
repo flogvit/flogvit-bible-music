@@ -1,0 +1,49 @@
+{
+  "id": "story-engelen-gabriel-besoker-maria-musical",
+  "title": "Let It Be to Me",
+  "kind": "story",
+  "anchor": {
+    "story": "engelen-gabriel-besoker-maria"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 26,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "musical"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [
+      "engelen-gabriel-besoker-maria"
+    ],
+    "persons": [
+      "maria-jesu-mor",
+      "gabriel"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, musical theatre duet, a bright tenor as the angel and a clear soprano as the young woman singing in turn and then together, theatre orchestra with strings, woodwinds and harp, storytelling with dramatic swells, 92 BPM",
+    "lyrics": "[Verse]\nDo not be afraid, Mary\nYou have found favor with God\nYou will bear a son and call him Jesus\nAnd his kingdom will never end\n\n[Verse]\nHow can this be, how can this be\nWhen I have never known a man\nI am only a girl from Nazareth\nHow can this be his plan\n\n[Chorus]\nNothing is impossible with God\nNothing is impossible with God\n\n[Verse]\nThe Holy Spirit will come upon you\nThe power of the Most High will overshadow you\nAnd your cousin Elizabeth in her old age\nIs with child, for nothing is too hard\n\n[Verse]\nI am the servant of the Lord\nLet it be to me according to your word\nI am the servant of the Lord\nLet it be to me as you have said\n\n[Chorus]\nNothing is impossible with God\nNothing is impossible with God",
+    "cot": "full",
+    "seed": 30025
+  }
+}

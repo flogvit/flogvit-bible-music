@@ -1,0 +1,50 @@
+{
+  "id": "chapter-19-46-chorale",
+  "title": "Gud er vår tilflukt",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 46
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 46,
+      "verseStart": 2,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 19,
+      "chapter": 46,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "chorale"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osnb",
+  "form": "strophic",
+  "request": {
+    "style": "Norwegian, Lutheran chorale, a full church congregation singing in unison with a mighty pipe organ, steady even notes, plain and majestic, 4/4, 72 BPM",
+    "lyrics": "[Verse]\nGud er vår tilflukt og vår borg\nen hjelp i nød så nær\nVi frykter ikke i vår sorg\nom jorden skjelver her\n\n[Verse]\nLa havet bruse, fjellet gå\nog vannet skumme vilt\nGuds by skal likevel bestå\nder elven renner stilt\n\n[Verse]\nNår folkene i vrede står\nog riker raver tungt\nhan løfter røsten, jorden går\nog alt blir stille, ungt\n\n[Verse]\nHærskarers Herre er med oss\nvår borg er Jakobs Gud\nVær stille, kjenn at jeg er Gud\nla jorden høre bud",
+    "cot": "full",
+    "seed": 30035
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-19-150-mass-choir",
+  "title": "Everything That Breathes",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 150
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 150,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "mass-choir"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary gospel mass choir, a huge choir in three-part harmony led by a fiery choir director shouting ad-libs, Hammond B3 organ, funky slap bass, tight drums, horn stabs, ends in a fast praise break, 128 BPM",
+    "lyrics": "[Verse]\nPraise the Lord in his sanctuary\nPraise him in the mighty heavens\nPraise him for his powerful deeds\nPraise him for his surpassing greatness\n\n[Chorus]\nLet everything that has breath\nPraise the Lord, praise the Lord\nLet everything that has breath\nPraise the Lord\n\n[Verse]\nPraise him with the trumpet blast\nPraise him with the harp and lyre\nPraise him with the tambourine and dancing\nPraise him with the strings and pipe\n\n[Chorus]\nLet everything that has breath\nPraise the Lord, praise the Lord\nLet everything that has breath\nPraise the Lord\n\n[Bridge]\nClap your hands, crash the cymbals\nRing them loud, praise him louder\n\n[Chorus]\nLet everything that has breath\nPraise the Lord, praise the Lord\nLet everything that has breath\nPraise the Lord",
+    "cot": "full",
+    "seed": 30010
+  }
+}

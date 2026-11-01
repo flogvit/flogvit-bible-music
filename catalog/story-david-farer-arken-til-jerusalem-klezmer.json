@@ -1,0 +1,52 @@
+{
+  "id": "story-david-farer-arken-til-jerusalem-klezmer",
+  "title": "With All His Might",
+  "kind": "story",
+  "anchor": {
+    "story": "david-farer-arken-til-jerusalem"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 6,
+      "verseStart": 12,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 10,
+      "chapter": 6,
+      "verseStart": 21,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "klezmer"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "david",
+      "glede"
+    ],
+    "stories": [
+      "david-farer-arken-til-jerusalem"
+    ],
+    "persons": [
+      "david"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Messianic Jewish worship dance, klezmer clarinet, violin, accordion, upright bass, tambourine, a hora rhythm that keeps speeding up, joyful male lead and a circle-dance chorus shouting hey, Freygish mode, 140 BPM",
+    "lyrics": "[Verse]\nThey brought the ark up to the city\nWith shouting and the sound of the horn\nDavid danced before the Lord\nWith all his might, with all his might\n\n[Chorus]\nDance, dance before the Lord\nLeap for joy before the Lord\nI will celebrate before the Lord\nI will dance before the Lord\n\n[Verse]\nMichal watched him from the window\nSaw the king leaping in the street\nI will be even more undignified\nThan this for the Lord\n\n[Chorus]\nDance, dance before the Lord\nLeap for joy before the Lord\nI will celebrate before the Lord\nI will dance before the Lord\n\n[Outro]\nWith all his might",
+    "cot": "full",
+    "seed": 30030
+  }
+}

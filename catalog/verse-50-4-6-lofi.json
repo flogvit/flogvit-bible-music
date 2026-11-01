@@ -1,0 +1,45 @@
+{
+  "id": "verse-50-4-6-lofi",
+  "title": "Do Not Be Anxious",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 50,
+    "chapter": 4,
+    "verseStart": 6,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "lofi"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn",
+      "frykt"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lo-fi hip hop, dusty swung drum loop, warm Rhodes chords, vinyl crackle, a soft relaxed male vocal half sung, mellow late-night calm, 78 BPM",
+    "lyrics": "[Verse]\nLate at night my mind won't rest\nRunning through the what ifs\nLay it down, the weight I hold\nEverything in prayer\n\n[Chorus]\nDo not be anxious about anything\nBring it all to God with thanks\nAnd the peace that passes understanding\nWill guard your heart and mind\n\n[Verse]\nEvery worry, every fear\nEvery little thing\nSay it slowly, say thank you\nLet it go to him\n\n[Chorus]\nDo not be anxious about anything\nBring it all to God with thanks\nAnd the peace that passes understanding\nWill guard your heart and mind",
+    "cot": "full",
+    "seed": 30024
+  }
+}

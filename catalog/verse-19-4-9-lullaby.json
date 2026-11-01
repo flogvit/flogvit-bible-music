@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-4-9-lullaby",
+  "title": "In Peace I Lie Down",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 4,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 4,
+      "verseStart": 9,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 19,
+      "chapter": 121,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "lullaby"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lullaby, a soft tender female voice almost whispering, music box, celesta, gentle nylon string guitar, rocking 3/4, very calm and sleepy, 56 BPM",
+    "lyrics": "[Verse]\nClose your eyes, the day is done\nThe stars are out, the night has come\nIn peace I will lie down and sleep\nFor you alone, Lord, make me safe\n\n[Chorus]\nSleep, my little one, sleep\nHe who keeps you will not slumber\nSleep, my little one, sleep\nHe will never sleep\n\n[Verse]\nThe moon is watching from the sky\nThe wind is singing lullaby\nIn peace I will lie down and sleep\nFor you alone, Lord, make me safe\n\n[Chorus]\nSleep, my little one, sleep\nHe who keeps you will not slumber\nSleep, my little one, sleep\nHe will never sleep",
+    "cot": "full",
+    "seed": 30026
+  }
+}

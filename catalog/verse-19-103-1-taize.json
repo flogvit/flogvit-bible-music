@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-103-1-taize",
+  "title": "Bless the Lord, My Soul",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 103,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 103,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "taize"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "chant",
+  "request": {
+    "style": "English, Taizé chant, short meditative ostinato repeated by a mixed choir in four-part harmony, soft classical guitar, gentle organ, a solo flute weaving a descant over the repetitions, candlelit night prayer, 3/4, 66 BPM",
+    "lyrics": "[Verse]\nBless the Lord, my soul\nAll that is in me, bless his name\nBless the Lord, my soul\nDo not forget his kindness\n\n[Verse]\nBless the Lord, my soul\nAll that is in me, bless his name\nBless the Lord, my soul\nDo not forget his kindness\n\n[Verse]\nBless the Lord, my soul\nAll that is in me, bless his name\nBless the Lord, my soul\nDo not forget his kindness\n\n[Verse]\nBless the Lord, my soul\nAll that is in me, bless his name\nBless the Lord, my soul\nDo not forget his kindness\n\n[Verse]\nBless the Lord, my soul\nAll that is in me, bless his name\nBless the Lord, my soul\nDo not forget his kindness\n\n[Verse]\nBless the Lord, my soul\nAll that is in me, bless his name\nBless the Lord, my soul\nDo not forget his kindness\n\n[Outro]\nBless the Lord, my soul",
+    "cot": "full",
+    "seed": 30002
+  }
+}

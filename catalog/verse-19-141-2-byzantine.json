@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-141-2-byzantine",
+  "title": "Let My Prayer Rise Like Incense",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 141,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 141,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "byzantine"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Byzantine Orthodox chant, deep male choir holding a sustained ison drone, solo cantor singing long melismatic ornamented lines above it, no instruments, incense-filled cathedral reverb, Byzantine modal scale, solemn and timeless, 56 BPM",
+    "lyrics": "[Verse]\nLord, I call to you, hurry to me\nListen to my voice when I call to you\nHear me, O Lord\nHear me, O Lord\n\n[Chorus]\nLet my prayer rise before you like incense\nThe lifting of my hands like the evening sacrifice\n\n[Verse]\nSet a guard, O Lord, over my mouth\nKeep watch at the door of my lips\nHear me, O Lord\nHear me, O Lord\n\n[Chorus]\nLet my prayer rise before you like incense\nThe lifting of my hands like the evening sacrifice\n\n[Outro]\nLord, have mercy\nLord, have mercy",
+    "cot": "full",
+    "seed": 30003
+  }
+}

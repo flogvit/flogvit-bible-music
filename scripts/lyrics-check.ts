@@ -95,7 +95,9 @@ It is FINE, and not a problem to report, when:
   fewer times: Whisper often writes such a run only once;
 - "Thank you", "Thanks for watching", "Amen" or a word or two is heard in silence or after the singing ends:
   Whisper invents such words on quiet audio;
-- there are wordless vocals (ooh, ah, la) or instrumental parts.
+- there are wordless vocals (ooh, ah, la) or instrumental parts;
+- in Norwegian or Latin lyrics, Whisper spells a word another way that sounds the same (caeli/celi, i/j,
+  eleison/eleyson, jeg/eg, meg/mæ), or a choir's long held vowels make it write a word in pieces.
 Words marked (?) were heard with low confidence. Phrases from a "second listen" cover a stretch the first
 pass missed; use them in place of that stretch.
 

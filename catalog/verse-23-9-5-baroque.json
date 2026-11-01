@@ -1,0 +1,47 @@
+{
+  "id": "verse-23-9-5-baroque",
+  "title": "Unto Us a Child Is Born",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 9,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 9,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "baroque"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Baroque oratorio chorus, bright mixed choir in running counterpoint, harpsichord continuo, string orchestra, natural trumpets and timpani, terraced dynamics, festive and jubilant, 112 BPM",
+    "lyrics": "[Verse]\nFor to us a child is born\nTo us a son is given\nAnd the government shall rest\nUpon his shoulders\n\n[Chorus]\nWonderful Counselor, Mighty God\nEverlasting Father, Prince of Peace\n\n[Verse]\nOf the increase of his reign\nAnd peace there is no ending\nOn the throne of David he will rule\nWith justice and righteousness\n\n[Chorus]\nWonderful Counselor, Mighty God\nEverlasting Father, Prince of Peace\n\n[Outro]\nThe zeal of the Lord of hosts will do this",
+    "cot": "full",
+    "seed": 30005
+  }
+}

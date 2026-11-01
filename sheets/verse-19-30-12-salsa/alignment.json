@@ -1,0 +1,1030 @@
+{
+ "id": "verse-19-30-12-salsa",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-30-12-salsa",
+ "offset_seconds": -0.8200000000002383,
+ "words_heard": 112,
+ "words": 114,
+ "lines": [
+  {
+   "text": "I was dressed in sackcloth",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sitting in the dust",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But you came and lifted me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You turned it all around",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You turned my mourning into dancing",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You clothed me with joy",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My heart will sing your praise",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And not be silent",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.85,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Take away my sorrow",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.08,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Put the music in my feet",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.37,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Lord, my God, I thank you",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.07,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Forever I will sing",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.93,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "You turned my mourning into dancing",
+   "heard": 6,
+   "words": 6,
+   "error_s": 7.78,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "You clothed me with joy",
+   "heard": 5,
+   "words": 5,
+   "error_s": 5.7,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "My heart will sing your praise",
+   "heard": 6,
+   "words": 6,
+   "error_s": 7.42,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And not be silent",
+   "heard": 3,
+   "words": 4,
+   "error_s": 4.31,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Baila, baila, dance before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 11.0,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "I will thank you forever",
+   "heard": 5,
+   "words": 5,
+   "error_s": 12.07,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "You turned my mourning into dancing",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.9,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "You clothed me with joy",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.05,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "My heart will sing your praise",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.12,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "And not be silent",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.32,
+   "tie_split": true,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 20.72,
+   "weight": 0.96,
+   "note_time": 20.82
+  },
+  {
+   "text": "was",
+   "time": 21.54,
+   "weight": 0.8,
+   "note_time": 21.12
+  },
+  {
+   "text": "dressed",
+   "time": 21.92,
+   "weight": 0.99,
+   "note_time": 21.28
+  },
+  {
+   "text": "in",
+   "time": 22.2,
+   "weight": 1.0,
+   "note_time": 21.58
+  },
+  {
+   "text": "sack",
+   "time": 22.48,
+   "weight": 1.0,
+   "note_time": 21.89
+  },
+  {
+   "text": "cloth",
+   "time": 22.79,
+   "weight": 1.0,
+   "note_time": 22.19
+  },
+  {
+   "text": "Sit",
+   "time": 23.1,
+   "weight": 0.15,
+   "note_time": 23.27
+  },
+  {
+   "text": "ting",
+   "time": 23.45,
+   "weight": 0.15,
+   "note_time": 23.57
+  },
+  {
+   "text": "in",
+   "time": 24.08,
+   "weight": 1.0,
+   "note_time": 23.72
+  },
+  {
+   "text": "the",
+   "time": 24.6,
+   "weight": 1.0,
+   "note_time": 24.03
+  },
+  {
+   "text": "dust",
+   "time": 24.82,
+   "weight": 0.99,
+   "note_time": 24.34
+  },
+  {
+   "text": "But",
+   "time": 25.98,
+   "weight": 0.96,
+   "note_time": 25.71
+  },
+  {
+   "text": "you",
+   "time": 26.62,
+   "weight": 0.98,
+   "note_time": 26.02
+  },
+  {
+   "text": "came",
+   "time": 26.8,
+   "weight": 1.0,
+   "note_time": 26.17
+  },
+  {
+   "text": "and",
+   "time": 27.1,
+   "weight": 0.99,
+   "note_time": 26.48
+  },
+  {
+   "text": "lift",
+   "time": 27.36,
+   "weight": 1.0,
+   "note_time": 26.79
+  },
+  {
+   "text": "ed",
+   "time": 27.58,
+   "weight": 1.0,
+   "note_time": 27.09
+  },
+  {
+   "text": "me",
+   "time": 27.8,
+   "weight": 1.0,
+   "note_time": 27.4
+  },
+  {
+   "text": "You",
+   "time": 28.22,
+   "weight": 0.93,
+   "note_time": 27.86
+  },
+  {
+   "text": "turned",
+   "time": 28.62,
+   "weight": 0.99,
+   "note_time": 28.16
+  },
+  {
+   "text": "it",
+   "time": 29.14,
+   "weight": 1.0,
+   "note_time": 28.47
+  },
+  {
+   "text": "all",
+   "time": 29.34,
+   "weight": 1.0,
+   "note_time": 28.62
+  },
+  {
+   "text": "a",
+   "time": 29.54,
+   "weight": 1.0,
+   "note_time": 28.93
+  },
+  {
+   "text": "round",
+   "time": 29.84,
+   "weight": 1.0,
+   "note_time": 29.23
+  },
+  {
+   "text": "You",
+   "time": 35.58,
+   "weight": 0.53,
+   "note_time": 35.66
+  },
+  {
+   "text": "turned",
+   "time": 36.42,
+   "weight": 0.6,
+   "note_time": 35.97
+  },
+  {
+   "text": "my",
+   "time": 36.82,
+   "weight": 0.97,
+   "note_time": 36.28
+  },
+  {
+   "text": "mourn",
+   "time": 37.1,
+   "weight": 0.95,
+   "note_time": 36.58
+  },
+  {
+   "text": "ing",
+   "time": 37.38,
+   "weight": 0.95,
+   "note_time": 36.89
+  },
+  {
+   "text": "in",
+   "time": 37.66,
+   "weight": 0.96,
+   "note_time": 37.19
+  },
+  {
+   "text": "to",
+   "time": 37.94,
+   "weight": 0.96,
+   "note_time": 37.5
+  },
+  {
+   "text": "danc",
+   "time": 38.22,
+   "weight": 0.52,
+   "note_time": 37.81
+  },
+  {
+   "text": "ing",
+   "time": 38.52,
+   "weight": 0.52,
+   "note_time": 38.42
+  },
+  {
+   "text": "You",
+   "time": 41.36,
+   "weight": 0.48,
+   "note_time": 41.33
+  },
+  {
+   "text": "clothed",
+   "time": 42.2,
+   "weight": 0.93,
+   "note_time": 41.63
+  },
+  {
+   "text": "me",
+   "time": 42.62,
+   "weight": 1.0,
+   "note_time": 42.09
+  },
+  {
+   "text": "with",
+   "time": 42.88,
+   "weight": 1.0,
+   "note_time": 42.4
+  },
+  {
+   "text": "joy",
+   "time": 43.24,
+   "weight": 0.99,
+   "note_time": 42.7
+  },
+  {
+   "text": "My",
+   "time": 46.22,
+   "weight": 0.98,
+   "note_time": 46.22
+  },
+  {
+   "text": "heart",
+   "time": 47.06,
+   "weight": 0.99,
+   "note_time": 46.53
+  },
+  {
+   "text": "will",
+   "time": 47.44,
+   "weight": 1.0,
+   "note_time": 46.84
+  },
+  {
+   "text": "sing",
+   "time": 47.62,
+   "weight": 1.0,
+   "note_time": 46.99
+  },
+  {
+   "text": "your",
+   "time": 47.82,
+   "weight": 0.78,
+   "note_time": 47.3
+  },
+  {
+   "text": "praise",
+   "time": 48.14,
+   "weight": 0.99,
+   "note_time": 47.6
+  },
+  {
+   "text": "And",
+   "time": 49.28,
+   "weight": 0.78,
+   "note_time": 47.76
+  },
+  {
+   "text": "not",
+   "time": 49.82,
+   "weight": 0.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "be",
+   "time": 50.36,
+   "weight": 0.99,
+   "note_time": 49.44
+  },
+  {
+   "text": "si",
+   "time": 50.52,
+   "weight": 0.98,
+   "note_time": 49.74
+  },
+  {
+   "text": "lent",
+   "time": 50.75,
+   "weight": 0.98,
+   "note_time": 50.05
+  },
+  {
+   "text": "Take",
+   "time": 55.02,
+   "weight": 0.98,
+   "note_time": 50.2
+  },
+  {
+   "text": "a",
+   "time": 55.86,
+   "weight": 1.0,
+   "note_time": 50.36
+  },
+  {
+   "text": "way",
+   "time": 56.1,
+   "weight": 1.0,
+   "note_time": 55.1
+  },
+  {
+   "text": "my",
+   "time": 56.34,
+   "weight": 1.0,
+   "note_time": 55.41
+  },
+  {
+   "text": "sor",
+   "time": 56.68,
+   "weight": 0.99,
+   "note_time": 55.56
+  },
+  {
+   "text": "row",
+   "time": 56.9,
+   "weight": 0.99,
+   "note_time": 55.87
+  },
+  {
+   "text": "Put",
+   "time": 57.12,
+   "weight": 0.68,
+   "note_time": 56.17
+  },
+  {
+   "text": "the",
+   "time": 57.72,
+   "weight": 1.0,
+   "note_time": 56.33
+  },
+  {
+   "text": "mu",
+   "time": 58.02,
+   "weight": 1.0,
+   "note_time": 56.48
+  },
+  {
+   "text": "sic",
+   "time": 58.31,
+   "weight": 1.0,
+   "note_time": 56.94
+  },
+  {
+   "text": "in",
+   "time": 58.6,
+   "weight": 1.0,
+   "note_time": 57.24
+  },
+  {
+   "text": "my",
+   "time": 58.92,
+   "weight": 1.0,
+   "note_time": 57.55
+  },
+  {
+   "text": "feet",
+   "time": 59.1,
+   "weight": 0.75,
+   "note_time": 57.86
+  },
+  {
+   "text": "Lord,",
+   "time": 59.56,
+   "weight": 0.57,
+   "note_time": 58.01
+  },
+  {
+   "text": "my",
+   "time": 60.86,
+   "weight": 0.68,
+   "note_time": 58.32
+  },
+  {
+   "text": "God,",
+   "time": 61.1,
+   "weight": 0.97,
+   "note_time": 58.62
+  },
+  {
+   "text": "I",
+   "time": 61.48,
+   "weight": 0.99,
+   "note_time": 58.78
+  },
+  {
+   "text": "thank",
+   "time": 61.64,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "you",
+   "time": 61.96,
+   "weight": 0.71,
+   "note_time": 60.31
+  },
+  {
+   "text": "For",
+   "time": 62.38,
+   "weight": 0.94,
+   "note_time": 60.46
+  },
+  {
+   "text": "ev",
+   "time": 62.65,
+   "weight": 0.94,
+   "note_time": 60.77
+  },
+  {
+   "text": "er",
+   "time": 62.93,
+   "weight": 0.94,
+   "note_time": 61.07
+  },
+  {
+   "text": "I",
+   "time": 63.2,
+   "weight": 0.99,
+   "note_time": 61.22
+  },
+  {
+   "text": "will",
+   "time": 63.78,
+   "weight": 0.99,
+   "note_time": 61.38
+  },
+  {
+   "text": "sing",
+   "time": 64.08,
+   "weight": 1.0,
+   "note_time": 62.14
+  },
+  {
+   "text": "You",
+   "time": 69.86,
+   "weight": 0.83,
+   "note_time": 62.45
+  },
+  {
+   "text": "turned",
+   "time": 70.58,
+   "weight": 0.45,
+   "note_time": 62.76
+  },
+  {
+   "text": "my",
+   "time": 71.08,
+   "weight": 1.0,
+   "note_time": 62.91
+  },
+  {
+   "text": "mourn",
+   "time": 71.38,
+   "weight": 0.67,
+   "note_time": 63.21
+  },
+  {
+   "text": "ing",
+   "time": 71.66,
+   "weight": 0.67,
+   "note_time": 63.52
+  },
+  {
+   "text": "in",
+   "time": 71.94,
+   "weight": 1.0,
+   "note_time": 63.67
+  },
+  {
+   "text": "to",
+   "time": 72.24,
+   "weight": 1.0,
+   "note_time": 69.95
+  },
+  {
+   "text": "danc",
+   "time": 72.54,
+   "weight": 0.99,
+   "note_time": 70.26
+  },
+  {
+   "text": "ing",
+   "time": 72.89,
+   "weight": 0.99,
+   "note_time": 70.56
+  },
+  {
+   "text": "You",
+   "time": 75.74,
+   "weight": 0.92,
+   "note_time": 70.87
+  },
+  {
+   "text": "clothed",
+   "time": 76.46,
+   "weight": 0.97,
+   "note_time": 71.02
+  },
+  {
+   "text": "me",
+   "time": 77.02,
+   "weight": 1.0,
+   "note_time": 71.17
+  },
+  {
+   "text": "with",
+   "time": 77.18,
+   "weight": 1.0,
+   "note_time": 71.48
+  },
+  {
+   "text": "joy",
+   "time": 77.54,
+   "weight": 0.99,
+   "note_time": 71.79
+  },
+  {
+   "text": "My",
+   "time": 80.62,
+   "weight": 0.98,
+   "note_time": 72.09
+  },
+  {
+   "text": "heart",
+   "time": 81.34,
+   "weight": 1.0,
+   "note_time": 72.24
+  },
+  {
+   "text": "will",
+   "time": 81.74,
+   "weight": 1.0,
+   "note_time": 72.7
+  },
+  {
+   "text": "sing",
+   "time": 81.92,
+   "weight": 1.0,
+   "note_time": 75.61
+  },
+  {
+   "text": "your",
+   "time": 82.14,
+   "weight": 0.81,
+   "note_time": 75.92
+  },
+  {
+   "text": "praise",
+   "time": 82.42,
+   "weight": 0.99,
+   "note_time": 76.38
+  },
+  {
+   "text": "And",
+   "time": 83.58,
+   "weight": 0.23,
+   "note_time": 76.68
+  },
+  {
+   "text": "not",
+   "time": 84.12,
+   "weight": 0.0,
+   "note_time": 76.99
+  },
+  {
+   "text": "be",
+   "time": 84.66,
+   "weight": 0.99,
+   "note_time": 77.14
+  },
+  {
+   "text": "si",
+   "time": 84.82,
+   "weight": 0.81,
+   "note_time": 80.51
+  },
+  {
+   "text": "lent",
+   "time": 85.03,
+   "weight": 0.81,
+   "note_time": 80.82
+  },
+  {
+   "text": "Bai",
+   "time": 92.12,
+   "weight": 0.81,
+   "note_time": 81.12
+  },
+  {
+   "text": "la,",
+   "time": 92.47,
+   "weight": 0.81,
+   "note_time": 81.28
+  },
+  {
+   "text": "bai",
+   "time": 92.94,
+   "weight": 0.97,
+   "note_time": 81.58
+  },
+  {
+   "text": "la,",
+   "time": 93.29,
+   "weight": 0.97,
+   "note_time": 81.89
+  },
+  {
+   "text": "dance",
+   "time": 93.76,
+   "weight": 0.98,
+   "note_time": 82.04
+  },
+  {
+   "text": "be",
+   "time": 93.96,
+   "weight": 0.98,
+   "note_time": 83.57
+  },
+  {
+   "text": "fore",
+   "time": 94.13,
+   "weight": 0.98,
+   "note_time": 83.72
+  },
+  {
+   "text": "the",
+   "time": 94.3,
+   "weight": 0.99,
+   "note_time": 84.03
+  },
+  {
+   "text": "Lord",
+   "time": 94.6,
+   "weight": 0.88,
+   "note_time": 84.34
+  },
+  {
+   "text": "I",
+   "time": 95.84,
+   "weight": 0.8,
+   "note_time": 84.49
+  },
+  {
+   "text": "will",
+   "time": 96.66,
+   "weight": 0.99,
+   "note_time": 84.64
+  },
+  {
+   "text": "thank",
+   "time": 97.06,
+   "weight": 1.0,
+   "note_time": 109.13
+  },
+  {
+   "text": "you",
+   "time": 97.38,
+   "weight": 0.93,
+   "note_time": 109.44
+  },
+  {
+   "text": "for",
+   "time": 97.62,
+   "weight": 0.99,
+   "note_time": 109.74
+  },
+  {
+   "text": "ev",
+   "time": 97.74,
+   "weight": 0.99,
+   "note_time": 110.05
+  },
+  {
+   "text": "er",
+   "time": 97.86,
+   "weight": 0.99,
+   "note_time": 110.2
+  },
+  {
+   "text": "You",
+   "time": 108.94,
+   "weight": 0.96,
+   "note_time": 110.36
+  },
+  {
+   "text": "turned",
+   "time": 109.76,
+   "weight": 0.72,
+   "note_time": 110.66
+  },
+  {
+   "text": "my",
+   "time": 110.28,
+   "weight": 1.0,
+   "note_time": 110.97
+  },
+  {
+   "text": "mourn",
+   "time": 110.56,
+   "weight": 0.88,
+   "note_time": 111.28
+  },
+  {
+   "text": "ing",
+   "time": 110.85,
+   "weight": 0.88,
+   "note_time": 111.43
+  },
+  {
+   "text": "in",
+   "time": 111.14,
+   "weight": 1.0,
+   "note_time": 111.89
+  },
+  {
+   "text": "to",
+   "time": 111.43,
+   "weight": 1.0,
+   "note_time": 114.8
+  },
+  {
+   "text": "danc",
+   "time": 111.72,
+   "weight": 0.99,
+   "note_time": 115.1
+  },
+  {
+   "text": "ing",
+   "time": 112.07,
+   "weight": 0.99,
+   "note_time": 115.56
+  },
+  {
+   "text": "You",
+   "time": 114.82,
+   "weight": 0.98,
+   "note_time": 115.87
+  },
+  {
+   "text": "clothed",
+   "time": 115.64,
+   "weight": 0.72,
+   "note_time": 116.17
+  },
+  {
+   "text": "me",
+   "time": 115.98,
+   "weight": 1.0,
+   "note_time": 116.33
+  },
+  {
+   "text": "with",
+   "time": 116.34,
+   "weight": 1.0,
+   "note_time": 119.69
+  },
+  {
+   "text": "joy",
+   "time": 116.72,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "My",
+   "time": 119.78,
+   "weight": 0.49,
+   "note_time": 120.31
+  },
+  {
+   "text": "heart",
+   "time": 120.58,
+   "weight": 0.89,
+   "note_time": 120.46
+  },
+  {
+   "text": "will",
+   "time": 120.9,
+   "weight": 0.97,
+   "note_time": 120.77
+  },
+  {
+   "text": "sing",
+   "time": 121.1,
+   "weight": 1.0,
+   "note_time": 121.07
+  },
+  {
+   "text": "your",
+   "time": 121.32,
+   "weight": 0.71,
+   "note_time": 121.22
+  },
+  {
+   "text": "praise",
+   "time": 121.6,
+   "weight": 0.98,
+   "note_time": 122.76
+  },
+  {
+   "text": "And",
+   "time": 122.78,
+   "weight": 0.56,
+   "note_time": 122.91
+  },
+  {
+   "text": "not",
+   "time": 123.36,
+   "weight": 0.78,
+   "note_time": 123.21
+  },
+  {
+   "text": "be",
+   "time": 123.84,
+   "weight": 0.97,
+   "note_time": 123.52
+  },
+  {
+   "text": "si",
+   "time": 124.06,
+   "weight": 0.96,
+   "note_time": 123.67
+  },
+  {
+   "text": "lent",
+   "time": 124.34,
+   "weight": 0.96,
+   "note_time": 123.83
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 22 lyric lines sit clearly on their notes; 13 are uncertain and printed in grey italics."
+}

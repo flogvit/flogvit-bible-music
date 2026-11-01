@@ -1,0 +1,1300 @@
+{
+ "id": "verse-40-1-23-choral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-1-23-choral",
+ "offset_seconds": -10.480000000000032,
+ "words_heard": 144,
+ "words": 146,
+ "lines": [
+  {
+   "text": "A dream descends upon the sleeping mind",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.94,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "An angel speaks with a gentle sign",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not be afraid to take her in",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.26,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Holy Spirit is the source within",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Behold the virgin shall conceive",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And give birth to a holy seed",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They will call him Immanuel",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God with us, the true and real",
+   "heard": 7,
+   "words": 7,
+   "error_s": 4.18,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "She will give birth to a son",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Name him Jesus, the chosen one",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will save his people from their sins",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Fulfilling what the Lord has given",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Behold the virgin shall conceive",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And give birth to a holy seed",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They will call him Immanuel",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God with us, the true and real",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When Joseph woke from his slumber deep",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.83,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "He rose and walked with humble feet",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He did as the angel commanded him",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.48,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Taking her home, the sacred whim",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No relations until the child was born",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He named him Jesus, the light of morn",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "A",
+   "time": 25.52,
+   "weight": 0.24,
+   "note_time": 25.4
+  },
+  {
+   "text": "dream",
+   "time": 26.8,
+   "weight": 0.92,
+   "note_time": 25.6
+  },
+  {
+   "text": "de",
+   "time": 27.16,
+   "weight": 1.0,
+   "note_time": 26.0
+  },
+  {
+   "text": "scends",
+   "time": 27.51,
+   "weight": 1.0,
+   "note_time": 26.4
+  },
+  {
+   "text": "up",
+   "time": 28.28,
+   "weight": 0.99,
+   "note_time": 27.2
+  },
+  {
+   "text": "on",
+   "time": 28.47,
+   "weight": 0.99,
+   "note_time": 27.6
+  },
+  {
+   "text": "the",
+   "time": 28.66,
+   "weight": 0.88,
+   "note_time": 27.8
+  },
+  {
+   "text": "sleep",
+   "time": 29.34,
+   "weight": 0.99,
+   "note_time": 28.4
+  },
+  {
+   "text": "ing",
+   "time": 29.58,
+   "weight": 0.99,
+   "note_time": 28.8
+  },
+  {
+   "text": "mind",
+   "time": 29.82,
+   "weight": 0.98,
+   "note_time": 29.2
+  },
+  {
+   "text": "An",
+   "time": 32.08,
+   "weight": 0.68,
+   "note_time": 32.0
+  },
+  {
+   "text": "an",
+   "time": 33.36,
+   "weight": 0.98,
+   "note_time": 32.2
+  },
+  {
+   "text": "gel",
+   "time": 33.62,
+   "weight": 0.98,
+   "note_time": 32.8
+  },
+  {
+   "text": "speaks",
+   "time": 33.88,
+   "weight": 1.0,
+   "note_time": 33.2
+  },
+  {
+   "text": "with",
+   "time": 34.28,
+   "weight": 0.99,
+   "note_time": 33.4
+  },
+  {
+   "text": "a",
+   "time": 35.2,
+   "weight": 0.99,
+   "note_time": 34.0
+  },
+  {
+   "text": "gen",
+   "time": 35.54,
+   "weight": 1.0,
+   "note_time": 34.2
+  },
+  {
+   "text": "tle",
+   "time": 35.86,
+   "weight": 1.0,
+   "note_time": 34.8
+  },
+  {
+   "text": "sign",
+   "time": 36.18,
+   "weight": 0.77,
+   "note_time": 35.2
+  },
+  {
+   "text": "Do",
+   "time": 38.64,
+   "weight": 0.15,
+   "note_time": 38.2
+  },
+  {
+   "text": "not",
+   "time": 39.92,
+   "weight": 0.99,
+   "note_time": 38.4
+  },
+  {
+   "text": "be",
+   "time": 40.24,
+   "weight": 0.2,
+   "note_time": 38.8
+  },
+  {
+   "text": "af",
+   "time": 40.46,
+   "weight": 0.61,
+   "note_time": 39.2
+  },
+  {
+   "text": "raid",
+   "time": 40.46,
+   "weight": 0.61,
+   "note_time": 39.8
+  },
+  {
+   "text": "to",
+   "time": 40.46,
+   "weight": 0.15,
+   "note_time": 40.0
+  },
+  {
+   "text": "take",
+   "time": 40.46,
+   "weight": 0.15,
+   "note_time": 40.6
+  },
+  {
+   "text": "her",
+   "time": 40.46,
+   "weight": 0.15,
+   "note_time": 40.8
+  },
+  {
+   "text": "in",
+   "time": 40.46,
+   "weight": 0.15,
+   "note_time": 41.4
+  },
+  {
+   "text": "The",
+   "time": 44.94,
+   "weight": 0.96,
+   "note_time": 44.4
+  },
+  {
+   "text": "Ho",
+   "time": 46.02,
+   "weight": 0.98,
+   "note_time": 44.8
+  },
+  {
+   "text": "ly",
+   "time": 46.22,
+   "weight": 0.98,
+   "note_time": 45.6
+  },
+  {
+   "text": "Spir",
+   "time": 46.42,
+   "weight": 0.99,
+   "note_time": 46.4
+  },
+  {
+   "text": "it",
+   "time": 46.77,
+   "weight": 0.99,
+   "note_time": 46.8
+  },
+  {
+   "text": "is",
+   "time": 47.2,
+   "weight": 0.99,
+   "note_time": 47.2
+  },
+  {
+   "text": "the",
+   "time": 48.1,
+   "weight": 0.99,
+   "note_time": 47.6
+  },
+  {
+   "text": "source",
+   "time": 48.44,
+   "weight": 0.96,
+   "note_time": 48.0
+  },
+  {
+   "text": "with",
+   "time": 48.9,
+   "weight": 0.7,
+   "note_time": 50.4
+  },
+  {
+   "text": "in",
+   "time": 49.19,
+   "weight": 0.7,
+   "note_time": 50.8
+  },
+  {
+   "text": "Be",
+   "time": 52.06,
+   "weight": 0.95,
+   "note_time": 51.2
+  },
+  {
+   "text": "hold",
+   "time": 52.41,
+   "weight": 0.95,
+   "note_time": 52.0
+  },
+  {
+   "text": "the",
+   "time": 53.14,
+   "weight": 0.99,
+   "note_time": 52.4
+  },
+  {
+   "text": "vir",
+   "time": 53.64,
+   "weight": 0.59,
+   "note_time": 52.8
+  },
+  {
+   "text": "gin",
+   "time": 53.99,
+   "weight": 0.59,
+   "note_time": 53.6
+  },
+  {
+   "text": "shall",
+   "time": 54.52,
+   "weight": 0.99,
+   "note_time": 54.4
+  },
+  {
+   "text": "con",
+   "time": 55.09,
+   "weight": 0.0,
+   "note_time": 56.8
+  },
+  {
+   "text": "ceive",
+   "time": 55.67,
+   "weight": 0.0,
+   "note_time": 57.2
+  },
+  {
+   "text": "And",
+   "time": 56.24,
+   "weight": 0.35,
+   "note_time": 57.6
+  },
+  {
+   "text": "give",
+   "time": 58.36,
+   "weight": 1.0,
+   "note_time": 58.4
+  },
+  {
+   "text": "birth",
+   "time": 58.78,
+   "weight": 1.0,
+   "note_time": 58.8
+  },
+  {
+   "text": "to",
+   "time": 59.42,
+   "weight": 1.0,
+   "note_time": 59.2
+  },
+  {
+   "text": "a",
+   "time": 59.9,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "ho",
+   "time": 60.3,
+   "weight": 0.61,
+   "note_time": 60.8
+  },
+  {
+   "text": "ly",
+   "time": 60.65,
+   "weight": 0.61,
+   "note_time": 62.4
+  },
+  {
+   "text": "seed",
+   "time": 61.26,
+   "weight": 0.84,
+   "note_time": 63.2
+  },
+  {
+   "text": "They",
+   "time": 62.4,
+   "weight": 0.23,
+   "note_time": 64.0
+  },
+  {
+   "text": "will",
+   "time": 64.62,
+   "weight": 0.99,
+   "note_time": 65.2
+  },
+  {
+   "text": "call",
+   "time": 65.16,
+   "weight": 1.0,
+   "note_time": 65.6
+  },
+  {
+   "text": "him",
+   "time": 65.64,
+   "weight": 0.56,
+   "note_time": 66.8
+  },
+  {
+   "text": "Im",
+   "time": 66.44,
+   "weight": 0.26,
+   "note_time": 67.2
+  },
+  {
+   "text": "ma",
+   "time": 66.79,
+   "weight": 0.26,
+   "note_time": 73.6
+  },
+  {
+   "text": "nuel",
+   "time": 67.14,
+   "weight": 0.26,
+   "note_time": 74.0
+  },
+  {
+   "text": "God",
+   "time": 68.64,
+   "weight": 0.21,
+   "note_time": 74.4
+  },
+  {
+   "text": "with",
+   "time": 70.44,
+   "weight": 0.96,
+   "note_time": 75.2
+  },
+  {
+   "text": "us,",
+   "time": 71.16,
+   "weight": 1.0,
+   "note_time": 76.0
+  },
+  {
+   "text": "the",
+   "time": 72.6,
+   "weight": 0.99,
+   "note_time": 76.2
+  },
+  {
+   "text": "true",
+   "time": 73.08,
+   "weight": 0.92,
+   "note_time": 76.4
+  },
+  {
+   "text": "and",
+   "time": 73.66,
+   "weight": 1.0,
+   "note_time": 76.8
+  },
+  {
+   "text": "real",
+   "time": 74.72,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "She",
+   "time": 80.0,
+   "weight": 0.91,
+   "note_time": 80.4
+  },
+  {
+   "text": "will",
+   "time": 81.28,
+   "weight": 1.0,
+   "note_time": 80.8
+  },
+  {
+   "text": "give",
+   "time": 81.9,
+   "weight": 1.0,
+   "note_time": 81.4
+  },
+  {
+   "text": "birth",
+   "time": 82.38,
+   "weight": 1.0,
+   "note_time": 82.0
+  },
+  {
+   "text": "to",
+   "time": 83.28,
+   "weight": 1.0,
+   "note_time": 82.2
+  },
+  {
+   "text": "a",
+   "time": 83.88,
+   "weight": 1.0,
+   "note_time": 82.8
+  },
+  {
+   "text": "son",
+   "time": 84.28,
+   "weight": 0.7,
+   "note_time": 83.6
+  },
+  {
+   "text": "Name",
+   "time": 86.66,
+   "weight": 0.97,
+   "note_time": 86.4
+  },
+  {
+   "text": "him",
+   "time": 87.94,
+   "weight": 0.98,
+   "note_time": 87.2
+  },
+  {
+   "text": "Je",
+   "time": 88.28,
+   "weight": 0.99,
+   "note_time": 87.6
+  },
+  {
+   "text": "sus,",
+   "time": 88.63,
+   "weight": 0.99,
+   "note_time": 87.8
+  },
+  {
+   "text": "the",
+   "time": 89.36,
+   "weight": 0.99,
+   "note_time": 88.2
+  },
+  {
+   "text": "cho",
+   "time": 89.84,
+   "weight": 0.85,
+   "note_time": 88.8
+  },
+  {
+   "text": "sen",
+   "time": 90.19,
+   "weight": 0.85,
+   "note_time": 89.2
+  },
+  {
+   "text": "one",
+   "time": 90.66,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "He",
+   "time": 92.92,
+   "weight": 0.51,
+   "note_time": 92.4
+  },
+  {
+   "text": "will",
+   "time": 94.24,
+   "weight": 0.99,
+   "note_time": 92.8
+  },
+  {
+   "text": "save",
+   "time": 94.56,
+   "weight": 0.99,
+   "note_time": 93.0
+  },
+  {
+   "text": "his",
+   "time": 95.18,
+   "weight": 0.56,
+   "note_time": 93.6
+  },
+  {
+   "text": "peo",
+   "time": 95.52,
+   "weight": 1.0,
+   "note_time": 94.2
+  },
+  {
+   "text": "ple",
+   "time": 95.78,
+   "weight": 1.0,
+   "note_time": 94.4
+  },
+  {
+   "text": "from",
+   "time": 96.04,
+   "weight": 0.98,
+   "note_time": 95.2
+  },
+  {
+   "text": "their",
+   "time": 96.72,
+   "weight": 0.99,
+   "note_time": 96.0
+  },
+  {
+   "text": "sins",
+   "time": 97.18,
+   "weight": 0.96,
+   "note_time": 96.2
+  },
+  {
+   "text": "Ful",
+   "time": 99.52,
+   "weight": 0.82,
+   "note_time": 98.8
+  },
+  {
+   "text": "fill",
+   "time": 99.87,
+   "weight": 0.82,
+   "note_time": 99.2
+  },
+  {
+   "text": "ing",
+   "time": 100.22,
+   "weight": 0.82,
+   "note_time": 100.0
+  },
+  {
+   "text": "what",
+   "time": 100.84,
+   "weight": 1.0,
+   "note_time": 100.8
+  },
+  {
+   "text": "the",
+   "time": 101.48,
+   "weight": 1.0,
+   "note_time": 101.2
+  },
+  {
+   "text": "Lord",
+   "time": 102.06,
+   "weight": 0.99,
+   "note_time": 101.6
+  },
+  {
+   "text": "has",
+   "time": 102.42,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "giv",
+   "time": 103.16,
+   "weight": 1.0,
+   "note_time": 102.4
+  },
+  {
+   "text": "en",
+   "time": 103.51,
+   "weight": 1.0,
+   "note_time": 104.8
+  },
+  {
+   "text": "Be",
+   "time": 106.18,
+   "weight": 0.93,
+   "note_time": 105.2
+  },
+  {
+   "text": "hold",
+   "time": 106.53,
+   "weight": 0.93,
+   "note_time": 105.6
+  },
+  {
+   "text": "the",
+   "time": 107.5,
+   "weight": 0.97,
+   "note_time": 106.4
+  },
+  {
+   "text": "vir",
+   "time": 108.06,
+   "weight": 0.79,
+   "note_time": 106.8
+  },
+  {
+   "text": "gin",
+   "time": 108.41,
+   "weight": 0.79,
+   "note_time": 107.2
+  },
+  {
+   "text": "shall",
+   "time": 108.9,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "con",
+   "time": 109.48,
+   "weight": 0.87,
+   "note_time": 108.8
+  },
+  {
+   "text": "ceive",
+   "time": 109.82,
+   "weight": 0.87,
+   "note_time": 111.2
+  },
+  {
+   "text": "And",
+   "time": 110.68,
+   "weight": 0.38,
+   "note_time": 111.6
+  },
+  {
+   "text": "give",
+   "time": 112.44,
+   "weight": 1.0,
+   "note_time": 112.0
+  },
+  {
+   "text": "birth",
+   "time": 113.16,
+   "weight": 1.0,
+   "note_time": 112.8
+  },
+  {
+   "text": "to",
+   "time": 113.8,
+   "weight": 1.0,
+   "note_time": 113.2
+  },
+  {
+   "text": "a",
+   "time": 114.34,
+   "weight": 0.98,
+   "note_time": 113.6
+  },
+  {
+   "text": "ho",
+   "time": 114.68,
+   "weight": 0.73,
+   "note_time": 114.4
+  },
+  {
+   "text": "ly",
+   "time": 115.03,
+   "weight": 0.73,
+   "note_time": 115.2
+  },
+  {
+   "text": "seed",
+   "time": 115.52,
+   "weight": 0.95,
+   "note_time": 116.8
+  },
+  {
+   "text": "They",
+   "time": 116.84,
+   "weight": 0.15,
+   "note_time": 117.6
+  },
+  {
+   "text": "will",
+   "time": 119.0,
+   "weight": 0.97,
+   "note_time": 118.4
+  },
+  {
+   "text": "call",
+   "time": 119.52,
+   "weight": 1.0,
+   "note_time": 119.6
+  },
+  {
+   "text": "him",
+   "time": 120.08,
+   "weight": 0.62,
+   "note_time": 120.0
+  },
+  {
+   "text": "Im",
+   "time": 120.86,
+   "weight": 0.16,
+   "note_time": 121.2
+  },
+  {
+   "text": "ma",
+   "time": 121.21,
+   "weight": 0.16,
+   "note_time": 121.6
+  },
+  {
+   "text": "nuel",
+   "time": 121.56,
+   "weight": 0.16,
+   "note_time": 124.8
+  },
+  {
+   "text": "God",
+   "time": 122.56,
+   "weight": 0.09,
+   "note_time": 125.2
+  },
+  {
+   "text": "with",
+   "time": 124.88,
+   "weight": 0.98,
+   "note_time": 125.6
+  },
+  {
+   "text": "us,",
+   "time": 125.54,
+   "weight": 1.0,
+   "note_time": 126.4
+  },
+  {
+   "text": "the",
+   "time": 126.8,
+   "weight": 1.0,
+   "note_time": 126.6
+  },
+  {
+   "text": "true",
+   "time": 127.48,
+   "weight": 0.96,
+   "note_time": 127.2
+  },
+  {
+   "text": "and",
+   "time": 128.04,
+   "weight": 0.9,
+   "note_time": 127.6
+  },
+  {
+   "text": "real",
+   "time": 129.1,
+   "weight": 0.9,
+   "note_time": 127.8
+  },
+  {
+   "text": "When",
+   "time": 130.68,
+   "weight": 0.29,
+   "note_time": 130.8
+  },
+  {
+   "text": "Jo",
+   "time": 132.22,
+   "weight": 1.0,
+   "note_time": 131.2
+  },
+  {
+   "text": "seph",
+   "time": 132.54,
+   "weight": 1.0,
+   "note_time": 131.6
+  },
+  {
+   "text": "woke",
+   "time": 132.86,
+   "weight": 0.96,
+   "note_time": 132.0
+  },
+  {
+   "text": "from",
+   "time": 133.6,
+   "weight": 1.0,
+   "note_time": 132.8
+  },
+  {
+   "text": "his",
+   "time": 134.28,
+   "weight": 1.0,
+   "note_time": 133.4
+  },
+  {
+   "text": "slum",
+   "time": 134.66,
+   "weight": 1.0,
+   "note_time": 134.0
+  },
+  {
+   "text": "ber",
+   "time": 135.01,
+   "weight": 1.0,
+   "note_time": 134.4
+  },
+  {
+   "text": "deep",
+   "time": 135.36,
+   "weight": 1.0,
+   "note_time": 134.8
+  },
+  {
+   "text": "He",
+   "time": 137.38,
+   "weight": 0.99,
+   "note_time": 137.4
+  },
+  {
+   "text": "rose",
+   "time": 138.74,
+   "weight": 1.0,
+   "note_time": 138.8
+  },
+  {
+   "text": "and",
+   "time": 139.16,
+   "weight": 1.0,
+   "note_time": 139.0
+  },
+  {
+   "text": "walked",
+   "time": 139.58,
+   "weight": 1.0,
+   "note_time": 139.4
+  },
+  {
+   "text": "with",
+   "time": 140.1,
+   "weight": 1.0,
+   "note_time": 139.8
+  },
+  {
+   "text": "hum",
+   "time": 140.76,
+   "weight": 1.0,
+   "note_time": 140.0
+  },
+  {
+   "text": "ble",
+   "time": 141.11,
+   "weight": 1.0,
+   "note_time": 140.4
+  },
+  {
+   "text": "feet",
+   "time": 141.56,
+   "weight": 1.0,
+   "note_time": 141.2
+  },
+  {
+   "text": "He",
+   "time": 142.72,
+   "weight": 0.24,
+   "note_time": 144.0
+  },
+  {
+   "text": "did",
+   "time": 145.24,
+   "weight": 0.98,
+   "note_time": 144.2
+  },
+  {
+   "text": "as",
+   "time": 145.54,
+   "weight": 0.96,
+   "note_time": 144.4
+  },
+  {
+   "text": "the",
+   "time": 146.24,
+   "weight": 1.0,
+   "note_time": 144.8
+  },
+  {
+   "text": "an",
+   "time": 146.66,
+   "weight": 0.96,
+   "note_time": 146.2
+  },
+  {
+   "text": "gel",
+   "time": 146.89,
+   "weight": 0.96,
+   "note_time": 146.4
+  },
+  {
+   "text": "com",
+   "time": 147.12,
+   "weight": 0.99,
+   "note_time": 146.8
+  },
+  {
+   "text": "mand",
+   "time": 147.37,
+   "weight": 0.99,
+   "note_time": 147.0
+  },
+  {
+   "text": "ed",
+   "time": 147.63,
+   "weight": 0.99,
+   "note_time": 147.2
+  },
+  {
+   "text": "him",
+   "time": 147.88,
+   "weight": 0.15,
+   "note_time": 147.6
+  },
+  {
+   "text": "Tak",
+   "time": 149.68,
+   "weight": 0.28,
+   "note_time": 150.4
+  },
+  {
+   "text": "ing",
+   "time": 150.03,
+   "weight": 0.28,
+   "note_time": 151.2
+  },
+  {
+   "text": "her",
+   "time": 151.8,
+   "weight": 1.0,
+   "note_time": 152.0
+  },
+  {
+   "text": "home,",
+   "time": 152.32,
+   "weight": 1.0,
+   "note_time": 152.8
+  },
+  {
+   "text": "the",
+   "time": 153.06,
+   "weight": 0.99,
+   "note_time": 153.2
+  },
+  {
+   "text": "sa",
+   "time": 154.0,
+   "weight": 0.99,
+   "note_time": 153.6
+  },
+  {
+   "text": "cred",
+   "time": 154.29,
+   "weight": 0.99,
+   "note_time": 154.0
+  },
+  {
+   "text": "whim",
+   "time": 154.93,
+   "weight": 0.0,
+   "note_time": 154.2
+  },
+  {
+   "text": "No",
+   "time": 155.56,
+   "weight": 0.38,
+   "note_time": 156.4
+  },
+  {
+   "text": "re",
+   "time": 158.28,
+   "weight": 0.39,
+   "note_time": 156.8
+  },
+  {
+   "text": "la",
+   "time": 158.63,
+   "weight": 0.39,
+   "note_time": 157.6
+  },
+  {
+   "text": "tions",
+   "time": 158.98,
+   "weight": 0.39,
+   "note_time": 158.4
+  },
+  {
+   "text": "un",
+   "time": 160.0,
+   "weight": 0.99,
+   "note_time": 159.0
+  },
+  {
+   "text": "til",
+   "time": 160.35,
+   "weight": 0.99,
+   "note_time": 159.6
+  },
+  {
+   "text": "the",
+   "time": 161.2,
+   "weight": 1.0,
+   "note_time": 160.0
+  },
+  {
+   "text": "child",
+   "time": 161.84,
+   "weight": 0.88,
+   "note_time": 161.2
+  },
+  {
+   "text": "was",
+   "time": 162.18,
+   "weight": 1.0,
+   "note_time": 161.6
+  },
+  {
+   "text": "born",
+   "time": 162.78,
+   "weight": 1.0,
+   "note_time": 163.2
+  },
+  {
+   "text": "He",
+   "time": 163.26,
+   "weight": 0.99,
+   "note_time": 164.0
+  },
+  {
+   "text": "named",
+   "time": 164.24,
+   "weight": 1.0,
+   "note_time": 164.8
+  },
+  {
+   "text": "him",
+   "time": 165.06,
+   "weight": 0.88,
+   "note_time": 165.6
+  },
+  {
+   "text": "Je",
+   "time": 165.6,
+   "weight": 0.95,
+   "note_time": 166.0
+  },
+  {
+   "text": "sus,",
+   "time": 165.95,
+   "weight": 0.95,
+   "note_time": 166.4
+  },
+  {
+   "text": "the",
+   "time": 167.06,
+   "weight": 0.99,
+   "note_time": 166.8
+  },
+  {
+   "text": "light",
+   "time": 167.44,
+   "weight": 0.65,
+   "note_time": 167.0
+  },
+  {
+   "text": "of",
+   "time": 168.28,
+   "weight": 0.86,
+   "note_time": 167.6
+  },
+  {
+   "text": "morn",
+   "time": 169.12,
+   "weight": 0.79,
+   "note_time": 168.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 22 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

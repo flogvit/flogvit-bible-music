@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-17-3-celtic",
+  "title": "The Only True God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 17,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 17,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice, ethereal, solo with Celtic choir, acoustic guitar, fiddle, harp, bodhran, warm and reverent mood, 72 BPM",
+    "lyrics": "[Verse]\nHe lifted his eyes to the high blue sky\nThe hour has come, the Son is nigh\nGlorify the Son in the Father's sight\nSo the Son may shine with infinite light\n\n[Pre-Chorus]\nAuthority over all flesh is given\nTo hold the souls that are striven\n\n[Chorus]\nThis is eternal life to know\nThe only true God, nothing less than so\nAnd Jesus Christ whom He has sent\nIn whom our deepest hope is spent\n\n[Verse]\nOn earth He glorified the Father's name\nFinished the work that He would claim\nThe glory He held before the world began\nNow in Your presence, let it span\n\n[Chorus]\nThis is eternal life to know\nThe only true God, nothing less than so\nAnd Jesus Christ whom He has sent\nIn whom our deepest hope is spent\n\n[Bridge]\nRevealed the name to those You chose\nOut of the world, in faithful pose\nThey kept Your word, they held it tight\nGuided by the holy light\n\n[Chorus]\nThis is eternal life to know\nThe only true God, nothing less than so\nAnd Jesus Christ whom He has sent\nIn whom our deepest hope is spent\n\n[Outro]\nKnow the only true God\nAnd the Christ He sent",
+    "cot": "full",
+    "seed": 20331
+  }
+}

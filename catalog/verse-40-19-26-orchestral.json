@@ -1,0 +1,47 @@
+{
+  "id": "verse-40-19-26-orchestral",
+  "title": "With God All Things Are Possible",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 19,
+    "verseStart": 26,
+    "verseEnd": 26
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 19,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frykt",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with ethereal choir, organ, harp, strings, timpani, solemn and majestic, 70 BPM",
+    "lyrics": "[Verse]\nIt is hard for a rich man to enter\nThe kingdom of heaven is far from him\nA camel through the eye of a needle\nIs easier than his path to God\n\n[Pre-Chorus]\nThe disciples asked who can be saved\nWhen such a heavy burden is laid\n\n[Chorus]\nWith people this is impossible\nBut with God all things are possible\nWith people this is impossible\nBut with God all things are possible\n\n[Verse]\nWe left everything to follow you\nWhat will there be for us in turn\nAt the renewal of all things\nWhen the Son of Man sits on glory\n\n[Chorus]\nWith people this is impossible\nBut with God all things are possible\nWith people this is impossible\nBut with God all things are possible\n\n[Verse]\nYou will sit on twelve thrones\nJudging the twelve tribes of Israel\nLeaving houses, brothers, sisters\nFor my name you will inherit life\n\n[Chorus]\nWith people this is impossible\nBut with God all things are possible\nWith people this is impossible\nBut with God all things are possible\n\n[Outro]\nHundred times as much is given\nEternal life is yours to have",
+    "cot": "full",
+    "seed": 20327
+  }
+}

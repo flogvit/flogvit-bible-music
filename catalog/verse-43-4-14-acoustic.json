@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-4-14-acoustic",
+  "title": "Wellspring of Life",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 4,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 4,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, warm and intimate, acoustic guitar, piano, soft strings, cello, ambient pad, gentle and hopeful, 72 BPM",
+    "lyrics": "[Verse]\nThe well is deep and the sun is high\nYou have nothing to draw with, I ask you why\nWho gave this water that you hold so tight\nAre you greater than the father of the light\n\n[Pre-Chorus]\nJacob gave us the well and drank from it himself\nWith his sons and his livestock in the field\n\n[Chorus]\nEveryone who drinks this water will be thirsty again\nBut whoever drinks the water I give will never thirst again\nThe water I give will become in them a spring\nWelling up to eternal life\n\n[Verse]\nSir give me this water so I will not get thirsty\nAnd have to keep coming here to draw water from the earth\nYou see the need in my hands and in my soul\nA deep desire that the world cannot hold\n\n[Pre-Chorus]\nJacob gave us the well and drank from it himself\nWith his sons and his livestock in the field\n\n[Chorus]\nEveryone who drinks this water will be thirsty again\nBut whoever drinks the water I give will never thirst again\nThe water I give will become in them a spring\nWelling up to eternal life\n\n[Bridge]\nGo call your husband and come back here\nBut I have no husband I tell you dear\nYou are right in saying you have no husband\n\n[Chorus]\nEveryone who drinks this water will be thirsty again\nBut whoever drinks the water I give will never thirst again\nThe water I give will become in them a spring\nWelling up to eternal life\n\n[Outro]\nA spring of water welling up\nTo eternal life",
+    "cot": "full",
+    "seed": 20333
+  }
+}

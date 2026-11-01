@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-17-17-soul",
+  "title": "Your Word Is Truth",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 17,
+    "verseStart": 17,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 17,
+      "verseStart": 17,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, female solo with gospel choir, electric piano, upright bass, drums, organ, strings, reverent and powerful, 84 BPM",
+    "lyrics": "[Verse]\nI have given them your word to hold\nThe world has hated them, I am told\nThey are not of the world, just as I\nThe truth of heaven stands before their eye\n\n[Pre-Chorus]\nI do not ask you to take them out\nBut to keep them from the evil one's doubt\n\n[Chorus]\nSanctify them in the truth\nYour word is truth\nSanctify them in the truth\nYour word is truth\n\n[Verse]\nAs you sent me into the world\nSo I have sent them, calm and mild\nFor their sake I sanctify myself\nSo that they too may be whole and self\n\n[Chorus]\nSanctify them in the truth\nYour word is truth\nSanctify them in the truth\nYour word is truth\n\n[Bridge]\nI do not pray for these alone\nBut for those who will believe through their song\nThrough their word the faith comes in\nA new light for the world to begin\n\n[Chorus]\nSanctify them in the truth\nYour word is truth\nSanctify them in the truth\nYour word is truth",
+    "cot": "full",
+    "seed": 20329
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "verse-40-19-14-gospel",
+  "title": "Let the little children come to me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 19,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 19,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "obedience",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "kjerlighet",
+      "tro",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful female solo voice with warm gospel choir, acoustic piano, gentle strings, soft drums, handclaps, hopeful and tender mood, 85 BPM",
+    "lyrics": "[Verse]\nDisciples stood in the way\nTold the parents to go away\nBut Jesus looked with grace\nSaw the small face\n\n[Chorus]\nLet the little children come to me\nAnd do not hinder them\nFor the kingdom of heaven belongs\nTo such as these\n\n[Verse]\nHands placed on the head\nA prayer softly said\nThe disciples rebuked\nBut Jesus spoke\n\n[Chorus]\nLet the little children come to me\nAnd do not hinder them\nFor the kingdom of heaven belongs\nTo such as these\n\n[Verse]\nNot everyone can accept\nThis word is unique\nGiven to those who can receive\nWith a humble eye\n\n[Chorus]\nLet the little children come to me\nAnd do not hinder them\nFor the kingdom of heaven belongs\nTo such as these\n\n[Bridge]\nHe went on from there\nWith love to share\nThe good question asked\nBy the man in the past\n\n[Outro]\nThere is only one who is good\nKeep the commandments\nEnter life",
+    "cot": "full",
+    "seed": 20326
+  }
+}

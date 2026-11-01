@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-4-13-country",
+  "title": "Spring of Water",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 4,
+    "verseStart": 13,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and intimate, acoustic guitar, pedal steel, piano, soft drums, hopeful and reflective mood, 85 BPM",
+    "lyrics": "[Verse]\nEveryone who drinks this water\nWill be thirsty again\nYou asked for a simple cup\nFrom the deep and old well\nBut I hold a greater gift\nThat Jacob never knew\n\n[Chorus]\nWhoever drinks the water I give\nWill never thirst again\nIt becomes a spring inside\nWelling up to life\nA fountain flowing fresh\nFor those who stay and hear\n\n[Verse]\nThe well is deep and hard to draw\nYour bucket hangs on a rope\nBut this water does not run out\nIt wells up from within\nNo more walking to the well\nNo more heavy loads\n\n[Chorus]\nWhoever drinks the water I give\nWill never thirst again\nIt becomes a spring inside\nWelling up to life\nA fountain flowing fresh\nFor those who stay and hear\n\n[Bridge]\nGive me this water I pray\nSo I do not get thirsty\nSo I do not keep coming back\nTo draw what fades away\n\n[Outro]\nA spring of water\nTo eternal life",
+    "cot": "full",
+    "seed": 20332
+  }
+}

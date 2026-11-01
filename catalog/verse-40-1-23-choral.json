@@ -1,0 +1,48 @@
+{
+  "id": "verse-40-1-23-choral",
+  "title": "God With Us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 1,
+    "verseStart": 23,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 23,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo baritone with warm choir, acoustic guitar, piano, strings, soft percussion, reverent and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nA dream descends upon the sleeping mind\nAn angel speaks with a gentle sign\nDo not be afraid to take her in\nThe Holy Spirit is the source within\n\n[Chorus]\nBehold the virgin shall conceive\nAnd give birth to a holy seed\nThey will call him Immanuel\nGod with us, the true and real\n\n[Verse]\nShe will give birth to a son\nName him Jesus, the chosen one\nHe will save his people from their sins\nFulfilling what the Lord has given\n\n[Chorus]\nBehold the virgin shall conceive\nAnd give birth to a holy seed\nThey will call him Immanuel\nGod with us, the true and real\n\n[Bridge]\nWhen Joseph woke from his slumber deep\nHe rose and walked with humble feet\nHe did as the angel commanded him\nTaking her home, the sacred whim\n\n[Outro]\nNo relations until the child was born\nHe named him Jesus, the light of morn",
+    "cot": "full",
+    "seed": 20325
+  }
+}

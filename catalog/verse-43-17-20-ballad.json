@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-17-20-ballad",
+  "title": "That They May Be One",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 17,
+    "verseStart": 20,
+    "verseEnd": 21
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 17,
+      "verseStart": 20,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "menigheten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ballad, female solo voice with soft choir, piano, acoustic guitar, cello, strings, 70 BPM, reverent and hopeful",
+    "lyrics": "[Verse]\nI pray not for these alone today\nBut for those who will believe\nThrough the word that they convey\nInto the world to receive\n\n[Verse]\nAs you the Father are in me\nAnd I am in you likewise\nLet them be in us we see\nIn this holy, quiet space\n\n[Chorus]\nThat they may all be one\nAs we are one, as we are one\nLet the world believe it is done\nThat you sent me, and this is won\n\n[Verse]\nThe glory you gave to me\nI have given to them all\nThat they may be complete and free\nIn truth and in the call\n\n[Chorus]\nThat they may all be one\nAs we are one, as we are one\nLet the world believe it is done\nThat you sent me, and this is won\n\n[Bridge]\nI in them and you in me\nBrought to complete unity\nSo the world may know with ease\nThat you loved them as I\n\n[Outro]\nThat they may all be one\nAs you and I are one",
+    "cot": "full",
+    "seed": 20330
+  }
+}

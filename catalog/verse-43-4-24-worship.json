@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-4-24-worship",
+  "title": "Spirit and Truth",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 4,
+    "verseStart": 24,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 4,
+      "verseStart": 24,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, ethereal, piano, strings, soft drums, atmospheric, 80 BPM",
+    "lyrics": "[Verse]\nAn hour is coming, it is now here\nYou will worship the Father, not on this mountain\nNor in Jerusalem, but in a new way\nBelieve me, woman, the time has arrived\n\n[Chorus]\nWorship in spirit and truth\nThe Father seeks such people\nGod is spirit, we must worship him\nIn spirit and truth, in spirit and truth\n\n[Verse]\nYou worship what you do not know\nWe worship what we know, salvation is from the Jews\nBut the true worshipers will worship the Father\nIn spirit and truth, seeking such people\n\n[Chorus]\nWorship in spirit and truth\nThe Father seeks such people\nGod is spirit, we must worship him\nIn spirit and truth, in spirit and truth\n\n[Bridge]\nI know that Messiah is coming\nHe who is called Christ, he will tell us everything\nJesus said to her, I am he\nI who am speaking to you, right now\n\n[Chorus]\nWorship in spirit and truth\nThe Father seeks such people\nGod is spirit, we must worship him\nIn spirit and truth, in spirit and truth\n\n[Outro]\nDisciples came back, astonished at his words\nNo one asked, why are you talking with her\nWorship in spirit and truth",
+    "cot": "full",
+    "seed": 20334
+  }
+}

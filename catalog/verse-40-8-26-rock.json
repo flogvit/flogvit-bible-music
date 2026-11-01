@@ -1,0 +1,45 @@
+{
+  "id": "verse-40-8-26-rock",
+  "title": "Why Are You Afraid",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 8,
+    "verseStart": 26,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 8,
+      "verseStart": 26,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frykt"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice with backing choir, electric guitar, bass guitar, drums, organ, urgent and triumphant mood, 120 BPM",
+    "lyrics": "[Verse]\nThe boat is tossed upon the deep\nThe waves are rising, fierce and steep\nDisciples wake the sleeping man\nLord, save us from the storming span\n\n[Chorus]\nWhy are you afraid, you of little faith\nHe rebuked the winds, He stilled the sway\nThe sea obeyed His mighty word\nA great calm came to shore\n\n[Verse]\nThey watched Him rise with power unseen\nThe violent wind was driven clean\nThe sea lay still under His command\nNo longer fearing where they stand\n\n[Chorus]\nWhy are you afraid, you of little faith\nHe rebuked the winds, He stilled the sway\nThe sea obeyed His mighty word\nA great calm came to shore\n\n[Bridge]\nWhat kind of man is this they say\nThe winds and sea obey His way\nAmazed by the power He displays\nIn the heart of the raging days\n\n[Chorus]\nWhy are you afraid, you of little faith\nHe rebuked the winds, He stilled the sway\nThe sea obeyed His mighty word\nA great calm came to shore\n\n[Outro]\nEven the sea obeys His name\nHis power remains the same",
+    "cot": "full",
+    "seed": 20328
+  }
+}

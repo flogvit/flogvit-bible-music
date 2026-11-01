@@ -207,7 +207,16 @@ between songs (`RUN RESTART` in the log) and launchd starts the new code, so cod
 generating Mac within a song and a minute. While a song generates, the Mac
 does not sleep on power (`caffeinate -s`); on battery it may, and after 20 minutes asleep the song is free for
 others. Without network, `run` waits and tries again every minute. Turn it off with
-`scripts/install-generator.sh --uninstall`, which gives the song it was making back. Started from a terminal or
+`scripts/install-generator.sh --uninstall`, which gives the song it was making back. To pause it and keep it
+installed, also across a restart:
+
+```bash
+launchctl disable gui/$(id -u)/com.flogvit.music-generate && launchctl bootout gui/$(id -u)/com.flogvit.music-generate
+# and to go on again:
+launchctl enable gui/$(id -u)/com.flogvit.music-generate && launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.flogvit.music-generate.plist
+```
+
+Started from a terminal or
 an agent session instead, `run` dies with that terminal or session.
 
 ### Lyrics check

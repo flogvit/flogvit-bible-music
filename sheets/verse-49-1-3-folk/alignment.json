@@ -1,0 +1,1004 @@
+{
+ "id": "verse-49-1-3-folk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-49-1-3-folk",
+ "offset_seconds": -4.1400000000001675,
+ "words_heard": 99,
+ "words": 99,
+ "lines": [
+  {
+   "text": "Paul writes to saints in Ephesus",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Grace and peace from God our Father",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Chosen before the world began",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To be holy in His love",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed with every spiritual blessing",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the heavenly places we are",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed in Christ forever",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He chose us in Him before time",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Destined for adoption as sons",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "According to the good pleasure",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of His own perfect will",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed with every spiritual blessing",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the heavenly places we are",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed in Christ forever",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To the praise of His glorious grace",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lavished on us in the Beloved",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed be the God and Father",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed in Christ forever",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Paul",
+   "time": 15.32,
+   "weight": 0.38,
+   "note_time": 15.0
+  },
+  {
+   "text": "writes",
+   "time": 16.3,
+   "weight": 0.99,
+   "note_time": 15.73
+  },
+  {
+   "text": "to",
+   "time": 16.84,
+   "weight": 1.0,
+   "note_time": 15.91
+  },
+  {
+   "text": "saints",
+   "time": 17.12,
+   "weight": 0.91,
+   "note_time": 16.46
+  },
+  {
+   "text": "in",
+   "time": 17.66,
+   "weight": 1.0,
+   "note_time": 16.65
+  },
+  {
+   "text": "Ep",
+   "time": 18.1,
+   "weight": 0.94,
+   "note_time": 17.2
+  },
+  {
+   "text": "he",
+   "time": 18.44,
+   "weight": 0.94,
+   "note_time": 17.38
+  },
+  {
+   "text": "sus",
+   "time": 18.78,
+   "weight": 0.94,
+   "note_time": 17.74
+  },
+  {
+   "text": "Grace",
+   "time": 19.12,
+   "weight": 0.24,
+   "note_time": 21.22
+  },
+  {
+   "text": "and",
+   "time": 22.48,
+   "weight": 1.0,
+   "note_time": 21.59
+  },
+  {
+   "text": "peace",
+   "time": 22.94,
+   "weight": 0.99,
+   "note_time": 21.77
+  },
+  {
+   "text": "from",
+   "time": 23.24,
+   "weight": 1.0,
+   "note_time": 22.32
+  },
+  {
+   "text": "God",
+   "time": 23.66,
+   "weight": 1.0,
+   "note_time": 22.5
+  },
+  {
+   "text": "our",
+   "time": 23.98,
+   "weight": 0.87,
+   "note_time": 22.87
+  },
+  {
+   "text": "Fa",
+   "time": 24.32,
+   "weight": 0.97,
+   "note_time": 23.23
+  },
+  {
+   "text": "ther",
+   "time": 24.67,
+   "weight": 0.97,
+   "note_time": 23.78
+  },
+  {
+   "text": "Cho",
+   "time": 27.32,
+   "weight": 0.98,
+   "note_time": 26.71
+  },
+  {
+   "text": "sen",
+   "time": 27.67,
+   "weight": 0.98,
+   "note_time": 27.07
+  },
+  {
+   "text": "be",
+   "time": 28.3,
+   "weight": 1.0,
+   "note_time": 27.44
+  },
+  {
+   "text": "fore",
+   "time": 28.54,
+   "weight": 1.0,
+   "note_time": 27.62
+  },
+  {
+   "text": "the",
+   "time": 28.78,
+   "weight": 1.0,
+   "note_time": 28.17
+  },
+  {
+   "text": "world",
+   "time": 29.46,
+   "weight": 0.99,
+   "note_time": 28.35
+  },
+  {
+   "text": "be",
+   "time": 29.96,
+   "weight": 0.98,
+   "note_time": 28.9
+  },
+  {
+   "text": "gan",
+   "time": 30.16,
+   "weight": 0.98,
+   "note_time": 29.09
+  },
+  {
+   "text": "To",
+   "time": 30.36,
+   "weight": 0.91,
+   "note_time": 30.37
+  },
+  {
+   "text": "be",
+   "time": 31.6,
+   "weight": 1.0,
+   "note_time": 30.55
+  },
+  {
+   "text": "ho",
+   "time": 31.76,
+   "weight": 0.98,
+   "note_time": 30.73
+  },
+  {
+   "text": "ly",
+   "time": 32.05,
+   "weight": 0.98,
+   "note_time": 31.1
+  },
+  {
+   "text": "in",
+   "time": 32.34,
+   "weight": 0.99,
+   "note_time": 31.28
+  },
+  {
+   "text": "His",
+   "time": 32.64,
+   "weight": 0.87,
+   "note_time": 31.46
+  },
+  {
+   "text": "love",
+   "time": 32.86,
+   "weight": 0.99,
+   "note_time": 31.83
+  },
+  {
+   "text": "Blessed",
+   "time": 35.24,
+   "weight": 0.15,
+   "note_time": 35.12
+  },
+  {
+   "text": "with",
+   "time": 36.48,
+   "weight": 0.96,
+   "note_time": 36.4
+  },
+  {
+   "text": "ev",
+   "time": 37.58,
+   "weight": 0.99,
+   "note_time": 36.59
+  },
+  {
+   "text": "ery",
+   "time": 37.81,
+   "weight": 0.99,
+   "note_time": 36.77
+  },
+  {
+   "text": "spir",
+   "time": 38.04,
+   "weight": 0.99,
+   "note_time": 37.13
+  },
+  {
+   "text": "i",
+   "time": 38.21,
+   "weight": 0.99,
+   "note_time": 37.32
+  },
+  {
+   "text": "tu",
+   "time": 38.37,
+   "weight": 0.99,
+   "note_time": 37.5
+  },
+  {
+   "text": "al",
+   "time": 38.54,
+   "weight": 0.99,
+   "note_time": 38.05
+  },
+  {
+   "text": "bles",
+   "time": 38.7,
+   "weight": 0.99,
+   "note_time": 38.6
+  },
+  {
+   "text": "sing",
+   "time": 39.05,
+   "weight": 0.99,
+   "note_time": 40.61
+  },
+  {
+   "text": "In",
+   "time": 39.8,
+   "weight": 0.3,
+   "note_time": 40.79
+  },
+  {
+   "text": "the",
+   "time": 41.88,
+   "weight": 0.99,
+   "note_time": 40.98
+  },
+  {
+   "text": "heav",
+   "time": 41.98,
+   "weight": 1.0,
+   "note_time": 41.52
+  },
+  {
+   "text": "en",
+   "time": 42.24,
+   "weight": 1.0,
+   "note_time": 41.89
+  },
+  {
+   "text": "ly",
+   "time": 42.5,
+   "weight": 1.0,
+   "note_time": 42.44
+  },
+  {
+   "text": "pla",
+   "time": 42.76,
+   "weight": 0.98,
+   "note_time": 42.99
+  },
+  {
+   "text": "ces",
+   "time": 43.11,
+   "weight": 0.98,
+   "note_time": 43.35
+  },
+  {
+   "text": "we",
+   "time": 44.08,
+   "weight": 0.98,
+   "note_time": 43.72
+  },
+  {
+   "text": "are",
+   "time": 44.6,
+   "weight": 1.0,
+   "note_time": 43.9
+  },
+  {
+   "text": "Blessed",
+   "time": 45.76,
+   "weight": 0.99,
+   "note_time": 45.37
+  },
+  {
+   "text": "in",
+   "time": 46.64,
+   "weight": 1.0,
+   "note_time": 45.73
+  },
+  {
+   "text": "Christ",
+   "time": 47.0,
+   "weight": 1.0,
+   "note_time": 46.1
+  },
+  {
+   "text": "for",
+   "time": 47.36,
+   "weight": 0.99,
+   "note_time": 46.65
+  },
+  {
+   "text": "ev",
+   "time": 47.57,
+   "weight": 0.99,
+   "note_time": 46.83
+  },
+  {
+   "text": "er",
+   "time": 47.79,
+   "weight": 0.99,
+   "note_time": 47.01
+  },
+  {
+   "text": "He",
+   "time": 57.82,
+   "weight": 0.93,
+   "note_time": 58.9
+  },
+  {
+   "text": "chose",
+   "time": 59.06,
+   "weight": 0.99,
+   "note_time": 59.27
+  },
+  {
+   "text": "us",
+   "time": 60.3,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "in",
+   "time": 60.76,
+   "weight": 0.96,
+   "note_time": 60.18
+  },
+  {
+   "text": "Him",
+   "time": 61.1,
+   "weight": 0.91,
+   "note_time": 60.55
+  },
+  {
+   "text": "be",
+   "time": 61.34,
+   "weight": 1.0,
+   "note_time": 60.91
+  },
+  {
+   "text": "fore",
+   "time": 61.61,
+   "weight": 1.0,
+   "note_time": 61.28
+  },
+  {
+   "text": "time",
+   "time": 61.88,
+   "weight": 1.0,
+   "note_time": 61.46
+  },
+  {
+   "text": "Des",
+   "time": 65.32,
+   "weight": 0.55,
+   "note_time": 65.12
+  },
+  {
+   "text": "tined",
+   "time": 65.67,
+   "weight": 0.55,
+   "note_time": 65.49
+  },
+  {
+   "text": "for",
+   "time": 66.6,
+   "weight": 1.0,
+   "note_time": 65.85
+  },
+  {
+   "text": "a",
+   "time": 66.82,
+   "weight": 1.0,
+   "note_time": 66.22
+  },
+  {
+   "text": "dop",
+   "time": 67.05,
+   "weight": 1.0,
+   "note_time": 66.4
+  },
+  {
+   "text": "tion",
+   "time": 67.29,
+   "weight": 1.0,
+   "note_time": 66.77
+  },
+  {
+   "text": "as",
+   "time": 67.52,
+   "weight": 0.97,
+   "note_time": 66.95
+  },
+  {
+   "text": "sons",
+   "time": 68.16,
+   "weight": 0.99,
+   "note_time": 67.68
+  },
+  {
+   "text": "Ac",
+   "time": 70.54,
+   "weight": 0.74,
+   "note_time": 70.79
+  },
+  {
+   "text": "cord",
+   "time": 70.89,
+   "weight": 0.74,
+   "note_time": 70.98
+  },
+  {
+   "text": "ing",
+   "time": 71.24,
+   "weight": 0.74,
+   "note_time": 71.34
+  },
+  {
+   "text": "to",
+   "time": 71.82,
+   "weight": 1.0,
+   "note_time": 71.71
+  },
+  {
+   "text": "the",
+   "time": 72.56,
+   "weight": 1.0,
+   "note_time": 72.26
+  },
+  {
+   "text": "good",
+   "time": 73.18,
+   "weight": 1.0,
+   "note_time": 72.62
+  },
+  {
+   "text": "plea",
+   "time": 73.66,
+   "weight": 0.99,
+   "note_time": 73.17
+  },
+  {
+   "text": "sure",
+   "time": 73.97,
+   "weight": 0.99,
+   "note_time": 73.72
+  },
+  {
+   "text": "Of",
+   "time": 74.28,
+   "weight": 0.19,
+   "note_time": 74.27
+  },
+  {
+   "text": "His",
+   "time": 75.22,
+   "weight": 0.83,
+   "note_time": 74.45
+  },
+  {
+   "text": "own",
+   "time": 75.4,
+   "weight": 1.0,
+   "note_time": 74.63
+  },
+  {
+   "text": "per",
+   "time": 75.72,
+   "weight": 1.0,
+   "note_time": 75.18
+  },
+  {
+   "text": "fect",
+   "time": 76.04,
+   "weight": 1.0,
+   "note_time": 75.55
+  },
+  {
+   "text": "will",
+   "time": 76.36,
+   "weight": 1.0,
+   "note_time": 75.91
+  },
+  {
+   "text": "Blessed",
+   "time": 79.04,
+   "weight": 0.89,
+   "note_time": 79.02
+  },
+  {
+   "text": "with",
+   "time": 80.32,
+   "weight": 0.95,
+   "note_time": 80.3
+  },
+  {
+   "text": "ev",
+   "time": 81.18,
+   "weight": 1.0,
+   "note_time": 80.49
+  },
+  {
+   "text": "ery",
+   "time": 81.36,
+   "weight": 1.0,
+   "note_time": 80.67
+  },
+  {
+   "text": "spir",
+   "time": 81.54,
+   "weight": 0.98,
+   "note_time": 81.04
+  },
+  {
+   "text": "i",
+   "time": 81.7,
+   "weight": 0.98,
+   "note_time": 81.22
+  },
+  {
+   "text": "tu",
+   "time": 81.85,
+   "weight": 0.98,
+   "note_time": 81.4
+  },
+  {
+   "text": "al",
+   "time": 82.01,
+   "weight": 0.98,
+   "note_time": 81.95
+  },
+  {
+   "text": "bles",
+   "time": 82.16,
+   "weight": 1.0,
+   "note_time": 82.5
+  },
+  {
+   "text": "sing",
+   "time": 82.51,
+   "weight": 1.0,
+   "note_time": 84.51
+  },
+  {
+   "text": "In",
+   "time": 83.26,
+   "weight": 0.4,
+   "note_time": 84.7
+  },
+  {
+   "text": "the",
+   "time": 85.38,
+   "weight": 1.0,
+   "note_time": 84.88
+  },
+  {
+   "text": "heav",
+   "time": 85.46,
+   "weight": 1.0,
+   "note_time": 85.43
+  },
+  {
+   "text": "en",
+   "time": 85.71,
+   "weight": 1.0,
+   "note_time": 85.79
+  },
+  {
+   "text": "ly",
+   "time": 85.97,
+   "weight": 1.0,
+   "note_time": 86.34
+  },
+  {
+   "text": "pla",
+   "time": 86.22,
+   "weight": 0.99,
+   "note_time": 86.89
+  },
+  {
+   "text": "ces",
+   "time": 86.57,
+   "weight": 0.99,
+   "note_time": 87.26
+  },
+  {
+   "text": "we",
+   "time": 87.54,
+   "weight": 0.98,
+   "note_time": 87.62
+  },
+  {
+   "text": "are",
+   "time": 88.1,
+   "weight": 1.0,
+   "note_time": 87.8
+  },
+  {
+   "text": "Blessed",
+   "time": 89.24,
+   "weight": 1.0,
+   "note_time": 89.27
+  },
+  {
+   "text": "in",
+   "time": 90.1,
+   "weight": 1.0,
+   "note_time": 89.63
+  },
+  {
+   "text": "Christ",
+   "time": 90.44,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "for",
+   "time": 90.84,
+   "weight": 1.0,
+   "note_time": 90.55
+  },
+  {
+   "text": "ev",
+   "time": 91.07,
+   "weight": 1.0,
+   "note_time": 90.73
+  },
+  {
+   "text": "er",
+   "time": 91.29,
+   "weight": 1.0,
+   "note_time": 90.91
+  },
+  {
+   "text": "To",
+   "time": 101.18,
+   "weight": 0.22,
+   "note_time": 102.07
+  },
+  {
+   "text": "the",
+   "time": 102.58,
+   "weight": 0.99,
+   "note_time": 102.26
+  },
+  {
+   "text": "praise",
+   "time": 102.84,
+   "weight": 0.99,
+   "note_time": 102.44
+  },
+  {
+   "text": "of",
+   "time": 103.62,
+   "weight": 0.99,
+   "note_time": 104.27
+  },
+  {
+   "text": "His",
+   "time": 105.0,
+   "weight": 0.83,
+   "note_time": 104.63
+  },
+  {
+   "text": "glo",
+   "time": 105.32,
+   "weight": 0.99,
+   "note_time": 105.0
+  },
+  {
+   "text": "ri",
+   "time": 105.67,
+   "weight": 0.99,
+   "note_time": 105.73
+  },
+  {
+   "text": "ous",
+   "time": 106.02,
+   "weight": 0.99,
+   "note_time": 106.1
+  },
+  {
+   "text": "grace",
+   "time": 106.38,
+   "weight": 0.98,
+   "note_time": 106.46
+  },
+  {
+   "text": "Lav",
+   "time": 108.14,
+   "weight": 0.32,
+   "note_time": 108.29
+  },
+  {
+   "text": "ished",
+   "time": 108.49,
+   "weight": 0.32,
+   "note_time": 108.84
+  },
+  {
+   "text": "on",
+   "time": 109.68,
+   "weight": 1.0,
+   "note_time": 109.39
+  },
+  {
+   "text": "us",
+   "time": 110.12,
+   "weight": 1.0,
+   "note_time": 110.12
+  },
+  {
+   "text": "in",
+   "time": 110.94,
+   "weight": 0.95,
+   "note_time": 111.22
+  },
+  {
+   "text": "the",
+   "time": 111.92,
+   "weight": 1.0,
+   "note_time": 111.77
+  },
+  {
+   "text": "Belo",
+   "time": 112.32,
+   "weight": 0.22,
+   "note_time": 112.32
+  },
+  {
+   "text": "ved",
+   "time": 112.67,
+   "weight": 0.22,
+   "note_time": 112.68
+  },
+  {
+   "text": "Blessed",
+   "time": 116.36,
+   "weight": 0.98,
+   "note_time": 117.07
+  },
+  {
+   "text": "be",
+   "time": 117.76,
+   "weight": 0.99,
+   "note_time": 117.62
+  },
+  {
+   "text": "the",
+   "time": 118.68,
+   "weight": 0.97,
+   "note_time": 118.35
+  },
+  {
+   "text": "God",
+   "time": 118.88,
+   "weight": 0.99,
+   "note_time": 118.54
+  },
+  {
+   "text": "and",
+   "time": 119.28,
+   "weight": 0.99,
+   "note_time": 119.27
+  },
+  {
+   "text": "Fa",
+   "time": 119.92,
+   "weight": 0.99,
+   "note_time": 119.63
+  },
+  {
+   "text": "ther",
+   "time": 120.27,
+   "weight": 0.99,
+   "note_time": 120.37
+  },
+  {
+   "text": "Blessed",
+   "time": 121.14,
+   "weight": 0.38,
+   "note_time": 122.93
+  },
+  {
+   "text": "in",
+   "time": 123.88,
+   "weight": 1.0,
+   "note_time": 124.02
+  },
+  {
+   "text": "Christ",
+   "time": 124.62,
+   "weight": 1.0,
+   "note_time": 124.21
+  },
+  {
+   "text": "for",
+   "time": 125.2,
+   "weight": 1.0,
+   "note_time": 124.39
+  },
+  {
+   "text": "ev",
+   "time": 125.55,
+   "weight": 1.0,
+   "note_time": 125.49
+  },
+  {
+   "text": "er",
+   "time": 125.9,
+   "weight": 1.0,
+   "note_time": 125.67
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 18 lyric lines sit on their notes."
+}

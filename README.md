@@ -7,22 +7,31 @@ each linked to a verse, chapter, story, theme or person on bible.flogvit.com.
 
 Needs an Apple Silicon Mac with macOS 14 or later, [uv](https://docs.astral.sh/uv/) and [bun](https://bun.sh)
 (`brew install uv oven-sh/bun/bun`). `YuE/` is not part of this repo (see `.gitignore`); it is the upstream
-YuE2 code at a fixed commit plus `patches/yue2-mps.patch`.
+YuE2 code at a fixed commit, unchanged.
 
 ```bash
 git clone git@github.com:flogvit/flogvit-bible-music.git music
 cd music
 git clone https://github.com/multimodal-art-projection/YuE.git YuE
 cd YuE
-git checkout 1647252
-git apply ../patches/yue2-mps.patch
+git checkout 134817f
 uv venv --python 3.12 .venv
 uv pip install --python .venv/bin/python .
 .venv/bin/yue2 doctor
 ```
 
-`doctor` should print `"torch": "2.14.1"` and `"mps_available": true`. If it says torch 2.10.0, the patch was
-not applied: see below for why that matters.
+`doctor` should print `"torch": "2.14.1"` and `"mps_available": true`. If it says torch 2.10.0, `YuE/` is on an
+older commit: see below for why that matters.
+
+A `YuE/` set up before 2026-11-01 is at `1647252` with our old `patches/yue2-mps.patch` applied. Update it between
+two songs, never while `yue2 batch` runs (`pgrep -f 'yue2 batch'` prints nothing):
+
+```bash
+cd YuE
+git checkout -- . && git fetch origin && git checkout 134817f
+uv pip install --python .venv/bin/python --reinstall-package yue2-infer .
+.venv/bin/yue2 doctor
+```
 
 The first generation downloads the model weights (YuE2-3B 6.8 GB, YuE2-Vae 0.5 GB) into the Hugging Face cache
 (`~/.cache/huggingface`). No Hugging Face account is needed.
@@ -42,19 +51,34 @@ uv pip install --python .venv-images/bin/python mflux==0.24.0
 The first picture downloads Z-Image Turbo (31 GB) into the Hugging Face cache, and Ollama pulls `qwen3-vl:8b`
 (6 GB). The pictures run as a launchd agent of their own (see Pictures for the big screen).
 
-### What the patch changes
+### Why torch 2.14.1 on macOS
 
-- `pyproject.toml` installs **torch 2.14.1 on macOS** (upstream pins 2.10.0 for everyone). torch 2.10's Apple GPU
-  attention writes past its scratch buffers once the KV cache holds 1,024 keys (upstream issue #268): the
-  output is wrong (cosine similarity 0.5–0.8 against the CPU result in our tests), the same seed gives different
-  songs, and memory grows with every new cache length until macOS kills the process (past 100 GB on a
-  six-minute song). torch 2.14.1 fixes all three without code changes, and the audio synthesis step runs about
-  4× faster (84 s instead of 319 s for a 3:33 song). Other platforms keep 2.10.0.
-- `examples/generate.py` uses `device="auto"` instead of `"cuda"`.
+Upstream installs **torch 2.14.1 on macOS** and 2.10.0 elsewhere (since its PR #273; before that we carried the
+same pin as `patches/yue2-mps.patch`). torch 2.10's Apple GPU attention writes past its scratch buffers once the KV
+cache holds 1,024 keys (upstream issue #268): the output is wrong (cosine similarity 0.5–0.8 against the CPU result
+in our tests), the same seed gives different songs, and memory grows with every new cache length until macOS kills
+the process (past 100 GB on a six-minute song). torch 2.14.1 fixes all three without code changes, and the audio
+synthesis step runs about 4× faster (84 s instead of 319 s for a 3:33 song).
 
-After editing anything under `YuE/`, reinstall with
-`uv pip install --python .venv/bin/python --reinstall-package yue2-infer .` and refresh the patch with
-`git -C YuE diff > patches/yue2-mps.patch`.
+### Compiled decode
+
+`scripts/generate.ts` runs YuE2 with `YUE2_COMPILE=1`: the one-token decode step goes through `torch.compile`.
+Measured on the Home Mac (M1 Max) on 2026-11-01, `taskpolicy -b`, the same request back to back under the same
+load:
+
+| | `1647252`, eager | `134817f`, eager | `134817f`, compiled |
+|---|---|---|---|
+| 30 s test song, song tokens per second | | 2.9 | 12.3 |
+| catalog song `verse-40-8-26-rock` (idle Mac), score / song tokens per second | 5.3 / 8.5 | | 9.8 / 11.0 |
+| same song, audio synthesis | 442 s | | 557 s |
+| same song, seconds of work per second of audio | 7.2 | | 5.9 |
+
+Compile time is included in these numbers. The same seed gives the same song every time, and Whisper hears the
+whole lyrics. `134817f` without compile was slower than `1647252` on 2026-10-31 (score and synthesis), so leave it on. Set `YUE2_COMPILE=0` to turn it
+off.
+
+`YuE/` carries no local changes. If one is ever needed, keep it as a patch in `patches/`, apply it in the setup
+above, and reinstall with `uv pip install --python .venv/bin/python --reinstall-package yue2-infer .`.
 
 ### Songs made with torch 2.10
 

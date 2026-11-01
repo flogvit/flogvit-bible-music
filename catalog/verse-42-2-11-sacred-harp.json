@@ -1,0 +1,47 @@
+{
+  "id": "verse-42-2-11-sacred-harp",
+  "title": "While Shepherds Watched in Bethlehem",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "sacred-harp"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, Sacred Harp Christmas anthem, a raw loud four-part congregation in a hollow square, no instruments, rustic open harmonies, joyful accented downbeats, 3/4, 112 BPM",
+    "lyrics": "[Verse]\nThe shepherds in the field by night\nWere watching flocks of sheep\nWhen glory shone with sudden light\nAnd woke them from their sleep\n\n[Verse]\nFear not, the shining angel said\nGreat joy to all I bring\nIn Bethlehem a manger bed\nNow holds your Lord and King\n\n[Verse]\nAnd then a host of angels came\nAnd filled the midnight sky\nThey sang the glory of his name\nTo God be praise on high\n\n[Verse]\nAnd peace on earth to all below\nWith whom the Lord is pleased\nSo let us all to Bethlehem go\nAnd see what God has seized",
+    "cot": "full",
+    "seed": 31018
+  }
+}

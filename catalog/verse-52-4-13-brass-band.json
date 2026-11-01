@@ -1,0 +1,48 @@
+{
+  "id": "verse-52-4-13-brass-band",
+  "title": "We Shall Be With the Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 52,
+    "chapter": 4,
+    "verseStart": 13,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 52,
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "brass-band"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "hap",
+      "oppstandelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, brass band funeral march, slow muffled drum, mournful euphoniums, horns and tubas, a quiet congregation singing in harmony, turning to a brighter major key at the end, dignified and hopeful, 66 BPM",
+    "lyrics": "[Verse]\nWe do not grieve as those\nWho have no hope at all\nFor Jesus died and rose again\nAnd he will raise them all\n\n[Chorus]\nAnd so we shall be with the Lord\nForever with the Lord\nEncourage one another with these words\nForever with the Lord\n\n[Verse]\nThe Lord himself will come\nWith the trumpet call of God\nAnd those who sleep in Christ will rise\nFrom underneath the sod\n\n[Chorus]\nAnd so we shall be with the Lord\nForever with the Lord\nEncourage one another with these words\nForever with the Lord",
+    "cot": "full",
+    "seed": 31029
+  }
+}

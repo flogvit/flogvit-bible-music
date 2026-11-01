@@ -1,0 +1,45 @@
+{
+  "id": "chapter-19-90-chorale",
+  "title": "Herre, du har vært vår bolig",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 90
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 90,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "chorale"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "visdom"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osnb",
+  "form": "strophic",
+  "request": {
+    "style": "Norwegian, Lutheran funeral chorale, a congregation singing slowly in unison with a soft pipe organ, plain even notes, D minor, solemn and consoling, 4/4, 60 BPM",
+    "lyrics": "[Verse]\nHerre, du har vært vår bolig\nfra slekt til slekt og år for år\nFør fjellene ble født i verden\ner du Gud, og du består\n\n[Verse]\nDu lar mennesket bli støv igjen\nog sier: Vend tilbake nå\nFor tusen år er i dine øyne\nsom dagen i går som gikk sin gang\n\n[Verse]\nOm morgenen står gresset grønt\nom kvelden er det visnet bort\nLær oss å telle våre dager\nså hjertet vårt blir vist og stort\n\n[Verse]\nHerre, du har vært vår bolig\nfra slekt til slekt og år for år\nFør fjellene ble født i verden\ner du Gud, og du består",
+    "cot": "full",
+    "seed": 31019
+  }
+}

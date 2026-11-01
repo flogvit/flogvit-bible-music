@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-1-29-gregorian",
+  "title": "Ecce Agnus Dei",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 1,
+    "verseStart": 29,
+    "verseEnd": 29
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 29,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "gregorian"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "korset"
+    ],
+    "stories": [],
+    "persons": [
+      "johannes-doperen"
+    ]
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "vulgate",
+  "request": {
+    "style": "Latin, Gregorian chant, a women's schola of nuns singing in pure unison, no instruments, Lydian mode, airy convent reverb, tender and still, 60 BPM",
+    "lyrics": "[Verse]\nEcce agnus Dei\necce qui tollit peccatum mundi\n\n[Verse]\nEcce agnus Dei\necce qui tollit peccatum mundi\n\n[Verse]\nEcce agnus Dei\necce qui tollit peccatum mundi\n\n[Outro]\nEcce agnus Dei",
+    "cot": "full",
+    "seed": 31003
+  }
+}

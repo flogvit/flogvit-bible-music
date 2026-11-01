@@ -1,0 +1,42 @@
+{
+  "id": "chapter-19-47-edm",
+  "title": "Clap Your Hands",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 47
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 47,
+      "verseStart": 2,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "edm"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, festival EDM worship, big room house, pounding four-on-the-floor kick, supersaw synth leads, a male vocal shouting the call and a crowd answering, euphoric drop, 128 BPM",
+    "lyrics": "[Verse]\nClap your hands, all you peoples\nShout to God with loud songs of joy\nFor the Lord Most High is awesome\nA great King over all the earth\n\n[Pre-Chorus]\nGod has gone up with a shout\nThe Lord with the sound of a trumpet\n\n[Chorus]\nSing praises to God, sing praises\nSing praises to our King, sing praises\nFor God is the King of all the earth\nSing praises\n\n[Verse]\nHe subdued peoples under us\nHe chose our heritage for us\nGod reigns over the nations\nGod sits on his holy throne\n\n[Pre-Chorus]\nGod has gone up with a shout\nThe Lord with the sound of a trumpet\n\n[Chorus]\nSing praises to God, sing praises\nSing praises to our King, sing praises\nFor God is the King of all the earth\nSing praises",
+    "cot": "full",
+    "seed": 31082
+  }
+}

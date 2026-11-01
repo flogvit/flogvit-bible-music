@@ -1,0 +1,46 @@
+{
+  "id": "story-sakkeus-highlife",
+  "title": "Zacchaeus, Come Down",
+  "kind": "story",
+  "anchor": {
+    "story": "sakkeus"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 19,
+      "verseStart": 1,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "highlife"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [
+      "sakkeus"
+    ],
+    "persons": [
+      "sakkeus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Ghanaian highlife gospel, sweet interlocking guitars, horn riffs, congas and bells, a cheerful male lead and a women's chorus, bouncing and playful, 124 BPM",
+    "lyrics": "[Verse]\nJesus came to Jericho\nA crowd was all around\nZacchaeus was a little man\nHe could not see from the ground\nHe ran ahead and climbed a tree\nA sycamore so high\nAnd Jesus stopped and looked up there\nAnd called him from the sky\n\n[Chorus]\nZacchaeus, come down, come down\nToday I'm staying at your house\nZacchaeus, come down, come down\nSalvation has come to your house\n\n[Verse]\nHe hurried down with joy that day\nThe people grumbled loud\nLook, Lord, I give half to the poor\nAnd four times what I owe\nThe Son of Man has come to seek\nAnd save the ones who're lost\nZacchaeus, son of Abraham\nIs found at any cost\n\n[Chorus]\nZacchaeus, come down, come down\nToday I'm staying at your house\nZacchaeus, come down, come down\nSalvation has come to your house",
+    "cot": "full",
+    "seed": 31052
+  }
+}

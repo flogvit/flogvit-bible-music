@@ -1,0 +1,47 @@
+{
+  "id": "verse-23-60-1-edm",
+  "title": "Arise, Shine",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 60,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 60,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "edm"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [
+      "epiphany"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, melodic progressive house worship, shimmering arpeggios, warm pads, a slow build, a breathy female voice, a soaring drop with piano chords, uplifting, 124 BPM",
+    "lyrics": "[Verse]\nFor behold, darkness shall cover the earth\nAnd thick darkness the peoples\nBut the Lord will arise upon you\nAnd his glory will be seen upon you\n\n[Pre-Chorus]\nNations shall come to your light\nAnd kings to the brightness of your rising\n\n[Chorus]\nArise, shine, for your light has come\nAnd the glory of the Lord has risen upon you\nArise, shine, for your light has come\nArise, shine\n\n[Verse]\nLift up your eyes all around and see\nThey all gather together, they come to you\nThen you shall see and be radiant\nYour heart shall thrill and exult\n\n[Pre-Chorus]\nNations shall come to your light\nAnd kings to the brightness of your rising\n\n[Chorus]\nArise, shine, for your light has come\nAnd the glory of the Lord has risen upon you\nArise, shine, for your light has come\nArise, shine",
+    "cot": "full",
+    "seed": 31083
+  }
+}

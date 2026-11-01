@@ -1,0 +1,48 @@
+{
+  "id": "chapter-19-18-metal",
+  "title": "He Rode Upon the Cherub",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 18
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 18,
+      "verseStart": 2,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 19,
+      "chapter": 18,
+      "verseStart": 7,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "metal"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, symphonic metal, fast riffs and double bass drums, a soaring female soprano and a powerful male voice, full orchestra and choir, thunderous and majestic, 140 BPM",
+    "lyrics": "[Verse]\nIn my distress I called upon the Lord\nTo my God I cried for help\nFrom his temple he heard my voice\nMy cry came before him, into his ears\n\n[Verse]\nThen the earth reeled and rocked\nThe foundations of the mountains trembled\nSmoke went up from his nostrils\nDevouring fire from his mouth\n\n[Chorus]\nHe rode upon a cherub and flew\nHe came swiftly on the wings of the wind\nHe reached from on high, he took me\nHe drew me out of many waters\n\n[Verse]\nThe Lord thundered in the heavens\nThe Most High uttered his voice\nHe sent out his arrows and scattered them\nLightnings and routed them\n\n[Chorus]\nHe rode upon a cherub and flew\nHe came swiftly on the wings of the wind\nHe reached from on high, he took me\nHe drew me out of many waters\n\n[Outro]\nThe Lord is my rock, my fortress and my deliverer",
+    "cot": "full",
+    "seed": 31078
+  }
+}

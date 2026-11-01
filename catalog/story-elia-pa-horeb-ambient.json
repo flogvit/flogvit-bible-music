@@ -1,0 +1,45 @@
+{
+  "id": "story-elia-pa-horeb-ambient",
+  "title": "A Low Whisper",
+  "kind": "story",
+  "anchor": {
+    "story": "elia-pa-horeb"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 19,
+      "verseStart": 9,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "ambient"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "bonn"
+    ],
+    "stories": [
+      "elia-pa-horeb"
+    ],
+    "persons": [
+      "elia"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ambient soundscape, wind and distant rumble, swelling dark pads that fall away to near silence, a soft female voice, a single sustained tone at the end, no drums, 52 BPM",
+    "lyrics": "[Verse]\nGo out and stand on the mount before the Lord\nAnd behold, the Lord passed by\nA great and strong wind tore the mountains\nBut the Lord was not in the wind\n\n[Verse]\nAfter the wind an earthquake\nBut the Lord was not in the earthquake\nAfter the earthquake a fire\nBut the Lord was not in the fire\n\n[Chorus]\nAnd after the fire\nThe sound of a low whisper\nAnd after the fire\nThe sound of a low whisper\n\n[Outro]\nWhat are you doing here, Elijah",
+    "cot": "full",
+    "seed": 31086
+  }
+}

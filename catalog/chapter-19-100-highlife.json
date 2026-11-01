@@ -1,0 +1,42 @@
+{
+  "id": "chapter-19-100-highlife",
+  "title": "Make a Joyful Noise",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 100
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 100,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "highlife"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Nigerian highlife praise, a church band with bright guitars, trumpets and saxophone, talking drum and shekere, a female lead and a big call-and-response choir, joyous dancing, 118 BPM",
+    "lyrics": "[Verse]\nMake a joyful noise to the Lord, all the earth\nServe the Lord with gladness\nCome before his presence with singing\nKnow that the Lord, he is God\n\n[Chorus]\nEnter his gates with thanksgiving\nAnd his courts with praise\nGive thanks to him, bless his name\nGive thanks to him, bless his name\n\n[Verse]\nIt is he who made us, and we are his\nWe are his people, the sheep of his pasture\nFor the Lord is good, his love endures forever\nHis faithfulness to all generations\n\n[Chorus]\nEnter his gates with thanksgiving\nAnd his courts with praise\nGive thanks to him, bless his name\nGive thanks to him, bless his name",
+    "cot": "full",
+    "seed": 31053
+  }
+}

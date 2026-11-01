@@ -1,0 +1,43 @@
+{
+  "id": "story-jesu-oppstandelse-mass-choir",
+  "title": "He Got Up",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-oppstandelse"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 24,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "mass-choir"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "oppstandelsen"
+    ],
+    "stories": [
+      "jesu-oppstandelse"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, contemporary gospel mass choir, call and response between a gritty male lead and the choir, Hammond organ, funky bass and drums, horns, jubilant Easter Sunday, 116 BPM",
+    "lyrics": "[Verse]\nEarly in the morning, the women went\nCarrying spices to the grave\nThey found the stone rolled away\nBut they did not find his body there\n\n[Verse]\nTwo men in dazzling clothes stood by them\nWhy do you seek the living among the dead\nHe is not here, but he is risen\nRemember how he told you what he said\n\n[Chorus]\nHe got up, he got up\nEarly Sunday morning, he got up\nDeath could not hold him, the grave could not keep him\nHe got up, he got up\n\n[Bridge]\nRemember what he said, remember what he said\nOn the third day he will rise\n\n[Chorus]\nHe got up, he got up\nEarly Sunday morning, he got up\nDeath could not hold him, the grave could not keep him\nHe got up, he got up",
+    "cot": "full",
+    "seed": 31048
+  }
+}

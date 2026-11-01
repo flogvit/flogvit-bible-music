@@ -1,0 +1,44 @@
+{
+  "id": "story-den-tapte-mynten-salsa",
+  "title": "Rejoice With Me",
+  "kind": "story",
+  "anchor": {
+    "story": "den-tapte-mynten"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 15,
+      "verseStart": 8,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "salsa"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "lignelsene",
+      "glede"
+    ],
+    "stories": [
+      "den-tapte-mynten"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Latin salsa romántica, a warm female voice telling the parable, piano montuno, congas, bongos, a trumpet section and soft strings, smooth and celebratory, 94 BPM",
+    "lyrics": "[Verse]\nA woman had ten silver coins\nAnd one of them was lost\nShe lit a lamp and swept the house\nShe searched at any cost\n\n[Chorus]\nRejoice with me, rejoice with me\nFor I have found the coin I lost\nThere is joy before the angels of God\nOver one who turns back home\n\n[Verse]\nAnd when she found it, she called her friends\nHer neighbors gathered round\nCome, celebrate with me tonight\nThe lost coin has been found\n\n[Chorus]\nRejoice with me, rejoice with me\nFor I have found the coin I lost\nThere is joy before the angels of God\nOver one who turns back home",
+    "cot": "full",
+    "seed": 31056
+  }
+}

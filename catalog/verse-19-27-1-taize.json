@@ -1,0 +1,52 @@
+{
+  "id": "verse-19-27-1-taize",
+  "title": "The Lord Is My Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 27,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 27,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 19,
+      "chapter": 27,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "taize"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frykt",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "chant",
+  "request": {
+    "style": "English, Taizé chant, gentle ostinato sung by a mixed choir in four parts with a solo soprano adding verses over it, soft guitar and a cello line, quiet trust, 4/4, 70 BPM",
+    "lyrics": "[Verse]\nThe Lord is my light and my salvation\nWhom shall I fear\nThe Lord is the stronghold of my life\nWhom shall I fear\n\n[Verse]\nThe Lord is my light and my salvation\nWhom shall I fear\nThe Lord is the stronghold of my life\nWhom shall I fear\n\n[Verse]\nThe Lord is my light and my salvation\nWhom shall I fear\nThe Lord is the stronghold of my life\nWhom shall I fear\n\n[Verse]\nThe Lord is my light and my salvation\nWhom shall I fear\nThe Lord is the stronghold of my life\nWhom shall I fear\n\n[Verse]\nThe Lord is my light and my salvation\nWhom shall I fear\nThe Lord is the stronghold of my life\nWhom shall I fear\n\n[Outro]\nWhom shall I fear",
+    "cot": "full",
+    "seed": 31004
+  }
+}

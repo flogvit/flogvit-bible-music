@@ -1,0 +1,46 @@
+{
+  "id": "verse-25-3-23-lofi",
+  "title": "New Every Morning",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 25,
+    "chapter": 3,
+    "verseStart": 22,
+    "verseEnd": 23
+  },
+  "references": [
+    {
+      "bookId": 25,
+      "chapter": 3,
+      "verseStart": 21,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "lofi"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lo-fi hip hop at sunrise, soft boom bap drums, warm Rhodes and vinyl crackle, birdsong, a relaxed male vocal half-sung, hopeful and gentle, 82 BPM",
+    "lyrics": "[Verse]\nCoffee getting cold again\nLight is coming through\nYesterday was heavy\nBut this I call to mind\n\n[Chorus]\nThe steadfast love of the Lord never ceases\nHis mercies never come to an end\nThey are new every morning\nGreat is your faithfulness\n\n[Verse]\nThe Lord is my portion\nSays my soul\nSo I will hope in him\nIt is good to wait quietly\n\n[Chorus]\nThe steadfast love of the Lord never ceases\nHis mercies never come to an end\nThey are new every morning\nGreat is your faithfulness",
+    "cot": "full",
+    "seed": 31089
+  }
+}

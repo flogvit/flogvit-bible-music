@@ -1,0 +1,856 @@
+{
+ "id": "chapter-19-24-anthem",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-24-anthem",
+ "offset_seconds": -3.220000000000187,
+ "words_heard": 104,
+ "words": 104,
+ "lines": [
+  {
+   "text": "The earth is the Lord's and all it holds",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The world and all who live in it",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For he founded it upon the seas",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And set it firm upon the waters",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lift up your heads, you gates",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Be lifted up, you ancient doors",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "That the King of glory may come in",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who is this King of glory",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.54,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord, strong and mighty",
+   "heard": 5,
+   "words": 5,
+   "error_s": 3.52,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord, mighty in battle",
+   "heard": 5,
+   "words": 5,
+   "error_s": 2.96,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Who is he, this King of glory",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Lift up your heads, you gates",
+   "heard": 6,
+   "words": 6,
+   "error_s": 7.91,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Be lifted up, you ancient doors",
+   "heard": 6,
+   "words": 6,
+   "error_s": 5.65,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "That the King of glory may come in",
+   "heard": 8,
+   "words": 8,
+   "error_s": 4.04,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord of hosts, he is the King of glory",
+   "heard": 10,
+   "words": 10,
+   "error_s": 11.92,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 23.6,
+   "weight": 0.58,
+   "note_time": 23.7
+  },
+  {
+   "text": "earth",
+   "time": 24.56,
+   "weight": 0.78,
+   "note_time": 24.0
+  },
+  {
+   "text": "is",
+   "time": 25.14,
+   "weight": 0.99,
+   "note_time": 24.6
+  },
+  {
+   "text": "the",
+   "time": 25.62,
+   "weight": 0.98,
+   "note_time": 24.9
+  },
+  {
+   "text": "Lord's",
+   "time": 25.86,
+   "weight": 0.78,
+   "note_time": 25.2
+  },
+  {
+   "text": "and",
+   "time": 26.36,
+   "weight": 0.85,
+   "note_time": 25.5
+  },
+  {
+   "text": "all",
+   "time": 26.52,
+   "weight": 0.92,
+   "note_time": 25.8
+  },
+  {
+   "text": "it",
+   "time": 26.88,
+   "weight": 0.93,
+   "note_time": 26.1
+  },
+  {
+   "text": "holds",
+   "time": 27.1,
+   "weight": 1.0,
+   "note_time": 26.4
+  },
+  {
+   "text": "The",
+   "time": 27.62,
+   "weight": 0.06,
+   "note_time": 28.5
+  },
+  {
+   "text": "world",
+   "time": 29.38,
+   "weight": 0.91,
+   "note_time": 28.8
+  },
+  {
+   "text": "and",
+   "time": 30.02,
+   "weight": 0.91,
+   "note_time": 29.7
+  },
+  {
+   "text": "all",
+   "time": 30.72,
+   "weight": 0.98,
+   "note_time": 30.0
+  },
+  {
+   "text": "who",
+   "time": 31.04,
+   "weight": 0.99,
+   "note_time": 30.3
+  },
+  {
+   "text": "live",
+   "time": 31.28,
+   "weight": 1.0,
+   "note_time": 30.6
+  },
+  {
+   "text": "in",
+   "time": 31.66,
+   "weight": 0.99,
+   "note_time": 30.9
+  },
+  {
+   "text": "it",
+   "time": 32.0,
+   "weight": 0.99,
+   "note_time": 31.2
+  },
+  {
+   "text": "For",
+   "time": 33.34,
+   "weight": 0.45,
+   "note_time": 33.0
+  },
+  {
+   "text": "he",
+   "time": 33.9,
+   "weight": 0.37,
+   "note_time": 33.3
+  },
+  {
+   "text": "found",
+   "time": 34.26,
+   "weight": 0.99,
+   "note_time": 33.6
+  },
+  {
+   "text": "ed",
+   "time": 34.61,
+   "weight": 0.99,
+   "note_time": 34.2
+  },
+  {
+   "text": "it",
+   "time": 35.12,
+   "weight": 0.99,
+   "note_time": 34.5
+  },
+  {
+   "text": "up",
+   "time": 35.52,
+   "weight": 0.99,
+   "note_time": 35.1
+  },
+  {
+   "text": "on",
+   "time": 35.87,
+   "weight": 0.99,
+   "note_time": 35.4
+  },
+  {
+   "text": "the",
+   "time": 36.32,
+   "weight": 1.0,
+   "note_time": 35.7
+  },
+  {
+   "text": "seas",
+   "time": 36.66,
+   "weight": 0.95,
+   "note_time": 36.0
+  },
+  {
+   "text": "And",
+   "time": 38.14,
+   "weight": 0.93,
+   "note_time": 38.1
+  },
+  {
+   "text": "set",
+   "time": 38.7,
+   "weight": 1.0,
+   "note_time": 38.4
+  },
+  {
+   "text": "it",
+   "time": 39.4,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "firm",
+   "time": 40.04,
+   "weight": 1.0,
+   "note_time": 39.3
+  },
+  {
+   "text": "up",
+   "time": 40.44,
+   "weight": 1.0,
+   "note_time": 39.9
+  },
+  {
+   "text": "on",
+   "time": 40.74,
+   "weight": 1.0,
+   "note_time": 40.2
+  },
+  {
+   "text": "the",
+   "time": 41.04,
+   "weight": 1.0,
+   "note_time": 40.5
+  },
+  {
+   "text": "wa",
+   "time": 41.52,
+   "weight": 0.92,
+   "note_time": 40.8
+  },
+  {
+   "text": "ters",
+   "time": 41.87,
+   "weight": 0.92,
+   "note_time": 41.7
+  },
+  {
+   "text": "Lift",
+   "time": 43.98,
+   "weight": 0.97,
+   "note_time": 42.0
+  },
+  {
+   "text": "up",
+   "time": 44.54,
+   "weight": 1.0,
+   "note_time": 43.5
+  },
+  {
+   "text": "your",
+   "time": 44.84,
+   "weight": 1.0,
+   "note_time": 43.8
+  },
+  {
+   "text": "heads,",
+   "time": 45.08,
+   "weight": 0.92,
+   "note_time": 44.1
+  },
+  {
+   "text": "you",
+   "time": 45.82,
+   "weight": 0.99,
+   "note_time": 44.4
+  },
+  {
+   "text": "gates",
+   "time": 46.04,
+   "weight": 0.62,
+   "note_time": 45.0
+  },
+  {
+   "text": "Be",
+   "time": 47.8,
+   "weight": 0.91,
+   "note_time": 45.6
+  },
+  {
+   "text": "lift",
+   "time": 49.18,
+   "weight": 1.0,
+   "note_time": 48.3
+  },
+  {
+   "text": "ed",
+   "time": 49.46,
+   "weight": 1.0,
+   "note_time": 48.6
+  },
+  {
+   "text": "up,",
+   "time": 49.74,
+   "weight": 1.0,
+   "note_time": 48.9
+  },
+  {
+   "text": "you",
+   "time": 50.46,
+   "weight": 1.0,
+   "note_time": 49.2
+  },
+  {
+   "text": "an",
+   "time": 50.86,
+   "weight": 1.0,
+   "note_time": 49.8
+  },
+  {
+   "text": "cient",
+   "time": 51.21,
+   "weight": 1.0,
+   "note_time": 50.4
+  },
+  {
+   "text": "doors",
+   "time": 51.78,
+   "weight": 1.0,
+   "note_time": 51.0
+  },
+  {
+   "text": "That",
+   "time": 52.68,
+   "weight": 0.15,
+   "note_time": 51.6
+  },
+  {
+   "text": "the",
+   "time": 53.2,
+   "weight": 0.96,
+   "note_time": 52.2
+  },
+  {
+   "text": "King",
+   "time": 53.44,
+   "weight": 0.6,
+   "note_time": 52.5
+  },
+  {
+   "text": "of",
+   "time": 53.98,
+   "weight": 0.96,
+   "note_time": 52.8
+  },
+  {
+   "text": "glo",
+   "time": 54.58,
+   "weight": 0.77,
+   "note_time": 53.4
+  },
+  {
+   "text": "ry",
+   "time": 54.93,
+   "weight": 0.77,
+   "note_time": 54.0
+  },
+  {
+   "text": "may",
+   "time": 55.44,
+   "weight": 0.73,
+   "note_time": 54.6
+  },
+  {
+   "text": "come",
+   "time": 56.16,
+   "weight": 0.96,
+   "note_time": 55.2
+  },
+  {
+   "text": "in",
+   "time": 57.56,
+   "weight": 0.7,
+   "note_time": 56.4
+  },
+  {
+   "text": "Who",
+   "time": 62.5,
+   "weight": 0.98,
+   "note_time": 57.3
+  },
+  {
+   "text": "is",
+   "time": 63.9,
+   "weight": 1.0,
+   "note_time": 57.6
+  },
+  {
+   "text": "this",
+   "time": 64.66,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "King",
+   "time": 65.18,
+   "weight": 0.9,
+   "note_time": 63.0
+  },
+  {
+   "text": "of",
+   "time": 65.8,
+   "weight": 1.0,
+   "note_time": 63.6
+  },
+  {
+   "text": "glo",
+   "time": 66.74,
+   "weight": 0.9,
+   "note_time": 64.2
+  },
+  {
+   "text": "ry",
+   "time": 67.09,
+   "weight": 0.9,
+   "note_time": 64.8
+  },
+  {
+   "text": "The",
+   "time": 67.8,
+   "weight": 0.97,
+   "note_time": 65.7
+  },
+  {
+   "text": "Lord,",
+   "time": 68.68,
+   "weight": 0.97,
+   "note_time": 66.0
+  },
+  {
+   "text": "strong",
+   "time": 69.92,
+   "weight": 0.97,
+   "note_time": 66.3
+  },
+  {
+   "text": "and",
+   "time": 70.52,
+   "weight": 1.0,
+   "note_time": 66.6
+  },
+  {
+   "text": "mig",
+   "time": 71.46,
+   "weight": 1.0,
+   "note_time": 67.8
+  },
+  {
+   "text": "hty",
+   "time": 71.81,
+   "weight": 1.0,
+   "note_time": 68.4
+  },
+  {
+   "text": "The",
+   "time": 72.44,
+   "weight": 1.0,
+   "note_time": 69.6
+  },
+  {
+   "text": "Lord,",
+   "time": 73.46,
+   "weight": 1.0,
+   "note_time": 70.5
+  },
+  {
+   "text": "mig",
+   "time": 74.68,
+   "weight": 0.99,
+   "note_time": 70.8
+  },
+  {
+   "text": "hty",
+   "time": 75.03,
+   "weight": 0.99,
+   "note_time": 71.4
+  },
+  {
+   "text": "in",
+   "time": 75.52,
+   "weight": 1.0,
+   "note_time": 72.6
+  },
+  {
+   "text": "bat",
+   "time": 76.3,
+   "weight": 1.0,
+   "note_time": 73.2
+  },
+  {
+   "text": "tle",
+   "time": 76.65,
+   "weight": 1.0,
+   "note_time": 74.4
+  },
+  {
+   "text": "Who",
+   "time": 77.08,
+   "weight": 0.8,
+   "note_time": 74.85
+  },
+  {
+   "text": "is",
+   "time": 77.74,
+   "weight": 1.0,
+   "note_time": 75.3
+  },
+  {
+   "text": "he,",
+   "time": 78.52,
+   "weight": 0.38,
+   "note_time": 75.6
+  },
+  {
+   "text": "this",
+   "time": 79.24,
+   "weight": 0.96,
+   "note_time": 75.9
+  },
+  {
+   "text": "King",
+   "time": 79.66,
+   "weight": 0.97,
+   "note_time": 76.2
+  },
+  {
+   "text": "of",
+   "time": 80.16,
+   "weight": 0.99,
+   "note_time": 76.8
+  },
+  {
+   "text": "glo",
+   "time": 81.16,
+   "weight": 0.72,
+   "note_time": 77.4
+  },
+  {
+   "text": "ry",
+   "time": 81.51,
+   "weight": 0.72,
+   "note_time": 78.0
+  },
+  {
+   "text": "Lift",
+   "time": 87.07,
+   "weight": 0.96,
+   "note_time": 78.6
+  },
+  {
+   "text": "up",
+   "time": 87.72,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "your",
+   "time": 88.06,
+   "weight": 0.99,
+   "note_time": 80.1
+  },
+  {
+   "text": "heads,",
+   "time": 88.26,
+   "weight": 0.9,
+   "note_time": 80.4
+  },
+  {
+   "text": "you",
+   "time": 89.08,
+   "weight": 0.98,
+   "note_time": 81.3
+  },
+  {
+   "text": "gates",
+   "time": 89.28,
+   "weight": 0.81,
+   "note_time": 81.6
+  },
+  {
+   "text": "Be",
+   "time": 91.08,
+   "weight": 0.39,
+   "note_time": 84.0
+  },
+  {
+   "text": "lift",
+   "time": 92.34,
+   "weight": 1.0,
+   "note_time": 86.7
+  },
+  {
+   "text": "ed",
+   "time": 92.65,
+   "weight": 1.0,
+   "note_time": 87.0
+  },
+  {
+   "text": "up,",
+   "time": 92.96,
+   "weight": 0.98,
+   "note_time": 87.3
+  },
+  {
+   "text": "you",
+   "time": 93.64,
+   "weight": 1.0,
+   "note_time": 87.6
+  },
+  {
+   "text": "an",
+   "time": 93.94,
+   "weight": 0.98,
+   "note_time": 88.2
+  },
+  {
+   "text": "cient",
+   "time": 94.29,
+   "weight": 0.98,
+   "note_time": 88.8
+  },
+  {
+   "text": "doors",
+   "time": 94.96,
+   "weight": 0.99,
+   "note_time": 91.5
+  },
+  {
+   "text": "That",
+   "time": 95.86,
+   "weight": 0.78,
+   "note_time": 91.8
+  },
+  {
+   "text": "the",
+   "time": 96.38,
+   "weight": 0.97,
+   "note_time": 92.1
+  },
+  {
+   "text": "King",
+   "time": 96.64,
+   "weight": 0.99,
+   "note_time": 92.4
+  },
+  {
+   "text": "of",
+   "time": 97.0,
+   "weight": 1.0,
+   "note_time": 93.0
+  },
+  {
+   "text": "glo",
+   "time": 97.64,
+   "weight": 0.93,
+   "note_time": 93.6
+  },
+  {
+   "text": "ry",
+   "time": 97.99,
+   "weight": 0.93,
+   "note_time": 94.2
+  },
+  {
+   "text": "may",
+   "time": 98.68,
+   "weight": 0.96,
+   "note_time": 94.8
+  },
+  {
+   "text": "come",
+   "time": 99.34,
+   "weight": 0.85,
+   "note_time": 95.4
+  },
+  {
+   "text": "in",
+   "time": 100.76,
+   "weight": 1.0,
+   "note_time": 95.7
+  },
+  {
+   "text": "The",
+   "time": 106.56,
+   "weight": 0.66,
+   "note_time": 96.0
+  },
+  {
+   "text": "Lord",
+   "time": 107.44,
+   "weight": 0.91,
+   "note_time": 96.6
+  },
+  {
+   "text": "of",
+   "time": 107.44,
+   "weight": 0.4,
+   "note_time": 97.2
+  },
+  {
+   "text": "hosts,",
+   "time": 109.72,
+   "weight": 0.79,
+   "note_time": 97.8
+  },
+  {
+   "text": "he",
+   "time": 111.76,
+   "weight": 0.28,
+   "note_time": 98.4
+  },
+  {
+   "text": "is",
+   "time": 112.64,
+   "weight": 0.93,
+   "note_time": 99.6
+  },
+  {
+   "text": "the",
+   "time": 113.0,
+   "weight": 0.99,
+   "note_time": 100.5
+  },
+  {
+   "text": "King",
+   "time": 113.18,
+   "weight": 0.86,
+   "note_time": 100.8
+  },
+  {
+   "text": "of",
+   "time": 113.54,
+   "weight": 1.0,
+   "note_time": 103.2
+  },
+  {
+   "text": "glo",
+   "time": 113.8,
+   "weight": 0.83,
+   "note_time": 103.2
+  },
+  {
+   "text": "ry",
+   "time": 114.02,
+   "weight": 0.83,
+   "note_time": 23.7
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "/Users/vhanssen/WebstormProjects/flogvit/music-generate/sheets/chapter-19-24-anthem/chapter-19-24-anthem-lead-sheet.ly:23:8823: warning: unterminated hyphen; removing"
+ ],
+ "quality": "5 of 15 lyric lines sit clearly on their notes; 10 are uncertain and printed in grey italics."
+}

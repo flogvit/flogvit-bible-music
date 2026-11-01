@@ -1,0 +1,814 @@
+{
+ "id": "verse-66-21-4-sacred-harp",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-66-21-4-sacred-harp",
+ "offset_seconds": -0.9200000000002362,
+ "words_heard": 96,
+ "words": 96,
+ "lines": [
+  {
+   "text": "I heard a voice come from the throne",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Behold, God dwells with men",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He makes his home among his own",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And they are his again",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He wipes the tears from every eye",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And death shall be no more",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No grief, no pain, no mourning cry",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Upon that shining shore",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The former things have passed away",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The one upon the throne",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Says, I make all things new today",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And claims us as his own",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So write it down, these words are true",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And trustworthy and sure",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, make my weary spirit new",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Till I am home secure",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 20.4,
+   "weight": 0.52,
+   "note_time": 20.12
+  },
+  {
+   "text": "heard",
+   "time": 21.1,
+   "weight": 0.89,
+   "note_time": 20.47
+  },
+  {
+   "text": "a",
+   "time": 21.6,
+   "weight": 1.0,
+   "note_time": 20.82
+  },
+  {
+   "text": "voice",
+   "time": 21.92,
+   "weight": 1.0,
+   "note_time": 21.0
+  },
+  {
+   "text": "come",
+   "time": 22.26,
+   "weight": 0.98,
+   "note_time": 21.53
+  },
+  {
+   "text": "from",
+   "time": 22.6,
+   "weight": 1.0,
+   "note_time": 21.88
+  },
+  {
+   "text": "the",
+   "time": 22.94,
+   "weight": 1.0,
+   "note_time": 22.24
+  },
+  {
+   "text": "throne",
+   "time": 23.3,
+   "weight": 0.99,
+   "note_time": 22.41
+  },
+  {
+   "text": "Be",
+   "time": 23.68,
+   "weight": 0.62,
+   "note_time": 23.65
+  },
+  {
+   "text": "hold,",
+   "time": 24.03,
+   "weight": 0.62,
+   "note_time": 23.82
+  },
+  {
+   "text": "God",
+   "time": 25.22,
+   "weight": 1.0,
+   "note_time": 24.35
+  },
+  {
+   "text": "dwells",
+   "time": 25.5,
+   "weight": 1.0,
+   "note_time": 24.53
+  },
+  {
+   "text": "with",
+   "time": 26.1,
+   "weight": 1.0,
+   "note_time": 24.71
+  },
+  {
+   "text": "men",
+   "time": 26.24,
+   "weight": 0.93,
+   "note_time": 25.06
+  },
+  {
+   "text": "He",
+   "time": 27.98,
+   "weight": 0.38,
+   "note_time": 27.88
+  },
+  {
+   "text": "makes",
+   "time": 28.86,
+   "weight": 0.96,
+   "note_time": 28.59
+  },
+  {
+   "text": "his",
+   "time": 29.4,
+   "weight": 0.52,
+   "note_time": 28.76
+  },
+  {
+   "text": "home",
+   "time": 29.64,
+   "weight": 0.99,
+   "note_time": 29.29
+  },
+  {
+   "text": "a",
+   "time": 30.02,
+   "weight": 0.99,
+   "note_time": 29.47
+  },
+  {
+   "text": "mong",
+   "time": 30.26,
+   "weight": 0.99,
+   "note_time": 29.82
+  },
+  {
+   "text": "his",
+   "time": 30.5,
+   "weight": 0.98,
+   "note_time": 30.18
+  },
+  {
+   "text": "own",
+   "time": 30.98,
+   "weight": 1.0,
+   "note_time": 30.71
+  },
+  {
+   "text": "And",
+   "time": 31.6,
+   "weight": 0.89,
+   "note_time": 30.88
+  },
+  {
+   "text": "they",
+   "time": 31.8,
+   "weight": 1.0,
+   "note_time": 31.41
+  },
+  {
+   "text": "are",
+   "time": 32.0,
+   "weight": 1.0,
+   "note_time": 31.59
+  },
+  {
+   "text": "his",
+   "time": 32.5,
+   "weight": 0.99,
+   "note_time": 31.76
+  },
+  {
+   "text": "a",
+   "time": 32.92,
+   "weight": 1.0,
+   "note_time": 32.12
+  },
+  {
+   "text": "gain",
+   "time": 33.2,
+   "weight": 1.0,
+   "note_time": 32.29
+  },
+  {
+   "text": "He",
+   "time": 34.94,
+   "weight": 0.57,
+   "note_time": 34.94
+  },
+  {
+   "text": "wipes",
+   "time": 35.82,
+   "weight": 1.0,
+   "note_time": 35.65
+  },
+  {
+   "text": "the",
+   "time": 36.48,
+   "weight": 1.0,
+   "note_time": 35.82
+  },
+  {
+   "text": "tears",
+   "time": 36.72,
+   "weight": 1.0,
+   "note_time": 36.35
+  },
+  {
+   "text": "from",
+   "time": 37.08,
+   "weight": 1.0,
+   "note_time": 36.53
+  },
+  {
+   "text": "ev",
+   "time": 37.48,
+   "weight": 0.99,
+   "note_time": 36.88
+  },
+  {
+   "text": "ery",
+   "time": 37.73,
+   "weight": 0.99,
+   "note_time": 37.24
+  },
+  {
+   "text": "eye",
+   "time": 37.98,
+   "weight": 1.0,
+   "note_time": 37.76
+  },
+  {
+   "text": "And",
+   "time": 38.66,
+   "weight": 0.99,
+   "note_time": 38.12
+  },
+  {
+   "text": "death",
+   "time": 38.9,
+   "weight": 0.99,
+   "note_time": 38.47
+  },
+  {
+   "text": "shall",
+   "time": 39.26,
+   "weight": 1.0,
+   "note_time": 38.65
+  },
+  {
+   "text": "be",
+   "time": 39.5,
+   "weight": 1.0,
+   "note_time": 38.82
+  },
+  {
+   "text": "no",
+   "time": 39.88,
+   "weight": 1.0,
+   "note_time": 39.18
+  },
+  {
+   "text": "more",
+   "time": 40.22,
+   "weight": 1.0,
+   "note_time": 39.53
+  },
+  {
+   "text": "No",
+   "time": 42.18,
+   "weight": 0.98,
+   "note_time": 42.0
+  },
+  {
+   "text": "grief,",
+   "time": 43.06,
+   "weight": 1.0,
+   "note_time": 42.71
+  },
+  {
+   "text": "no",
+   "time": 43.6,
+   "weight": 1.0,
+   "note_time": 43.06
+  },
+  {
+   "text": "pain,",
+   "time": 43.78,
+   "weight": 1.0,
+   "note_time": 43.41
+  },
+  {
+   "text": "no",
+   "time": 44.3,
+   "weight": 1.0,
+   "note_time": 43.76
+  },
+  {
+   "text": "mourn",
+   "time": 44.62,
+   "weight": 0.94,
+   "note_time": 43.94
+  },
+  {
+   "text": "ing",
+   "time": 44.82,
+   "weight": 0.94,
+   "note_time": 44.29
+  },
+  {
+   "text": "cry",
+   "time": 45.1,
+   "weight": 0.99,
+   "note_time": 44.82
+  },
+  {
+   "text": "Up",
+   "time": 45.36,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "on",
+   "time": 45.68,
+   "weight": 1.0,
+   "note_time": 45.53
+  },
+  {
+   "text": "that",
+   "time": 46.0,
+   "weight": 0.99,
+   "note_time": 45.71
+  },
+  {
+   "text": "shin",
+   "time": 46.66,
+   "weight": 0.99,
+   "note_time": 45.88
+  },
+  {
+   "text": "ing",
+   "time": 46.93,
+   "weight": 0.99,
+   "note_time": 46.24
+  },
+  {
+   "text": "shore",
+   "time": 47.2,
+   "weight": 1.0,
+   "note_time": 46.59
+  },
+  {
+   "text": "The",
+   "time": 49.28,
+   "weight": 0.98,
+   "note_time": 49.06
+  },
+  {
+   "text": "for",
+   "time": 50.16,
+   "weight": 1.0,
+   "note_time": 49.41
+  },
+  {
+   "text": "mer",
+   "time": 50.51,
+   "weight": 1.0,
+   "note_time": 50.47
+  },
+  {
+   "text": "things",
+   "time": 50.86,
+   "weight": 1.0,
+   "note_time": 50.82
+  },
+  {
+   "text": "have",
+   "time": 51.9,
+   "weight": 1.0,
+   "note_time": 51.53
+  },
+  {
+   "text": "passed",
+   "time": 52.66,
+   "weight": 0.99,
+   "note_time": 52.24
+  },
+  {
+   "text": "a",
+   "time": 53.44,
+   "weight": 1.0,
+   "note_time": 53.29
+  },
+  {
+   "text": "way",
+   "time": 53.79,
+   "weight": 1.0,
+   "note_time": 53.65
+  },
+  {
+   "text": "The",
+   "time": 54.64,
+   "weight": 0.2,
+   "note_time": 54.71
+  },
+  {
+   "text": "one",
+   "time": 55.62,
+   "weight": 0.51,
+   "note_time": 55.06
+  },
+  {
+   "text": "up",
+   "time": 56.08,
+   "weight": 0.94,
+   "note_time": 56.12
+  },
+  {
+   "text": "on",
+   "time": 56.43,
+   "weight": 0.94,
+   "note_time": 56.47
+  },
+  {
+   "text": "the",
+   "time": 57.34,
+   "weight": 0.99,
+   "note_time": 57.18
+  },
+  {
+   "text": "throne",
+   "time": 58.18,
+   "weight": 0.91,
+   "note_time": 57.88
+  },
+  {
+   "text": "Says,",
+   "time": 59.64,
+   "weight": 0.29,
+   "note_time": 60.35
+  },
+  {
+   "text": "I",
+   "time": 61.48,
+   "weight": 0.19,
+   "note_time": 60.71
+  },
+  {
+   "text": "make",
+   "time": 61.82,
+   "weight": 0.98,
+   "note_time": 61.41
+  },
+  {
+   "text": "all",
+   "time": 62.46,
+   "weight": 1.0,
+   "note_time": 62.12
+  },
+  {
+   "text": "things",
+   "time": 63.22,
+   "weight": 1.0,
+   "note_time": 62.82
+  },
+  {
+   "text": "new",
+   "time": 63.88,
+   "weight": 0.99,
+   "note_time": 63.53
+  },
+  {
+   "text": "to",
+   "time": 64.54,
+   "weight": 0.98,
+   "note_time": 64.59
+  },
+  {
+   "text": "day",
+   "time": 64.89,
+   "weight": 0.98,
+   "note_time": 64.94
+  },
+  {
+   "text": "And",
+   "time": 65.86,
+   "weight": 0.86,
+   "note_time": 66.0
+  },
+  {
+   "text": "claims",
+   "time": 66.96,
+   "weight": 0.99,
+   "note_time": 66.35
+  },
+  {
+   "text": "us",
+   "time": 67.42,
+   "weight": 1.0,
+   "note_time": 67.06
+  },
+  {
+   "text": "as",
+   "time": 68.18,
+   "weight": 1.0,
+   "note_time": 67.76
+  },
+  {
+   "text": "his",
+   "time": 68.92,
+   "weight": 0.91,
+   "note_time": 68.82
+  },
+  {
+   "text": "own",
+   "time": 69.96,
+   "weight": 1.0,
+   "note_time": 69.18
+  },
+  {
+   "text": "So",
+   "time": 74.12,
+   "weight": 0.93,
+   "note_time": 74.47
+  },
+  {
+   "text": "write",
+   "time": 75.34,
+   "weight": 0.96,
+   "note_time": 75.18
+  },
+  {
+   "text": "it",
+   "time": 75.88,
+   "weight": 1.0,
+   "note_time": 75.35
+  },
+  {
+   "text": "down,",
+   "time": 76.14,
+   "weight": 1.0,
+   "note_time": 75.88
+  },
+  {
+   "text": "these",
+   "time": 76.6,
+   "weight": 0.98,
+   "note_time": 76.24
+  },
+  {
+   "text": "words",
+   "time": 76.82,
+   "weight": 0.99,
+   "note_time": 76.59
+  },
+  {
+   "text": "are",
+   "time": 77.3,
+   "weight": 1.0,
+   "note_time": 76.76
+  },
+  {
+   "text": "true",
+   "time": 77.56,
+   "weight": 0.99,
+   "note_time": 77.29
+  },
+  {
+   "text": "And",
+   "time": 77.9,
+   "weight": 0.49,
+   "note_time": 77.65
+  },
+  {
+   "text": "trust",
+   "time": 78.28,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "wor",
+   "time": 78.47,
+   "weight": 0.99,
+   "note_time": 78.18
+  },
+  {
+   "text": "thy",
+   "time": 78.67,
+   "weight": 0.99,
+   "note_time": 78.35
+  },
+  {
+   "text": "and",
+   "time": 78.86,
+   "weight": 0.94,
+   "note_time": 78.71
+  },
+  {
+   "text": "sure",
+   "time": 79.58,
+   "weight": 1.0,
+   "note_time": 79.06
+  },
+  {
+   "text": "Lord,",
+   "time": 81.4,
+   "weight": 0.88,
+   "note_time": 81.53
+  },
+  {
+   "text": "make",
+   "time": 82.54,
+   "weight": 1.0,
+   "note_time": 82.24
+  },
+  {
+   "text": "my",
+   "time": 82.76,
+   "weight": 1.0,
+   "note_time": 82.59
+  },
+  {
+   "text": "wea",
+   "time": 83.1,
+   "weight": 1.0,
+   "note_time": 82.94
+  },
+  {
+   "text": "ry",
+   "time": 83.34,
+   "weight": 1.0,
+   "note_time": 83.29
+  },
+  {
+   "text": "spir",
+   "time": 83.58,
+   "weight": 1.0,
+   "note_time": 83.47
+  },
+  {
+   "text": "it",
+   "time": 83.89,
+   "weight": 1.0,
+   "note_time": 83.82
+  },
+  {
+   "text": "new",
+   "time": 84.2,
+   "weight": 0.99,
+   "note_time": 84.35
+  },
+  {
+   "text": "Till",
+   "time": 84.74,
+   "weight": 0.58,
+   "note_time": 84.88
+  },
+  {
+   "text": "I",
+   "time": 85.24,
+   "weight": 1.0,
+   "note_time": 85.06
+  },
+  {
+   "text": "am",
+   "time": 85.62,
+   "weight": 0.99,
+   "note_time": 85.24
+  },
+  {
+   "text": "home",
+   "time": 86.02,
+   "weight": 0.99,
+   "note_time": 85.41
+  },
+  {
+   "text": "se",
+   "time": 86.52,
+   "weight": 1.0,
+   "note_time": 85.94
+  },
+  {
+   "text": "cure",
+   "time": 86.87,
+   "weight": 1.0,
+   "note_time": 86.12
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

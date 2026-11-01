@@ -52,7 +52,10 @@ here.
 | 3 | Coptic, Armenian, bhajan, klezmer, punk, lo-fi, spoken word, shanty | a narrower use: the style is sung for fewer kinds of text or in one mood |
 
 The cells of each style are the songs themselves; their catalog entries say which (style line, kind, mood). In
-all 139 songs: 36 probes and 103 more.
+all 139 songs: 36 probes and 103 more. The probes are in `catalog/`, half at the top of `catalog/order.txt` (the Home
+Mac's generator works from the top) and half at the end (the M5's works from the end). The 103 further songs are
+written and checked on the branch `style-breadth-rest`; the songs of the styles that hold come into the catalog
+once the probes are judged, and a style that does not hold is left out with them.
 
 ## Probe results
 

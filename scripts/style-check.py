@@ -96,7 +96,10 @@ _model = _processor = None
 def model():
     global _model, _processor
     if _model is None:
+        import torch
         from transformers import ClapModel, ClapProcessor
+        # Two threads, so a YuE generation on the same Mac keeps its CPU (its compiled decode recompiles on the CPU).
+        torch.set_num_threads(2)
         _model = ClapModel.from_pretrained(MODEL).eval()
         _processor = ClapProcessor.from_pretrained(MODEL)
     return _model, _processor
@@ -114,8 +117,8 @@ def embed_audio(path: Path) -> np.ndarray:
     import torch
     y, _ = librosa.load(path, sr=SR, mono=True)
     n = SR * WINDOW
-    # Up to eight windows spread over the song, past the intro and before the fade.
-    starts = np.linspace(len(y) * 0.08, max(len(y) * 0.92 - n, len(y) * 0.08), num=8).astype(int)
+    # Six windows spread over the song, past the intro and before the fade.
+    starts = np.linspace(len(y) * 0.08, max(len(y) * 0.92 - n, len(y) * 0.08), num=6).astype(int)
     clips = [y[s:s + n] for s in starts if len(y[s:s + n]) == n] or [y[:n]]
     m, p = model()
     with torch.no_grad():
@@ -155,7 +158,9 @@ def library_embeddings(skip: set[str]) -> dict[str, np.ndarray]:
             changed = True
             print(f"  embedded library/{d.name}", file=sys.stderr, flush=True)
         except FileNotFoundError:
-            pass
+            continue
+        if len(cache) % 10 == 0:
+            CACHE.write_text(json.dumps(cache))
     if changed:
         CACHE.write_text(json.dumps(cache))
     return {k: np.array(v) for k, v in cache.items() if k not in skip}

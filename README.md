@@ -74,8 +74,9 @@ load:
 | same song, seconds of work per second of audio | 7.2 | | 5.9 |
 
 Compile time is included in these numbers. The same seed gives the same song every time, and Whisper hears the
-whole lyrics. `134817f` without compile was slower than `1647252` on 2026-10-31 (score and synthesis), so leave it on. Set `YUE2_COMPILE=0` to turn it
-off.
+whole lyrics. `134817f` without compile was slower than `1647252` on 2026-10-31 (score and synthesis), so leave it
+on. Set `YUE2_COMPILE=0` to turn it off.
+
 
 `YuE/` carries no local changes. If one is ever needed, keep it as a patch in `patches/`, apply it in the setup
 above, and reinstall with `uv pip install --python .venv/bin/python --reinstall-package yue2-infer .`.

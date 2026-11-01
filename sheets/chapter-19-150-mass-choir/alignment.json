@@ -1,0 +1,1072 @@
+{
+ "id": "chapter-19-150-mass-choir",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-150-mass-choir",
+ "offset_seconds": -0.7600000000002396,
+ "words_heard": 110,
+ "words": 120,
+ "lines": [
+  {
+   "text": "Praise the Lord in his sanctuary",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him in the mighty heavens",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him for his powerful deeds",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him for his surpassing greatness",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let everything that has breath",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the Lord, praise the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let everything that has breath",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the Lord",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him with the trumpet blast",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him with the harp and lyre",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him with the tambourine and dancing",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise him with the strings and pipe",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let everything that has breath",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.6,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the Lord, praise the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.89,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Let everything that has breath",
+   "heard": 5,
+   "words": 5,
+   "error_s": 2.08,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Praise the Lord",
+   "heard": 3,
+   "words": 3,
+   "error_s": 3.16,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Clap your hands, crash the cymbals",
+   "heard": 5,
+   "words": 6,
+   "error_s": 7.17,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Ring them loud, praise him louder",
+   "heard": 4,
+   "words": 6,
+   "error_s": 3.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let everything that has breath",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.13,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the Lord, praise the Lord",
+   "heard": 3,
+   "words": 6,
+   "error_s": 3.94,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Let everything that has breath",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.25,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the Lord",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.28,
+   "tie_split": true,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Praise",
+   "time": 11.42,
+   "weight": 0.43,
+   "note_time": 11.52
+  },
+  {
+   "text": "the",
+   "time": 12.5,
+   "weight": 0.89,
+   "note_time": 11.88
+  },
+  {
+   "text": "Lord",
+   "time": 12.76,
+   "weight": 0.95,
+   "note_time": 12.24
+  },
+  {
+   "text": "in",
+   "time": 13.26,
+   "weight": 0.87,
+   "note_time": 12.72
+  },
+  {
+   "text": "his",
+   "time": 13.74,
+   "weight": 0.15,
+   "note_time": 12.84
+  },
+  {
+   "text": "sanc",
+   "time": 13.9,
+   "weight": 0.97,
+   "note_time": 13.8
+  },
+  {
+   "text": "tu",
+   "time": 14.23,
+   "weight": 0.97,
+   "note_time": 14.16
+  },
+  {
+   "text": "ary",
+   "time": 14.55,
+   "weight": 0.97,
+   "note_time": 14.64
+  },
+  {
+   "text": "Praise",
+   "time": 14.88,
+   "weight": 0.67,
+   "note_time": 15.36
+  },
+  {
+   "text": "him",
+   "time": 16.28,
+   "weight": 0.54,
+   "note_time": 16.08
+  },
+  {
+   "text": "in",
+   "time": 16.7,
+   "weight": 0.98,
+   "note_time": 16.56
+  },
+  {
+   "text": "the",
+   "time": 17.08,
+   "weight": 0.98,
+   "note_time": 16.68
+  },
+  {
+   "text": "mig",
+   "time": 17.46,
+   "weight": 0.99,
+   "note_time": 17.64
+  },
+  {
+   "text": "hty",
+   "time": 17.81,
+   "weight": 0.99,
+   "note_time": 18.0
+  },
+  {
+   "text": "heav",
+   "time": 18.3,
+   "weight": 0.89,
+   "note_time": 18.48
+  },
+  {
+   "text": "ens",
+   "time": 18.65,
+   "weight": 0.89,
+   "note_time": 18.6
+  },
+  {
+   "text": "Praise",
+   "time": 19.2,
+   "weight": 0.98,
+   "note_time": 19.2
+  },
+  {
+   "text": "him",
+   "time": 20.16,
+   "weight": 0.93,
+   "note_time": 19.56
+  },
+  {
+   "text": "for",
+   "time": 20.5,
+   "weight": 1.0,
+   "note_time": 19.92
+  },
+  {
+   "text": "his",
+   "time": 20.86,
+   "weight": 0.99,
+   "note_time": 20.4
+  },
+  {
+   "text": "pow",
+   "time": 21.42,
+   "weight": 0.97,
+   "note_time": 21.12
+  },
+  {
+   "text": "er",
+   "time": 21.66,
+   "weight": 0.97,
+   "note_time": 21.48
+  },
+  {
+   "text": "ful",
+   "time": 21.9,
+   "weight": 0.97,
+   "note_time": 21.84
+  },
+  {
+   "text": "deeds",
+   "time": 22.14,
+   "weight": 0.99,
+   "note_time": 23.4
+  },
+  {
+   "text": "Praise",
+   "time": 22.9,
+   "weight": 0.95,
+   "note_time": 23.76
+  },
+  {
+   "text": "him",
+   "time": 23.82,
+   "weight": 0.99,
+   "note_time": 24.24
+  },
+  {
+   "text": "for",
+   "time": 24.36,
+   "weight": 1.0,
+   "note_time": 24.36
+  },
+  {
+   "text": "his",
+   "time": 24.72,
+   "weight": 0.99,
+   "note_time": 24.72
+  },
+  {
+   "text": "sur",
+   "time": 25.24,
+   "weight": 0.98,
+   "note_time": 24.96
+  },
+  {
+   "text": "pass",
+   "time": 25.59,
+   "weight": 0.98,
+   "note_time": 25.32
+  },
+  {
+   "text": "ing",
+   "time": 25.94,
+   "weight": 0.98,
+   "note_time": 25.68
+  },
+  {
+   "text": "great",
+   "time": 26.36,
+   "weight": 1.0,
+   "note_time": 26.16
+  },
+  {
+   "text": "ness",
+   "time": 26.53,
+   "weight": 1.0,
+   "note_time": 26.28
+  },
+  {
+   "text": "Let",
+   "time": 26.7,
+   "weight": 0.15,
+   "note_time": 26.64
+  },
+  {
+   "text": "ev",
+   "time": 27.46,
+   "weight": 0.9,
+   "note_time": 26.88
+  },
+  {
+   "text": "ery",
+   "time": 27.69,
+   "weight": 0.9,
+   "note_time": 27.24
+  },
+  {
+   "text": "thing",
+   "time": 27.93,
+   "weight": 0.9,
+   "note_time": 27.6
+  },
+  {
+   "text": "that",
+   "time": 28.16,
+   "weight": 1.0,
+   "note_time": 28.08
+  },
+  {
+   "text": "has",
+   "time": 28.98,
+   "weight": 0.99,
+   "note_time": 28.32
+  },
+  {
+   "text": "breath",
+   "time": 29.36,
+   "weight": 0.96,
+   "note_time": 28.8
+  },
+  {
+   "text": "Praise",
+   "time": 29.76,
+   "weight": 0.48,
+   "note_time": 29.76
+  },
+  {
+   "text": "the",
+   "time": 30.72,
+   "weight": 0.83,
+   "note_time": 30.12
+  },
+  {
+   "text": "Lord,",
+   "time": 30.96,
+   "weight": 0.89,
+   "note_time": 30.48
+  },
+  {
+   "text": "praise",
+   "time": 31.86,
+   "weight": 0.85,
+   "note_time": 31.68
+  },
+  {
+   "text": "the",
+   "time": 32.58,
+   "weight": 0.99,
+   "note_time": 32.04
+  },
+  {
+   "text": "Lord",
+   "time": 32.88,
+   "weight": 1.0,
+   "note_time": 32.4
+  },
+  {
+   "text": "Let",
+   "time": 34.12,
+   "weight": 0.31,
+   "note_time": 34.32
+  },
+  {
+   "text": "ev",
+   "time": 35.2,
+   "weight": 0.95,
+   "note_time": 34.56
+  },
+  {
+   "text": "ery",
+   "time": 35.43,
+   "weight": 0.95,
+   "note_time": 34.92
+  },
+  {
+   "text": "thing",
+   "time": 35.65,
+   "weight": 0.95,
+   "note_time": 35.28
+  },
+  {
+   "text": "that",
+   "time": 35.88,
+   "weight": 0.99,
+   "note_time": 35.76
+  },
+  {
+   "text": "has",
+   "time": 36.64,
+   "weight": 0.97,
+   "note_time": 36.0
+  },
+  {
+   "text": "breath",
+   "time": 37.0,
+   "weight": 0.99,
+   "note_time": 36.48
+  },
+  {
+   "text": "Praise",
+   "time": 37.46,
+   "weight": 0.88,
+   "note_time": 37.44
+  },
+  {
+   "text": "the",
+   "time": 38.24,
+   "weight": 0.99,
+   "note_time": 37.8
+  },
+  {
+   "text": "Lord",
+   "time": 38.66,
+   "weight": 1.0,
+   "note_time": 38.16
+  },
+  {
+   "text": "Praise",
+   "time": 42.16,
+   "weight": 0.91,
+   "note_time": 42.24
+  },
+  {
+   "text": "him",
+   "time": 43.16,
+   "weight": 0.92,
+   "note_time": 42.96
+  },
+  {
+   "text": "with",
+   "time": 43.58,
+   "weight": 0.99,
+   "note_time": 43.44
+  },
+  {
+   "text": "the",
+   "time": 44.0,
+   "weight": 0.0,
+   "note_time": 43.56
+  },
+  {
+   "text": "trum",
+   "time": 44.42,
+   "weight": 0.96,
+   "note_time": 44.16
+  },
+  {
+   "text": "pet",
+   "time": 44.77,
+   "weight": 0.96,
+   "note_time": 44.52
+  },
+  {
+   "text": "blast",
+   "time": 45.16,
+   "weight": 0.99,
+   "note_time": 44.88
+  },
+  {
+   "text": "Praise",
+   "time": 45.84,
+   "weight": 0.98,
+   "note_time": 46.08
+  },
+  {
+   "text": "him",
+   "time": 46.72,
+   "weight": 0.99,
+   "note_time": 46.8
+  },
+  {
+   "text": "with",
+   "time": 47.36,
+   "weight": 1.0,
+   "note_time": 47.28
+  },
+  {
+   "text": "the",
+   "time": 47.79,
+   "weight": 0.0,
+   "note_time": 47.4
+  },
+  {
+   "text": "harp",
+   "time": 48.22,
+   "weight": 0.99,
+   "note_time": 48.36
+  },
+  {
+   "text": "and",
+   "time": 49.02,
+   "weight": 0.99,
+   "note_time": 48.72
+  },
+  {
+   "text": "lyre",
+   "time": 49.26,
+   "weight": 1.0,
+   "note_time": 49.2
+  },
+  {
+   "text": "Praise",
+   "time": 50.08,
+   "weight": 1.0,
+   "note_time": 49.92
+  },
+  {
+   "text": "him",
+   "time": 50.9,
+   "weight": 0.99,
+   "note_time": 50.64
+  },
+  {
+   "text": "with",
+   "time": 51.18,
+   "weight": 1.0,
+   "note_time": 51.12
+  },
+  {
+   "text": "the",
+   "time": 51.61,
+   "weight": 0.0,
+   "note_time": 51.24
+  },
+  {
+   "text": "tam",
+   "time": 52.04,
+   "weight": 1.0,
+   "note_time": 52.08
+  },
+  {
+   "text": "bou",
+   "time": 52.39,
+   "weight": 1.0,
+   "note_time": 52.2
+  },
+  {
+   "text": "rine",
+   "time": 52.74,
+   "weight": 1.0,
+   "note_time": 52.44
+  },
+  {
+   "text": "and",
+   "time": 53.12,
+   "weight": 0.82,
+   "note_time": 52.56
+  },
+  {
+   "text": "danc",
+   "time": 53.3,
+   "weight": 0.99,
+   "note_time": 53.04
+  },
+  {
+   "text": "ing",
+   "time": 53.57,
+   "weight": 0.99,
+   "note_time": 53.16
+  },
+  {
+   "text": "Praise",
+   "time": 53.84,
+   "weight": 1.0,
+   "note_time": 53.76
+  },
+  {
+   "text": "him",
+   "time": 54.74,
+   "weight": 1.0,
+   "note_time": 54.48
+  },
+  {
+   "text": "with",
+   "time": 55.02,
+   "weight": 1.0,
+   "note_time": 54.96
+  },
+  {
+   "text": "the",
+   "time": 55.44,
+   "weight": 0.0,
+   "note_time": 55.08
+  },
+  {
+   "text": "strings",
+   "time": 55.86,
+   "weight": 0.95,
+   "note_time": 55.68
+  },
+  {
+   "text": "and",
+   "time": 56.52,
+   "weight": 1.0,
+   "note_time": 56.04
+  },
+  {
+   "text": "pipe",
+   "time": 56.94,
+   "weight": 0.92,
+   "note_time": 56.4
+  },
+  {
+   "text": "Let",
+   "time": 57.34,
+   "weight": 0.42,
+   "note_time": 57.36
+  },
+  {
+   "text": "ev",
+   "time": 58.24,
+   "weight": 0.96,
+   "note_time": 57.6
+  },
+  {
+   "text": "ery",
+   "time": 58.44,
+   "weight": 0.96,
+   "note_time": 57.96
+  },
+  {
+   "text": "thing",
+   "time": 58.64,
+   "weight": 0.96,
+   "note_time": 58.08
+  },
+  {
+   "text": "that",
+   "time": 58.84,
+   "weight": 0.99,
+   "note_time": 58.32
+  },
+  {
+   "text": "has",
+   "time": 59.7,
+   "weight": 0.98,
+   "note_time": 58.56
+  },
+  {
+   "text": "breath",
+   "time": 60.08,
+   "weight": 0.98,
+   "note_time": 58.8
+  },
+  {
+   "text": "Praise",
+   "time": 60.82,
+   "weight": 0.9,
+   "note_time": 59.04
+  },
+  {
+   "text": "the",
+   "time": 61.44,
+   "weight": 1.0,
+   "note_time": 59.52
+  },
+  {
+   "text": "Lord,",
+   "time": 61.7,
+   "weight": 0.97,
+   "note_time": 60.48
+  },
+  {
+   "text": "praise",
+   "time": 62.7,
+   "weight": 0.98,
+   "note_time": 60.84
+  },
+  {
+   "text": "the",
+   "time": 63.32,
+   "weight": 1.0,
+   "note_time": 61.2
+  },
+  {
+   "text": "Lord",
+   "time": 63.62,
+   "weight": 1.0,
+   "note_time": 61.44
+  },
+  {
+   "text": "Let",
+   "time": 64.42,
+   "weight": 0.64,
+   "note_time": 62.4
+  },
+  {
+   "text": "ev",
+   "time": 65.86,
+   "weight": 1.0,
+   "note_time": 62.76
+  },
+  {
+   "text": "ery",
+   "time": 66.09,
+   "weight": 1.0,
+   "note_time": 63.12
+  },
+  {
+   "text": "thing",
+   "time": 66.31,
+   "weight": 1.0,
+   "note_time": 63.36
+  },
+  {
+   "text": "that",
+   "time": 66.54,
+   "weight": 1.0,
+   "note_time": 65.04
+  },
+  {
+   "text": "has",
+   "time": 67.36,
+   "weight": 1.0,
+   "note_time": 65.28
+  },
+  {
+   "text": "breath",
+   "time": 67.64,
+   "weight": 1.0,
+   "note_time": 65.64
+  },
+  {
+   "text": "Praise",
+   "time": 68.54,
+   "weight": 1.0,
+   "note_time": 65.76
+  },
+  {
+   "text": "the",
+   "time": 69.16,
+   "weight": 1.0,
+   "note_time": 66.0
+  },
+  {
+   "text": "Lord",
+   "time": 69.4,
+   "weight": 1.0,
+   "note_time": 66.24
+  },
+  {
+   "text": "Clap",
+   "time": 73.04,
+   "weight": 0.82,
+   "note_time": 66.48
+  },
+  {
+   "text": "your",
+   "time": 74.08,
+   "weight": 0.98,
+   "note_time": 66.72
+  },
+  {
+   "text": "hands,",
+   "time": 74.18,
+   "weight": 1.0,
+   "note_time": 67.2
+  },
+  {
+   "text": "crash",
+   "time": 75.24,
+   "weight": 0.4,
+   "note_time": 68.16
+  },
+  {
+   "text": "the",
+   "time": 76.68,
+   "weight": 0.99,
+   "note_time": 68.52
+  },
+  {
+   "text": "cym",
+   "time": 77.64,
+   "weight": 0.0,
+   "note_time": 68.88
+  },
+  {
+   "text": "bals",
+   "time": 78.6,
+   "weight": 0.0,
+   "note_time": 69.12
+  },
+  {
+   "text": "Ring",
+   "time": 79.56,
+   "weight": 0.0,
+   "note_time": 75.84
+  },
+  {
+   "text": "them",
+   "time": 80.52,
+   "weight": 0.99,
+   "note_time": 76.32
+  },
+  {
+   "text": "loud,",
+   "time": 81.08,
+   "weight": 0.94,
+   "note_time": 83.52
+  },
+  {
+   "text": "praise",
+   "time": 81.88,
+   "weight": 0.98,
+   "note_time": 84.0
+  },
+  {
+   "text": "him",
+   "time": 82.4,
+   "weight": 0.88,
+   "note_time": 88.08
+  },
+  {
+   "text": "loud",
+   "time": 84.51,
+   "weight": 0.0,
+   "note_time": 88.32
+  },
+  {
+   "text": "er",
+   "time": 86.63,
+   "weight": 0.0,
+   "note_time": 88.68
+  },
+  {
+   "text": "Let",
+   "time": 88.74,
+   "weight": 0.7,
+   "note_time": 88.8
+  },
+  {
+   "text": "ev",
+   "time": 88.96,
+   "weight": 0.91,
+   "note_time": 89.04
+  },
+  {
+   "text": "ery",
+   "time": 89.17,
+   "weight": 0.91,
+   "note_time": 89.28
+  },
+  {
+   "text": "thing",
+   "time": 89.39,
+   "weight": 0.91,
+   "note_time": 89.52
+  },
+  {
+   "text": "that",
+   "time": 89.6,
+   "weight": 1.0,
+   "note_time": 89.76
+  },
+  {
+   "text": "has",
+   "time": 90.4,
+   "weight": 0.99,
+   "note_time": 90.24
+  },
+  {
+   "text": "breath",
+   "time": 90.72,
+   "weight": 0.98,
+   "note_time": 91.2
+  },
+  {
+   "text": "Praise",
+   "time": 90.84,
+   "weight": 0.0,
+   "note_time": 91.56
+  },
+  {
+   "text": "the",
+   "time": 90.96,
+   "weight": 0.0,
+   "note_time": 91.92
+  },
+  {
+   "text": "Lord,",
+   "time": 91.08,
+   "weight": 0.0,
+   "note_time": 92.16
+  },
+  {
+   "text": "praise",
+   "time": 91.2,
+   "weight": 0.73,
+   "note_time": 95.76
+  },
+  {
+   "text": "the",
+   "time": 92.1,
+   "weight": 1.0,
+   "note_time": 96.0
+  },
+  {
+   "text": "Lord",
+   "time": 92.42,
+   "weight": 0.99,
+   "note_time": 96.36
+  },
+  {
+   "text": "Let",
+   "time": 95.3,
+   "weight": 0.45,
+   "note_time": 96.48
+  },
+  {
+   "text": "ev",
+   "time": 96.32,
+   "weight": 1.0,
+   "note_time": 96.72
+  },
+  {
+   "text": "ery",
+   "time": 96.66,
+   "weight": 1.0,
+   "note_time": 96.96
+  },
+  {
+   "text": "thing",
+   "time": 97.0,
+   "weight": 1.0,
+   "note_time": 97.2
+  },
+  {
+   "text": "that",
+   "time": 97.34,
+   "weight": 1.0,
+   "note_time": 97.44
+  },
+  {
+   "text": "has",
+   "time": 98.12,
+   "weight": 1.0,
+   "note_time": 97.92
+  },
+  {
+   "text": "breath",
+   "time": 98.38,
+   "weight": 1.0,
+   "note_time": 98.88
+  },
+  {
+   "text": "Praise",
+   "time": 98.9,
+   "weight": 0.98,
+   "note_time": 99.24
+  },
+  {
+   "text": "the",
+   "time": 99.88,
+   "weight": 1.0,
+   "note_time": 99.6
+  },
+  {
+   "text": "Lord",
+   "time": 100.12,
+   "weight": 1.0,
+   "note_time": 99.84
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "16 of 22 lyric lines sit clearly on their notes; 6 are uncertain and printed in grey italics."
+}

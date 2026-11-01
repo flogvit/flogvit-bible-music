@@ -1,0 +1,47 @@
+{
+  "id": "verse-42-2-12-kveding",
+  "title": "Et barn i krybben svøpt",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "kveding"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osnb",
+  "request": {
+    "style": "Norwegian, Norwegian folk lullaby, bånsull sung by an old woman with a soft cracked voice, a quiet Hardanger fiddle and a wooden langeleik drone, rocking slowly, 3/4, 60 BPM",
+    "lyrics": "[Verse]\nDet var noen gjetere ute på marken\nde voktet flokken sin om natten\nDa sto en engel foran dem\nog lyset strålte rundt dem\n\n[Chorus]\nSov nå, du lille, sov nå så stille\net barn i krybben svøpt\nSov nå, du lille, sov nå så stille\net barn i krybben svøpt\n\n[Verse]\nFrykt ikke, sa engelen til dem\njeg bringer dere stor glede\nI dag er det født dere en frelser\ni Davids by, Kristus, Herren\n\n[Chorus]\nSov nå, du lille, sov nå så stille\net barn i krybben svøpt\nSov nå, du lille, sov nå så stille\net barn i krybben svøpt",
+    "cot": "full",
+    "seed": 31023
+  }
+}

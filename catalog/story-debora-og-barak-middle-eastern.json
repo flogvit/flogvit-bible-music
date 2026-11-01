@@ -1,0 +1,43 @@
+{
+  "id": "story-debora-og-barak-middle-eastern",
+  "title": "Awake, Deborah",
+  "kind": "story",
+  "anchor": {
+    "story": "debora-og-barak"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "middle-eastern"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "debora-og-barak"
+    ],
+    "persons": [
+      "debora"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ancient Middle Eastern victory song, a fierce female voice with a women's chorus, frame drums, darbuka and riq, oud and ney, ululation, Hijaz mode, driving, 6/8, 126 BPM",
+    "lyrics": "[Verse]\nWhen the leaders lead in Israel\nWhen the people offer themselves willingly\nBless the Lord\nHear, O kings, give ear, O princes\n\n[Chorus]\nAwake, awake, Deborah\nAwake, awake, sing a song\nArise, Barak, lead away your captives\nAwake, awake, Deborah\n\n[Verse]\nLord, when you went out from Seir\nThe earth trembled and the heavens poured\nThe mountains quaked before the Lord\nThe God of Israel\n\n[Chorus]\nAwake, awake, Deborah\nAwake, awake, sing a song\nArise, Barak, lead away your captives\nAwake, awake, Deborah",
+    "cot": "full",
+    "seed": 31070
+  }
+}

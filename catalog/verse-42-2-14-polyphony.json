@@ -1,0 +1,46 @@
+{
+  "id": "verse-42-2-14-polyphony",
+  "title": "Gloria in Altissimis Deo",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 2,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 2,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "polyphony"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "christmas"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "jul"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "vulgate",
+  "request": {
+    "style": "Latin, Renaissance double-choir polyphony, two a cappella choirs answering each other across a basilica, bright sopranos, ringing chords, festive and jubilant, no instruments, 96 BPM",
+    "lyrics": "[Verse]\nGloria in altissimis Deo\net in terra pax\nhominibus bonae voluntatis\n\n[Verse]\nGloria in altissimis Deo\net in terra pax\nhominibus bonae voluntatis\n\n[Verse]\nGloria, gloria in altissimis Deo\net in terra pax hominibus\n\n[Outro]\nGloria in altissimis Deo",
+    "cot": "full",
+    "seed": 31012
+  }
+}

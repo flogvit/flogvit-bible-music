@@ -1,0 +1,44 @@
+{
+  "id": "chapter-25-1-lament",
+  "title": "How Lonely Sits the City",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 25,
+    "chapter": 1
+  },
+  "references": [
+    {
+      "bookId": 25,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 25,
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "lament"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lament, a female voice keening over a low drone and a slow frame drum, a few broken violin phrases, minor mode, no resolution, desolate, 54 BPM",
+    "lyrics": "[Verse]\nHow lonely sits the city\nThat was full of people\nHow like a widow she has become\nShe who was great among the nations\n\n[Verse]\nShe weeps bitterly in the night\nTears on her cheeks\nAmong all her lovers\nShe has none to comfort her\n\n[Chorus]\nFor these things I weep\nMy eyes flow with tears\nFor a comforter is far from me\nOne to revive my spirit\n\n[Verse]\nThe roads to Zion mourn\nFor none come to the festival\nAll her gates are desolate\nHer priests groan\n\n[Chorus]\nFor these things I weep\nMy eyes flow with tears\nFor a comforter is far from me\nOne to revive my spirit",
+    "cot": "full",
+    "seed": 31098
+  }
+}

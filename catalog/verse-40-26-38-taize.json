@@ -1,0 +1,44 @@
+{
+  "id": "verse-40-26-38-taize",
+  "title": "Stay Here and Keep Watch",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 26,
+    "verseStart": 38,
+    "verseEnd": 38
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 36,
+      "verseEnd": 41
+    }
+  ],
+  "tags": {
+    "style": [
+      "taize"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "obedience"
+    ],
+    "themes": [
+      "bonn",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "chant",
+  "request": {
+    "style": "English, Taizé chant for the night before Good Friday, hushed mixed choir in low harmony repeating a short prayer, a single held organ chord, a distant oboe, very slow and sorrowful, 58 BPM",
+    "lyrics": "[Verse]\nStay here and keep watch with me\nWatch and pray\nStay here and keep watch with me\nWatch and pray\n\n[Verse]\nStay here and keep watch with me\nWatch and pray\nStay here and keep watch with me\nWatch and pray\n\n[Verse]\nStay here and keep watch with me\nWatch and pray\nStay here and keep watch with me\nWatch and pray\n\n[Verse]\nStay here and keep watch with me\nWatch and pray\nStay here and keep watch with me\nWatch and pray\n\n[Outro]\nWatch and pray",
+    "cot": "full",
+    "seed": 31005
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "verse-45-12-18-reggae",
+  "title": "Live in Peace With Everyone",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 12,
+    "verseStart": 18,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 12,
+      "verseStart": 14,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "reggae"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet",
+      "tilgivelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lovers rock reggae, smooth one drop, warm bass, organ and offbeat piano, a sweet female lead with male harmony, gentle and loving, 74 BPM",
+    "lyrics": "[Verse]\nBless those who persecute you\nBless and do not curse\nRejoice with those who rejoice\nWeep with those who weep\n\n[Chorus]\nIf it is possible, as far as it depends on you\nLive in peace with everyone\nDo not be overcome by evil\nBut overcome evil with good\n\n[Verse]\nLive in harmony with one another\nDo not be proud, but walk with the lowly\nNever repay evil for evil\nIf your enemy is hungry, feed him\n\n[Chorus]\nIf it is possible, as far as it depends on you\nLive in peace with everyone\nDo not be overcome by evil\nBut overcome evil with good",
+    "cot": "full",
+    "seed": 31060
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-19-121-kveding",
+  "title": "Jeg løfter mine øyne mot fjellene",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 121
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 121,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "kveding"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "verbatim",
+  "textSource": "osnb",
+  "request": {
+    "style": "Norwegian, Norwegian folk tune, kveding by a young female folk singer with a clear ornamented voice, Hardanger fiddle with drone strings, a mountain-pasture call at the start, sparse and bright, gentle halling pulse, 2/4, 80 BPM",
+    "lyrics": "[Verse]\nJeg løfter mine øyne mot fjellene\nhvorfra skal min hjelp komme\nMin hjelp kommer fra Herren\nhan som skapte himmel og jord\n\n[Verse]\nHan lar ikke din fot vakle\ndin vokter slumrer ikke\nSe, han slumrer ikke og sover ikke\nhan som vokter Israel\n\n[Verse]\nHerren er din vokter\nHerren er din skygge ved din høyre hånd\nOm dagen skal solen ikke stikke deg\nog månen ikke om natten\n\n[Verse]\nHerren skal bevare deg fra alt ondt\nhan skal bevare din sjel\nHerren skal bevare din utgang og din inngang\nfra nå og til evig tid",
+    "cot": "full",
+    "seed": 31022
+  }
+}

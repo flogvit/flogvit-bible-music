@@ -1,0 +1,43 @@
+{
+  "id": "story-kvinnen-dragen-og-mikael-metal",
+  "title": "War in Heaven",
+  "kind": "story",
+  "anchor": {
+    "story": "kvinnen-dragen-og-mikael"
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 12,
+      "verseStart": 7,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "metal"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "endetiden"
+    ],
+    "stories": [
+      "kvinnen-dragen-og-mikael"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, power metal, galloping riffs, twin lead guitars, fast double kick, a high heroic male tenor and gang vocals, epic and victorious, major key, 160 BPM",
+    "lyrics": "[Verse]\nNow war arose in heaven\nMichael and his angels fought the dragon\nThe dragon and his angels fought back\nBut he was defeated\n\n[Verse]\nThere was no longer any place for them in heaven\nThe great dragon was thrown down\nThat ancient serpent, the devil and Satan\nThe deceiver of the whole world\n\n[Chorus]\nNow the salvation and the power\nAnd the kingdom of our God have come\nThey conquered him by the blood of the Lamb\nAnd by the word of their testimony\n\n[Verse]\nThe accuser of our brothers has been thrown down\nWho accuses them day and night before our God\nThey loved not their lives even unto death\nRejoice, O heavens, and you who dwell in them\n\n[Chorus]\nNow the salvation and the power\nAnd the kingdom of our God have come\nThey conquered him by the blood of the Lamb\nAnd by the word of their testimony",
+    "cot": "full",
+    "seed": 31079
+  }
+}

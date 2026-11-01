@@ -1,0 +1,47 @@
+{
+  "id": "verse-43-14-2-southern-gospel",
+  "title": "A Room Prepared for Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "southern-gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Southern gospel quartet ballad, a smooth lead voice with the tenor floating high and the bass answering low, gospel piano and steel guitar, slow and sweet, 72 BPM",
+    "lyrics": "[Verse]\nDo not let your hearts be troubled\nYou believe in God, believe in me\nIn my Father's house are many rooms\nIf it were not so, would I have told you\n\n[Chorus]\nThere's a room prepared for me\nIn my Father's house up yonder\nI will go and he will come again\nAnd take me home to be with him\n\n[Verse]\nI go to prepare a place for you\nAnd if I go, I'll come again\nAnd take you to myself, that where I am\nThere you may be also, my friend\n\n[Chorus]\nThere's a room prepared for me\nIn my Father's house up yonder\nI will go and he will come again\nAnd take me home to be with him",
+    "cot": "full",
+    "seed": 31039
+  }
+}

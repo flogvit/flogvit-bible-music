@@ -1,0 +1,41 @@
+{
+  "id": "verse-25-1-12-byzantine",
+  "title": "Is There Any Sorrow Like My Sorrow",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 25,
+    "chapter": 1,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 25,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "byzantine"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "lidelse",
+      "korset"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Byzantine lamentation for Good Friday, a sorrowful women's choir over a deep male drone, a solo voice sobbing out long melismas, no instruments, plagal mode, grave and still, 50 BPM",
+    "lyrics": "[Verse]\nIs it nothing to you, all you who pass by\nLook and see\nIs there any sorrow like my sorrow\nThat was brought upon me\n\n[Verse]\nFor these things I weep\nMy eyes flow down with tears\nFor the comforter is far from me\nThe one who should restore my soul\n\n[Chorus]\nLook and see, look and see\nIs there any sorrow like my sorrow\n\n[Verse]\nMy children are desolate\nFor the enemy has prevailed\nZion stretches out her hands\nAnd there is none to comfort her\n\n[Chorus]\nLook and see, look and see\nIs there any sorrow like my sorrow",
+    "cot": "full",
+    "seed": 31008
+  }
+}

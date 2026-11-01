@@ -1,0 +1,45 @@
+{
+  "id": "story-ester-redder-sitt-folk-musical",
+  "title": "For Such a Time as This",
+  "kind": "story",
+  "anchor": {
+    "story": "ester-redder-sitt-folk"
+  },
+  "references": [
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 10,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "musical"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [],
+    "stories": [
+      "ester-redder-sitt-folk"
+    ],
+    "persons": [
+      "ester",
+      "mordekai"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, musical theatre, a baritone as the old cousin and a mezzo-soprano as the young queen, dramatic dialogue song building to a defiant solo, theatre orchestra with brass and timpani, 96 BPM",
+    "lyrics": "[Verse]\nEveryone knows, the law of the king\nWhoever goes in to him uncalled shall die\nUnless he holds out the golden scepter\nAnd I have not been called these thirty days\n\n[Verse]\nDo not think that in the king's palace\nYou will escape more than all the Jews\nFor if you keep silent at this time\nRelief will rise from another place\n\n[Chorus]\nAnd who knows whether you have come\nTo the kingdom for such a time as this\nWho knows, who knows\nFor such a time as this\n\n[Verse]\nGo, gather all the Jews in Susa\nFast for me, three days, night or day\nThen I will go to the king, though it is against the law\nAnd if I perish, I perish\n\n[Chorus]\nAnd who knows whether you have come\nTo the kingdom for such a time as this\nWho knows, who knows\nFor such a time as this",
+    "cot": "full",
+    "seed": 31091
+  }
+}

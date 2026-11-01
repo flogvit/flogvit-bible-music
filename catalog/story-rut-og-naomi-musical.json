@@ -1,0 +1,47 @@
+{
+  "id": "story-rut-og-naomi-musical",
+  "title": "Where You Go, I Will Go",
+  "kind": "story",
+  "anchor": {
+    "story": "rut-og-naomi"
+  },
+  "references": [
+    {
+      "bookId": 8,
+      "chapter": 1,
+      "verseStart": 8,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "musical"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet"
+    ],
+    "stories": [
+      "rut-og-naomi"
+    ],
+    "persons": [
+      "rut",
+      "noomi"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, musical theatre duet, an older mezzo-soprano as the mother-in-law and a young soprano as the daughter-in-law, singing in turn and then in harmony, theatre orchestra with strings and oboe, heartfelt, 84 BPM",
+    "lyrics": "[Verse]\nGo back, my daughters, each to her mother's house\nMay the Lord deal kindly with you\nAs you have dealt with the dead and with me\nGo back, there is nothing for you with me\n\n[Verse]\nDo not urge me to leave you\nOr to return from following you\nFor where you go, I will go\nAnd where you lodge, I will lodge\n\n[Chorus]\nYour people shall be my people\nAnd your God my God\nWhere you die, I will die\nAnd there I will be buried\n\n[Verse]\nTurn back like your sister has turned\nBack to her people and her gods\nNo, I will not leave you\nMay the Lord do so to me if anything but death parts me from you\n\n[Chorus]\nYour people shall be my people\nAnd your God my God\nWhere you die, I will die\nAnd there I will be buried",
+    "cot": "full",
+    "seed": 31090
+  }
+}

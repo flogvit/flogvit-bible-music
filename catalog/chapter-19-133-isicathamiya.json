@@ -1,0 +1,42 @@
+{
+  "id": "chapter-19-133-isicathamiya",
+  "title": "How Good and Pleasant",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 133
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 133,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "isicathamiya"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, South African isicathamiya, a cappella male choir in warm close harmony, deep bass foundation, a falsetto lead, soft stepping and clicks, swaying and joyful, 92 BPM",
+    "lyrics": "[Verse]\nHow good and pleasant it is\nWhen brothers live together in unity\nHow good and pleasant it is\nWhen we dwell as one\n\n[Chorus]\nLike precious oil upon the head\nRunning down upon the beard\nLike the dew of Hermon\nOn the mountains of Zion\n\n[Verse]\nFor there the Lord has commanded\nThe blessing, life forevermore\nHow good and pleasant it is\nWhen we dwell as one\n\n[Chorus]\nLike precious oil upon the head\nRunning down upon the beard\nLike the dew of Hermon\nOn the mountains of Zion",
+    "cot": "full",
+    "seed": 31049
+  }
+}

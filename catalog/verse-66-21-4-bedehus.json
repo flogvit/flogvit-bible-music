@@ -1,0 +1,48 @@
+{
+  "id": "verse-66-21-4-bedehus",
+  "title": "Han skal tørke bort hver tåre",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 21,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 21,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "bedehus"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "hap",
+      "endetiden"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osnb",
+  "request": {
+    "style": "Norwegian, Norwegian revival song of longing for heaven, an older male voice with a mixed congregation in harmony, accordion, guitar and mandolin, slow waltz in 3/4, homesick and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nJeg hørte en røst fra tronen\nSe, Guds bolig er hos oss\nHan skal bo hos sine egne\nog de skal være hans folk\n\n[Chorus]\nHan skal tørke bort hver tåre\nfra våre øyne der\nOg døden skal ikke være mer\nheller ikke sorg og smerte mer\n\n[Verse]\nNår jeg går min siste vandring\nog min reise her er slutt\nDa skal jeg se ham som han er\nog hjemme være hos min Gud\n\n[Chorus]\nHan skal tørke bort hver tåre\nfra våre øyne der\nOg døden skal ikke være mer\nheller ikke sorg og smerte mer",
+    "cot": "full",
+    "seed": 31026
+  }
+}

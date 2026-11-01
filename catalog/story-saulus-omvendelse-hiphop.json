@@ -1,0 +1,53 @@
+{
+  "id": "story-saulus-omvendelse-hiphop",
+  "title": "Road to Damascus",
+  "kind": "story",
+  "anchor": {
+    "story": "saulus-omvendelse"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 44,
+      "chapter": 9,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "hiphop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "paulus",
+      "nade"
+    ],
+    "stories": [
+      "saulus-omvendelse"
+    ],
+    "persons": [
+      "paulus"
+    ]
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Christian hip hop testimony, a male rapper telling the story in first person over a moody lo-fi piano beat, a melodic sung hook, sparse drums, reflective, 80 BPM",
+    "lyrics": "[Verse]\nI was breathing out threats against the church of the Way\nLetters from the high priest, chains for those who pray\nOn the road to Damascus, noon, the sun overhead\nA light from heaven flashed and I fell like the dead\nSaul, Saul, why are you persecuting me\nWho are you, Lord, tell me who I'm meant to see\nI am Jesus, the one you have been fighting\nGet up, go to the city, you'll be told what is right\n\n[Chorus]\nOn the road to Damascus I was blind\nBut I saw the light for the first time\nScales fell from my eyes\nNow I walk the road of life\n\n[Verse]\nThree days I sat in the dark, no food, no drink\nCouldn't see a thing, all I could do was think\nThen Ananias came and laid his hands on me\nBrother Saul, the Lord has sent me so you can see\nSomething like scales fell off and I rose\nBaptized in the name I had fought, now I know\nThe one I persecuted is the one who called my name\nChief of sinners, saved by grace, never the same\n\n[Chorus]\nOn the road to Damascus I was blind\nBut I saw the light for the first time\nScales fell from my eyes\nNow I walk the road of life",
+    "cot": "full",
+    "seed": 31074
+  }
+}

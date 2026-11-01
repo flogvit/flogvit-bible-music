@@ -1,0 +1,44 @@
+{
+  "id": "chapter-19-103-southern-gospel",
+  "title": "As Far as the East Is From the West",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 103
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 103,
+      "verseStart": 8,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "southern-gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "tilgivelse",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Southern gospel trio, a mother and two sons singing close family harmony, gospel piano, acoustic guitar and fiddle, mid-tempo swing, warm and thankful, 96 BPM",
+    "lyrics": "[Verse]\nThe Lord is merciful and gracious\nSlow to anger and abounding in love\nHe will not always accuse us\nNor keep his anger forever\n\n[Chorus]\nAs far as the east is from the west\nSo far he removes our sins from us\nAs high as the heavens are above the earth\nSo great is his love\n\n[Verse]\nHe does not deal with us according to our sins\nNor repay us for our wrongs\nAs a father has compassion on his children\nSo the Lord has compassion on those who fear him\n\n[Chorus]\nAs far as the east is from the west\nSo far he removes our sins from us\nAs high as the heavens are above the earth\nSo great is his love",
+    "cot": "full",
+    "seed": 31041
+  }
+}

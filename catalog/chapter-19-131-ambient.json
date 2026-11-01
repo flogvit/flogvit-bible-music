@@ -1,0 +1,43 @@
+{
+  "id": "chapter-19-131-ambient",
+  "title": "Like a Weaned Child",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 131
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 131,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "ambient"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "ydmykhet",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, ambient devotional, warm analog synth pads, a soft music box motif far away, a gentle female voice close to the microphone, no drums, very calm, 58 BPM",
+    "lyrics": "[Verse]\nO Lord, my heart is not lifted up\nMy eyes are not raised too high\nI do not occupy myself with things\nToo great and too marvelous for me\n\n[Chorus]\nI have calmed and quieted my soul\nLike a weaned child with its mother\nLike a weaned child\nIs my soul within me\n\n[Verse]\nO Israel, hope in the Lord\nFrom this time forth and forevermore\n\n[Chorus]\nI have calmed and quieted my soul\nLike a weaned child with its mother\nLike a weaned child\nIs my soul within me",
+    "cot": "full",
+    "seed": 31087
+  }
+}

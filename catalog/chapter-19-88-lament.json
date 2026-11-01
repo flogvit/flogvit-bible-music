@@ -1,0 +1,45 @@
+{
+  "id": "chapter-19-88-lament",
+  "title": "Darkness Is My Closest Friend",
+  "kind": "chapter",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 88
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 88,
+      "verseStart": 2,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 19,
+      "chapter": 88,
+      "verseStart": 14,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "lament"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "lidelse",
+      "bonn"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, lament, a weary male voice with a low acoustic guitar and a bowed bass drone, slow and bare, minor key, ends unresolved in darkness, 56 BPM",
+    "lyrics": "[Verse]\nO Lord, God of my salvation\nI cry out day and night before you\nLet my prayer come before you\nIncline your ear to my cry\n\n[Verse]\nFor my soul is full of troubles\nMy life draws near to the grave\nI am counted among those who go down to the pit\nLike the slain that lie in the grave\n\n[Chorus]\nWhy do you cast my soul away\nWhy do you hide your face from me\nYou have caused my friends to shun me\nDarkness is my closest friend\n\n[Verse]\nBut I, O Lord, cry to you\nIn the morning my prayer comes before you\nI suffer your terrors, I am helpless\nThey surround me like a flood all day long\n\n[Chorus]\nWhy do you cast my soul away\nWhy do you hide your face from me\nYou have caused my friends to shun me\nDarkness is my closest friend",
+    "cot": "full",
+    "seed": 31100
+  }
+}

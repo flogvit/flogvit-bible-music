@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-51-12-coptic",
+  "title": "Create in Me a Clean Heart",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 51,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 19,
+      "chapter": 51,
+      "verseStart": 12,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "coptic"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "synden",
+      "tilgivelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Coptic Orthodox penitential hymn, a deep male cantor alone at first, then deacons answering softly, a slow triangle and hand cymbals, ancient mode, humble and hushed, 60 BPM",
+    "lyrics": "[Verse]\nHave mercy on me, O God\nAccording to your steadfast love\nAccording to your great compassion\nBlot out my transgressions\n\n[Chorus]\nCreate in me a clean heart, O God\nAnd renew a right spirit within me\n\n[Verse]\nDo not cast me from your presence\nDo not take your Holy Spirit from me\nRestore to me the joy of your salvation\nAnd uphold me with a willing spirit\n\n[Chorus]\nCreate in me a clean heart, O God\nAnd renew a right spirit within me",
+    "cot": "full",
+    "seed": 31032
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-149-3-salsa",
+  "title": "Praise His Name With Dancing",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 149,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 149,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "salsa"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "glede",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Latin worship bachata, sweet requinto guitar, bongos and güira, a tender male lead with a female harmony, swaying dance rhythm, 128 BPM",
+    "lyrics": "[Verse]\nSing to the Lord a new song\nHis praise in the assembly of the faithful\nLet Israel be glad in its Maker\nLet the children of Zion rejoice in their King\n\n[Chorus]\nPraise his name with dancing\nMake music with tambourine and lyre\nFor the Lord takes pleasure in his people\nHe crowns the humble with salvation\n\n[Verse]\nLet the faithful exult in glory\nLet them sing for joy upon their beds\nWith the high praises of God in their mouths\nLet them dance before the King\n\n[Chorus]\nPraise his name with dancing\nMake music with tambourine and lyre\nFor the Lord takes pleasure in his people\nHe crowns the humble with salvation",
+    "cot": "full",
+    "seed": 31057
+  }
+}

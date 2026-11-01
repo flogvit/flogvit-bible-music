@@ -1,0 +1,45 @@
+{
+  "id": "verse-66-22-1-edm",
+  "title": "River of Life",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 66,
+    "chapter": 22,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 66,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "edm"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [
+      "endetiden",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, chill electronic worship, deep house groove, soft kick, glassy synth plucks, a warm male vocal with vocal chops, flowing and serene, 118 BPM",
+    "lyrics": "[Verse]\nThen the angel showed me the river\nThe river of the water of life\nBright as crystal, flowing from the throne\nOf God and of the Lamb\n\n[Chorus]\nRiver of life, flow through the city\nTree of life on either side\nLeaves for the healing of the nations\nRiver of life\n\n[Verse]\nNo longer will there be anything accursed\nThey will see his face\nHis name will be on their foreheads\nAnd night will be no more\n\n[Chorus]\nRiver of life, flow through the city\nTree of life on either side\nLeaves for the healing of the nations\nRiver of life\n\n[Outro]\nThe Lord God will be their light",
+    "cot": "full",
+    "seed": 31084
+  }
+}

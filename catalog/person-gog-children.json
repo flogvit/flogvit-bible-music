@@ -1,0 +1,78 @@
+{
+  "id": "person-gog-children",
+  "title": "I Am Against You",
+  "kind": "person",
+  "anchor": {
+    "person": "gog"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 38,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 26,
+      "chapter": 38,
+      "verseStart": 4,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 26,
+      "chapter": 38,
+      "verseStart": 10,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 26,
+      "chapter": 38,
+      "verseStart": 18,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 26,
+      "chapter": 39,
+      "verseStart": 1,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 66,
+      "chapter": 20,
+      "verseStart": 7,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "salvation"
+    ],
+    "themes": [
+      "endetiden",
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "gog",
+      "esekiel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, narrative female solo voice with warm gospel choir, acoustic guitar, cello, percussion, 90 BPM",
+    "lyrics": "[Verse]\nSon of man set your face against Gog\nChief prince of Meshech and Tubal\nThe word of the Lord came to me\nI am against you I declare\n\n[Chorus]\nI will turn you around with a hook\nBring you out with your whole army\nHorses and horsemen splendidly clothed\nA vast company with shields\n\n[Verse]\nPersia and Cush and Put are with them\nGomer and Beth Togarmah from the north\nMany peoples gathered around you\nPrepare yourself for the battle\n\n[Chorus]\nI will turn you around with a hook\nBring you out with your whole army\nHorses and horsemen splendidly clothed\nA vast company with shields\n\n[Verse]\nIn the latter years you will invade\nA land that has recovered from war\nPeople gathered to the mountains of Israel\nLiving in safety and peace\n\n[Pre-Chorus]\nYou will come like a storm on the land\nA cloud covering the sky\nThinking in your heart an evil scheme\nTo plunder the unwalled villages\n\n[Chorus]\nI will turn you around with a hook\nBring you out with your whole army\nHorses and horsemen splendidly clothed\nA vast company with shields\n\n[Bridge]\nMy hot anger will flare up that day\nA great earthquake in the land\nMountains will be torn down and fall\nThe sword against his brother\n\n[Verse]\nI will pour down rain and hailstones\nFire and sulfur on you\nShow my greatness and my holiness\nThey will know that I am the Lord\n\n[Outro]\nSeven months they will bury the dead\nCleansing the land for the Lord\nValley of Gog's Horde it shall be\nFire from heaven consumes them",
+    "cot": "full",
+    "seed": 20360
+  }
+}

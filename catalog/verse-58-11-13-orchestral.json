@@ -1,0 +1,49 @@
+{
+  "id": "verse-58-11-13-orchestral",
+  "title": "Strangers and Sojourners",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 11,
+    "verseStart": 13,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 13,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female solo voice with cathedral choir, harp, strings, French horn, organ, 70 BPM, majestic and reflective",
+    "lyrics": "[Verse]\nThey died in faith but not received\nThe promise stayed unseen in view\nThey saw it from a far away place\nWelcoming the hope so new\n\n[Verse]\nConfessing they were strangers here\nSojourners upon the earth\nNo opportunity to return\nFor the land they left first\n\n[Chorus]\nLooking for a homeland true\nLonging for a better country\nA heavenly place prepared\nFor God has not disowned them\n\n[Verse]\nIf they thought of the land they left\nThey would have had chance to go back\nBut as it is they long ahead\nFor the city God has made\n\n[Chorus]\nLooking for a homeland true\nLonging for a better country\nA heavenly place prepared\nFor God has not disowned them\n\n[Bridge]\nHe prepared a city for them\nGod is not ashamed to claim them\nArchitect and builder of their home\nFoundations laid by His name\n\n[Chorus]\nLooking for a homeland true\nLonging for a better country\nA heavenly place prepared\nFor God has not disowned them\n\n[Outro]\nStrangers and sojourners still\nWaiting for the city to come",
+    "cot": "full",
+    "seed": 20356
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "person-eljakim-children",
+  "title": "Key of the House of David",
+  "kind": "person",
+  "anchor": {
+    "person": "eljakim"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 22,
+      "verseStart": 20,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 12,
+      "chapter": 18,
+      "verseStart": 18,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 23,
+      "chapter": 36,
+      "verseStart": 3,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 12,
+      "chapter": 19,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 66,
+      "chapter": 3,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "nade",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "eljakim",
+      "hiskia",
+      "jesaja",
+      "sjebna",
+      "rabsjake"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice, soft piano, acoustic guitar, light strings, warm and hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nOn that day I will summon my servant Eliakim son of Hilkiah\nI will clothe him with your robe and fasten your sash around him\nI will hand your authority over to him\nHe will be a father to those who live in Jerusalem\n\n[Pre-Chorus]\nI will place the key of the house of David on his shoulder\nWhat he opens no one will shut\nWhat he shuts no one will open\n\n[Chorus]\nHe is like a peg in a firm place\nA throne of honor for his father's house\nThe glory of the offspring hangs upon him\nThe small vessels and the jars are his\n\n[Verse]\nWhen the Assyrian commander came with threats\nEliakim asked him to speak in Aramaic\nSo the people on the wall would not hear the fear\nBut the Rabshakeh stood and called out loudly\n\n[Pre-Chorus]\nWe tore our clothes and went to seek Isaiah\nTo hear the word of the Lord of hosts\nTo find the guidance that we needed then\nTo stand firm in the face of the storm\n\n[Chorus]\nHe is like a peg in a firm place\nA throne of honor for his father's house\nThe glory of the offspring hangs upon him\nThe small vessels and the jars are his\n\n[Chorus]\nHe is like a peg in a firm place\nA throne of honor for his father's house\nThe glory of the offspring hangs upon him\nThe small vessels and the jars are his\n\n[Outro]\nThe key of the house of David is on his shoulder\nWhat he opens no one will shut\nWhat he shuts no one will open",
+    "cot": "full",
+    "seed": 20359
+  }
+}

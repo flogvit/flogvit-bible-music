@@ -1,0 +1,49 @@
+{
+  "id": "verse-49-1-7-gospel",
+  "title": "Redemption Through His Blood",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 1,
+    "verseStart": 7,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "nade",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo baritone voice, warm choir backing, piano, strings, acoustic guitar, drums, majestic and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nHe chose us in him before the world began\nTo be holy and blameless in his hand\nDestined for adoption as sons through Christ\nBrought to himself by his good will\n\n[Chorus]\nIn him we have redemption through his blood\nThe forgiveness of trespasses is good\nAccording to the riches of his grace\nWhich he lavished on us in all places\n\n[Verse]\nPoured out on us in all wisdom and understanding\nHe has made known the mystery of his planning\nA plan for the fullness of time in Christ\nTo bring all things together in his list\n\n[Chorus]\nIn him we have redemption through his blood\nThe forgiveness of trespasses is good\nAccording to the riches of his grace\nWhich he lavished on us in all places\n\n[Bridge]\nAll things in heaven and all things on earth\nIn him the head of the whole earth\nOne head for all in the fullness of time\nHis will revealed, his love sublime\n\n[Outro]\nIn him we have redemption through his blood\nThe forgiveness of trespasses is good",
+    "cot": "full",
+    "seed": 20355
+  }
+}

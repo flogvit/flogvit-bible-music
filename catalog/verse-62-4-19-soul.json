@@ -1,0 +1,47 @@
+{
+  "id": "verse-62-4-19-soul",
+  "title": "We Love Because He First Loved Us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 62,
+    "chapter": 4,
+    "verseStart": 19,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 62,
+      "chapter": 4,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female soul voice, solo with gospel choir, piano, Rhodes, upright bass, drums, cello, intimate and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nWe have come to know this deep truth\nBelieving the love that He shows us\nGod is love, simple and true\nRemain in it, let His peace flow through\n\n[Pre-Chorus]\nIn this way, love is brought to completion\nGiving us confidence on judgment day\nAs He is, so are we in this world\nWalking together in the light\n\n[Chorus]\nWe love because He first loved us\nWe love because He first loved us\nNo fear remains where His grace is found\nPerfect love drives the fear away\n\n[Verse]\nThere is no fear in this holy love\nIt drives out the dread of punishment\nThe one who fears has not been made complete\nBut we stand secure in His presence\n\n[Chorus]\nWe love because He first loved us\nWe love because He first loved us\nNo fear remains where His grace is found\nPerfect love drives the fear away\n\n[Bridge]\nIf you say you love the unseen God\nYou cannot hate the brother you have seen\nThis is the command we hold dear\nLove the brother, love the Lord\n\n[Chorus]\nWe love because He first loved us\nWe love because He first loved us\nNo fear remains where His grace is found\nPerfect love drives the fear away\n\n[Outro]\nWe love because He first loved us\nHe first loved us",
+    "cot": "full",
+    "seed": 20358
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-49-1-3-folk",
+  "title": "Blessed in Christ",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 49,
+    "chapter": 1,
+    "verseStart": 3,
+    "verseEnd": 3
+  },
+  "references": [
+    {
+      "bookId": 49,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "glede",
+      "nade",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, cello, soft piano, light percussion, hopeful and reverent, 85 BPM",
+    "lyrics": "[Verse]\nPaul writes to saints in Ephesus\nGrace and peace from God our Father\nChosen before the world began\nTo be holy in His love\n\n[Chorus]\nBlessed with every spiritual blessing\nIn the heavenly places we are\nBlessed in Christ forever\n\n[Verse]\nHe chose us in Him before time\nDestined for adoption as sons\nAccording to the good pleasure\nOf His own perfect will\n\n[Chorus]\nBlessed with every spiritual blessing\nIn the heavenly places we are\nBlessed in Christ forever\n\n[Bridge]\nTo the praise of His glorious grace\nLavished on us in the Beloved\n\n[Outro]\nBlessed be the God and Father\nBlessed in Christ forever",
+    "cot": "full",
+    "seed": 20354
+  }
+}

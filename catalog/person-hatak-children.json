@@ -1,0 +1,71 @@
+{
+  "id": "person-hatak-children",
+  "title": "For Such A Time As This",
+  "kind": "person",
+  "anchor": {
+    "person": "hatak"
+  },
+  "references": [
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 17,
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "hatak",
+      "ester",
+      "mordekai",
+      "ahasverus",
+      "haman"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soft female solo voice, gentle piano, warm cello, light harp, acoustic guitar, hopeful and gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nEsther called Hathach to her side\nOne of the eunuchs assigned to serve\nShe ordered him to go and find\nOut what was wrong with Mordecai\n\n[Pre-Chorus]\nHe went to the city square\nBefore the gate of the king\nMordecai told him everything\nThat had happened to him\n\n[Chorus]\nThe silver for the Jews to die\nA copy of the decree\nGo to the king and plead\nBeg for her people\n\n[Verse]\nHathach returned with the words\nHe reported all to Esther\nShe told him to take the reply\nBack to Mordecai again\n\n[Pre-Chorus]\nAll the servants know the law\nIf you go in unsummoned\nThere is but one law is death\nUnless the king extends his hand\n\n[Chorus]\nThe silver for the Jews to die\nA copy of the decree\nGo to the king and plead\nBeg for her people\n\n[Verse]\nEsther had not been called\nFor thirty days now\nBut Mordecai sent back his charge\nDo not think you will escape\n\n[Bridge]\nIf you keep silent now\nDeliverance comes from another place\nYou and your father's house will perish\nWho knows what is to be\n\n[Outro]\nPerhaps you have come to the throne\nFor just such a time as this",
+    "cot": "full",
+    "seed": 20362
+  }
+}

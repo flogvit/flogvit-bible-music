@@ -1,0 +1,45 @@
+{
+  "id": "verse-58-12-14-rock",
+  "title": "Pursue Peace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 12,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 12,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, solo with backing choir, electric guitar, bass guitar, drums, piano, cymbals, solemn and determined mood, 85 BPM",
+    "lyrics": "[Verse]\nAll discipline seems painful\nRather than pleasant at the time\nBut later it yields a harvest\nOf righteousness and peace for us\n\n[Chorus]\nPursue peace with everyone\nAnd holiness without which no one will see the Lord\nPursue peace with everyone\nAnd holiness to see the face of God\n\n[Verse]\nTherefore strengthen your drooping hands\nAnd your weak knees on the ground\nMake straight paths for your feet\nSo that what is lame may be healed\n\n[Chorus]\nPursue peace with everyone\nAnd holiness without which no one will see the Lord\nPursue peace with everyone\nAnd holiness to see the face of God\n\n[Bridge]\nSee to it no one falls short\nOf the grace of God in our lives\nNo bitter root grows up\nTo cause trouble and defile many\n\n[Verse]\nNo one is sexually immoral\nOr godless like Esau did\nWho sold his birthright\nFor a single meal of food\n\n[Chorus]\nPursue peace with everyone\nAnd holiness without which no one will see the Lord\nPursue peace with everyone\nAnd holiness to see the face of God\n\n[Outro]\nHe found no chance to repent\nThough he sought it with tears",
+    "cot": "full",
+    "seed": 20357
+  }
+}

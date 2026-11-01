@@ -1,0 +1,80 @@
+{
+  "id": "person-gud-children",
+  "title": "Let There Be Light",
+  "kind": "person",
+  "anchor": {
+    "person": "gud"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verseStart": 5,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 2,
+      "chapter": 3,
+      "verseStart": 7,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "skapelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "gud",
+      "adam",
+      "eva",
+      "noah",
+      "abraham"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, bright and gentle, acoustic guitar, piano, celesta, soft strings, cheerful and wonder-filled, 90 BPM",
+    "lyrics": "[Verse]\nIn the beginning God created the heavens and the earth\nThe earth was formless and empty darkness lay over the deep\nThe Spirit of God hovered over the face of the waters\nAnd then God spoke the words that set the world in motion\n\n[Pre-Chorus]\nAnd God said let there be light\nAnd there was light\nHe saw that the light was good\nAnd separated it from the dark\n\n[Chorus]\nLet there be light in the vault of the heavens\nLet them shine on the earth from the sky\nGod saw all that he had made\nAnd behold it was very good\n\n[Verse]\nHe made the two great lights to govern the day and the night\nHe made the stars to shine in the vault of the heavens\nHe set them to separate the light from the darkness\nAnd God saw that it was good and the days began\n\n[Pre-Chorus]\nLet the waters under the heavens be gathered into one place\nLet the dry ground appear and God called it land\nHe called the gathered waters seas and saw that it was good\nAnd the dry land appeared under the wide blue sky\n\n[Chorus]\nLet there be light in the vault of the heavens\nLet them shine on the earth from the sky\nGod saw all that he had made\nAnd behold it was very good\n\n[Verse]\nThen God said let us make man in our image according to our likeness\nSo God created man in his own image in the image of God\nHe created them male and female and blessed them greatly\nSaying be fruitful and multiply and fill the earth and subdue it\n\n[Pre-Chorus]\nI have given you every seed-bearing plant on the face of all the earth\nEvery tree that bears fruit with seed in it will be your food\nAnd to every wild animal and every bird of the sky\nI give every green plant for food and it was so\n\n[Chorus]\nLet there be light in the vault of the heavens\nLet them shine on the earth from the sky\nGod saw all that he had made\nAnd behold it was very good\n\n[Outro]\nAnd there was evening and there was morning\nThe sixth day\nAnd on the seventh day he rested",
+    "cot": "full",
+    "seed": 20361
+  }
+}

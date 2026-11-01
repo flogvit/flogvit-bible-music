@@ -1,0 +1,80 @@
+{
+  "id": "person-iddo-children",
+  "title": "Visions of Iddo",
+  "kind": "person",
+  "anchor": {
+    "person": "iddo"
+  },
+  "references": [
+    {
+      "bookId": 14,
+      "chapter": 9,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 14,
+      "chapter": 12,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 14,
+      "chapter": 13,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 15,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 15,
+      "chapter": 6,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 4,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "iddo",
+      "rehabeam",
+      "abia",
+      "salomo",
+      "jeroboam-i"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, soft strings, gentle mood, 85 BPM",
+    "lyrics": "[Verse]\nThe acts of kings from beginning to end\nAre written down for the people to learn\nIn records found in the ancient days\nWhere truth and history gently lay\n\n[Pre-Chorus]\nFrom Solomon’s throne to Rehoboam’s reign\nThe seer kept the sacred chain\n\n[Chorus]\nVisions of Iddo the seer\nSpeaking concerning Jeroboam\nHis words are the light that we keep\nGuiding the hearts in a gentle sweep\n\n[Verse]\nShemaiah’s notes and the genealogies\nTell of the wars and the histories\nAbijah’s ways and his spoken words\nAre recorded in the prophet’s chords\n\n[Pre-Chorus]\nFrom the days of old to the returning\nA spiritual line is forever turning\n\n[Chorus]\nVisions of Iddo the seer\nSpeaking concerning Jeroboam\nHis words are the light that we keep\nGuiding the hearts in a gentle sweep\n\n[Bridge]\nZechariah son of Iddo stands\nIn the name of the God of the lands\nHaggai and Zechariah prophesy\nBuilding the temple with faith and glee\n\n[Outro]\nThe elders built and they prospered on\nThrough the prophesying until they were done",
+    "cot": "full",
+    "seed": 30038
+  }
+}

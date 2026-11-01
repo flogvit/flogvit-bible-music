@@ -1,0 +1,65 @@
+{
+  "id": "person-bela-pop",
+  "title": "The First King",
+  "kind": "person",
+  "anchor": {
+    "person": "bela"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 31,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 33,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 43,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "bela",
+      "esau",
+      "jobab"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and storytelling tone, acoustic guitar, piano, cello, soft drums, gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nThese are the kings who reigned in the land\nBefore any king reigned over the Israelites\nBela son of Beor became king in Edom\nHis city was named Dinhabah\n\n[Chorus]\nThe first king in the land of Edom\nBela son of Beor ruled there\nBefore kings came to rule the tribes\nHis story is written in the books\n\n[Verse]\nEsau is Edom in the hill country of Seir\nHe took his wives and moved away from Jacob\nTheir possessions were too great to live together\nSo the lineage of kings began to grow\n\n[Chorus]\nThe first king in the land of Edom\nBela son of Beor ruled there\nBefore kings came to rule the tribes\nHis story is written in the books\n\n[Bridge]\nWhen Bela died Jobab son of Zerah succeeded him\nFrom Bozrah he reigned in his place\nThe list in Chronicles confirms the name\nOf the first king of the Edomites\n\n[Chorus]\nThe first king in the land of Edom\nBela son of Beor ruled there\nBefore kings came to rule the tribes\nHis story is written in the books\n\n[Outro]\nBela son of Beor\nKing of Dinhabah",
+    "cot": "full",
+    "seed": 30045
+  }
+}

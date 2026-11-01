@@ -1,0 +1,77 @@
+{
+  "id": "person-vaisata-worship",
+  "title": "Better Than She",
+  "kind": "person",
+  "anchor": {
+    "person": "vaisata"
+  },
+  "references": [
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 13,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 21,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "vaisata",
+      "ahasverus",
+      "ester",
+      "memukan"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with soft choir, harp, strings, acoustic guitar, ambient pads, reverent and dramatic, 80 BPM",
+    "lyrics": "[Verse]\nThis happened in the days of Ahasuerus\nRuling over a hundred and twenty-seven provinces\nSeated on his royal throne in Susa\nIn the third year of his reign he gave a feast\n\n[Verse]\nA hundred and eighty days of wealth displayed\nSplendid glory of his greatness seen\nThen seven days in the garden court\nFor all the people in the citadel\n\n[Pre-Chorus]\nQueen Vashti gave a banquet for the women\nIn the royal palace of the king\nOn the seventh day his heart was merry\nWith wine he commanded the eunuchs\n\n[Chorus]\nBring Queen Vashti wearing her royal crown\nTo display her beauty to the peoples\nShe was lovely to look at they said\nBut she refused to come at the command\n\n[Verse]\nThe king became furious in his heart\nHis anger burned within him deep\nHe consulted the wise men who knew the law\nTo ask what should be done with her\n\n[Chorus]\nBring Queen Vashti wearing her royal crown\nTo display her beauty to the peoples\nShe was lovely to look at they said\nBut she refused to come at the command\n\n[Bridge]\nMemucan answered before the king\nShe has wronged all the officials\nThe women will despise their husbands\nIf she does not obey the decree\n\n[Outro]\nLet the royal position go to another\nTo a woman who is better than she",
+    "cot": "full",
+    "seed": 30043
+  }
+}

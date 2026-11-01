@@ -1,0 +1,83 @@
+{
+  "id": "person-josjeba-celtic",
+  "title": "The Princess Who Saved the Royal Line",
+  "kind": "person",
+  "anchor": {
+    "person": "josjeba"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 14,
+      "chapter": 22,
+      "verseStart": 10,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 12,
+      "chapter": 11,
+      "verseStart": 2,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 14,
+      "chapter": 22,
+      "verseStart": 11,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 12,
+      "chapter": 11,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 14,
+      "chapter": 22,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [
+      "frykt",
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "josjeba",
+      "joasj",
+      "atalja",
+      "joram-juda",
+      "akasja-jorams-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female vocal, solo with soft choir, Celtic harp, fiddle, bodhran, flute, ethereal, 80 BPM",
+    "lyrics": "[Verse]\nWhen Athaliah saw her son was dead\nShe rose up to destroy the royal line\nThe whole royal family fell under her hand\nSeeking power, she did not spare a single son\n\n[Chorus]\nBut Jehosheba took the young child away\nShe stole him from among the dying sons\nShe hid him and his nurse in a bedroom\nOut of Athaliah's sight, safe from the blade\n\n[Verse]\nHe remained hidden with her in the house of the LORD\nFor six long years while Athaliah reigned\nJehoiada the priest kept the secret close\nPreserving the seed of David in the temple's shadow\n\n[Chorus]\nBut Jehosheba took the young child away\nShe stole him from among the dying sons\nShe hid him and his nurse in a bedroom\nOut of Athaliah's sight, safe from the blade\n\n[Bridge]\nThe daughter of King Joram, sister of Ahaziah\nCried out for the child when death surrounded them all\nIn the house of God, the lineage was kept\nFrom the wrath of the queen who sought to rule alone\n\n[Chorus]\nBut Jehosheba took the young child away\nShe stole him from among the dying sons\nShe hid him and his nurse in a bedroom\nOut of Athaliah's sight, safe from the blade\n\n[Outro]\nThe royal line was saved by her courage\nDavid's throne remained for the coming days",
+    "cot": "full",
+    "seed": 30040
+  }
+}

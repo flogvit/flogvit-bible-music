@@ -1,0 +1,66 @@
+{
+  "id": "person-sjelomit-acoustic",
+  "title": "Stone Him Outside the Camp",
+  "kind": "person",
+  "anchor": {
+    "person": "sjelomit"
+  },
+  "references": [
+    {
+      "bookId": 3,
+      "chapter": 24,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 3,
+      "chapter": 24,
+      "verseStart": 10,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 3,
+      "chapter": 24,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 3,
+      "chapter": 24,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 3,
+      "chapter": 24,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjelomit",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female voice, solo, acoustic guitar, cello, soft percussion, minor key, slow tempo, 70 BPM",
+    "lyrics": "[Verse]\nAn Egyptian father, an Israelite mother\nThe son of Shelomith, daughter of Dibri\nFrom the tribe of Dan, he walked in the camp\nA fight broke out, and the Name was blasphemed\n\n[Pre-Chorus]\nThey brought him to Moses, held him in custody\nWaiting for the will of the Lord to be known\n\n[Chorus]\nTake the blasphemer outside the camp\nAll who heard him lay hands on his head\nThe whole assembly is to stone him\nAs the LORD has commanded Moses\n\n[Verse]\nThe Lord spoke down, saying to the leader\nAnyone who curses God bears the sin\nWhoever blasphemes the Name of the LORD\nMust be put to death, foreigner or native\n\n[Chorus]\nTake the blasphemer outside the camp\nAll who heard him lay hands on his head\nThe whole assembly is to stone him\nAs the LORD has commanded Moses\n\n[Outro]\nSo the Israelites did as the LORD commanded\nThey took him out, and they stoned him to death",
+    "cot": "full",
+    "seed": 30042
+  }
+}

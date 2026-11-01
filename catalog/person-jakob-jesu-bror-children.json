@@ -1,0 +1,82 @@
+{
+  "id": "person-jakob-jesu-bror-children",
+  "title": "Pillars of Righteousness",
+  "kind": "person",
+  "anchor": {
+    "person": "jakob-jesu-bror"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 13,
+      "verseStart": 55,
+      "verseEnd": 56
+    },
+    {
+      "bookId": 46,
+      "chapter": 15,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 48,
+      "chapter": 2,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 44,
+      "chapter": 15,
+      "verseStart": 13,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 44,
+      "chapter": 21,
+      "verseStart": 17,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 59,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "frykt",
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "jakob-jesu-bror",
+      "peter",
+      "paulus",
+      "johannes-markus",
+      "barnabas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice with gentle choir backing, acoustic guitar, piano, cello, soft percussion, gentle and reflective mood, 90 BPM",
+    "lyrics": "[Verse]\nBrothers of the carpenter's son\nJames, Joseph, Simon, Judas\nSisters nearby, asking why\nWhere did he get all this?\n\n[Verse]\nThen he appeared to James\nThen to all the apostles\nFaith came in the risen light\nBelieving in the new life\n\n[Chorus]\nJames, Cephas, and John\nReputed to be pillars\nGiving the right hand of fellowship\nTo Paul and to Barnabas\n\n[Verse]\nBrothers, listen to me\nSimeon has described\nHow God took a people\nFor his holy name\n\n[Pre-Chorus]\nRebuilding the fallen tent\nOf David, setting it up\nSo the rest of humanity\nMay seek the Lord\n\n[Chorus]\nJames, Cephas, and John\nReputed to be pillars\nGiving the right hand of fellowship\nTo Paul and to Barnabas\n\n[Bridge]\nTwelve tribes scattered abroad\nServant of God and Christ\nGreetings to the diaspora\nFaith and works in your hearts\n\n[Outro]\nFrom ancient generations Moses\nRead in the synagogues\nJames stands as a pillar\nRighteous and true",
+    "cot": "full",
+    "seed": 30039
+  }
+}

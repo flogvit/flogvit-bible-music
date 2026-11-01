@@ -1,0 +1,48 @@
+{
+  "id": "verse-58-11-6-ballad",
+  "title": "Rewards Those Who Seek",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 58,
+    "chapter": 11,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, solo voice, acoustic piano, cello, ambient pads, soft drums, reverent and hopeful, 75 BPM",
+    "lyrics": "[Verse]\nBy faith we understand the universe formed\nBy the word of God, not from visible things\nAbel offered a better sacrifice\nCommended as righteous through his own belief\n\n[Chorus]\nWithout faith it is impossible to please him\nWhoever comes to God must believe he exists\nAnd that he rewards those who seek him\nFaith is the key to his love\n\n[Verse]\nEnoch was taken up, did not see death\nCommended as one who pleased God\nNoah built the ark in reverent fear\nHeir of the righteousness that comes by faith\n\n[Chorus]\nWithout faith it is impossible to please him\nWhoever comes to God must believe he exists\nAnd that he rewards those who seek him\nFaith is the key to his love\n\n[Bridge]\nAbraham obeyed when he was called\nTo go out to a place as inheritance\nHe went not knowing where he was going\nLiving as a stranger in the land of promise\n\n[Chorus]\nWithout faith it is impossible to please him\nWhoever comes to God must believe he exists\nAnd that he rewards those who seek him\nFaith is the key to his love\n\n[Outro]\nBelieve he exists and rewards those who seek\nFaith pleases God and leads us home",
+    "cot": "full",
+    "seed": 30037
+  }
+}

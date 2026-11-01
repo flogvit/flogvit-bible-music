@@ -1,0 +1,69 @@
+{
+  "id": "person-baalis-blues",
+  "title": "The King of Ammon",
+  "kind": "person",
+  "anchor": {
+    "person": "baalis"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 40,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 24,
+      "chapter": 40,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 24,
+      "chapter": 41,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 24,
+      "chapter": 41,
+      "verseStart": 15,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 24,
+      "chapter": 43,
+      "verseStart": 4,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "baalis",
+      "gedalja",
+      "ismael-ben-netanja",
+      "johanan",
+      "nebukadnesar"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Deep male baritone voice with gritty blues texture, solo vocal, slide guitar, upright bass, brushed snare drums, piano, mournful minor key, slow tempo at 78 BPM",
+    "lyrics": "[Verse]\nJohanan came to Mizpah with the commanders\nHe spoke of a plot that hung in the air\nBaalis king of Ammon had sent a man\nIshmael son of Nethaniah was the danger\n\n[Verse]\nHe said strike him down before he strikes you\nScatter the Judeans who gather around\nBut Gedaliah refused to believe the news\nHe said the words about Ishmael are not true\n\n[Chorus]\nBaalis king of Ammon sent the blade\nTo kill the governor appointed by fate\nThe remnant of Judah is left to bleed\nWhile Ishmael son of Nethaniah leads the deed\n\n[Verse]\nIn the seventh month they sat to eat\nTen men rose up with the sword at their feet\nGedaliah fell and the Chaldeans died\nThe fighting men who stood by his side\n\n[Chorus]\nBaalis king of Ammon sent the blade\nTo kill the governor appointed by fate\nThe remnant of Judah is left to bleed\nWhile Ishmael son of Nethaniah leads the deed\n\n[Bridge]\nIshmael fled with eight men to Ammon\nBack to the king who had set the plan\nThe remnant moved toward the land of Egypt\nAfraid of the Chaldeans and the debt they might pay\n\n[Outro]\nThey did not obey the voice of the Lord\nAnd went to Tahpanhes with the sword\nThey did not obey the voice of the Lord",
+    "cot": "full",
+    "seed": 30044
+  }
+}

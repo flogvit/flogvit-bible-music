@@ -1,0 +1,75 @@
+{
+  "id": "person-mikal-country",
+  "title": "Dancing Before the Lord",
+  "kind": "person",
+  "anchor": {
+    "person": "mikal"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 18,
+      "verseStart": 20,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 9,
+      "chapter": 19,
+      "verseStart": 11,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 9,
+      "chapter": 25,
+      "verseStart": 44,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 10,
+      "chapter": 3,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 10,
+      "chapter": 6,
+      "verseStart": 16,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 10,
+      "chapter": 6,
+      "verseStart": 23,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "mikal",
+      "saul",
+      "david",
+      "jonatan",
+      "palti"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female country voice, emotional and storytelling, acoustic guitar, piano, fiddle, bass, drums, melancholic mood, 80 BPM",
+    "lyrics": "[Verse]\nSaul's daughter Michal loved David\nHe killed two hundred Philistines\nTo win her hand from the king\nShe let him escape the night\nThrough the window he ran away\nA household idol in the bed\nSaul sought his life in vain\nBut she deceived the messengers\nShe said he was sick and weak\nHe fled to save his own life\n\n[Chorus]\nDancing before the Lord\nLeaping with joy in the street\nMichal looked down from the window\nAnd despised him in her heart\n\n[Verse]\nYears passed and David was king\nHe asked for his wife to return\nPaltiel followed weeping\nSent away to go home\nThe ark of the covenant came\nInto the city of David\nDavid leaped and danced before\nThe Lord of hosts on high\nMichal came out to meet him\nWith scorn upon her face\n\n[Chorus]\nDancing before the Lord\nLeaping with joy in the street\nMichal looked down from the window\nAnd despised him in her heart\n\n[Bridge]\nHow the king has exposed himself\nBefore the eyes of slave girls\nDavid said I will be humbled\nIn my own eyes I am small\nBefore the Lord I will celebrate\nAnd be held in honor by them\n\n[Outro]\nMichal had no child to the day\nOf her death she remained childless",
+    "cot": "full",
+    "seed": 30041
+  }
+}

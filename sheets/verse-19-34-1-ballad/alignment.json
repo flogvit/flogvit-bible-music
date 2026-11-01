@@ -1,0 +1,1232 @@
+{
+ "id": "verse-19-34-1-ballad",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-34-1-ballad",
+ "offset_seconds": -3.3800000000001837,
+ "words_heard": 140,
+ "words": 141,
+ "lines": [
+  {
+   "text": "Of David when he feigned madness",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before Abimelech who drove him away",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He left and found his true rest",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will bless the LORD at all times",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His praise will always be on my lips",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My soul boasts in the LORD",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let the humble hear and rejoice",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Magnify the LORD with me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us exalt his name together",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I sought the LORD and he answered me",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He delivered me from all my fears",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Those who look to him are radiant",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Their faces will never be ashamed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will bless the LORD at all times",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His praise will always be on my lips",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Magnify the LORD with me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let us exalt his name together",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I sought the LORD and he answered me",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He delivered me from all my fears",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His praise will always be on my lips",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.29,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Magnify the LORD with me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Of",
+   "time": 33.26,
+   "weight": 0.06,
+   "note_time": 34.19
+  },
+  {
+   "text": "Da",
+   "time": 35.08,
+   "weight": 0.99,
+   "note_time": 34.53
+  },
+  {
+   "text": "vid",
+   "time": 35.38,
+   "weight": 0.99,
+   "note_time": 34.71
+  },
+  {
+   "text": "when",
+   "time": 35.68,
+   "weight": 0.82,
+   "note_time": 35.06
+  },
+  {
+   "text": "he",
+   "time": 36.08,
+   "weight": 0.99,
+   "note_time": 35.41
+  },
+  {
+   "text": "feigned",
+   "time": 36.38,
+   "weight": 0.77,
+   "note_time": 35.93
+  },
+  {
+   "text": "mad",
+   "time": 36.92,
+   "weight": 0.99,
+   "note_time": 36.63
+  },
+  {
+   "text": "ness",
+   "time": 37.27,
+   "weight": 0.99,
+   "note_time": 39.77
+  },
+  {
+   "text": "Be",
+   "time": 39.96,
+   "weight": 0.9,
+   "note_time": 40.12
+  },
+  {
+   "text": "fore",
+   "time": 40.31,
+   "weight": 0.9,
+   "note_time": 40.29
+  },
+  {
+   "text": "A",
+   "time": 41.16,
+   "weight": 0.86,
+   "note_time": 40.47
+  },
+  {
+   "text": "bi",
+   "time": 41.46,
+   "weight": 0.86,
+   "note_time": 40.64
+  },
+  {
+   "text": "me",
+   "time": 41.76,
+   "weight": 0.86,
+   "note_time": 40.81
+  },
+  {
+   "text": "lech",
+   "time": 42.06,
+   "weight": 0.86,
+   "note_time": 40.99
+  },
+  {
+   "text": "who",
+   "time": 42.36,
+   "weight": 0.75,
+   "note_time": 41.51
+  },
+  {
+   "text": "drove",
+   "time": 42.78,
+   "weight": 1.0,
+   "note_time": 41.86
+  },
+  {
+   "text": "him",
+   "time": 43.1,
+   "weight": 0.99,
+   "note_time": 42.38
+  },
+  {
+   "text": "a",
+   "time": 43.72,
+   "weight": 1.0,
+   "note_time": 42.91
+  },
+  {
+   "text": "way",
+   "time": 44.07,
+   "weight": 1.0,
+   "note_time": 43.26
+  },
+  {
+   "text": "He",
+   "time": 45.92,
+   "weight": 0.98,
+   "note_time": 45.87
+  },
+  {
+   "text": "left",
+   "time": 47.12,
+   "weight": 1.0,
+   "note_time": 46.4
+  },
+  {
+   "text": "and",
+   "time": 47.4,
+   "weight": 1.0,
+   "note_time": 46.57
+  },
+  {
+   "text": "found",
+   "time": 47.62,
+   "weight": 1.0,
+   "note_time": 47.09
+  },
+  {
+   "text": "his",
+   "time": 48.04,
+   "weight": 0.95,
+   "note_time": 47.79
+  },
+  {
+   "text": "true",
+   "time": 48.48,
+   "weight": 1.0,
+   "note_time": 48.49
+  },
+  {
+   "text": "rest",
+   "time": 49.0,
+   "weight": 1.0,
+   "note_time": 48.66
+  },
+  {
+   "text": "I",
+   "time": 53.18,
+   "weight": 0.96,
+   "note_time": 53.02
+  },
+  {
+   "text": "will",
+   "time": 54.38,
+   "weight": 1.0,
+   "note_time": 53.72
+  },
+  {
+   "text": "bless",
+   "time": 55.0,
+   "weight": 1.0,
+   "note_time": 54.42
+  },
+  {
+   "text": "the",
+   "time": 55.78,
+   "weight": 1.0,
+   "note_time": 55.12
+  },
+  {
+   "text": "LORD",
+   "time": 56.36,
+   "weight": 0.97,
+   "note_time": 55.47
+  },
+  {
+   "text": "at",
+   "time": 56.84,
+   "weight": 1.0,
+   "note_time": 56.16
+  },
+  {
+   "text": "all",
+   "time": 57.44,
+   "weight": 1.0,
+   "note_time": 56.34
+  },
+  {
+   "text": "times",
+   "time": 57.74,
+   "weight": 1.0,
+   "note_time": 56.86
+  },
+  {
+   "text": "His",
+   "time": 58.46,
+   "weight": 0.62,
+   "note_time": 58.26
+  },
+  {
+   "text": "praise",
+   "time": 59.44,
+   "weight": 0.99,
+   "note_time": 58.6
+  },
+  {
+   "text": "will",
+   "time": 60.26,
+   "weight": 1.0,
+   "note_time": 59.3
+  },
+  {
+   "text": "al",
+   "time": 60.66,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "ways",
+   "time": 61.01,
+   "weight": 1.0,
+   "note_time": 60.35
+  },
+  {
+   "text": "be",
+   "time": 61.62,
+   "weight": 1.0,
+   "note_time": 61.05
+  },
+  {
+   "text": "on",
+   "time": 62.32,
+   "weight": 1.0,
+   "note_time": 61.74
+  },
+  {
+   "text": "my",
+   "time": 63.04,
+   "weight": 1.0,
+   "note_time": 62.09
+  },
+  {
+   "text": "lips",
+   "time": 63.36,
+   "weight": 1.0,
+   "note_time": 62.44
+  },
+  {
+   "text": "My",
+   "time": 63.98,
+   "weight": 0.3,
+   "note_time": 64.53
+  },
+  {
+   "text": "soul",
+   "time": 65.8,
+   "weight": 1.0,
+   "note_time": 65.06
+  },
+  {
+   "text": "boasts",
+   "time": 66.32,
+   "weight": 0.23,
+   "note_time": 65.58
+  },
+  {
+   "text": "in",
+   "time": 66.94,
+   "weight": 0.94,
+   "note_time": 66.1
+  },
+  {
+   "text": "the",
+   "time": 67.4,
+   "weight": 1.0,
+   "note_time": 66.63
+  },
+  {
+   "text": "LORD",
+   "time": 67.84,
+   "weight": 1.0,
+   "note_time": 66.8
+  },
+  {
+   "text": "Let",
+   "time": 69.46,
+   "weight": 0.94,
+   "note_time": 69.42
+  },
+  {
+   "text": "the",
+   "time": 70.62,
+   "weight": 1.0,
+   "note_time": 69.59
+  },
+  {
+   "text": "hum",
+   "time": 70.78,
+   "weight": 1.0,
+   "note_time": 69.77
+  },
+  {
+   "text": "ble",
+   "time": 71.12,
+   "weight": 1.0,
+   "note_time": 70.29
+  },
+  {
+   "text": "hear",
+   "time": 71.46,
+   "weight": 1.0,
+   "note_time": 70.81
+  },
+  {
+   "text": "and",
+   "time": 72.18,
+   "weight": 0.99,
+   "note_time": 71.86
+  },
+  {
+   "text": "re",
+   "time": 73.12,
+   "weight": 1.0,
+   "note_time": 72.21
+  },
+  {
+   "text": "joice",
+   "time": 73.38,
+   "weight": 1.0,
+   "note_time": 72.38
+  },
+  {
+   "text": "Mag",
+   "time": 76.16,
+   "weight": 0.99,
+   "note_time": 75.35
+  },
+  {
+   "text": "ni",
+   "time": 76.51,
+   "weight": 0.99,
+   "note_time": 75.87
+  },
+  {
+   "text": "fy",
+   "time": 76.86,
+   "weight": 0.99,
+   "note_time": 76.4
+  },
+  {
+   "text": "the",
+   "time": 77.56,
+   "weight": 1.0,
+   "note_time": 77.44
+  },
+  {
+   "text": "LORD",
+   "time": 78.7,
+   "weight": 1.0,
+   "note_time": 77.79
+  },
+  {
+   "text": "with",
+   "time": 79.12,
+   "weight": 1.0,
+   "note_time": 78.49
+  },
+  {
+   "text": "me",
+   "time": 79.86,
+   "weight": 1.0,
+   "note_time": 79.19
+  },
+  {
+   "text": "Let",
+   "time": 81.46,
+   "weight": 0.98,
+   "note_time": 80.93
+  },
+  {
+   "text": "us",
+   "time": 82.18,
+   "weight": 1.0,
+   "note_time": 81.63
+  },
+  {
+   "text": "ex",
+   "time": 82.62,
+   "weight": 0.99,
+   "note_time": 81.98
+  },
+  {
+   "text": "alt",
+   "time": 82.97,
+   "weight": 0.99,
+   "note_time": 82.67
+  },
+  {
+   "text": "his",
+   "time": 83.54,
+   "weight": 0.94,
+   "note_time": 83.37
+  },
+  {
+   "text": "name",
+   "time": 83.96,
+   "weight": 0.93,
+   "note_time": 84.42
+  },
+  {
+   "text": "to",
+   "time": 84.74,
+   "weight": 1.0,
+   "note_time": 84.77
+  },
+  {
+   "text": "geth",
+   "time": 85.09,
+   "weight": 1.0,
+   "note_time": 84.94
+  },
+  {
+   "text": "er",
+   "time": 85.44,
+   "weight": 1.0,
+   "note_time": 85.12
+  },
+  {
+   "text": "I",
+   "time": 85.94,
+   "weight": 0.22,
+   "note_time": 86.51
+  },
+  {
+   "text": "sought",
+   "time": 87.64,
+   "weight": 1.0,
+   "note_time": 87.03
+  },
+  {
+   "text": "the",
+   "time": 88.3,
+   "weight": 1.0,
+   "note_time": 87.56
+  },
+  {
+   "text": "LORD",
+   "time": 88.76,
+   "weight": 0.97,
+   "note_time": 87.91
+  },
+  {
+   "text": "and",
+   "time": 89.28,
+   "weight": 0.87,
+   "note_time": 88.43
+  },
+  {
+   "text": "he",
+   "time": 89.78,
+   "weight": 0.84,
+   "note_time": 88.95
+  },
+  {
+   "text": "an",
+   "time": 90.16,
+   "weight": 1.0,
+   "note_time": 89.3
+  },
+  {
+   "text": "swered",
+   "time": 90.51,
+   "weight": 1.0,
+   "note_time": 89.83
+  },
+  {
+   "text": "me",
+   "time": 91.0,
+   "weight": 1.0,
+   "note_time": 90.35
+  },
+  {
+   "text": "He",
+   "time": 91.6,
+   "weight": 0.77,
+   "note_time": 91.74
+  },
+  {
+   "text": "de",
+   "time": 92.84,
+   "weight": 1.0,
+   "note_time": 91.92
+  },
+  {
+   "text": "liv",
+   "time": 93.05,
+   "weight": 1.0,
+   "note_time": 92.09
+  },
+  {
+   "text": "ered",
+   "time": 93.25,
+   "weight": 1.0,
+   "note_time": 92.62
+  },
+  {
+   "text": "me",
+   "time": 93.46,
+   "weight": 1.0,
+   "note_time": 93.14
+  },
+  {
+   "text": "from",
+   "time": 94.42,
+   "weight": 0.31,
+   "note_time": 95.93
+  },
+  {
+   "text": "all",
+   "time": 96.98,
+   "weight": 1.0,
+   "note_time": 96.1
+  },
+  {
+   "text": "my",
+   "time": 97.52,
+   "weight": 0.99,
+   "note_time": 96.98
+  },
+  {
+   "text": "fears",
+   "time": 98.18,
+   "weight": 0.98,
+   "note_time": 97.33
+  },
+  {
+   "text": "Those",
+   "time": 123.74,
+   "weight": 0.15,
+   "note_time": 123.49
+  },
+  {
+   "text": "who",
+   "time": 124.62,
+   "weight": 0.99,
+   "note_time": 124.01
+  },
+  {
+   "text": "look",
+   "time": 125.06,
+   "weight": 0.99,
+   "note_time": 124.36
+  },
+  {
+   "text": "to",
+   "time": 125.36,
+   "weight": 1.0,
+   "note_time": 124.53
+  },
+  {
+   "text": "him",
+   "time": 125.56,
+   "weight": 0.87,
+   "note_time": 124.88
+  },
+  {
+   "text": "are",
+   "time": 125.84,
+   "weight": 0.98,
+   "note_time": 125.23
+  },
+  {
+   "text": "ra",
+   "time": 126.16,
+   "weight": 1.0,
+   "note_time": 125.76
+  },
+  {
+   "text": "diant",
+   "time": 126.51,
+   "weight": 1.0,
+   "note_time": 125.93
+  },
+  {
+   "text": "Their",
+   "time": 129.34,
+   "weight": 0.76,
+   "note_time": 129.07
+  },
+  {
+   "text": "fa",
+   "time": 130.22,
+   "weight": 1.0,
+   "note_time": 129.42
+  },
+  {
+   "text": "ces",
+   "time": 130.57,
+   "weight": 1.0,
+   "note_time": 130.12
+  },
+  {
+   "text": "will",
+   "time": 131.1,
+   "weight": 1.0,
+   "note_time": 130.81
+  },
+  {
+   "text": "ne",
+   "time": 132.02,
+   "weight": 1.0,
+   "note_time": 131.16
+  },
+  {
+   "text": "ver",
+   "time": 132.25,
+   "weight": 1.0,
+   "note_time": 131.34
+  },
+  {
+   "text": "be",
+   "time": 132.48,
+   "weight": 1.0,
+   "note_time": 131.69
+  },
+  {
+   "text": "as",
+   "time": 132.9,
+   "weight": 0.98,
+   "note_time": 132.21
+  },
+  {
+   "text": "hamed",
+   "time": 133.25,
+   "weight": 0.98,
+   "note_time": 132.56
+  },
+  {
+   "text": "I",
+   "time": 135.36,
+   "weight": 0.97,
+   "note_time": 135.0
+  },
+  {
+   "text": "will",
+   "time": 136.24,
+   "weight": 1.0,
+   "note_time": 135.35
+  },
+  {
+   "text": "bless",
+   "time": 136.4,
+   "weight": 1.0,
+   "note_time": 135.7
+  },
+  {
+   "text": "the",
+   "time": 136.78,
+   "weight": 1.0,
+   "note_time": 135.87
+  },
+  {
+   "text": "LORD",
+   "time": 136.9,
+   "weight": 0.99,
+   "note_time": 136.4
+  },
+  {
+   "text": "at",
+   "time": 137.26,
+   "weight": 1.0,
+   "note_time": 136.57
+  },
+  {
+   "text": "all",
+   "time": 137.7,
+   "weight": 1.0,
+   "note_time": 137.09
+  },
+  {
+   "text": "times",
+   "time": 137.96,
+   "weight": 1.0,
+   "note_time": 137.27
+  },
+  {
+   "text": "His",
+   "time": 141.78,
+   "weight": 0.69,
+   "note_time": 141.98
+  },
+  {
+   "text": "praise",
+   "time": 143.12,
+   "weight": 0.99,
+   "note_time": 142.33
+  },
+  {
+   "text": "will",
+   "time": 143.9,
+   "weight": 1.0,
+   "note_time": 143.02
+  },
+  {
+   "text": "al",
+   "time": 144.38,
+   "weight": 1.0,
+   "note_time": 143.72
+  },
+  {
+   "text": "ways",
+   "time": 144.73,
+   "weight": 1.0,
+   "note_time": 144.42
+  },
+  {
+   "text": "be",
+   "time": 145.42,
+   "weight": 1.0,
+   "note_time": 144.77
+  },
+  {
+   "text": "on",
+   "time": 146.08,
+   "weight": 1.0,
+   "note_time": 145.47
+  },
+  {
+   "text": "my",
+   "time": 146.72,
+   "weight": 1.0,
+   "note_time": 145.64
+  },
+  {
+   "text": "lips",
+   "time": 146.96,
+   "weight": 1.0,
+   "note_time": 146.16
+  },
+  {
+   "text": "Mag",
+   "time": 147.7,
+   "weight": 0.36,
+   "note_time": 147.91
+  },
+  {
+   "text": "ni",
+   "time": 148.05,
+   "weight": 0.36,
+   "note_time": 148.43
+  },
+  {
+   "text": "fy",
+   "time": 148.4,
+   "weight": 0.36,
+   "note_time": 148.95
+  },
+  {
+   "text": "the",
+   "time": 150.14,
+   "weight": 1.0,
+   "note_time": 150.0
+  },
+  {
+   "text": "LORD",
+   "time": 151.24,
+   "weight": 1.0,
+   "note_time": 150.35
+  },
+  {
+   "text": "with",
+   "time": 151.66,
+   "weight": 1.0,
+   "note_time": 151.05
+  },
+  {
+   "text": "me",
+   "time": 152.34,
+   "weight": 1.0,
+   "note_time": 151.74
+  },
+  {
+   "text": "Let",
+   "time": 152.98,
+   "weight": 0.39,
+   "note_time": 153.49
+  },
+  {
+   "text": "us",
+   "time": 154.7,
+   "weight": 1.0,
+   "note_time": 154.19
+  },
+  {
+   "text": "ex",
+   "time": 155.16,
+   "weight": 1.0,
+   "note_time": 154.53
+  },
+  {
+   "text": "alt",
+   "time": 155.51,
+   "weight": 1.0,
+   "note_time": 155.23
+  },
+  {
+   "text": "his",
+   "time": 156.12,
+   "weight": 0.93,
+   "note_time": 155.93
+  },
+  {
+   "text": "name",
+   "time": 156.48,
+   "weight": 0.98,
+   "note_time": 156.98
+  },
+  {
+   "text": "to",
+   "time": 157.3,
+   "weight": 1.0,
+   "note_time": 157.33
+  },
+  {
+   "text": "geth",
+   "time": 157.63,
+   "weight": 1.0,
+   "note_time": 157.5
+  },
+  {
+   "text": "er",
+   "time": 157.97,
+   "weight": 1.0,
+   "note_time": 157.67
+  },
+  {
+   "text": "I",
+   "time": 159.06,
+   "weight": 1.0,
+   "note_time": 159.07
+  },
+  {
+   "text": "sought",
+   "time": 160.24,
+   "weight": 1.0,
+   "note_time": 159.59
+  },
+  {
+   "text": "the",
+   "time": 160.82,
+   "weight": 1.0,
+   "note_time": 160.12
+  },
+  {
+   "text": "LORD",
+   "time": 161.32,
+   "weight": 1.0,
+   "note_time": 160.47
+  },
+  {
+   "text": "and",
+   "time": 161.82,
+   "weight": 0.98,
+   "note_time": 160.99
+  },
+  {
+   "text": "he",
+   "time": 162.34,
+   "weight": 1.0,
+   "note_time": 161.51
+  },
+  {
+   "text": "an",
+   "time": 162.74,
+   "weight": 1.0,
+   "note_time": 161.86
+  },
+  {
+   "text": "swered",
+   "time": 163.09,
+   "weight": 1.0,
+   "note_time": 162.38
+  },
+  {
+   "text": "me",
+   "time": 163.62,
+   "weight": 1.0,
+   "note_time": 162.91
+  },
+  {
+   "text": "He",
+   "time": 164.18,
+   "weight": 0.98,
+   "note_time": 164.3
+  },
+  {
+   "text": "de",
+   "time": 165.46,
+   "weight": 1.0,
+   "note_time": 164.48
+  },
+  {
+   "text": "liv",
+   "time": 165.67,
+   "weight": 1.0,
+   "note_time": 164.65
+  },
+  {
+   "text": "ered",
+   "time": 165.87,
+   "weight": 1.0,
+   "note_time": 165.17
+  },
+  {
+   "text": "me",
+   "time": 166.08,
+   "weight": 1.0,
+   "note_time": 165.7
+  },
+  {
+   "text": "from",
+   "time": 166.98,
+   "weight": 0.06,
+   "note_time": 168.66
+  },
+  {
+   "text": "all",
+   "time": 168.78,
+   "weight": 0.99,
+   "note_time": 169.19
+  },
+  {
+   "text": "my",
+   "time": 170.12,
+   "weight": 0.92,
+   "note_time": 169.53
+  },
+  {
+   "text": "fears",
+   "time": 170.72,
+   "weight": 0.97,
+   "note_time": 169.88
+  },
+  {
+   "text": "His",
+   "time": 191.18,
+   "weight": 0.8,
+   "note_time": 192.56
+  },
+  {
+   "text": "praise",
+   "time": 192.58,
+   "weight": 0.99,
+   "note_time": 193.26
+  },
+  {
+   "text": "will",
+   "time": 193.98,
+   "weight": 1.0,
+   "note_time": 193.95
+  },
+  {
+   "text": "al",
+   "time": 194.58,
+   "weight": 1.0,
+   "note_time": 194.65
+  },
+  {
+   "text": "ways",
+   "time": 194.93,
+   "weight": 1.0,
+   "note_time": 195.0
+  },
+  {
+   "text": "be",
+   "time": 195.64,
+   "weight": 1.0,
+   "note_time": 195.35
+  },
+  {
+   "text": "on",
+   "time": 196.35,
+   "weight": 0.0,
+   "note_time": 195.7
+  },
+  {
+   "text": "my",
+   "time": 197.06,
+   "weight": 0.17,
+   "note_time": 195.87
+  },
+  {
+   "text": "lips",
+   "time": 197.06,
+   "weight": 0.99,
+   "note_time": 196.4
+  },
+  {
+   "text": "Mag",
+   "time": 197.86,
+   "weight": 0.4,
+   "note_time": 198.14
+  },
+  {
+   "text": "ni",
+   "time": 198.21,
+   "weight": 0.4,
+   "note_time": 198.66
+  },
+  {
+   "text": "fy",
+   "time": 198.56,
+   "weight": 0.4,
+   "note_time": 199.19
+  },
+  {
+   "text": "the",
+   "time": 200.4,
+   "weight": 0.99,
+   "note_time": 200.23
+  },
+  {
+   "text": "LORD",
+   "time": 201.44,
+   "weight": 0.98,
+   "note_time": 200.58
+  },
+  {
+   "text": "with",
+   "time": 202.0,
+   "weight": 0.4,
+   "note_time": 202.33
+  },
+  {
+   "text": "me",
+   "time": 203.64,
+   "weight": 1.0,
+   "note_time": 203.37
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "20 of 21 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

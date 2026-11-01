@@ -1,0 +1,1298 @@
+{
+ "id": "story-jesus-stiller-stormen-bluegrass",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-jesus-stiller-stormen-bluegrass",
+ "offset_seconds": -1.9800000000002136,
+ "words_heard": 155,
+ "words": 156,
+ "lines": [
+  {
+   "text": "The wind came howling off the hills",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The waves broke over the side",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The boat was filling fast with water",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the fishermen cried",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But Jesus slept down in the stern",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His head upon a pillow",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Teacher, don't you care at all",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We're going down below",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Quiet, be still, he said to the sea",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the wind lay down at his feet",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who is this man, who can this be",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Even the wind and the waves obey",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He rose and spoke into the gale",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And all the storm was gone",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The water lay as smooth as glass",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Beneath the morning sun",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Why are you so afraid, he said",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do you still have no faith",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They trembled in the quiet boat",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And looked into his face",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Quiet, be still, he said to the sea",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the wind lay down at his feet",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who is this man, who can this be",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Even the wind and the waves obey",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 32.0,
+   "weight": 0.59,
+   "note_time": 31.78
+  },
+  {
+   "text": "wind",
+   "time": 32.88,
+   "weight": 0.98,
+   "note_time": 32.0
+  },
+  {
+   "text": "came",
+   "time": 33.22,
+   "weight": 1.0,
+   "note_time": 32.44
+  },
+  {
+   "text": "howl",
+   "time": 33.66,
+   "weight": 0.98,
+   "note_time": 32.89
+  },
+  {
+   "text": "ing",
+   "time": 33.95,
+   "weight": 0.98,
+   "note_time": 33.11
+  },
+  {
+   "text": "off",
+   "time": 34.24,
+   "weight": 0.99,
+   "note_time": 33.33
+  },
+  {
+   "text": "the",
+   "time": 34.56,
+   "weight": 1.0,
+   "note_time": 33.56
+  },
+  {
+   "text": "hills",
+   "time": 34.68,
+   "weight": 1.0,
+   "note_time": 33.67
+  },
+  {
+   "text": "The",
+   "time": 35.0,
+   "weight": 0.37,
+   "note_time": 35.33
+  },
+  {
+   "text": "waves",
+   "time": 36.18,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "broke",
+   "time": 36.84,
+   "weight": 1.0,
+   "note_time": 36.44
+  },
+  {
+   "text": "o",
+   "time": 37.12,
+   "weight": 1.0,
+   "note_time": 36.67
+  },
+  {
+   "text": "ver",
+   "time": 37.47,
+   "weight": 1.0,
+   "note_time": 36.89
+  },
+  {
+   "text": "the",
+   "time": 37.92,
+   "weight": 1.0,
+   "note_time": 37.11
+  },
+  {
+   "text": "side",
+   "time": 38.2,
+   "weight": 0.77,
+   "note_time": 37.33
+  },
+  {
+   "text": "The",
+   "time": 38.64,
+   "weight": 0.99,
+   "note_time": 38.89
+  },
+  {
+   "text": "boat",
+   "time": 40.02,
+   "weight": 1.0,
+   "note_time": 39.56
+  },
+  {
+   "text": "was",
+   "time": 40.32,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "fill",
+   "time": 40.84,
+   "weight": 0.94,
+   "note_time": 40.22
+  },
+  {
+   "text": "ing",
+   "time": 41.03,
+   "weight": 0.94,
+   "note_time": 40.44
+  },
+  {
+   "text": "fast",
+   "time": 41.22,
+   "weight": 1.0,
+   "note_time": 40.67
+  },
+  {
+   "text": "with",
+   "time": 41.58,
+   "weight": 1.0,
+   "note_time": 40.89
+  },
+  {
+   "text": "wa",
+   "time": 41.84,
+   "weight": 1.0,
+   "note_time": 41.11
+  },
+  {
+   "text": "ter",
+   "time": 42.14,
+   "weight": 1.0,
+   "note_time": 41.33
+  },
+  {
+   "text": "And",
+   "time": 42.44,
+   "weight": 0.96,
+   "note_time": 42.44
+  },
+  {
+   "text": "the",
+   "time": 43.62,
+   "weight": 1.0,
+   "note_time": 43.11
+  },
+  {
+   "text": "fish",
+   "time": 43.76,
+   "weight": 0.71,
+   "note_time": 43.56
+  },
+  {
+   "text": "er",
+   "time": 44.07,
+   "weight": 0.71,
+   "note_time": 43.78
+  },
+  {
+   "text": "men",
+   "time": 44.37,
+   "weight": 0.71,
+   "note_time": 44.0
+  },
+  {
+   "text": "cried",
+   "time": 44.68,
+   "weight": 1.0,
+   "note_time": 44.22
+  },
+  {
+   "text": "But",
+   "time": 45.64,
+   "weight": 0.38,
+   "note_time": 46.0
+  },
+  {
+   "text": "Je",
+   "time": 47.16,
+   "weight": 1.0,
+   "note_time": 46.22
+  },
+  {
+   "text": "sus",
+   "time": 47.37,
+   "weight": 1.0,
+   "note_time": 46.67
+  },
+  {
+   "text": "slept",
+   "time": 47.58,
+   "weight": 0.99,
+   "note_time": 47.11
+  },
+  {
+   "text": "down",
+   "time": 48.2,
+   "weight": 1.0,
+   "note_time": 47.33
+  },
+  {
+   "text": "in",
+   "time": 48.52,
+   "weight": 0.98,
+   "note_time": 47.56
+  },
+  {
+   "text": "the",
+   "time": 48.7,
+   "weight": 0.99,
+   "note_time": 47.78
+  },
+  {
+   "text": "stern",
+   "time": 48.86,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "His",
+   "time": 49.28,
+   "weight": 0.98,
+   "note_time": 49.56
+  },
+  {
+   "text": "head",
+   "time": 50.7,
+   "weight": 1.0,
+   "note_time": 50.67
+  },
+  {
+   "text": "up",
+   "time": 51.0,
+   "weight": 0.99,
+   "note_time": 50.89
+  },
+  {
+   "text": "on",
+   "time": 51.35,
+   "weight": 0.99,
+   "note_time": 51.11
+  },
+  {
+   "text": "a",
+   "time": 51.7,
+   "weight": 0.99,
+   "note_time": 51.56
+  },
+  {
+   "text": "pil",
+   "time": 52.26,
+   "weight": 1.0,
+   "note_time": 52.22
+  },
+  {
+   "text": "low",
+   "time": 52.61,
+   "weight": 1.0,
+   "note_time": 52.56
+  },
+  {
+   "text": "Teach",
+   "time": 53.14,
+   "weight": 0.92,
+   "note_time": 53.33
+  },
+  {
+   "text": "er,",
+   "time": 53.49,
+   "weight": 0.92,
+   "note_time": 53.78
+  },
+  {
+   "text": "don't",
+   "time": 54.64,
+   "weight": 1.0,
+   "note_time": 54.67
+  },
+  {
+   "text": "you",
+   "time": 55.52,
+   "weight": 1.0,
+   "note_time": 54.89
+  },
+  {
+   "text": "care",
+   "time": 55.54,
+   "weight": 1.0,
+   "note_time": 55.11
+  },
+  {
+   "text": "at",
+   "time": 55.86,
+   "weight": 1.0,
+   "note_time": 55.56
+  },
+  {
+   "text": "all",
+   "time": 56.12,
+   "weight": 1.0,
+   "note_time": 55.67
+  },
+  {
+   "text": "We're",
+   "time": 56.58,
+   "weight": 0.83,
+   "note_time": 56.67
+  },
+  {
+   "text": "go",
+   "time": 57.84,
+   "weight": 0.99,
+   "note_time": 57.56
+  },
+  {
+   "text": "ing",
+   "time": 58.03,
+   "weight": 0.99,
+   "note_time": 57.78
+  },
+  {
+   "text": "down",
+   "time": 58.22,
+   "weight": 1.0,
+   "note_time": 58.22
+  },
+  {
+   "text": "be",
+   "time": 58.92,
+   "weight": 1.0,
+   "note_time": 58.44
+  },
+  {
+   "text": "low",
+   "time": 59.22,
+   "weight": 1.0,
+   "note_time": 58.67
+  },
+  {
+   "text": "Qui",
+   "time": 60.32,
+   "weight": 0.28,
+   "note_time": 59.78
+  },
+  {
+   "text": "et,",
+   "time": 60.66,
+   "weight": 0.28,
+   "note_time": 60.22
+  },
+  {
+   "text": "be",
+   "time": 61.0,
+   "weight": 0.67,
+   "note_time": 60.44
+  },
+  {
+   "text": "still,",
+   "time": 61.32,
+   "weight": 1.0,
+   "note_time": 61.33
+  },
+  {
+   "text": "he",
+   "time": 61.88,
+   "weight": 0.89,
+   "note_time": 61.67
+  },
+  {
+   "text": "said",
+   "time": 62.22,
+   "weight": 1.0,
+   "note_time": 62.0
+  },
+  {
+   "text": "to",
+   "time": 62.52,
+   "weight": 0.99,
+   "note_time": 62.22
+  },
+  {
+   "text": "the",
+   "time": 62.78,
+   "weight": 1.0,
+   "note_time": 62.67
+  },
+  {
+   "text": "sea",
+   "time": 63.1,
+   "weight": 0.99,
+   "note_time": 62.78
+  },
+  {
+   "text": "And",
+   "time": 63.46,
+   "weight": 0.75,
+   "note_time": 63.56
+  },
+  {
+   "text": "the",
+   "time": 64.4,
+   "weight": 1.0,
+   "note_time": 64.0
+  },
+  {
+   "text": "wind",
+   "time": 64.88,
+   "weight": 1.0,
+   "note_time": 64.44
+  },
+  {
+   "text": "lay",
+   "time": 65.22,
+   "weight": 0.72,
+   "note_time": 64.89
+  },
+  {
+   "text": "down",
+   "time": 65.54,
+   "weight": 1.0,
+   "note_time": 65.11
+  },
+  {
+   "text": "at",
+   "time": 66.22,
+   "weight": 0.98,
+   "note_time": 65.33
+  },
+  {
+   "text": "his",
+   "time": 66.48,
+   "weight": 1.0,
+   "note_time": 65.44
+  },
+  {
+   "text": "feet",
+   "time": 66.72,
+   "weight": 1.0,
+   "note_time": 65.78
+  },
+  {
+   "text": "Who",
+   "time": 67.02,
+   "weight": 0.99,
+   "note_time": 66.89
+  },
+  {
+   "text": "is",
+   "time": 68.04,
+   "weight": 1.0,
+   "note_time": 67.33
+  },
+  {
+   "text": "this",
+   "time": 68.2,
+   "weight": 1.0,
+   "note_time": 67.56
+  },
+  {
+   "text": "man,",
+   "time": 68.44,
+   "weight": 1.0,
+   "note_time": 68.78
+  },
+  {
+   "text": "who",
+   "time": 69.02,
+   "weight": 0.99,
+   "note_time": 69.11
+  },
+  {
+   "text": "can",
+   "time": 69.54,
+   "weight": 1.0,
+   "note_time": 69.33
+  },
+  {
+   "text": "this",
+   "time": 69.9,
+   "weight": 1.0,
+   "note_time": 69.78
+  },
+  {
+   "text": "be",
+   "time": 70.26,
+   "weight": 1.0,
+   "note_time": 69.89
+  },
+  {
+   "text": "E",
+   "time": 71.04,
+   "weight": 1.0,
+   "note_time": 70.44
+  },
+  {
+   "text": "ven",
+   "time": 71.38,
+   "weight": 1.0,
+   "note_time": 70.89
+  },
+  {
+   "text": "the",
+   "time": 71.72,
+   "weight": 1.0,
+   "note_time": 71.11
+  },
+  {
+   "text": "wind",
+   "time": 71.98,
+   "weight": 1.0,
+   "note_time": 71.56
+  },
+  {
+   "text": "and",
+   "time": 72.36,
+   "weight": 1.0,
+   "note_time": 71.78
+  },
+  {
+   "text": "the",
+   "time": 72.74,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "waves",
+   "time": 72.9,
+   "weight": 1.0,
+   "note_time": 72.44
+  },
+  {
+   "text": "o",
+   "time": 73.3,
+   "weight": 1.0,
+   "note_time": 72.67
+  },
+  {
+   "text": "bey",
+   "time": 73.61,
+   "weight": 1.0,
+   "note_time": 72.89
+  },
+  {
+   "text": "He",
+   "time": 116.36,
+   "weight": 0.69,
+   "note_time": 116.22
+  },
+  {
+   "text": "rose",
+   "time": 117.24,
+   "weight": 0.98,
+   "note_time": 116.44
+  },
+  {
+   "text": "and",
+   "time": 117.6,
+   "weight": 0.99,
+   "note_time": 116.89
+  },
+  {
+   "text": "spoke",
+   "time": 118.04,
+   "weight": 0.98,
+   "note_time": 117.33
+  },
+  {
+   "text": "in",
+   "time": 118.46,
+   "weight": 0.93,
+   "note_time": 117.56
+  },
+  {
+   "text": "to",
+   "time": 118.62,
+   "weight": 0.93,
+   "note_time": 117.78
+  },
+  {
+   "text": "the",
+   "time": 118.78,
+   "weight": 1.0,
+   "note_time": 118.0
+  },
+  {
+   "text": "gale",
+   "time": 119.12,
+   "weight": 0.52,
+   "note_time": 118.22
+  },
+  {
+   "text": "And",
+   "time": 119.44,
+   "weight": 0.53,
+   "note_time": 119.78
+  },
+  {
+   "text": "all",
+   "time": 120.6,
+   "weight": 1.0,
+   "note_time": 120.44
+  },
+  {
+   "text": "the",
+   "time": 121.22,
+   "weight": 1.0,
+   "note_time": 120.89
+  },
+  {
+   "text": "storm",
+   "time": 121.56,
+   "weight": 1.0,
+   "note_time": 121.11
+  },
+  {
+   "text": "was",
+   "time": 122.08,
+   "weight": 1.0,
+   "note_time": 121.33
+  },
+  {
+   "text": "gone",
+   "time": 122.52,
+   "weight": 1.0,
+   "note_time": 121.78
+  },
+  {
+   "text": "The",
+   "time": 123.02,
+   "weight": 0.96,
+   "note_time": 123.33
+  },
+  {
+   "text": "wa",
+   "time": 124.48,
+   "weight": 1.0,
+   "note_time": 124.44
+  },
+  {
+   "text": "ter",
+   "time": 124.7,
+   "weight": 1.0,
+   "note_time": 124.67
+  },
+  {
+   "text": "lay",
+   "time": 124.92,
+   "weight": 0.99,
+   "note_time": 124.89
+  },
+  {
+   "text": "as",
+   "time": 125.56,
+   "weight": 0.98,
+   "note_time": 125.11
+  },
+  {
+   "text": "smooth",
+   "time": 125.8,
+   "weight": 1.0,
+   "note_time": 125.33
+  },
+  {
+   "text": "as",
+   "time": 126.04,
+   "weight": 1.0,
+   "note_time": 125.78
+  },
+  {
+   "text": "glass",
+   "time": 126.3,
+   "weight": 1.0,
+   "note_time": 125.89
+  },
+  {
+   "text": "Be",
+   "time": 126.98,
+   "weight": 0.5,
+   "note_time": 126.89
+  },
+  {
+   "text": "neath",
+   "time": 127.33,
+   "weight": 0.5,
+   "note_time": 127.11
+  },
+  {
+   "text": "the",
+   "time": 128.42,
+   "weight": 0.99,
+   "note_time": 127.56
+  },
+  {
+   "text": "morn",
+   "time": 128.7,
+   "weight": 0.89,
+   "note_time": 127.78
+  },
+  {
+   "text": "ing",
+   "time": 129.03,
+   "weight": 0.89,
+   "note_time": 128.0
+  },
+  {
+   "text": "sun",
+   "time": 129.36,
+   "weight": 0.96,
+   "note_time": 128.44
+  },
+  {
+   "text": "Why",
+   "time": 130.9,
+   "weight": 0.69,
+   "note_time": 130.67
+  },
+  {
+   "text": "are",
+   "time": 131.74,
+   "weight": 1.0,
+   "note_time": 131.78
+  },
+  {
+   "text": "you",
+   "time": 132.2,
+   "weight": 0.99,
+   "note_time": 132.0
+  },
+  {
+   "text": "so",
+   "time": 132.66,
+   "weight": 1.0,
+   "note_time": 132.22
+  },
+  {
+   "text": "af",
+   "time": 133.08,
+   "weight": 1.0,
+   "note_time": 132.44
+  },
+  {
+   "text": "raid,",
+   "time": 133.36,
+   "weight": 1.0,
+   "note_time": 133.11
+  },
+  {
+   "text": "he",
+   "time": 133.88,
+   "weight": 0.95,
+   "note_time": 133.56
+  },
+  {
+   "text": "said",
+   "time": 134.26,
+   "weight": 1.0,
+   "note_time": 133.78
+  },
+  {
+   "text": "Do",
+   "time": 134.68,
+   "weight": 0.62,
+   "note_time": 134.22
+  },
+  {
+   "text": "you",
+   "time": 135.3,
+   "weight": 1.0,
+   "note_time": 135.33
+  },
+  {
+   "text": "still",
+   "time": 135.78,
+   "weight": 1.0,
+   "note_time": 135.78
+  },
+  {
+   "text": "have",
+   "time": 136.22,
+   "weight": 1.0,
+   "note_time": 136.0
+  },
+  {
+   "text": "no",
+   "time": 136.7,
+   "weight": 0.99,
+   "note_time": 136.67
+  },
+  {
+   "text": "faith",
+   "time": 137.14,
+   "weight": 1.0,
+   "note_time": 137.0
+  },
+  {
+   "text": "They",
+   "time": 138.36,
+   "weight": 0.77,
+   "note_time": 138.22
+  },
+  {
+   "text": "trem",
+   "time": 138.64,
+   "weight": 1.0,
+   "note_time": 138.67
+  },
+  {
+   "text": "bled",
+   "time": 138.99,
+   "weight": 1.0,
+   "note_time": 138.89
+  },
+  {
+   "text": "in",
+   "time": 139.5,
+   "weight": 0.99,
+   "note_time": 139.11
+  },
+  {
+   "text": "the",
+   "time": 139.84,
+   "weight": 0.99,
+   "note_time": 139.33
+  },
+  {
+   "text": "qui",
+   "time": 139.96,
+   "weight": 1.0,
+   "note_time": 139.56
+  },
+  {
+   "text": "et",
+   "time": 140.14,
+   "weight": 1.0,
+   "note_time": 140.0
+  },
+  {
+   "text": "boat",
+   "time": 140.32,
+   "weight": 0.54,
+   "note_time": 140.11
+  },
+  {
+   "text": "And",
+   "time": 140.74,
+   "weight": 0.97,
+   "note_time": 141.11
+  },
+  {
+   "text": "looked",
+   "time": 142.06,
+   "weight": 1.0,
+   "note_time": 142.0
+  },
+  {
+   "text": "in",
+   "time": 142.56,
+   "weight": 1.0,
+   "note_time": 142.22
+  },
+  {
+   "text": "to",
+   "time": 142.83,
+   "weight": 1.0,
+   "note_time": 142.67
+  },
+  {
+   "text": "his",
+   "time": 143.1,
+   "weight": 0.81,
+   "note_time": 142.89
+  },
+  {
+   "text": "face",
+   "time": 143.82,
+   "weight": 1.0,
+   "note_time": 143.11
+  },
+  {
+   "text": "Qui",
+   "time": 145.08,
+   "weight": 0.91,
+   "note_time": 144.22
+  },
+  {
+   "text": "et,",
+   "time": 145.29,
+   "weight": 0.91,
+   "note_time": 144.67
+  },
+  {
+   "text": "be",
+   "time": 145.5,
+   "weight": 0.36,
+   "note_time": 144.89
+  },
+  {
+   "text": "still,",
+   "time": 145.72,
+   "weight": 1.0,
+   "note_time": 145.78
+  },
+  {
+   "text": "he",
+   "time": 146.22,
+   "weight": 0.96,
+   "note_time": 146.11
+  },
+  {
+   "text": "said",
+   "time": 146.62,
+   "weight": 1.0,
+   "note_time": 146.44
+  },
+  {
+   "text": "to",
+   "time": 146.94,
+   "weight": 0.97,
+   "note_time": 146.67
+  },
+  {
+   "text": "the",
+   "time": 147.2,
+   "weight": 1.0,
+   "note_time": 147.11
+  },
+  {
+   "text": "sea",
+   "time": 147.54,
+   "weight": 1.0,
+   "note_time": 147.22
+  },
+  {
+   "text": "And",
+   "time": 148.42,
+   "weight": 0.99,
+   "note_time": 148.0
+  },
+  {
+   "text": "the",
+   "time": 149.16,
+   "weight": 1.0,
+   "note_time": 148.44
+  },
+  {
+   "text": "wind",
+   "time": 149.3,
+   "weight": 1.0,
+   "note_time": 148.89
+  },
+  {
+   "text": "lay",
+   "time": 149.68,
+   "weight": 0.0,
+   "note_time": 149.33
+  },
+  {
+   "text": "down",
+   "time": 150.06,
+   "weight": 1.0,
+   "note_time": 149.56
+  },
+  {
+   "text": "at",
+   "time": 150.64,
+   "weight": 1.0,
+   "note_time": 149.78
+  },
+  {
+   "text": "his",
+   "time": 150.88,
+   "weight": 1.0,
+   "note_time": 149.89
+  },
+  {
+   "text": "feet",
+   "time": 151.12,
+   "weight": 1.0,
+   "note_time": 150.22
+  },
+  {
+   "text": "Who",
+   "time": 151.44,
+   "weight": 1.0,
+   "note_time": 151.33
+  },
+  {
+   "text": "is",
+   "time": 152.48,
+   "weight": 1.0,
+   "note_time": 151.78
+  },
+  {
+   "text": "this",
+   "time": 152.64,
+   "weight": 1.0,
+   "note_time": 152.0
+  },
+  {
+   "text": "man,",
+   "time": 152.84,
+   "weight": 1.0,
+   "note_time": 153.22
+  },
+  {
+   "text": "who",
+   "time": 153.36,
+   "weight": 1.0,
+   "note_time": 153.56
+  },
+  {
+   "text": "can",
+   "time": 153.98,
+   "weight": 1.0,
+   "note_time": 153.78
+  },
+  {
+   "text": "this",
+   "time": 154.34,
+   "weight": 0.98,
+   "note_time": 154.22
+  },
+  {
+   "text": "be",
+   "time": 154.68,
+   "weight": 1.0,
+   "note_time": 154.33
+  },
+  {
+   "text": "E",
+   "time": 154.9,
+   "weight": 0.96,
+   "note_time": 154.89
+  },
+  {
+   "text": "ven",
+   "time": 155.25,
+   "weight": 0.96,
+   "note_time": 155.33
+  },
+  {
+   "text": "the",
+   "time": 156.14,
+   "weight": 0.99,
+   "note_time": 155.56
+  },
+  {
+   "text": "wind",
+   "time": 156.4,
+   "weight": 0.99,
+   "note_time": 156.0
+  },
+  {
+   "text": "and",
+   "time": 156.78,
+   "weight": 0.99,
+   "note_time": 156.22
+  },
+  {
+   "text": "the",
+   "time": 157.14,
+   "weight": 1.0,
+   "note_time": 156.44
+  },
+  {
+   "text": "waves",
+   "time": 157.34,
+   "weight": 1.0,
+   "note_time": 156.89
+  },
+  {
+   "text": "o",
+   "time": 157.8,
+   "weight": 0.94,
+   "note_time": 157.11
+  },
+  {
+   "text": "bey",
+   "time": 158.02,
+   "weight": 0.94,
+   "note_time": 157.33
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 24 lyric lines sit on their notes."
+}

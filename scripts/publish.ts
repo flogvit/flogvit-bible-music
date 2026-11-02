@@ -6,7 +6,12 @@
  *   bun scripts/publish.ts --out site/music    # to a local folder, for any static web host
  *   bun scripts/publish.ts --dry-run           # say what would change, change nothing
  *
- * Options: --library <dir> (default library), --collection <name> (default bible).
+ * Options: --library <dir> (default library), --collection <name> (default bible), --take-down <id,...> (take
+ * these songs out of every machine's list and delete their public files).
+ *
+ * Only songs sung in English are published (README, Catalog). A song that leaves this machine's list (taken out
+ * of library/, or not English) and is in no other machine's list has its public files deleted, so it is gone from
+ * index.json and from media.flogvit.com.
  *
  * S3 settings come from the environment (bun reads .env): S3_ENDPOINT, S3_REGION, S3_BUCKET, S3_ACCESS_KEY,
  * S3_SECRET_KEY, and MEDIA_PREFIX (default "system/music/"), the key prefix the public music tree lives under.
@@ -15,11 +20,12 @@
  */
 import { S3Client } from "bun";
 import { createHash } from "node:crypto";
-import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync, existsSync } from "node:fs";
+import { mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync, existsSync } from "node:fs";
 import { hostname } from "node:os";
 import { dirname, join } from "node:path";
 import { parseArgs } from "node:util";
 import { buildIndex, LEGACY_SOURCE, mergeSources, type MusicIndex, type Scene, type Song, type Source } from "../lib/music";
+import { notEnglish } from "./lyrics-language";
 
 const { values: opt } = parseArgs({
   options: {
@@ -27,6 +33,7 @@ const { values: opt } = parseArgs({
     collection: { type: "string", default: "bible" },
     out: { type: "string" },
     "dry-run": { type: "boolean", default: false },
+    "take-down": { type: "string" },
   },
 });
 const collection = opt.collection!;
@@ -50,6 +57,7 @@ interface Sink {
   collections(): Promise<string[]>;
   /** The files directly under a folder, with a tag that changes whenever a file's content does. */
   list(folder: string): Promise<{ name: string; tag: string }[]>;
+  remove(key: string): Promise<void>;
 }
 
 const md5 = (b: Uint8Array) => createHash("md5").update(b).digest("hex");
@@ -92,6 +100,9 @@ function s3Sink(): Sink {
       const list = await client.list({ prefix: `${prefix}${folder}/`, delimiter: "/" });
       return (list.contents ?? []).map((c) => ({ name: c.key.slice(prefix.length + folder.length + 1), tag: String(c.eTag ?? c.lastModified) }));
     },
+    async remove(key) {
+      if (!opt["dry-run"]) await client.file(prefix + key).delete();
+    },
   };
 }
 
@@ -122,6 +133,9 @@ function dirSink(root: string): Sink {
       if (!existsSync(path)) return [];
       return readdirSync(path, { withFileTypes: true }).filter((d) => d.isFile())
         .map((d) => ({ name: d.name, tag: md5(readFileSync(join(path, d.name))) }));
+    },
+    async remove(key) {
+      if (!opt["dry-run"]) rmSync(join(root, key), { force: true });
     },
   };
 }
@@ -156,6 +170,11 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   const folder = join(opt.library!, dir);
   if (!existsSync(join(folder, "info.json")) || !existsSync(join(folder, "audio.mp3"))) continue;
   const info = JSON.parse(readFileSync(join(folder, "info.json"), "utf8"));
+  const foreign = info.language && info.language !== "en" ? `sung in ${info.language}` : notEnglish(info.lyrics?.text ?? "");
+  if (foreign) {
+    console.log(`not published, not English: ${info.id} (${foreign})`);
+    continue;
+  }
   const base = `${collection}/${info.id}`;
   const { published } = await dated({ id: info.id, collection, files: { mp3: `${base}/audio.mp3` } } as Song);
   const files = { info: `${base}/info.json` } as Song["files"];
@@ -212,6 +231,30 @@ if (!(await sink.list(sources)).length && !opt["dry-run"]) {
   const before = await sink.read(`${collection}/songs.json`);
   if (before) await sink.put(`${sources}/${LEGACY_SOURCE}.json`, json(JSON.parse(before)), "application/json");
 }
+/** Deletes a song's public files (the FLAC master stays in cold storage). */
+async function takeDownFiles(id: string) {
+  for (const f of await sink.list(`${collection}/${id}`)) await sink.remove(`${collection}/${id}/${f.name}`);
+  for (const f of await sink.list(`${collection}/${id}/scenes`)) await sink.remove(`${collection}/${id}/scenes/${f.name}`);
+  console.log(`taken down: ${id}`);
+  written++;
+}
+const lists = new Map<string, Song[]>();
+for (const f of (await sink.list(sources)).filter((f) => f.name.endsWith(".json"))) {
+  lists.set(f.name.replace(/\.json$/, ""), JSON.parse((await sink.read(`${sources}/${f.name}`)) ?? "[]"));
+}
+const elsewhere = (id: string) => [...lists].some(([name, list]) => name !== machine && list.some((s) => s.id === id));
+// --take-down: out of every list, then its files.
+const down = new Set((opt["take-down"] ?? "").split(",").map((s) => s.trim()).filter(Boolean));
+for (const [name, list] of lists) {
+  if (name === machine || !list.some((s) => down.has(s.id))) continue;
+  const kept = list.filter((s) => !down.has(s.id));
+  lists.set(name, kept);
+  if (await sink.put(`${sources}/${name}.json`, json(kept), "application/json")) written++;
+}
+for (let i = songs.length - 1; i >= 0; i--) if (down.has(songs[i].id)) songs.splice(i, 1);
+// A song that left this machine's list, and is in no other list, is taken down.
+const gone = (lists.get(machine) ?? []).map((s) => s.id).filter((id) => !songs.some((s) => s.id === id));
+for (const id of new Set([...gone, ...down])) if (!elsewhere(id)) await takeDownFiles(id);
 if (await sink.put(`${sources}/${machine}.json`, json(songs), "application/json")) written++;
 
 /** Reads every machine's list of every collection, with the tags of the lists it read. */

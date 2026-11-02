@@ -10,6 +10,7 @@
 import { existsSync, readdirSync, readFileSync } from 'fs';
 import path from 'path';
 import { lyricsErrors } from './lyrics-form';
+import { notEnglish } from './lyrics-language';
 
 const root = path.join(import.meta.dir, '..');
 const freeBible = process.env.FREE_BIBLE ?? path.join(root, '..', 'free-bible');
@@ -21,9 +22,9 @@ if (!existsSync(generate)) {
 
 const KINDS = ['verse', 'chapter', 'story', 'theme', 'person'];
 const LYRICS_MODES = ['verbatim', 'mixed', 'thematic'];
-const TEXT_SOURCES = ['osen', 'kjv', 'osnb', 'vulgate'];
-// The language a song is sung in opens its style line, and its quotes come from a Bible in that language.
-const LANGUAGES: Record<string, string[]> = { English: ['osen', 'kjv'], Norwegian: ['osnb'], Latin: ['vulgate'] };
+// The songs are sung in English only (the owner, 2026-11-02): the style line opens with "English", quotes come from
+// an English Bible, and the lyrics must be English (lyrics-language.ts).
+const TEXT_SOURCES = ['osen', 'kjv'];
 const COT = ['full', 'melody', 'off'];
 
 const slugs = (dir: string) =>
@@ -124,13 +125,15 @@ for (const { file, song: s } of songs) {
   if (!TEXT_SOURCES.includes(s.textSource)) errors.push(`textSource must be one of ${TEXT_SOURCES.join(', ')}`);
 
   const r = s.request ?? {};
-  const language = typeof r.style === 'string' ? r.style.split(',')[0].trim() : '';
-  if (!LANGUAGES[language]) errors.push(`request.style must start with a language: ${Object.keys(LANGUAGES).join(', ')}`);
-  else if (!LANGUAGES[language].includes(s.textSource)) errors.push(`textSource ${s.textSource} is not a ${language} Bible (${LANGUAGES[language].join(', ')})`);
+  if (typeof r.style !== 'string' || !r.style.startsWith('English,')) errors.push('request.style must start with "English,"');
   if (!COT.includes(r.cot)) errors.push(`request.cot must be one of ${COT.join(', ')}`);
   if (!Number.isInteger(r.seed)) errors.push('request.seed must be an integer');
   if (typeof r.lyrics !== 'string' || !r.lyrics.trim()) errors.push('request.lyrics missing');
-  else errors.push(...lyricsErrors(r.lyrics, s.lyricsMode, s.form));
+  else {
+    errors.push(...lyricsErrors(r.lyrics, s.lyricsMode, s.form));
+    const foreign = notEnglish(r.lyrics);
+    if (foreign) errors.push(`request.lyrics must be English, not ${foreign}`);
+  }
 
   if (errors.length) {
     failed++;

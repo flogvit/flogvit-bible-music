@@ -28,12 +28,8 @@ import numpy as np
 
 REPO = Path(__file__).resolve().parent.parent
 WHISPER_MODEL = "large-v3"
-# The language a song is sung in is the first word of its style line (README, Catalog): Whisper listens for it,
-# and the lyrics are split into syllables by its rules.
-LANGUAGES = {"English": "en", "Norwegian": "no", "Latin": "la"}
-VOWELS = {"en": "aeiou", "no": "aeiouyæøå", "la": "aeiouy"}
-HYPHENATION = {"en": "en_US", "no": "nb_NO"}
-LANGUAGE = "en"
+# The songs are sung in English only (README, Catalog): Whisper listens for English, the lyrics are split into
+# syllables by English rules, and --listen-only also writes the language Whisper hears (language.json).
 SAMPLE_RATE = 16000
 
 BOOKS = [
@@ -275,7 +271,7 @@ def _syllable_count(core: str) -> int:
     if _cmu is None:
         import cmudict
         _cmu = cmudict.dict()
-    prons = _cmu.get(core.lower()) if LANGUAGE == "en" else None
+    prons = _cmu.get(core.lower())
     if prons:  # the shortest pronunciation: songs say ev'ry and ev'ning
         return min(sum(ch[-1].isdigit() for ch in pron) for pron in prons)
     return max(1, len(_vowel_groups(core)))
@@ -283,12 +279,7 @@ def _syllable_count(core: str) -> int:
 
 def _vowel_groups(core: str) -> list[tuple[int, int]]:
     w = core.lower()
-    v = VOWELS[LANGUAGE]
-    # Latin vowels each make a syllable (De-us, gra-ti-a) except the diphthongs ae, oe and au.
-    pattern = "ae|oe|au|[aeiouy]" if LANGUAGE == "la" else f"[{v}]+" + (r"|(?<=[^aeiou])y" if LANGUAGE == "en" else "")
-    groups = [(m.start(), m.end()) for m in re.finditer(pattern, w)]
-    if LANGUAGE != "en":
-        return groups
+    groups = [(m.start(), m.end()) for m in re.finditer(r"[aeiou]+|(?<=[^aeiou])y", w)]
     if len(groups) > 1 and w.endswith("e") and groups[-1] == (len(w) - 1, len(w)) and not w.endswith("le"):
         groups.pop()  # silent final e
     if len(groups) > 1 and w.endswith("es") and groups[-1][0] == len(w) - 2 and w[-3:-2] not in "szxcg":
@@ -322,11 +313,11 @@ def syllabify(word: str) -> list[str]:
         parts = [p + ("-" if i < len(parts) - 1 and not p.endswith("-") else "") for i, p in enumerate(parts)]
         pieces = parts
     else:
-        if _pyphen is None and LANGUAGE in HYPHENATION:
+        if _pyphen is None:
             import pyphen
-            _pyphen = pyphen.Pyphen(lang=HYPHENATION[LANGUAGE], left=1, right=2)
+            _pyphen = pyphen.Pyphen(lang="en_US", left=1, right=2)
         count = _syllable_count(core)
-        pieces = _pyphen.inserted(core).split("-") if _pyphen else [core]
+        pieces = _pyphen.inserted(core).split("-")
         if len(pieces) != count:
             pieces = _split_by_vowels(core, count) or pieces
     pieces[0] = lead + pieces[0]
@@ -416,7 +407,7 @@ class Listener:
             offset = start or 0.0
             clip = self.audio[int(offset * SAMPLE_RATE): int(end * SAMPLE_RATE) if end else None]
             print(f"  listening {offset:.1f}-{end or len(self.audio) / SAMPLE_RATE:.1f} s", flush=True)
-            segments, _ = self.model.transcribe(clip, language=LANGUAGE, word_timestamps=True, initial_prompt=prompt,
+            segments, _ = self.model.transcribe(clip, language="en", word_timestamps=True, initial_prompt=prompt,
                                                 condition_on_previous_text=False, beam_size=5)
             # plain floats: Whisper hands back numpy numbers, which json cannot write further on
             self.cache[key] = [dict(w=w.word.strip(), s=round(float(w.start) + offset, 3),
@@ -424,6 +415,18 @@ class Listener:
                                for seg in segments for w in seg.words]
             self.cache_path.write_text(json.dumps(self.cache, indent=1))
         return self.cache[key]
+
+    def language(self) -> dict:
+        """The language Whisper hears in the singing: from the first word it heard, over up to three 30 s windows."""
+        if self.audio is None:
+            self.audio = load_audio(self.audio_path)
+        if self.model is None:
+            from faster_whisper import WhisperModel
+            self.model = WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8", cpu_threads=8)
+        starts = [w["s"] for words in self.cache.values() for w in words]
+        clip = self.audio[int(min(starts, default=0.0) * SAMPLE_RATE):]
+        language, probability, _ = self.model.detect_language(clip, language_detection_segments=3)
+        return {"language": language, "probability": round(float(probability), 3)}
 
     def duration(self) -> float:
         out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
@@ -1185,10 +1188,6 @@ def song_meta(song_dir: Path, request: dict) -> dict:
     credit = ""
     if entry.get("textSource") == "osen" and entry.get("lyricsMode") in ("verbatim", "mixed"):
         credit = "Bible text: Open Source English (OSEN), CC BY 4.0, from SBLGNT and tanach.us."
-    if entry.get("textSource") == "osnb" and entry.get("lyricsMode") in ("verbatim", "mixed"):
-        credit = "Bibeltekst: Open Source Norsk Bokmål (OSNB), CC BY 4.0, fra SBLGNT og tanach.us."
-    if entry.get("textSource") == "vulgate" and entry.get("lyricsMode") in ("verbatim", "mixed"):
-        credit = "Bible text: the Clementine Vulgate (public domain)."
     return {"id": song_id, "title": title, "subtitle": subtitle, "credit": credit}
 
 
@@ -1197,10 +1196,7 @@ def key_name(score: Score) -> str:
 
 
 def run(song_dir: Path, out_root: Path, listen_only: bool = False) -> dict | None:
-    global LANGUAGE, _pyphen
     request = json.loads((song_dir / "request.json").read_text())
-    LANGUAGE = LANGUAGES.get(request["style"].split(",")[0].strip(), "en")
-    _pyphen = None
     meta = song_meta(song_dir, request)
     out = out_root / meta["id"]
     out.mkdir(parents=True, exist_ok=True)
@@ -1210,8 +1206,10 @@ def run(song_dir: Path, out_root: Path, listen_only: bool = False) -> dict | Non
     # When the lyrics check kept the song with its lyrics as sung, the sheets follow what is sung.
     sung = song_dir / "lyrics-sung.txt"
     lyrics = parse_lyrics(sung.read_text() if sung.exists() else request["lyrics"])
-    listen(lyrics, Listener(song_dir / "audio.flac", out / "whisper.json"))
+    listener = Listener(song_dir / "audio.flac", out / "whisper.json")
+    listen(lyrics, listener)
     if listen_only:
+        (out / "language.json").write_text(json.dumps(listener.language(), indent=1) + "\n")
         return None
     ons = onsets(score)
     offset = estimate_offset(lyrics, ons)

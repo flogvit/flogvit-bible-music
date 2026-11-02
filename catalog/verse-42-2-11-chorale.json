@@ -36,11 +36,11 @@
     "persons": []
   },
   "lyricsMode": "mixed",
-  "textSource": "osnb",
+  "textSource": "osen",
   "form": "strophic",
   "request": {
-    "style": "Norwegian, Lutheran Christmas chorale, a full congregation singing in unison with a bright festive pipe organ and church bells at the end, steady even notes, G major, warm and joyful, 3/4, 84 BPM",
-    "lyrics": "[Verse]\nDet var noen gjetere på marken\nsom voktet flokken sin om natt\nDa sto en Herrens engel foran dem\nog lyset strålte overalt\n\n[Verse]\nFrykt ikke, se, jeg bringer glede\nen glede for det hele folk\nI dag er født i Davids by\nen frelser, Kristus, Herren vår\n\n[Verse]\nOg dette skal for dere være tegnet\net barn som ligger i en krybbe svøpt\nOg himmelens hær sang sammen med engelen\nmed lovsang over jorden løftet\n\n[Verse]\nÆre være Gud i det høyeste\nog fred på jorden, fred i kveld\nblant mennesker som Gud har behag i\nsyng med, alle, syng i kveld",
+    "style": "English, Lutheran Christmas chorale, a full congregation singing in unison with a bright festive pipe organ and church bells at the end, steady even notes, G major, warm and joyful, 3/4, 84 BPM, sung in English",
+    "lyrics": "[Verse]\nThe shepherds watched out in the fields\nTheir flock through all the night\nAn angel of the Lord appeared\nAnd glory shone so bright\n\n[Verse]\nDo not be afraid, I bring you joy\nGood news for all the earth\nToday in David's town is born\nA Savior, Christ the Lord\n\n[Verse]\nAnd this will be the sign for you\nA baby wrapped and laid\nWithin a manger, and the host\nOf heaven sang and praised\n\n[Verse]\nGlory to God in the highest\nAnd peace on earth tonight\nTo those on whom his favor rests\nSing all, sing in the light",
     "cot": "full",
     "seed": 31020
   }

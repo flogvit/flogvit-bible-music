@@ -49,12 +49,7 @@ TEXT_CREDITS = {
     "osen": "Bible quotations from the osen English translation in free-bible (CC BY 4.0), translated from "
             "the SBL Greek New Testament (SBLGNT) and the Hebrew text from tanach.us.",
     "kjv": "Bible quotations from the King James Version (public domain).",
-    "osnb": "Bibelsitater fra Open Source Norsk Bokmål i free-bible (CC BY 4.0), oversatt fra SBL Greek New "
-            "Testament (SBLGNT) og den hebraiske teksten fra tanach.us.",
-    "vulgate": "Bible quotations from the Clementine Vulgate (public domain).",
 }
-# The language a song is sung in opens its style line (README, Catalog).
-LANGUAGES = {"English": "en", "Norwegian": "nb", "Latin": "la"}
 
 
 def url_slug(text: str) -> str:
@@ -248,7 +243,7 @@ def build(song_dir: Path, library: Path, machine: str) -> Path:
         "references": [passage(r) for r in song["references"]],
         "style": tags["style"],
         "styleDescription": request["style"],
-        "language": LANGUAGES.get(request["style"].split(",")[0].strip(), "en"),
+        "language": "en",  # every song is sung in English (README, Catalog)
         "tags": {
             "sentiment": tags["sentiment"], "liturgy": tags["liturgy"], "theme": tags["theme"],
             "themes": [named("themes", s) for s in tags["themes"]],

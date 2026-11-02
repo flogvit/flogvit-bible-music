@@ -36,10 +36,10 @@
     ]
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Gregorian chant, a women's schola of nuns singing in pure unison, no instruments, Lydian mode, airy convent reverb, tender and still, 60 BPM",
-    "lyrics": "[Verse]\nEcce agnus Dei\necce qui tollit peccatum mundi\n\n[Verse]\nEcce agnus Dei\necce qui tollit peccatum mundi\n\n[Verse]\nEcce agnus Dei\necce qui tollit peccatum mundi\n\n[Outro]\nEcce agnus Dei",
+    "style": "English, Gregorian chant, a women's schola of nuns singing in pure unison, no instruments, Lydian mode, airy convent reverb, tender and still, 60 BPM, sung in English",
+    "lyrics": "[Verse]\nLook, the Lamb of God\nWho takes away the sin of the world\n\n[Verse]\nLook, the Lamb of God\nWho takes away the sin of the world\n\n[Verse]\nLook, the Lamb of God\nWho takes away the sin of the world\n\n[Outro]\nLook, the Lamb of God",
     "cot": "full",
     "seed": 31003
   }

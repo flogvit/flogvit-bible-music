@@ -34,10 +34,10 @@
     ]
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Gregorian chant, Magnificat sung in alternation between a solo cantor and a schola of male monks, no instruments, psalm tone with a gentle reciting note, abbey reverb, luminous and calm, 64 BPM",
-    "lyrics": "[Verse]\nMagnificat anima mea Dominum\net exsultavit spiritus meus\nin Deo salutari meo\n\n[Verse]\nQuia respexit humilitatem ancillae suae\necce enim ex hoc beatam me dicent\nomnes generationes\n\n[Verse]\nQuia fecit mihi magna qui potens est\net sanctum nomen ejus\net misericordia ejus a progenie in progenies\ntimentibus eum",
+    "style": "English, Gregorian chant, Magnificat sung in alternation between a solo cantor and a schola of male monks, no instruments, psalm tone with a gentle reciting note, abbey reverb, luminous and calm, 64 BPM, sung in English",
+    "lyrics": "[Verse]\nMy soul magnifies the Lord\nAnd my spirit rejoices\nIn God my Savior\n\n[Verse]\nFor he has looked upon the humble state of his servant\nFrom now on all generations\nWill call me blessed\n\n[Verse]\nFor the Mighty One has done great things for me\nHoly is his name\nHis mercy extends to those who fear him\nFrom generation to generation",
     "cot": "full",
     "seed": 31001
   }

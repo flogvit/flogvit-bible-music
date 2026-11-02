@@ -35,10 +35,10 @@
     "persons": []
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Renaissance sacred polyphony of the sixteenth century, a cappella mixed choir in four parts, sopranos, altos, tenors and basses entering one after another in flowing imitative counterpoint, no instruments, cathedral acoustics, serene and luminous, 64 BPM",
-    "lyrics": "[Verse]\nQuemadmodum desiderat cervus ad fontes aquarum\nita desiderat anima mea ad te, Deus\n\n[Verse]\nSitivit anima mea ad Deum fortem, vivum\nquando veniam et apparebo ante faciem Dei\n\n[Verse]\nFuerunt mihi lacrimae panes die ac nocte\ndum dicitur mihi quotidie: ubi est Deus tuus\n\n[Outro]\nad te, Deus",
+    "style": "English, Renaissance sacred polyphony of the sixteenth century, a cappella mixed choir in four parts, sopranos, altos, tenors and basses entering one after another in flowing imitative counterpoint, no instruments, cathedral acoustics, serene and luminous, 64 BPM, sung in English",
+    "lyrics": "[Verse]\nAs a deer longs for streams of water\nSo my soul longs for you, O God\n\n[Verse]\nMy soul thirsts for God, for the living God\nWhen shall I come and appear before God's face\n\n[Verse]\nMy tears have been my food day and night\nWhile all day long they say to me, Where is your God\n\n[Outro]\nFor you, O God",
     "cot": "full",
     "seed": 30004
   }

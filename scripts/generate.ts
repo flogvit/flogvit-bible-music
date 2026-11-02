@@ -32,7 +32,8 @@ import { existsSync, mkdirSync, openSync, readdirSync, readFileSync, renameSync,
 import { hostname } from 'os';
 import path from 'path';
 import { writeNext } from './catalog-write';
-import { judge, JUDGE_MODEL, judgeReady, outcome, type Verdict } from './lyrics-check';
+import { notEnglish } from './lyrics-language';
+import { judge, JUDGE_MODEL, judgeReady, languageVerdict, outcome, sungLanguage, type Verdict } from './lyrics-check';
 import { HOLD_GPU } from './scenes';
 
 const REPO = path.join(import.meta.dir, '..');
@@ -143,13 +144,15 @@ async function finish(id: string, fresh: boolean, given?: Verdict, accept?: (v: 
   const sheets = path.join(REPO, 'sheets', id);
   const logFile = path.join(OUTPUTS, `${id}-run.log`);
   const py = path.join(MAIN, '.venv-sheets', 'bin', 'python');
-  if (fresh) for (const f of ['whisper.json', 'alignment.json']) rmSync(path.join(sheets, f), { force: true });
+  if (fresh) for (const f of ['whisper.json', 'alignment.json', 'language.json']) rmSync(path.join(sheets, f), { force: true });
   if (await run([...sheetsPriority, py, 'scripts/song-sheets.py', '--listen-only', songDir], REPO, logFile).exited !== 0) {
     log(`WHISPER FAILED ${id} (see ${logFile})`);
     return 'failed';
   }
   const lyrics = JSON.parse(readFileSync(path.join(songDir, 'request.json'), 'utf8')).lyrics;
-  const verdict = given ?? await judge(lyrics, JSON.parse(readFileSync(path.join(sheets, 'whisper.json'), 'utf8')));
+  const whisper = JSON.parse(readFileSync(path.join(sheets, 'whisper.json'), 'utf8'));
+  // English only: a song asked for or sung in another language is rejected before the judge is asked.
+  const verdict = languageVerdict(lyrics, whisper, sungLanguage(sheets)) ?? given ?? await judge(lyrics, whisper);
   writeFileSync(path.join(songDir, 'lyrics-check.json'), JSON.stringify({ model: JUDGE_MODEL, ...verdict }, null, 1));
   const result = outcome(verdict);
   if (result === 'reject') return reject(id, verdict);
@@ -516,7 +519,9 @@ async function remake(id: string): Promise<'done' | 'kept' | 'failed' | 'taken'>
     }
     // The new take replaces the old only when it is at least as good: as good a lyrics check (correct before
     // adopt), and as large a share of its lines on their notes.
-    const old = previous && takeQuality(
+    // An old take not sung in English is never kept over the new one.
+    const oldEnglish = previous && !notEnglish(JSON.parse(readFileSync(path.join(previous, 'request.json'), 'utf8')).lyrics);
+    const old = oldEnglish && takeQuality(
       existsSync(path.join(previous, 'lyrics-check.json')) ? JSON.parse(readFileSync(path.join(previous, 'lyrics-check.json'), 'utf8')) : undefined,
       Bun.spawnSync(['git', 'show', `HEAD:sheets/${id}/alignment.json`], { cwd: REPO }).stdout.toString(),
     );
@@ -690,7 +695,8 @@ if (command === 'run') {
     const dir = path.join(OUTPUTS, take);
     if (!existsSync(path.join(dir, 'whisper.json'))) continue;
     const lyrics = JSON.parse(readFileSync(path.join(dir, 'request.json'), 'utf8')).lyrics;
-    const verdict = await judge(lyrics, JSON.parse(readFileSync(path.join(dir, 'whisper.json'), 'utf8')));
+    const whisper = JSON.parse(readFileSync(path.join(dir, 'whisper.json'), 'utf8'));
+    const verdict = languageVerdict(lyrics, whisper) ?? await judge(lyrics, whisper);
     log(`REJUDGED ${take}: ${outcome(verdict)}: ${verdict.summary}`);
     if (outcome(verdict) === 'reject') continue;
     // Put the take back as the song, with its Whisper pass where finish() looks for it.

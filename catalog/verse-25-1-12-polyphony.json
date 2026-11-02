@@ -31,10 +31,10 @@
     "persons": []
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Renaissance Holy Week responsory, a cappella mixed choir in dark close harmony with sudden suspensions, slow and grieving, no instruments, minor mode, cathedral at night, 52 BPM",
-    "lyrics": "[Verse]\nO vos omnes qui transitis per viam\nattendite et videte\n\n[Verse]\nSi est dolor sicut dolor meus\nsi est dolor sicut dolor meus\n\n[Verse]\nO vos omnes qui transitis per viam\nattendite et videte\n\n[Outro]\nSi est dolor sicut dolor meus",
+    "style": "English, Renaissance Holy Week responsory, a cappella mixed choir in dark close harmony with sudden suspensions, slow and grieving, no instruments, minor mode, cathedral at night, 52 BPM, sung in English",
+    "lyrics": "[Verse]\nIs it nothing to you, all you who pass by\nLook and see\n\n[Verse]\nIs there any suffering like my suffering\nIs there any suffering like my suffering\n\n[Verse]\nIs it nothing to you, all you who pass by\nLook and see\n\n[Outro]\nIs there any suffering like my suffering",
     "cot": "full",
     "seed": 31011
   }

@@ -45,10 +45,10 @@
     ]
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Renaissance motet for five voices, a cappella mixed choir in imitative counterpoint, soaring sopranos over warm basses, no instruments, chapel acoustics, tender and radiant, 66 BPM",
-    "lyrics": "[Verse]\nAve, gratia plena\nDominus tecum\nbenedicta tu in mulieribus\n\n[Verse]\nAve, gratia plena\nDominus tecum\nbenedicta tu in mulieribus\n\n[Verse]\nBenedicta tu inter mulieres\net benedictus fructus ventris tui\n\n[Outro]\nDominus tecum",
+    "style": "English, Renaissance motet for five voices, a cappella mixed choir in imitative counterpoint, soaring sopranos over warm basses, no instruments, chapel acoustics, tender and radiant, 66 BPM, sung in English",
+    "lyrics": "[Verse]\nGreetings, you who are favored\nThe Lord is with you\nBlessed are you among women\n\n[Verse]\nGreetings, you who are favored\nThe Lord is with you\nBlessed are you among women\n\n[Verse]\nBlessed are you among women\nAnd blessed is the fruit of your womb\n\n[Outro]\nThe Lord is with you",
     "cot": "full",
     "seed": 31010
   }

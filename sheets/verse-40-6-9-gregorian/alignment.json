@@ -1,758 +1,528 @@
 {
  "id": "verse-40-6-9-gregorian",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-6-9-gregorian",
- "offset_seconds": -1.2200000000002298,
- "words_heard": 46,
- "words": 50,
+ "offset_seconds": -1.2000000000002302,
+ "words_heard": 51,
+ "words": 52,
  "lines": [
   {
-   "text": "Pater noster, qui es in caelis",
-   "heard": 6,
-   "words": 6,
-   "error_s": 0.34,
+   "text": "Our Father in heaven",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "sanctificetur nomen tuum",
-   "heard": 3,
-   "words": 3,
-   "error_s": 1.27,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "Adveniat regnum tuum",
-   "heard": 2,
-   "words": 3,
-   "error_s": 0.05,
+   "text": "Hallowed be your name",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.87,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "fiat voluntas tua",
+   "text": "Your kingdom come",
    "heard": 3,
    "words": 3,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your will be done",
+   "heard": 4,
+   "words": 4,
    "error_s": 0.38,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "sicut in caelo et in terra",
+   "text": "On earth as it is in heaven",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Give us today our daily bread",
    "heard": 6,
    "words": 6,
-   "error_s": 0.28,
+   "error_s": 0.92,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "Panem nostrum supersubstantialem",
-   "heard": 2,
-   "words": 3,
-   "error_s": 0.41,
-   "tie_split": false,
-   "uncertain": false
-  },
-  {
-   "text": "da nobis hodie",
-   "heard": 3,
-   "words": 3,
-   "error_s": 1.03,
-   "tie_split": false,
-   "uncertain": false
-  },
-  {
-   "text": "et dimitte nobis debita nostra",
+   "text": "And forgive us our debts",
    "heard": 5,
    "words": 5,
-   "error_s": 0.44,
+   "error_s": 0.91,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "sicut et nos dimittimus debitoribus nostris",
+   "text": "As we also have forgiven our debtors",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And lead us not into temptation",
    "heard": 6,
    "words": 6,
-   "error_s": 0.71,
+   "error_s": 0.4,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "Et ne nos inducas in tentationem",
-   "heard": 6,
-   "words": 6,
-   "error_s": 0.45,
-   "tie_split": false,
-   "uncertain": false
-  },
-  {
-   "text": "sed libera nos a malo",
-   "heard": 3,
+   "text": "But deliver us from evil",
+   "heard": 5,
    "words": 5,
-   "error_s": 0.72,
+   "error_s": 0.48,
    "tie_split": false,
    "uncertain": false
   },
   {
    "text": "Amen",
-   "heard": 1,
+   "heard": 0,
    "words": 1,
-   "error_s": 0.58,
-   "tie_split": false,
-   "uncertain": false
+   "error_s": null,
+   "tie_split": true,
+   "uncertain": true
   }
  ],
  "syllables": [
   {
-   "text": "Pa",
-   "time": 26.1,
-   "weight": 0.54,
-   "note_time": 26.0
+   "text": "Our",
+   "time": 23.76,
+   "weight": 0.61,
+   "note_time": 23.9
   },
   {
-   "text": "ter",
-   "time": 26.45,
-   "weight": 0.54,
-   "note_time": 26.5
-  },
-  {
-   "text": "nos",
-   "time": 27.5,
-   "weight": 0.58,
-   "note_time": 27.0
-  },
-  {
-   "text": "ter,",
-   "time": 27.85,
-   "weight": 0.58,
-   "note_time": 27.5
-  },
-  {
-   "text": "qu",
-   "time": 28.64,
-   "weight": 0.7,
-   "note_time": 28.0
-  },
-  {
-   "text": "i",
-   "time": 28.9,
-   "weight": 0.7,
-   "note_time": 29.0
-  },
-  {
-   "text": "es",
-   "time": 29.16,
-   "weight": 0.76,
-   "note_time": 29.5
-  },
-  {
-   "text": "in",
-   "time": 30.34,
-   "weight": 0.98,
-   "note_time": 30.0
-  },
-  {
-   "text": "cae",
-   "time": 30.66,
-   "weight": 0.28,
-   "note_time": 30.25
-  },
-  {
-   "text": "lis",
-   "time": 31.01,
-   "weight": 0.28,
-   "note_time": 30.5
-  },
-  {
-   "text": "san",
-   "time": 35.46,
-   "weight": 0.91,
-   "note_time": 33.5
-  },
-  {
-   "text": "cti",
-   "time": 35.74,
-   "weight": 0.91,
-   "note_time": 34.0
-  },
-  {
-   "text": "fi",
-   "time": 36.02,
-   "weight": 0.91,
-   "note_time": 34.75
-  },
-  {
-   "text": "ce",
-   "time": 36.3,
-   "weight": 0.91,
-   "note_time": 35.0
-  },
-  {
-   "text": "tur",
-   "time": 36.58,
-   "weight": 0.91,
-   "note_time": 35.5
-  },
-  {
-   "text": "no",
-   "time": 36.86,
-   "weight": 0.98,
-   "note_time": 36.0
-  },
-  {
-   "text": "men",
-   "time": 37.21,
-   "weight": 0.98,
-   "note_time": 37.0
-  },
-  {
-   "text": "tu",
-   "time": 38.08,
-   "weight": 0.3,
-   "note_time": 38.0
-  },
-  {
-   "text": "um",
-   "time": 38.43,
-   "weight": 0.3,
-   "note_time": 42.0
-  },
-  {
-   "text": "Ad",
-   "time": 39.68,
-   "weight": 0.0,
-   "note_time": 42.75
-  },
-  {
-   "text": "ve",
-   "time": 40.94,
-   "weight": 0.0,
-   "note_time": 43.0
-  },
-  {
-   "text": "ni",
-   "time": 42.19,
-   "weight": 0.0,
-   "note_time": 43.5
-  },
-  {
-   "text": "at",
-   "time": 43.45,
-   "weight": 0.0,
-   "note_time": 44.0
-  },
-  {
-   "text": "reg",
-   "time": 44.7,
-   "weight": 0.96,
-   "note_time": 44.75
-  },
-  {
-   "text": "num",
-   "time": 45.05,
-   "weight": 0.96,
-   "note_time": 45.0
-  },
-  {
-   "text": "tu",
-   "time": 46.0,
-   "weight": 0.39,
-   "note_time": 45.5
-  },
-  {
-   "text": "um",
-   "time": 46.35,
-   "weight": 0.39,
-   "note_time": 46.0
-  },
-  {
-   "text": "fi",
-   "time": 49.98,
-   "weight": 0.98,
-   "note_time": 49.0
-  },
-  {
-   "text": "at",
-   "time": 50.33,
-   "weight": 0.98,
-   "note_time": 50.0
-  },
-  {
-   "text": "vo",
-   "time": 51.38,
-   "weight": 0.97,
-   "note_time": 51.0
-  },
-  {
-   "text": "lun",
-   "time": 51.73,
-   "weight": 0.97,
-   "note_time": 51.5
-  },
-  {
-   "text": "tas",
-   "time": 52.08,
-   "weight": 0.97,
-   "note_time": 52.0
-  },
-  {
-   "text": "tu",
-   "time": 52.78,
-   "weight": 0.97,
-   "note_time": 52.25
-  },
-  {
-   "text": "a",
-   "time": 53.05,
-   "weight": 0.97,
-   "note_time": 52.5
-  },
-  {
-   "text": "si",
-   "time": 53.32,
-   "weight": 0.22,
-   "note_time": 54.5
-  },
-  {
-   "text": "cut",
-   "time": 53.67,
-   "weight": 0.22,
-   "note_time": 55.0
-  },
-  {
-   "text": "in",
-   "time": 56.0,
-   "weight": 0.99,
-   "note_time": 56.0
-  },
-  {
-   "text": "cae",
-   "time": 56.72,
-   "weight": 0.65,
-   "note_time": 57.0
-  },
-  {
-   "text": "lo",
-   "time": 57.07,
-   "weight": 0.65,
-   "note_time": 57.5
-  },
-  {
-   "text": "et",
-   "time": 58.02,
-   "weight": 0.99,
-   "note_time": 58.0
-  },
-  {
-   "text": "in",
-   "time": 58.7,
+   "text": "Fa",
+   "time": 25.16,
    "weight": 0.94,
-   "note_time": 58.25
+   "note_time": 24.41
   },
   {
-   "text": "ter",
-   "time": 59.24,
-   "weight": 0.43,
-   "note_time": 58.5
-  },
-  {
-   "text": "ra",
-   "time": 59.59,
-   "weight": 0.43,
-   "note_time": 58.75
-  },
-  {
-   "text": "Pa",
-   "time": 68.28,
-   "weight": 0.52,
-   "note_time": 68.0
-  },
-  {
-   "text": "nem",
-   "time": 68.63,
-   "weight": 0.52,
-   "note_time": 68.5
-  },
-  {
-   "text": "nos",
-   "time": 69.68,
-   "weight": 0.86,
-   "note_time": 69.0
-  },
-  {
-   "text": "trum",
-   "time": 70.03,
-   "weight": 0.86,
-   "note_time": 69.5
-  },
-  {
-   "text": "su",
-   "time": 70.64,
-   "weight": 0.0,
-   "note_time": 70.0
-  },
-  {
-   "text": "per",
-   "time": 71.25,
-   "weight": 0.0,
-   "note_time": 71.0
-  },
-  {
-   "text": "sub",
-   "time": 71.86,
-   "weight": 0.0,
-   "note_time": 71.5
-  },
-  {
-   "text": "stan",
-   "time": 72.48,
-   "weight": 0.0,
-   "note_time": 72.0
-  },
-  {
-   "text": "ti",
-   "time": 73.09,
-   "weight": 0.0,
-   "note_time": 72.25
-  },
-  {
-   "text": "a",
-   "time": 73.7,
-   "weight": 0.0,
-   "note_time": 72.5
-  },
-  {
-   "text": "lem",
-   "time": 74.31,
-   "weight": 0.0,
-   "note_time": 72.75
-  },
-  {
-   "text": "da",
-   "time": 74.92,
-   "weight": 0.19,
-   "note_time": 75.5
-  },
-  {
-   "text": "no",
-   "time": 76.54,
-   "weight": 0.38,
-   "note_time": 76.0
-  },
-  {
-   "text": "bis",
-   "time": 76.89,
-   "weight": 0.38,
-   "note_time": 77.0
-  },
-  {
-   "text": "ho",
-   "time": 78.68,
-   "weight": 0.64,
-   "note_time": 77.5
-  },
-  {
-   "text": "di",
-   "time": 79.03,
-   "weight": 0.64,
-   "note_time": 78.0
-  },
-  {
-   "text": "e",
-   "time": 79.38,
-   "weight": 0.64,
-   "note_time": 79.0
-  },
-  {
-   "text": "et",
-   "time": 83.68,
-   "weight": 0.39,
-   "note_time": 84.0
-  },
-  {
-   "text": "di",
-   "time": 85.08,
-   "weight": 0.35,
-   "note_time": 84.5
-  },
-  {
-   "text": "mit",
-   "time": 85.43,
-   "weight": 0.35,
-   "note_time": 84.75
-  },
-  {
-   "text": "te",
-   "time": 85.78,
-   "weight": 0.35,
-   "note_time": 85.5
-  },
-  {
-   "text": "no",
-   "time": 86.4,
-   "weight": 0.98,
-   "note_time": 86.0
-  },
-  {
-   "text": "bis",
-   "time": 86.75,
-   "weight": 0.98,
-   "note_time": 86.5
-  },
-  {
-   "text": "de",
-   "time": 87.7,
-   "weight": 0.92,
-   "note_time": 87.0
-  },
-  {
-   "text": "bi",
-   "time": 87.95,
-   "weight": 0.92,
-   "note_time": 87.25
-  },
-  {
-   "text": "ta",
-   "time": 88.19,
-   "weight": 0.92,
-   "note_time": 87.5
-  },
-  {
-   "text": "nos",
-   "time": 88.44,
-   "weight": 0.99,
-   "note_time": 88.0
-  },
-  {
-   "text": "tra",
-   "time": 88.79,
-   "weight": 0.99,
-   "note_time": 89.0
-  },
-  {
-   "text": "si",
-   "time": 90.34,
-   "weight": 0.29,
-   "note_time": 91.0
-  },
-  {
-   "text": "cut",
-   "time": 90.69,
-   "weight": 0.29,
-   "note_time": 91.25
-  },
-  {
-   "text": "et",
-   "time": 92.28,
-   "weight": 0.97,
-   "note_time": 91.5
-  },
-  {
-   "text": "nos",
-   "time": 92.72,
-   "weight": 0.67,
-   "note_time": 92.0
-  },
-  {
-   "text": "di",
-   "time": 93.22,
-   "weight": 0.39,
-   "note_time": 93.5
-  },
-  {
-   "text": "mit",
-   "time": 93.57,
-   "weight": 0.39,
-   "note_time": 94.0
-  },
-  {
-   "text": "ti",
-   "time": 93.92,
-   "weight": 0.39,
-   "note_time": 94.25
-  },
-  {
-   "text": "mus",
-   "time": 94.27,
-   "weight": 0.39,
-   "note_time": 94.5
-  },
-  {
-   "text": "de",
-   "time": 96.82,
-   "weight": 0.39,
-   "note_time": 97.5
-  },
-  {
-   "text": "bi",
-   "time": 97.17,
-   "weight": 0.39,
-   "note_time": 98.0
-  },
-  {
-   "text": "to",
-   "time": 97.52,
-   "weight": 0.39,
-   "note_time": 99.0
-  },
-  {
-   "text": "ri",
-   "time": 97.87,
-   "weight": 0.39,
-   "note_time": 99.5
-  },
-  {
-   "text": "bus",
-   "time": 98.22,
-   "weight": 0.39,
-   "note_time": 100.0
-  },
-  {
-   "text": "nos",
-   "time": 100.84,
-   "weight": 0.89,
-   "note_time": 100.25
-  },
-  {
-   "text": "tris",
-   "time": 101.19,
-   "weight": 0.89,
-   "note_time": 100.5
-  },
-  {
-   "text": "Et",
-   "time": 110.0,
-   "weight": 0.68,
-   "note_time": 110.0
-  },
-  {
-   "text": "ne",
-   "time": 111.38,
-   "weight": 0.63,
-   "note_time": 111.0
-  },
-  {
-   "text": "nos",
-   "time": 112.02,
-   "weight": 0.9,
-   "note_time": 111.5
-  },
-  {
-   "text": "in",
-   "time": 112.7,
-   "weight": 0.31,
-   "note_time": 112.0
-  },
-  {
-   "text": "du",
-   "time": 113.05,
-   "weight": 0.31,
-   "note_time": 112.5
-  },
-  {
-   "text": "cas",
-   "time": 113.4,
-   "weight": 0.31,
-   "note_time": 113.0
-  },
-  {
-   "text": "in",
-   "time": 114.24,
+   "text": "ther",
+   "time": 25.51,
    "weight": 0.94,
-   "note_time": 113.5
+   "note_time": 25.42
   },
   {
-   "text": "ten",
-   "time": 114.68,
-   "weight": 0.35,
-   "note_time": 114.0
+   "text": "in",
+   "time": 26.28,
+   "weight": 0.97,
+   "note_time": 25.93
   },
   {
-   "text": "ta",
-   "time": 115.03,
-   "weight": 0.35,
-   "note_time": 115.0
+   "text": "heav",
+   "time": 28.24,
+   "weight": 0.15,
+   "note_time": 26.44
   },
   {
-   "text": "ti",
-   "time": 115.38,
-   "weight": 0.35,
-   "note_time": 116.0
+   "text": "en",
+   "time": 28.48,
+   "weight": 0.15,
+   "note_time": 26.95
   },
   {
-   "text": "o",
-   "time": 115.73,
-   "weight": 0.35,
-   "note_time": 116.25
-  },
-  {
-   "text": "nem",
-   "time": 116.08,
-   "weight": 0.35,
-   "note_time": 116.5
-  },
-  {
-   "text": "sed",
-   "time": 118.0,
-   "weight": 0.32,
-   "note_time": 118.0
-  },
-  {
-   "text": "li",
-   "time": 118.94,
+   "text": "Hal",
+   "time": 28.72,
    "weight": 0.34,
-   "note_time": 119.0
+   "note_time": 28.47
+  },
+  {
+   "text": "lowed",
+   "time": 29.07,
+   "weight": 0.34,
+   "note_time": 28.98
   },
   {
    "text": "be",
-   "time": 119.29,
-   "weight": 0.34,
-   "note_time": 119.25
+   "time": 30.66,
+   "weight": 0.99,
+   "note_time": 29.49
   },
   {
-   "text": "ra",
-   "time": 119.64,
-   "weight": 0.34,
-   "note_time": 119.5
+   "text": "your",
+   "time": 30.82,
+   "weight": 0.87,
+   "note_time": 30.0
   },
   {
-   "text": "nos",
-   "time": 120.72,
-   "weight": 0.88,
-   "note_time": 120.0
+   "text": "name",
+   "time": 31.38,
+   "weight": 0.99,
+   "note_time": 30.51
   },
   {
-   "text": "a",
-   "time": 123.58,
-   "weight": 0.0,
-   "note_time": 121.0
+   "text": "Your",
+   "time": 32.04,
+   "weight": 0.73,
+   "note_time": 32.03
   },
   {
-   "text": "ma",
-   "time": 126.43,
-   "weight": 0.0,
-   "note_time": 121.5
+   "text": "kin",
+   "time": 33.4,
+   "weight": 0.98,
+   "note_time": 33.05
   },
   {
-   "text": "lo",
-   "time": 129.29,
-   "weight": 0.0,
-   "note_time": 122.0
+   "text": "gdom",
+   "time": 33.75,
+   "weight": 0.98,
+   "note_time": 33.56
+  },
+  {
+   "text": "come",
+   "time": 34.18,
+   "weight": 1.0,
+   "note_time": 34.32
+  },
+  {
+   "text": "Your",
+   "time": 34.98,
+   "weight": 0.94,
+   "note_time": 34.58
+  },
+  {
+   "text": "will",
+   "time": 35.66,
+   "weight": 1.0,
+   "note_time": 35.08
+  },
+  {
+   "text": "be",
+   "time": 35.94,
+   "weight": 1.0,
+   "note_time": 35.59
+  },
+  {
+   "text": "done",
+   "time": 36.4,
+   "weight": 1.0,
+   "note_time": 36.36
+  },
+  {
+   "text": "On",
+   "time": 37.0,
+   "weight": 0.99,
+   "note_time": 36.61
+  },
+  {
+   "text": "earth",
+   "time": 37.78,
+   "weight": 0.98,
+   "note_time": 37.12
+  },
+  {
+   "text": "as",
+   "time": 38.16,
+   "weight": 0.99,
+   "note_time": 37.37
+  },
+  {
+   "text": "it",
+   "time": 38.58,
+   "weight": 1.0,
+   "note_time": 37.63
+  },
+  {
+   "text": "is",
+   "time": 38.82,
+   "weight": 1.0,
+   "note_time": 38.14
+  },
+  {
+   "text": "in",
+   "time": 39.22,
+   "weight": 0.99,
+   "note_time": 38.64
+  },
+  {
+   "text": "heav",
+   "time": 39.52,
+   "weight": 0.98,
+   "note_time": 38.9
+  },
+  {
+   "text": "en",
+   "time": 39.82,
+   "weight": 0.98,
+   "note_time": 39.15
+  },
+  {
+   "text": "Give",
+   "time": 41.42,
+   "weight": 0.93,
+   "note_time": 40.68
+  },
+  {
+   "text": "us",
+   "time": 42.02,
+   "weight": 1.0,
+   "note_time": 40.93
+  },
+  {
+   "text": "to",
+   "time": 42.42,
+   "weight": 0.99,
+   "note_time": 41.44
+  },
+  {
+   "text": "day",
+   "time": 42.71,
+   "weight": 0.99,
+   "note_time": 41.69
+  },
+  {
+   "text": "our",
+   "time": 43.0,
+   "weight": 0.99,
+   "note_time": 42.46
+  },
+  {
+   "text": "dai",
+   "time": 43.86,
+   "weight": 1.0,
+   "note_time": 42.71
+  },
+  {
+   "text": "ly",
+   "time": 44.09,
+   "weight": 1.0,
+   "note_time": 43.22
+  },
+  {
+   "text": "bread",
+   "time": 44.32,
+   "weight": 1.0,
+   "note_time": 43.73
+  },
+  {
+   "text": "And",
+   "time": 45.14,
+   "weight": 0.99,
+   "note_time": 44.75
+  },
+  {
+   "text": "for",
+   "time": 46.24,
+   "weight": 1.0,
+   "note_time": 45.51
+  },
+  {
+   "text": "give",
+   "time": 46.59,
+   "weight": 1.0,
+   "note_time": 45.76
+  },
+  {
+   "text": "us",
+   "time": 47.0,
+   "weight": 1.0,
+   "note_time": 46.02
+  },
+  {
+   "text": "our",
+   "time": 47.44,
+   "weight": 1.0,
+   "note_time": 46.27
+  },
+  {
+   "text": "debts",
+   "time": 47.86,
+   "weight": 0.81,
+   "note_time": 46.78
+  },
+  {
+   "text": "As",
+   "time": 48.32,
+   "weight": 1.0,
+   "note_time": 48.31
+  },
+  {
+   "text": "we",
+   "time": 49.7,
+   "weight": 1.0,
+   "note_time": 48.81
+  },
+  {
+   "text": "al",
+   "time": 49.9,
+   "weight": 1.0,
+   "note_time": 49.32
+  },
+  {
+   "text": "so",
+   "time": 50.16,
+   "weight": 1.0,
+   "note_time": 49.83
+  },
+  {
+   "text": "have",
+   "time": 50.42,
+   "weight": 1.0,
+   "note_time": 50.59
+  },
+  {
+   "text": "for",
+   "time": 51.24,
+   "weight": 1.0,
+   "note_time": 50.85
+  },
+  {
+   "text": "giv",
+   "time": 51.55,
+   "weight": 1.0,
+   "note_time": 51.1
+  },
+  {
+   "text": "en",
+   "time": 51.87,
+   "weight": 1.0,
+   "note_time": 51.36
+  },
+  {
+   "text": "our",
+   "time": 52.18,
+   "weight": 1.0,
+   "note_time": 51.86
+  },
+  {
+   "text": "deb",
+   "time": 52.86,
+   "weight": 0.96,
+   "note_time": 52.37
+  },
+  {
+   "text": "tors",
+   "time": 53.21,
+   "weight": 0.96,
+   "note_time": 52.88
+  },
+  {
+   "text": "And",
+   "time": 55.84,
+   "weight": 0.44,
+   "note_time": 56.44
+  },
+  {
+   "text": "lead",
+   "time": 57.24,
+   "weight": 1.0,
+   "note_time": 56.95
+  },
+  {
+   "text": "us",
+   "time": 58.3,
+   "weight": 1.0,
+   "note_time": 57.46
+  },
+  {
+   "text": "not",
+   "time": 58.96,
+   "weight": 1.0,
+   "note_time": 57.97
+  },
+  {
+   "text": "in",
+   "time": 59.38,
+   "weight": 0.99,
+   "note_time": 58.98
+  },
+  {
+   "text": "to",
+   "time": 59.73,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "temp",
+   "time": 60.74,
+   "weight": 0.4,
+   "note_time": 60.51
+  },
+  {
+   "text": "ta",
+   "time": 61.09,
+   "weight": 0.4,
+   "note_time": 61.02
+  },
+  {
+   "text": "tion",
+   "time": 61.44,
+   "weight": 0.4,
+   "note_time": 61.27
+  },
+  {
+   "text": "But",
+   "time": 65.0,
+   "weight": 0.27,
+   "note_time": 65.08
+  },
+  {
+   "text": "de",
+   "time": 66.4,
+   "weight": 1.0,
+   "note_time": 65.85
+  },
+  {
+   "text": "liv",
+   "time": 66.74,
+   "weight": 1.0,
+   "note_time": 66.1
+  },
+  {
+   "text": "er",
+   "time": 67.08,
+   "weight": 1.0,
+   "note_time": 66.61
+  },
+  {
+   "text": "us",
+   "time": 67.42,
+   "weight": 1.0,
+   "note_time": 67.12
+  },
+  {
+   "text": "from",
+   "time": 68.7,
+   "weight": 1.0,
+   "note_time": 68.14
+  },
+  {
+   "text": "e",
+   "time": 69.54,
+   "weight": 1.0,
+   "note_time": 69.15
+  },
+  {
+   "text": "vil",
+   "time": 69.89,
+   "weight": 1.0,
+   "note_time": 69.41
   },
   {
    "text": "A",
-   "time": 132.14,
-   "weight": 0.94,
-   "note_time": 131.0
+   "time": 70.29,
+   "weight": 0.0,
+   "note_time": 69.66
   },
   {
    "text": "men",
-   "time": 132.49,
-   "weight": 0.94,
-   "note_time": 132.5
+   "time": 70.69,
+   "weight": 0.0,
+   "note_time": 71.19
   }
  ],
  "chord_sheet_pages": 1,
  "lilypond_warnings": [],
- "quality": "11 of 12 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+ "quality": "10 of 11 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
 }

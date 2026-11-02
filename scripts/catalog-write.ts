@@ -239,6 +239,7 @@ to three of ${themes.join(', ')}.`;
     const errors = [
       ...lyricsErrors(song.lyrics, 'mixed', form),
       ...(notEnglish(song.lyrics) ? [`write the lyrics in English only, not ${notEnglish(song.lyrics)}`] : []),
+      ...(notEnglish(song.title) ? [`write the title in English, not ${notEnglish(song.title)}`] : []),
       ...(/^(Norwegian|Latin)\b/i.test(song.style) ? ['the style line is for an English song: do not start it with a language'] : []),
       ...(lines.length < 12 || lines.length > 48 ? [`${lines.length} sung lines; write 16 to 36`] : []),
       ...(/\(|\)|:\s*$/m.test(song.lyrics) ? ['no parentheses or speaker names'] : []),

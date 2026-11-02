@@ -1,8 +1,10 @@
 /**
- * The songs are sung in English only (the owner, 2026-11-02). Is a text English? The words that mark Norwegian and
- * Latin (function words, pronouns, and the words for God and the Lord) are counted against the words that mark
- * English; a text with more than a few of them is not English. Used by validate-catalog.ts and catalog-write.ts
- * on the lyrics asked for, and by generate.ts on what Whisper heard.
+ * The songs are sung in English only, and their titles are English (the owner, 2026-11-02). Is a text English? The
+ * words that mark Norwegian, Latin and Hebrew (function words, pronouns, the words for God and the Lord, and the
+ * words of the old canticle and psalm titles) are counted against the words that mark English; lyrics with more
+ * than a few of them, or a short text such as a title with as many of them as English words, are not English.
+ * Used by validate-catalog.ts and catalog-write.ts on the lyrics and title asked for, by generate.ts on what
+ * Whisper heard, and by publish.ts on what is published.
  */
 const ENGLISH = new Set(('the and of to a in is you that it he was for on are with as his they be at have this from or had by not '
   + 'but what all were we when your can said there an which she do how their if will up my me him who our i us lord god shall '
@@ -14,20 +16,25 @@ const NORWEGIAN = new Set(('og er det som til på med av ikke jeg du han hun meg
   .split(' '));
 const LATIN = new Set(('et est non qui quae quod cum ad ex per sed sicut meus mea meum tuus tua tuum nobis nos vos dominus '
   + 'domine domini deus deo dei deum gloria sanctus nomen caeli celi terra pax hominibus ego sum es sunt ut enim quia autem '
-  + 'omnes anima mihi tibi secundum misericordia excelsis voluntatis peccata mundi agnus fiat regnum panem nostrum')
+  + 'omnes anima mihi tibi secundum misericordia excelsis voluntatis peccata mundi agnus fiat regnum panem nostrum '
+  + 'pater noster ave gratia plena ecce magnificat miserere mei quemadmodum desiderat cervus altissimis caritas')
   .split(' '));
+// Hebrew sung as Hebrew (hine ma tov); the words English Bibles keep (hallelujah, hosanna, amen, selah) are English.
+const HEBREW = new Set('hine tov adonai elohim baruch atah kadosh yerushalayim'.split(' '));
 
 /** Why a text is not English, or undefined when it is. */
 export function notEnglish(text: string): string | undefined {
   const words = text.toLowerCase().replace(/\[[^\]]*\]/g, ' ').match(/[a-zæøåéèáàäöü]+/g) ?? [];
   const found = (set: Set<string>) => words.filter((w) => set.has(w));
   const english = found(ENGLISH).length;
-  for (const [language, set] of [['Norwegian', NORWEGIAN], ['Latin', LATIN]] as const) {
+  const short = words.length < 15;
+  for (const [language, set] of [['Norwegian', NORWEGIAN], ['Latin', LATIN], ['Hebrew', HEBREW]] as const) {
     const foreign = found(set);
-    if (foreign.length >= 3 && foreign.length >= english * 0.1) {
+    if ((foreign.length >= 3 && foreign.length >= english * 0.1) || (short && foreign.length >= 1 && foreign.length >= english)) {
       return `${language} words (${[...new Set(foreign)].slice(0, 6).join(', ')}: ${foreign.length}, against ${english} English)`;
     }
   }
+  if (/[æøå]/i.test(text)) return 'Norwegian letters (æ, ø, å)';
   // Any other language: English lyrics have 28 % or more of these words (the catalog, 2026-11-02).
-  if (words.length >= 15 && english / words.length < 0.15) return `few English words (${english} of ${words.length})`;
+  if (!short && english / words.length < 0.15) return `few English words (${english} of ${words.length})`;
 }

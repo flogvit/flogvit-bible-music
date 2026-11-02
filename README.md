@@ -107,7 +107,7 @@ One file per song in `catalog/<id>.json`:
 | `lyricsMode` | `verbatim`, `mixed` (quotes the verse) or `thematic` |
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
 | `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed. `strophic`: verses only (a hymn, a metrical psalm), at least 3, of one length unless verbatim. `ballad`: a story in at least 4 verses of one length, no chorus or bridge, a refrain at most as the last line of every verse. `chant`: one text of 2–4 lines sung as every verse, at least 4 times (Taizé). `call-response`: in every verse a lead line answered by a short response (at most 6 words, at most 2 different ones), with a chorus. The rules are in `scripts/lyrics-form.ts`; section 4 of `docs/research/diversity.md` says why |
-| `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed`. **Every song is sung in English** (the owner, 2026-11-02): the style line opens with `English,`, quotes come from `osen` or `kjv`, and the lyrics are English. A style from another tradition (kveding, Gregorian chant, polyphony, a Norwegian prayer-house song) keeps its sound and is sung in English. `validate-catalog` and `catalog-write` refuse lyrics that are not English (`scripts/lyrics-language.ts`), and the lyrics check rejects a song sung in another language |
+| `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed`. **Every song is sung in English** (the owner, 2026-11-02): the style line opens with `English,`, quotes come from `osen` or `kjv`, and the title and the lyrics are English. A style from another tradition (kveding, Gregorian chant, polyphony, a Norwegian prayer-house song) keeps its sound and is sung in English. `validate-catalog` and `catalog-write` refuse a title or lyrics that are not English (`scripts/lyrics-language.ts`), `run` does not take such a song, and the lyrics check rejects a song sung in another language |
 
 Check new or changed songs before committing them:
 
@@ -515,7 +515,7 @@ bun scripts/publish.ts --dry-run          # say what would change, change nothin
 bun scripts/publish.ts --take-down <id>,<id>   # take these songs out of every machine's list and delete their files
 ```
 
-Only songs sung in English are published: a library song whose `info.json` has another `language`, or whose
+Only songs sung in English, with an English title, are published. The title published is the one in `catalog/`, so a title changed there goes out with the next publish. A library song whose `info.json` has another `language`, whose title is not English, or whose
 lyrics are not English, is skipped with `not published, not English: <id>`. A song that leaves this machine's
 list (its `library/<id>/` is gone, or it is not English) and is in no other machine's list is taken down: its
 public files are deleted, so it is gone from `index.json` and media.flogvit.com (the FLAC master stays in cold

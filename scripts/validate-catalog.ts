@@ -88,6 +88,7 @@ for (const { file, song: s } of songs) {
   const errors: string[] = [];
   if (`${s.id}.json` !== file) errors.push(`id ${s.id} does not match file name`);
   if (typeof s.title !== 'string' || !s.title.trim()) errors.push('title missing');
+  else if (notEnglish(s.title)) errors.push(`title must be English, not ${notEnglish(s.title)}`);
   if (!KINDS.includes(s.kind)) errors.push(`kind must be one of ${KINDS.join(', ')}`);
   if (typeof s.id === 'string' && !s.id.startsWith(`${s.kind}-`)) errors.push(`id should start with "${s.kind}-"`);
 

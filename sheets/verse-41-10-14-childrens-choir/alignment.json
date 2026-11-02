@@ -1,0 +1,856 @@
+{
+ "id": "verse-41-10-14-childrens-choir",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-41-10-14-childrens-choir",
+ "offset_seconds": -0.6600000000002417,
+ "words_heard": 97,
+ "words": 97,
+ "lines": [
+  {
+   "text": "They brought the children to Jesus",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "That he might touch them and bless",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The disciples told them to go away",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But Jesus said, no, let them stay",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let the children come to me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not hinder them",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For to such belongs the kingdom of God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let the children come",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He took them up into his arms",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And laid his hands on them",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whoever does not receive the kingdom",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a child shall not enter in",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let the children come to me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do not hinder them",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For to such belongs the kingdom of God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let the children come",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "They",
+   "time": 10.34,
+   "weight": 0.25,
+   "note_time": 10.33
+  },
+  {
+   "text": "brought",
+   "time": 11.06,
+   "weight": 0.98,
+   "note_time": 10.67
+  },
+  {
+   "text": "the",
+   "time": 11.48,
+   "weight": 0.94,
+   "note_time": 11.0
+  },
+  {
+   "text": "chil",
+   "time": 11.76,
+   "weight": 0.99,
+   "note_time": 11.33
+  },
+  {
+   "text": "dren",
+   "time": 12.0,
+   "weight": 0.99,
+   "note_time": 11.5
+  },
+  {
+   "text": "to",
+   "time": 12.24,
+   "weight": 1.0,
+   "note_time": 11.67
+  },
+  {
+   "text": "Je",
+   "time": 12.46,
+   "weight": 0.98,
+   "note_time": 12.0
+  },
+  {
+   "text": "sus",
+   "time": 12.76,
+   "weight": 0.98,
+   "note_time": 12.33
+  },
+  {
+   "text": "That",
+   "time": 13.2,
+   "weight": 0.87,
+   "note_time": 13.0
+  },
+  {
+   "text": "he",
+   "time": 13.74,
+   "weight": 0.5,
+   "note_time": 13.33
+  },
+  {
+   "text": "might",
+   "time": 14.0,
+   "weight": 0.99,
+   "note_time": 13.67
+  },
+  {
+   "text": "touch",
+   "time": 14.46,
+   "weight": 0.99,
+   "note_time": 14.0
+  },
+  {
+   "text": "them",
+   "time": 14.84,
+   "weight": 0.99,
+   "note_time": 14.17
+  },
+  {
+   "text": "and",
+   "time": 15.0,
+   "weight": 0.99,
+   "note_time": 14.33
+  },
+  {
+   "text": "bless",
+   "time": 15.18,
+   "weight": 0.99,
+   "note_time": 14.67
+  },
+  {
+   "text": "The",
+   "time": 16.0,
+   "weight": 0.99,
+   "note_time": 15.67
+  },
+  {
+   "text": "dis",
+   "time": 16.42,
+   "weight": 0.98,
+   "note_time": 15.83
+  },
+  {
+   "text": "ci",
+   "time": 16.58,
+   "weight": 0.98,
+   "note_time": 16.0
+  },
+  {
+   "text": "ples",
+   "time": 16.74,
+   "weight": 0.98,
+   "note_time": 16.33
+  },
+  {
+   "text": "told",
+   "time": 16.9,
+   "weight": 1.0,
+   "note_time": 16.67
+  },
+  {
+   "text": "them",
+   "time": 17.46,
+   "weight": 0.9,
+   "note_time": 16.83
+  },
+  {
+   "text": "to",
+   "time": 17.66,
+   "weight": 1.0,
+   "note_time": 17.0
+  },
+  {
+   "text": "go",
+   "time": 17.8,
+   "weight": 1.0,
+   "note_time": 17.33
+  },
+  {
+   "text": "a",
+   "time": 18.14,
+   "weight": 1.0,
+   "note_time": 17.67
+  },
+  {
+   "text": "way",
+   "time": 18.39,
+   "weight": 1.0,
+   "note_time": 17.83
+  },
+  {
+   "text": "But",
+   "time": 18.86,
+   "weight": 0.99,
+   "note_time": 18.33
+  },
+  {
+   "text": "Je",
+   "time": 19.12,
+   "weight": 0.99,
+   "note_time": 18.67
+  },
+  {
+   "text": "sus",
+   "time": 19.33,
+   "weight": 0.99,
+   "note_time": 18.83
+  },
+  {
+   "text": "said,",
+   "time": 19.54,
+   "weight": 1.0,
+   "note_time": 19.0
+  },
+  {
+   "text": "no,",
+   "time": 19.92,
+   "weight": 0.35,
+   "note_time": 19.33
+  },
+  {
+   "text": "let",
+   "time": 20.32,
+   "weight": 1.0,
+   "note_time": 20.0
+  },
+  {
+   "text": "them",
+   "time": 20.76,
+   "weight": 1.0,
+   "note_time": 20.33
+  },
+  {
+   "text": "stay",
+   "time": 21.16,
+   "weight": 0.94,
+   "note_time": 20.67
+  },
+  {
+   "text": "Let",
+   "time": 20.42,
+   "weight": 0.17,
+   "note_time": 21.33
+  },
+  {
+   "text": "the",
+   "time": 21.36,
+   "weight": 0.88,
+   "note_time": 21.67
+  },
+  {
+   "text": "chil",
+   "time": 22.3,
+   "weight": 0.84,
+   "note_time": 22.0
+  },
+  {
+   "text": "dren",
+   "time": 22.6,
+   "weight": 0.84,
+   "note_time": 22.33
+  },
+  {
+   "text": "come",
+   "time": 22.9,
+   "weight": 0.99,
+   "note_time": 22.67
+  },
+  {
+   "text": "to",
+   "time": 23.38,
+   "weight": 1.0,
+   "note_time": 23.0
+  },
+  {
+   "text": "me",
+   "time": 23.72,
+   "weight": 0.87,
+   "note_time": 23.17
+  },
+  {
+   "text": "Do",
+   "time": 24.06,
+   "weight": 0.15,
+   "note_time": 24.0
+  },
+  {
+   "text": "not",
+   "time": 24.64,
+   "weight": 1.0,
+   "note_time": 24.33
+  },
+  {
+   "text": "hin",
+   "time": 25.14,
+   "weight": 1.0,
+   "note_time": 24.67
+  },
+  {
+   "text": "der",
+   "time": 25.41,
+   "weight": 1.0,
+   "note_time": 25.0
+  },
+  {
+   "text": "them",
+   "time": 25.68,
+   "weight": 1.0,
+   "note_time": 25.17
+  },
+  {
+   "text": "For",
+   "time": 26.14,
+   "weight": 0.98,
+   "note_time": 26.33
+  },
+  {
+   "text": "to",
+   "time": 27.08,
+   "weight": 1.0,
+   "note_time": 26.5
+  },
+  {
+   "text": "such",
+   "time": 27.26,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "be",
+   "time": 27.48,
+   "weight": 1.0,
+   "note_time": 27.0
+  },
+  {
+   "text": "longs",
+   "time": 27.7,
+   "weight": 1.0,
+   "note_time": 27.17
+  },
+  {
+   "text": "the",
+   "time": 27.92,
+   "weight": 0.94,
+   "note_time": 27.67
+  },
+  {
+   "text": "kin",
+   "time": 28.46,
+   "weight": 0.8,
+   "note_time": 28.0
+  },
+  {
+   "text": "gdom",
+   "time": 28.66,
+   "weight": 0.8,
+   "note_time": 28.17
+  },
+  {
+   "text": "of",
+   "time": 28.86,
+   "weight": 1.0,
+   "note_time": 28.33
+  },
+  {
+   "text": "God",
+   "time": 29.18,
+   "weight": 1.0,
+   "note_time": 28.67
+  },
+  {
+   "text": "Let",
+   "time": 29.58,
+   "weight": 0.8,
+   "note_time": 29.33
+  },
+  {
+   "text": "the",
+   "time": 30.18,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "chil",
+   "time": 30.72,
+   "weight": 0.95,
+   "note_time": 30.67
+  },
+  {
+   "text": "dren",
+   "time": 31.07,
+   "weight": 0.95,
+   "note_time": 31.0
+  },
+  {
+   "text": "come",
+   "time": 31.58,
+   "weight": 1.0,
+   "note_time": 31.33
+  },
+  {
+   "text": "He",
+   "time": 34.28,
+   "weight": 0.35,
+   "note_time": 34.33
+  },
+  {
+   "text": "took",
+   "time": 34.7,
+   "weight": 0.99,
+   "note_time": 34.67
+  },
+  {
+   "text": "them",
+   "time": 35.4,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "up",
+   "time": 35.78,
+   "weight": 1.0,
+   "note_time": 35.17
+  },
+  {
+   "text": "in",
+   "time": 36.1,
+   "weight": 0.98,
+   "note_time": 35.67
+  },
+  {
+   "text": "to",
+   "time": 36.35,
+   "weight": 0.98,
+   "note_time": 36.0
+  },
+  {
+   "text": "his",
+   "time": 36.6,
+   "weight": 0.39,
+   "note_time": 36.33
+  },
+  {
+   "text": "arms",
+   "time": 37.02,
+   "weight": 0.99,
+   "note_time": 36.5
+  },
+  {
+   "text": "And",
+   "time": 37.6,
+   "weight": 0.55,
+   "note_time": 37.0
+  },
+  {
+   "text": "laid",
+   "time": 37.8,
+   "weight": 0.99,
+   "note_time": 37.33
+  },
+  {
+   "text": "his",
+   "time": 38.16,
+   "weight": 0.91,
+   "note_time": 37.67
+  },
+  {
+   "text": "hands",
+   "time": 38.48,
+   "weight": 0.97,
+   "note_time": 37.83
+  },
+  {
+   "text": "on",
+   "time": 38.8,
+   "weight": 1.0,
+   "note_time": 38.33
+  },
+  {
+   "text": "them",
+   "time": 39.2,
+   "weight": 1.0,
+   "note_time": 38.67
+  },
+  {
+   "text": "Who",
+   "time": 39.54,
+   "weight": 0.93,
+   "note_time": 39.67
+  },
+  {
+   "text": "ev",
+   "time": 39.89,
+   "weight": 0.93,
+   "note_time": 40.0
+  },
+  {
+   "text": "er",
+   "time": 40.24,
+   "weight": 0.93,
+   "note_time": 40.17
+  },
+  {
+   "text": "does",
+   "time": 40.68,
+   "weight": 1.0,
+   "note_time": 40.33
+  },
+  {
+   "text": "not",
+   "time": 41.1,
+   "weight": 1.0,
+   "note_time": 40.67
+  },
+  {
+   "text": "re",
+   "time": 41.5,
+   "weight": 1.0,
+   "note_time": 41.0
+  },
+  {
+   "text": "ceive",
+   "time": 41.73,
+   "weight": 1.0,
+   "note_time": 41.17
+  },
+  {
+   "text": "the",
+   "time": 41.96,
+   "weight": 0.96,
+   "note_time": 41.67
+  },
+  {
+   "text": "kin",
+   "time": 42.46,
+   "weight": 0.81,
+   "note_time": 41.83
+  },
+  {
+   "text": "gdom",
+   "time": 42.62,
+   "weight": 0.81,
+   "note_time": 42.17
+  },
+  {
+   "text": "Like",
+   "time": 42.78,
+   "weight": 0.45,
+   "note_time": 42.33
+  },
+  {
+   "text": "a",
+   "time": 43.16,
+   "weight": 1.0,
+   "note_time": 42.5
+  },
+  {
+   "text": "child",
+   "time": 43.28,
+   "weight": 1.0,
+   "note_time": 42.67
+  },
+  {
+   "text": "shall",
+   "time": 43.62,
+   "weight": 0.95,
+   "note_time": 43.0
+  },
+  {
+   "text": "not",
+   "time": 43.76,
+   "weight": 1.0,
+   "note_time": 43.17
+  },
+  {
+   "text": "en",
+   "time": 44.0,
+   "weight": 1.0,
+   "note_time": 43.33
+  },
+  {
+   "text": "ter",
+   "time": 44.21,
+   "weight": 1.0,
+   "note_time": 43.67
+  },
+  {
+   "text": "in",
+   "time": 44.42,
+   "weight": 0.98,
+   "note_time": 44.0
+  },
+  {
+   "text": "Let",
+   "time": 45.08,
+   "weight": 0.94,
+   "note_time": 45.33
+  },
+  {
+   "text": "the",
+   "time": 46.2,
+   "weight": 1.0,
+   "note_time": 45.67
+  },
+  {
+   "text": "chil",
+   "time": 46.32,
+   "weight": 1.0,
+   "note_time": 46.0
+  },
+  {
+   "text": "dren",
+   "time": 46.65,
+   "weight": 1.0,
+   "note_time": 46.33
+  },
+  {
+   "text": "come",
+   "time": 46.98,
+   "weight": 1.0,
+   "note_time": 46.67
+  },
+  {
+   "text": "to",
+   "time": 47.46,
+   "weight": 1.0,
+   "note_time": 47.0
+  },
+  {
+   "text": "me",
+   "time": 47.8,
+   "weight": 0.94,
+   "note_time": 47.17
+  },
+  {
+   "text": "Do",
+   "time": 48.3,
+   "weight": 0.92,
+   "note_time": 48.0
+  },
+  {
+   "text": "not",
+   "time": 48.72,
+   "weight": 1.0,
+   "note_time": 48.33
+  },
+  {
+   "text": "hin",
+   "time": 49.14,
+   "weight": 1.0,
+   "note_time": 48.67
+  },
+  {
+   "text": "der",
+   "time": 49.39,
+   "weight": 1.0,
+   "note_time": 49.0
+  },
+  {
+   "text": "them",
+   "time": 49.64,
+   "weight": 1.0,
+   "note_time": 49.17
+  },
+  {
+   "text": "For",
+   "time": 50.22,
+   "weight": 0.98,
+   "note_time": 50.33
+  },
+  {
+   "text": "to",
+   "time": 51.06,
+   "weight": 0.99,
+   "note_time": 50.5
+  },
+  {
+   "text": "such",
+   "time": 51.22,
+   "weight": 1.0,
+   "note_time": 50.67
+  },
+  {
+   "text": "be",
+   "time": 51.5,
+   "weight": 1.0,
+   "note_time": 51.0
+  },
+  {
+   "text": "longs",
+   "time": 51.69,
+   "weight": 1.0,
+   "note_time": 51.17
+  },
+  {
+   "text": "the",
+   "time": 51.88,
+   "weight": 0.95,
+   "note_time": 51.67
+  },
+  {
+   "text": "kin",
+   "time": 52.44,
+   "weight": 0.84,
+   "note_time": 52.0
+  },
+  {
+   "text": "gdom",
+   "time": 52.64,
+   "weight": 0.84,
+   "note_time": 52.17
+  },
+  {
+   "text": "of",
+   "time": 52.84,
+   "weight": 1.0,
+   "note_time": 52.33
+  },
+  {
+   "text": "God",
+   "time": 53.2,
+   "weight": 1.0,
+   "note_time": 52.67
+  },
+  {
+   "text": "Let",
+   "time": 53.58,
+   "weight": 0.99,
+   "note_time": 53.33
+  },
+  {
+   "text": "the",
+   "time": 54.24,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "chil",
+   "time": 54.72,
+   "weight": 1.0,
+   "note_time": 54.67
+  },
+  {
+   "text": "dren",
+   "time": 55.07,
+   "weight": 1.0,
+   "note_time": 55.0
+  },
+  {
+   "text": "come",
+   "time": 55.6,
+   "weight": 1.0,
+   "note_time": 55.33
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

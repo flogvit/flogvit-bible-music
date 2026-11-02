@@ -1,0 +1,856 @@
+{
+ "id": "verse-42-2-10-baroque",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-42-2-10-baroque",
+ "offset_seconds": -2.7000000000001982,
+ "words_heard": 101,
+ "words": 101,
+ "lines": [
+  {
+   "text": "There were shepherds abiding in the field",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Keeping watch over their flock by night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the angel of the Lord came upon them",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the glory of the Lord shone round about them",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Fear not, for behold, I bring you good tidings",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of great joy for all the people",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For unto you is born this day in the city of David",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A Savior, who is Christ the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Glory to God in the highest",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And peace on earth to all with whom he is pleased",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Glory to God in the highest",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And peace on earth",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Glory to God in the highest",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "There",
+   "time": 29.14,
+   "weight": 0.34,
+   "note_time": 30.6
+  },
+  {
+   "text": "were",
+   "time": 30.54,
+   "weight": 0.65,
+   "note_time": 30.9
+  },
+  {
+   "text": "shep",
+   "time": 31.94,
+   "weight": 0.99,
+   "note_time": 31.5
+  },
+  {
+   "text": "herds",
+   "time": 32.29,
+   "weight": 0.99,
+   "note_time": 31.65
+  },
+  {
+   "text": "a",
+   "time": 32.7,
+   "weight": 0.51,
+   "note_time": 32.1
+  },
+  {
+   "text": "bi",
+   "time": 33.02,
+   "weight": 0.51,
+   "note_time": 32.4
+  },
+  {
+   "text": "ding",
+   "time": 33.34,
+   "weight": 0.51,
+   "note_time": 32.7
+  },
+  {
+   "text": "in",
+   "time": 33.66,
+   "weight": 1.0,
+   "note_time": 33.0
+  },
+  {
+   "text": "the",
+   "time": 34.04,
+   "weight": 0.98,
+   "note_time": 33.3
+  },
+  {
+   "text": "field",
+   "time": 34.24,
+   "weight": 0.98,
+   "note_time": 33.6
+  },
+  {
+   "text": "Keep",
+   "time": 35.28,
+   "weight": 0.97,
+   "note_time": 35.4
+  },
+  {
+   "text": "ing",
+   "time": 35.63,
+   "weight": 0.97,
+   "note_time": 35.7
+  },
+  {
+   "text": "watch",
+   "time": 36.34,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "o",
+   "time": 37.12,
+   "weight": 1.0,
+   "note_time": 36.45
+  },
+  {
+   "text": "ver",
+   "time": 37.41,
+   "weight": 1.0,
+   "note_time": 36.9
+  },
+  {
+   "text": "their",
+   "time": 37.7,
+   "weight": 0.99,
+   "note_time": 37.2
+  },
+  {
+   "text": "flock",
+   "time": 38.24,
+   "weight": 1.0,
+   "note_time": 37.65
+  },
+  {
+   "text": "by",
+   "time": 38.7,
+   "weight": 1.0,
+   "note_time": 38.1
+  },
+  {
+   "text": "night",
+   "time": 39.0,
+   "weight": 1.0,
+   "note_time": 38.4
+  },
+  {
+   "text": "And",
+   "time": 40.6,
+   "weight": 0.99,
+   "note_time": 40.2
+  },
+  {
+   "text": "the",
+   "time": 41.16,
+   "weight": 1.0,
+   "note_time": 41.1
+  },
+  {
+   "text": "an",
+   "time": 41.4,
+   "weight": 0.92,
+   "note_time": 41.4
+  },
+  {
+   "text": "gel",
+   "time": 41.72,
+   "weight": 0.92,
+   "note_time": 41.7
+  },
+  {
+   "text": "of",
+   "time": 42.04,
+   "weight": 1.0,
+   "note_time": 42.0
+  },
+  {
+   "text": "the",
+   "time": 42.46,
+   "weight": 1.0,
+   "note_time": 42.45
+  },
+  {
+   "text": "Lord",
+   "time": 42.62,
+   "weight": 0.99,
+   "note_time": 42.9
+  },
+  {
+   "text": "came",
+   "time": 43.08,
+   "weight": 1.0,
+   "note_time": 43.2
+  },
+  {
+   "text": "up",
+   "time": 43.44,
+   "weight": 1.0,
+   "note_time": 43.8
+  },
+  {
+   "text": "on",
+   "time": 43.72,
+   "weight": 1.0,
+   "note_time": 43.95
+  },
+  {
+   "text": "them",
+   "time": 44.0,
+   "weight": 1.0,
+   "note_time": 44.1
+  },
+  {
+   "text": "And",
+   "time": 45.38,
+   "weight": 0.99,
+   "note_time": 45.0
+  },
+  {
+   "text": "the",
+   "time": 45.94,
+   "weight": 1.0,
+   "note_time": 45.6
+  },
+  {
+   "text": "glo",
+   "time": 46.18,
+   "weight": 1.0,
+   "note_time": 45.9
+  },
+  {
+   "text": "ry",
+   "time": 46.45,
+   "weight": 1.0,
+   "note_time": 46.2
+  },
+  {
+   "text": "of",
+   "time": 46.72,
+   "weight": 1.0,
+   "note_time": 46.5
+  },
+  {
+   "text": "the",
+   "time": 47.2,
+   "weight": 1.0,
+   "note_time": 46.8
+  },
+  {
+   "text": "Lord",
+   "time": 47.38,
+   "weight": 1.0,
+   "note_time": 47.25
+  },
+  {
+   "text": "shone",
+   "time": 47.88,
+   "weight": 1.0,
+   "note_time": 47.7
+  },
+  {
+   "text": "round",
+   "time": 48.28,
+   "weight": 0.73,
+   "note_time": 48.0
+  },
+  {
+   "text": "a",
+   "time": 48.98,
+   "weight": 0.99,
+   "note_time": 48.9
+  },
+  {
+   "text": "bout",
+   "time": 49.33,
+   "weight": 0.99,
+   "note_time": 49.2
+  },
+  {
+   "text": "them",
+   "time": 49.98,
+   "weight": 1.0,
+   "note_time": 49.8
+  },
+  {
+   "text": "Fear",
+   "time": 53.16,
+   "weight": 0.77,
+   "note_time": 52.8
+  },
+  {
+   "text": "not,",
+   "time": 53.72,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "for",
+   "time": 54.98,
+   "weight": 0.99,
+   "note_time": 54.45
+  },
+  {
+   "text": "be",
+   "time": 55.28,
+   "weight": 0.96,
+   "note_time": 54.9
+  },
+  {
+   "text": "hold,",
+   "time": 55.63,
+   "weight": 0.96,
+   "note_time": 55.2
+  },
+  {
+   "text": "I",
+   "time": 56.46,
+   "weight": 1.0,
+   "note_time": 57.0
+  },
+  {
+   "text": "bring",
+   "time": 57.8,
+   "weight": 1.0,
+   "note_time": 57.6
+  },
+  {
+   "text": "you",
+   "time": 58.52,
+   "weight": 0.99,
+   "note_time": 58.8
+  },
+  {
+   "text": "good",
+   "time": 59.68,
+   "weight": 1.0,
+   "note_time": 59.4
+  },
+  {
+   "text": "tid",
+   "time": 60.36,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "ings",
+   "time": 60.71,
+   "weight": 1.0,
+   "note_time": 60.9
+  },
+  {
+   "text": "Of",
+   "time": 61.7,
+   "weight": 0.27,
+   "note_time": 62.1
+  },
+  {
+   "text": "great",
+   "time": 62.84,
+   "weight": 0.96,
+   "note_time": 62.4
+  },
+  {
+   "text": "joy",
+   "time": 63.32,
+   "weight": 0.98,
+   "note_time": 63.6
+  },
+  {
+   "text": "for",
+   "time": 64.4,
+   "weight": 0.99,
+   "note_time": 64.2
+  },
+  {
+   "text": "all",
+   "time": 65.02,
+   "weight": 1.0,
+   "note_time": 64.8
+  },
+  {
+   "text": "the",
+   "time": 65.84,
+   "weight": 0.99,
+   "note_time": 65.7
+  },
+  {
+   "text": "peo",
+   "time": 66.52,
+   "weight": 0.99,
+   "note_time": 66.0
+  },
+  {
+   "text": "ple",
+   "time": 66.82,
+   "weight": 0.99,
+   "note_time": 66.6
+  },
+  {
+   "text": "For",
+   "time": 71.7,
+   "weight": 0.78,
+   "note_time": 71.7
+  },
+  {
+   "text": "un",
+   "time": 72.42,
+   "weight": 0.99,
+   "note_time": 72.0
+  },
+  {
+   "text": "to",
+   "time": 72.69,
+   "weight": 0.99,
+   "note_time": 72.3
+  },
+  {
+   "text": "you",
+   "time": 72.96,
+   "weight": 0.95,
+   "note_time": 72.45
+  },
+  {
+   "text": "is",
+   "time": 73.36,
+   "weight": 0.96,
+   "note_time": 72.9
+  },
+  {
+   "text": "born",
+   "time": 73.68,
+   "weight": 0.99,
+   "note_time": 73.2
+  },
+  {
+   "text": "this",
+   "time": 74.02,
+   "weight": 0.99,
+   "note_time": 73.8
+  },
+  {
+   "text": "day",
+   "time": 74.64,
+   "weight": 0.99,
+   "note_time": 74.4
+  },
+  {
+   "text": "in",
+   "time": 75.22,
+   "weight": 0.25,
+   "note_time": 76.5
+  },
+  {
+   "text": "the",
+   "time": 76.74,
+   "weight": 0.99,
+   "note_time": 76.8
+  },
+  {
+   "text": "c",
+   "time": 77.14,
+   "weight": 0.96,
+   "note_time": 77.25
+  },
+  {
+   "text": "ity",
+   "time": 77.49,
+   "weight": 0.96,
+   "note_time": 77.7
+  },
+  {
+   "text": "of",
+   "time": 77.96,
+   "weight": 1.0,
+   "note_time": 78.0
+  },
+  {
+   "text": "Da",
+   "time": 78.44,
+   "weight": 1.0,
+   "note_time": 78.6
+  },
+  {
+   "text": "vid",
+   "time": 78.79,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "A",
+   "time": 80.7,
+   "weight": 0.96,
+   "note_time": 81.0
+  },
+  {
+   "text": "Sav",
+   "time": 81.74,
+   "weight": 0.3,
+   "note_time": 81.6
+  },
+  {
+   "text": "ior,",
+   "time": 82.09,
+   "weight": 0.3,
+   "note_time": 82.8
+  },
+  {
+   "text": "who",
+   "time": 83.58,
+   "weight": 0.72,
+   "note_time": 84.0
+  },
+  {
+   "text": "is",
+   "time": 84.66,
+   "weight": 1.0,
+   "note_time": 84.6
+  },
+  {
+   "text": "Christ",
+   "time": 85.38,
+   "weight": 1.0,
+   "note_time": 85.2
+  },
+  {
+   "text": "the",
+   "time": 86.12,
+   "weight": 0.99,
+   "note_time": 86.1
+  },
+  {
+   "text": "Lord",
+   "time": 86.78,
+   "weight": 1.0,
+   "note_time": 86.4
+  },
+  {
+   "text": "Glo",
+   "time": 91.22,
+   "weight": 0.15,
+   "note_time": 92.4
+  },
+  {
+   "text": "ry",
+   "time": 91.57,
+   "weight": 0.15,
+   "note_time": 93.0
+  },
+  {
+   "text": "to",
+   "time": 92.62,
+   "weight": 0.99,
+   "note_time": 93.3
+  },
+  {
+   "text": "God",
+   "time": 93.56,
+   "weight": 0.98,
+   "note_time": 93.6
+  },
+  {
+   "text": "in",
+   "time": 94.62,
+   "weight": 0.96,
+   "note_time": 94.8
+  },
+  {
+   "text": "the",
+   "time": 95.56,
+   "weight": 0.99,
+   "note_time": 95.4
+  },
+  {
+   "text": "high",
+   "time": 95.94,
+   "weight": 0.4,
+   "note_time": 96.0
+  },
+  {
+   "text": "est",
+   "time": 96.29,
+   "weight": 0.4,
+   "note_time": 96.9
+  },
+  {
+   "text": "And",
+   "time": 99.24,
+   "weight": 0.5,
+   "note_time": 100.2
+  },
+  {
+   "text": "peace",
+   "time": 100.4,
+   "weight": 0.99,
+   "note_time": 100.8
+  },
+  {
+   "text": "on",
+   "time": 101.56,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "earth",
+   "time": 102.72,
+   "weight": 0.98,
+   "note_time": 103.2
+  },
+  {
+   "text": "to",
+   "time": 103.96,
+   "weight": 0.9,
+   "note_time": 104.1
+  },
+  {
+   "text": "all",
+   "time": 104.6,
+   "weight": 1.0,
+   "note_time": 104.4
+  },
+  {
+   "text": "with",
+   "time": 105.08,
+   "weight": 0.99,
+   "note_time": 105.0
+  },
+  {
+   "text": "whom",
+   "time": 105.58,
+   "weight": 0.99,
+   "note_time": 105.6
+  },
+  {
+   "text": "he",
+   "time": 106.22,
+   "weight": 0.68,
+   "note_time": 106.8
+  },
+  {
+   "text": "is",
+   "time": 107.32,
+   "weight": 0.99,
+   "note_time": 107.4
+  },
+  {
+   "text": "pleased",
+   "time": 108.04,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "Glo",
+   "time": 110.22,
+   "weight": 0.21,
+   "note_time": 110.4
+  },
+  {
+   "text": "ry",
+   "time": 110.57,
+   "weight": 0.21,
+   "note_time": 111.6
+  },
+  {
+   "text": "to",
+   "time": 111.62,
+   "weight": 0.99,
+   "note_time": 112.2
+  },
+  {
+   "text": "God",
+   "time": 112.62,
+   "weight": 0.99,
+   "note_time": 112.5
+  },
+  {
+   "text": "in",
+   "time": 113.78,
+   "weight": 0.98,
+   "note_time": 114.0
+  },
+  {
+   "text": "the",
+   "time": 114.6,
+   "weight": 1.0,
+   "note_time": 114.6
+  },
+  {
+   "text": "high",
+   "time": 115.0,
+   "weight": 0.39,
+   "note_time": 115.2
+  },
+  {
+   "text": "est",
+   "time": 115.35,
+   "weight": 0.39,
+   "note_time": 116.1
+  },
+  {
+   "text": "And",
+   "time": 117.74,
+   "weight": 0.35,
+   "note_time": 119.4
+  },
+  {
+   "text": "peace",
+   "time": 119.7,
+   "weight": 0.99,
+   "note_time": 120.0
+  },
+  {
+   "text": "on",
+   "time": 120.72,
+   "weight": 0.4,
+   "note_time": 122.4
+  },
+  {
+   "text": "earth",
+   "time": 123.08,
+   "weight": 0.39,
+   "note_time": 124.8
+  },
+  {
+   "text": "Glo",
+   "time": 129.6,
+   "weight": 0.15,
+   "note_time": 129.6
+  },
+  {
+   "text": "ry",
+   "time": 129.95,
+   "weight": 0.15,
+   "note_time": 130.8
+  },
+  {
+   "text": "to",
+   "time": 131.0,
+   "weight": 0.98,
+   "note_time": 131.4
+  },
+  {
+   "text": "God",
+   "time": 131.66,
+   "weight": 0.98,
+   "note_time": 131.7
+  },
+  {
+   "text": "in",
+   "time": 132.74,
+   "weight": 0.96,
+   "note_time": 132.0
+  },
+  {
+   "text": "the",
+   "time": 133.7,
+   "weight": 1.0,
+   "note_time": 133.2
+  },
+  {
+   "text": "high",
+   "time": 134.06,
+   "weight": 0.38,
+   "note_time": 133.8
+  },
+  {
+   "text": "est",
+   "time": 134.41,
+   "weight": 0.38,
+   "note_time": 134.4
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 13 lyric lines sit on their notes."
+}

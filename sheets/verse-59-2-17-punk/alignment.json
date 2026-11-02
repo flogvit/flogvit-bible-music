@@ -1,0 +1,1008 @@
+{
+ "id": "verse-59-2-17-punk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-59-2-17-punk",
+ "offset_seconds": -1.020000000000234,
+ "words_heard": 122,
+ "words": 122,
+ "lines": [
+  {
+   "text": "What good is it, my brothers",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If someone says he has faith",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But does not have works",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Can that faith save him",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If a brother or sister is poorly clothed",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.85,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "And lacking daily food",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And you say, go in peace, be warm and filled",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Without giving what they need",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faith without works is dead",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faith without works is dead",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Show me your faith with nothing to show",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I'll show you my faith by what I do",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So also faith by itself",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If it does not have works",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is dead, is dead",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Get up and give",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faith without works is dead",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Faith without works is dead",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Show me your faith with nothing to show",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I'll show you my faith by what I do",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "What",
+   "time": 1.02,
+   "weight": 0.41,
+   "note_time": 0.58
+  },
+  {
+   "text": "good",
+   "time": 1.62,
+   "weight": 1.0,
+   "note_time": 0.77
+  },
+  {
+   "text": "is",
+   "time": 1.88,
+   "weight": 1.0,
+   "note_time": 0.96
+  },
+  {
+   "text": "it,",
+   "time": 2.18,
+   "weight": 0.99,
+   "note_time": 1.35
+  },
+  {
+   "text": "my",
+   "time": 2.64,
+   "weight": 1.0,
+   "note_time": 1.73
+  },
+  {
+   "text": "broth",
+   "time": 2.78,
+   "weight": 1.0,
+   "note_time": 2.12
+  },
+  {
+   "text": "ers",
+   "time": 3.13,
+   "weight": 1.0,
+   "note_time": 2.5
+  },
+  {
+   "text": "If",
+   "time": 3.58,
+   "weight": 0.15,
+   "note_time": 3.65
+  },
+  {
+   "text": "some",
+   "time": 4.3,
+   "weight": 0.99,
+   "note_time": 3.85
+  },
+  {
+   "text": "one",
+   "time": 4.64,
+   "weight": 0.99,
+   "note_time": 4.04
+  },
+  {
+   "text": "says",
+   "time": 4.98,
+   "weight": 0.99,
+   "note_time": 4.42
+  },
+  {
+   "text": "he",
+   "time": 5.5,
+   "weight": 0.97,
+   "note_time": 4.81
+  },
+  {
+   "text": "has",
+   "time": 5.88,
+   "weight": 1.0,
+   "note_time": 5.19
+  },
+  {
+   "text": "faith",
+   "time": 6.34,
+   "weight": 1.0,
+   "note_time": 5.58
+  },
+  {
+   "text": "But",
+   "time": 6.82,
+   "weight": 0.76,
+   "note_time": 6.73
+  },
+  {
+   "text": "does",
+   "time": 7.58,
+   "weight": 0.99,
+   "note_time": 7.12
+  },
+  {
+   "text": "not",
+   "time": 8.0,
+   "weight": 1.0,
+   "note_time": 7.5
+  },
+  {
+   "text": "have",
+   "time": 8.26,
+   "weight": 1.0,
+   "note_time": 7.88
+  },
+  {
+   "text": "works",
+   "time": 8.66,
+   "weight": 0.99,
+   "note_time": 8.27
+  },
+  {
+   "text": "Can",
+   "time": 9.12,
+   "weight": 0.52,
+   "note_time": 8.65
+  },
+  {
+   "text": "that",
+   "time": 9.34,
+   "weight": 1.0,
+   "note_time": 9.23
+  },
+  {
+   "text": "faith",
+   "time": 9.8,
+   "weight": 0.98,
+   "note_time": 9.81
+  },
+  {
+   "text": "save",
+   "time": 10.38,
+   "weight": 1.0,
+   "note_time": 10.0
+  },
+  {
+   "text": "him",
+   "time": 10.88,
+   "weight": 1.0,
+   "note_time": 10.58
+  },
+  {
+   "text": "If",
+   "time": 11.78,
+   "weight": 0.06,
+   "note_time": 12.69
+  },
+  {
+   "text": "a",
+   "time": 13.78,
+   "weight": 1.0,
+   "note_time": 12.88
+  },
+  {
+   "text": "broth",
+   "time": 13.94,
+   "weight": 1.0,
+   "note_time": 13.08
+  },
+  {
+   "text": "er",
+   "time": 14.14,
+   "weight": 1.0,
+   "note_time": 13.27
+  },
+  {
+   "text": "or",
+   "time": 14.34,
+   "weight": 0.99,
+   "note_time": 13.46
+  },
+  {
+   "text": "sis",
+   "time": 14.5,
+   "weight": 0.98,
+   "note_time": 13.65
+  },
+  {
+   "text": "ter",
+   "time": 14.77,
+   "weight": 0.98,
+   "note_time": 14.04
+  },
+  {
+   "text": "is",
+   "time": 15.04,
+   "weight": 0.48,
+   "note_time": 14.42
+  },
+  {
+   "text": "poor",
+   "time": 15.36,
+   "weight": 0.99,
+   "note_time": 14.81
+  },
+  {
+   "text": "ly",
+   "time": 15.56,
+   "weight": 0.99,
+   "note_time": 15.19
+  },
+  {
+   "text": "clothed",
+   "time": 15.76,
+   "weight": 1.0,
+   "note_time": 15.38
+  },
+  {
+   "text": "And",
+   "time": 16.76,
+   "weight": 0.94,
+   "note_time": 15.96
+  },
+  {
+   "text": "lack",
+   "time": 17.02,
+   "weight": 1.0,
+   "note_time": 16.15
+  },
+  {
+   "text": "ing",
+   "time": 17.18,
+   "weight": 1.0,
+   "note_time": 16.35
+  },
+  {
+   "text": "dai",
+   "time": 17.34,
+   "weight": 1.0,
+   "note_time": 16.73
+  },
+  {
+   "text": "ly",
+   "time": 17.61,
+   "weight": 1.0,
+   "note_time": 17.12
+  },
+  {
+   "text": "food",
+   "time": 17.88,
+   "weight": 1.0,
+   "note_time": 17.5
+  },
+  {
+   "text": "And",
+   "time": 18.62,
+   "weight": 0.93,
+   "note_time": 17.88
+  },
+  {
+   "text": "you",
+   "time": 19.0,
+   "weight": 0.99,
+   "note_time": 18.08
+  },
+  {
+   "text": "say,",
+   "time": 19.12,
+   "weight": 0.99,
+   "note_time": 18.27
+  },
+  {
+   "text": "go",
+   "time": 19.36,
+   "weight": 0.59,
+   "note_time": 18.46
+  },
+  {
+   "text": "in",
+   "time": 19.52,
+   "weight": 1.0,
+   "note_time": 18.65
+  },
+  {
+   "text": "peace,",
+   "time": 19.8,
+   "weight": 1.0,
+   "note_time": 19.04
+  },
+  {
+   "text": "be",
+   "time": 20.48,
+   "weight": 1.0,
+   "note_time": 19.62
+  },
+  {
+   "text": "warm",
+   "time": 20.66,
+   "weight": 1.0,
+   "note_time": 19.81
+  },
+  {
+   "text": "and",
+   "time": 21.08,
+   "weight": 0.99,
+   "note_time": 20.19
+  },
+  {
+   "text": "filled",
+   "time": 21.32,
+   "weight": 0.99,
+   "note_time": 20.58
+  },
+  {
+   "text": "With",
+   "time": 21.72,
+   "weight": 0.99,
+   "note_time": 20.96
+  },
+  {
+   "text": "out",
+   "time": 21.94,
+   "weight": 0.99,
+   "note_time": 21.15
+  },
+  {
+   "text": "giv",
+   "time": 22.16,
+   "weight": 0.98,
+   "note_time": 21.54
+  },
+  {
+   "text": "ing",
+   "time": 22.46,
+   "weight": 0.98,
+   "note_time": 22.12
+  },
+  {
+   "text": "what",
+   "time": 22.76,
+   "weight": 0.97,
+   "note_time": 23.08
+  },
+  {
+   "text": "they",
+   "time": 24.14,
+   "weight": 1.0,
+   "note_time": 23.65
+  },
+  {
+   "text": "need",
+   "time": 24.74,
+   "weight": 0.99,
+   "note_time": 24.23
+  },
+  {
+   "text": "Faith",
+   "time": 25.42,
+   "weight": 0.99,
+   "note_time": 25.38
+  },
+  {
+   "text": "with",
+   "time": 26.48,
+   "weight": 1.0,
+   "note_time": 25.58
+  },
+  {
+   "text": "out",
+   "time": 26.66,
+   "weight": 1.0,
+   "note_time": 25.77
+  },
+  {
+   "text": "works",
+   "time": 26.84,
+   "weight": 0.96,
+   "note_time": 26.15
+  },
+  {
+   "text": "is",
+   "time": 27.5,
+   "weight": 1.0,
+   "note_time": 26.73
+  },
+  {
+   "text": "dead",
+   "time": 27.92,
+   "weight": 1.0,
+   "note_time": 27.31
+  },
+  {
+   "text": "Faith",
+   "time": 31.56,
+   "weight": 0.78,
+   "note_time": 31.54
+  },
+  {
+   "text": "with",
+   "time": 32.6,
+   "weight": 1.0,
+   "note_time": 31.73
+  },
+  {
+   "text": "out",
+   "time": 32.8,
+   "weight": 1.0,
+   "note_time": 31.92
+  },
+  {
+   "text": "works",
+   "time": 33.0,
+   "weight": 0.99,
+   "note_time": 32.31
+  },
+  {
+   "text": "is",
+   "time": 33.66,
+   "weight": 1.0,
+   "note_time": 32.88
+  },
+  {
+   "text": "dead",
+   "time": 34.1,
+   "weight": 0.95,
+   "note_time": 33.46
+  },
+  {
+   "text": "Show",
+   "time": 36.94,
+   "weight": 0.85,
+   "note_time": 36.92
+  },
+  {
+   "text": "me",
+   "time": 37.98,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "your",
+   "time": 38.58,
+   "weight": 0.97,
+   "note_time": 38.08
+  },
+  {
+   "text": "faith",
+   "time": 39.2,
+   "weight": 0.99,
+   "note_time": 38.46
+  },
+  {
+   "text": "with",
+   "time": 39.72,
+   "weight": 0.66,
+   "note_time": 39.62
+  },
+  {
+   "text": "noth",
+   "time": 40.7,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "ing",
+   "time": 41.05,
+   "weight": 1.0,
+   "note_time": 40.58
+  },
+  {
+   "text": "to",
+   "time": 41.4,
+   "weight": 1.0,
+   "note_time": 41.15
+  },
+  {
+   "text": "show",
+   "time": 42.16,
+   "weight": 1.0,
+   "note_time": 41.54
+  },
+  {
+   "text": "I'll",
+   "time": 42.68,
+   "weight": 0.99,
+   "note_time": 42.69
+  },
+  {
+   "text": "show",
+   "time": 43.88,
+   "weight": 1.0,
+   "note_time": 43.08
+  },
+  {
+   "text": "you",
+   "time": 44.16,
+   "weight": 1.0,
+   "note_time": 43.65
+  },
+  {
+   "text": "my",
+   "time": 44.82,
+   "weight": 1.0,
+   "note_time": 44.23
+  },
+  {
+   "text": "faith",
+   "time": 45.38,
+   "weight": 1.0,
+   "note_time": 44.62
+  },
+  {
+   "text": "by",
+   "time": 45.86,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "what",
+   "time": 46.1,
+   "weight": 1.0,
+   "note_time": 45.38
+  },
+  {
+   "text": "I",
+   "time": 46.44,
+   "weight": 1.0,
+   "note_time": 45.58
+  },
+  {
+   "text": "do",
+   "time": 46.74,
+   "weight": 1.0,
+   "note_time": 45.96
+  },
+  {
+   "text": "So",
+   "time": 49.78,
+   "weight": 0.99,
+   "note_time": 49.81
+  },
+  {
+   "text": "al",
+   "time": 50.82,
+   "weight": 0.99,
+   "note_time": 50.0
+  },
+  {
+   "text": "so",
+   "time": 51.0,
+   "weight": 0.99,
+   "note_time": 50.19
+  },
+  {
+   "text": "faith",
+   "time": 51.18,
+   "weight": 0.99,
+   "note_time": 50.58
+  },
+  {
+   "text": "by",
+   "time": 51.72,
+   "weight": 1.0,
+   "note_time": 50.96
+  },
+  {
+   "text": "it",
+   "time": 52.04,
+   "weight": 1.0,
+   "note_time": 51.35
+  },
+  {
+   "text": "self",
+   "time": 52.37,
+   "weight": 1.0,
+   "note_time": 51.73
+  },
+  {
+   "text": "If",
+   "time": 52.7,
+   "weight": 0.58,
+   "note_time": 52.88
+  },
+  {
+   "text": "it",
+   "time": 53.72,
+   "weight": 1.0,
+   "note_time": 53.08
+  },
+  {
+   "text": "does",
+   "time": 54.16,
+   "weight": 1.0,
+   "note_time": 53.27
+  },
+  {
+   "text": "not",
+   "time": 54.4,
+   "weight": 1.0,
+   "note_time": 53.65
+  },
+  {
+   "text": "have",
+   "time": 54.8,
+   "weight": 1.0,
+   "note_time": 54.04
+  },
+  {
+   "text": "works",
+   "time": 55.18,
+   "weight": 1.0,
+   "note_time": 54.42
+  },
+  {
+   "text": "Is",
+   "time": 55.76,
+   "weight": 0.9,
+   "note_time": 55.0
+  },
+  {
+   "text": "dead,",
+   "time": 56.18,
+   "weight": 1.0,
+   "note_time": 55.38
+  },
+  {
+   "text": "is",
+   "time": 56.58,
+   "weight": 0.16,
+   "note_time": 56.54
+  },
+  {
+   "text": "dead",
+   "time": 57.64,
+   "weight": 0.97,
+   "note_time": 56.92
+  },
+  {
+   "text": "Get",
+   "time": 58.08,
+   "weight": 0.4,
+   "note_time": 58.08
+  },
+  {
+   "text": "up",
+   "time": 59.14,
+   "weight": 0.99,
+   "note_time": 58.46
+  },
+  {
+   "text": "and",
+   "time": 59.8,
+   "weight": 0.94,
+   "note_time": 59.62
+  },
+  {
+   "text": "give",
+   "time": 60.78,
+   "weight": 0.98,
+   "note_time": 59.81
+  },
+  {
+   "text": "Faith",
+   "time": 62.22,
+   "weight": 0.88,
+   "note_time": 62.31
+  },
+  {
+   "text": "with",
+   "time": 63.4,
+   "weight": 0.99,
+   "note_time": 62.5
+  },
+  {
+   "text": "out",
+   "time": 63.6,
+   "weight": 0.99,
+   "note_time": 62.69
+  },
+  {
+   "text": "works",
+   "time": 63.8,
+   "weight": 0.99,
+   "note_time": 63.08
+  },
+  {
+   "text": "is",
+   "time": 64.44,
+   "weight": 0.96,
+   "note_time": 63.65
+  },
+  {
+   "text": "dead",
+   "time": 64.86,
+   "weight": 0.99,
+   "note_time": 64.23
+  },
+  {
+   "text": "Faith",
+   "time": 68.3,
+   "weight": 0.94,
+   "note_time": 68.46
+  },
+  {
+   "text": "with",
+   "time": 69.5,
+   "weight": 1.0,
+   "note_time": 68.65
+  },
+  {
+   "text": "out",
+   "time": 69.67,
+   "weight": 1.0,
+   "note_time": 68.85
+  },
+  {
+   "text": "works",
+   "time": 69.84,
+   "weight": 1.0,
+   "note_time": 69.23
+  },
+  {
+   "text": "is",
+   "time": 70.36,
+   "weight": 1.0,
+   "note_time": 69.81
+  },
+  {
+   "text": "dead",
+   "time": 71.0,
+   "weight": 1.0,
+   "note_time": 70.38
+  },
+  {
+   "text": "Show",
+   "time": 73.68,
+   "weight": 0.98,
+   "note_time": 73.85
+  },
+  {
+   "text": "me",
+   "time": 74.88,
+   "weight": 1.0,
+   "note_time": 74.42
+  },
+  {
+   "text": "your",
+   "time": 75.52,
+   "weight": 0.98,
+   "note_time": 75.0
+  },
+  {
+   "text": "faith",
+   "time": 76.12,
+   "weight": 0.99,
+   "note_time": 75.38
+  },
+  {
+   "text": "with",
+   "time": 77.04,
+   "weight": 0.55,
+   "note_time": 76.54
+  },
+  {
+   "text": "noth",
+   "time": 77.64,
+   "weight": 1.0,
+   "note_time": 76.92
+  },
+  {
+   "text": "ing",
+   "time": 77.97,
+   "weight": 1.0,
+   "note_time": 77.5
+  },
+  {
+   "text": "to",
+   "time": 78.3,
+   "weight": 1.0,
+   "note_time": 78.08
+  },
+  {
+   "text": "show",
+   "time": 79.1,
+   "weight": 1.0,
+   "note_time": 78.46
+  },
+  {
+   "text": "I'll",
+   "time": 79.64,
+   "weight": 0.99,
+   "note_time": 79.62
+  },
+  {
+   "text": "show",
+   "time": 80.8,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "you",
+   "time": 81.1,
+   "weight": 1.0,
+   "note_time": 80.58
+  },
+  {
+   "text": "my",
+   "time": 81.76,
+   "weight": 0.99,
+   "note_time": 81.15
+  },
+  {
+   "text": "faith",
+   "time": 82.28,
+   "weight": 0.99,
+   "note_time": 81.54
+  },
+  {
+   "text": "by",
+   "time": 82.78,
+   "weight": 0.89,
+   "note_time": 81.92
+  },
+  {
+   "text": "what",
+   "time": 83.0,
+   "weight": 1.0,
+   "note_time": 82.31
+  },
+  {
+   "text": "I",
+   "time": 83.36,
+   "weight": 1.0,
+   "note_time": 82.5
+  },
+  {
+   "text": "do",
+   "time": 83.66,
+   "weight": 1.0,
+   "note_time": 82.88
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 20 lyric lines sit on their notes."
+}

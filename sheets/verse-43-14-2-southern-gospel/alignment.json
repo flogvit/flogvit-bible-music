@@ -1,0 +1,955 @@
+{
+ "id": "verse-43-14-2-southern-gospel",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-14-2-southern-gospel",
+ "offset_seconds": -4.340000000000163,
+ "words_heard": 118,
+ "words": 118,
+ "lines": [
+  {
+   "text": "Do not let your hearts be troubled",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You believe in God, believe in me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In my Father's house are many rooms",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If it were not so, would I have told you",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There's a room prepared for me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In my Father's house up yonder",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will go and he will come again",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And take me home to be with him",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I go to prepare a place for you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And if I go, I'll come again",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And take you to myself, that where I am",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There you may be also, my friend",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There's a room prepared for me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In my Father's house up yonder",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will go and he will come again",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And take me home to be with him",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Do",
+   "time": 16.5,
+   "weight": 0.56,
+   "note_time": 16.67
+  },
+  {
+   "text": "not",
+   "time": 17.9,
+   "weight": 0.98,
+   "note_time": 17.5
+  },
+  {
+   "text": "let",
+   "time": 18.3,
+   "weight": 1.0,
+   "note_time": 17.92
+  },
+  {
+   "text": "your",
+   "time": 18.78,
+   "weight": 1.0,
+   "note_time": 18.12
+  },
+  {
+   "text": "hearts",
+   "time": 19.2,
+   "weight": 0.94,
+   "note_time": 19.17
+  },
+  {
+   "text": "be",
+   "time": 19.94,
+   "weight": 1.0,
+   "note_time": 19.58
+  },
+  {
+   "text": "trou",
+   "time": 20.42,
+   "weight": 1.0,
+   "note_time": 20.42
+  },
+  {
+   "text": "bled",
+   "time": 20.77,
+   "weight": 1.0,
+   "note_time": 20.62
+  },
+  {
+   "text": "You",
+   "time": 21.34,
+   "weight": 0.15,
+   "note_time": 22.92
+  },
+  {
+   "text": "be",
+   "time": 23.76,
+   "weight": 0.98,
+   "note_time": 23.12
+  },
+  {
+   "text": "lieve",
+   "time": 24.11,
+   "weight": 0.98,
+   "note_time": 23.33
+  },
+  {
+   "text": "in",
+   "time": 24.64,
+   "weight": 1.0,
+   "note_time": 24.17
+  },
+  {
+   "text": "God,",
+   "time": 25.5,
+   "weight": 0.99,
+   "note_time": 24.58
+  },
+  {
+   "text": "be",
+   "time": 26.48,
+   "weight": 0.97,
+   "note_time": 26.67
+  },
+  {
+   "text": "lieve",
+   "time": 26.83,
+   "weight": 0.97,
+   "note_time": 27.08
+  },
+  {
+   "text": "in",
+   "time": 27.88,
+   "weight": 1.0,
+   "note_time": 27.29
+  },
+  {
+   "text": "me",
+   "time": 28.66,
+   "weight": 0.62,
+   "note_time": 27.92
+  },
+  {
+   "text": "In",
+   "time": 29.28,
+   "weight": 0.24,
+   "note_time": 30.0
+  },
+  {
+   "text": "my",
+   "time": 31.3,
+   "weight": 0.93,
+   "note_time": 30.21
+  },
+  {
+   "text": "Fa",
+   "time": 31.56,
+   "weight": 0.85,
+   "note_time": 30.83
+  },
+  {
+   "text": "ther's",
+   "time": 31.91,
+   "weight": 0.85,
+   "note_time": 31.25
+  },
+  {
+   "text": "house",
+   "time": 32.64,
+   "weight": 0.97,
+   "note_time": 31.46
+  },
+  {
+   "text": "are",
+   "time": 33.08,
+   "weight": 0.94,
+   "note_time": 32.92
+  },
+  {
+   "text": "ma",
+   "time": 34.2,
+   "weight": 1.0,
+   "note_time": 33.33
+  },
+  {
+   "text": "ny",
+   "time": 34.43,
+   "weight": 1.0,
+   "note_time": 34.17
+  },
+  {
+   "text": "rooms",
+   "time": 34.66,
+   "weight": 0.99,
+   "note_time": 34.58
+  },
+  {
+   "text": "If",
+   "time": 36.9,
+   "weight": 0.67,
+   "note_time": 36.67
+  },
+  {
+   "text": "it",
+   "time": 37.78,
+   "weight": 0.99,
+   "note_time": 37.71
+  },
+  {
+   "text": "were",
+   "time": 38.24,
+   "weight": 1.0,
+   "note_time": 38.33
+  },
+  {
+   "text": "not",
+   "time": 38.54,
+   "weight": 1.0,
+   "note_time": 38.54
+  },
+  {
+   "text": "so,",
+   "time": 39.06,
+   "weight": 0.99,
+   "note_time": 38.75
+  },
+  {
+   "text": "would",
+   "time": 39.96,
+   "weight": 0.96,
+   "note_time": 39.79
+  },
+  {
+   "text": "I",
+   "time": 41.18,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "have",
+   "time": 41.32,
+   "weight": 1.0,
+   "note_time": 40.42
+  },
+  {
+   "text": "told",
+   "time": 41.84,
+   "weight": 1.0,
+   "note_time": 40.83
+  },
+  {
+   "text": "you",
+   "time": 42.22,
+   "weight": 0.86,
+   "note_time": 41.67
+  },
+  {
+   "text": "There's",
+   "time": 46.42,
+   "weight": 0.99,
+   "note_time": 45.83
+  },
+  {
+   "text": "a",
+   "time": 47.46,
+   "weight": 1.0,
+   "note_time": 46.25
+  },
+  {
+   "text": "room",
+   "time": 47.54,
+   "weight": 1.0,
+   "note_time": 46.46
+  },
+  {
+   "text": "pre",
+   "time": 47.98,
+   "weight": 0.99,
+   "note_time": 47.5
+  },
+  {
+   "text": "pared",
+   "time": 48.33,
+   "weight": 0.99,
+   "note_time": 47.92
+  },
+  {
+   "text": "for",
+   "time": 49.14,
+   "weight": 1.0,
+   "note_time": 49.17
+  },
+  {
+   "text": "me",
+   "time": 50.46,
+   "weight": 1.0,
+   "note_time": 49.58
+  },
+  {
+   "text": "In",
+   "time": 52.82,
+   "weight": 0.95,
+   "note_time": 52.5
+  },
+  {
+   "text": "my",
+   "time": 53.86,
+   "weight": 1.0,
+   "note_time": 52.71
+  },
+  {
+   "text": "Fa",
+   "time": 54.12,
+   "weight": 0.4,
+   "note_time": 53.33
+  },
+  {
+   "text": "ther's",
+   "time": 54.47,
+   "weight": 0.4,
+   "note_time": 54.17
+  },
+  {
+   "text": "house",
+   "time": 55.74,
+   "weight": 1.0,
+   "note_time": 54.58
+  },
+  {
+   "text": "up",
+   "time": 56.1,
+   "weight": 0.97,
+   "note_time": 55.83
+  },
+  {
+   "text": "yon",
+   "time": 57.32,
+   "weight": 1.0,
+   "note_time": 56.25
+  },
+  {
+   "text": "der",
+   "time": 57.67,
+   "weight": 1.0,
+   "note_time": 57.08
+  },
+  {
+   "text": "I",
+   "time": 58.36,
+   "weight": 0.32,
+   "note_time": 59.17
+  },
+  {
+   "text": "will",
+   "time": 60.46,
+   "weight": 0.95,
+   "note_time": 59.58
+  },
+  {
+   "text": "go",
+   "time": 60.92,
+   "weight": 0.99,
+   "note_time": 59.79
+  },
+  {
+   "text": "and",
+   "time": 61.26,
+   "weight": 0.92,
+   "note_time": 60.83
+  },
+  {
+   "text": "he",
+   "time": 62.16,
+   "weight": 0.73,
+   "note_time": 61.25
+  },
+  {
+   "text": "will",
+   "time": 62.52,
+   "weight": 1.0,
+   "note_time": 62.08
+  },
+  {
+   "text": "come",
+   "time": 63.48,
+   "weight": 1.0,
+   "note_time": 62.92
+  },
+  {
+   "text": "a",
+   "time": 64.2,
+   "weight": 1.0,
+   "note_time": 63.12
+  },
+  {
+   "text": "gain",
+   "time": 64.46,
+   "weight": 1.0,
+   "note_time": 63.33
+  },
+  {
+   "text": "And",
+   "time": 65.36,
+   "weight": 0.64,
+   "note_time": 66.25
+  },
+  {
+   "text": "take",
+   "time": 66.66,
+   "weight": 1.0,
+   "note_time": 66.67
+  },
+  {
+   "text": "me",
+   "time": 68.02,
+   "weight": 1.0,
+   "note_time": 67.5
+  },
+  {
+   "text": "home",
+   "time": 68.86,
+   "weight": 1.0,
+   "note_time": 67.92
+  },
+  {
+   "text": "to",
+   "time": 69.38,
+   "weight": 1.0,
+   "note_time": 68.75
+  },
+  {
+   "text": "be",
+   "time": 70.06,
+   "weight": 1.0,
+   "note_time": 69.17
+  },
+  {
+   "text": "with",
+   "time": 70.44,
+   "weight": 1.0,
+   "note_time": 69.58
+  },
+  {
+   "text": "him",
+   "time": 70.94,
+   "weight": 1.0,
+   "note_time": 69.79
+  },
+  {
+   "text": "I",
+   "time": 76.8,
+   "weight": 0.88,
+   "note_time": 76.67
+  },
+  {
+   "text": "go",
+   "time": 77.54,
+   "weight": 0.92,
+   "note_time": 77.5
+  },
+  {
+   "text": "to",
+   "time": 78.22,
+   "weight": 1.0,
+   "note_time": 77.92
+  },
+  {
+   "text": "pre",
+   "time": 78.78,
+   "weight": 1.0,
+   "note_time": 78.12
+  },
+  {
+   "text": "pare",
+   "time": 79.05,
+   "weight": 1.0,
+   "note_time": 78.75
+  },
+  {
+   "text": "a",
+   "time": 79.32,
+   "weight": 1.0,
+   "note_time": 78.96
+  },
+  {
+   "text": "place",
+   "time": 80.02,
+   "weight": 1.0,
+   "note_time": 79.58
+  },
+  {
+   "text": "for",
+   "time": 80.5,
+   "weight": 1.0,
+   "note_time": 80.42
+  },
+  {
+   "text": "you",
+   "time": 80.92,
+   "weight": 0.67,
+   "note_time": 80.62
+  },
+  {
+   "text": "And",
+   "time": 81.8,
+   "weight": 0.08,
+   "note_time": 83.12
+  },
+  {
+   "text": "if",
+   "time": 84.32,
+   "weight": 0.96,
+   "note_time": 83.96
+  },
+  {
+   "text": "I",
+   "time": 84.76,
+   "weight": 0.99,
+   "note_time": 84.38
+  },
+  {
+   "text": "go,",
+   "time": 85.26,
+   "weight": 0.99,
+   "note_time": 84.58
+  },
+  {
+   "text": "I'll",
+   "time": 86.24,
+   "weight": 0.4,
+   "note_time": 86.25
+  },
+  {
+   "text": "come",
+   "time": 87.84,
+   "weight": 1.0,
+   "note_time": 87.08
+  },
+  {
+   "text": "a",
+   "time": 88.34,
+   "weight": 0.99,
+   "note_time": 87.5
+  },
+  {
+   "text": "gain",
+   "time": 88.69,
+   "weight": 0.99,
+   "note_time": 87.92
+  },
+  {
+   "text": "And",
+   "time": 89.26,
+   "weight": 0.27,
+   "note_time": 89.79
+  },
+  {
+   "text": "take",
+   "time": 90.14,
+   "weight": 1.0,
+   "note_time": 90.21
+  },
+  {
+   "text": "you",
+   "time": 91.32,
+   "weight": 0.88,
+   "note_time": 90.83
+  },
+  {
+   "text": "to",
+   "time": 91.6,
+   "weight": 1.0,
+   "note_time": 91.04
+  },
+  {
+   "text": "my",
+   "time": 92.04,
+   "weight": 0.92,
+   "note_time": 91.67
+  },
+  {
+   "text": "self,",
+   "time": 92.39,
+   "weight": 0.92,
+   "note_time": 92.92
+  },
+  {
+   "text": "that",
+   "time": 93.36,
+   "weight": 0.75,
+   "note_time": 93.33
+  },
+  {
+   "text": "where",
+   "time": 94.24,
+   "weight": 0.99,
+   "note_time": 93.96
+  },
+  {
+   "text": "I",
+   "time": 94.62,
+   "weight": 1.0,
+   "note_time": 94.38
+  },
+  {
+   "text": "am",
+   "time": 95.3,
+   "weight": 1.0,
+   "note_time": 94.58
+  },
+  {
+   "text": "There",
+   "time": 96.66,
+   "weight": 0.47,
+   "note_time": 96.67
+  },
+  {
+   "text": "you",
+   "time": 97.98,
+   "weight": 0.99,
+   "note_time": 97.71
+  },
+  {
+   "text": "may",
+   "time": 98.34,
+   "weight": 1.0,
+   "note_time": 98.12
+  },
+  {
+   "text": "be",
+   "time": 98.62,
+   "weight": 1.0,
+   "note_time": 98.33
+  },
+  {
+   "text": "al",
+   "time": 99.04,
+   "weight": 0.98,
+   "note_time": 98.75
+  },
+  {
+   "text": "so,",
+   "time": 99.39,
+   "weight": 0.98,
+   "note_time": 98.96
+  },
+  {
+   "text": "my",
+   "time": 99.98,
+   "weight": 1.0,
+   "note_time": 99.17
+  },
+  {
+   "text": "friend",
+   "time": 100.44,
+   "weight": 1.0,
+   "note_time": 99.58
+  },
+  {
+   "text": "There's",
+   "time": 102.9,
+   "weight": 0.99,
+   "note_time": 102.5
+  },
+  {
+   "text": "a",
+   "time": 104.22,
+   "weight": 0.98,
+   "note_time": 102.92
+  },
+  {
+   "text": "room",
+   "time": 104.22,
+   "weight": 0.99,
+   "note_time": 103.12
+  },
+  {
+   "text": "pre",
+   "time": 104.7,
+   "weight": 0.99,
+   "note_time": 104.17
+  },
+  {
+   "text": "pared",
+   "time": 105.05,
+   "weight": 0.99,
+   "note_time": 104.58
+  },
+  {
+   "text": "for",
+   "time": 105.84,
+   "weight": 1.0,
+   "note_time": 105.83
+  },
+  {
+   "text": "me",
+   "time": 107.14,
+   "weight": 1.0,
+   "note_time": 106.25
+  },
+  {
+   "text": "In",
+   "time": 109.06,
+   "weight": 0.69,
+   "note_time": 109.17
+  },
+  {
+   "text": "my",
+   "time": 110.4,
+   "weight": 0.94,
+   "note_time": 109.38
+  },
+  {
+   "text": "Fa",
+   "time": 110.72,
+   "weight": 0.37,
+   "note_time": 110.0
+  },
+  {
+   "text": "ther's",
+   "time": 111.07,
+   "weight": 0.37,
+   "note_time": 110.83
+  },
+  {
+   "text": "house",
+   "time": 112.4,
+   "weight": 0.99,
+   "note_time": 111.25
+  },
+  {
+   "text": "up",
+   "time": 112.68,
+   "weight": 0.94,
+   "note_time": 112.5
+  },
+  {
+   "text": "yon",
+   "time": 113.96,
+   "weight": 1.0,
+   "note_time": 112.92
+  },
+  {
+   "text": "der",
+   "time": 114.31,
+   "weight": 1.0,
+   "note_time": 113.75
+  },
+  {
+   "text": "I",
+   "time": 115.02,
+   "weight": 0.36,
+   "note_time": 115.83
+  },
+  {
+   "text": "will",
+   "time": 116.88,
+   "weight": 1.0,
+   "note_time": 116.25
+  },
+  {
+   "text": "go",
+   "time": 117.56,
+   "weight": 1.0,
+   "note_time": 116.46
+  },
+  {
+   "text": "and",
+   "time": 117.88,
+   "weight": 0.92,
+   "note_time": 117.5
+  },
+  {
+   "text": "he",
+   "time": 118.84,
+   "weight": 0.94,
+   "note_time": 117.92
+  },
+  {
+   "text": "will",
+   "time": 119.12,
+   "weight": 1.0,
+   "note_time": 118.75
+  },
+  {
+   "text": "come",
+   "time": 120.12,
+   "weight": 1.0,
+   "note_time": 119.58
+  },
+  {
+   "text": "a",
+   "time": 120.88,
+   "weight": 1.0,
+   "note_time": 119.79
+  },
+  {
+   "text": "gain",
+   "time": 121.13,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "And",
+   "time": 122.96,
+   "weight": 0.95,
+   "note_time": 122.92
+  },
+  {
+   "text": "take",
+   "time": 124.3,
+   "weight": 1.0,
+   "note_time": 123.33
+  },
+  {
+   "text": "me",
+   "time": 124.68,
+   "weight": 1.0,
+   "note_time": 124.17
+  },
+  {
+   "text": "home",
+   "time": 125.5,
+   "weight": 1.0,
+   "note_time": 124.58
+  },
+  {
+   "text": "to",
+   "time": 126.04,
+   "weight": 1.0,
+   "note_time": 125.42
+  },
+  {
+   "text": "be",
+   "time": 126.7,
+   "weight": 1.0,
+   "note_time": 125.83
+  },
+  {
+   "text": "with",
+   "time": 127.12,
+   "weight": 1.0,
+   "note_time": 126.25
+  },
+  {
+   "text": "him",
+   "time": 127.6,
+   "weight": 1.0,
+   "note_time": 126.46
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 0.7 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "All 16 lyric lines sit on their notes."
+}

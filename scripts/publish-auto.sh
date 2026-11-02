@@ -1,6 +1,6 @@
 #!/bin/zsh
 # Publish this machine's finished songs to media.flogvit.com when any are new. Run by a timer on each machine
-# (scripts/install-publisher.sh sets up launchd); does nothing when no song in the library changed since the
+# (scripts/install-publisher.sh sets up launchd); does nothing when no song in the library and no catalog entry changed since the
 # last publish.
 #
 # Environment:
@@ -26,7 +26,9 @@ fi
 library=${MUSIC_LIBRARY:-$repo/library}
 stamp=$library/.published
 [[ -d $library ]] || { log "FAILED: no library at $library"; exit 1; }
-if [[ -e $stamp ]] && [[ -z $(find $library -mindepth 2 -maxdepth 2 -newer $stamp -print -quit) ]]; then
+# New when a library song changed, or a catalog entry did (publish.ts publishes the catalog's title).
+if [[ -e $stamp ]] && [[ -z $(find $library -mindepth 2 -maxdepth 2 -newer $stamp -print -quit) ]] \
+  && [[ -z $(find $repo/catalog -name '*.json' -newer $stamp -print -quit) ]]; then
   exit 0  # nothing new
 fi
 

@@ -417,16 +417,20 @@ class Listener:
         return self.cache[key]
 
     def language(self) -> dict:
-        """The language Whisper hears in the singing: from the first word it heard, over up to three 30 s windows."""
+        """What Whisper hears in the first 60 s of singing with no lyrics to go by and no language given: the words
+        (`heard`, which the lyrics check needs to be English) and its guess of the language. The guess alone is
+        not enough: it calls English Gregorian chant Latin (0.89) while it writes the English words down."""
         if self.audio is None:
             self.audio = load_audio(self.audio_path)
         if self.model is None:
             from faster_whisper import WhisperModel
             self.model = WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8", cpu_threads=8)
         starts = [w["s"] for words in self.cache.values() for w in words]
-        clip = self.audio[int(min(starts, default=0.0) * SAMPLE_RATE):]
-        language, probability, _ = self.model.detect_language(clip, language_detection_segments=3)
-        return {"language": language, "probability": round(float(probability), 3)}
+        start = int(min(starts, default=0.0) * SAMPLE_RATE)
+        segments, info = self.model.transcribe(self.audio[start:start + 60 * SAMPLE_RATE], beam_size=5,
+                                               condition_on_previous_text=False)
+        heard = " ".join(s.text.strip() for s in segments)
+        return {"language": info.language, "probability": round(float(info.language_probability), 3), "heard": heard}
 
     def duration(self) -> float:
         out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",

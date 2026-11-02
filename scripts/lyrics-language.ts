@@ -28,4 +28,6 @@ export function notEnglish(text: string): string | undefined {
       return `${language} words (${[...new Set(foreign)].slice(0, 6).join(', ')}: ${foreign.length}, against ${english} English)`;
     }
   }
+  // Any other language: English lyrics have 28 % or more of these words (the catalog, 2026-11-02).
+  if (words.length >= 15 && english / words.length < 0.15) return `few English words (${english} of ${words.length})`;
 }

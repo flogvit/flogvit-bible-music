@@ -1,0 +1,67 @@
+{
+  "id": "person-usai-jazz",
+  "title": "Perfumer of the Wall",
+  "kind": "person",
+  "anchor": {
+    "person": "usai"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 30,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 16,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 16,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "usai",
+      "nehemja",
+      "hananja-usais-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, female warm solo voice, upright bass, brushed drums, saxophone, piano, mood reflective and steady, tempo 85 BPM",
+    "lyrics": "[Verse]\nNext to Uzziel the goldsmith stood\nA perfumer with hands that could build\nIn the city of Jerusalem\nThey worked side by side\nRestored the stone as far as the Broad Wall\nNo one asked for glory or fame\nJust the task at hand in the dust\nShoulder to shoulder in the rain\n\n[Chorus]\nHananiah son of Uzziel\nBuilding the wall with steady hand\nNext to him a perfumer stood\nAdding their part to the plan\nThe gaps were closed the work went on\nUnder the eyes of the Lord\n\n[Verse]\nSanballat and Tobiah grew furious\nSeeing the gaps being closed\nThey conspired to fight against Jerusalem\nTo throw it into confusion and loss\nBut we prayed to our God day and night\nPosting guards against their threat\nThe laborers said the strength was failing\nToo much rubble on the street\n\n[Chorus]\nHananiah son of Uzziel\nBuilding the wall with steady hand\nNext to him a perfumer stood\nAdding their part to the plan\nThe gaps were closed the work went on\nUnder the eyes of the Lord\n\n[Bridge]\nEnemies whispered we would be killed\nBefore they saw the stone set\nBut the Jews warned us ten times over\nWe did not let our spirits get wet\nThe nations around were afraid\nWhen the wall was finally done\n\n[Outro]\nFifty-two days the work was finished\nThe enemies confidence was gone\nThe wall stands firm in the history\nA testament to the strong",
+    "cot": "full",
+    "seed": 31140
+  }
+}

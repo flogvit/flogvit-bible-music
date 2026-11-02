@@ -1,0 +1,70 @@
+{
+  "id": "person-sjamhut-worship",
+  "title": "Line of Perez",
+  "kind": "person",
+  "anchor": {
+    "person": "sjamhut"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 4,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 8,
+      "chapter": 4,
+      "verseStart": 18,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 32,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "sjamhut",
+      "juda",
+      "peres",
+      "hesron",
+      "aram"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone solo, warm and reverent, acoustic guitar, piano, strings, soft percussion, 72 BPM",
+    "lyrics": "[Verse]\nTamar bore Perez and Zerah\nJudah had five sons in all\nHezron and Hamul were his sons\nThe line begins to stand\n\n[Chorus]\nPerez father of Hezron\nHezron father of Ram\nRam father of Amminadab\nAmminadab father of Nahshon\n\n[Verse]\nNahshon father of Salmon\nSalmon link in the chain\nBoaz Obed Jesse\nJesse son of David\nThe name Shamhuth is hidden\nIn the scroll of Ruth\nFrom Perez to the king\nThe bloodline stands\n\n[Chorus]\nPerez father of Hezron\nHezron father of Ram\nRam father of Amminadab\nAmminadab father of Nahshon\n\n[Bridge]\nLuke traces back to Adam\nMatthew follows the king\nThrough the generations passed\nThe promise holds its ground\n\n[Outro]\nSalmon of Nahshon\nNahshon of Amminadab\nThe line of Judah endures\nIn the book of life",
+    "cot": "full",
+    "seed": 31137
+  }
+}

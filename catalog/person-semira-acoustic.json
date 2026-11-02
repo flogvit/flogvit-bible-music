@@ -1,0 +1,59 @@
+{
+  "id": "person-semira-acoustic",
+  "title": "The Sons of Asher",
+  "kind": "person",
+  "anchor": {
+    "person": "semira"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 44,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 30,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "semira",
+      "jakob-israel",
+      "asjer",
+      "beria"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, soft piano, gentle cello, light percussion, nostalgic and peaceful, 80 BPM",
+    "lyrics": "[Verse]\nIn the genealogy of Jacob's line\nThe sons of Asher are named\nImnah, Ishvah, and Ishvi\nBeriah stands in the fame\nAnd their sister Serah\nListed with care in the text\nPart of the household\nWho came from the rest\n\n[Chorus]\nThe sons of Asher by their clans\nFrom Imnah, the Imnite clan\nFrom Ishvi, the Ishvite clan\nFrom Beriah, the Beriite clan\n\n[Verse]\nFrom the sons of Beriah\nHeber and Malchiel are found\nFather of Birzaith he was\nIn the land where they stood\nThe name of Asher's daughter\nWas Serah, recorded so\nIn the census of the tribes\nAll who went to and fro\n\n[Chorus]\nThe sons of Asher by their clans\nFrom Imnah, the Imnite clan\nFrom Ishvi, the Ishvite clan\nFrom Beriah, the Beriite clan\n\n[Verse]\nSeventy people in the house\nWho went down to Egypt deep\nDuring the famine of the land\nTheir journey they would keep\nThe detailed genealogy\nIn Chronicles written clear\nThe lineage of the tribe\nRemains a memory here\n\n[Chorus]\nThe sons of Asher by their clans\nFrom Imnah, the Imnite clan\nFrom Ishvi, the Ishvite clan\nFrom Beriah, the Beriite clan\n\n[Outro]\nImnah, Ishvah, Ishvi, Beriah\nAnd their sister Serah",
+    "cot": "full",
+    "seed": 31136
+  }
+}

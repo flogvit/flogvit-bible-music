@@ -1,0 +1,65 @@
+{
+  "id": "person-zimran-hymn",
+  "title": "Sent Eastward",
+  "kind": "person",
+  "anchor": {
+    "person": "zimran"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 7,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 32,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "zimran",
+      "abraham",
+      "ketura",
+      "isak",
+      "ismael"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn female solo voice, organ, harp, strings, 80 BPM, hymn",
+    "lyrics": "[Verse]\nAbraham took another wife\nWhose name was Keturah\nShe bore him Zimran first\nJokshan and Medan there\n\n[Verse]\nMidian and Ishbak too\nAnd Shuah round the hearth\nSix sons by Keturah born\nIn the ancient earth\n\n[Verse]\nAbraham gave everything\nTo Isaac as his heir\nBut to the sons of concubines\nGifts he did not spare\n\n[Verse]\nWhile he was still alive\nHe sent them far away\nFrom Isaac and his son\nTo the land of the day\n\n[Verse]\nHe breathed his last and died\nOld and satisfied with life\nGathered to his people\nIn the cave of his life\n\n[Outro]\nSent eastward to the land",
+    "cot": "full",
+    "seed": 31141
+  }
+}

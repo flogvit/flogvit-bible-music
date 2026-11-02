@@ -1,0 +1,66 @@
+{
+  "id": "person-sabteka-country",
+  "title": "Sons of Cush",
+  "kind": "person",
+  "anchor": {
+    "person": "sabteka"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 6,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "hap"
+    ],
+    "stories": [],
+    "persons": [
+      "sabteka",
+      "noah",
+      "kam",
+      "kusj",
+      "nimrod"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, fiddle, upright bass, gentle percussion, warm and reverent, 80 BPM",
+    "lyrics": "[Verse]\nThe family line of Noah's sons\nShem and Ham and Japheth born\nAfter the flood the waters dried\nAnd nations spread on every side\n\n[Pre-Chorus]\nHam became the father there\nOf Cush and Egypt and Put\nCanaan joined them in the land\nWhere scattered peoples made a stand\n\n[Chorus]\nThe sons of Cush came to be\nSeba Havilah Sabtah too\nRaamah and Sabteca named\nIn the book of Genesis famed\n\n[Verse]\nSabteca is listed clear\nOne of the six who appear\nIn the genealogy found\nOf the people on the ground\n\n[Pre-Chorus]\nHe is the grandson of Ham\nGreat-grandson of Noah's name\nA part of the line that grew\nIn the lands that the nations knew\n\n[Chorus]\nThe sons of Cush came to be\nSeba Havilah Sabtah too\nRaamah and Sabteca named\nIn the book of Genesis famed\n\n[Bridge]\n1 Chronicles tells it again\nConfirming his place in the plain\nOf the Hamitic line that spread\nTo the lands that were never dead\n\n[Outro]\nFrom the flood to the nations known\nSabteca stands in the throne",
+    "cot": "full",
+    "seed": 31135
+  }
+}

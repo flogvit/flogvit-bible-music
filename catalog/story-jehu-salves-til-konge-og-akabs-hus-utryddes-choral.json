@@ -1,0 +1,47 @@
+{
+  "id": "story-jehu-salves-til-konge-og-akabs-hus-utryddes-choral",
+  "title": "The Plot of Jezreel",
+  "kind": "story",
+  "anchor": {
+    "story": "jehu-salves-til-konge-og-akabs-hus-utryddes"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 37
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "synden",
+      "frelsen"
+    ],
+    "stories": [
+      "jehu-salves-til-konge-og-akabs-hus-utryddes"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn male baritone solo with low string choir, cello, viola, timpani, organ, dark and urgent, 72 BPM",
+    "lyrics": "[Verse]\nElisha called a son of prophets\nTake the flask and go to Ramoth-gilead\nFind Jehu son of Jehoshaphat\nPour the oil on his head\n\n[Verse]\nThis is what the Lord says\nI anoint you king over Israel\nStrike down the house of Ahab\nAvenge the blood of prophets\n\n[Verse]\nJehu rode to Jezreel city\nJoram asked if it came in peace\nHe drew his bow and shot the king\nBetween the shoulders and the heart\n\n[Verse]\nThrow him on the plot of Naboth\nRepent for the blood of the prophet\nAhaziah fled to Megiddo\nWhere he died in his chariot\n\n[Verse]\nJezebel looked out the window\nAsking if Zimri came in peace\nHe called for help and they threw her down\nTrampled by the horses\n\n[Verse]\nThey found only skull and feet\nNo one could bury her body\nDogs devoured her in Jezreel\nAs Elijah had foretold\n\n[Outro]\nThis is the word of the Lord",
+    "cot": "full",
+    "seed": 31142
+  }
+}

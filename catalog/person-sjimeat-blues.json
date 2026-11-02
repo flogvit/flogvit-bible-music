@@ -1,0 +1,74 @@
+{
+  "id": "person-sjimeat-blues",
+  "title": "Lived in Jerusalem",
+  "kind": "person",
+  "anchor": {
+    "person": "sjimeat"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 32,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 38,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 29,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 35,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 10,
+      "chapter": 13,
+      "verseStart": 3,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 10,
+      "chapter": 21,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjimeat",
+      "david",
+      "saul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, blues, solo male voice, raw and weary, acoustic guitar, upright bass, harmonica, slow groove, 80 BPM",
+    "lyrics": "[Verse]\nMikloth fathered Shimeah in the land\nThese also lived opposite their kinsmen in Jerusalem\nAlong with their kinsmen they stayed there\nThe register names them in the tribal hall\n\n[Chorus]\nLived in Jerusalem with their relatives\nOpposite their kinsmen in the city\nMikloth was the father of Shimeam\nNear their kinsmen in the holy land\n\n[Verse]\nJeiel the father of Gibeon lived there\nHis wife was named Maacah in the place\nAbdon was firstborn then Zur and Kish\nNer fathered Kish and Kish fathered Saul\n\n[Chorus]\nLived in Jerusalem with their relatives\nOpposite their kinsmen in the city\nMikloth was the father of Shimeam\nNear their kinsmen in the holy land\n\n[Bridge]\nJonathan son of Shimeah struck him down\nWhen he taunted Israel in the fight\nShimeah was the brother of David\nAnd his son was shrewd in the king's court\n\n[Outro]\nMikloth fathered Shimeah\nLived opposite their kinsmen",
+    "cot": "full",
+    "seed": 31138
+  }
+}

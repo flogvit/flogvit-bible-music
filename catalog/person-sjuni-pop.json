@@ -1,0 +1,68 @@
+{
+  "id": "person-sjuni-pop",
+  "title": "Shunite Clan",
+  "kind": "person",
+  "anchor": {
+    "person": "sjuni"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 4,
+      "chapter": 32,
+      "verseStart": 1,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "hap",
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "sjuni",
+      "jakob-israel",
+      "gad-silpas-sonn",
+      "silpa"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, piano, acoustic guitar, strings, warm, 75 BPM",
+    "lyrics": "[Verse]\nZiphion, Haggi, Shuni, Ezbon\nEri, Arodi, and Areli\nSons of Gad in the line of Seth\nGathering near the river\nSixty-six in the house of Jacob\nWith Joseph’s two sons, the count was right\nSeventy souls moving toward Egypt\nWalking through the famine’s night\n\n[Chorus]\nShuni’s name in the census book\nThe Shunite clan is counted true\nEast of the Jordan, land for flocks\nYour inheritance is given to you\n\n[Verse]\nReubenites and Gadites saw\nJazer and Gilead’s wide space\nIdeal country for their herds\nThey stood before Moses’ face\nAtaroth, Dibon, and Jazer\nNimrah, Heshbon, and Elealeh\nStruck down before the community\nLand for livestock, they pleaded\n\n[Chorus]\nShuni’s name in the census book\nThe Shunite clan is counted true\nEast of the Jordan, land for flocks\nYour inheritance is given to you\n\n[Bridge]\nMoses spoke of fathers’ sins\nWho discouraged Israel’s heart\nBut they promised to go to war\nAnd guard the little ones apart\nCross the Jordan for the LORD\nUntil the enemies fall\nThen return to your possession\nOn the east side of all\n\n[Outro]\nThe Shunite clan stands in the land\nInherited and free",
+    "cot": "full",
+    "seed": 31139
+  }
+}

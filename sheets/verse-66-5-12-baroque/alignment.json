@@ -1,0 +1,996 @@
+{
+ "id": "verse-66-5-12-baroque",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-66-5-12-baroque",
+ "offset_seconds": -0.6600000000002417,
+ "words_heard": 104,
+ "words": 104,
+ "lines": [
+  {
+   "text": "I heard the voice of many angels",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Around the throne, ten thousand times ten thousand",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And all the living creatures and the elders",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Singing with a loud voice",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Worthy is the Lamb who was slain",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To receive power and riches and wisdom",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And strength and honor and glory and blessing",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Worthy is the Lamb",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To him who sits upon the throne",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And to the Lamb",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Be blessing and honor and glory and power",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forever and ever",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Worthy is the Lamb who was slain",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To receive power and riches and wisdom",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And strength and honor and glory and blessing",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Worthy is the Lamb",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Amen, amen",
+   "heard": 2,
+   "words": 2,
+   "error_s": 2.21,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 18.18,
+   "weight": 0.75,
+   "note_time": 18.38
+  },
+  {
+   "text": "heard",
+   "time": 19.24,
+   "weight": 0.97,
+   "note_time": 19.12
+  },
+  {
+   "text": "the",
+   "time": 19.8,
+   "weight": 1.0,
+   "note_time": 19.5
+  },
+  {
+   "text": "voice",
+   "time": 20.08,
+   "weight": 0.99,
+   "note_time": 20.06
+  },
+  {
+   "text": "of",
+   "time": 20.66,
+   "weight": 1.0,
+   "note_time": 20.25
+  },
+  {
+   "text": "ma",
+   "time": 21.1,
+   "weight": 1.0,
+   "note_time": 20.62
+  },
+  {
+   "text": "ny",
+   "time": 21.28,
+   "weight": 1.0,
+   "note_time": 21.0
+  },
+  {
+   "text": "an",
+   "time": 21.46,
+   "weight": 0.95,
+   "note_time": 21.38
+  },
+  {
+   "text": "gels",
+   "time": 21.81,
+   "weight": 0.95,
+   "note_time": 21.56
+  },
+  {
+   "text": "A",
+   "time": 24.56,
+   "weight": 0.54,
+   "note_time": 24.56
+  },
+  {
+   "text": "round",
+   "time": 24.91,
+   "weight": 0.54,
+   "note_time": 24.75
+  },
+  {
+   "text": "the",
+   "time": 25.62,
+   "weight": 1.0,
+   "note_time": 25.5
+  },
+  {
+   "text": "throne,",
+   "time": 25.98,
+   "weight": 0.98,
+   "note_time": 25.88
+  },
+  {
+   "text": "ten",
+   "time": 26.64,
+   "weight": 0.81,
+   "note_time": 26.25
+  },
+  {
+   "text": "thou",
+   "time": 26.8,
+   "weight": 0.96,
+   "note_time": 26.62
+  },
+  {
+   "text": "sand",
+   "time": 27.05,
+   "weight": 0.96,
+   "note_time": 27.0
+  },
+  {
+   "text": "times",
+   "time": 27.3,
+   "weight": 0.99,
+   "note_time": 28.12
+  },
+  {
+   "text": "ten",
+   "time": 28.0,
+   "weight": 0.2,
+   "note_time": 28.5
+  },
+  {
+   "text": "thou",
+   "time": 29.04,
+   "weight": 0.99,
+   "note_time": 28.69
+  },
+  {
+   "text": "sand",
+   "time": 29.39,
+   "weight": 0.99,
+   "note_time": 28.88
+  },
+  {
+   "text": "And",
+   "time": 29.9,
+   "weight": 0.19,
+   "note_time": 30.56
+  },
+  {
+   "text": "all",
+   "time": 31.36,
+   "weight": 0.92,
+   "note_time": 30.75
+  },
+  {
+   "text": "the",
+   "time": 31.76,
+   "weight": 0.99,
+   "note_time": 31.12
+  },
+  {
+   "text": "liv",
+   "time": 32.02,
+   "weight": 0.99,
+   "note_time": 31.5
+  },
+  {
+   "text": "ing",
+   "time": 32.31,
+   "weight": 0.99,
+   "note_time": 31.88
+  },
+  {
+   "text": "crea",
+   "time": 32.6,
+   "weight": 0.99,
+   "note_time": 32.25
+  },
+  {
+   "text": "tures",
+   "time": 32.95,
+   "weight": 0.99,
+   "note_time": 32.62
+  },
+  {
+   "text": "and",
+   "time": 33.46,
+   "weight": 0.93,
+   "note_time": 33.0
+  },
+  {
+   "text": "the",
+   "time": 34.12,
+   "weight": 0.96,
+   "note_time": 34.12
+  },
+  {
+   "text": "el",
+   "time": 34.98,
+   "weight": 0.98,
+   "note_time": 34.5
+  },
+  {
+   "text": "ders",
+   "time": 35.33,
+   "weight": 0.98,
+   "note_time": 35.25
+  },
+  {
+   "text": "Sin",
+   "time": 35.96,
+   "weight": 0.2,
+   "note_time": 37.5
+  },
+  {
+   "text": "ging",
+   "time": 36.31,
+   "weight": 0.2,
+   "note_time": 37.69
+  },
+  {
+   "text": "with",
+   "time": 38.4,
+   "weight": 1.0,
+   "note_time": 38.25
+  },
+  {
+   "text": "a",
+   "time": 39.08,
+   "weight": 0.98,
+   "note_time": 38.44
+  },
+  {
+   "text": "loud",
+   "time": 39.4,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "voice",
+   "time": 40.3,
+   "weight": 0.4,
+   "note_time": 40.12
+  },
+  {
+   "text": "Wor",
+   "time": 45.08,
+   "weight": 0.97,
+   "note_time": 45.0
+  },
+  {
+   "text": "thy",
+   "time": 45.43,
+   "weight": 0.97,
+   "note_time": 45.38
+  },
+  {
+   "text": "is",
+   "time": 46.44,
+   "weight": 1.0,
+   "note_time": 45.75
+  },
+  {
+   "text": "the",
+   "time": 46.74,
+   "weight": 1.0,
+   "note_time": 46.12
+  },
+  {
+   "text": "Lamb",
+   "time": 47.02,
+   "weight": 0.74,
+   "note_time": 46.5
+  },
+  {
+   "text": "who",
+   "time": 47.6,
+   "weight": 0.93,
+   "note_time": 47.25
+  },
+  {
+   "text": "was",
+   "time": 48.18,
+   "weight": 1.0,
+   "note_time": 47.62
+  },
+  {
+   "text": "slain",
+   "time": 48.52,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "To",
+   "time": 49.26,
+   "weight": 0.36,
+   "note_time": 50.25
+  },
+  {
+   "text": "re",
+   "time": 51.06,
+   "weight": 1.0,
+   "note_time": 50.44
+  },
+  {
+   "text": "ceive",
+   "time": 51.25,
+   "weight": 1.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "pow",
+   "time": 51.44,
+   "weight": 0.99,
+   "note_time": 51.0
+  },
+  {
+   "text": "er",
+   "time": 51.69,
+   "weight": 0.99,
+   "note_time": 51.75
+  },
+  {
+   "text": "and",
+   "time": 51.94,
+   "weight": 0.96,
+   "note_time": 52.12
+  },
+  {
+   "text": "rich",
+   "time": 53.12,
+   "weight": 1.0,
+   "note_time": 52.5
+  },
+  {
+   "text": "es",
+   "time": 53.47,
+   "weight": 1.0,
+   "note_time": 53.25
+  },
+  {
+   "text": "and",
+   "time": 54.06,
+   "weight": 0.99,
+   "note_time": 53.62
+  },
+  {
+   "text": "wis",
+   "time": 54.58,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "dom",
+   "time": 54.93,
+   "weight": 1.0,
+   "note_time": 54.75
+  },
+  {
+   "text": "And",
+   "time": 55.28,
+   "weight": 0.06,
+   "note_time": 56.62
+  },
+  {
+   "text": "strength",
+   "time": 57.3,
+   "weight": 0.58,
+   "note_time": 57.0
+  },
+  {
+   "text": "and",
+   "time": 57.92,
+   "weight": 0.89,
+   "note_time": 57.75
+  },
+  {
+   "text": "hon",
+   "time": 58.74,
+   "weight": 0.89,
+   "note_time": 58.5
+  },
+  {
+   "text": "or",
+   "time": 59.09,
+   "weight": 0.89,
+   "note_time": 59.25
+  },
+  {
+   "text": "and",
+   "time": 59.7,
+   "weight": 0.89,
+   "note_time": 59.62
+  },
+  {
+   "text": "glo",
+   "time": 60.56,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "ry",
+   "time": 60.89,
+   "weight": 1.0,
+   "note_time": 60.75
+  },
+  {
+   "text": "and",
+   "time": 61.22,
+   "weight": 0.98,
+   "note_time": 61.12
+  },
+  {
+   "text": "bles",
+   "time": 62.04,
+   "weight": 0.98,
+   "note_time": 61.5
+  },
+  {
+   "text": "sing",
+   "time": 62.39,
+   "weight": 0.98,
+   "note_time": 62.25
+  },
+  {
+   "text": "Wor",
+   "time": 64.58,
+   "weight": 0.87,
+   "note_time": 64.5
+  },
+  {
+   "text": "thy",
+   "time": 64.93,
+   "weight": 0.87,
+   "note_time": 64.88
+  },
+  {
+   "text": "is",
+   "time": 65.98,
+   "weight": 1.0,
+   "note_time": 65.25
+  },
+  {
+   "text": "the",
+   "time": 66.34,
+   "weight": 0.99,
+   "note_time": 65.81
+  },
+  {
+   "text": "Lamb",
+   "time": 66.64,
+   "weight": 0.96,
+   "note_time": 66.0
+  },
+  {
+   "text": "To",
+   "time": 70.98,
+   "weight": 0.82,
+   "note_time": 71.62
+  },
+  {
+   "text": "him",
+   "time": 72.38,
+   "weight": 0.71,
+   "note_time": 72.0
+  },
+  {
+   "text": "who",
+   "time": 72.96,
+   "weight": 0.95,
+   "note_time": 73.12
+  },
+  {
+   "text": "sits",
+   "time": 73.96,
+   "weight": 1.0,
+   "note_time": 73.5
+  },
+  {
+   "text": "up",
+   "time": 74.42,
+   "weight": 1.0,
+   "note_time": 73.88
+  },
+  {
+   "text": "on",
+   "time": 74.67,
+   "weight": 1.0,
+   "note_time": 74.06
+  },
+  {
+   "text": "the",
+   "time": 74.92,
+   "weight": 1.0,
+   "note_time": 74.62
+  },
+  {
+   "text": "throne",
+   "time": 75.46,
+   "weight": 0.99,
+   "note_time": 75.0
+  },
+  {
+   "text": "And",
+   "time": 75.96,
+   "weight": 0.25,
+   "note_time": 76.88
+  },
+  {
+   "text": "to",
+   "time": 77.8,
+   "weight": 1.0,
+   "note_time": 77.25
+  },
+  {
+   "text": "the",
+   "time": 78.04,
+   "weight": 1.0,
+   "note_time": 77.62
+  },
+  {
+   "text": "Lamb",
+   "time": 78.52,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "Be",
+   "time": 79.12,
+   "weight": 0.86,
+   "note_time": 79.12
+  },
+  {
+   "text": "bles",
+   "time": 80.0,
+   "weight": 0.98,
+   "note_time": 79.5
+  },
+  {
+   "text": "sing",
+   "time": 80.35,
+   "weight": 0.98,
+   "note_time": 80.06
+  },
+  {
+   "text": "and",
+   "time": 80.84,
+   "weight": 0.74,
+   "note_time": 80.62
+  },
+  {
+   "text": "hon",
+   "time": 81.5,
+   "weight": 1.0,
+   "note_time": 81.0
+  },
+  {
+   "text": "or",
+   "time": 81.85,
+   "weight": 1.0,
+   "note_time": 81.56
+  },
+  {
+   "text": "and",
+   "time": 82.44,
+   "weight": 0.23,
+   "note_time": 82.12
+  },
+  {
+   "text": "glo",
+   "time": 82.96,
+   "weight": 0.95,
+   "note_time": 82.5
+  },
+  {
+   "text": "ry",
+   "time": 83.31,
+   "weight": 0.95,
+   "note_time": 83.06
+  },
+  {
+   "text": "and",
+   "time": 83.72,
+   "weight": 0.94,
+   "note_time": 83.62
+  },
+  {
+   "text": "pow",
+   "time": 84.5,
+   "weight": 0.99,
+   "note_time": 84.0
+  },
+  {
+   "text": "er",
+   "time": 84.77,
+   "weight": 0.99,
+   "note_time": 84.38
+  },
+  {
+   "text": "For",
+   "time": 85.62,
+   "weight": 0.34,
+   "note_time": 86.62
+  },
+  {
+   "text": "ev",
+   "time": 85.97,
+   "weight": 0.34,
+   "note_time": 87.0
+  },
+  {
+   "text": "er",
+   "time": 86.32,
+   "weight": 0.34,
+   "note_time": 87.56
+  },
+  {
+   "text": "and",
+   "time": 87.86,
+   "weight": 0.99,
+   "note_time": 88.12
+  },
+  {
+   "text": "ev",
+   "time": 89.14,
+   "weight": 1.0,
+   "note_time": 88.5
+  },
+  {
+   "text": "er",
+   "time": 89.49,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "Wor",
+   "time": 93.24,
+   "weight": 0.99,
+   "note_time": 93.0
+  },
+  {
+   "text": "thy",
+   "time": 93.59,
+   "weight": 0.99,
+   "note_time": 93.38
+  },
+  {
+   "text": "is",
+   "time": 94.44,
+   "weight": 1.0,
+   "note_time": 93.75
+  },
+  {
+   "text": "the",
+   "time": 94.68,
+   "weight": 1.0,
+   "note_time": 94.12
+  },
+  {
+   "text": "Lamb",
+   "time": 95.0,
+   "weight": 0.67,
+   "note_time": 94.5
+  },
+  {
+   "text": "who",
+   "time": 95.6,
+   "weight": 0.95,
+   "note_time": 95.25
+  },
+  {
+   "text": "was",
+   "time": 96.18,
+   "weight": 1.0,
+   "note_time": 95.62
+  },
+  {
+   "text": "slain",
+   "time": 96.54,
+   "weight": 1.0,
+   "note_time": 96.0
+  },
+  {
+   "text": "To",
+   "time": 98.4,
+   "weight": 0.98,
+   "note_time": 98.25
+  },
+  {
+   "text": "re",
+   "time": 99.0,
+   "weight": 1.0,
+   "note_time": 98.44
+  },
+  {
+   "text": "ceive",
+   "time": 99.22,
+   "weight": 1.0,
+   "note_time": 98.62
+  },
+  {
+   "text": "pow",
+   "time": 99.44,
+   "weight": 1.0,
+   "note_time": 99.0
+  },
+  {
+   "text": "er",
+   "time": 99.73,
+   "weight": 1.0,
+   "note_time": 99.75
+  },
+  {
+   "text": "and",
+   "time": 100.02,
+   "weight": 0.89,
+   "note_time": 100.12
+  },
+  {
+   "text": "rich",
+   "time": 101.12,
+   "weight": 1.0,
+   "note_time": 100.5
+  },
+  {
+   "text": "es",
+   "time": 101.47,
+   "weight": 1.0,
+   "note_time": 101.25
+  },
+  {
+   "text": "and",
+   "time": 102.06,
+   "weight": 0.98,
+   "note_time": 101.62
+  },
+  {
+   "text": "wis",
+   "time": 102.56,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "dom",
+   "time": 102.91,
+   "weight": 1.0,
+   "note_time": 102.75
+  },
+  {
+   "text": "And",
+   "time": 103.56,
+   "weight": 0.2,
+   "note_time": 104.62
+  },
+  {
+   "text": "strength",
+   "time": 105.5,
+   "weight": 0.98,
+   "note_time": 105.0
+  },
+  {
+   "text": "and",
+   "time": 105.96,
+   "weight": 0.95,
+   "note_time": 105.75
+  },
+  {
+   "text": "hon",
+   "time": 106.7,
+   "weight": 0.94,
+   "note_time": 106.5
+  },
+  {
+   "text": "or",
+   "time": 107.05,
+   "weight": 0.94,
+   "note_time": 107.25
+  },
+  {
+   "text": "and",
+   "time": 107.74,
+   "weight": 0.91,
+   "note_time": 107.62
+  },
+  {
+   "text": "glo",
+   "time": 108.54,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "ry",
+   "time": 108.89,
+   "weight": 1.0,
+   "note_time": 108.75
+  },
+  {
+   "text": "and",
+   "time": 109.5,
+   "weight": 0.99,
+   "note_time": 109.12
+  },
+  {
+   "text": "bles",
+   "time": 110.02,
+   "weight": 0.98,
+   "note_time": 109.5
+  },
+  {
+   "text": "sing",
+   "time": 110.37,
+   "weight": 0.98,
+   "note_time": 110.25
+  },
+  {
+   "text": "Wor",
+   "time": 112.58,
+   "weight": 0.88,
+   "note_time": 112.5
+  },
+  {
+   "text": "thy",
+   "time": 112.93,
+   "weight": 0.88,
+   "note_time": 112.88
+  },
+  {
+   "text": "is",
+   "time": 113.98,
+   "weight": 1.0,
+   "note_time": 113.25
+  },
+  {
+   "text": "the",
+   "time": 114.36,
+   "weight": 0.99,
+   "note_time": 113.81
+  },
+  {
+   "text": "Lamb",
+   "time": 114.66,
+   "weight": 0.97,
+   "note_time": 114.0
+  },
+  {
+   "text": "A",
+   "time": 124.04,
+   "weight": 0.89,
+   "note_time": 125.25
+  },
+  {
+   "text": "men,",
+   "time": 124.39,
+   "weight": 0.89,
+   "note_time": 126.0
+  },
+  {
+   "text": "a",
+   "time": 125.44,
+   "weight": 0.8,
+   "note_time": 128.25
+  },
+  {
+   "text": "men",
+   "time": 125.79,
+   "weight": 0.8,
+   "note_time": 129.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "16 of 17 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

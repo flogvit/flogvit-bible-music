@@ -1,0 +1,970 @@
+{
+ "id": "story-jesu-oppstandelse-southern-gospel",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-jesu-oppstandelse-southern-gospel",
+ "offset_seconds": -1.120000000000232,
+ "words_heard": 124,
+ "words": 124,
+ "lines": [
+  {
+   "text": "Early on the first day of the week",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The women came to see the tomb",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There was an earthquake and an angel came",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And rolled the stone back from the room",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The stone is rolled away, the stone is rolled away",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He is not here, he is risen as he said",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come and see the place where the Lord lay",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The stone is rolled away",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His face was like the lightning",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His clothes were white as snow",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The guards were shaking like dead men",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Go tell his friends, it's so",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The stone is rolled away, the stone is rolled away",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He is not here, he is risen as he said",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come and see the place where the Lord lay",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The stone is rolled away",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Ear",
+   "time": 16.1,
+   "weight": 0.74,
+   "note_time": 15.94
+  },
+  {
+   "text": "ly",
+   "time": 16.45,
+   "weight": 0.74,
+   "note_time": 16.17
+  },
+  {
+   "text": "on",
+   "time": 16.86,
+   "weight": 1.0,
+   "note_time": 16.29
+  },
+  {
+   "text": "the",
+   "time": 17.28,
+   "weight": 1.0,
+   "note_time": 16.64
+  },
+  {
+   "text": "first",
+   "time": 17.5,
+   "weight": 1.0,
+   "note_time": 16.88
+  },
+  {
+   "text": "day",
+   "time": 17.92,
+   "weight": 1.0,
+   "note_time": 17.34
+  },
+  {
+   "text": "of",
+   "time": 18.34,
+   "weight": 1.0,
+   "note_time": 17.81
+  },
+  {
+   "text": "the",
+   "time": 18.76,
+   "weight": 1.0,
+   "note_time": 18.05
+  },
+  {
+   "text": "week",
+   "time": 18.92,
+   "weight": 1.0,
+   "note_time": 18.16
+  },
+  {
+   "text": "The",
+   "time": 19.28,
+   "weight": 0.15,
+   "note_time": 19.57
+  },
+  {
+   "text": "wom",
+   "time": 20.06,
+   "weight": 0.99,
+   "note_time": 20.04
+  },
+  {
+   "text": "en",
+   "time": 20.35,
+   "weight": 0.99,
+   "note_time": 20.39
+  },
+  {
+   "text": "came",
+   "time": 20.64,
+   "weight": 1.0,
+   "note_time": 20.62
+  },
+  {
+   "text": "to",
+   "time": 20.94,
+   "weight": 1.0,
+   "note_time": 20.86
+  },
+  {
+   "text": "see",
+   "time": 21.24,
+   "weight": 0.99,
+   "note_time": 21.33
+  },
+  {
+   "text": "the",
+   "time": 21.62,
+   "weight": 1.0,
+   "note_time": 21.56
+  },
+  {
+   "text": "tomb",
+   "time": 22.2,
+   "weight": 0.4,
+   "note_time": 21.68
+  },
+  {
+   "text": "There",
+   "time": 22.56,
+   "weight": 0.38,
+   "note_time": 23.2
+  },
+  {
+   "text": "was",
+   "time": 24.08,
+   "weight": 1.0,
+   "note_time": 23.79
+  },
+  {
+   "text": "an",
+   "time": 24.32,
+   "weight": 0.99,
+   "note_time": 24.14
+  },
+  {
+   "text": "earth",
+   "time": 24.58,
+   "weight": 0.99,
+   "note_time": 24.84
+  },
+  {
+   "text": "quake",
+   "time": 24.75,
+   "weight": 0.99,
+   "note_time": 25.08
+  },
+  {
+   "text": "and",
+   "time": 24.92,
+   "weight": 0.9,
+   "note_time": 25.2
+  },
+  {
+   "text": "an",
+   "time": 25.8,
+   "weight": 0.99,
+   "note_time": 25.55
+  },
+  {
+   "text": "an",
+   "time": 26.0,
+   "weight": 0.99,
+   "note_time": 26.02
+  },
+  {
+   "text": "gel",
+   "time": 26.21,
+   "weight": 0.99,
+   "note_time": 26.13
+  },
+  {
+   "text": "came",
+   "time": 26.42,
+   "weight": 1.0,
+   "note_time": 26.25
+  },
+  {
+   "text": "And",
+   "time": 26.94,
+   "weight": 0.92,
+   "note_time": 26.95
+  },
+  {
+   "text": "rolled",
+   "time": 27.82,
+   "weight": 0.99,
+   "note_time": 27.42
+  },
+  {
+   "text": "the",
+   "time": 28.14,
+   "weight": 0.76,
+   "note_time": 27.54
+  },
+  {
+   "text": "stone",
+   "time": 28.3,
+   "weight": 1.0,
+   "note_time": 27.89
+  },
+  {
+   "text": "back",
+   "time": 28.52,
+   "weight": 1.0,
+   "note_time": 28.12
+  },
+  {
+   "text": "from",
+   "time": 28.84,
+   "weight": 1.0,
+   "note_time": 28.36
+  },
+  {
+   "text": "the",
+   "time": 29.08,
+   "weight": 0.99,
+   "note_time": 28.83
+  },
+  {
+   "text": "room",
+   "time": 29.66,
+   "weight": 0.28,
+   "note_time": 29.06
+  },
+  {
+   "text": "The",
+   "time": 30.1,
+   "weight": 0.61,
+   "note_time": 30.7
+  },
+  {
+   "text": "stone",
+   "time": 31.5,
+   "weight": 0.98,
+   "note_time": 30.94
+  },
+  {
+   "text": "is",
+   "time": 32.02,
+   "weight": 0.99,
+   "note_time": 31.41
+  },
+  {
+   "text": "rolled",
+   "time": 32.42,
+   "weight": 0.99,
+   "note_time": 31.88
+  },
+  {
+   "text": "a",
+   "time": 32.9,
+   "weight": 1.0,
+   "note_time": 32.34
+  },
+  {
+   "text": "way,",
+   "time": 33.18,
+   "weight": 1.0,
+   "note_time": 32.58
+  },
+  {
+   "text": "the",
+   "time": 33.84,
+   "weight": 0.93,
+   "note_time": 34.45
+  },
+  {
+   "text": "stone",
+   "time": 35.24,
+   "weight": 1.0,
+   "note_time": 34.69
+  },
+  {
+   "text": "is",
+   "time": 35.64,
+   "weight": 1.0,
+   "note_time": 35.16
+  },
+  {
+   "text": "rolled",
+   "time": 36.16,
+   "weight": 1.0,
+   "note_time": 35.62
+  },
+  {
+   "text": "a",
+   "time": 36.64,
+   "weight": 1.0,
+   "note_time": 36.09
+  },
+  {
+   "text": "way",
+   "time": 36.91,
+   "weight": 1.0,
+   "note_time": 36.33
+  },
+  {
+   "text": "He",
+   "time": 38.5,
+   "weight": 0.75,
+   "note_time": 38.44
+  },
+  {
+   "text": "is",
+   "time": 39.3,
+   "weight": 1.0,
+   "note_time": 39.14
+  },
+  {
+   "text": "not",
+   "time": 39.5,
+   "weight": 1.0,
+   "note_time": 39.84
+  },
+  {
+   "text": "here,",
+   "time": 39.74,
+   "weight": 1.0,
+   "note_time": 40.08
+  },
+  {
+   "text": "he",
+   "time": 40.52,
+   "weight": 0.55,
+   "note_time": 40.31
+  },
+  {
+   "text": "is",
+   "time": 40.7,
+   "weight": 0.98,
+   "note_time": 40.43
+  },
+  {
+   "text": "ri",
+   "time": 41.02,
+   "weight": 1.0,
+   "note_time": 40.66
+  },
+  {
+   "text": "sen",
+   "time": 41.19,
+   "weight": 1.0,
+   "note_time": 41.02
+  },
+  {
+   "text": "as",
+   "time": 41.36,
+   "weight": 0.97,
+   "note_time": 41.25
+  },
+  {
+   "text": "he",
+   "time": 41.68,
+   "weight": 0.99,
+   "note_time": 41.37
+  },
+  {
+   "text": "said",
+   "time": 41.9,
+   "weight": 1.0,
+   "note_time": 41.48
+  },
+  {
+   "text": "Come",
+   "time": 42.26,
+   "weight": 0.97,
+   "note_time": 42.19
+  },
+  {
+   "text": "and",
+   "time": 43.02,
+   "weight": 1.0,
+   "note_time": 42.66
+  },
+  {
+   "text": "see",
+   "time": 43.26,
+   "weight": 1.0,
+   "note_time": 42.89
+  },
+  {
+   "text": "the",
+   "time": 43.54,
+   "weight": 1.0,
+   "note_time": 43.01
+  },
+  {
+   "text": "place",
+   "time": 43.74,
+   "weight": 1.0,
+   "note_time": 43.59
+  },
+  {
+   "text": "where",
+   "time": 44.12,
+   "weight": 1.0,
+   "note_time": 43.83
+  },
+  {
+   "text": "the",
+   "time": 44.52,
+   "weight": 1.0,
+   "note_time": 44.06
+  },
+  {
+   "text": "Lord",
+   "time": 44.7,
+   "weight": 1.0,
+   "note_time": 44.53
+  },
+  {
+   "text": "lay",
+   "time": 45.08,
+   "weight": 0.99,
+   "note_time": 44.77
+  },
+  {
+   "text": "The",
+   "time": 45.72,
+   "weight": 0.83,
+   "note_time": 45.7
+  },
+  {
+   "text": "stone",
+   "time": 46.48,
+   "weight": 1.0,
+   "note_time": 46.64
+  },
+  {
+   "text": "is",
+   "time": 47.04,
+   "weight": 1.0,
+   "note_time": 46.88
+  },
+  {
+   "text": "rolled",
+   "time": 47.58,
+   "weight": 1.0,
+   "note_time": 47.11
+  },
+  {
+   "text": "a",
+   "time": 47.86,
+   "weight": 1.0,
+   "note_time": 47.34
+  },
+  {
+   "text": "way",
+   "time": 48.14,
+   "weight": 1.0,
+   "note_time": 47.58
+  },
+  {
+   "text": "His",
+   "time": 49.58,
+   "weight": 0.99,
+   "note_time": 49.45
+  },
+  {
+   "text": "face",
+   "time": 50.38,
+   "weight": 1.0,
+   "note_time": 50.16
+  },
+  {
+   "text": "was",
+   "time": 50.7,
+   "weight": 1.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "like",
+   "time": 51.04,
+   "weight": 1.0,
+   "note_time": 51.09
+  },
+  {
+   "text": "the",
+   "time": 51.62,
+   "weight": 1.0,
+   "note_time": 51.33
+  },
+  {
+   "text": "light",
+   "time": 51.96,
+   "weight": 1.0,
+   "note_time": 51.8
+  },
+  {
+   "text": "ning",
+   "time": 52.26,
+   "weight": 1.0,
+   "note_time": 51.91
+  },
+  {
+   "text": "His",
+   "time": 52.56,
+   "weight": 0.28,
+   "note_time": 53.2
+  },
+  {
+   "text": "clothes",
+   "time": 54.06,
+   "weight": 1.0,
+   "note_time": 53.91
+  },
+  {
+   "text": "were",
+   "time": 54.48,
+   "weight": 1.0,
+   "note_time": 54.38
+  },
+  {
+   "text": "white",
+   "time": 54.82,
+   "weight": 1.0,
+   "note_time": 54.61
+  },
+  {
+   "text": "as",
+   "time": 55.38,
+   "weight": 1.0,
+   "note_time": 54.84
+  },
+  {
+   "text": "snow",
+   "time": 55.76,
+   "weight": 1.0,
+   "note_time": 55.08
+  },
+  {
+   "text": "The",
+   "time": 56.92,
+   "weight": 0.52,
+   "note_time": 56.95
+  },
+  {
+   "text": "guards",
+   "time": 57.76,
+   "weight": 0.84,
+   "note_time": 57.66
+  },
+  {
+   "text": "were",
+   "time": 58.3,
+   "weight": 0.99,
+   "note_time": 58.12
+  },
+  {
+   "text": "shak",
+   "time": 58.54,
+   "weight": 0.87,
+   "note_time": 58.36
+  },
+  {
+   "text": "ing",
+   "time": 58.83,
+   "weight": 0.87,
+   "note_time": 58.48
+  },
+  {
+   "text": "like",
+   "time": 59.12,
+   "weight": 1.0,
+   "note_time": 58.83
+  },
+  {
+   "text": "dead",
+   "time": 59.46,
+   "weight": 0.99,
+   "note_time": 59.53
+  },
+  {
+   "text": "men",
+   "time": 59.84,
+   "weight": 0.99,
+   "note_time": 59.77
+  },
+  {
+   "text": "Go",
+   "time": 60.7,
+   "weight": 0.66,
+   "note_time": 60.7
+  },
+  {
+   "text": "tell",
+   "time": 61.52,
+   "weight": 1.0,
+   "note_time": 60.94
+  },
+  {
+   "text": "his",
+   "time": 61.82,
+   "weight": 0.71,
+   "note_time": 61.17
+  },
+  {
+   "text": "friends,",
+   "time": 62.24,
+   "weight": 1.0,
+   "note_time": 61.64
+  },
+  {
+   "text": "it's",
+   "time": 62.78,
+   "weight": 0.97,
+   "note_time": 62.34
+  },
+  {
+   "text": "so",
+   "time": 63.46,
+   "weight": 0.87,
+   "note_time": 62.81
+  },
+  {
+   "text": "The",
+   "time": 64.28,
+   "weight": 0.98,
+   "note_time": 64.45
+  },
+  {
+   "text": "stone",
+   "time": 65.08,
+   "weight": 0.99,
+   "note_time": 64.69
+  },
+  {
+   "text": "is",
+   "time": 65.86,
+   "weight": 0.99,
+   "note_time": 65.16
+  },
+  {
+   "text": "rolled",
+   "time": 66.2,
+   "weight": 0.99,
+   "note_time": 65.62
+  },
+  {
+   "text": "a",
+   "time": 66.62,
+   "weight": 1.0,
+   "note_time": 66.09
+  },
+  {
+   "text": "way,",
+   "time": 66.92,
+   "weight": 1.0,
+   "note_time": 66.33
+  },
+  {
+   "text": "the",
+   "time": 67.22,
+   "weight": 0.89,
+   "note_time": 68.2
+  },
+  {
+   "text": "stone",
+   "time": 68.26,
+   "weight": 1.0,
+   "note_time": 68.44
+  },
+  {
+   "text": "is",
+   "time": 69.4,
+   "weight": 1.0,
+   "note_time": 68.91
+  },
+  {
+   "text": "rolled",
+   "time": 69.9,
+   "weight": 1.0,
+   "note_time": 69.38
+  },
+  {
+   "text": "a",
+   "time": 70.36,
+   "weight": 1.0,
+   "note_time": 69.84
+  },
+  {
+   "text": "way",
+   "time": 70.65,
+   "weight": 1.0,
+   "note_time": 70.08
+  },
+  {
+   "text": "He",
+   "time": 72.12,
+   "weight": 0.99,
+   "note_time": 72.19
+  },
+  {
+   "text": "is",
+   "time": 72.96,
+   "weight": 1.0,
+   "note_time": 72.89
+  },
+  {
+   "text": "not",
+   "time": 73.26,
+   "weight": 1.0,
+   "note_time": 73.59
+  },
+  {
+   "text": "here,",
+   "time": 73.46,
+   "weight": 1.0,
+   "note_time": 73.83
+  },
+  {
+   "text": "he",
+   "time": 74.26,
+   "weight": 0.81,
+   "note_time": 74.06
+  },
+  {
+   "text": "is",
+   "time": 74.42,
+   "weight": 0.98,
+   "note_time": 74.18
+  },
+  {
+   "text": "ri",
+   "time": 74.76,
+   "weight": 1.0,
+   "note_time": 74.41
+  },
+  {
+   "text": "sen",
+   "time": 74.93,
+   "weight": 1.0,
+   "note_time": 74.77
+  },
+  {
+   "text": "as",
+   "time": 75.1,
+   "weight": 0.98,
+   "note_time": 75.0
+  },
+  {
+   "text": "he",
+   "time": 75.4,
+   "weight": 0.99,
+   "note_time": 75.12
+  },
+  {
+   "text": "said",
+   "time": 75.68,
+   "weight": 0.99,
+   "note_time": 75.23
+  },
+  {
+   "text": "Come",
+   "time": 76.02,
+   "weight": 1.0,
+   "note_time": 75.94
+  },
+  {
+   "text": "and",
+   "time": 76.8,
+   "weight": 1.0,
+   "note_time": 76.41
+  },
+  {
+   "text": "see",
+   "time": 77.0,
+   "weight": 1.0,
+   "note_time": 76.64
+  },
+  {
+   "text": "the",
+   "time": 77.28,
+   "weight": 1.0,
+   "note_time": 76.76
+  },
+  {
+   "text": "place",
+   "time": 77.48,
+   "weight": 1.0,
+   "note_time": 77.34
+  },
+  {
+   "text": "where",
+   "time": 77.84,
+   "weight": 1.0,
+   "note_time": 77.58
+  },
+  {
+   "text": "the",
+   "time": 78.24,
+   "weight": 1.0,
+   "note_time": 77.81
+  },
+  {
+   "text": "Lord",
+   "time": 78.46,
+   "weight": 1.0,
+   "note_time": 78.28
+  },
+  {
+   "text": "lay",
+   "time": 78.82,
+   "weight": 0.98,
+   "note_time": 78.52
+  },
+  {
+   "text": "The",
+   "time": 79.46,
+   "weight": 1.0,
+   "note_time": 79.45
+  },
+  {
+   "text": "stone",
+   "time": 80.3,
+   "weight": 1.0,
+   "note_time": 79.69
+  },
+  {
+   "text": "is",
+   "time": 80.8,
+   "weight": 1.0,
+   "note_time": 80.39
+  },
+  {
+   "text": "rolled",
+   "time": 81.34,
+   "weight": 1.0,
+   "note_time": 80.62
+  },
+  {
+   "text": "a",
+   "time": 81.6,
+   "weight": 1.0,
+   "note_time": 80.86
+  },
+  {
+   "text": "way",
+   "time": 81.89,
+   "weight": 1.0,
+   "note_time": 81.09
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

@@ -1,0 +1,756 @@
+{
+ "id": "chapter-19-131-ambient",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-131-ambient",
+ "offset_seconds": -2.9200000000001936,
+ "words_heard": 86,
+ "words": 87,
+ "lines": [
+  {
+   "text": "O Lord, my heart is not lifted up",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My eyes are not raised too high",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I do not occupy myself with things",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Too great and too marvelous for me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I have calmed and quieted my soul",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Like a weaned child with its mother",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a weaned child",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is my soul within me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "O Israel, hope in the Lord",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From this time forth and forevermore",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.24,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I have calmed and quieted my soul",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a weaned child with its mother",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like a weaned child",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is my soul within me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.22,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "O",
+   "time": 27.28,
+   "weight": 0.37,
+   "note_time": 28.4
+  },
+  {
+   "text": "Lord,",
+   "time": 28.48,
+   "weight": 0.73,
+   "note_time": 28.8
+  },
+  {
+   "text": "my",
+   "time": 30.04,
+   "weight": 0.98,
+   "note_time": 29.6
+  },
+  {
+   "text": "heart",
+   "time": 30.32,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "is",
+   "time": 31.02,
+   "weight": 0.99,
+   "note_time": 30.8
+  },
+  {
+   "text": "not",
+   "time": 31.66,
+   "weight": 0.99,
+   "note_time": 31.2
+  },
+  {
+   "text": "lift",
+   "time": 32.92,
+   "weight": 0.29,
+   "note_time": 31.6
+  },
+  {
+   "text": "ed",
+   "time": 33.27,
+   "weight": 0.29,
+   "note_time": 32.8
+  },
+  {
+   "text": "up",
+   "time": 33.88,
+   "weight": 0.98,
+   "note_time": 33.2
+  },
+  {
+   "text": "My",
+   "time": 34.3,
+   "weight": 0.96,
+   "note_time": 34.8
+  },
+  {
+   "text": "eyes",
+   "time": 35.6,
+   "weight": 1.0,
+   "note_time": 35.2
+  },
+  {
+   "text": "are",
+   "time": 36.54,
+   "weight": 0.99,
+   "note_time": 36.4
+  },
+  {
+   "text": "not",
+   "time": 37.48,
+   "weight": 1.0,
+   "note_time": 37.2
+  },
+  {
+   "text": "raised",
+   "time": 38.12,
+   "weight": 0.99,
+   "note_time": 38.0
+  },
+  {
+   "text": "too",
+   "time": 39.12,
+   "weight": 0.68,
+   "note_time": 38.8
+  },
+  {
+   "text": "high",
+   "time": 39.74,
+   "weight": 1.0,
+   "note_time": 39.6
+  },
+  {
+   "text": "I",
+   "time": 40.6,
+   "weight": 0.62,
+   "note_time": 41.2
+  },
+  {
+   "text": "do",
+   "time": 41.78,
+   "weight": 1.0,
+   "note_time": 41.6
+  },
+  {
+   "text": "not",
+   "time": 42.5,
+   "weight": 1.0,
+   "note_time": 42.0
+  },
+  {
+   "text": "oc",
+   "time": 43.02,
+   "weight": 1.0,
+   "note_time": 42.4
+  },
+  {
+   "text": "cu",
+   "time": 43.25,
+   "weight": 1.0,
+   "note_time": 42.8
+  },
+  {
+   "text": "py",
+   "time": 43.49,
+   "weight": 1.0,
+   "note_time": 43.0
+  },
+  {
+   "text": "my",
+   "time": 43.72,
+   "weight": 1.0,
+   "note_time": 43.6
+  },
+  {
+   "text": "self",
+   "time": 44.07,
+   "weight": 1.0,
+   "note_time": 44.4
+  },
+  {
+   "text": "with",
+   "time": 44.66,
+   "weight": 0.4,
+   "note_time": 45.2
+  },
+  {
+   "text": "things",
+   "time": 46.28,
+   "weight": 1.0,
+   "note_time": 46.0
+  },
+  {
+   "text": "Too",
+   "time": 47.84,
+   "weight": 0.61,
+   "note_time": 47.6
+  },
+  {
+   "text": "great",
+   "time": 48.54,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "and",
+   "time": 49.16,
+   "weight": 0.95,
+   "note_time": 50.0
+  },
+  {
+   "text": "too",
+   "time": 50.38,
+   "weight": 0.99,
+   "note_time": 50.8
+  },
+  {
+   "text": "mar",
+   "time": 51.02,
+   "weight": 0.98,
+   "note_time": 51.2
+  },
+  {
+   "text": "ve",
+   "time": 51.37,
+   "weight": 0.98,
+   "note_time": 51.6
+  },
+  {
+   "text": "lous",
+   "time": 51.72,
+   "weight": 0.98,
+   "note_time": 51.8
+  },
+  {
+   "text": "for",
+   "time": 52.38,
+   "weight": 1.0,
+   "note_time": 52.4
+  },
+  {
+   "text": "me",
+   "time": 53.48,
+   "weight": 1.0,
+   "note_time": 53.2
+  },
+  {
+   "text": "I",
+   "time": 55.82,
+   "weight": 0.98,
+   "note_time": 56.0
+  },
+  {
+   "text": "have",
+   "time": 57.22,
+   "weight": 1.0,
+   "note_time": 56.6
+  },
+  {
+   "text": "calmed",
+   "time": 57.92,
+   "weight": 0.67,
+   "note_time": 57.2
+  },
+  {
+   "text": "and",
+   "time": 59.04,
+   "weight": 0.99,
+   "note_time": 58.4
+  },
+  {
+   "text": "qui",
+   "time": 59.62,
+   "weight": 1.0,
+   "note_time": 58.8
+  },
+  {
+   "text": "et",
+   "time": 59.97,
+   "weight": 1.0,
+   "note_time": 59.6
+  },
+  {
+   "text": "ed",
+   "time": 60.32,
+   "weight": 1.0,
+   "note_time": 59.8
+  },
+  {
+   "text": "my",
+   "time": 60.86,
+   "weight": 1.0,
+   "note_time": 60.4
+  },
+  {
+   "text": "soul",
+   "time": 61.06,
+   "weight": 1.0,
+   "note_time": 60.8
+  },
+  {
+   "text": "Like",
+   "time": 61.68,
+   "weight": 0.13,
+   "note_time": 62.8
+  },
+  {
+   "text": "a",
+   "time": 63.96,
+   "weight": 0.95,
+   "note_time": 63.2
+  },
+  {
+   "text": "weaned",
+   "time": 64.38,
+   "weight": 0.76,
+   "note_time": 63.6
+  },
+  {
+   "text": "child",
+   "time": 65.38,
+   "weight": 0.99,
+   "note_time": 64.4
+  },
+  {
+   "text": "with",
+   "time": 65.76,
+   "weight": 0.76,
+   "note_time": 65.6
+  },
+  {
+   "text": "its",
+   "time": 66.88,
+   "weight": 0.9,
+   "note_time": 66.0
+  },
+  {
+   "text": "moth",
+   "time": 67.38,
+   "weight": 0.99,
+   "note_time": 66.8
+  },
+  {
+   "text": "er",
+   "time": 67.73,
+   "weight": 0.99,
+   "note_time": 67.6
+  },
+  {
+   "text": "Like",
+   "time": 68.46,
+   "weight": 0.3,
+   "note_time": 69.2
+  },
+  {
+   "text": "a",
+   "time": 70.7,
+   "weight": 1.0,
+   "note_time": 69.6
+  },
+  {
+   "text": "weaned",
+   "time": 70.98,
+   "weight": 0.4,
+   "note_time": 70.0
+  },
+  {
+   "text": "child",
+   "time": 72.58,
+   "weight": 1.0,
+   "note_time": 71.6
+  },
+  {
+   "text": "Is",
+   "time": 74.68,
+   "weight": 0.09,
+   "note_time": 75.6
+  },
+  {
+   "text": "my",
+   "time": 76.92,
+   "weight": 0.97,
+   "note_time": 76.0
+  },
+  {
+   "text": "soul",
+   "time": 77.46,
+   "weight": 0.98,
+   "note_time": 77.2
+  },
+  {
+   "text": "with",
+   "time": 78.7,
+   "weight": 0.25,
+   "note_time": 81.6
+  },
+  {
+   "text": "in",
+   "time": 79.05,
+   "weight": 0.25,
+   "note_time": 82.0
+  },
+  {
+   "text": "me",
+   "time": 82.78,
+   "weight": 0.99,
+   "note_time": 82.4
+  },
+  {
+   "text": "O",
+   "time": 89.79,
+   "weight": 0.0,
+   "note_time": 95.2
+  },
+  {
+   "text": "Is",
+   "time": 96.8,
+   "weight": 0.7,
+   "note_time": 96.0
+  },
+  {
+   "text": "rael,",
+   "time": 97.15,
+   "weight": 0.7,
+   "note_time": 96.8
+  },
+  {
+   "text": "hope",
+   "time": 98.84,
+   "weight": 0.28,
+   "note_time": 97.2
+  },
+  {
+   "text": "in",
+   "time": 101.16,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "the",
+   "time": 101.76,
+   "weight": 1.0,
+   "note_time": 100.4
+  },
+  {
+   "text": "Lord",
+   "time": 102.06,
+   "weight": 0.98,
+   "note_time": 100.6
+  },
+  {
+   "text": "From",
+   "time": 102.54,
+   "weight": 0.42,
+   "note_time": 102.0
+  },
+  {
+   "text": "this",
+   "time": 103.66,
+   "weight": 0.99,
+   "note_time": 102.4
+  },
+  {
+   "text": "time",
+   "time": 104.22,
+   "weight": 0.99,
+   "note_time": 103.0
+  },
+  {
+   "text": "forth",
+   "time": 104.9,
+   "weight": 0.99,
+   "note_time": 103.6
+  },
+  {
+   "text": "and",
+   "time": 105.6,
+   "weight": 0.86,
+   "note_time": 104.8
+  },
+  {
+   "text": "fo",
+   "time": 106.68,
+   "weight": 0.3,
+   "note_time": 105.2
+  },
+  {
+   "text": "re",
+   "time": 107.03,
+   "weight": 0.3,
+   "note_time": 105.6
+  },
+  {
+   "text": "ver",
+   "time": 107.38,
+   "weight": 0.3,
+   "note_time": 106.0
+  },
+  {
+   "text": "more",
+   "time": 107.73,
+   "weight": 0.3,
+   "note_time": 106.8
+  },
+  {
+   "text": "I",
+   "time": 110.74,
+   "weight": 0.81,
+   "note_time": 110.4
+  },
+  {
+   "text": "have",
+   "time": 112.14,
+   "weight": 0.99,
+   "note_time": 111.0
+  },
+  {
+   "text": "calmed",
+   "time": 112.94,
+   "weight": 0.92,
+   "note_time": 111.6
+  },
+  {
+   "text": "and",
+   "time": 114.28,
+   "weight": 0.99,
+   "note_time": 112.8
+  },
+  {
+   "text": "qui",
+   "time": 114.76,
+   "weight": 1.0,
+   "note_time": 113.2
+  },
+  {
+   "text": "et",
+   "time": 115.11,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "ed",
+   "time": 115.46,
+   "weight": 1.0,
+   "note_time": 114.2
+  },
+  {
+   "text": "my",
+   "time": 115.92,
+   "weight": 1.0,
+   "note_time": 114.8
+  },
+  {
+   "text": "soul",
+   "time": 116.18,
+   "weight": 1.0,
+   "note_time": 117.2
+  },
+  {
+   "text": "Like",
+   "time": 117.54,
+   "weight": 0.37,
+   "note_time": 117.6
+  },
+  {
+   "text": "a",
+   "time": 119.28,
+   "weight": 1.0,
+   "note_time": 118.0
+  },
+  {
+   "text": "weaned",
+   "time": 119.5,
+   "weight": 0.97,
+   "note_time": 118.8
+  },
+  {
+   "text": "child",
+   "time": 120.34,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "with",
+   "time": 120.84,
+   "weight": 0.98,
+   "note_time": 120.4
+  },
+  {
+   "text": "its",
+   "time": 122.04,
+   "weight": 0.96,
+   "note_time": 121.2
+  },
+  {
+   "text": "moth",
+   "time": 122.6,
+   "weight": 0.99,
+   "note_time": 122.0
+  },
+  {
+   "text": "er",
+   "time": 122.95,
+   "weight": 0.99,
+   "note_time": 123.6
+  },
+  {
+   "text": "Like",
+   "time": 124.54,
+   "weight": 0.92,
+   "note_time": 124.0
+  },
+  {
+   "text": "a",
+   "time": 125.76,
+   "weight": 1.0,
+   "note_time": 124.4
+  },
+  {
+   "text": "weaned",
+   "time": 125.98,
+   "weight": 0.4,
+   "note_time": 126.0
+  },
+  {
+   "text": "child",
+   "time": 127.54,
+   "weight": 1.0,
+   "note_time": 127.6
+  },
+  {
+   "text": "Is",
+   "time": 129.98,
+   "weight": 0.14,
+   "note_time": 130.0
+  },
+  {
+   "text": "my",
+   "time": 132.14,
+   "weight": 0.99,
+   "note_time": 130.4
+  },
+  {
+   "text": "soul",
+   "time": 132.58,
+   "weight": 0.98,
+   "note_time": 131.6
+  },
+  {
+   "text": "with",
+   "time": 133.86,
+   "weight": 0.28,
+   "note_time": 136.0
+  },
+  {
+   "text": "in",
+   "time": 134.21,
+   "weight": 0.28,
+   "note_time": 136.4
+  },
+  {
+   "text": "me",
+   "time": 138.02,
+   "weight": 1.0,
+   "note_time": 136.8
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "12 of 14 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

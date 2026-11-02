@@ -1,0 +1,67 @@
+{
+  "id": "person-enosh-choral",
+  "title": "Calling On The Name",
+  "kind": "person",
+  "anchor": {
+    "person": "enosh"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verseStart": 9,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 38,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "enosh",
+      "adam",
+      "set",
+      "kenan",
+      "mahalalel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male soprano solo with gentle choir, harp, soft flute, piano, cello, ethereal and reverent, 80 BPM",
+    "lyrics": "[Verse]\nSeth lived one hundred and five\nThen he saw a son arrive\nHe named him Enosh, pure and true\nInto the line where faith grew\n\n[Verse]\nAt that time the people found\nA way to make their hearts sound\nThey began to call aloud\nOn the name of the Lord\n\n[Verse]\nWhen Enosh was ninety years old\nHe fathered Kenan, as told\nEight hundred and fifteen more\nHe lived, keeping faith to the core\n\n[Verse]\nOther sons and daughters came\nIn the name they bore the same\nFrom Adam down to Seth’s line\nEnosh stands in grace divine\n\n[Verse]\nLuke lists him in the chain\nThe son of Enosh, plain and plain\nSon of Seth, son of Adam’s seed\nFrom God, the story is read\n\n[Outro]\nCalling on the name of the Lord",
+    "cot": "full",
+    "seed": 31126
+  }
+}

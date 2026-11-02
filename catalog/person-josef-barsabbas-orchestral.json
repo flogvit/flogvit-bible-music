@@ -1,0 +1,63 @@
+{
+  "id": "person-josef-barsabbas-orchestral",
+  "title": "Joseph called Justus",
+  "kind": "person",
+  "anchor": {
+    "person": "josef-barsabbas"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 21,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 24,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 13,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "josef-barsabbas",
+      "mattias",
+      "peter",
+      "judas-iskariot",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gentle choir, acoustic guitar, soft piano, cello, light drums, reverent and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nTwo names stood before the praying room\nJoseph called Justus sought the light\nA witness to the risen Lord\nFrom John's baptism to the final flight\n\n[Chorus]\nShow us which of these you chose\nLord you know the human heart\nThe lot fell not on Justus\nBut the witness role was marked\n\n[Verse]\nIn the upper room they gathered one hundred and twenty\nPraying with the women and the mother Mary\nHe walked with Jesus all the days\nAn eyewitness to the victory\n\n[Chorus]\nShow us which of these you chose\nLord you know the human heart\nThe lot fell not on Justus\nBut the witness role was marked\n\n[Bridge]\nMatthias took the twelfth seat\nJustus remained in faithful love\nThe ministry continued on\nWitnessing the words of God above\n\n[Outro]\nOne of these must become a witness\nOf the resurrection and the truth",
+    "cot": "full",
+    "seed": 31129
+  }
+}

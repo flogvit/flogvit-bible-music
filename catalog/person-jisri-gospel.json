@@ -1,0 +1,57 @@
+{
+  "id": "person-jisri-gospel",
+  "title": "Mighty Warriors of Asher",
+  "kind": "person",
+  "anchor": {
+    "person": "jisri"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 39,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 6,
+      "chapter": 19,
+      "verseStart": 24,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jisri",
+      "asjer",
+      "ulla",
+      "ara",
+      "hanniel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with gospel choir, acoustic guitar, organ, drums, bass guitar, warm majestic mood, 80 BPM",
+    "lyrics": "[Verse]\nSons of Ulla stand in the light\nArah and Hanniel keep the sight\nRizia walks where the promise leads\nHeads of the fathers in their needs\nChosen men from the tribe of Asher\nMighty warriors who will never falter\n\n[Chorus]\nTwenty-six thousand for the fight\nLeaders among the leaders bright\nEnrolled for service in the war\nThe tribe of Asher stands once more\nHeads of their houses, strong and true\nThe chosen men the people knew\n\n[Verse]\nFifth lot came out for the clan\nTerritory marked as the law ran\nHelkath and Hali in the land\nAcshaph stands by their own command\nAllammelech and Amad too\nMishal sees what the borders do\nWest to Carmel and Shihor Libnath\nEast to Beth Dagon and the path\n\n[Chorus]\nTwenty-six thousand for the fight\nLeaders among the leaders bright\nEnrolled for service in the war\nThe tribe of Asher stands once more\nHeads of their houses, strong and true\nThe chosen men the people knew\n\n[Bridge]\nZebulun border and the valley deep\nIphtah El where the people keep\nBeth Emek and Neiel on the rise\nCabul on the left side in the skies\nEbron and Rehob and Hammon town\nKanah near the Greater Sidon ground\n\n[Verse]\nRamah turns to the city strong\nTyre is fortified, the right is wrong\nHosah turns to the sea so wide\nAczib where the waters glide\nUmmah and Aphek and Rehob near\nTwenty-two towns without a fear\n\n[Chorus]\nTwenty-six thousand for the fight\nLeaders among the leaders bright\nEnrolled for service in the war\nThe tribe of Asher stands once more\nHeads of their houses, strong and true\nThe chosen men the people knew\n\n[Outro]\nInheritance of Asher clan by clan\nThe land is given in the hand\nOf the chosen men and their fathers' name\nRemembered in the holy frame",
+    "cot": "full",
+    "seed": 31128
+  }
+}

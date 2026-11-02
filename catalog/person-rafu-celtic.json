@@ -1,0 +1,61 @@
+{
+  "id": "person-rafu-celtic",
+  "title": "Palti Son of Rafu",
+  "kind": "person",
+  "anchor": {
+    "person": "rafu"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 2,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 17,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 25,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "rafu",
+      "moses",
+      "palti"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, celtic, solo male voice with soft choir, Celtic harp, bodhran, fiddle, tin whistle, flute, melancholic and solemn, 80 BPM",
+    "lyrics": "[Verse]\nFrom the tribe of Benjamin, Palti son of Rafu\nSent by Moses from the Wilderness of Paran\nOne leader chosen from each ancestral line\nTo scout the land of Canaan, divine\n\n[Chorus]\nSee what the land is like, strong or weak\nAre their towns open camps or fortified peaks\nIs the soil rich or poor, trees on it or not\nBe bold and bring back the fruit, the lot\n\n[Verse]\nThey went up from Zin as far as Rehob\nNeared Lebo-hamath, tested the path\nForty days they traveled through the land\nThen returned to the people, in the hand\n\n[Chorus]\nSee what the land is like, strong or weak\nAre their towns open camps or fortified peaks\nIs the soil rich or poor, trees on it or not\nBe bold and bring back the fruit, the lot\n\n[Verse]\nIt truly does flow with milk and honey\nBut the people are strong, cities are large\nWe saw the descendants of Anak there\nAmalekites in the Negev, the air\nHittites and Jebusites in the hills\nCanaanites by the sea and the fields\n\n[Bridge]\nCaleb quieted the people before Moses\nSaid we should go up and take possession\nBut the others said we cannot attack\nThey are stronger than we are, weak and lack\n\n[Chorus]\nSee what the land is like, strong or weak\nAre their towns open camps or fortified peaks\nIs the soil rich or poor, trees on it or not\nBe bold and bring back the fruit, the lot\n\n[Outro]\nIn our eyes we seemed like grasshoppers\nSo we seemed to them, the shadow of copers",
+    "cot": "full",
+    "seed": 31134
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person-mehujael-children",
+  "title": "Line of Cain",
+  "kind": "person",
+  "anchor": {
+    "person": "mehujael"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 17,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 19,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "mehujael",
+      "kain",
+      "henok-kains-sonn",
+      "irad",
+      "metusael"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice with soft choir, acoustic guitar, piano, flute, strings, cello, solemn and reflective, 80 BPM",
+    "lyrics": "[Verse]\nCain knew his wife and gave birth to Enoch\nHe built a city and named it his son\nFrom Enoch came Irad in the dust\nIrad was the father of Mehujael\n\n[Chorus]\nMehujael was the father of Methushael\nMethushael was the father of Lamech\nThe line of Cain stood apart in the world\nA lineage moving through the ancient earth\n\n[Verse]\nLamech took two wives for himself\nAdah was the first and Zillah the other\nAdah gave birth to Jabal the elder\nFather of tents and those who keep livestock\n\n[Chorus]\nMehujael was the father of Methushael\nMethushael was the father of Lamech\nThe line of Cain stood apart in the world\nA lineage moving through the ancient earth\n\n[Verse]\nJubal was the brother of Jabal\nFather of all who play the lyre and pipe\nZillah gave birth to Tubal-Cain\nHe forged tools out of bronze and iron\n\n[Bridge]\nTubal-Cain's sister was named Naamah\nThe civilization grew in their hands\nFar from the godly line of Seth\nTheir names are written in the book of Genesis\n\n[Outro]\nIrad the father of Mehujael\nMehujael the father of Methushael\nThe descendants of Cain remain",
+    "cot": "full",
+    "seed": 31131
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person-pinon-ballad",
+  "title": "Chief Pinon",
+  "kind": "person",
+  "anchor": {
+    "person": "pinon"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 40,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 52,
+      "verseEnd": 52
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "pinon",
+      "esau",
+      "timna",
+      "oholibama",
+      "ela-edomittisk-hovding-etterkommer-av-esau"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and clear, acoustic guitar, cello, soft piano, gentle drums, reflective and solemn, 75 BPM",
+    "lyrics": "[Verse]\nThis is the family history of Esau\nThat is, Edom in the hill country of Seir\nHe took wives from the daughters of Canaan\nAnd moved away from his brother Jacob\n\n[Chorus]\nChief Pinon stands in the list of names\nA chief among the clans and regions\nOne of the leaders descended from Esau\nPart of the structure of the people\n\n[Verse]\nChief Timna and Chief Alvah are named\nChief Jetheth holds his place in the land\nChief Oholibamah and Chief Elah\nChief Pinon completes the line\n\n[Chorus]\nChief Pinon stands in the list of names\nA chief among the clans and regions\nOne of the leaders descended from Esau\nPart of the structure of the people\n\n[Bridge]\nThe possessions were too great to live together\nThe land could not support their livestock\nSo they settled in the hill country of Seir\nWhere the Edomites took their place\n\n[Chorus]\nChief Pinon stands in the list of names\nA chief among the clans and regions\nOne of the leaders descended from Esau\nPart of the structure of the people\n\n[Outro]\nName by name in the genealogy\nChief Pinon of the land of Edom",
+    "cot": "full",
+    "seed": 31133
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "person-jigdalja-folk",
+  "title": "The Man of God",
+  "kind": "person",
+  "anchor": {
+    "person": "jigdalja"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 1,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "tro",
+      "pakten",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "jigdalja",
+      "hanan",
+      "jeremia",
+      "rekab"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, acoustic guitar, cello, flute, light percussion, solemn, 80 BPM",
+    "lyrics": "[Verse]\nThe word came down in days of old\nKing Jehoiakim upon the throne\nA test for those who lived as told\nThe Rechabites in their home\n\n[Verse]\nTo the house of the Lord I went\nInto a chamber set aside\nWhere the sons of Hanan went\nWith Igdaliah by their side\n\n[Chorus]\nHe was called the man of God\nA name of honor held in trust\nBeside the officials it was\nAbove the keeper of the dust\n\n[Verse]\nBowls of wine were set before\nThe men who lived in tents all days\nBut they refused the liquid store\nObeying ancient sacred ways\n\n[Chorus]\nHe was called the man of God\nA name of honor held in trust\nBeside the officials it was\nAbove the keeper of the dust\n\n[Verse]\nJonadab commanded them to keep\nNo houses sown or vines to grow\nThey answered with a promise deep\nTo follow where their fathers go\n\n[Chorus]\nHe was called the man of God\nA name of honor held in trust\nBeside the officials it was\nAbove the keeper of the dust\n\n[Outro]\nIn that chamber of the Lord\nThe man of God is remembered well",
+    "cot": "full",
+    "seed": 31127
+  }
+}

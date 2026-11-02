@@ -1,0 +1,68 @@
+{
+  "id": "person-nabopolassar-soul",
+  "title": "King of Babylon",
+  "kind": "person",
+  "anchor": {
+    "person": "nabopolassar"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 24,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 34,
+      "chapter": 3,
+      "verseStart": 7,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 24,
+      "chapter": 25,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 24,
+      "chapter": 46,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "synden",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "nabopolassar",
+      "nebukadnesar",
+      "jojakim",
+      "sidkia-josias-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone voice with gospel choir backing, Hammond organ, electric piano, cello, brushed snare drum, mournful and solemn mood, 72 BPM",
+    "lyrics": "[Verse]\nDuring his reign the king of Babylon invaded\nJehoiakim served him for three years\nThen he turned and rebelled against the master\nThe LORD sent raiding bands against the land\n\n[Chorus]\nNebuchadnezzar king of Babylon my servant\nI will bring them against this land\nTo devote them to destruction\nAn object of horror and scorn\n\n[Verse]\nAll who see you will recoil from you\nNineveh is ruined who will mourn\nAre you better than Thebes seated by the Nile\nYet she too went into exile\n\n[Chorus]\nNebuchadnezzar king of Babylon my servant\nI will bring them against this land\nTo devote them to destruction\nAn object of horror and scorn\n\n[Bridge]\nThis whole land will become a ruin\nA wasteland for seventy years\nThe sound of joy will be banished\nFrom the city and the fields\n\n[Outro]\nI will punish the king of Babylon\nAnd that nation for their guilt\nThe land of Chaldeans made a desolation",
+    "cot": "full",
+    "seed": 31132
+  }
+}

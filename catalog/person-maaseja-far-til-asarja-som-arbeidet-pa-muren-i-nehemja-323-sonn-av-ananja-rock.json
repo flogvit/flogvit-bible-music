@@ -1,0 +1,56 @@
+{
+  "id": "person-maaseja-far-til-asarja-som-arbeidet-pa-muren-i-nehemja-323-sonn-av-ananja-rock",
+  "title": "Set Their Hands To The Good Work",
+  "kind": "person",
+  "anchor": {
+    "person": "maaseja-far-til-asarja-som-arbeidet-pa-muren-i-nehemja-323-sonn-av-ananja"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 16,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 16,
+      "chapter": 2,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "maaseja-far-til-asarja-som-arbeidet-pa-muren-i-nehemja-323-sonn-av-ananja",
+      "nehemja",
+      "ananja",
+      "asarja-sonn-av-maaseja-neh-3-23"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, powerful and steady, electric guitar, acoustic guitar, bass, drums, moderate tempo, 110 BPM",
+    "lyrics": "[Verse]\nJerusalem lies in ruins now\nThe gates have burned with fire\nA disgrace upon the land\nBut hear the call to higher\nNehemiah speaks to the crowd\nWith a gracious hand\nThe king has spoken his word\nNow is the time to stand\n\n[Pre-Chorus]\nSo they set their hands to the work\nThe good work they began\nFrom the shadow of the past\nTo the strength of the man\n\n[Chorus]\nAzariah son of Maaseiah\nBeside his house he stands\nNext to Benjamin and Hasshub\nRebuilding by God's command\nSon of Ananiah he is\nIn the list of the brave\nWorking on the wall of the city\nWhere the faithful have grave\n\n[Verse]\nFifty-two days in the heat\nThe work is done and true\nOn the twenty-fifth of Elul\nThe wall stands firm and new\nOur enemies hear the news\nTheir confidence sinks low\nThey know this work was accomplished\nBy our God alone\n\n[Chorus]\nAzariah son of Maaseiah\nBeside his house he stands\nNext to Benjamin and Hasshub\nRebuilding by God's command\nSon of Ananiah he is\nIn the list of the brave\nWorking on the wall of the city\nWhere the faithful have grave\n\n[Bridge]\nThe nations around were afraid\nWhen the wall rose high\nFor they knew the hand of the Lord\nWas the one who did this\n\n[Outro]\nSo we set our hands to the good work\nAnd the wall rises high",
+    "cot": "full",
+    "seed": 31130
+  }
+}

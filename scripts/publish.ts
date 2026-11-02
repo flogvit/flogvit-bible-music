@@ -170,7 +170,11 @@ for (const dir of readdirSync(opt.library!, { withFileTypes: true }).filter((d) 
   const folder = join(opt.library!, dir);
   if (!existsSync(join(folder, "info.json")) || !existsSync(join(folder, "audio.mp3"))) continue;
   const info = JSON.parse(readFileSync(join(folder, "info.json"), "utf8"));
-  const foreign = info.language && info.language !== "en" ? `sung in ${info.language}` : notEnglish(info.lyrics?.text ?? "");
+  // The catalog's title is the song's title: one changed there is published without building the song again.
+  const entry = join(import.meta.dir, "..", "catalog", `${info.id}.json`);
+  if (existsSync(entry)) info.title = JSON.parse(readFileSync(entry, "utf8")).title;
+  const foreign = info.language && info.language !== "en" ? `sung in ${info.language}`
+    : notEnglish(info.lyrics?.text ?? "") ?? (notEnglish(info.title ?? "") && `title ${notEnglish(info.title)}`);
   if (foreign) {
     console.log(`not published, not English: ${info.id} (${foreign})`);
     continue;

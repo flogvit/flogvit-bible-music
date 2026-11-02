@@ -19,11 +19,27 @@ describe('notEnglish', () => {
 
   test('Norwegian and Latin lyrics are caught, with the words that gave them away', () => {
     expect(notEnglish(SALME_23)).toStartWith('Norwegian words (herren, er, min, jeg, han, meg');
-    expect(notEnglish(PATER)).toStartWith('Latin words (qui, es, nomen, tuum, regnum, fiat');
+    expect(notEnglish(PATER)).toStartWith('Latin words (pater, noster, qui, es, nomen, tuum');
   });
 
   test('an English song with a Latin chorus is caught too', () => {
     expect(notEnglish(`${PSALM_23}\n\n[Chorus]\nGloria in excelsis Deo\nEt in terra pax hominibus`)).toStartWith('Latin words');
+  });
+});
+
+describe('titles', () => {
+  test('the Norwegian, Latin and Hebrew titles the catalog had are caught', () => {
+    for (const title of ['Herren er min hyrde', 'Kom til meg', 'Far, jeg har syndet', 'Jeg løfter mine øyne mot fjellene',
+      'Pater Noster', 'Magnificat', 'O Vos Omnes', 'Ecce Agnus Dei', 'Gloria in Altissimis Deo', 'Hine Ma Tov']) {
+      expect(notEnglish(title)).toBeDefined();
+    }
+  });
+
+  test('English titles pass, also with names and the Hebrew and Greek words English Bibles keep', () => {
+    for (const title of ['A Long Way Off', 'Rabboni', 'Immanuel', 'Hosanna in the Highest', 'Beer-lahai-roi', 'Keren-Happuch',
+      'Far Beyond All That We Ask', 'Greet Hermes', 'Hallowed Be Your Name', 'God Is Love', 'Behold, How Good']) {
+      expect(notEnglish(title)).toBeUndefined();
+    }
   });
 });
 

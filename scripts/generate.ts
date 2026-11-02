@@ -437,6 +437,14 @@ function claimNext(fromEnd: boolean, skip: Set<string>): { id: string; tip: stri
   for (const id of ids) {
     const c = claims.get(id);
     if (skip.has(id) || !isFree(c) || isComplete(id)) continue;
+    // English only: a song whose title or lyrics are not English is not made (validate-catalog says why).
+    const entry = JSON.parse(readFileSync(path.join(REPO, 'catalog', `${id}.json`), 'utf8'));
+    const foreign = notEnglish(entry.title) ?? notEnglish(entry.request.lyrics);
+    if (foreign) {
+      log(`SKIPPED ${id}: not English (${foreign})`);
+      skip.add(id);
+      continue;
+    }
     const r = push(id, c?.sha, 'claimed');
     if (r.result === 'ok') return { id, tip: r.sha! };
     if (r.result === 'error') throw new Error(`cannot reach GitHub: ${r.detail}`);

@@ -1,0 +1,694 @@
+{
+ "id": "chapter-19-121-armenian",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-121-armenian",
+ "offset_seconds": -5.120000000000147,
+ "words_heard": 86,
+ "words": 86,
+ "lines": [
+  {
+   "text": "I lift up my eyes to the mountains",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Where does my help come from",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My help comes from the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who made heaven and earth",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He who keeps you will not slumber",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He who keeps Israel will not sleep",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord is your keeper",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord is your shade at your right hand",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sun shall not strike you by day",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nor the moon by night",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He who keeps you will not slumber",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He who keeps Israel will not sleep",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From this time forth and forevermore",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 30.0,
+   "weight": 0.49,
+   "note_time": 30.0
+  },
+  {
+   "text": "lift",
+   "time": 31.4,
+   "weight": 0.96,
+   "note_time": 30.83
+  },
+  {
+   "text": "up",
+   "time": 32.8,
+   "weight": 0.99,
+   "note_time": 31.25
+  },
+  {
+   "text": "my",
+   "time": 33.26,
+   "weight": 1.0,
+   "note_time": 31.67
+  },
+  {
+   "text": "eyes",
+   "time": 33.6,
+   "weight": 1.0,
+   "note_time": 32.5
+  },
+  {
+   "text": "to",
+   "time": 34.64,
+   "weight": 0.98,
+   "note_time": 32.92
+  },
+  {
+   "text": "the",
+   "time": 34.74,
+   "weight": 1.0,
+   "note_time": 33.33
+  },
+  {
+   "text": "moun",
+   "time": 35.14,
+   "weight": 0.96,
+   "note_time": 34.17
+  },
+  {
+   "text": "tains",
+   "time": 35.49,
+   "weight": 0.96,
+   "note_time": 36.67
+  },
+  {
+   "text": "Where",
+   "time": 36.38,
+   "weight": 0.21,
+   "note_time": 37.5
+  },
+  {
+   "text": "does",
+   "time": 38.82,
+   "weight": 0.99,
+   "note_time": 37.92
+  },
+  {
+   "text": "my",
+   "time": 39.68,
+   "weight": 0.96,
+   "note_time": 38.33
+  },
+  {
+   "text": "help",
+   "time": 40.08,
+   "weight": 1.0,
+   "note_time": 39.17
+  },
+  {
+   "text": "come",
+   "time": 40.64,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "from",
+   "time": 41.3,
+   "weight": 1.0,
+   "note_time": 42.92
+  },
+  {
+   "text": "My",
+   "time": 43.54,
+   "weight": 0.99,
+   "note_time": 43.33
+  },
+  {
+   "text": "help",
+   "time": 44.94,
+   "weight": 1.0,
+   "note_time": 44.58
+  },
+  {
+   "text": "comes",
+   "time": 45.74,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "from",
+   "time": 46.68,
+   "weight": 1.0,
+   "note_time": 45.83
+  },
+  {
+   "text": "the",
+   "time": 47.1,
+   "weight": 0.97,
+   "note_time": 46.67
+  },
+  {
+   "text": "Lord",
+   "time": 47.88,
+   "weight": 0.94,
+   "note_time": 49.17
+  },
+  {
+   "text": "Who",
+   "time": 48.84,
+   "weight": 0.35,
+   "note_time": 50.0
+  },
+  {
+   "text": "made",
+   "time": 50.94,
+   "weight": 1.0,
+   "note_time": 51.25
+  },
+  {
+   "text": "heav",
+   "time": 51.54,
+   "weight": 0.36,
+   "note_time": 51.67
+  },
+  {
+   "text": "en",
+   "time": 51.89,
+   "weight": 0.36,
+   "note_time": 52.5
+  },
+  {
+   "text": "and",
+   "time": 53.08,
+   "weight": 0.99,
+   "note_time": 52.92
+  },
+  {
+   "text": "earth",
+   "time": 54.5,
+   "weight": 0.97,
+   "note_time": 53.33
+  },
+  {
+   "text": "He",
+   "time": 56.98,
+   "weight": 0.54,
+   "note_time": 56.67
+  },
+  {
+   "text": "who",
+   "time": 58.22,
+   "weight": 0.88,
+   "note_time": 57.5
+  },
+  {
+   "text": "keeps",
+   "time": 59.16,
+   "weight": 0.99,
+   "note_time": 58.33
+  },
+  {
+   "text": "you",
+   "time": 60.0,
+   "weight": 0.9,
+   "note_time": 58.75
+  },
+  {
+   "text": "will",
+   "time": 60.4,
+   "weight": 0.97,
+   "note_time": 59.17
+  },
+  {
+   "text": "not",
+   "time": 60.86,
+   "weight": 0.99,
+   "note_time": 59.58
+  },
+  {
+   "text": "slum",
+   "time": 61.26,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "ber",
+   "time": 61.61,
+   "weight": 1.0,
+   "note_time": 60.83
+  },
+  {
+   "text": "He",
+   "time": 62.26,
+   "weight": 0.16,
+   "note_time": 63.33
+  },
+  {
+   "text": "who",
+   "time": 64.68,
+   "weight": 0.99,
+   "note_time": 65.0
+  },
+  {
+   "text": "keeps",
+   "time": 65.66,
+   "weight": 1.0,
+   "note_time": 65.42
+  },
+  {
+   "text": "Is",
+   "time": 66.58,
+   "weight": 0.81,
+   "note_time": 65.62
+  },
+  {
+   "text": "rael",
+   "time": 66.88,
+   "weight": 0.81,
+   "note_time": 65.83
+  },
+  {
+   "text": "will",
+   "time": 67.18,
+   "weight": 0.99,
+   "note_time": 66.25
+  },
+  {
+   "text": "not",
+   "time": 67.74,
+   "weight": 1.0,
+   "note_time": 66.67
+  },
+  {
+   "text": "sleep",
+   "time": 68.26,
+   "weight": 0.38,
+   "note_time": 68.33
+  },
+  {
+   "text": "The",
+   "time": 72.98,
+   "weight": 0.92,
+   "note_time": 72.92
+  },
+  {
+   "text": "Lord",
+   "time": 74.22,
+   "weight": 0.85,
+   "note_time": 74.17
+  },
+  {
+   "text": "is",
+   "time": 74.7,
+   "weight": 1.0,
+   "note_time": 74.58
+  },
+  {
+   "text": "your",
+   "time": 75.48,
+   "weight": 0.99,
+   "note_time": 75.0
+  },
+  {
+   "text": "keep",
+   "time": 75.78,
+   "weight": 0.91,
+   "note_time": 75.83
+  },
+  {
+   "text": "er",
+   "time": 76.13,
+   "weight": 0.91,
+   "note_time": 76.25
+  },
+  {
+   "text": "The",
+   "time": 76.58,
+   "weight": 0.76,
+   "note_time": 76.67
+  },
+  {
+   "text": "Lord",
+   "time": 77.32,
+   "weight": 1.0,
+   "note_time": 77.5
+  },
+  {
+   "text": "is",
+   "time": 77.96,
+   "weight": 1.0,
+   "note_time": 77.92
+  },
+  {
+   "text": "your",
+   "time": 78.74,
+   "weight": 0.99,
+   "note_time": 78.33
+  },
+  {
+   "text": "shade",
+   "time": 79.06,
+   "weight": 1.0,
+   "note_time": 78.75
+  },
+  {
+   "text": "at",
+   "time": 79.5,
+   "weight": 0.43,
+   "note_time": 79.17
+  },
+  {
+   "text": "your",
+   "time": 79.98,
+   "weight": 1.0,
+   "note_time": 79.58
+  },
+  {
+   "text": "right",
+   "time": 80.3,
+   "weight": 1.0,
+   "note_time": 79.79
+  },
+  {
+   "text": "hand",
+   "time": 80.8,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "The",
+   "time": 81.34,
+   "weight": 0.27,
+   "note_time": 82.92
+  },
+  {
+   "text": "sun",
+   "time": 83.78,
+   "weight": 0.93,
+   "note_time": 83.33
+  },
+  {
+   "text": "shall",
+   "time": 84.28,
+   "weight": 0.98,
+   "note_time": 84.17
+  },
+  {
+   "text": "not",
+   "time": 85.04,
+   "weight": 0.99,
+   "note_time": 84.58
+  },
+  {
+   "text": "strike",
+   "time": 85.46,
+   "weight": 0.99,
+   "note_time": 85.0
+  },
+  {
+   "text": "you",
+   "time": 85.94,
+   "weight": 0.99,
+   "note_time": 85.83
+  },
+  {
+   "text": "by",
+   "time": 86.78,
+   "weight": 0.99,
+   "note_time": 86.25
+  },
+  {
+   "text": "day",
+   "time": 87.1,
+   "weight": 1.0,
+   "note_time": 86.67
+  },
+  {
+   "text": "Nor",
+   "time": 88.74,
+   "weight": 0.23,
+   "note_time": 89.17
+  },
+  {
+   "text": "the",
+   "time": 89.96,
+   "weight": 1.0,
+   "note_time": 89.58
+  },
+  {
+   "text": "moon",
+   "time": 90.38,
+   "weight": 0.99,
+   "note_time": 90.0
+  },
+  {
+   "text": "by",
+   "time": 90.96,
+   "weight": 0.98,
+   "note_time": 91.67
+  },
+  {
+   "text": "night",
+   "time": 92.44,
+   "weight": 0.4,
+   "note_time": 92.92
+  },
+  {
+   "text": "He",
+   "time": 96.08,
+   "weight": 0.92,
+   "note_time": 96.67
+  },
+  {
+   "text": "who",
+   "time": 97.22,
+   "weight": 0.99,
+   "note_time": 97.5
+  },
+  {
+   "text": "keeps",
+   "time": 98.08,
+   "weight": 0.99,
+   "note_time": 98.33
+  },
+  {
+   "text": "you",
+   "time": 98.92,
+   "weight": 0.99,
+   "note_time": 98.96
+  },
+  {
+   "text": "will",
+   "time": 99.34,
+   "weight": 0.98,
+   "note_time": 99.17
+  },
+  {
+   "text": "not",
+   "time": 99.68,
+   "weight": 1.0,
+   "note_time": 99.58
+  },
+  {
+   "text": "slum",
+   "time": 100.18,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "ber",
+   "time": 100.53,
+   "weight": 1.0,
+   "note_time": 100.83
+  },
+  {
+   "text": "He",
+   "time": 101.22,
+   "weight": 0.38,
+   "note_time": 103.33
+  },
+  {
+   "text": "who",
+   "time": 103.68,
+   "weight": 1.0,
+   "note_time": 104.17
+  },
+  {
+   "text": "keeps",
+   "time": 104.58,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "Is",
+   "time": 105.52,
+   "weight": 0.41,
+   "note_time": 105.42
+  },
+  {
+   "text": "rael",
+   "time": 105.75,
+   "weight": 0.41,
+   "note_time": 105.62
+  },
+  {
+   "text": "will",
+   "time": 105.98,
+   "weight": 0.99,
+   "note_time": 105.83
+  },
+  {
+   "text": "not",
+   "time": 106.58,
+   "weight": 1.0,
+   "note_time": 106.25
+  },
+  {
+   "text": "sleep",
+   "time": 107.2,
+   "weight": 0.63,
+   "note_time": 106.67
+  },
+  {
+   "text": "From",
+   "time": 111.66,
+   "weight": 0.84,
+   "note_time": 112.92
+  },
+  {
+   "text": "this",
+   "time": 113.06,
+   "weight": 1.0,
+   "note_time": 113.33
+  },
+  {
+   "text": "time",
+   "time": 113.64,
+   "weight": 0.99,
+   "note_time": 114.58
+  },
+  {
+   "text": "forth",
+   "time": 114.84,
+   "weight": 1.0,
+   "note_time": 115.0
+  },
+  {
+   "text": "and",
+   "time": 115.42,
+   "weight": 0.96,
+   "note_time": 115.83
+  },
+  {
+   "text": "fo",
+   "time": 116.4,
+   "weight": 0.36,
+   "note_time": 116.25
+  },
+  {
+   "text": "re",
+   "time": 116.75,
+   "weight": 0.36,
+   "note_time": 116.67
+  },
+  {
+   "text": "ver",
+   "time": 117.1,
+   "weight": 0.36,
+   "note_time": 117.08
+  },
+  {
+   "text": "more",
+   "time": 117.45,
+   "weight": 0.36,
+   "note_time": 117.5
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "11 of 13 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

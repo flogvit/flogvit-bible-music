@@ -1,490 +1,418 @@
 {
  "id": "verse-25-1-12-polyphony",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-25-1-12-polyphony",
- "offset_seconds": 11.059999999999508,
- "words_heard": 30,
- "words": 38,
+ "offset_seconds": -2.0800000000002115,
+ "words_heard": 47,
+ "words": 47,
  "lines": [
   {
-   "text": "O vos omnes qui transitis per viam",
-   "heard": 7,
-   "words": 7,
-   "error_s": 0.96,
+   "text": "Is it nothing to you, all you who pass by",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.46,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "attendite et videte",
+   "text": "Look and see",
    "heard": 3,
    "words": 3,
-   "error_s": null,
+   "error_s": 1.3,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Si est dolor sicut dolor meus",
-   "heard": 6,
-   "words": 6,
-   "error_s": 3.16,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "si est dolor sicut dolor meus",
-   "heard": 4,
-   "words": 6,
-   "error_s": 5.84,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "O vos omnes qui transitis per viam",
-   "heard": 6,
+   "text": "Is there any suffering like my suffering",
+   "heard": 7,
    "words": 7,
-   "error_s": 0.64,
+   "error_s": 0.32,
    "tie_split": false,
    "uncertain": false
   },
   {
-   "text": "attendite et videte",
-   "heard": 0,
-   "words": 3,
-   "error_s": null,
+   "text": "Is there any suffering like my suffering",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.78,
    "tie_split": false,
-   "uncertain": true
+   "uncertain": false
   },
   {
-   "text": "Si est dolor sicut dolor meus",
-   "heard": 4,
-   "words": 6,
-   "error_s": 12.4,
+   "text": "Is it nothing to you, all you who pass by",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.36,
    "tie_split": false,
-   "uncertain": true
+   "uncertain": false
+  },
+  {
+   "text": "Look and see",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is there any suffering like my suffering",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
   }
  ],
  "syllables": [
   {
-   "text": "O",
-   "time": 0.6,
-   "weight": 0.29,
-   "note_time": 0.8
-  },
-  {
-   "text": "vos",
-   "time": 2.0,
+   "text": "Is",
+   "time": 9.62,
    "weight": 0.81,
-   "note_time": 1.2
-  },
-  {
-   "text": "om",
-   "time": 2.72,
-   "weight": 0.55,
-   "note_time": 1.6
-  },
-  {
-   "text": "nes",
-   "time": 3.07,
-   "weight": 0.55,
-   "note_time": 2.4
-  },
-  {
-   "text": "qu",
-   "time": 3.94,
-   "weight": 0.37,
-   "note_time": 3.2
-  },
-  {
-   "text": "i",
-   "time": 4.07,
-   "weight": 0.37,
-   "note_time": 4.8
-  },
-  {
-   "text": "tran",
-   "time": 4.2,
-   "weight": 0.42,
-   "note_time": 7.2
-  },
-  {
-   "text": "si",
-   "time": 4.55,
-   "weight": 0.42,
-   "note_time": 7.6
-  },
-  {
-   "text": "tis",
-   "time": 4.9,
-   "weight": 0.42,
-   "note_time": 8.0
-  },
-  {
-   "text": "per",
-   "time": 5.32,
-   "weight": 0.96,
-   "note_time": 8.8
-  },
-  {
-   "text": "vi",
-   "time": 5.82,
-   "weight": 0.19,
    "note_time": 9.6
   },
   {
-   "text": "am",
-   "time": 6.17,
-   "weight": 0.19,
+   "text": "it",
+   "time": 11.02,
+   "weight": 0.95,
+   "note_time": 10.4
+  },
+  {
+   "text": "noth",
+   "time": 11.68,
+   "weight": 0.99,
    "note_time": 11.2
   },
   {
-   "text": "at",
-   "time": 7.4,
-   "weight": 0.17,
+   "text": "ing",
+   "time": 12.03,
+   "weight": 0.99,
+   "note_time": 11.6
+  },
+  {
+   "text": "to",
+   "time": 12.5,
+   "weight": 1.0,
    "note_time": 13.6
   },
   {
-   "text": "ten",
-   "time": 7.75,
-   "weight": 0.17,
-   "note_time": 14.0
-  },
-  {
-   "text": "di",
-   "time": 8.1,
-   "weight": 0.17,
+   "text": "you,",
+   "time": 13.46,
+   "weight": 0.98,
    "note_time": 14.4
   },
   {
-   "text": "te",
-   "time": 8.45,
-   "weight": 0.17,
+   "text": "all",
+   "time": 14.32,
+   "weight": 0.29,
    "note_time": 15.2
   },
   {
-   "text": "et",
-   "time": 9.84,
-   "weight": 0.46,
-   "note_time": 15.6
-  },
-  {
-   "text": "vi",
-   "time": 11.1,
-   "weight": 0.27,
+   "text": "you",
+   "time": 15.9,
+   "weight": 0.99,
    "note_time": 16.0
   },
   {
-   "text": "de",
-   "time": 11.45,
-   "weight": 0.27,
+   "text": "who",
+   "time": 16.74,
+   "weight": 0.97,
    "note_time": 16.4
   },
   {
-   "text": "te",
-   "time": 11.8,
-   "weight": 0.27,
+   "text": "pass",
+   "time": 17.46,
+   "weight": 0.97,
    "note_time": 16.8
   },
   {
-   "text": "Si",
-   "time": 13.18,
-   "weight": 0.06,
-   "note_time": 17.2
-  },
-  {
-   "text": "est",
-   "time": 14.92,
-   "weight": 0.15,
-   "note_time": 17.6
-  },
-  {
-   "text": "do",
-   "time": 15.28,
-   "weight": 0.93,
-   "note_time": 18.0
-  },
-  {
-   "text": "lor",
-   "time": 15.6,
-   "weight": 0.93,
+   "text": "by",
+   "time": 18.48,
+   "weight": 1.0,
    "note_time": 18.4
   },
   {
-   "text": "si",
-   "time": 15.92,
-   "weight": 0.48,
+   "text": "Look",
+   "time": 19.16,
+   "weight": 0.06,
+   "note_time": 18.8
+  },
+  {
+   "text": "and",
+   "time": 20.72,
+   "weight": 0.99,
+   "note_time": 19.2
+  },
+  {
+   "text": "see",
+   "time": 21.08,
+   "weight": 0.99,
    "note_time": 20.0
   },
   {
-   "text": "cut",
-   "time": 16.27,
+   "text": "Is",
+   "time": 24.78,
    "weight": 0.48,
-   "note_time": 20.4
+   "note_time": 25.8
   },
   {
-   "text": "do",
-   "time": 17.28,
+   "text": "there",
+   "time": 26.08,
+   "weight": 0.9,
+   "note_time": 26.0
+  },
+  {
+   "text": "a",
+   "time": 26.62,
    "weight": 0.97,
-   "note_time": 20.8
-  },
-  {
-   "text": "lor",
-   "time": 17.63,
-   "weight": 0.97,
-   "note_time": 21.6
-  },
-  {
-   "text": "me",
-   "time": 18.04,
-   "weight": 0.15,
-   "note_time": 22.4
-  },
-  {
-   "text": "us",
-   "time": 18.37,
-   "weight": 0.15,
-   "note_time": 23.6
-  },
-  {
-   "text": "si",
-   "time": 19.45,
-   "weight": 0.0,
    "note_time": 26.4
   },
   {
-   "text": "est",
-   "time": 20.54,
-   "weight": 0.0,
-   "note_time": 26.8
-  },
-  {
-   "text": "do",
-   "time": 21.62,
-   "weight": 0.89,
+   "text": "ny",
+   "time": 26.95,
+   "weight": 0.97,
    "note_time": 27.2
   },
   {
-   "text": "lor",
-   "time": 21.9,
-   "weight": 0.89,
+   "text": "suf",
+   "time": 27.28,
+   "weight": 0.96,
+   "note_time": 27.6
+  },
+  {
+   "text": "fering",
+   "time": 27.63,
+   "weight": 0.96,
    "note_time": 28.0
   },
   {
-   "text": "si",
-   "time": 22.18,
-   "weight": 0.31,
-   "note_time": 28.8
+   "text": "like",
+   "time": 28.08,
+   "weight": 0.89,
+   "note_time": 28.2
   },
   {
-   "text": "cut",
-   "time": 22.53,
-   "weight": 0.31,
-   "note_time": 29.2
+   "text": "my",
+   "time": 29.38,
+   "weight": 0.99,
+   "note_time": 28.4
   },
   {
-   "text": "do",
-   "time": 23.82,
-   "weight": 0.39,
-   "note_time": 29.6
-  },
-  {
-   "text": "lor",
-   "time": 24.17,
-   "weight": 0.39,
-   "note_time": 30.0
-  },
-  {
-   "text": "me",
-   "time": 25.32,
-   "weight": 0.37,
+   "text": "suf",
+   "time": 29.76,
+   "weight": 0.98,
    "note_time": 30.4
   },
   {
-   "text": "us",
-   "time": 25.67,
-   "weight": 0.37,
+   "text": "fering",
+   "time": 30.06,
+   "weight": 0.98,
    "note_time": 30.8
   },
   {
-   "text": "O",
-   "time": 32.72,
-   "weight": 0.65,
+   "text": "Is",
+   "time": 30.36,
+   "weight": 0.08,
+   "note_time": 31.6
+  },
+  {
+   "text": "there",
+   "time": 32.38,
+   "weight": 0.93,
+   "note_time": 32.0
+  },
+  {
+   "text": "a",
+   "time": 32.96,
+   "weight": 0.98,
+   "note_time": 32.2
+  },
+  {
+   "text": "ny",
+   "time": 33.27,
+   "weight": 0.98,
+   "note_time": 32.4
+  },
+  {
+   "text": "suf",
+   "time": 33.58,
+   "weight": 0.99,
    "note_time": 32.8
   },
   {
-   "text": "vos",
-   "time": 34.12,
-   "weight": 0.93,
-   "note_time": 33.2
-  },
-  {
-   "text": "om",
-   "time": 34.7,
-   "weight": 0.69,
+   "text": "fering",
+   "time": 33.93,
+   "weight": 0.99,
    "note_time": 33.6
   },
   {
-   "text": "nes",
-   "time": 35.05,
-   "weight": 0.69,
+   "text": "like",
+   "time": 34.42,
+   "weight": 0.98,
+   "note_time": 34.0
+  },
+  {
+   "text": "my",
+   "time": 35.74,
+   "weight": 1.0,
    "note_time": 34.4
   },
   {
-   "text": "qu",
-   "time": 36.06,
-   "weight": 0.37,
-   "note_time": 35.2
+   "text": "suf",
+   "time": 36.12,
+   "weight": 1.0,
+   "note_time": 34.6
   },
   {
-   "text": "i",
-   "time": 36.16,
-   "weight": 0.37,
-   "note_time": 36.4
+   "text": "fering",
+   "time": 36.44,
+   "weight": 1.0,
+   "note_time": 34.8
   },
   {
-   "text": "tran",
-   "time": 36.26,
-   "weight": 0.95,
-   "note_time": 36.8
+   "text": "Is",
+   "time": 39.0,
+   "weight": 0.58,
+   "note_time": 39.2
   },
   {
-   "text": "si",
-   "time": 36.61,
-   "weight": 0.95,
-   "note_time": 37.2
+   "text": "it",
+   "time": 40.4,
+   "weight": 0.69,
+   "note_time": 39.6
   },
   {
-   "text": "tis",
-   "time": 36.96,
-   "weight": 0.95,
-   "note_time": 37.6
+   "text": "noth",
+   "time": 40.94,
+   "weight": 0.94,
+   "note_time": 40.0
   },
   {
-   "text": "per",
-   "time": 37.56,
-   "weight": 0.95,
-   "note_time": 46.0
+   "text": "ing",
+   "time": 41.29,
+   "weight": 0.94,
+   "note_time": 40.8
   },
   {
-   "text": "vi",
-   "time": 38.28,
-   "weight": 0.0,
+   "text": "to",
+   "time": 41.64,
+   "weight": 0.98,
+   "note_time": 41.6
+  },
+  {
+   "text": "you,",
+   "time": 42.72,
+   "weight": 0.97,
+   "note_time": 42.0
+  },
+  {
+   "text": "all",
+   "time": 43.64,
+   "weight": 0.63,
+   "note_time": 44.0
+  },
+  {
+   "text": "you",
+   "time": 45.04,
+   "weight": 0.98,
+   "note_time": 44.8
+  },
+  {
+   "text": "who",
+   "time": 45.9,
+   "weight": 0.91,
+   "note_time": 45.6
+  },
+  {
+   "text": "pass",
+   "time": 46.7,
+   "weight": 0.83,
    "note_time": 46.4
   },
   {
-   "text": "am",
-   "time": 39.0,
-   "weight": 0.0,
-   "note_time": 47.2
+   "text": "by",
+   "time": 47.7,
+   "weight": 0.96,
+   "note_time": 46.8
   },
   {
-   "text": "at",
-   "time": 39.72,
-   "weight": 0.0,
-   "note_time": 52.0
+   "text": "Look",
+   "time": 48.8,
+   "weight": 0.91,
+   "note_time": 48.8
   },
   {
-   "text": "ten",
-   "time": 40.44,
-   "weight": 0.0,
-   "note_time": 52.4
+   "text": "and",
+   "time": 50.08,
+   "weight": 0.99,
+   "note_time": 49.2
   },
   {
-   "text": "di",
-   "time": 41.16,
-   "weight": 0.0,
-   "note_time": 52.8
+   "text": "see",
+   "time": 50.36,
+   "weight": 1.0,
+   "note_time": 49.6
   },
   {
-   "text": "te",
-   "time": 41.88,
-   "weight": 0.0,
-   "note_time": 53.6
-  },
-  {
-   "text": "et",
-   "time": 42.6,
-   "weight": 0.0,
-   "note_time": 54.4
-  },
-  {
-   "text": "vi",
-   "time": 43.32,
-   "weight": 0.0,
+   "text": "Is",
+   "time": 54.84,
+   "weight": 0.54,
    "note_time": 55.6
   },
   {
-   "text": "de",
-   "time": 44.04,
-   "weight": 0.0,
-   "note_time": 56.0
-  },
-  {
-   "text": "te",
-   "time": 44.76,
-   "weight": 0.0,
+   "text": "there",
+   "time": 56.24,
+   "weight": 0.99,
    "note_time": 56.4
   },
   {
-   "text": "Si",
-   "time": 45.48,
-   "weight": 0.0,
-   "note_time": 58.4
+   "text": "a",
+   "time": 56.8,
+   "weight": 0.99,
+   "note_time": 56.8
   },
   {
-   "text": "est",
-   "time": 46.2,
-   "weight": 0.0,
+   "text": "ny",
+   "time": 57.09,
+   "weight": 0.99,
+   "note_time": 57.2
+  },
+  {
+   "text": "suf",
+   "time": 57.38,
+   "weight": 0.98,
+   "note_time": 57.4
+  },
+  {
+   "text": "fering",
+   "time": 57.73,
+   "weight": 0.98,
+   "note_time": 57.6
+  },
+  {
+   "text": "like",
+   "time": 58.24,
+   "weight": 0.87,
+   "note_time": 58.0
+  },
+  {
+   "text": "my",
+   "time": 59.6,
+   "weight": 0.99,
    "note_time": 58.8
   },
   {
-   "text": "do",
-   "time": 46.92,
-   "weight": 0.95,
+   "text": "suf",
+   "time": 60.02,
+   "weight": 0.99,
    "note_time": 59.2
   },
   {
-   "text": "lor",
-   "time": 47.24,
-   "weight": 0.95,
-   "note_time": 60.0
-  },
-  {
-   "text": "si",
-   "time": 48.0,
-   "weight": 0.75,
-   "note_time": 60.8
-  },
-  {
-   "text": "cut",
-   "time": 48.35,
-   "weight": 0.75,
-   "note_time": 61.2
-  },
-  {
-   "text": "do",
-   "time": 49.28,
-   "weight": 0.68,
-   "note_time": 61.6
-  },
-  {
-   "text": "lor",
-   "time": 49.63,
-   "weight": 0.68,
-   "note_time": 62.0
-  },
-  {
-   "text": "me",
-   "time": 50.02,
-   "weight": 0.95,
-   "note_time": 62.4
-  },
-  {
-   "text": "us",
-   "time": 50.37,
-   "weight": 0.95,
-   "note_time": 62.8
+   "text": "fering",
+   "time": 60.33,
+   "weight": 0.99,
+   "note_time": 59.6
   }
  ],
  "chord_sheet_pages": 1,
  "lilypond_warnings": [],
- "quality": "2 of 7 lyric lines sit clearly on their notes; 5 are uncertain and printed in grey italics."
+ "quality": "6 of 7 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
 }

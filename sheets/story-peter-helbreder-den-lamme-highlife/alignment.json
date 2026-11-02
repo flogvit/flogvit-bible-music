@@ -1,0 +1,994 @@
+{
+ "id": "story-peter-helbreder-den-lamme-highlife",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-peter-helbreder-den-lamme-highlife",
+ "offset_seconds": -1.4600000000002247,
+ "words_heard": 113,
+ "words": 113,
+ "lines": [
+  {
+   "text": "At the Beautiful Gate of the temple",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sat a man who was lame from birth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He asked Peter and John for money",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Look at us, said Peter, look at us",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Walking and leaping and praising God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Walking and leaping and praising God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the name of Jesus, rise up and walk",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Walking and leaping and praising God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Silver and gold I do not have",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But what I have I give to you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Peter took him by the right hand",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His feet and ankles were made strong",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Walking and leaping and praising God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Walking and leaping and praising God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the name of Jesus, rise up and walk",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Walking and leaping and praising God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "At",
+   "time": 15.64,
+   "weight": 0.87,
+   "note_time": 15.56
+  },
+  {
+   "text": "the",
+   "time": 16.4,
+   "weight": 1.0,
+   "note_time": 15.78
+  },
+  {
+   "text": "Beau",
+   "time": 16.68,
+   "weight": 0.99,
+   "note_time": 16.0
+  },
+  {
+   "text": "ti",
+   "time": 16.85,
+   "weight": 0.99,
+   "note_time": 16.33
+  },
+  {
+   "text": "ful",
+   "time": 17.03,
+   "weight": 0.99,
+   "note_time": 16.67
+  },
+  {
+   "text": "Gate",
+   "time": 17.2,
+   "weight": 0.99,
+   "note_time": 16.89
+  },
+  {
+   "text": "of",
+   "time": 17.92,
+   "weight": 1.0,
+   "note_time": 17.22
+  },
+  {
+   "text": "the",
+   "time": 18.22,
+   "weight": 1.0,
+   "note_time": 17.56
+  },
+  {
+   "text": "tem",
+   "time": 18.46,
+   "weight": 0.97,
+   "note_time": 17.78
+  },
+  {
+   "text": "ple",
+   "time": 18.81,
+   "weight": 0.97,
+   "note_time": 18.22
+  },
+  {
+   "text": "Sat",
+   "time": 19.16,
+   "weight": 0.34,
+   "note_time": 19.11
+  },
+  {
+   "text": "a",
+   "time": 20.0,
+   "weight": 1.0,
+   "note_time": 19.33
+  },
+  {
+   "text": "man",
+   "time": 20.3,
+   "weight": 0.99,
+   "note_time": 19.56
+  },
+  {
+   "text": "who",
+   "time": 20.58,
+   "weight": 0.99,
+   "note_time": 19.89
+  },
+  {
+   "text": "was",
+   "time": 20.88,
+   "weight": 1.0,
+   "note_time": 20.22
+  },
+  {
+   "text": "lame",
+   "time": 21.18,
+   "weight": 0.61,
+   "note_time": 20.44
+  },
+  {
+   "text": "from",
+   "time": 21.46,
+   "weight": 1.0,
+   "note_time": 20.89
+  },
+  {
+   "text": "birth",
+   "time": 21.86,
+   "weight": 1.0,
+   "note_time": 21.33
+  },
+  {
+   "text": "He",
+   "time": 22.44,
+   "weight": 0.96,
+   "note_time": 22.67
+  },
+  {
+   "text": "asked",
+   "time": 23.62,
+   "weight": 1.0,
+   "note_time": 22.89
+  },
+  {
+   "text": "Pe",
+   "time": 23.92,
+   "weight": 1.0,
+   "note_time": 23.11
+  },
+  {
+   "text": "ter",
+   "time": 24.11,
+   "weight": 1.0,
+   "note_time": 23.44
+  },
+  {
+   "text": "and",
+   "time": 24.3,
+   "weight": 0.98,
+   "note_time": 23.78
+  },
+  {
+   "text": "John",
+   "time": 24.76,
+   "weight": 0.99,
+   "note_time": 24.0
+  },
+  {
+   "text": "for",
+   "time": 25.04,
+   "weight": 1.0,
+   "note_time": 24.67
+  },
+  {
+   "text": "mon",
+   "time": 25.58,
+   "weight": 1.0,
+   "note_time": 24.89
+  },
+  {
+   "text": "ey",
+   "time": 25.91,
+   "weight": 1.0,
+   "note_time": 25.33
+  },
+  {
+   "text": "Look",
+   "time": 26.24,
+   "weight": 0.44,
+   "note_time": 26.0
+  },
+  {
+   "text": "at",
+   "time": 27.02,
+   "weight": 1.0,
+   "note_time": 26.33
+  },
+  {
+   "text": "us,",
+   "time": 27.34,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "said",
+   "time": 27.82,
+   "weight": 0.99,
+   "note_time": 27.11
+  },
+  {
+   "text": "Pe",
+   "time": 28.16,
+   "weight": 0.99,
+   "note_time": 27.56
+  },
+  {
+   "text": "ter,",
+   "time": 28.37,
+   "weight": 0.99,
+   "note_time": 27.78
+  },
+  {
+   "text": "look",
+   "time": 28.76,
+   "weight": 1.0,
+   "note_time": 28.0
+  },
+  {
+   "text": "at",
+   "time": 29.0,
+   "weight": 1.0,
+   "note_time": 28.22
+  },
+  {
+   "text": "us",
+   "time": 29.22,
+   "weight": 1.0,
+   "note_time": 28.44
+  },
+  {
+   "text": "Walk",
+   "time": 29.86,
+   "weight": 0.15,
+   "note_time": 30.22
+  },
+  {
+   "text": "ing",
+   "time": 30.21,
+   "weight": 0.15,
+   "note_time": 30.56
+  },
+  {
+   "text": "and",
+   "time": 31.4,
+   "weight": 0.98,
+   "note_time": 30.89
+  },
+  {
+   "text": "leap",
+   "time": 31.9,
+   "weight": 0.99,
+   "note_time": 31.11
+  },
+  {
+   "text": "ing",
+   "time": 32.22,
+   "weight": 0.99,
+   "note_time": 31.44
+  },
+  {
+   "text": "and",
+   "time": 32.54,
+   "weight": 0.98,
+   "note_time": 31.78
+  },
+  {
+   "text": "prais",
+   "time": 32.78,
+   "weight": 0.99,
+   "note_time": 32.0
+  },
+  {
+   "text": "ing",
+   "time": 33.04,
+   "weight": 0.99,
+   "note_time": 32.44
+  },
+  {
+   "text": "God",
+   "time": 33.3,
+   "weight": 1.0,
+   "note_time": 32.89
+  },
+  {
+   "text": "Walk",
+   "time": 33.9,
+   "weight": 0.4,
+   "note_time": 33.78
+  },
+  {
+   "text": "ing",
+   "time": 34.25,
+   "weight": 0.4,
+   "note_time": 34.11
+  },
+  {
+   "text": "and",
+   "time": 34.68,
+   "weight": 1.0,
+   "note_time": 34.44
+  },
+  {
+   "text": "leap",
+   "time": 35.36,
+   "weight": 1.0,
+   "note_time": 34.67
+  },
+  {
+   "text": "ing",
+   "time": 35.71,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "and",
+   "time": 36.1,
+   "weight": 1.0,
+   "note_time": 35.33
+  },
+  {
+   "text": "prais",
+   "time": 36.32,
+   "weight": 1.0,
+   "note_time": 35.56
+  },
+  {
+   "text": "ing",
+   "time": 36.54,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "God",
+   "time": 36.76,
+   "weight": 1.0,
+   "note_time": 36.44
+  },
+  {
+   "text": "In",
+   "time": 37.44,
+   "weight": 0.99,
+   "note_time": 37.44
+  },
+  {
+   "text": "the",
+   "time": 38.06,
+   "weight": 1.0,
+   "note_time": 37.67
+  },
+  {
+   "text": "name",
+   "time": 38.62,
+   "weight": 0.98,
+   "note_time": 37.78
+  },
+  {
+   "text": "of",
+   "time": 38.82,
+   "weight": 1.0,
+   "note_time": 38.0
+  },
+  {
+   "text": "Je",
+   "time": 39.0,
+   "weight": 1.0,
+   "note_time": 38.22
+  },
+  {
+   "text": "sus,",
+   "time": 39.27,
+   "weight": 1.0,
+   "note_time": 38.67
+  },
+  {
+   "text": "rise",
+   "time": 39.86,
+   "weight": 0.65,
+   "note_time": 39.22
+  },
+  {
+   "text": "up",
+   "time": 40.28,
+   "weight": 1.0,
+   "note_time": 39.56
+  },
+  {
+   "text": "and",
+   "time": 40.6,
+   "weight": 1.0,
+   "note_time": 39.78
+  },
+  {
+   "text": "walk",
+   "time": 40.74,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "Walk",
+   "time": 41.12,
+   "weight": 0.98,
+   "note_time": 40.89
+  },
+  {
+   "text": "ing",
+   "time": 41.47,
+   "weight": 0.98,
+   "note_time": 41.22
+  },
+  {
+   "text": "and",
+   "time": 42.12,
+   "weight": 1.0,
+   "note_time": 41.56
+  },
+  {
+   "text": "leap",
+   "time": 42.56,
+   "weight": 1.0,
+   "note_time": 41.78
+  },
+  {
+   "text": "ing",
+   "time": 42.85,
+   "weight": 1.0,
+   "note_time": 42.11
+  },
+  {
+   "text": "and",
+   "time": 43.14,
+   "weight": 1.0,
+   "note_time": 42.44
+  },
+  {
+   "text": "prais",
+   "time": 43.4,
+   "weight": 1.0,
+   "note_time": 42.67
+  },
+  {
+   "text": "ing",
+   "time": 43.61,
+   "weight": 1.0,
+   "note_time": 43.11
+  },
+  {
+   "text": "God",
+   "time": 43.82,
+   "weight": 1.0,
+   "note_time": 43.56
+  },
+  {
+   "text": "Sil",
+   "time": 51.5,
+   "weight": 0.87,
+   "note_time": 51.56
+  },
+  {
+   "text": "ver",
+   "time": 51.85,
+   "weight": 0.87,
+   "note_time": 51.89
+  },
+  {
+   "text": "and",
+   "time": 52.34,
+   "weight": 1.0,
+   "note_time": 52.22
+  },
+  {
+   "text": "gold",
+   "time": 53.18,
+   "weight": 1.0,
+   "note_time": 52.44
+  },
+  {
+   "text": "I",
+   "time": 53.44,
+   "weight": 0.99,
+   "note_time": 52.78
+  },
+  {
+   "text": "do",
+   "time": 53.8,
+   "weight": 1.0,
+   "note_time": 53.11
+  },
+  {
+   "text": "not",
+   "time": 54.02,
+   "weight": 1.0,
+   "note_time": 53.33
+  },
+  {
+   "text": "have",
+   "time": 54.42,
+   "weight": 1.0,
+   "note_time": 53.78
+  },
+  {
+   "text": "But",
+   "time": 54.88,
+   "weight": 0.88,
+   "note_time": 54.89
+  },
+  {
+   "text": "what",
+   "time": 55.84,
+   "weight": 1.0,
+   "note_time": 55.11
+  },
+  {
+   "text": "I",
+   "time": 56.04,
+   "weight": 1.0,
+   "note_time": 55.44
+  },
+  {
+   "text": "have",
+   "time": 56.4,
+   "weight": 1.0,
+   "note_time": 55.78
+  },
+  {
+   "text": "I",
+   "time": 56.8,
+   "weight": 0.97,
+   "note_time": 56.0
+  },
+  {
+   "text": "give",
+   "time": 57.0,
+   "weight": 1.0,
+   "note_time": 56.33
+  },
+  {
+   "text": "to",
+   "time": 57.28,
+   "weight": 1.0,
+   "note_time": 56.67
+  },
+  {
+   "text": "you",
+   "time": 57.58,
+   "weight": 0.9,
+   "note_time": 56.89
+  },
+  {
+   "text": "Pe",
+   "time": 57.96,
+   "weight": 0.2,
+   "note_time": 58.67
+  },
+  {
+   "text": "ter",
+   "time": 58.31,
+   "weight": 0.2,
+   "note_time": 59.0
+  },
+  {
+   "text": "took",
+   "time": 59.56,
+   "weight": 0.99,
+   "note_time": 59.33
+  },
+  {
+   "text": "him",
+   "time": 60.24,
+   "weight": 0.71,
+   "note_time": 59.56
+  },
+  {
+   "text": "by",
+   "time": 60.62,
+   "weight": 1.0,
+   "note_time": 59.89
+  },
+  {
+   "text": "the",
+   "time": 60.9,
+   "weight": 1.0,
+   "note_time": 60.22
+  },
+  {
+   "text": "right",
+   "time": 61.12,
+   "weight": 0.99,
+   "note_time": 60.44
+  },
+  {
+   "text": "hand",
+   "time": 61.5,
+   "weight": 1.0,
+   "note_time": 60.89
+  },
+  {
+   "text": "His",
+   "time": 61.92,
+   "weight": 0.67,
+   "note_time": 62.0
+  },
+  {
+   "text": "feet",
+   "time": 63.0,
+   "weight": 1.0,
+   "note_time": 62.56
+  },
+  {
+   "text": "and",
+   "time": 63.24,
+   "weight": 0.99,
+   "note_time": 62.89
+  },
+  {
+   "text": "an",
+   "time": 63.58,
+   "weight": 0.99,
+   "note_time": 63.11
+  },
+  {
+   "text": "kles",
+   "time": 63.81,
+   "weight": 0.99,
+   "note_time": 63.44
+  },
+  {
+   "text": "were",
+   "time": 64.04,
+   "weight": 1.0,
+   "note_time": 63.78
+  },
+  {
+   "text": "made",
+   "time": 64.4,
+   "weight": 1.0,
+   "note_time": 64.0
+  },
+  {
+   "text": "strong",
+   "time": 64.68,
+   "weight": 1.0,
+   "note_time": 64.89
+  },
+  {
+   "text": "Walk",
+   "time": 66.18,
+   "weight": 0.92,
+   "note_time": 65.78
+  },
+  {
+   "text": "ing",
+   "time": 66.53,
+   "weight": 0.92,
+   "note_time": 66.11
+  },
+  {
+   "text": "and",
+   "time": 67.02,
+   "weight": 0.96,
+   "note_time": 66.44
+  },
+  {
+   "text": "leap",
+   "time": 67.44,
+   "weight": 0.99,
+   "note_time": 66.67
+  },
+  {
+   "text": "ing",
+   "time": 67.74,
+   "weight": 0.99,
+   "note_time": 67.0
+  },
+  {
+   "text": "and",
+   "time": 68.04,
+   "weight": 0.96,
+   "note_time": 67.33
+  },
+  {
+   "text": "prais",
+   "time": 68.28,
+   "weight": 0.99,
+   "note_time": 67.56
+  },
+  {
+   "text": "ing",
+   "time": 68.53,
+   "weight": 0.99,
+   "note_time": 68.0
+  },
+  {
+   "text": "God",
+   "time": 68.78,
+   "weight": 0.99,
+   "note_time": 68.44
+  },
+  {
+   "text": "Walk",
+   "time": 69.48,
+   "weight": 0.7,
+   "note_time": 69.33
+  },
+  {
+   "text": "ing",
+   "time": 69.83,
+   "weight": 0.7,
+   "note_time": 69.67
+  },
+  {
+   "text": "and",
+   "time": 70.38,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "leap",
+   "time": 70.92,
+   "weight": 1.0,
+   "note_time": 70.22
+  },
+  {
+   "text": "ing",
+   "time": 71.27,
+   "weight": 1.0,
+   "note_time": 70.56
+  },
+  {
+   "text": "and",
+   "time": 71.64,
+   "weight": 1.0,
+   "note_time": 70.89
+  },
+  {
+   "text": "prais",
+   "time": 71.8,
+   "weight": 1.0,
+   "note_time": 71.11
+  },
+  {
+   "text": "ing",
+   "time": 72.07,
+   "weight": 1.0,
+   "note_time": 71.56
+  },
+  {
+   "text": "God",
+   "time": 72.34,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "In",
+   "time": 72.98,
+   "weight": 0.98,
+   "note_time": 73.0
+  },
+  {
+   "text": "the",
+   "time": 73.94,
+   "weight": 1.0,
+   "note_time": 73.22
+  },
+  {
+   "text": "name",
+   "time": 74.12,
+   "weight": 0.9,
+   "note_time": 73.33
+  },
+  {
+   "text": "of",
+   "time": 74.38,
+   "weight": 1.0,
+   "note_time": 73.56
+  },
+  {
+   "text": "Je",
+   "time": 74.58,
+   "weight": 1.0,
+   "note_time": 73.78
+  },
+  {
+   "text": "sus,",
+   "time": 74.83,
+   "weight": 1.0,
+   "note_time": 74.22
+  },
+  {
+   "text": "rise",
+   "time": 75.38,
+   "weight": 0.98,
+   "note_time": 74.78
+  },
+  {
+   "text": "up",
+   "time": 75.86,
+   "weight": 1.0,
+   "note_time": 75.11
+  },
+  {
+   "text": "and",
+   "time": 76.16,
+   "weight": 1.0,
+   "note_time": 75.33
+  },
+  {
+   "text": "walk",
+   "time": 76.28,
+   "weight": 1.0,
+   "note_time": 75.56
+  },
+  {
+   "text": "Walk",
+   "time": 76.66,
+   "weight": 0.97,
+   "note_time": 76.44
+  },
+  {
+   "text": "ing",
+   "time": 77.01,
+   "weight": 0.97,
+   "note_time": 76.78
+  },
+  {
+   "text": "and",
+   "time": 77.68,
+   "weight": 0.99,
+   "note_time": 77.11
+  },
+  {
+   "text": "leap",
+   "time": 78.04,
+   "weight": 1.0,
+   "note_time": 77.33
+  },
+  {
+   "text": "ing",
+   "time": 78.38,
+   "weight": 1.0,
+   "note_time": 77.67
+  },
+  {
+   "text": "and",
+   "time": 78.72,
+   "weight": 1.0,
+   "note_time": 78.0
+  },
+  {
+   "text": "prais",
+   "time": 78.94,
+   "weight": 1.0,
+   "note_time": 78.22
+  },
+  {
+   "text": "ing",
+   "time": 79.19,
+   "weight": 1.0,
+   "note_time": 78.67
+  },
+  {
+   "text": "God",
+   "time": 79.44,
+   "weight": 1.0,
+   "note_time": 79.11
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

@@ -1,0 +1,886 @@
+{
+ "id": "verse-40-21-15-childrens-choir",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-21-15-childrens-choir",
+ "offset_seconds": -1.5200000000002234,
+ "words_heard": 85,
+ "words": 85,
+ "lines": [
+  {
+   "text": "The blind and the lame came to him in the temple",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And he healed them there",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The chief priests saw the wonderful things",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the children crying out",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna, hosanna",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna to the Son of David",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna, hosanna",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna to the Son of David",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Do you hear what these are saying",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yes, have you never read",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Out of the mouth of infants and nursing babies",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You have prepared praise",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna, hosanna",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna to the Son of David",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna, hosanna",
+   "heard": 2,
+   "words": 2,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hosanna to the Son of David",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 4.76,
+   "weight": 0.96,
+   "note_time": 4.75
+  },
+  {
+   "text": "blind",
+   "time": 5.6,
+   "weight": 0.98,
+   "note_time": 5.0
+  },
+  {
+   "text": "and",
+   "time": 6.06,
+   "weight": 0.97,
+   "note_time": 5.5
+  },
+  {
+   "text": "the",
+   "time": 6.46,
+   "weight": 0.92,
+   "note_time": 5.75
+  },
+  {
+   "text": "lame",
+   "time": 6.66,
+   "weight": 1.0,
+   "note_time": 6.0
+  },
+  {
+   "text": "came",
+   "time": 7.06,
+   "weight": 0.92,
+   "note_time": 6.5
+  },
+  {
+   "text": "to",
+   "time": 7.44,
+   "weight": 1.0,
+   "note_time": 6.75
+  },
+  {
+   "text": "him",
+   "time": 7.64,
+   "weight": 0.51,
+   "note_time": 7.0
+  },
+  {
+   "text": "in",
+   "time": 8.04,
+   "weight": 0.99,
+   "note_time": 7.5
+  },
+  {
+   "text": "the",
+   "time": 8.48,
+   "weight": 1.0,
+   "note_time": 7.75
+  },
+  {
+   "text": "tem",
+   "time": 8.64,
+   "weight": 0.95,
+   "note_time": 8.0
+  },
+  {
+   "text": "ple",
+   "time": 8.99,
+   "weight": 0.95,
+   "note_time": 8.5
+  },
+  {
+   "text": "And",
+   "time": 9.38,
+   "weight": 0.51,
+   "note_time": 9.5
+  },
+  {
+   "text": "he",
+   "time": 10.44,
+   "weight": 0.95,
+   "note_time": 9.75
+  },
+  {
+   "text": "healed",
+   "time": 10.66,
+   "weight": 1.0,
+   "note_time": 10.0
+  },
+  {
+   "text": "them",
+   "time": 11.16,
+   "weight": 1.0,
+   "note_time": 10.5
+  },
+  {
+   "text": "there",
+   "time": 11.46,
+   "weight": 1.0,
+   "note_time": 11.0
+  },
+  {
+   "text": "The",
+   "time": 12.18,
+   "weight": 0.88,
+   "note_time": 12.75
+  },
+  {
+   "text": "chief",
+   "time": 13.64,
+   "weight": 0.98,
+   "note_time": 13.0
+  },
+  {
+   "text": "priests",
+   "time": 13.98,
+   "weight": 0.97,
+   "note_time": 13.5
+  },
+  {
+   "text": "saw",
+   "time": 14.5,
+   "weight": 1.0,
+   "note_time": 14.0
+  },
+  {
+   "text": "the",
+   "time": 14.98,
+   "weight": 0.97,
+   "note_time": 14.75
+  },
+  {
+   "text": "won",
+   "time": 15.7,
+   "weight": 1.0,
+   "note_time": 15.0
+  },
+  {
+   "text": "der",
+   "time": 15.93,
+   "weight": 1.0,
+   "note_time": 15.5
+  },
+  {
+   "text": "ful",
+   "time": 16.17,
+   "weight": 1.0,
+   "note_time": 15.75
+  },
+  {
+   "text": "things",
+   "time": 16.4,
+   "weight": 1.0,
+   "note_time": 16.0
+  },
+  {
+   "text": "And",
+   "time": 17.0,
+   "weight": 0.9,
+   "note_time": 16.75
+  },
+  {
+   "text": "the",
+   "time": 17.6,
+   "weight": 1.0,
+   "note_time": 16.88
+  },
+  {
+   "text": "chil",
+   "time": 17.74,
+   "weight": 1.0,
+   "note_time": 17.0
+  },
+  {
+   "text": "dren",
+   "time": 18.01,
+   "weight": 1.0,
+   "note_time": 17.5
+  },
+  {
+   "text": "cry",
+   "time": 18.28,
+   "weight": 0.98,
+   "note_time": 18.0
+  },
+  {
+   "text": "ing",
+   "time": 18.58,
+   "weight": 0.98,
+   "note_time": 18.75
+  },
+  {
+   "text": "out",
+   "time": 18.88,
+   "weight": 1.0,
+   "note_time": 19.0
+  },
+  {
+   "text": "Ho",
+   "time": 20.34,
+   "weight": 0.36,
+   "note_time": 20.75
+  },
+  {
+   "text": "san",
+   "time": 20.69,
+   "weight": 0.36,
+   "note_time": 21.0
+  },
+  {
+   "text": "na,",
+   "time": 21.04,
+   "weight": 0.36,
+   "note_time": 21.38
+  },
+  {
+   "text": "ho",
+   "time": 22.36,
+   "weight": 0.68,
+   "note_time": 21.75
+  },
+  {
+   "text": "san",
+   "time": 22.63,
+   "weight": 0.68,
+   "note_time": 22.0
+  },
+  {
+   "text": "na",
+   "time": 22.89,
+   "weight": 0.68,
+   "note_time": 22.38
+  },
+  {
+   "text": "Ho",
+   "time": 23.16,
+   "weight": 0.53,
+   "note_time": 22.75
+  },
+  {
+   "text": "san",
+   "time": 23.47,
+   "weight": 0.53,
+   "note_time": 23.0
+  },
+  {
+   "text": "na",
+   "time": 23.77,
+   "weight": 0.53,
+   "note_time": 23.25
+  },
+  {
+   "text": "to",
+   "time": 24.08,
+   "weight": 0.98,
+   "note_time": 23.5
+  },
+  {
+   "text": "the",
+   "time": 24.38,
+   "weight": 1.0,
+   "note_time": 23.75
+  },
+  {
+   "text": "Son",
+   "time": 24.62,
+   "weight": 0.57,
+   "note_time": 24.0
+  },
+  {
+   "text": "of",
+   "time": 24.96,
+   "weight": 1.0,
+   "note_time": 24.25
+  },
+  {
+   "text": "Da",
+   "time": 25.18,
+   "weight": 1.0,
+   "note_time": 24.38
+  },
+  {
+   "text": "vid",
+   "time": 25.32,
+   "weight": 1.0,
+   "note_time": 24.62
+  },
+  {
+   "text": "Ho",
+   "time": 25.46,
+   "weight": 0.94,
+   "note_time": 24.75
+  },
+  {
+   "text": "san",
+   "time": 25.73,
+   "weight": 0.94,
+   "note_time": 25.0
+  },
+  {
+   "text": "na,",
+   "time": 25.99,
+   "weight": 0.94,
+   "note_time": 25.38
+  },
+  {
+   "text": "ho",
+   "time": 26.32,
+   "weight": 1.0,
+   "note_time": 25.75
+  },
+  {
+   "text": "san",
+   "time": 26.62,
+   "weight": 1.0,
+   "note_time": 26.0
+  },
+  {
+   "text": "na",
+   "time": 26.92,
+   "weight": 1.0,
+   "note_time": 26.38
+  },
+  {
+   "text": "Ho",
+   "time": 27.22,
+   "weight": 0.99,
+   "note_time": 26.75
+  },
+  {
+   "text": "san",
+   "time": 27.49,
+   "weight": 0.99,
+   "note_time": 27.0
+  },
+  {
+   "text": "na",
+   "time": 27.75,
+   "weight": 0.99,
+   "note_time": 27.25
+  },
+  {
+   "text": "to",
+   "time": 28.02,
+   "weight": 1.0,
+   "note_time": 27.5
+  },
+  {
+   "text": "the",
+   "time": 28.36,
+   "weight": 1.0,
+   "note_time": 27.75
+  },
+  {
+   "text": "Son",
+   "time": 28.56,
+   "weight": 0.99,
+   "note_time": 28.0
+  },
+  {
+   "text": "of",
+   "time": 28.96,
+   "weight": 1.0,
+   "note_time": 28.25
+  },
+  {
+   "text": "Da",
+   "time": 29.14,
+   "weight": 1.0,
+   "note_time": 28.38
+  },
+  {
+   "text": "vid",
+   "time": 29.32,
+   "weight": 1.0,
+   "note_time": 28.62
+  },
+  {
+   "text": "Do",
+   "time": 30.76,
+   "weight": 0.89,
+   "note_time": 30.75
+  },
+  {
+   "text": "you",
+   "time": 31.6,
+   "weight": 1.0,
+   "note_time": 30.88
+  },
+  {
+   "text": "hear",
+   "time": 31.76,
+   "weight": 1.0,
+   "note_time": 31.0
+  },
+  {
+   "text": "what",
+   "time": 32.08,
+   "weight": 0.99,
+   "note_time": 31.5
+  },
+  {
+   "text": "these",
+   "time": 32.44,
+   "weight": 0.99,
+   "note_time": 32.0
+  },
+  {
+   "text": "are",
+   "time": 32.96,
+   "weight": 1.0,
+   "note_time": 32.5
+  },
+  {
+   "text": "say",
+   "time": 33.46,
+   "weight": 1.0,
+   "note_time": 33.0
+  },
+  {
+   "text": "ing",
+   "time": 33.81,
+   "weight": 1.0,
+   "note_time": 33.5
+  },
+  {
+   "text": "Yes,",
+   "time": 35.1,
+   "weight": 0.48,
+   "note_time": 35.25
+  },
+  {
+   "text": "have",
+   "time": 36.2,
+   "weight": 0.99,
+   "note_time": 35.5
+  },
+  {
+   "text": "you",
+   "time": 36.44,
+   "weight": 1.0,
+   "note_time": 35.75
+  },
+  {
+   "text": "ne",
+   "time": 36.74,
+   "weight": 0.98,
+   "note_time": 36.0
+  },
+  {
+   "text": "ver",
+   "time": 37.08,
+   "weight": 0.98,
+   "note_time": 36.5
+  },
+  {
+   "text": "read",
+   "time": 37.42,
+   "weight": 0.99,
+   "note_time": 37.0
+  },
+  {
+   "text": "Out",
+   "time": 38.78,
+   "weight": 0.21,
+   "note_time": 38.25
+  },
+  {
+   "text": "of",
+   "time": 39.2,
+   "weight": 1.0,
+   "note_time": 38.5
+  },
+  {
+   "text": "the",
+   "time": 39.48,
+   "weight": 1.0,
+   "note_time": 38.75
+  },
+  {
+   "text": "mouth",
+   "time": 39.66,
+   "weight": 0.95,
+   "note_time": 39.0
+  },
+  {
+   "text": "of",
+   "time": 40.08,
+   "weight": 0.99,
+   "note_time": 39.5
+  },
+  {
+   "text": "in",
+   "time": 40.48,
+   "weight": 0.99,
+   "note_time": 40.0
+  },
+  {
+   "text": "fants",
+   "time": 40.83,
+   "weight": 0.99,
+   "note_time": 40.38
+  },
+  {
+   "text": "and",
+   "time": 41.26,
+   "weight": 0.95,
+   "note_time": 40.75
+  },
+  {
+   "text": "nurs",
+   "time": 41.72,
+   "weight": 1.0,
+   "note_time": 41.0
+  },
+  {
+   "text": "ing",
+   "time": 41.96,
+   "weight": 1.0,
+   "note_time": 41.5
+  },
+  {
+   "text": "ba",
+   "time": 42.2,
+   "weight": 0.99,
+   "note_time": 42.0
+  },
+  {
+   "text": "bies",
+   "time": 42.55,
+   "weight": 0.99,
+   "note_time": 42.38
+  },
+  {
+   "text": "You",
+   "time": 43.04,
+   "weight": 0.94,
+   "note_time": 43.0
+  },
+  {
+   "text": "have",
+   "time": 43.92,
+   "weight": 1.0,
+   "note_time": 43.5
+  },
+  {
+   "text": "pre",
+   "time": 44.46,
+   "weight": 1.0,
+   "note_time": 44.0
+  },
+  {
+   "text": "pared",
+   "time": 44.78,
+   "weight": 1.0,
+   "note_time": 44.5
+  },
+  {
+   "text": "praise",
+   "time": 45.1,
+   "weight": 0.98,
+   "note_time": 45.0
+  },
+  {
+   "text": "Ho",
+   "time": 47.58,
+   "weight": 0.88,
+   "note_time": 46.75
+  },
+  {
+   "text": "san",
+   "time": 47.86,
+   "weight": 0.88,
+   "note_time": 47.0
+  },
+  {
+   "text": "na,",
+   "time": 48.14,
+   "weight": 0.88,
+   "note_time": 47.38
+  },
+  {
+   "text": "ho",
+   "time": 48.42,
+   "weight": 0.96,
+   "note_time": 47.75
+  },
+  {
+   "text": "san",
+   "time": 48.7,
+   "weight": 0.96,
+   "note_time": 48.0
+  },
+  {
+   "text": "na",
+   "time": 48.98,
+   "weight": 0.96,
+   "note_time": 48.38
+  },
+  {
+   "text": "Ho",
+   "time": 49.28,
+   "weight": 1.0,
+   "note_time": 48.75
+  },
+  {
+   "text": "san",
+   "time": 49.53,
+   "weight": 1.0,
+   "note_time": 49.0
+  },
+  {
+   "text": "na",
+   "time": 49.79,
+   "weight": 1.0,
+   "note_time": 49.25
+  },
+  {
+   "text": "to",
+   "time": 50.04,
+   "weight": 0.99,
+   "note_time": 49.5
+  },
+  {
+   "text": "the",
+   "time": 50.38,
+   "weight": 1.0,
+   "note_time": 49.75
+  },
+  {
+   "text": "Son",
+   "time": 50.64,
+   "weight": 0.91,
+   "note_time": 50.0
+  },
+  {
+   "text": "of",
+   "time": 50.96,
+   "weight": 1.0,
+   "note_time": 50.25
+  },
+  {
+   "text": "Da",
+   "time": 51.14,
+   "weight": 1.0,
+   "note_time": 50.38
+  },
+  {
+   "text": "vid",
+   "time": 51.29,
+   "weight": 1.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "Ho",
+   "time": 51.44,
+   "weight": 0.97,
+   "note_time": 50.75
+  },
+  {
+   "text": "san",
+   "time": 51.71,
+   "weight": 0.97,
+   "note_time": 51.0
+  },
+  {
+   "text": "na,",
+   "time": 51.97,
+   "weight": 0.97,
+   "note_time": 51.38
+  },
+  {
+   "text": "ho",
+   "time": 52.3,
+   "weight": 1.0,
+   "note_time": 51.75
+  },
+  {
+   "text": "san",
+   "time": 52.61,
+   "weight": 1.0,
+   "note_time": 52.0
+  },
+  {
+   "text": "na",
+   "time": 52.93,
+   "weight": 1.0,
+   "note_time": 52.38
+  },
+  {
+   "text": "Ho",
+   "time": 53.38,
+   "weight": 1.0,
+   "note_time": 52.75
+  },
+  {
+   "text": "san",
+   "time": 53.58,
+   "weight": 1.0,
+   "note_time": 53.0
+  },
+  {
+   "text": "na",
+   "time": 53.78,
+   "weight": 1.0,
+   "note_time": 53.25
+  },
+  {
+   "text": "to",
+   "time": 53.98,
+   "weight": 1.0,
+   "note_time": 53.5
+  },
+  {
+   "text": "the",
+   "time": 54.38,
+   "weight": 1.0,
+   "note_time": 53.75
+  },
+  {
+   "text": "Son",
+   "time": 54.56,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "of",
+   "time": 54.96,
+   "weight": 1.0,
+   "note_time": 54.25
+  },
+  {
+   "text": "Da",
+   "time": 55.14,
+   "weight": 1.0,
+   "note_time": 54.38
+  },
+  {
+   "text": "vid",
+   "time": 55.31,
+   "weight": 1.0,
+   "note_time": 54.62
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

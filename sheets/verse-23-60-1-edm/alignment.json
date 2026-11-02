@@ -1,0 +1,1188 @@
+{
+ "id": "verse-23-60-1-edm",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-23-60-1-edm",
+ "offset_seconds": -1.4600000000002247,
+ "words_heard": 132,
+ "words": 136,
+ "lines": [
+  {
+   "text": "For behold, darkness shall cover the earth",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And thick darkness the peoples",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the Lord will arise upon you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And his glory will be seen upon you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nations shall come to your light",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And kings to the brightness of your rising",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, shine, for your light has come",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the glory of the Lord has risen upon you",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, shine, for your light has come",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, shine",
+   "heard": 1,
+   "words": 2,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Lift up your eyes all around and see",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They all gather together, they come to you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Then you shall see and be radiant",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your heart shall thrill and exult",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nations shall come to your light",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And kings to the brightness of your rising",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, shine, for your light has come",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the glory of the Lord has risen upon you",
+   "heard": 9,
+   "words": 10,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, shine, for your light has come",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, shine",
+   "heard": 1,
+   "words": 2,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "For",
+   "time": 17.4,
+   "weight": 0.63,
+   "note_time": 17.54
+  },
+  {
+   "text": "be",
+   "time": 18.8,
+   "weight": 0.96,
+   "note_time": 17.77
+  },
+  {
+   "text": "hold,",
+   "time": 19.15,
+   "weight": 0.96,
+   "note_time": 18.23
+  },
+  {
+   "text": "dark",
+   "time": 20.24,
+   "weight": 0.39,
+   "note_time": 20.31
+  },
+  {
+   "text": "ness",
+   "time": 20.59,
+   "weight": 0.39,
+   "note_time": 21.0
+  },
+  {
+   "text": "shall",
+   "time": 22.08,
+   "weight": 0.99,
+   "note_time": 21.69
+  },
+  {
+   "text": "cov",
+   "time": 23.12,
+   "weight": 1.0,
+   "note_time": 22.15
+  },
+  {
+   "text": "er",
+   "time": 23.47,
+   "weight": 1.0,
+   "note_time": 22.85
+  },
+  {
+   "text": "the",
+   "time": 23.94,
+   "weight": 0.99,
+   "note_time": 23.54
+  },
+  {
+   "text": "earth",
+   "time": 24.96,
+   "weight": 0.98,
+   "note_time": 23.77
+  },
+  {
+   "text": "And",
+   "time": 25.42,
+   "weight": 0.52,
+   "note_time": 25.15
+  },
+  {
+   "text": "thick",
+   "time": 26.34,
+   "weight": 0.99,
+   "note_time": 25.38
+  },
+  {
+   "text": "dark",
+   "time": 26.86,
+   "weight": 1.0,
+   "note_time": 25.85
+  },
+  {
+   "text": "ness",
+   "time": 27.21,
+   "weight": 1.0,
+   "note_time": 26.54
+  },
+  {
+   "text": "the",
+   "time": 27.84,
+   "weight": 0.88,
+   "note_time": 27.23
+  },
+  {
+   "text": "peo",
+   "time": 28.6,
+   "weight": 0.97,
+   "note_time": 27.46
+  },
+  {
+   "text": "ples",
+   "time": 28.95,
+   "weight": 0.97,
+   "note_time": 28.15
+  },
+  {
+   "text": "But",
+   "time": 32.54,
+   "weight": 0.44,
+   "note_time": 32.54
+  },
+  {
+   "text": "the",
+   "time": 33.94,
+   "weight": 0.98,
+   "note_time": 33.0
+  },
+  {
+   "text": "Lord",
+   "time": 34.12,
+   "weight": 0.97,
+   "note_time": 34.38
+  },
+  {
+   "text": "will",
+   "time": 34.66,
+   "weight": 0.99,
+   "note_time": 34.62
+  },
+  {
+   "text": "a",
+   "time": 35.82,
+   "weight": 0.48,
+   "note_time": 34.85
+  },
+  {
+   "text": "rise",
+   "time": 36.1,
+   "weight": 0.48,
+   "note_time": 35.54
+  },
+  {
+   "text": "up",
+   "time": 36.38,
+   "weight": 0.99,
+   "note_time": 36.0
+  },
+  {
+   "text": "on",
+   "time": 36.73,
+   "weight": 0.99,
+   "note_time": 36.46
+  },
+  {
+   "text": "you",
+   "time": 37.7,
+   "weight": 1.0,
+   "note_time": 37.38
+  },
+  {
+   "text": "And",
+   "time": 38.86,
+   "weight": 0.28,
+   "note_time": 39.92
+  },
+  {
+   "text": "his",
+   "time": 41.22,
+   "weight": 0.81,
+   "note_time": 40.15
+  },
+  {
+   "text": "glo",
+   "time": 41.58,
+   "weight": 1.0,
+   "note_time": 40.38
+  },
+  {
+   "text": "ry",
+   "time": 41.9,
+   "weight": 1.0,
+   "note_time": 41.08
+  },
+  {
+   "text": "will",
+   "time": 42.22,
+   "weight": 1.0,
+   "note_time": 41.31
+  },
+  {
+   "text": "be",
+   "time": 42.82,
+   "weight": 1.0,
+   "note_time": 42.0
+  },
+  {
+   "text": "seen",
+   "time": 43.32,
+   "weight": 1.0,
+   "note_time": 42.23
+  },
+  {
+   "text": "up",
+   "time": 44.04,
+   "weight": 1.0,
+   "note_time": 43.38
+  },
+  {
+   "text": "on",
+   "time": 44.39,
+   "weight": 1.0,
+   "note_time": 43.85
+  },
+  {
+   "text": "you",
+   "time": 45.18,
+   "weight": 1.0,
+   "note_time": 44.77
+  },
+  {
+   "text": "Na",
+   "time": 48.48,
+   "weight": 0.15,
+   "note_time": 48.0
+  },
+  {
+   "text": "tions",
+   "time": 48.83,
+   "weight": 0.15,
+   "note_time": 48.69
+  },
+  {
+   "text": "shall",
+   "time": 49.88,
+   "weight": 0.98,
+   "note_time": 49.38
+  },
+  {
+   "text": "come",
+   "time": 50.78,
+   "weight": 1.0,
+   "note_time": 49.85
+  },
+  {
+   "text": "to",
+   "time": 51.34,
+   "weight": 1.0,
+   "note_time": 50.54
+  },
+  {
+   "text": "your",
+   "time": 51.92,
+   "weight": 0.57,
+   "note_time": 51.23
+  },
+  {
+   "text": "light",
+   "time": 52.7,
+   "weight": 0.99,
+   "note_time": 52.15
+  },
+  {
+   "text": "And",
+   "time": 53.8,
+   "weight": 0.28,
+   "note_time": 54.92
+  },
+  {
+   "text": "kings",
+   "time": 56.38,
+   "weight": 0.95,
+   "note_time": 56.08
+  },
+  {
+   "text": "to",
+   "time": 56.84,
+   "weight": 0.98,
+   "note_time": 56.77
+  },
+  {
+   "text": "the",
+   "time": 57.46,
+   "weight": 1.0,
+   "note_time": 57.23
+  },
+  {
+   "text": "bright",
+   "time": 58.24,
+   "weight": 0.99,
+   "note_time": 57.69
+  },
+  {
+   "text": "ness",
+   "time": 58.59,
+   "weight": 0.99,
+   "note_time": 58.15
+  },
+  {
+   "text": "of",
+   "time": 58.94,
+   "weight": 0.99,
+   "note_time": 58.62
+  },
+  {
+   "text": "your",
+   "time": 59.72,
+   "weight": 0.98,
+   "note_time": 59.08
+  },
+  {
+   "text": "ris",
+   "time": 60.12,
+   "weight": 0.39,
+   "note_time": 60.0
+  },
+  {
+   "text": "ing",
+   "time": 60.47,
+   "weight": 0.39,
+   "note_time": 60.46
+  },
+  {
+   "text": "A",
+   "time": 63.46,
+   "weight": 0.97,
+   "note_time": 62.31
+  },
+  {
+   "text": "rise,",
+   "time": 63.81,
+   "weight": 0.97,
+   "note_time": 62.77
+  },
+  {
+   "text": "shine,",
+   "time": 64.86,
+   "weight": 0.99,
+   "note_time": 65.31
+  },
+  {
+   "text": "for",
+   "time": 66.06,
+   "weight": 0.84,
+   "note_time": 66.0
+  },
+  {
+   "text": "your",
+   "time": 66.68,
+   "weight": 0.95,
+   "note_time": 66.46
+  },
+  {
+   "text": "light",
+   "time": 67.42,
+   "weight": 0.99,
+   "note_time": 68.31
+  },
+  {
+   "text": "has",
+   "time": 68.18,
+   "weight": 0.26,
+   "note_time": 69.0
+  },
+  {
+   "text": "come",
+   "time": 69.78,
+   "weight": 0.99,
+   "note_time": 69.69
+  },
+  {
+   "text": "And",
+   "time": 70.46,
+   "weight": 0.88,
+   "note_time": 70.15
+  },
+  {
+   "text": "the",
+   "time": 71.12,
+   "weight": 1.0,
+   "note_time": 70.62
+  },
+  {
+   "text": "glo",
+   "time": 71.3,
+   "weight": 0.99,
+   "note_time": 70.85
+  },
+  {
+   "text": "ry",
+   "time": 71.56,
+   "weight": 0.99,
+   "note_time": 71.54
+  },
+  {
+   "text": "of",
+   "time": 71.82,
+   "weight": 1.0,
+   "note_time": 71.77
+  },
+  {
+   "text": "the",
+   "time": 72.46,
+   "weight": 1.0,
+   "note_time": 72.46
+  },
+  {
+   "text": "Lord",
+   "time": 72.9,
+   "weight": 0.98,
+   "note_time": 73.85
+  },
+  {
+   "text": "has",
+   "time": 73.4,
+   "weight": 0.98,
+   "note_time": 74.08
+  },
+  {
+   "text": "ri",
+   "time": 74.2,
+   "weight": 0.54,
+   "note_time": 74.54
+  },
+  {
+   "text": "sen",
+   "time": 74.55,
+   "weight": 0.54,
+   "note_time": 75.23
+  },
+  {
+   "text": "up",
+   "time": 75.46,
+   "weight": 0.52,
+   "note_time": 76.15
+  },
+  {
+   "text": "on",
+   "time": 75.81,
+   "weight": 0.52,
+   "note_time": 77.08
+  },
+  {
+   "text": "you",
+   "time": 76.56,
+   "weight": 0.39,
+   "note_time": 77.31
+  },
+  {
+   "text": "A",
+   "time": 77.7,
+   "weight": 0.5,
+   "note_time": 77.54
+  },
+  {
+   "text": "rise,",
+   "time": 78.05,
+   "weight": 0.5,
+   "note_time": 79.38
+  },
+  {
+   "text": "shine,",
+   "time": 79.92,
+   "weight": 0.87,
+   "note_time": 80.08
+  },
+  {
+   "text": "for",
+   "time": 80.84,
+   "weight": 0.92,
+   "note_time": 80.77
+  },
+  {
+   "text": "your",
+   "time": 81.44,
+   "weight": 0.95,
+   "note_time": 81.23
+  },
+  {
+   "text": "light",
+   "time": 82.18,
+   "weight": 0.93,
+   "note_time": 83.08
+  },
+  {
+   "text": "has",
+   "time": 83.5,
+   "weight": 0.61,
+   "note_time": 83.77
+  },
+  {
+   "text": "come",
+   "time": 84.54,
+   "weight": 0.99,
+   "note_time": 84.46
+  },
+  {
+   "text": "A",
+   "time": 85.71,
+   "weight": 0.0,
+   "note_time": 86.31
+  },
+  {
+   "text": "rise,",
+   "time": 86.89,
+   "weight": 0.0,
+   "note_time": 86.54
+  },
+  {
+   "text": "shine",
+   "time": 88.06,
+   "weight": 0.15,
+   "note_time": 88.15
+  },
+  {
+   "text": "Lift",
+   "time": 92.82,
+   "weight": 0.94,
+   "note_time": 92.77
+  },
+  {
+   "text": "up",
+   "time": 94.22,
+   "weight": 1.0,
+   "note_time": 93.23
+  },
+  {
+   "text": "your",
+   "time": 94.8,
+   "weight": 1.0,
+   "note_time": 93.69
+  },
+  {
+   "text": "eyes",
+   "time": 95.14,
+   "weight": 1.0,
+   "note_time": 93.92
+  },
+  {
+   "text": "all",
+   "time": 95.7,
+   "weight": 0.81,
+   "note_time": 94.85
+  },
+  {
+   "text": "a",
+   "time": 96.46,
+   "weight": 1.0,
+   "note_time": 95.54
+  },
+  {
+   "text": "round",
+   "time": 96.81,
+   "weight": 1.0,
+   "note_time": 95.77
+  },
+  {
+   "text": "and",
+   "time": 97.28,
+   "weight": 0.96,
+   "note_time": 96.46
+  },
+  {
+   "text": "see",
+   "time": 97.96,
+   "weight": 0.99,
+   "note_time": 97.38
+  },
+  {
+   "text": "They",
+   "time": 98.8,
+   "weight": 0.39,
+   "note_time": 99.0
+  },
+  {
+   "text": "all",
+   "time": 100.36,
+   "weight": 0.99,
+   "note_time": 99.23
+  },
+  {
+   "text": "gath",
+   "time": 100.76,
+   "weight": 0.9,
+   "note_time": 99.69
+  },
+  {
+   "text": "er",
+   "time": 101.11,
+   "weight": 0.9,
+   "note_time": 100.38
+  },
+  {
+   "text": "to",
+   "time": 101.56,
+   "weight": 1.0,
+   "note_time": 101.08
+  },
+  {
+   "text": "geth",
+   "time": 101.91,
+   "weight": 1.0,
+   "note_time": 101.31
+  },
+  {
+   "text": "er,",
+   "time": 102.26,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "they",
+   "time": 102.7,
+   "weight": 0.06,
+   "note_time": 102.92
+  },
+  {
+   "text": "come",
+   "time": 104.2,
+   "weight": 0.92,
+   "note_time": 103.38
+  },
+  {
+   "text": "to",
+   "time": 104.76,
+   "weight": 0.93,
+   "note_time": 104.31
+  },
+  {
+   "text": "you",
+   "time": 105.62,
+   "weight": 0.91,
+   "note_time": 104.77
+  },
+  {
+   "text": "Then",
+   "time": 107.44,
+   "weight": 0.96,
+   "note_time": 107.54
+  },
+  {
+   "text": "you",
+   "time": 108.84,
+   "weight": 0.97,
+   "note_time": 108.23
+  },
+  {
+   "text": "shall",
+   "time": 109.32,
+   "weight": 0.99,
+   "note_time": 108.69
+  },
+  {
+   "text": "see",
+   "time": 109.72,
+   "weight": 0.99,
+   "note_time": 109.62
+  },
+  {
+   "text": "and",
+   "time": 110.1,
+   "weight": 0.98,
+   "note_time": 110.31
+  },
+  {
+   "text": "be",
+   "time": 111.16,
+   "weight": 0.99,
+   "note_time": 110.77
+  },
+  {
+   "text": "ra",
+   "time": 111.7,
+   "weight": 0.99,
+   "note_time": 111.46
+  },
+  {
+   "text": "diant",
+   "time": 112.05,
+   "weight": 0.99,
+   "note_time": 111.69
+  },
+  {
+   "text": "Your",
+   "time": 113.96,
+   "weight": 0.99,
+   "note_time": 114.0
+  },
+  {
+   "text": "heart",
+   "time": 115.36,
+   "weight": 0.91,
+   "note_time": 114.46
+  },
+  {
+   "text": "shall",
+   "time": 116.16,
+   "weight": 1.0,
+   "note_time": 115.38
+  },
+  {
+   "text": "thrill",
+   "time": 116.78,
+   "weight": 0.99,
+   "note_time": 116.31
+  },
+  {
+   "text": "and",
+   "time": 117.76,
+   "weight": 0.99,
+   "note_time": 117.0
+  },
+  {
+   "text": "ex",
+   "time": 118.58,
+   "weight": 0.93,
+   "note_time": 117.46
+  },
+  {
+   "text": "ult",
+   "time": 118.93,
+   "weight": 0.93,
+   "note_time": 118.62
+  },
+  {
+   "text": "Na",
+   "time": 122.08,
+   "weight": 0.91,
+   "note_time": 121.85
+  },
+  {
+   "text": "tions",
+   "time": 122.43,
+   "weight": 0.91,
+   "note_time": 122.54
+  },
+  {
+   "text": "shall",
+   "time": 123.48,
+   "weight": 1.0,
+   "note_time": 123.23
+  },
+  {
+   "text": "come",
+   "time": 124.6,
+   "weight": 1.0,
+   "note_time": 123.69
+  },
+  {
+   "text": "to",
+   "time": 125.14,
+   "weight": 1.0,
+   "note_time": 124.38
+  },
+  {
+   "text": "your",
+   "time": 125.76,
+   "weight": 0.98,
+   "note_time": 125.08
+  },
+  {
+   "text": "light",
+   "time": 126.71,
+   "weight": 0.0,
+   "note_time": 126.0
+  },
+  {
+   "text": "And",
+   "time": 127.66,
+   "weight": 0.08,
+   "note_time": 128.77
+  },
+  {
+   "text": "kings",
+   "time": 130.16,
+   "weight": 0.85,
+   "note_time": 129.92
+  },
+  {
+   "text": "to",
+   "time": 130.7,
+   "weight": 0.86,
+   "note_time": 130.62
+  },
+  {
+   "text": "the",
+   "time": 131.24,
+   "weight": 1.0,
+   "note_time": 131.08
+  },
+  {
+   "text": "bright",
+   "time": 132.06,
+   "weight": 0.98,
+   "note_time": 131.54
+  },
+  {
+   "text": "ness",
+   "time": 132.41,
+   "weight": 0.98,
+   "note_time": 132.0
+  },
+  {
+   "text": "of",
+   "time": 132.9,
+   "weight": 0.99,
+   "note_time": 132.46
+  },
+  {
+   "text": "your",
+   "time": 133.48,
+   "weight": 0.46,
+   "note_time": 132.92
+  },
+  {
+   "text": "ris",
+   "time": 133.92,
+   "weight": 0.99,
+   "note_time": 133.85
+  },
+  {
+   "text": "ing",
+   "time": 134.27,
+   "weight": 0.99,
+   "note_time": 134.31
+  },
+  {
+   "text": "A",
+   "time": 137.16,
+   "weight": 0.92,
+   "note_time": 136.15
+  },
+  {
+   "text": "rise,",
+   "time": 137.51,
+   "weight": 0.92,
+   "note_time": 136.62
+  },
+  {
+   "text": "shine,",
+   "time": 138.56,
+   "weight": 0.99,
+   "note_time": 139.15
+  },
+  {
+   "text": "for",
+   "time": 139.9,
+   "weight": 0.94,
+   "note_time": 139.85
+  },
+  {
+   "text": "your",
+   "time": 140.52,
+   "weight": 0.92,
+   "note_time": 140.31
+  },
+  {
+   "text": "light",
+   "time": 141.24,
+   "weight": 0.91,
+   "note_time": 142.15
+  },
+  {
+   "text": "has",
+   "time": 141.9,
+   "weight": 0.1,
+   "note_time": 142.85
+  },
+  {
+   "text": "come",
+   "time": 143.66,
+   "weight": 1.0,
+   "note_time": 143.54
+  },
+  {
+   "text": "And",
+   "time": 144.38,
+   "weight": 0.81,
+   "note_time": 143.77
+  },
+  {
+   "text": "the",
+   "time": 144.92,
+   "weight": 0.99,
+   "note_time": 144.0
+  },
+  {
+   "text": "glo",
+   "time": 145.12,
+   "weight": 1.0,
+   "note_time": 144.46
+  },
+  {
+   "text": "ry",
+   "time": 145.37,
+   "weight": 1.0,
+   "note_time": 144.69
+  },
+  {
+   "text": "of",
+   "time": 145.62,
+   "weight": 1.0,
+   "note_time": 145.38
+  },
+  {
+   "text": "the",
+   "time": 146.28,
+   "weight": 0.99,
+   "note_time": 145.62
+  },
+  {
+   "text": "Lord",
+   "time": 146.74,
+   "weight": 1.0,
+   "note_time": 146.31
+  },
+  {
+   "text": "has",
+   "time": 147.24,
+   "weight": 0.99,
+   "note_time": 147.69
+  },
+  {
+   "text": "ri",
+   "time": 147.96,
+   "weight": 0.98,
+   "note_time": 147.92
+  },
+  {
+   "text": "sen",
+   "time": 148.31,
+   "weight": 0.98,
+   "note_time": 148.38
+  },
+  {
+   "text": "up",
+   "time": 149.18,
+   "weight": 0.0,
+   "note_time": 149.08
+  },
+  {
+   "text": "on",
+   "time": 150.05,
+   "weight": 0.0,
+   "note_time": 150.0
+  },
+  {
+   "text": "you",
+   "time": 150.92,
+   "weight": 0.74,
+   "note_time": 150.92
+  },
+  {
+   "text": "A",
+   "time": 151.5,
+   "weight": 0.4,
+   "note_time": 151.15
+  },
+  {
+   "text": "rise,",
+   "time": 151.85,
+   "weight": 0.4,
+   "note_time": 151.38
+  },
+  {
+   "text": "shine,",
+   "time": 153.36,
+   "weight": 1.0,
+   "note_time": 153.23
+  },
+  {
+   "text": "for",
+   "time": 154.66,
+   "weight": 1.0,
+   "note_time": 153.92
+  },
+  {
+   "text": "your",
+   "time": 155.32,
+   "weight": 1.0,
+   "note_time": 154.62
+  },
+  {
+   "text": "light",
+   "time": 155.98,
+   "weight": 1.0,
+   "note_time": 155.08
+  },
+  {
+   "text": "has",
+   "time": 156.7,
+   "weight": 0.94,
+   "note_time": 156.92
+  },
+  {
+   "text": "come",
+   "time": 157.64,
+   "weight": 0.99,
+   "note_time": 157.62
+  },
+  {
+   "text": "A",
+   "time": 158.83,
+   "weight": 0.0,
+   "note_time": 158.31
+  },
+  {
+   "text": "rise,",
+   "time": 160.01,
+   "weight": 0.0,
+   "note_time": 158.77
+  },
+  {
+   "text": "shine",
+   "time": 161.2,
+   "weight": 0.23,
+   "note_time": 160.15
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "18 of 20 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

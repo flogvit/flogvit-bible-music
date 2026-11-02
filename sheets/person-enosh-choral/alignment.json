@@ -1,0 +1,1088 @@
+{
+ "id": "person-enosh-choral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-enosh-choral",
+ "offset_seconds": -2.060000000000212,
+ "words_heard": 124,
+ "words": 128,
+ "lines": [
+  {
+   "text": "Seth lived one hundred and five",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.3,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Then he saw a son arrive",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He named him Enosh, pure and true",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Into the line where faith grew",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "At that time the people found",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A way to make their hearts sound",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They began to call aloud",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "On the name of the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When Enosh was ninety years old",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He fathered Kenan, as told",
+   "heard": 3,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Eight hundred and fifteen more",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He lived, keeping faith to the core",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Other sons and daughters came",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the name they bore the same",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From Adam down to Seth\u2019s line",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Enosh stands in grace divine",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Luke lists him in the chain",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The son of Enosh, plain and plain",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Son of Seth, son of Adam\u2019s seed",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From God, the story is read",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Calling on the name of the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Seth",
+   "time": 15.0,
+   "weight": 0.56,
+   "note_time": 14.14
+  },
+  {
+   "text": "lived",
+   "time": 16.2,
+   "weight": 0.98,
+   "note_time": 14.57
+  },
+  {
+   "text": "one",
+   "time": 16.6,
+   "weight": 0.38,
+   "note_time": 15.0
+  },
+  {
+   "text": "hun",
+   "time": 17.02,
+   "weight": 0.96,
+   "note_time": 15.43
+  },
+  {
+   "text": "dred",
+   "time": 17.37,
+   "weight": 0.96,
+   "note_time": 16.07
+  },
+  {
+   "text": "and",
+   "time": 18.02,
+   "weight": 0.98,
+   "note_time": 16.71
+  },
+  {
+   "text": "five",
+   "time": 18.7,
+   "weight": 1.0,
+   "note_time": 17.57
+  },
+  {
+   "text": "Then",
+   "time": 19.56,
+   "weight": 0.3,
+   "note_time": 21.43
+  },
+  {
+   "text": "he",
+   "time": 23.4,
+   "weight": 0.98,
+   "note_time": 22.07
+  },
+  {
+   "text": "saw",
+   "time": 23.7,
+   "weight": 1.0,
+   "note_time": 22.71
+  },
+  {
+   "text": "a",
+   "time": 24.12,
+   "weight": 0.93,
+   "note_time": 22.93
+  },
+  {
+   "text": "son",
+   "time": 24.64,
+   "weight": 0.61,
+   "note_time": 23.57
+  },
+  {
+   "text": "ar",
+   "time": 25.02,
+   "weight": 0.97,
+   "note_time": 23.79
+  },
+  {
+   "text": "rive",
+   "time": 25.37,
+   "weight": 0.97,
+   "note_time": 24.0
+  },
+  {
+   "text": "He",
+   "time": 28.58,
+   "weight": 0.68,
+   "note_time": 28.07
+  },
+  {
+   "text": "named",
+   "time": 29.78,
+   "weight": 0.99,
+   "note_time": 28.71
+  },
+  {
+   "text": "him",
+   "time": 30.38,
+   "weight": 0.65,
+   "note_time": 28.93
+  },
+  {
+   "text": "E",
+   "time": 30.62,
+   "weight": 0.59,
+   "note_time": 29.57
+  },
+  {
+   "text": "nosh,",
+   "time": 30.97,
+   "weight": 0.59,
+   "note_time": 30.43
+  },
+  {
+   "text": "pure",
+   "time": 31.84,
+   "weight": 0.94,
+   "note_time": 31.29
+  },
+  {
+   "text": "and",
+   "time": 32.22,
+   "weight": 1.0,
+   "note_time": 32.14
+  },
+  {
+   "text": "true",
+   "time": 33.36,
+   "weight": 0.99,
+   "note_time": 32.36
+  },
+  {
+   "text": "In",
+   "time": 34.02,
+   "weight": 0.23,
+   "note_time": 34.93
+  },
+  {
+   "text": "to",
+   "time": 34.37,
+   "weight": 0.23,
+   "note_time": 35.14
+  },
+  {
+   "text": "the",
+   "time": 36.74,
+   "weight": 1.0,
+   "note_time": 35.57
+  },
+  {
+   "text": "line",
+   "time": 37.2,
+   "weight": 0.99,
+   "note_time": 35.79
+  },
+  {
+   "text": "where",
+   "time": 37.72,
+   "weight": 0.99,
+   "note_time": 36.43
+  },
+  {
+   "text": "faith",
+   "time": 38.24,
+   "weight": 0.99,
+   "note_time": 36.86
+  },
+  {
+   "text": "grew",
+   "time": 38.66,
+   "weight": 1.0,
+   "note_time": 37.71
+  },
+  {
+   "text": "At",
+   "time": 42.54,
+   "weight": 0.93,
+   "note_time": 42.0
+  },
+  {
+   "text": "that",
+   "time": 43.74,
+   "weight": 0.97,
+   "note_time": 42.43
+  },
+  {
+   "text": "time",
+   "time": 44.0,
+   "weight": 1.0,
+   "note_time": 42.64
+  },
+  {
+   "text": "the",
+   "time": 44.62,
+   "weight": 0.83,
+   "note_time": 43.29
+  },
+  {
+   "text": "peo",
+   "time": 44.88,
+   "weight": 1.0,
+   "note_time": 43.5
+  },
+  {
+   "text": "ple",
+   "time": 45.17,
+   "weight": 1.0,
+   "note_time": 44.14
+  },
+  {
+   "text": "found",
+   "time": 45.46,
+   "weight": 0.95,
+   "note_time": 45.0
+  },
+  {
+   "text": "A",
+   "time": 46.66,
+   "weight": 0.36,
+   "note_time": 48.64
+  },
+  {
+   "text": "way",
+   "time": 48.66,
+   "weight": 0.4,
+   "note_time": 48.86
+  },
+  {
+   "text": "to",
+   "time": 50.46,
+   "weight": 1.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "make",
+   "time": 50.78,
+   "weight": 1.0,
+   "note_time": 49.5
+  },
+  {
+   "text": "their",
+   "time": 51.14,
+   "weight": 1.0,
+   "note_time": 50.14
+  },
+  {
+   "text": "hearts",
+   "time": 51.7,
+   "weight": 0.86,
+   "note_time": 50.57
+  },
+  {
+   "text": "sound",
+   "time": 52.48,
+   "weight": 1.0,
+   "note_time": 51.43
+  },
+  {
+   "text": "They",
+   "time": 55.72,
+   "weight": 0.41,
+   "note_time": 55.71
+  },
+  {
+   "text": "be",
+   "time": 57.04,
+   "weight": 0.99,
+   "note_time": 56.14
+  },
+  {
+   "text": "gan",
+   "time": 57.39,
+   "weight": 0.99,
+   "note_time": 56.36
+  },
+  {
+   "text": "to",
+   "time": 57.78,
+   "weight": 1.0,
+   "note_time": 57.0
+  },
+  {
+   "text": "call",
+   "time": 58.36,
+   "weight": 0.98,
+   "note_time": 57.21
+  },
+  {
+   "text": "a",
+   "time": 58.78,
+   "weight": 0.73,
+   "note_time": 57.86
+  },
+  {
+   "text": "loud",
+   "time": 59.13,
+   "weight": 0.73,
+   "note_time": 58.07
+  },
+  {
+   "text": "On",
+   "time": 59.64,
+   "weight": 0.51,
+   "note_time": 59.57
+  },
+  {
+   "text": "the",
+   "time": 60.96,
+   "weight": 1.0,
+   "note_time": 59.79
+  },
+  {
+   "text": "name",
+   "time": 61.1,
+   "weight": 0.76,
+   "note_time": 60.0
+  },
+  {
+   "text": "of",
+   "time": 61.7,
+   "weight": 1.0,
+   "note_time": 60.86
+  },
+  {
+   "text": "the",
+   "time": 62.3,
+   "weight": 0.99,
+   "note_time": 61.29
+  },
+  {
+   "text": "Lord",
+   "time": 62.6,
+   "weight": 0.96,
+   "note_time": 61.5
+  },
+  {
+   "text": "When",
+   "time": 68.9,
+   "weight": 0.29,
+   "note_time": 69.0
+  },
+  {
+   "text": "E",
+   "time": 70.22,
+   "weight": 0.56,
+   "note_time": 69.43
+  },
+  {
+   "text": "nosh",
+   "time": 70.53,
+   "weight": 0.56,
+   "note_time": 69.86
+  },
+  {
+   "text": "was",
+   "time": 70.84,
+   "weight": 1.0,
+   "note_time": 70.29
+  },
+  {
+   "text": "nine",
+   "time": 71.14,
+   "weight": 0.76,
+   "note_time": 70.71
+  },
+  {
+   "text": "ty",
+   "time": 71.39,
+   "weight": 0.76,
+   "note_time": 70.93
+  },
+  {
+   "text": "years",
+   "time": 71.64,
+   "weight": 0.99,
+   "note_time": 71.14
+  },
+  {
+   "text": "old",
+   "time": 72.3,
+   "weight": 1.0,
+   "note_time": 71.57
+  },
+  {
+   "text": "He",
+   "time": 75.88,
+   "weight": 0.72,
+   "note_time": 76.07
+  },
+  {
+   "text": "fa",
+   "time": 77.2,
+   "weight": 1.0,
+   "note_time": 76.29
+  },
+  {
+   "text": "thered",
+   "time": 77.55,
+   "weight": 1.0,
+   "note_time": 76.71
+  },
+  {
+   "text": "Ke",
+   "time": 77.97,
+   "weight": 0.0,
+   "note_time": 76.93
+  },
+  {
+   "text": "nan,",
+   "time": 78.4,
+   "weight": 0.0,
+   "note_time": 77.57
+  },
+  {
+   "text": "as",
+   "time": 78.82,
+   "weight": 0.78,
+   "note_time": 78.43
+  },
+  {
+   "text": "told",
+   "time": 80.96,
+   "weight": 0.0,
+   "note_time": 78.86
+  },
+  {
+   "text": "Eight",
+   "time": 83.1,
+   "weight": 0.31,
+   "note_time": 82.71
+  },
+  {
+   "text": "hun",
+   "time": 83.96,
+   "weight": 0.94,
+   "note_time": 83.14
+  },
+  {
+   "text": "dred",
+   "time": 84.18,
+   "weight": 0.94,
+   "note_time": 83.57
+  },
+  {
+   "text": "and",
+   "time": 84.4,
+   "weight": 0.99,
+   "note_time": 83.79
+  },
+  {
+   "text": "fif",
+   "time": 84.9,
+   "weight": 0.95,
+   "note_time": 84.43
+  },
+  {
+   "text": "teen",
+   "time": 85.25,
+   "weight": 0.95,
+   "note_time": 84.86
+  },
+  {
+   "text": "more",
+   "time": 85.7,
+   "weight": 0.4,
+   "note_time": 86.14
+  },
+  {
+   "text": "He",
+   "time": 87.26,
+   "weight": 0.21,
+   "note_time": 87.86
+  },
+  {
+   "text": "lived,",
+   "time": 88.82,
+   "weight": 0.5,
+   "note_time": 88.71
+  },
+  {
+   "text": "keep",
+   "time": 89.98,
+   "weight": 0.97,
+   "note_time": 88.93
+  },
+  {
+   "text": "ing",
+   "time": 90.33,
+   "weight": 0.97,
+   "note_time": 90.64
+  },
+  {
+   "text": "faith",
+   "time": 91.42,
+   "weight": 0.98,
+   "note_time": 90.86
+  },
+  {
+   "text": "to",
+   "time": 92.0,
+   "weight": 1.0,
+   "note_time": 91.5
+  },
+  {
+   "text": "the",
+   "time": 92.44,
+   "weight": 1.0,
+   "note_time": 92.14
+  },
+  {
+   "text": "core",
+   "time": 93.08,
+   "weight": 0.99,
+   "note_time": 92.57
+  },
+  {
+   "text": "Oth",
+   "time": 97.1,
+   "weight": 0.67,
+   "note_time": 96.86
+  },
+  {
+   "text": "er",
+   "time": 97.45,
+   "weight": 0.67,
+   "note_time": 97.29
+  },
+  {
+   "text": "sons",
+   "time": 97.88,
+   "weight": 1.0,
+   "note_time": 97.5
+  },
+  {
+   "text": "and",
+   "time": 98.34,
+   "weight": 0.99,
+   "note_time": 98.14
+  },
+  {
+   "text": "daugh",
+   "time": 99.02,
+   "weight": 0.99,
+   "note_time": 98.36
+  },
+  {
+   "text": "ters",
+   "time": 99.37,
+   "weight": 0.99,
+   "note_time": 99.0
+  },
+  {
+   "text": "came",
+   "time": 99.72,
+   "weight": 0.9,
+   "note_time": 99.86
+  },
+  {
+   "text": "In",
+   "time": 100.72,
+   "weight": 0.36,
+   "note_time": 103.71
+  },
+  {
+   "text": "the",
+   "time": 104.58,
+   "weight": 0.99,
+   "note_time": 104.14
+  },
+  {
+   "text": "name",
+   "time": 104.86,
+   "weight": 0.87,
+   "note_time": 104.36
+  },
+  {
+   "text": "they",
+   "time": 105.38,
+   "weight": 0.9,
+   "note_time": 105.0
+  },
+  {
+   "text": "bore",
+   "time": 105.7,
+   "weight": 0.82,
+   "note_time": 105.21
+  },
+  {
+   "text": "the",
+   "time": 106.02,
+   "weight": 0.97,
+   "note_time": 105.86
+  },
+  {
+   "text": "same",
+   "time": 106.54,
+   "weight": 0.97,
+   "note_time": 106.07
+  },
+  {
+   "text": "From",
+   "time": 109.88,
+   "weight": 0.46,
+   "note_time": 110.36
+  },
+  {
+   "text": "A",
+   "time": 110.92,
+   "weight": 0.95,
+   "note_time": 110.57
+  },
+  {
+   "text": "dam",
+   "time": 111.26,
+   "weight": 0.95,
+   "note_time": 111.0
+  },
+  {
+   "text": "down",
+   "time": 111.6,
+   "weight": 0.98,
+   "note_time": 111.21
+  },
+  {
+   "text": "to",
+   "time": 112.06,
+   "weight": 0.98,
+   "note_time": 111.86
+  },
+  {
+   "text": "Seth\u2019s",
+   "time": 112.48,
+   "weight": 0.76,
+   "note_time": 112.07
+  },
+  {
+   "text": "line",
+   "time": 113.14,
+   "weight": 0.83,
+   "note_time": 112.71
+  },
+  {
+   "text": "E",
+   "time": 113.62,
+   "weight": 0.21,
+   "note_time": 114.0
+  },
+  {
+   "text": "nosh",
+   "time": 113.97,
+   "weight": 0.21,
+   "note_time": 114.21
+  },
+  {
+   "text": "stands",
+   "time": 115.16,
+   "weight": 0.87,
+   "note_time": 114.86
+  },
+  {
+   "text": "in",
+   "time": 115.54,
+   "weight": 0.65,
+   "note_time": 115.29
+  },
+  {
+   "text": "grace",
+   "time": 115.9,
+   "weight": 0.94,
+   "note_time": 115.5
+  },
+  {
+   "text": "di",
+   "time": 116.2,
+   "weight": 0.99,
+   "note_time": 116.14
+  },
+  {
+   "text": "vine",
+   "time": 116.55,
+   "weight": 0.99,
+   "note_time": 116.36
+  },
+  {
+   "text": "Luke",
+   "time": 120.35,
+   "weight": 0.0,
+   "note_time": 124.29
+  },
+  {
+   "text": "lists",
+   "time": 124.14,
+   "weight": 0.41,
+   "note_time": 124.71
+  },
+  {
+   "text": "him",
+   "time": 125.18,
+   "weight": 0.84,
+   "note_time": 125.14
+  },
+  {
+   "text": "in",
+   "time": 125.68,
+   "weight": 1.0,
+   "note_time": 125.57
+  },
+  {
+   "text": "the",
+   "time": 126.12,
+   "weight": 0.99,
+   "note_time": 126.0
+  },
+  {
+   "text": "chain",
+   "time": 126.38,
+   "weight": 0.74,
+   "note_time": 126.43
+  },
+  {
+   "text": "The",
+   "time": 128.44,
+   "weight": 0.0,
+   "note_time": 130.93
+  },
+  {
+   "text": "son",
+   "time": 130.5,
+   "weight": 0.84,
+   "note_time": 131.14
+  },
+  {
+   "text": "of",
+   "time": 131.54,
+   "weight": 1.0,
+   "note_time": 131.57
+  },
+  {
+   "text": "E",
+   "time": 131.98,
+   "weight": 0.79,
+   "note_time": 131.79
+  },
+  {
+   "text": "nosh,",
+   "time": 132.33,
+   "weight": 0.79,
+   "note_time": 132.43
+  },
+  {
+   "text": "plain",
+   "time": 133.0,
+   "weight": 0.62,
+   "note_time": 132.86
+  },
+  {
+   "text": "and",
+   "time": 133.18,
+   "weight": 0.99,
+   "note_time": 133.5
+  },
+  {
+   "text": "plain",
+   "time": 133.94,
+   "weight": 0.81,
+   "note_time": 134.14
+  },
+  {
+   "text": "Son",
+   "time": 137.22,
+   "weight": 0.67,
+   "note_time": 138.0
+  },
+  {
+   "text": "of",
+   "time": 138.2,
+   "weight": 1.0,
+   "note_time": 138.21
+  },
+  {
+   "text": "Seth,",
+   "time": 138.54,
+   "weight": 0.99,
+   "note_time": 138.64
+  },
+  {
+   "text": "son",
+   "time": 139.22,
+   "weight": 0.61,
+   "note_time": 139.29
+  },
+  {
+   "text": "of",
+   "time": 139.62,
+   "weight": 1.0,
+   "note_time": 139.5
+  },
+  {
+   "text": "A",
+   "time": 139.84,
+   "weight": 1.0,
+   "note_time": 139.71
+  },
+  {
+   "text": "dam\u2019s",
+   "time": 140.03,
+   "weight": 1.0,
+   "note_time": 139.93
+  },
+  {
+   "text": "seed",
+   "time": 140.28,
+   "weight": 0.47,
+   "note_time": 140.36
+  },
+  {
+   "text": "From",
+   "time": 140.6,
+   "weight": 0.47,
+   "note_time": 141.21
+  },
+  {
+   "text": "God,",
+   "time": 141.34,
+   "weight": 1.0,
+   "note_time": 141.43
+  },
+  {
+   "text": "the",
+   "time": 141.8,
+   "weight": 0.96,
+   "note_time": 141.86
+  },
+  {
+   "text": "sto",
+   "time": 142.06,
+   "weight": 0.99,
+   "note_time": 142.07
+  },
+  {
+   "text": "ry",
+   "time": 142.32,
+   "weight": 0.99,
+   "note_time": 143.14
+  },
+  {
+   "text": "is",
+   "time": 142.58,
+   "weight": 1.0,
+   "note_time": 143.36
+  },
+  {
+   "text": "read",
+   "time": 143.84,
+   "weight": 0.99,
+   "note_time": 144.0
+  },
+  {
+   "text": "Call",
+   "time": 150.32,
+   "weight": 0.77,
+   "note_time": 151.71
+  },
+  {
+   "text": "ing",
+   "time": 150.67,
+   "weight": 0.77,
+   "note_time": 151.93
+  },
+  {
+   "text": "on",
+   "time": 151.3,
+   "weight": 0.99,
+   "note_time": 152.14
+  },
+  {
+   "text": "the",
+   "time": 152.28,
+   "weight": 1.0,
+   "note_time": 152.36
+  },
+  {
+   "text": "name",
+   "time": 152.46,
+   "weight": 0.67,
+   "note_time": 152.57
+  },
+  {
+   "text": "of",
+   "time": 153.08,
+   "weight": 1.0,
+   "note_time": 153.43
+  },
+  {
+   "text": "the",
+   "time": 153.82,
+   "weight": 0.99,
+   "note_time": 154.07
+  },
+  {
+   "text": "Lord",
+   "time": 154.38,
+   "weight": 0.98,
+   "note_time": 154.29
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "17 of 21 lyric lines sit clearly on their notes; 4 are uncertain and printed in grey italics."
+}

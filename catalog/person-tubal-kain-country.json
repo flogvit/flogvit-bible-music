@@ -1,0 +1,65 @@
+{
+  "id": "person-tubal-kain-country",
+  "title": "Forged from Bronze and Iron",
+  "kind": "person",
+  "anchor": {
+    "person": "tubal-kain"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 17,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 23,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 20,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "abraham"
+    ],
+    "stories": [],
+    "persons": [
+      "tubal-kain",
+      "kain",
+      "lamek-metusaels-sonn-etterkommer-av-kain",
+      "silla",
+      "jabal"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male country voice, solo, acoustic guitar, steel guitar, fiddle, upright bass, mournful, 80 BPM",
+    "lyrics": "[Verse]\nZillah gave birth to a new son\nCain was building his first city\nLamech took two wives for his own\nOne named Adah, the other Zillah\n\n[Verse]\nAdah bore Jabal the nomad\nFather of those with tents and flocks\nJubal played the lyre and pipe\nFather of all who hear the song\n\n[Chorus]\nTubal-Cain forged the metal tools\nOut of bronze and iron bright\nHe shaped the hammer and the tongs\nUnder the heavy weight of night\n\n[Verse]\nHis sister Naamah stood beside\nName recorded in the old genealogy\nJabal lived among the tents\nJubal played the ancient melodies\n\n[Chorus]\nTubal-Cain forged the metal tools\nOut of bronze and iron bright\nHe shaped the hammer and the tongs\nUnder the heavy weight of night\n\n[Bridge]\nLamech sang to Adah and Zillah\nHear my voice and listen close\nI killed a man for wounding me\nA young man for his slight abuse\n\n[Outro]\nIf Cain is avenged seven times\nLamech seventy-seven times\nForged from bronze and iron\nIn the lineage of Cain",
+    "cot": "full",
+    "seed": 31119
+  }
+}

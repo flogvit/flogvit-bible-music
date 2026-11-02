@@ -1,0 +1,67 @@
+{
+  "id": "person-berenike-worship",
+  "title": "Nothing Deserving Death",
+  "kind": "person",
+  "anchor": {
+    "person": "berenike"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 25,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 44,
+      "chapter": 25,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 44,
+      "chapter": 26,
+      "verseStart": 1,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 44,
+      "chapter": 26,
+      "verseStart": 30,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "synden"
+    ],
+    "stories": [],
+    "persons": [
+      "berenike",
+      "paulus",
+      "festus",
+      "felix"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, ethereal and reverent, piano, strings, cello, soft drums, majestic and contemplative, 75 BPM",
+    "lyrics": "[Verse]\nSome days later in Caesarea town\nThe King and his sister arrived now\nTo pay their respects to the new governor\nWith great pomp they entered the hall of power\n\n[Pre-Chorus]\nPaul was brought in at the order of Festus\nTo speak his defense before the men\nThe King gave him permission to speak\nAnd Paul stretched out his hand in the end\n\n[Chorus]\nThis man has done nothing deserving death\nOr imprisonment for the charges laid\nHe spoke of light and of the risen Lord\nAnd they agreed that no guilt was weighed\n\n[Verse]\nI saw a light brighter than the sun\nBlazing around me on the road to Damascus\nThe Lord said I am Jesus whom you persecute\nArise and stand on your feet, it was said\n\n[Pre-Chorus]\nI was not disobedient to the vision\nI preached to Damascus and Jerusalem\nTo Israel and the Gentiles alike\nThat they should repent and turn to Him\n\n[Chorus]\nThis man has done nothing deserving death\nOr imprisonment for the charges laid\nHe spoke of light and of the risen Lord\nAnd they agreed that no guilt was weighed\n\n[Bridge]\nThe King rose up with the governor\nAnd Bernice and those who were seated\nAs they withdrew they spoke to one another\nWith words of truth that they believed\n\n[Outro]\nHe could have been set free if he had not appealed\nTo Caesar's court in the end",
+    "cot": "full",
+    "seed": 31121
+  }
+}

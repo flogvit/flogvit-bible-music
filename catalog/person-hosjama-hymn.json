@@ -1,0 +1,68 @@
+{
+  "id": "person-hosjama-hymn",
+  "title": "Seat of Honor",
+  "kind": "person",
+  "anchor": {
+    "person": "hosjama"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 12,
+      "chapter": 24,
+      "verseStart": 15,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 27,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "hosjama",
+      "jekamja",
+      "serubabel",
+      "david",
+      "jojakim"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone voice, solo with choir, piano, strings, harp, organ, solemn and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nThe sons of Jeconiah the captive\nShealtiel was his first born son\nMalchiram and Pedaiah too\nShenazzar stood beside him\n\n[Verse]\nJekamiah and Hoshama named\nWith Nedabiah in the list\nA lineage kept in Babylon\nWhile Jerusalem lay in dust\n\n[Verse]\nHe took the king to Babylon\nWith mothers wives and court attendants\nThe strong and fit for war\nLed into exile far away\n\n[Verse]\nIn thirty-seven years of exile\nEvil-merodach set him free\nHe spoke kindly to the king\nAnd gave him a seat of honor\n\n[Verse]\nPrison clothes were put aside\nTo eat at the king's table\nA regular allowance given\nDay by day as he lived on",
+    "cot": "full",
+    "seed": 31125
+  }
+}

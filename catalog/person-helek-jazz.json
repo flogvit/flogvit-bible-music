@@ -1,0 +1,64 @@
+{
+  "id": "person-helek-jazz",
+  "title": "Helekite Clan",
+  "kind": "person",
+  "anchor": {
+    "person": "helek"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 30,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 6,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 14,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [
+      "pakten",
+      "guds-hellighet",
+      "nade"
+    ],
+    "stories": [],
+    "persons": [
+      "helek",
+      "gilead",
+      "manasse-josefs-sonn",
+      "josva",
+      "makir"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal, smooth and narrative, upright bass, piano, brushed drums, double bass, saxophone, warm mood, 80 BPM",
+    "lyrics": "[Verse]\nSon of Gilead, of Machir's line\nDescendant of Manasseh divine\nFrom Joseph's firstborn, the branch grew\nRecorded in the genealogy\n\n[Pre-Chorus]\nAmong the clans counted in Moab\nOn the plains they stood in the tab\nHelek's name is written in stone\nWithin the tribe, he is known\n\n[Chorus]\nFrom Helek comes the Helekite clan\nPart of Manasseh, as the text has planned\nThey received their inheritance by lot\nIn the land of Canaan, a sacred spot\n\n[Verse]\nMachir received Gilead and Bashan\nA man of war, holding the land\nThe rest of the descendants took their share\nSons of Abiezer, breathing the air\n\n[Pre-Chorus]\nSons of Helek, Asriel, and Shechem\nHepher and Shemida, in the rhythm\nMale descendants of the father's house\nCounting the people in the dust\n\n[Chorus]\nFrom Helek comes the Helekite clan\nPart of Manasseh, as the text has planned\nThey received their inheritance by lot\nIn the land of Canaan, a sacred spot\n\n[Bridge]\nChronicles tell the story clear\nAsriel bore, his Aramean dear\nMachir took a wife, Maacah's name\nBore a son, Peresh, without blame\n\n[Outro]\nUlam's son was Bedan, it is said\nSons of Gilead, firmly planted\nHelek's clan, in history's book\nIsrael's history, in the look",
+    "cot": "full",
+    "seed": 31124
+  }
+}

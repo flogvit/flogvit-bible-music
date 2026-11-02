@@ -1,0 +1,63 @@
+{
+  "id": "person-hananja-sonn-av-serubabel-etterkomner-av-david-pop",
+  "title": "The Line of Zerubbabel",
+  "kind": "person",
+  "anchor": {
+    "person": "hananja-sonn-av-serubabel-etterkomner-av-david"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "hananja-sonn-av-serubabel-etterkomner-av-david",
+      "serubabel",
+      "david",
+      "sjealtiel",
+      "jojakin"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, cello, gentle strings, reverent and gentle, 70 BPM",
+    "lyrics": "[Verse]\nFrom Jeconiah’s line in the captives' land\nShealtiel his son, holding the hand\nOf Malchiram, Pedaiah, and Shenazzar\nJekamiah, Hoshama, and Nedabiah\n\n[Verse]\nFrom Pedaiah’s house, Zerubbabel rose\nWith Shimei his brother, the line is closed\nMeshullam and Hananiah, sons of the king\nAnd Shelomith their sister, the bond is strong\n\n[Chorus]\nHananiah, name in the royal genealogy\nSon of Zerubbabel, part of the lineage\nDavid’s blood flows on, through the exile’s night\nThe line of Judah, burning with light\n\n[Verse]\nThe sons of Hananiah, Pelatiah and Jeshaiah\nContinuing the path, the truth is laid\nThrough Rephaiah, Arnan, and Obadiah\nShecaniah’s sons, in the books displayed\n\n[Chorus]\nHananiah, name in the royal genealogy\nSon of Zerubbabel, part of the lineage\nDavid’s blood flows on, through the exile’s night\nThe line of Judah, burning with light\n\n[Bridge]\nNo throne is built in the city stone\nBut names are kept in the book alone\nThe house of David, preserved and true\nIn Chronicles’ pages, written for you\n\n[Outro]\nThe line continues, the story stands\nHananiah’s name, in the promised lands",
+    "cot": "full",
+    "seed": 31123
+  }
+}

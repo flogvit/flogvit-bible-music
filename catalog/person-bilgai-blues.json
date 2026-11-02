@@ -1,0 +1,66 @@
+{
+  "id": "person-bilgai-blues",
+  "title": "The Seal of Bilgah",
+  "kind": "person",
+  "anchor": {
+    "person": "bilgai"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 24,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "bilgai",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male deep voice, solo with choir, acoustic guitar, upright bass, organ, brushed drums, solemn and reflective, 75 BPM",
+    "lyrics": "[Verse]\nReturn from the exile with Zerubbabel\nPriests and Levites stood in the gate\nNames of the leaders in the days of Jeshua\nMijamin and Maadiah are named\n\n[Pre-Chorus]\nShemaiah and Joiarib are here\nJedaiah and Sallu stand near\nAmok and Hilkiah keep faith\nThese were the heads in the days of Jeshua\n\n[Chorus]\nSealing the covenant with the Lord\nThe law of God in the heart\nBilgah's family serves the house\nFaithful through the generations\n\n[Verse]\nIn the days of the high priest Joiakim\nShammua was the head of the line\nOf Bilgah the family continued\nServing in the temple of God\n\n[Chorus]\nSealing the covenant with the Lord\nThe law of God in the heart\nBilgah's family serves the house\nFaithful through the generations\n\n[Bridge]\nFifteenth division in David's time\nThe order of service remains\nMeshullam and Abijah sign\nMijamin seals the written word\n\n[Chorus]\nSealing the covenant with the Lord\nThe law of God in the heart\nBilgah's family serves the house\nFaithful through the generations\n\n[Outro]\nBilgah and Bilga stand together\nSealed in the covenant of God",
+    "cot": "full",
+    "seed": 31122
+  }
+}

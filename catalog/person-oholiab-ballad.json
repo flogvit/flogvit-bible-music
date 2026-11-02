@@ -1,0 +1,67 @@
+{
+  "id": "person-oholiab-ballad",
+  "title": "Oholiab the Craftsman",
+  "kind": "person",
+  "anchor": {
+    "person": "oholiab"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 31,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 2,
+      "chapter": 35,
+      "verseStart": 34,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 2,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 2,
+      "chapter": 38,
+      "verseStart": 22,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "nade",
+      "visdom"
+    ],
+    "stories": [],
+    "persons": [
+      "oholiab",
+      "besalel",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone solo with soft choir, acoustic guitar, piano, cello, flute, warm reverberant atmosphere, 80 BPM",
+    "lyrics": "[Verse]\nFrom the tribe of Dan he came\nSon of Ahisamach by name\nAppointed to work with Bezalel\nTo build God's dwelling, to fulfill the goal\nI have given skill to every craftsman\nSo they can make what I have planned\n\n[Chorus]\nOholiab, son of Ahisamach\nOf the tribe of Dan, a skilled touch\nEngravers, designers, weavers too\nBlue and purple, crimson hue\nMasters of every craft and art\nCreating what is in God's heart\n\n[Verse]\nThe ability to teach others well\nTo help them build, to help them tell\nAll the work of the sanctuary\nAccording to the command of the Lord\nMoses called the skilled craftsmen\nTo carry out the sacred plan\n\n[Chorus]\nOholiab, son of Ahisamach\nOf the tribe of Dan, a skilled touch\nEngravers, designers, weavers too\nBlue and purple, crimson hue\nMasters of every craft and art\nCreating what is in God's heart\n\n[Bridge]\nWisdom and understanding filled their hands\nTo know how to carry out the plans\nJust as the LORD had commanded\nEvery fabric, every thread\n\n[Chorus]\nOholiab, son of Ahisamach\nOf the tribe of Dan, a skilled touch\nEngravers, designers, weavers too\nBlue and purple, crimson hue\nMasters of every craft and art\nCreating what is in God's heart\n\n[Outro]\nThe tabernacle stands complete\nA work of faith, a holy seat",
+    "cot": "full",
+    "seed": 31117
+  }
+}

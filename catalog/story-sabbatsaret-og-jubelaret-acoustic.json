@@ -1,0 +1,43 @@
+{
+  "id": "story-sabbatsaret-og-jubelaret-acoustic",
+  "title": "Proclaim Liberty",
+  "kind": "story",
+  "anchor": {
+    "story": "sabbatsaret-og-jubelaret"
+  },
+  "references": [
+    {
+      "bookId": 3,
+      "chapter": 25,
+      "verseStart": 1,
+      "verseEnd": 55
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [
+      "sabbatsaret-og-jubelaret"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female voice, solo with soft choir, acoustic guitar, cello, piano, flute, gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nThe Lord spoke to Moses on Mount Sinai,\nSpeak to the people of Israel's line.\nWhen you enter the land I give to you,\nThe land itself must keep the Sabbath true.\nSix years sow the field and prune the vine,\nGather the produce in its season's time.\nBut in the seventh year let it rest,\nA Sabbath of complete and holy rest.\n\n[Chorus]\nOn the tenth day sound the ram's horn loud,\nProclaim liberty throughout the crowd.\nReturn to property and family's door,\nThe fiftieth year opens up once more.\n\n[Verse]\nDo not take advantage of neighbor's need,\nFear the Lord and keep His holy creed.\nThe land is mine and you are tenants here,\nRedeem the property and draw near.\nIf a brother sells himself to you,\nHe is not a slave to do as you.\nTreat him as a hired worker found,\nUntil the Jubilee year is found.\n\n[Chorus]\nOn the tenth day sound the ram's horn loud,\nProclaim liberty throughout the crowd.\nReturn to property and family's door,\nThe fiftieth year opens up once more.\n\n[Verse]\nThey are my servants from Egypt brought,\nNot to be sold as slaves are caught.\nDo not rule over them with harsh command,\nFear the God who gives you all the land.\nHelp the poor to live among the rest,\nDo not charge interest on your chest.\nI am the Lord who brought you out,\nTo give you Canaan as your fruit.\n\n[Chorus]\nOn the tenth day sound the ram's horn loud,\nProclaim liberty throughout the crowd.\nReturn to property and family's door,\nThe fiftieth year opens up once more.\n\n[Bridge]\nThe land will yield its fruit for three,\nEat from the old crop with such glee.\nSecurely live in the land you hold,\nFaithful to the story God has told.\n\n[Outro]\nProclaim liberty throughout the land,\nIn the hands of the Lord's own hand.",
+    "cot": "full",
+    "seed": 31120
+  }
+}

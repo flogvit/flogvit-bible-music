@@ -1,0 +1,74 @@
+{
+  "id": "person-salaf-celtic",
+  "title": "The Line of Shem",
+  "kind": "person",
+  "anchor": {
+    "person": "salaf"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 18,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 35,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "salaf",
+      "sem",
+      "noa",
+      "arpaksjad",
+      "eber"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and narrative, Celtic harp, tin whistle, bodhran, low strings, solemn and reverent mood, 72 BPM",
+    "lyrics": "[Verse]\nWhen Arpachshad had lived thirty-five years\nHe became the father of Shelah\nA son in the quiet of the earth\nCarrying the weight of Shem\n\n[Pre-Chorus]\nWhen Shelah had lived thirty years\nHe became the father of Eber\nA link in the chain of days\nFrom Noah down to the Hebrews\n\n[Chorus]\nShelah, you stand between the stars\nIn the genealogy of faith\nConnecting the flood to the promise\nIn the long and living age\n\n[Verse]\nAfter he became the father of Eber\nShelah lived four hundred and three years\nAnd had other sons and daughters\nIn the shadow of the patriarchs\n\n[Chorus]\nShelah, you stand between the stars\nIn the genealogy of faith\nConnecting the flood to the promise\nIn the long and living age\n\n[Bridge]\nArpachshad fathered Shelah\nAnd Shelah fathered Eber\nNamed in the books of Chronicles\nAnd traced in Luke's holy list\n\n[Outro]\nFrom Adam to the King of Kings\nThe line holds fast through time",
+    "cot": "full",
+    "seed": 31118
+  }
+}

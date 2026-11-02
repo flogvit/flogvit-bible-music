@@ -1,0 +1,946 @@
+{
+ "id": "verse-42-2-12-kveding",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-42-2-12-kveding",
+ "offset_seconds": -1.160000000000231,
+ "words_heard": 95,
+ "words": 100,
+ "lines": [
+  {
+   "text": "Det var noen gjetere ute p\u00e5 marken",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "de voktet flokken sin om natten",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Da sto en engel foran dem",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "og lyset str\u00e5lte rundt dem",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sov n\u00e5, du lille, sov n\u00e5 s\u00e5 stille",
+   "heard": 6,
+   "words": 8,
+   "error_s": 1.28,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "et barn i krybben sv\u00f8pt",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sov n\u00e5, du lille, sov n\u00e5 s\u00e5 stille",
+   "heard": 6,
+   "words": 8,
+   "error_s": 1.18,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "et barn i krybben sv\u00f8pt",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Frykt ikke, sa engelen til dem",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "jeg bringer dere stor glede",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I dag er det f\u00f8dt dere en frelser",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "i Davids by, Kristus, Herren",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sov n\u00e5, du lille, sov n\u00e5 s\u00e5 stille",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "et barn i krybben sv\u00f8pt",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sov n\u00e5, du lille, sov n\u00e5 s\u00e5 stille",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "et barn i krybben sv\u00f8pt",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Det",
+   "time": 16.18,
+   "weight": 0.86,
+   "note_time": 16.27
+  },
+  {
+   "text": "var",
+   "time": 17.58,
+   "weight": 1.0,
+   "note_time": 16.63
+  },
+  {
+   "text": "noen",
+   "time": 18.02,
+   "weight": 0.95,
+   "note_time": 16.99
+  },
+  {
+   "text": "gje",
+   "time": 18.46,
+   "weight": 0.67,
+   "note_time": 17.35
+  },
+  {
+   "text": "te",
+   "time": 18.81,
+   "weight": 0.67,
+   "note_time": 18.07
+  },
+  {
+   "text": "re",
+   "time": 19.16,
+   "weight": 0.67,
+   "note_time": 19.16
+  },
+  {
+   "text": "u",
+   "time": 19.8,
+   "weight": 0.4,
+   "note_time": 19.52
+  },
+  {
+   "text": "te",
+   "time": 20.15,
+   "weight": 0.4,
+   "note_time": 20.24
+  },
+  {
+   "text": "p\u00e5",
+   "time": 21.54,
+   "weight": 1.0,
+   "note_time": 20.96
+  },
+  {
+   "text": "mar",
+   "time": 22.34,
+   "weight": 0.38,
+   "note_time": 21.69
+  },
+  {
+   "text": "ken",
+   "time": 22.69,
+   "weight": 0.38,
+   "note_time": 22.41
+  },
+  {
+   "text": "de",
+   "time": 25.72,
+   "weight": 0.53,
+   "note_time": 25.66
+  },
+  {
+   "text": "vok",
+   "time": 27.12,
+   "weight": 0.79,
+   "note_time": 26.02
+  },
+  {
+   "text": "tet",
+   "time": 27.47,
+   "weight": 0.79,
+   "note_time": 26.75
+  },
+  {
+   "text": "flok",
+   "time": 28.52,
+   "weight": 0.88,
+   "note_time": 28.19
+  },
+  {
+   "text": "ken",
+   "time": 28.87,
+   "weight": 0.88,
+   "note_time": 28.55
+  },
+  {
+   "text": "sin",
+   "time": 29.92,
+   "weight": 0.99,
+   "note_time": 28.92
+  },
+  {
+   "text": "om",
+   "time": 30.34,
+   "weight": 0.98,
+   "note_time": 29.64
+  },
+  {
+   "text": "nat",
+   "time": 31.16,
+   "weight": 0.99,
+   "note_time": 30.36
+  },
+  {
+   "text": "ten",
+   "time": 31.51,
+   "weight": 0.99,
+   "note_time": 31.08
+  },
+  {
+   "text": "Da",
+   "time": 33.1,
+   "weight": 0.2,
+   "note_time": 33.61
+  },
+  {
+   "text": "sto",
+   "time": 34.74,
+   "weight": 0.88,
+   "note_time": 34.34
+  },
+  {
+   "text": "en",
+   "time": 35.3,
+   "weight": 1.0,
+   "note_time": 34.7
+  },
+  {
+   "text": "en",
+   "time": 35.78,
+   "weight": 0.99,
+   "note_time": 35.42
+  },
+  {
+   "text": "gel",
+   "time": 36.13,
+   "weight": 0.99,
+   "note_time": 36.87
+  },
+  {
+   "text": "fo",
+   "time": 37.18,
+   "weight": 0.4,
+   "note_time": 37.05
+  },
+  {
+   "text": "ran",
+   "time": 37.53,
+   "weight": 0.4,
+   "note_time": 37.23
+  },
+  {
+   "text": "dem",
+   "time": 38.72,
+   "weight": 0.51,
+   "note_time": 37.59
+  },
+  {
+   "text": "og",
+   "time": 39.02,
+   "weight": 0.75,
+   "note_time": 38.67
+  },
+  {
+   "text": "ly",
+   "time": 40.02,
+   "weight": 0.98,
+   "note_time": 39.76
+  },
+  {
+   "text": "set",
+   "time": 40.37,
+   "weight": 0.98,
+   "note_time": 41.2
+  },
+  {
+   "text": "str\u00e5l",
+   "time": 41.22,
+   "weight": 0.4,
+   "note_time": 41.57
+  },
+  {
+   "text": "te",
+   "time": 41.57,
+   "weight": 0.4,
+   "note_time": 41.93
+  },
+  {
+   "text": "rundt",
+   "time": 43.38,
+   "weight": 1.0,
+   "note_time": 43.01
+  },
+  {
+   "text": "dem",
+   "time": 44.86,
+   "weight": 0.97,
+   "note_time": 43.73
+  },
+  {
+   "text": "Sov",
+   "time": 46.78,
+   "weight": 0.0,
+   "note_time": 47.35
+  },
+  {
+   "text": "n\u00e5,",
+   "time": 48.7,
+   "weight": 0.97,
+   "note_time": 47.71
+  },
+  {
+   "text": "du",
+   "time": 49.14,
+   "weight": 0.82,
+   "note_time": 48.43
+  },
+  {
+   "text": "lil",
+   "time": 50.08,
+   "weight": 0.97,
+   "note_time": 48.8
+  },
+  {
+   "text": "le,",
+   "time": 50.43,
+   "weight": 0.97,
+   "note_time": 49.16
+  },
+  {
+   "text": "sov",
+   "time": 50.96,
+   "weight": 0.54,
+   "note_time": 49.52
+  },
+  {
+   "text": "n\u00e5",
+   "time": 51.54,
+   "weight": 0.0,
+   "note_time": 49.88
+  },
+  {
+   "text": "s\u00e5",
+   "time": 52.12,
+   "weight": 0.99,
+   "note_time": 50.6
+  },
+  {
+   "text": "stil",
+   "time": 52.3,
+   "weight": 0.94,
+   "note_time": 50.96
+  },
+  {
+   "text": "le",
+   "time": 52.52,
+   "weight": 0.94,
+   "note_time": 51.33
+  },
+  {
+   "text": "et",
+   "time": 52.74,
+   "weight": 0.72,
+   "note_time": 51.69
+  },
+  {
+   "text": "barn",
+   "time": 53.16,
+   "weight": 1.0,
+   "note_time": 52.05
+  },
+  {
+   "text": "i",
+   "time": 53.74,
+   "weight": 0.99,
+   "note_time": 52.77
+  },
+  {
+   "text": "kryb",
+   "time": 54.38,
+   "weight": 0.83,
+   "note_time": 53.49
+  },
+  {
+   "text": "ben",
+   "time": 54.73,
+   "weight": 0.83,
+   "note_time": 53.86
+  },
+  {
+   "text": "sv\u00f8pt",
+   "time": 55.2,
+   "weight": 0.81,
+   "note_time": 54.22
+  },
+  {
+   "text": "Sov",
+   "time": 56.07,
+   "weight": 0.0,
+   "note_time": 56.02
+  },
+  {
+   "text": "n\u00e5,",
+   "time": 56.94,
+   "weight": 1.0,
+   "note_time": 56.39
+  },
+  {
+   "text": "du",
+   "time": 57.78,
+   "weight": 1.0,
+   "note_time": 57.11
+  },
+  {
+   "text": "lil",
+   "time": 58.66,
+   "weight": 1.0,
+   "note_time": 57.47
+  },
+  {
+   "text": "le,",
+   "time": 59.01,
+   "weight": 1.0,
+   "note_time": 57.83
+  },
+  {
+   "text": "sov",
+   "time": 59.54,
+   "weight": 1.0,
+   "note_time": 58.19
+  },
+  {
+   "text": "n\u00e5",
+   "time": 60.13,
+   "weight": 0.0,
+   "note_time": 58.55
+  },
+  {
+   "text": "s\u00e5",
+   "time": 60.72,
+   "weight": 1.0,
+   "note_time": 59.28
+  },
+  {
+   "text": "stil",
+   "time": 60.94,
+   "weight": 1.0,
+   "note_time": 59.64
+  },
+  {
+   "text": "le",
+   "time": 61.16,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "et",
+   "time": 61.38,
+   "weight": 1.0,
+   "note_time": 60.36
+  },
+  {
+   "text": "barn",
+   "time": 61.76,
+   "weight": 1.0,
+   "note_time": 60.72
+  },
+  {
+   "text": "i",
+   "time": 62.3,
+   "weight": 1.0,
+   "note_time": 61.45
+  },
+  {
+   "text": "kryb",
+   "time": 62.86,
+   "weight": 1.0,
+   "note_time": 62.17
+  },
+  {
+   "text": "ben",
+   "time": 63.21,
+   "weight": 1.0,
+   "note_time": 62.35
+  },
+  {
+   "text": "sv\u00f8pt",
+   "time": 63.78,
+   "weight": 1.0,
+   "note_time": 62.89
+  },
+  {
+   "text": "Frykt",
+   "time": 67.68,
+   "weight": 0.89,
+   "note_time": 67.23
+  },
+  {
+   "text": "ik",
+   "time": 68.96,
+   "weight": 0.55,
+   "note_time": 67.95
+  },
+  {
+   "text": "ke,",
+   "time": 69.21,
+   "weight": 0.55,
+   "note_time": 68.31
+  },
+  {
+   "text": "sa",
+   "time": 69.64,
+   "weight": 1.0,
+   "note_time": 69.04
+  },
+  {
+   "text": "en",
+   "time": 70.34,
+   "weight": 0.99,
+   "note_time": 69.4
+  },
+  {
+   "text": "ge",
+   "time": 70.69,
+   "weight": 0.99,
+   "note_time": 69.76
+  },
+  {
+   "text": "len",
+   "time": 71.04,
+   "weight": 0.99,
+   "note_time": 70.12
+  },
+  {
+   "text": "til",
+   "time": 71.44,
+   "weight": 1.0,
+   "note_time": 70.84
+  },
+  {
+   "text": "dem",
+   "time": 72.14,
+   "weight": 0.58,
+   "note_time": 71.57
+  },
+  {
+   "text": "jeg",
+   "time": 75.5,
+   "weight": 0.8,
+   "note_time": 75.54
+  },
+  {
+   "text": "brin",
+   "time": 76.9,
+   "weight": 0.99,
+   "note_time": 76.63
+  },
+  {
+   "text": "ger",
+   "time": 77.25,
+   "weight": 0.99,
+   "note_time": 78.07
+  },
+  {
+   "text": "de",
+   "time": 78.3,
+   "weight": 0.96,
+   "note_time": 78.43
+  },
+  {
+   "text": "re",
+   "time": 78.65,
+   "weight": 0.96,
+   "note_time": 78.8
+  },
+  {
+   "text": "stor",
+   "time": 79.54,
+   "weight": 0.99,
+   "note_time": 79.52
+  },
+  {
+   "text": "gle",
+   "time": 80.86,
+   "weight": 0.38,
+   "note_time": 80.24
+  },
+  {
+   "text": "de",
+   "time": 81.21,
+   "weight": 0.38,
+   "note_time": 80.96
+  },
+  {
+   "text": "I",
+   "time": 83.96,
+   "weight": 0.41,
+   "note_time": 84.22
+  },
+  {
+   "text": "dag",
+   "time": 85.36,
+   "weight": 1.0,
+   "note_time": 84.58
+  },
+  {
+   "text": "er",
+   "time": 85.94,
+   "weight": 1.0,
+   "note_time": 85.3
+  },
+  {
+   "text": "det",
+   "time": 86.72,
+   "weight": 1.0,
+   "note_time": 86.39
+  },
+  {
+   "text": "f\u00f8dt",
+   "time": 87.72,
+   "weight": 0.99,
+   "note_time": 86.75
+  },
+  {
+   "text": "de",
+   "time": 88.16,
+   "weight": 0.99,
+   "note_time": 87.11
+  },
+  {
+   "text": "re",
+   "time": 88.42,
+   "weight": 0.99,
+   "note_time": 87.47
+  },
+  {
+   "text": "en",
+   "time": 88.68,
+   "weight": 0.99,
+   "note_time": 88.19
+  },
+  {
+   "text": "frel",
+   "time": 89.58,
+   "weight": 0.37,
+   "note_time": 88.92
+  },
+  {
+   "text": "ser",
+   "time": 89.93,
+   "weight": 0.37,
+   "note_time": 89.64
+  },
+  {
+   "text": "i",
+   "time": 93.16,
+   "weight": 1.0,
+   "note_time": 92.89
+  },
+  {
+   "text": "Da",
+   "time": 94.56,
+   "weight": 0.93,
+   "note_time": 93.25
+  },
+  {
+   "text": "vids",
+   "time": 94.91,
+   "weight": 0.93,
+   "note_time": 93.98
+  },
+  {
+   "text": "by,",
+   "time": 95.96,
+   "weight": 0.99,
+   "note_time": 95.42
+  },
+  {
+   "text": "Kris",
+   "time": 96.68,
+   "weight": 0.37,
+   "note_time": 96.14
+  },
+  {
+   "text": "tus,",
+   "time": 97.03,
+   "weight": 0.37,
+   "note_time": 96.87
+  },
+  {
+   "text": "Her",
+   "time": 98.5,
+   "weight": 0.98,
+   "note_time": 97.59
+  },
+  {
+   "text": "ren",
+   "time": 98.76,
+   "weight": 0.98,
+   "note_time": 97.95
+  },
+  {
+   "text": "Sov",
+   "time": 101.92,
+   "weight": 0.78,
+   "note_time": 101.57
+  },
+  {
+   "text": "n\u00e5,",
+   "time": 103.0,
+   "weight": 1.0,
+   "note_time": 103.01
+  },
+  {
+   "text": "du",
+   "time": 103.38,
+   "weight": 1.0,
+   "note_time": 103.37
+  },
+  {
+   "text": "lil",
+   "time": 103.92,
+   "weight": 0.98,
+   "note_time": 103.73
+  },
+  {
+   "text": "le,",
+   "time": 104.27,
+   "weight": 0.98,
+   "note_time": 104.1
+  },
+  {
+   "text": "sov",
+   "time": 105.02,
+   "weight": 0.82,
+   "note_time": 104.82
+  },
+  {
+   "text": "n\u00e5",
+   "time": 105.74,
+   "weight": 0.98,
+   "note_time": 105.18
+  },
+  {
+   "text": "s\u00e5",
+   "time": 106.08,
+   "weight": 0.79,
+   "note_time": 105.54
+  },
+  {
+   "text": "stil",
+   "time": 106.38,
+   "weight": 0.94,
+   "note_time": 105.9
+  },
+  {
+   "text": "le",
+   "time": 106.6,
+   "weight": 0.94,
+   "note_time": 106.27
+  },
+  {
+   "text": "et",
+   "time": 106.82,
+   "weight": 0.68,
+   "note_time": 106.99
+  },
+  {
+   "text": "barn",
+   "time": 107.22,
+   "weight": 1.0,
+   "note_time": 107.71
+  },
+  {
+   "text": "i",
+   "time": 107.8,
+   "weight": 0.99,
+   "note_time": 107.89
+  },
+  {
+   "text": "kryb",
+   "time": 108.46,
+   "weight": 0.91,
+   "note_time": 108.43
+  },
+  {
+   "text": "ben",
+   "time": 108.81,
+   "weight": 0.91,
+   "note_time": 110.24
+  },
+  {
+   "text": "sv\u00f8pt",
+   "time": 109.24,
+   "weight": 0.67,
+   "note_time": 110.6
+  },
+  {
+   "text": "Sov",
+   "time": 109.92,
+   "weight": 0.23,
+   "note_time": 111.33
+  },
+  {
+   "text": "n\u00e5,",
+   "time": 111.64,
+   "weight": 1.0,
+   "note_time": 111.69
+  },
+  {
+   "text": "du",
+   "time": 112.08,
+   "weight": 1.0,
+   "note_time": 112.05
+  },
+  {
+   "text": "lil",
+   "time": 112.62,
+   "weight": 1.0,
+   "note_time": 112.41
+  },
+  {
+   "text": "le,",
+   "time": 112.97,
+   "weight": 1.0,
+   "note_time": 112.77
+  },
+  {
+   "text": "sov",
+   "time": 113.6,
+   "weight": 1.0,
+   "note_time": 113.49
+  },
+  {
+   "text": "n\u00e5",
+   "time": 114.3,
+   "weight": 1.0,
+   "note_time": 113.86
+  },
+  {
+   "text": "s\u00e5",
+   "time": 114.74,
+   "weight": 1.0,
+   "note_time": 114.22
+  },
+  {
+   "text": "stil",
+   "time": 115.02,
+   "weight": 1.0,
+   "note_time": 114.58
+  },
+  {
+   "text": "le",
+   "time": 115.24,
+   "weight": 1.0,
+   "note_time": 114.94
+  },
+  {
+   "text": "et",
+   "time": 115.46,
+   "weight": 1.0,
+   "note_time": 115.66
+  },
+  {
+   "text": "barn",
+   "time": 115.82,
+   "weight": 1.0,
+   "note_time": 116.39
+  },
+  {
+   "text": "i",
+   "time": 116.44,
+   "weight": 1.0,
+   "note_time": 116.57
+  },
+  {
+   "text": "kryb",
+   "time": 116.9,
+   "weight": 1.0,
+   "note_time": 117.11
+  },
+  {
+   "text": "ben",
+   "time": 117.25,
+   "weight": 1.0,
+   "note_time": 138.8
+  },
+  {
+   "text": "sv\u00f8pt",
+   "time": 117.65,
+   "weight": 0.0,
+   "note_time": 139.52
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "14 of 16 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

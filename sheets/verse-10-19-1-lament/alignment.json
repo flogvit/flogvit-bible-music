@@ -1,0 +1,1152 @@
+{
+ "id": "verse-10-19-1-lament",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-10-19-1-lament",
+ "offset_seconds": -3.280000000000186,
+ "words_heard": 128,
+ "words": 131,
+ "lines": [
+  {
+   "text": "Good news for my lord the king",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.08,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord has delivered you today",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is it well with the young man Absalom",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.22,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "May all your enemies be like that young man",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.24,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "O my son Absalom",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My son, my son Absalom",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.3,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Would I had died instead of you",
+   "heard": 6,
+   "words": 7,
+   "error_s": 1.14,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "O Absalom, my son, my son",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The king was deeply moved",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He went up to the chamber over the gate and wept",
+   "heard": 11,
+   "words": 11,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And as he went, he said",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.08,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "O my son",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The victory that day was turned to mourning",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The people stole into the city",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "As people steal in who are ashamed",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The king covered his face and cried with a loud voice",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "O my son Absalom",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My son, my son Absalom",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Would I had died instead of you",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "O Absalom, my son, my son",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Good",
+   "time": 25.68,
+   "weight": 0.79,
+   "note_time": 25.24
+  },
+  {
+   "text": "news",
+   "time": 26.56,
+   "weight": 0.94,
+   "note_time": 25.71
+  },
+  {
+   "text": "for",
+   "time": 27.18,
+   "weight": 0.31,
+   "note_time": 26.19
+  },
+  {
+   "text": "my",
+   "time": 27.58,
+   "weight": 0.98,
+   "note_time": 26.43
+  },
+  {
+   "text": "lord",
+   "time": 27.82,
+   "weight": 0.58,
+   "note_time": 26.67
+  },
+  {
+   "text": "the",
+   "time": 28.16,
+   "weight": 0.73,
+   "note_time": 27.14
+  },
+  {
+   "text": "king",
+   "time": 28.54,
+   "weight": 0.88,
+   "note_time": 27.38
+  },
+  {
+   "text": "The",
+   "time": 28.86,
+   "weight": 0.51,
+   "note_time": 28.33
+  },
+  {
+   "text": "Lord",
+   "time": 29.68,
+   "weight": 0.41,
+   "note_time": 28.57
+  },
+  {
+   "text": "has",
+   "time": 30.14,
+   "weight": 0.99,
+   "note_time": 29.05
+  },
+  {
+   "text": "de",
+   "time": 30.54,
+   "weight": 0.99,
+   "note_time": 29.29
+  },
+  {
+   "text": "liv",
+   "time": 30.69,
+   "weight": 0.99,
+   "note_time": 29.52
+  },
+  {
+   "text": "ered",
+   "time": 30.83,
+   "weight": 0.99,
+   "note_time": 29.76
+  },
+  {
+   "text": "you",
+   "time": 30.98,
+   "weight": 1.0,
+   "note_time": 30.24
+  },
+  {
+   "text": "to",
+   "time": 31.72,
+   "weight": 0.99,
+   "note_time": 30.95
+  },
+  {
+   "text": "day",
+   "time": 32.07,
+   "weight": 0.99,
+   "note_time": 31.19
+  },
+  {
+   "text": "Is",
+   "time": 33.28,
+   "weight": 0.73,
+   "note_time": 32.86
+  },
+  {
+   "text": "it",
+   "time": 34.38,
+   "weight": 0.99,
+   "note_time": 33.1
+  },
+  {
+   "text": "well",
+   "time": 34.62,
+   "weight": 0.99,
+   "note_time": 33.33
+  },
+  {
+   "text": "with",
+   "time": 34.84,
+   "weight": 0.99,
+   "note_time": 33.81
+  },
+  {
+   "text": "the",
+   "time": 35.42,
+   "weight": 0.84,
+   "note_time": 34.05
+  },
+  {
+   "text": "young",
+   "time": 35.46,
+   "weight": 1.0,
+   "note_time": 34.29
+  },
+  {
+   "text": "man",
+   "time": 35.78,
+   "weight": 0.98,
+   "note_time": 34.52
+  },
+  {
+   "text": "Ab",
+   "time": 36.42,
+   "weight": 0.99,
+   "note_time": 35.0
+  },
+  {
+   "text": "sa",
+   "time": 36.75,
+   "weight": 0.99,
+   "note_time": 35.71
+  },
+  {
+   "text": "lom",
+   "time": 37.09,
+   "weight": 0.99,
+   "note_time": 35.95
+  },
+  {
+   "text": "May",
+   "time": 37.42,
+   "weight": 0.06,
+   "note_time": 39.29
+  },
+  {
+   "text": "all",
+   "time": 40.52,
+   "weight": 0.99,
+   "note_time": 39.52
+  },
+  {
+   "text": "your",
+   "time": 41.06,
+   "weight": 0.98,
+   "note_time": 39.76
+  },
+  {
+   "text": "en",
+   "time": 41.34,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "e",
+   "time": 41.53,
+   "weight": 1.0,
+   "note_time": 40.24
+  },
+  {
+   "text": "mies",
+   "time": 41.73,
+   "weight": 1.0,
+   "note_time": 40.48
+  },
+  {
+   "text": "be",
+   "time": 41.92,
+   "weight": 0.29,
+   "note_time": 42.62
+  },
+  {
+   "text": "like",
+   "time": 44.1,
+   "weight": 1.0,
+   "note_time": 42.86
+  },
+  {
+   "text": "that",
+   "time": 44.46,
+   "weight": 0.98,
+   "note_time": 43.33
+  },
+  {
+   "text": "young",
+   "time": 44.84,
+   "weight": 1.0,
+   "note_time": 43.81
+  },
+  {
+   "text": "man",
+   "time": 45.34,
+   "weight": 0.99,
+   "note_time": 44.52
+  },
+  {
+   "text": "O",
+   "time": 47.96,
+   "weight": 0.72,
+   "note_time": 46.9
+  },
+  {
+   "text": "my",
+   "time": 48.46,
+   "weight": 0.61,
+   "note_time": 47.14
+  },
+  {
+   "text": "son",
+   "time": 48.64,
+   "weight": 0.99,
+   "note_time": 47.62
+  },
+  {
+   "text": "Ab",
+   "time": 49.64,
+   "weight": 1.0,
+   "note_time": 48.57
+  },
+  {
+   "text": "sa",
+   "time": 49.99,
+   "weight": 1.0,
+   "note_time": 49.05
+  },
+  {
+   "text": "lom",
+   "time": 50.34,
+   "weight": 1.0,
+   "note_time": 49.29
+  },
+  {
+   "text": "My",
+   "time": 50.78,
+   "weight": 0.29,
+   "note_time": 50.95
+  },
+  {
+   "text": "son,",
+   "time": 52.46,
+   "weight": 1.0,
+   "note_time": 51.43
+  },
+  {
+   "text": "my",
+   "time": 53.18,
+   "weight": 0.98,
+   "note_time": 51.9
+  },
+  {
+   "text": "son",
+   "time": 53.4,
+   "weight": 1.0,
+   "note_time": 52.38
+  },
+  {
+   "text": "Ab",
+   "time": 54.04,
+   "weight": 1.0,
+   "note_time": 52.62
+  },
+  {
+   "text": "sa",
+   "time": 54.23,
+   "weight": 1.0,
+   "note_time": 52.86
+  },
+  {
+   "text": "lom",
+   "time": 54.43,
+   "weight": 1.0,
+   "note_time": 53.1
+  },
+  {
+   "text": "Would",
+   "time": 56.14,
+   "weight": 0.73,
+   "note_time": 55.48
+  },
+  {
+   "text": "I",
+   "time": 56.94,
+   "weight": 0.99,
+   "note_time": 55.71
+  },
+  {
+   "text": "had",
+   "time": 57.21,
+   "weight": 0.0,
+   "note_time": 55.95
+  },
+  {
+   "text": "died",
+   "time": 57.48,
+   "weight": 1.0,
+   "note_time": 56.19
+  },
+  {
+   "text": "in",
+   "time": 57.86,
+   "weight": 0.99,
+   "note_time": 56.67
+  },
+  {
+   "text": "stead",
+   "time": 58.17,
+   "weight": 0.99,
+   "note_time": 57.14
+  },
+  {
+   "text": "of",
+   "time": 58.48,
+   "weight": 1.0,
+   "note_time": 57.38
+  },
+  {
+   "text": "you",
+   "time": 59.0,
+   "weight": 0.97,
+   "note_time": 57.86
+  },
+  {
+   "text": "O",
+   "time": 59.62,
+   "weight": 0.55,
+   "note_time": 59.52
+  },
+  {
+   "text": "Ab",
+   "time": 61.22,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "sa",
+   "time": 61.53,
+   "weight": 0.99,
+   "note_time": 60.48
+  },
+  {
+   "text": "lom,",
+   "time": 61.85,
+   "weight": 0.99,
+   "note_time": 60.71
+  },
+  {
+   "text": "my",
+   "time": 62.38,
+   "weight": 0.97,
+   "note_time": 61.43
+  },
+  {
+   "text": "son,",
+   "time": 62.98,
+   "weight": 0.98,
+   "note_time": 61.9
+  },
+  {
+   "text": "my",
+   "time": 63.68,
+   "weight": 1.0,
+   "note_time": 62.38
+  },
+  {
+   "text": "son",
+   "time": 64.08,
+   "weight": 1.0,
+   "note_time": 62.86
+  },
+  {
+   "text": "The",
+   "time": 78.76,
+   "weight": 0.56,
+   "note_time": 78.81
+  },
+  {
+   "text": "king",
+   "time": 79.64,
+   "weight": 0.55,
+   "note_time": 79.05
+  },
+  {
+   "text": "was",
+   "time": 80.52,
+   "weight": 0.99,
+   "note_time": 79.52
+  },
+  {
+   "text": "deep",
+   "time": 81.04,
+   "weight": 1.0,
+   "note_time": 80.0
+  },
+  {
+   "text": "ly",
+   "time": 81.29,
+   "weight": 1.0,
+   "note_time": 80.24
+  },
+  {
+   "text": "moved",
+   "time": 81.54,
+   "weight": 0.99,
+   "note_time": 80.71
+  },
+  {
+   "text": "He",
+   "time": 82.26,
+   "weight": 0.15,
+   "note_time": 81.19
+  },
+  {
+   "text": "went",
+   "time": 82.68,
+   "weight": 1.0,
+   "note_time": 81.43
+  },
+  {
+   "text": "up",
+   "time": 82.98,
+   "weight": 0.99,
+   "note_time": 81.9
+  },
+  {
+   "text": "to",
+   "time": 83.5,
+   "weight": 0.99,
+   "note_time": 82.38
+  },
+  {
+   "text": "the",
+   "time": 83.86,
+   "weight": 1.0,
+   "note_time": 82.62
+  },
+  {
+   "text": "cham",
+   "time": 83.98,
+   "weight": 0.99,
+   "note_time": 82.86
+  },
+  {
+   "text": "ber",
+   "time": 84.28,
+   "weight": 0.99,
+   "note_time": 83.33
+  },
+  {
+   "text": "o",
+   "time": 84.58,
+   "weight": 0.75,
+   "note_time": 83.81
+  },
+  {
+   "text": "ver",
+   "time": 84.93,
+   "weight": 0.75,
+   "note_time": 84.05
+  },
+  {
+   "text": "the",
+   "time": 85.36,
+   "weight": 1.0,
+   "note_time": 84.29
+  },
+  {
+   "text": "gate",
+   "time": 85.68,
+   "weight": 0.98,
+   "note_time": 84.52
+  },
+  {
+   "text": "and",
+   "time": 86.08,
+   "weight": 0.89,
+   "note_time": 85.24
+  },
+  {
+   "text": "wept",
+   "time": 86.72,
+   "weight": 0.99,
+   "note_time": 85.48
+  },
+  {
+   "text": "And",
+   "time": 89.38,
+   "weight": 0.73,
+   "note_time": 88.81
+  },
+  {
+   "text": "as",
+   "time": 90.26,
+   "weight": 0.99,
+   "note_time": 89.05
+  },
+  {
+   "text": "he",
+   "time": 90.54,
+   "weight": 0.99,
+   "note_time": 89.29
+  },
+  {
+   "text": "went,",
+   "time": 90.68,
+   "weight": 1.0,
+   "note_time": 89.52
+  },
+  {
+   "text": "he",
+   "time": 91.28,
+   "weight": 0.98,
+   "note_time": 90.95
+  },
+  {
+   "text": "said",
+   "time": 92.2,
+   "weight": 1.0,
+   "note_time": 91.19
+  },
+  {
+   "text": "O",
+   "time": 92.64,
+   "weight": 0.28,
+   "note_time": 92.38
+  },
+  {
+   "text": "my",
+   "time": 93.86,
+   "weight": 0.96,
+   "note_time": 92.86
+  },
+  {
+   "text": "son",
+   "time": 94.14,
+   "weight": 0.96,
+   "note_time": 93.33
+  },
+  {
+   "text": "The",
+   "time": 101.16,
+   "weight": 0.45,
+   "note_time": 101.67
+  },
+  {
+   "text": "vic",
+   "time": 102.24,
+   "weight": 0.9,
+   "note_time": 102.14
+  },
+  {
+   "text": "tory",
+   "time": 102.59,
+   "weight": 0.9,
+   "note_time": 102.38
+  },
+  {
+   "text": "that",
+   "time": 103.32,
+   "weight": 0.97,
+   "note_time": 102.62
+  },
+  {
+   "text": "day",
+   "time": 103.84,
+   "weight": 0.99,
+   "note_time": 102.86
+  },
+  {
+   "text": "was",
+   "time": 104.2,
+   "weight": 0.97,
+   "note_time": 103.33
+  },
+  {
+   "text": "turned",
+   "time": 104.66,
+   "weight": 0.97,
+   "note_time": 103.81
+  },
+  {
+   "text": "to",
+   "time": 105.1,
+   "weight": 0.97,
+   "note_time": 104.29
+  },
+  {
+   "text": "mourn",
+   "time": 105.54,
+   "weight": 0.52,
+   "note_time": 104.52
+  },
+  {
+   "text": "ing",
+   "time": 105.79,
+   "weight": 0.52,
+   "note_time": 105.0
+  },
+  {
+   "text": "The",
+   "time": 109.4,
+   "weight": 0.95,
+   "note_time": 109.29
+  },
+  {
+   "text": "peo",
+   "time": 110.48,
+   "weight": 1.0,
+   "note_time": 109.52
+  },
+  {
+   "text": "ple",
+   "time": 110.67,
+   "weight": 1.0,
+   "note_time": 109.76
+  },
+  {
+   "text": "stole",
+   "time": 110.86,
+   "weight": 0.93,
+   "note_time": 110.24
+  },
+  {
+   "text": "in",
+   "time": 111.4,
+   "weight": 0.99,
+   "note_time": 110.95
+  },
+  {
+   "text": "to",
+   "time": 111.75,
+   "weight": 0.99,
+   "note_time": 111.43
+  },
+  {
+   "text": "the",
+   "time": 112.28,
+   "weight": 1.0,
+   "note_time": 111.9
+  },
+  {
+   "text": "c",
+   "time": 112.88,
+   "weight": 1.0,
+   "note_time": 112.14
+  },
+  {
+   "text": "ity",
+   "time": 113.18,
+   "weight": 1.0,
+   "note_time": 112.38
+  },
+  {
+   "text": "As",
+   "time": 116.88,
+   "weight": 0.89,
+   "note_time": 116.9
+  },
+  {
+   "text": "peo",
+   "time": 117.96,
+   "weight": 1.0,
+   "note_time": 117.14
+  },
+  {
+   "text": "ple",
+   "time": 118.13,
+   "weight": 1.0,
+   "note_time": 117.38
+  },
+  {
+   "text": "steal",
+   "time": 118.3,
+   "weight": 0.86,
+   "note_time": 117.86
+  },
+  {
+   "text": "in",
+   "time": 118.87,
+   "weight": 0.0,
+   "note_time": 118.33
+  },
+  {
+   "text": "who",
+   "time": 119.44,
+   "weight": 0.99,
+   "note_time": 118.57
+  },
+  {
+   "text": "are",
+   "time": 119.64,
+   "weight": 1.0,
+   "note_time": 119.05
+  },
+  {
+   "text": "as",
+   "time": 120.12,
+   "weight": 0.99,
+   "note_time": 119.52
+  },
+  {
+   "text": "hamed",
+   "time": 120.4,
+   "weight": 0.99,
+   "note_time": 119.76
+  },
+  {
+   "text": "The",
+   "time": 123.1,
+   "weight": 0.75,
+   "note_time": 123.1
+  },
+  {
+   "text": "king",
+   "time": 123.98,
+   "weight": 0.82,
+   "note_time": 123.33
+  },
+  {
+   "text": "cov",
+   "time": 124.3,
+   "weight": 0.99,
+   "note_time": 123.81
+  },
+  {
+   "text": "ered",
+   "time": 124.58,
+   "weight": 0.99,
+   "note_time": 124.05
+  },
+  {
+   "text": "his",
+   "time": 124.86,
+   "weight": 0.96,
+   "note_time": 124.29
+  },
+  {
+   "text": "face",
+   "time": 125.24,
+   "weight": 1.0,
+   "note_time": 124.52
+  },
+  {
+   "text": "and",
+   "time": 125.72,
+   "weight": 0.53,
+   "note_time": 126.43
+  },
+  {
+   "text": "cried",
+   "time": 126.62,
+   "weight": 1.0,
+   "note_time": 126.67
+  },
+  {
+   "text": "with",
+   "time": 127.64,
+   "weight": 0.99,
+   "note_time": 127.14
+  },
+  {
+   "text": "a",
+   "time": 128.04,
+   "weight": 1.0,
+   "note_time": 127.38
+  },
+  {
+   "text": "loud",
+   "time": 128.22,
+   "weight": 1.0,
+   "note_time": 127.62
+  },
+  {
+   "text": "voice",
+   "time": 128.64,
+   "weight": 1.0,
+   "note_time": 128.33
+  },
+  {
+   "text": "O",
+   "time": 130.7,
+   "weight": 0.22,
+   "note_time": 130.71
+  },
+  {
+   "text": "my",
+   "time": 131.62,
+   "weight": 0.98,
+   "note_time": 130.95
+  },
+  {
+   "text": "son",
+   "time": 131.76,
+   "weight": 0.99,
+   "note_time": 131.43
+  },
+  {
+   "text": "Ab",
+   "time": 132.68,
+   "weight": 0.99,
+   "note_time": 132.38
+  },
+  {
+   "text": "sa",
+   "time": 133.03,
+   "weight": 0.99,
+   "note_time": 132.86
+  },
+  {
+   "text": "lom",
+   "time": 133.38,
+   "weight": 0.99,
+   "note_time": 133.1
+  },
+  {
+   "text": "My",
+   "time": 133.82,
+   "weight": 0.67,
+   "note_time": 134.76
+  },
+  {
+   "text": "son,",
+   "time": 135.02,
+   "weight": 0.99,
+   "note_time": 135.24
+  },
+  {
+   "text": "my",
+   "time": 136.2,
+   "weight": 0.98,
+   "note_time": 135.71
+  },
+  {
+   "text": "son",
+   "time": 136.52,
+   "weight": 1.0,
+   "note_time": 136.19
+  },
+  {
+   "text": "Ab",
+   "time": 137.02,
+   "weight": 1.0,
+   "note_time": 136.43
+  },
+  {
+   "text": "sa",
+   "time": 137.24,
+   "weight": 1.0,
+   "note_time": 136.67
+  },
+  {
+   "text": "lom",
+   "time": 137.46,
+   "weight": 1.0,
+   "note_time": 136.9
+  },
+  {
+   "text": "Would",
+   "time": 139.1,
+   "weight": 0.96,
+   "note_time": 139.29
+  },
+  {
+   "text": "I",
+   "time": 139.98,
+   "weight": 0.99,
+   "note_time": 139.52
+  },
+  {
+   "text": "had",
+   "time": 140.19,
+   "weight": 0.0,
+   "note_time": 139.76
+  },
+  {
+   "text": "died",
+   "time": 140.4,
+   "weight": 1.0,
+   "note_time": 140.0
+  },
+  {
+   "text": "in",
+   "time": 140.78,
+   "weight": 0.99,
+   "note_time": 140.48
+  },
+  {
+   "text": "stead",
+   "time": 141.1,
+   "weight": 0.99,
+   "note_time": 140.95
+  },
+  {
+   "text": "of",
+   "time": 141.42,
+   "weight": 1.0,
+   "note_time": 141.19
+  },
+  {
+   "text": "you",
+   "time": 141.92,
+   "weight": 0.99,
+   "note_time": 141.67
+  },
+  {
+   "text": "O",
+   "time": 143.2,
+   "weight": 0.99,
+   "note_time": 143.33
+  },
+  {
+   "text": "Ab",
+   "time": 144.1,
+   "weight": 1.0,
+   "note_time": 143.81
+  },
+  {
+   "text": "sa",
+   "time": 144.41,
+   "weight": 1.0,
+   "note_time": 144.29
+  },
+  {
+   "text": "lom,",
+   "time": 144.73,
+   "weight": 1.0,
+   "note_time": 144.52
+  },
+  {
+   "text": "my",
+   "time": 145.26,
+   "weight": 0.98,
+   "note_time": 145.24
+  },
+  {
+   "text": "son,",
+   "time": 145.78,
+   "weight": 1.0,
+   "note_time": 145.71
+  },
+  {
+   "text": "my",
+   "time": 146.44,
+   "weight": 1.0,
+   "note_time": 146.19
+  },
+  {
+   "text": "son",
+   "time": 146.72,
+   "weight": 1.0,
+   "note_time": 146.67
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "11 of 20 lyric lines sit clearly on their notes; 9 are uncertain and printed in grey italics."
+}

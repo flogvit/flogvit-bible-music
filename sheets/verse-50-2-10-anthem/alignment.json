@@ -1,0 +1,898 @@
+{
+ "id": "verse-50-2-10-anthem",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-50-2-10-anthem",
+ "offset_seconds": -7.740000000000091,
+ "words_heard": 98,
+ "words": 98,
+ "lines": [
+  {
+   "text": "Though he was in the form of God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 7.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He did not count equality with God a thing to be grasped",
+   "heard": 12,
+   "words": 12,
+   "error_s": 7.28,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He emptied himself, taking the form of a servant",
+   "heard": 9,
+   "words": 9,
+   "error_s": 7.3,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Being born in the likeness of men",
+   "heard": 7,
+   "words": 7,
+   "error_s": 7.23,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And being found in human form",
+   "heard": 6,
+   "words": 6,
+   "error_s": 7.23,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "He humbled himself",
+   "heard": 3,
+   "words": 3,
+   "error_s": 7.21,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "By becoming obedient to the point of death",
+   "heard": 8,
+   "words": 8,
+   "error_s": 7.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Even death on a cross",
+   "heard": 5,
+   "words": 5,
+   "error_s": 8.22,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Therefore God has highly exalted him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 8.36,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And given him the name above every name",
+   "heard": 8,
+   "words": 8,
+   "error_s": 8.46,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "That at the name of Jesus every knee shall bow",
+   "heard": 10,
+   "words": 10,
+   "error_s": 10.36,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And every tongue confess that Jesus Christ is Lord",
+   "heard": 9,
+   "words": 9,
+   "error_s": 11.6,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "To the glory of God the Father",
+   "heard": 7,
+   "words": 7,
+   "error_s": 17.46,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Though",
+   "time": 25.82,
+   "weight": 0.15,
+   "note_time": 19.17
+  },
+  {
+   "text": "he",
+   "time": 26.78,
+   "weight": 0.92,
+   "note_time": 20.0
+  },
+  {
+   "text": "was",
+   "time": 27.74,
+   "weight": 0.99,
+   "note_time": 21.46
+  },
+  {
+   "text": "in",
+   "time": 29.18,
+   "weight": 1.0,
+   "note_time": 21.67
+  },
+  {
+   "text": "the",
+   "time": 29.5,
+   "weight": 1.0,
+   "note_time": 22.08
+  },
+  {
+   "text": "form",
+   "time": 29.74,
+   "weight": 0.99,
+   "note_time": 22.29
+  },
+  {
+   "text": "of",
+   "time": 30.2,
+   "weight": 1.0,
+   "note_time": 22.92
+  },
+  {
+   "text": "God",
+   "time": 30.82,
+   "weight": 0.99,
+   "note_time": 23.33
+  },
+  {
+   "text": "He",
+   "time": 32.24,
+   "weight": 0.19,
+   "note_time": 25.62
+  },
+  {
+   "text": "did",
+   "time": 33.2,
+   "weight": 1.0,
+   "note_time": 25.83
+  },
+  {
+   "text": "not",
+   "time": 33.56,
+   "weight": 1.0,
+   "note_time": 26.25
+  },
+  {
+   "text": "count",
+   "time": 34.04,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "e",
+   "time": 34.48,
+   "weight": 0.99,
+   "note_time": 27.29
+  },
+  {
+   "text": "qual",
+   "time": 34.78,
+   "weight": 0.99,
+   "note_time": 27.5
+  },
+  {
+   "text": "i",
+   "time": 35.07,
+   "weight": 0.99,
+   "note_time": 27.92
+  },
+  {
+   "text": "ty",
+   "time": 35.37,
+   "weight": 0.99,
+   "note_time": 28.12
+  },
+  {
+   "text": "with",
+   "time": 35.66,
+   "weight": 0.99,
+   "note_time": 28.75
+  },
+  {
+   "text": "God",
+   "time": 36.58,
+   "weight": 0.99,
+   "note_time": 28.96
+  },
+  {
+   "text": "a",
+   "time": 36.98,
+   "weight": 0.15,
+   "note_time": 29.58
+  },
+  {
+   "text": "thing",
+   "time": 37.04,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "to",
+   "time": 37.82,
+   "weight": 1.0,
+   "note_time": 30.83
+  },
+  {
+   "text": "be",
+   "time": 38.58,
+   "weight": 1.0,
+   "note_time": 31.25
+  },
+  {
+   "text": "grasped",
+   "time": 38.92,
+   "weight": 1.0,
+   "note_time": 31.46
+  },
+  {
+   "text": "He",
+   "time": 40.0,
+   "weight": 0.97,
+   "note_time": 33.12
+  },
+  {
+   "text": "emp",
+   "time": 40.8,
+   "weight": 1.0,
+   "note_time": 33.33
+  },
+  {
+   "text": "tied",
+   "time": 41.15,
+   "weight": 1.0,
+   "note_time": 34.17
+  },
+  {
+   "text": "him",
+   "time": 41.92,
+   "weight": 0.57,
+   "note_time": 34.58
+  },
+  {
+   "text": "self,",
+   "time": 42.13,
+   "weight": 0.57,
+   "note_time": 34.79
+  },
+  {
+   "text": "tak",
+   "time": 43.0,
+   "weight": 0.98,
+   "note_time": 35.83
+  },
+  {
+   "text": "ing",
+   "time": 43.33,
+   "weight": 0.98,
+   "note_time": 36.25
+  },
+  {
+   "text": "the",
+   "time": 43.66,
+   "weight": 1.0,
+   "note_time": 36.46
+  },
+  {
+   "text": "form",
+   "time": 44.06,
+   "weight": 1.0,
+   "note_time": 36.67
+  },
+  {
+   "text": "of",
+   "time": 44.6,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "a",
+   "time": 45.42,
+   "weight": 1.0,
+   "note_time": 38.12
+  },
+  {
+   "text": "ser",
+   "time": 45.78,
+   "weight": 0.99,
+   "note_time": 38.33
+  },
+  {
+   "text": "vant",
+   "time": 46.13,
+   "weight": 0.99,
+   "note_time": 38.75
+  },
+  {
+   "text": "Be",
+   "time": 47.02,
+   "weight": 0.98,
+   "note_time": 40.0
+  },
+  {
+   "text": "ing",
+   "time": 47.37,
+   "weight": 0.98,
+   "note_time": 40.42
+  },
+  {
+   "text": "born",
+   "time": 47.78,
+   "weight": 1.0,
+   "note_time": 40.62
+  },
+  {
+   "text": "in",
+   "time": 48.52,
+   "weight": 1.0,
+   "note_time": 41.25
+  },
+  {
+   "text": "the",
+   "time": 49.04,
+   "weight": 1.0,
+   "note_time": 41.46
+  },
+  {
+   "text": "like",
+   "time": 49.14,
+   "weight": 1.0,
+   "note_time": 41.67
+  },
+  {
+   "text": "ness",
+   "time": 49.49,
+   "weight": 1.0,
+   "note_time": 42.29
+  },
+  {
+   "text": "of",
+   "time": 50.14,
+   "weight": 0.15,
+   "note_time": 42.92
+  },
+  {
+   "text": "men",
+   "time": 50.72,
+   "weight": 0.62,
+   "note_time": 43.33
+  },
+  {
+   "text": "And",
+   "time": 54.34,
+   "weight": 0.95,
+   "note_time": 45.0
+  },
+  {
+   "text": "be",
+   "time": 55.56,
+   "weight": 0.99,
+   "note_time": 48.33
+  },
+  {
+   "text": "ing",
+   "time": 55.87,
+   "weight": 0.99,
+   "note_time": 48.75
+  },
+  {
+   "text": "found",
+   "time": 56.18,
+   "weight": 0.97,
+   "note_time": 49.17
+  },
+  {
+   "text": "in",
+   "time": 57.2,
+   "weight": 0.99,
+   "note_time": 49.58
+  },
+  {
+   "text": "hu",
+   "time": 57.94,
+   "weight": 0.99,
+   "note_time": 50.42
+  },
+  {
+   "text": "man",
+   "time": 58.29,
+   "weight": 0.99,
+   "note_time": 51.25
+  },
+  {
+   "text": "form",
+   "time": 58.74,
+   "weight": 0.4,
+   "note_time": 52.08
+  },
+  {
+   "text": "He",
+   "time": 60.88,
+   "weight": 0.65,
+   "note_time": 52.92
+  },
+  {
+   "text": "hum",
+   "time": 61.38,
+   "weight": 1.0,
+   "note_time": 54.17
+  },
+  {
+   "text": "bled",
+   "time": 61.73,
+   "weight": 1.0,
+   "note_time": 54.58
+  },
+  {
+   "text": "him",
+   "time": 62.44,
+   "weight": 0.99,
+   "note_time": 55.21
+  },
+  {
+   "text": "self",
+   "time": 62.79,
+   "weight": 0.99,
+   "note_time": 55.83
+  },
+  {
+   "text": "By",
+   "time": 63.18,
+   "weight": 0.92,
+   "note_time": 56.25
+  },
+  {
+   "text": "be",
+   "time": 64.66,
+   "weight": 1.0,
+   "note_time": 57.5
+  },
+  {
+   "text": "com",
+   "time": 64.84,
+   "weight": 1.0,
+   "note_time": 57.71
+  },
+  {
+   "text": "ing",
+   "time": 65.02,
+   "weight": 1.0,
+   "note_time": 57.92
+  },
+  {
+   "text": "obe",
+   "time": 65.2,
+   "weight": 0.4,
+   "note_time": 58.75
+  },
+  {
+   "text": "di",
+   "time": 65.55,
+   "weight": 0.4,
+   "note_time": 59.38
+  },
+  {
+   "text": "ent",
+   "time": 65.9,
+   "weight": 0.4,
+   "note_time": 59.58
+  },
+  {
+   "text": "to",
+   "time": 66.74,
+   "weight": 0.37,
+   "note_time": 60.0
+  },
+  {
+   "text": "the",
+   "time": 68.42,
+   "weight": 1.0,
+   "note_time": 60.21
+  },
+  {
+   "text": "point",
+   "time": 68.74,
+   "weight": 1.0,
+   "note_time": 61.25
+  },
+  {
+   "text": "of",
+   "time": 69.26,
+   "weight": 1.0,
+   "note_time": 61.67
+  },
+  {
+   "text": "death",
+   "time": 69.72,
+   "weight": 1.0,
+   "note_time": 61.88
+  },
+  {
+   "text": "E",
+   "time": 70.6,
+   "weight": 1.0,
+   "note_time": 62.5
+  },
+  {
+   "text": "ven",
+   "time": 70.89,
+   "weight": 1.0,
+   "note_time": 62.71
+  },
+  {
+   "text": "death",
+   "time": 71.18,
+   "weight": 0.99,
+   "note_time": 62.92
+  },
+  {
+   "text": "on",
+   "time": 71.84,
+   "weight": 0.99,
+   "note_time": 63.75
+  },
+  {
+   "text": "a",
+   "time": 72.82,
+   "weight": 0.95,
+   "note_time": 64.17
+  },
+  {
+   "text": "cross",
+   "time": 73.02,
+   "weight": 1.0,
+   "note_time": 64.58
+  },
+  {
+   "text": "There",
+   "time": 73.92,
+   "weight": 0.99,
+   "note_time": 65.42
+  },
+  {
+   "text": "fore",
+   "time": 74.17,
+   "weight": 0.99,
+   "note_time": 65.83
+  },
+  {
+   "text": "God",
+   "time": 74.42,
+   "weight": 0.71,
+   "note_time": 66.04
+  },
+  {
+   "text": "has",
+   "time": 75.1,
+   "weight": 0.96,
+   "note_time": 66.25
+  },
+  {
+   "text": "high",
+   "time": 75.74,
+   "weight": 0.99,
+   "note_time": 67.08
+  },
+  {
+   "text": "ly",
+   "time": 75.9,
+   "weight": 0.99,
+   "note_time": 67.5
+  },
+  {
+   "text": "ex",
+   "time": 76.06,
+   "weight": 1.0,
+   "note_time": 67.92
+  },
+  {
+   "text": "alt",
+   "time": 76.39,
+   "weight": 1.0,
+   "note_time": 68.54
+  },
+  {
+   "text": "ed",
+   "time": 76.71,
+   "weight": 1.0,
+   "note_time": 68.75
+  },
+  {
+   "text": "him",
+   "time": 77.04,
+   "weight": 0.93,
+   "note_time": 69.17
+  },
+  {
+   "text": "And",
+   "time": 77.44,
+   "weight": 0.84,
+   "note_time": 69.38
+  },
+  {
+   "text": "giv",
+   "time": 78.12,
+   "weight": 1.0,
+   "note_time": 69.58
+  },
+  {
+   "text": "en",
+   "time": 78.41,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "him",
+   "time": 78.7,
+   "weight": 1.0,
+   "note_time": 70.21
+  },
+  {
+   "text": "the",
+   "time": 79.02,
+   "weight": 1.0,
+   "note_time": 71.04
+  },
+  {
+   "text": "name",
+   "time": 79.76,
+   "weight": 0.93,
+   "note_time": 71.25
+  },
+  {
+   "text": "a",
+   "time": 80.12,
+   "weight": 0.99,
+   "note_time": 71.67
+  },
+  {
+   "text": "bove",
+   "time": 80.33,
+   "weight": 0.99,
+   "note_time": 71.88
+  },
+  {
+   "text": "ev",
+   "time": 80.54,
+   "weight": 0.34,
+   "note_time": 72.71
+  },
+  {
+   "text": "ery",
+   "time": 80.89,
+   "weight": 0.34,
+   "note_time": 72.92
+  },
+  {
+   "text": "name",
+   "time": 82.36,
+   "weight": 0.99,
+   "note_time": 73.33
+  },
+  {
+   "text": "That",
+   "time": 83.56,
+   "weight": 0.34,
+   "note_time": 73.54
+  },
+  {
+   "text": "at",
+   "time": 86.2,
+   "weight": 0.97,
+   "note_time": 74.58
+  },
+  {
+   "text": "the",
+   "time": 86.84,
+   "weight": 1.0,
+   "note_time": 75.42
+  },
+  {
+   "text": "name",
+   "time": 87.04,
+   "weight": 0.97,
+   "note_time": 75.83
+  },
+  {
+   "text": "of",
+   "time": 88.0,
+   "weight": 1.0,
+   "note_time": 76.25
+  },
+  {
+   "text": "Je",
+   "time": 88.66,
+   "weight": 1.0,
+   "note_time": 77.92
+  },
+  {
+   "text": "sus",
+   "time": 88.98,
+   "weight": 1.0,
+   "note_time": 79.38
+  },
+  {
+   "text": "ev",
+   "time": 89.94,
+   "weight": 0.82,
+   "note_time": 79.58
+  },
+  {
+   "text": "ery",
+   "time": 90.26,
+   "weight": 0.82,
+   "note_time": 80.0
+  },
+  {
+   "text": "knee",
+   "time": 90.58,
+   "weight": 1.0,
+   "note_time": 80.42
+  },
+  {
+   "text": "shall",
+   "time": 91.16,
+   "weight": 1.0,
+   "note_time": 81.25
+  },
+  {
+   "text": "bow",
+   "time": 91.72,
+   "weight": 1.0,
+   "note_time": 81.67
+  },
+  {
+   "text": "And",
+   "time": 93.14,
+   "weight": 0.39,
+   "note_time": 82.29
+  },
+  {
+   "text": "ev",
+   "time": 95.14,
+   "weight": 1.0,
+   "note_time": 83.33
+  },
+  {
+   "text": "ery",
+   "time": 95.35,
+   "weight": 1.0,
+   "note_time": 83.75
+  },
+  {
+   "text": "tongue",
+   "time": 95.56,
+   "weight": 1.0,
+   "note_time": 83.96
+  },
+  {
+   "text": "con",
+   "time": 96.14,
+   "weight": 1.0,
+   "note_time": 84.58
+  },
+  {
+   "text": "fess",
+   "time": 96.49,
+   "weight": 1.0,
+   "note_time": 84.79
+  },
+  {
+   "text": "that",
+   "time": 96.88,
+   "weight": 0.99,
+   "note_time": 85.0
+  },
+  {
+   "text": "Je",
+   "time": 97.46,
+   "weight": 0.99,
+   "note_time": 86.67
+  },
+  {
+   "text": "sus",
+   "time": 97.7,
+   "weight": 0.99,
+   "note_time": 88.12
+  },
+  {
+   "text": "Christ",
+   "time": 98.08,
+   "weight": 1.0,
+   "note_time": 88.33
+  },
+  {
+   "text": "is",
+   "time": 98.72,
+   "weight": 0.4,
+   "note_time": 88.75
+  },
+  {
+   "text": "Lord",
+   "time": 100.5,
+   "weight": 0.39,
+   "note_time": 88.96
+  },
+  {
+   "text": "To",
+   "time": 107.04,
+   "weight": 0.57,
+   "note_time": 89.58
+  },
+  {
+   "text": "the",
+   "time": 107.6,
+   "weight": 0.99,
+   "note_time": 89.79
+  },
+  {
+   "text": "glo",
+   "time": 107.8,
+   "weight": 0.95,
+   "note_time": 90.0
+  },
+  {
+   "text": "ry",
+   "time": 108.0,
+   "weight": 0.95,
+   "note_time": 90.42
+  },
+  {
+   "text": "of",
+   "time": 108.2,
+   "weight": 1.0,
+   "note_time": 90.62
+  },
+  {
+   "text": "God",
+   "time": 108.42,
+   "weight": 0.99,
+   "note_time": 91.04
+  },
+  {
+   "text": "the",
+   "time": 108.7,
+   "weight": 0.9,
+   "note_time": 91.67
+  },
+  {
+   "text": "Fa",
+   "time": 108.94,
+   "weight": 0.96,
+   "note_time": 93.33
+  },
+  {
+   "text": "ther",
+   "time": 109.1,
+   "weight": 0.96,
+   "note_time": 95.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "0 of 13 lyric lines sit clearly on their notes; 13 are uncertain and printed in grey italics."
+}

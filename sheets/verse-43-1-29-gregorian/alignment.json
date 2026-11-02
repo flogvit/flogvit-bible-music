@@ -1,412 +1,352 @@
 {
  "id": "verse-43-1-29-gregorian",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-1-29-gregorian",
- "offset_seconds": 0.0,
- "words_heard": 10,
- "words": 27,
+ "offset_seconds": 4.699999999999644,
+ "words_heard": 41,
+ "words": 44,
  "lines": [
   {
-   "text": "Ecce agnus Dei",
-   "heard": 2,
-   "words": 3,
-   "error_s": 0.03,
-   "tie_split": false,
-   "uncertain": false
-  },
-  {
-   "text": "ecce qui tollit peccatum mundi",
-   "heard": 2,
+   "text": "Look, the Lamb of God",
+   "heard": 5,
    "words": 5,
-   "error_s": null,
+   "error_s": 5.25,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Ecce agnus Dei",
-   "heard": 2,
-   "words": 3,
-   "error_s": 0.45,
+   "text": "Who takes away the sin of the world",
+   "heard": 8,
+   "words": 8,
+   "error_s": 5.02,
    "tie_split": false,
-   "uncertain": false
+   "uncertain": true
   },
   {
-   "text": "ecce qui tollit peccatum mundi",
-   "heard": 2,
+   "text": "Look, the Lamb of God",
+   "heard": 4,
    "words": 5,
-   "error_s": null,
+   "error_s": 5.16,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Ecce agnus Dei",
-   "heard": 1,
-   "words": 3,
-   "error_s": 0.15,
+   "text": "Who takes away the sin of the world",
+   "heard": 8,
+   "words": 8,
+   "error_s": 5.02,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "ecce qui tollit peccatum mundi",
-   "heard": 0,
+   "text": "Look, the Lamb of God",
+   "heard": 4,
    "words": 5,
-   "error_s": null,
+   "error_s": 5.09,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Ecce agnus Dei",
-   "heard": 1,
-   "words": 3,
-   "error_s": 0.47,
+   "text": "Who takes away the sin of the world",
+   "heard": 8,
+   "words": 8,
+   "error_s": 4.98,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Look, the Lamb of God",
+   "heard": 4,
+   "words": 5,
+   "error_s": 5.14,
    "tie_split": false,
    "uncertain": true
   }
  ],
  "syllables": [
   {
-   "text": "Ec",
-   "time": 22.42,
-   "weight": 0.0,
-   "note_time": 22.24
+   "text": "Look,",
+   "time": 17.22,
+   "weight": 0.66,
+   "note_time": 23.23
   },
   {
-   "text": "ce",
-   "time": 22.82,
-   "weight": 0.0,
-   "note_time": 23.28
+   "text": "the",
+   "time": 19.34,
+   "weight": 0.96,
+   "note_time": 24.68
   },
   {
-   "text": "ag",
-   "time": 23.22,
-   "weight": 0.26,
-   "note_time": 24.31
+   "text": "Lamb",
+   "time": 20.16,
+   "weight": 0.96,
+   "note_time": 25.16
   },
   {
-   "text": "nus",
-   "time": 23.57,
-   "weight": 0.26,
-   "note_time": 24.83
+   "text": "of",
+   "time": 20.88,
+   "weight": 1.0,
+   "note_time": 26.13
   },
   {
-   "text": "De",
-   "time": 25.06,
-   "weight": 0.55,
-   "note_time": 25.09
+   "text": "God",
+   "time": 21.92,
+   "weight": 1.0,
+   "note_time": 27.1
   },
   {
-   "text": "i",
-   "time": 25.37,
-   "weight": 0.55,
-   "note_time": 25.34
+   "text": "Who",
+   "time": 25.3,
+   "weight": 0.77,
+   "note_time": 30.48
   },
   {
-   "text": "ec",
-   "time": 26.27,
-   "weight": 0.0,
-   "note_time": 29.48
+   "text": "takes",
+   "time": 25.94,
+   "weight": 0.99,
+   "note_time": 30.97
   },
   {
-   "text": "ce",
-   "time": 27.17,
-   "weight": 0.0,
-   "note_time": 29.74
+   "text": "a",
+   "time": 26.46,
+   "weight": 1.0,
+   "note_time": 31.45
   },
   {
-   "text": "qu",
-   "time": 28.07,
-   "weight": 0.0,
-   "note_time": 30.0
+   "text": "way",
+   "time": 26.81,
+   "weight": 1.0,
+   "note_time": 31.69
   },
   {
-   "text": "i",
-   "time": 28.98,
-   "weight": 0.0,
-   "note_time": 30.52
+   "text": "the",
+   "time": 27.16,
+   "weight": 0.99,
+   "note_time": 32.42
   },
   {
-   "text": "tol",
+   "text": "sin",
+   "time": 27.9,
+   "weight": 0.98,
+   "note_time": 32.9
+  },
+  {
+   "text": "of",
+   "time": 28.46,
+   "weight": 1.0,
+   "note_time": 33.87
+  },
+  {
+   "text": "the",
+   "time": 29.5,
+   "weight": 1.0,
+   "note_time": 34.35
+  },
+  {
+   "text": "world",
    "time": 29.88,
-   "weight": 0.0,
-   "note_time": 31.55
-  },
-  {
-   "text": "lit",
-   "time": 30.78,
-   "weight": 0.0,
-   "note_time": 32.07
-  },
-  {
-   "text": "pec",
-   "time": 31.68,
-   "weight": 0.33,
-   "note_time": 32.59
-  },
-  {
-   "text": "ca",
-   "time": 32.03,
-   "weight": 0.33,
-   "note_time": 33.62
-  },
-  {
-   "text": "tum",
-   "time": 32.38,
-   "weight": 0.33,
-   "note_time": 33.88
-  },
-  {
-   "text": "mun",
-   "time": 33.92,
-   "weight": 0.39,
-   "note_time": 34.14
-  },
-  {
-   "text": "di",
-   "time": 34.27,
-   "weight": 0.39,
-   "note_time": 34.66
-  },
-  {
-   "text": "Ec",
-   "time": 36.21,
-   "weight": 0.0,
-   "note_time": 38.79
-  },
-  {
-   "text": "ce",
-   "time": 38.16,
-   "weight": 0.0,
-   "note_time": 39.83
-  },
-  {
-   "text": "ag",
-   "time": 40.1,
-   "weight": 0.76,
-   "note_time": 40.86
-  },
-  {
-   "text": "nus",
-   "time": 40.45,
-   "weight": 0.76,
-   "note_time": 41.38
-  },
-  {
-   "text": "De",
-   "time": 41.5,
-   "weight": 0.98,
-   "note_time": 41.64
-  },
-  {
-   "text": "i",
-   "time": 41.85,
-   "weight": 0.98,
-   "note_time": 41.9
-  },
-  {
-   "text": "ec",
-   "time": 42.75,
-   "weight": 0.0,
-   "note_time": 46.03
-  },
-  {
-   "text": "ce",
-   "time": 43.66,
-   "weight": 0.0,
-   "note_time": 46.29
-  },
-  {
-   "text": "qu",
-   "time": 44.56,
-   "weight": 0.0,
-   "note_time": 46.55
-  },
-  {
-   "text": "i",
-   "time": 45.47,
-   "weight": 0.0,
-   "note_time": 47.07
-  },
-  {
-   "text": "tol",
-   "time": 46.37,
-   "weight": 0.0,
-   "note_time": 48.1
-  },
-  {
-   "text": "lit",
-   "time": 47.28,
-   "weight": 0.0,
-   "note_time": 48.62
-  },
-  {
-   "text": "pec",
-   "time": 48.18,
    "weight": 0.4,
-   "note_time": 49.14
+   "note_time": 34.6
   },
   {
-   "text": "ca",
-   "time": 48.53,
-   "weight": 0.4,
-   "note_time": 50.17
-  },
-  {
-   "text": "tum",
-   "time": 48.88,
-   "weight": 0.4,
-   "note_time": 50.43
-  },
-  {
-   "text": "mun",
-   "time": 50.4,
-   "weight": 0.4,
-   "note_time": 50.69
-  },
-  {
-   "text": "di",
-   "time": 50.75,
-   "weight": 0.4,
-   "note_time": 51.21
-  },
-  {
-   "text": "Ec",
-   "time": 52.2,
+   "text": "Look,",
+   "time": 32.3,
    "weight": 0.0,
-   "note_time": 55.34
+   "note_time": 38.71
   },
   {
-   "text": "ce",
-   "time": 53.65,
-   "weight": 0.0,
-   "note_time": 56.38
-  },
-  {
-   "text": "ag",
-   "time": 55.1,
-   "weight": 0.0,
-   "note_time": 57.41
-  },
-  {
-   "text": "nus",
-   "time": 56.55,
-   "weight": 0.0,
-   "note_time": 57.93
-  },
-  {
-   "text": "De",
-   "time": 58.0,
+   "text": "the",
+   "time": 34.72,
    "weight": 0.97,
-   "note_time": 58.19
+   "note_time": 40.16
   },
   {
-   "text": "i",
-   "time": 58.33,
+   "text": "Lamb",
+   "time": 35.7,
+   "weight": 0.92,
+   "note_time": 40.65
+  },
+  {
+   "text": "of",
+   "time": 36.36,
+   "weight": 1.0,
+   "note_time": 41.61
+  },
+  {
+   "text": "God",
+   "time": 37.52,
+   "weight": 1.0,
+   "note_time": 42.58
+  },
+  {
+   "text": "Who",
+   "time": 40.16,
+   "weight": 0.69,
+   "note_time": 45.97
+  },
+  {
+   "text": "takes",
+   "time": 40.86,
+   "weight": 1.0,
+   "note_time": 46.45
+  },
+  {
+   "text": "a",
+   "time": 41.92,
+   "weight": 1.0,
+   "note_time": 46.94
+  },
+  {
+   "text": "way",
+   "time": 42.27,
+   "weight": 1.0,
+   "note_time": 47.18
+  },
+  {
+   "text": "the",
+   "time": 42.66,
+   "weight": 1.0,
+   "note_time": 47.9
+  },
+  {
+   "text": "sin",
+   "time": 43.44,
+   "weight": 1.0,
+   "note_time": 48.39
+  },
+  {
+   "text": "of",
+   "time": 43.94,
+   "weight": 1.0,
+   "note_time": 49.35
+  },
+  {
+   "text": "the",
+   "time": 45.0,
+   "weight": 1.0,
+   "note_time": 49.84
+  },
+  {
+   "text": "world",
+   "time": 45.36,
+   "weight": 1.0,
+   "note_time": 50.08
+  },
+  {
+   "text": "Look,",
+   "time": 47.92,
+   "weight": 0.0,
+   "note_time": 54.19
+  },
+  {
+   "text": "the",
+   "time": 50.48,
+   "weight": 0.99,
+   "note_time": 55.65
+  },
+  {
+   "text": "Lamb",
+   "time": 51.1,
    "weight": 0.97,
-   "note_time": 58.45
+   "note_time": 56.13
   },
   {
-   "text": "ec",
-   "time": 59.34,
-   "weight": 0.0,
-   "note_time": 62.59
-  },
-  {
-   "text": "ce",
-   "time": 60.35,
-   "weight": 0.0,
-   "note_time": 62.84
-  },
-  {
-   "text": "qu",
-   "time": 61.36,
-   "weight": 0.0,
-   "note_time": 63.1
-  },
-  {
-   "text": "i",
-   "time": 62.37,
-   "weight": 0.0,
-   "note_time": 63.62
-  },
-  {
-   "text": "tol",
-   "time": 63.38,
-   "weight": 0.0,
-   "note_time": 64.66
-  },
-  {
-   "text": "lit",
-   "time": 64.39,
-   "weight": 0.0,
-   "note_time": 65.17
-  },
-  {
-   "text": "pec",
-   "time": 65.4,
-   "weight": 0.0,
-   "note_time": 65.69
-  },
-  {
-   "text": "ca",
-   "time": 66.41,
-   "weight": 0.0,
-   "note_time": 66.72
-  },
-  {
-   "text": "tum",
-   "time": 67.41,
-   "weight": 0.0,
-   "note_time": 66.98
-  },
-  {
-   "text": "mun",
-   "time": 68.42,
-   "weight": 0.0,
-   "note_time": 67.24
-  },
-  {
-   "text": "di",
-   "time": 69.43,
-   "weight": 0.0,
-   "note_time": 67.76
-  },
-  {
-   "text": "Ec",
-   "time": 70.44,
-   "weight": 0.0,
-   "note_time": 71.9
-  },
-  {
-   "text": "ce",
-   "time": 71.45,
-   "weight": 0.0,
-   "note_time": 72.93
-  },
-  {
-   "text": "ag",
-   "time": 72.46,
-   "weight": 0.0,
-   "note_time": 73.97
-  },
-  {
-   "text": "nus",
-   "time": 73.47,
-   "weight": 0.0,
-   "note_time": 74.74
-  },
-  {
-   "text": "De",
-   "time": 74.48,
+   "text": "of",
+   "time": 51.94,
    "weight": 1.0,
-   "note_time": 75.0
+   "note_time": 57.1
   },
   {
-   "text": "i",
-   "time": 74.83,
+   "text": "God",
+   "time": 53.24,
    "weight": 1.0,
-   "note_time": 75.26
+   "note_time": 58.06
+  },
+  {
+   "text": "Who",
+   "time": 54.18,
+   "weight": 0.28,
+   "note_time": 61.45
+  },
+  {
+   "text": "takes",
+   "time": 56.84,
+   "weight": 0.97,
+   "note_time": 61.94
+  },
+  {
+   "text": "a",
+   "time": 57.64,
+   "weight": 0.9,
+   "note_time": 62.42
+  },
+  {
+   "text": "way",
+   "time": 57.89,
+   "weight": 0.9,
+   "note_time": 62.66
+  },
+  {
+   "text": "the",
+   "time": 58.14,
+   "weight": 1.0,
+   "note_time": 63.39
+  },
+  {
+   "text": "sin",
+   "time": 58.88,
+   "weight": 1.0,
+   "note_time": 63.87
+  },
+  {
+   "text": "of",
+   "time": 59.46,
+   "weight": 1.0,
+   "note_time": 64.84
+  },
+  {
+   "text": "the",
+   "time": 60.36,
+   "weight": 1.0,
+   "note_time": 65.32
+  },
+  {
+   "text": "world",
+   "time": 60.64,
+   "weight": 1.0,
+   "note_time": 65.56
+  },
+  {
+   "text": "Look,",
+   "time": 63.14,
+   "weight": 0.0,
+   "note_time": 69.68
+  },
+  {
+   "text": "the",
+   "time": 65.64,
+   "weight": 1.0,
+   "note_time": 71.13
+  },
+  {
+   "text": "Lamb",
+   "time": 66.62,
+   "weight": 1.0,
+   "note_time": 71.61
+  },
+  {
+   "text": "of",
+   "time": 67.4,
+   "weight": 1.0,
+   "note_time": 72.58
+  },
+  {
+   "text": "God",
+   "time": 68.44,
+   "weight": 1.0,
+   "note_time": 73.55
   }
  ],
  "chord_sheet_pages": 1,
  "lilypond_warnings": [],
- "quality": "2 of 7 lyric lines sit clearly on their notes; 5 are uncertain and printed in grey italics."
+ "quality": "0 of 7 lyric lines sit clearly on their notes; 7 are uncertain and printed in grey italics."
 }

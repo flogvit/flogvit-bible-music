@@ -1,84 +1,116 @@
 {
  "id": "verse-62-4-16-taize",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-62-4-16-taize",
- "offset_seconds": -3.0200000000001914,
- "words_heard": 46,
- "words": 73,
+ "offset_seconds": 4.519999999999648,
+ "words_heard": 49,
+ "words": 63,
  "lines": [
   {
-   "text": "Deus caritas est",
+   "text": "God is love",
    "heard": 3,
    "words": 3,
-   "error_s": 44.68,
+   "error_s": 11.61,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "et qui manet in caritate",
+   "text": "And whoever remains in love",
    "heard": 5,
    "words": 5,
-   "error_s": 44.2,
+   "error_s": 11.46,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "in Deo manet",
+   "text": "Remains in God",
    "heard": 3,
    "words": 3,
-   "error_s": 44.24,
+   "error_s": 11.49,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "et Deus in eo",
+   "text": "And God in him",
    "heard": 4,
    "words": 4,
-   "error_s": 45.24,
+   "error_s": 11.29,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Deus caritas est",
+   "text": "God is love",
    "heard": 3,
    "words": 3,
-   "error_s": 66.26,
+   "error_s": 11.22,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "et qui manet in caritate",
+   "text": "And whoever remains in love",
    "heard": 5,
    "words": 5,
-   "error_s": 66.27,
+   "error_s": 10.75,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "in Deo manet",
+   "text": "Remains in God",
    "heard": 3,
    "words": 3,
-   "error_s": null,
+   "error_s": 10.9,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "et Deus in eo",
+   "text": "And God in him",
    "heard": 4,
    "words": 4,
-   "error_s": 67.2,
+   "error_s": 10.75,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Deus caritas est",
-   "heard": 0,
+   "text": "God is love",
+   "heard": 2,
    "words": 3,
-   "error_s": null,
+   "error_s": 10.46,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "et qui manet in caritate",
+   "text": "And whoever remains in love",
+   "heard": 5,
+   "words": 5,
+   "error_s": 10.08,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Remains in God",
+   "heard": 3,
+   "words": 3,
+   "error_s": 10.18,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And God in him",
+   "heard": 4,
+   "words": 4,
+   "error_s": 9.9,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "God is love",
+   "heard": 2,
+   "words": 3,
+   "error_s": 9.86,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And whoever remains in love",
    "heard": 0,
    "words": 5,
    "error_s": null,
@@ -86,15 +118,15 @@
    "uncertain": true
   },
   {
-   "text": "in Deo manet",
-   "heard": 3,
+   "text": "Remains in God",
+   "heard": 0,
    "words": 3,
    "error_s": null,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "et Deus in eo",
+   "text": "And God in him",
    "heard": 0,
    "words": 4,
    "error_s": null,
@@ -102,865 +134,491 @@
    "uncertain": true
   },
   {
-   "text": "Deus caritas est",
-   "heard": 0,
-   "words": 3,
-   "error_s": null,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "et qui manet in caritate",
-   "heard": 0,
-   "words": 5,
-   "error_s": null,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "in Deo manet",
-   "heard": 0,
-   "words": 3,
-   "error_s": null,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "et Deus in eo",
-   "heard": 0,
-   "words": 4,
-   "error_s": null,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "et qui manet in caritate",
-   "heard": 5,
-   "words": 5,
-   "error_s": null,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "in Deo manet",
+   "text": "God is love",
    "heard": 3,
    "words": 3,
-   "error_s": 8.98,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "et qui manet in caritate",
-   "heard": 5,
-   "words": 5,
-   "error_s": 8.98,
+   "error_s": 10.29,
    "tie_split": false,
    "uncertain": true
   }
  ],
  "syllables": [
   {
-   "text": "De",
-   "time": 64.98,
-   "weight": 0.62,
-   "note_time": 19.76
+   "text": "God",
+   "time": 33.54,
+   "weight": 0.15,
+   "note_time": 22.61
   },
   {
-   "text": "us",
-   "time": 65.33,
-   "weight": 0.62,
-   "note_time": 20.82
+   "text": "is",
+   "time": 34.94,
+   "weight": 0.87,
+   "note_time": 23.48
   },
   {
-   "text": "ca",
-   "time": 66.38,
-   "weight": 0.69,
-   "note_time": 21.18
-  },
-  {
-   "text": "ri",
-   "time": 66.73,
-   "weight": 0.69,
-   "note_time": 21.88
-  },
-  {
-   "text": "tas",
-   "time": 67.08,
-   "weight": 0.69,
-   "note_time": 22.59
-  },
-  {
-   "text": "est",
-   "time": 67.78,
-   "weight": 0.77,
+   "text": "love",
+   "time": 36.1,
+   "weight": 0.85,
    "note_time": 24.35
   },
   {
-   "text": "et",
-   "time": 69.78,
-   "weight": 0.72,
-   "note_time": 24.71
+   "text": "And",
+   "time": 36.98,
+   "weight": 0.21,
+   "note_time": 26.96
   },
   {
-   "text": "qu",
-   "time": 70.34,
-   "weight": 0.15,
-   "note_time": 25.06
+   "text": "who",
+   "time": 39.2,
+   "weight": 0.87,
+   "note_time": 27.39
   },
   {
-   "text": "i",
-   "time": 70.46,
-   "weight": 0.15,
-   "note_time": 25.41
+   "text": "ev",
+   "time": 39.39,
+   "weight": 0.87,
+   "note_time": 27.83
   },
   {
-   "text": "ma",
-   "time": 70.58,
-   "weight": 0.99,
-   "note_time": 26.47
+   "text": "er",
+   "time": 39.57,
+   "weight": 0.87,
+   "note_time": 28.7
   },
   {
-   "text": "net",
-   "time": 70.93,
-   "weight": 0.99,
-   "note_time": 26.82
+   "text": "re",
+   "time": 39.76,
+   "weight": 0.4,
+   "note_time": 29.13
+  },
+  {
+   "text": "mains",
+   "time": 40.11,
+   "weight": 0.4,
+   "note_time": 29.57
   },
   {
    "text": "in",
-   "time": 71.82,
+   "time": 41.76,
+   "weight": 1.0,
+   "note_time": 30.43
+  },
+  {
+   "text": "love",
+   "time": 42.76,
+   "weight": 0.99,
+   "note_time": 31.3
+  },
+  {
+   "text": "Re",
+   "time": 43.62,
+   "weight": 0.35,
+   "note_time": 33.48
+  },
+  {
+   "text": "mains",
+   "time": 43.97,
+   "weight": 0.35,
+   "note_time": 33.91
+  },
+  {
+   "text": "in",
+   "time": 45.7,
+   "weight": 1.0,
+   "note_time": 34.35
+  },
+  {
+   "text": "God",
+   "time": 46.42,
+   "weight": 1.0,
+   "note_time": 34.78
+  },
+  {
+   "text": "And",
+   "time": 46.96,
+   "weight": 0.98,
+   "note_time": 36.09
+  },
+  {
+   "text": "God",
+   "time": 48.16,
+   "weight": 1.0,
+   "note_time": 36.52
+  },
+  {
+   "text": "in",
+   "time": 48.62,
+   "weight": 0.99,
+   "note_time": 37.39
+  },
+  {
+   "text": "him",
+   "time": 49.62,
+   "weight": 0.81,
+   "note_time": 38.26
+  },
+  {
+   "text": "God",
+   "time": 54.3,
+   "weight": 0.41,
+   "note_time": 43.48
+  },
+  {
+   "text": "is",
+   "time": 55.7,
+   "weight": 0.97,
+   "note_time": 44.35
+  },
+  {
+   "text": "love",
+   "time": 56.3,
+   "weight": 0.88,
+   "note_time": 45.22
+  },
+  {
+   "text": "And",
+   "time": 57.92,
+   "weight": 0.38,
+   "note_time": 47.83
+  },
+  {
+   "text": "who",
+   "time": 59.56,
+   "weight": 0.91,
+   "note_time": 48.26
+  },
+  {
+   "text": "ev",
+   "time": 59.77,
+   "weight": 0.91,
+   "note_time": 48.7
+  },
+  {
+   "text": "er",
+   "time": 59.99,
+   "weight": 0.91,
+   "note_time": 49.57
+  },
+  {
+   "text": "re",
+   "time": 60.2,
+   "weight": 0.4,
+   "note_time": 50.0
+  },
+  {
+   "text": "mains",
+   "time": 60.55,
+   "weight": 0.4,
+   "note_time": 50.43
+  },
+  {
+   "text": "in",
+   "time": 61.98,
+   "weight": 1.0,
+   "note_time": 51.3
+  },
+  {
+   "text": "love",
+   "time": 62.92,
+   "weight": 0.99,
+   "note_time": 52.17
+  },
+  {
+   "text": "Re",
+   "time": 64.3,
+   "weight": 0.34,
+   "note_time": 54.35
+  },
+  {
+   "text": "mains",
+   "time": 64.65,
+   "weight": 0.34,
+   "note_time": 54.78
+  },
+  {
+   "text": "in",
+   "time": 66.0,
+   "weight": 1.0,
+   "note_time": 55.22
+  },
+  {
+   "text": "God",
+   "time": 66.66,
+   "weight": 1.0,
+   "note_time": 55.65
+  },
+  {
+   "text": "And",
+   "time": 67.76,
+   "weight": 1.0,
+   "note_time": 56.96
+  },
+  {
+   "text": "God",
+   "time": 68.38,
+   "weight": 1.0,
+   "note_time": 57.39
+  },
+  {
+   "text": "in",
+   "time": 68.86,
+   "weight": 0.99,
+   "note_time": 58.26
+  },
+  {
+   "text": "him",
+   "time": 69.82,
+   "weight": 0.81,
+   "note_time": 59.13
+  },
+  {
+   "text": "God",
+   "time": 72.77,
+   "weight": 0.0,
+   "note_time": 64.35
+  },
+  {
+   "text": "is",
+   "time": 75.72,
+   "weight": 0.95,
+   "note_time": 65.22
+  },
+  {
+   "text": "love",
+   "time": 76.5,
+   "weight": 0.92,
+   "note_time": 66.09
+  },
+  {
+   "text": "And",
+   "time": 77.74,
+   "weight": 0.19,
+   "note_time": 68.7
+  },
+  {
+   "text": "who",
+   "time": 79.72,
+   "weight": 0.9,
+   "note_time": 69.13
+  },
+  {
+   "text": "ev",
+   "time": 79.91,
+   "weight": 0.9,
+   "note_time": 69.57
+  },
+  {
+   "text": "er",
+   "time": 80.09,
+   "weight": 0.9,
+   "note_time": 70.43
+  },
+  {
+   "text": "re",
+   "time": 80.28,
+   "weight": 0.4,
+   "note_time": 70.87
+  },
+  {
+   "text": "mains",
+   "time": 80.63,
+   "weight": 0.4,
+   "note_time": 71.3
+  },
+  {
+   "text": "in",
+   "time": 82.18,
+   "weight": 0.99,
+   "note_time": 72.17
+  },
+  {
+   "text": "love",
+   "time": 83.12,
+   "weight": 1.0,
+   "note_time": 73.04
+  },
+  {
+   "text": "Re",
+   "time": 85.22,
+   "weight": 0.63,
+   "note_time": 75.22
+  },
+  {
+   "text": "mains",
+   "time": 85.57,
+   "weight": 0.63,
+   "note_time": 75.65
+  },
+  {
+   "text": "in",
+   "time": 86.52,
+   "weight": 0.99,
+   "note_time": 76.09
+  },
+  {
+   "text": "God",
+   "time": 86.88,
+   "weight": 0.99,
+   "note_time": 76.52
+  },
+  {
+   "text": "And",
+   "time": 87.42,
+   "weight": 0.95,
+   "note_time": 77.83
+  },
+  {
+   "text": "God",
+   "time": 88.6,
+   "weight": 0.99,
+   "note_time": 78.26
+  },
+  {
+   "text": "in",
+   "time": 89.0,
+   "weight": 0.99,
+   "note_time": 79.13
+  },
+  {
+   "text": "him",
+   "time": 89.94,
+   "weight": 0.76,
+   "note_time": 80.0
+  },
+  {
+   "text": "God",
+   "time": 92.9,
+   "weight": 0.0,
+   "note_time": 85.22
+  },
+  {
+   "text": "is",
+   "time": 95.86,
    "weight": 0.96,
-   "note_time": 27.53
+   "note_time": 86.09
   },
   {
-   "text": "ca",
-   "time": 72.44,
-   "weight": 0.39,
-   "note_time": 27.88
+   "text": "love",
+   "time": 96.9,
+   "weight": 0.55,
+   "note_time": 86.96
   },
   {
-   "text": "ri",
-   "time": 72.79,
-   "weight": 0.39,
-   "note_time": 28.24
+   "text": "And",
+   "time": 96.91,
+   "weight": 0.0,
+   "note_time": 89.57
   },
   {
-   "text": "ta",
-   "time": 73.14,
-   "weight": 0.39,
-   "note_time": 29.29
+   "text": "who",
+   "time": 96.92,
+   "weight": 0.0,
+   "note_time": 90.0
   },
   {
-   "text": "te",
-   "time": 73.49,
-   "weight": 0.39,
-   "note_time": 30.71
+   "text": "ev",
+   "time": 96.93,
+   "weight": 0.0,
+   "note_time": 90.43
+  },
+  {
+   "text": "er",
+   "time": 96.94,
+   "weight": 0.0,
+   "note_time": 91.3
+  },
+  {
+   "text": "re",
+   "time": 96.95,
+   "weight": 0.0,
+   "note_time": 91.74
+  },
+  {
+   "text": "mains",
+   "time": 96.96,
+   "weight": 0.0,
+   "note_time": 92.17
   },
   {
    "text": "in",
-   "time": 75.3,
-   "weight": 0.94,
-   "note_time": 31.06
+   "time": 96.97,
+   "weight": 0.0,
+   "note_time": 93.04
   },
   {
-   "text": "De",
-   "time": 76.56,
-   "weight": 0.26,
-   "note_time": 32.47
+   "text": "love",
+   "time": 96.98,
+   "weight": 0.0,
+   "note_time": 93.91
   },
   {
-   "text": "o",
-   "time": 76.91,
-   "weight": 0.26,
-   "note_time": 33.18
+   "text": "Re",
+   "time": 96.98,
+   "weight": 0.0,
+   "note_time": 96.09
   },
   {
-   "text": "ma",
-   "time": 78.3,
-   "weight": 0.4,
-   "note_time": 33.88
-  },
-  {
-   "text": "net",
-   "time": 78.65,
-   "weight": 0.4,
-   "note_time": 34.94
-  },
-  {
-   "text": "et",
-   "time": 80.42,
-   "weight": 0.69,
-   "note_time": 35.29
-  },
-  {
-   "text": "De",
-   "time": 80.9,
-   "weight": 0.81,
-   "note_time": 35.65
-  },
-  {
-   "text": "us",
-   "time": 81.25,
-   "weight": 0.81,
-   "note_time": 36.0
+   "text": "mains",
+   "time": 96.99,
+   "weight": 0.0,
+   "note_time": 96.52
   },
   {
    "text": "in",
-   "time": 81.64,
-   "weight": 0.95,
-   "note_time": 36.35
+   "time": 97.0,
+   "weight": 0.0,
+   "note_time": 96.96
   },
   {
-   "text": "e",
-   "time": 81.94,
-   "weight": 0.52,
-   "note_time": 36.71
+   "text": "God",
+   "time": 97.01,
+   "weight": 0.0,
+   "note_time": 97.39
   },
   {
-   "text": "o",
-   "time": 82.25,
-   "weight": 0.52,
-   "note_time": 42.35
+   "text": "And",
+   "time": 97.02,
+   "weight": 0.0,
+   "note_time": 98.7
   },
   {
-   "text": "De",
-   "time": 110.26,
-   "weight": 0.26,
-   "note_time": 43.41
-  },
-  {
-   "text": "us",
-   "time": 110.61,
-   "weight": 0.26,
-   "note_time": 43.76
-  },
-  {
-   "text": "ca",
-   "time": 111.66,
-   "weight": 0.85,
-   "note_time": 44.47
-  },
-  {
-   "text": "ri",
-   "time": 112.01,
-   "weight": 0.85,
-   "note_time": 45.18
-  },
-  {
-   "text": "tas",
-   "time": 112.36,
-   "weight": 0.85,
-   "note_time": 46.94
-  },
-  {
-   "text": "est",
-   "time": 112.98,
-   "weight": 0.71,
-   "note_time": 47.29
-  },
-  {
-   "text": "et",
-   "time": 114.0,
-   "weight": 0.33,
-   "note_time": 47.65
-  },
-  {
-   "text": "qu",
-   "time": 115.5,
-   "weight": 0.27,
-   "note_time": 48.0
-  },
-  {
-   "text": "i",
-   "time": 115.61,
-   "weight": 0.27,
-   "note_time": 49.06
-  },
-  {
-   "text": "ma",
-   "time": 115.72,
-   "weight": 0.98,
-   "note_time": 49.41
-  },
-  {
-   "text": "net",
-   "time": 116.07,
-   "weight": 0.98,
-   "note_time": 50.12
+   "text": "God",
+   "time": 97.03,
+   "weight": 0.0,
+   "note_time": 99.13
   },
   {
    "text": "in",
-   "time": 116.74,
-   "weight": 0.94,
-   "note_time": 50.47
-  },
-  {
-   "text": "ca",
-   "time": 117.6,
-   "weight": 0.4,
-   "note_time": 50.82
-  },
-  {
-   "text": "ri",
-   "time": 117.95,
-   "weight": 0.4,
-   "note_time": 51.88
-  },
-  {
-   "text": "ta",
-   "time": 118.3,
-   "weight": 0.4,
-   "note_time": 53.29
-  },
-  {
-   "text": "te",
-   "time": 118.65,
-   "weight": 0.4,
-   "note_time": 53.65
-  },
-  {
-   "text": "in",
-   "time": 120.14,
-   "weight": 0.09,
-   "note_time": 55.06
-  },
-  {
-   "text": "De",
-   "time": 121.78,
-   "weight": 0.37,
-   "note_time": 55.76
-  },
-  {
-   "text": "o",
-   "time": 122.13,
-   "weight": 0.37,
-   "note_time": 56.47
-  },
-  {
-   "text": "ma",
-   "time": 123.44,
-   "weight": 0.3,
-   "note_time": 57.53
-  },
-  {
-   "text": "net",
-   "time": 123.79,
-   "weight": 0.3,
-   "note_time": 57.88
-  },
-  {
-   "text": "et",
-   "time": 125.26,
-   "weight": 0.72,
-   "note_time": 58.24
-  },
-  {
-   "text": "De",
-   "time": 125.96,
-   "weight": 0.69,
-   "note_time": 58.59
-  },
-  {
-   "text": "us",
-   "time": 126.31,
-   "weight": 0.69,
-   "note_time": 58.94
-  },
-  {
-   "text": "in",
-   "time": 126.8,
-   "weight": 0.78,
-   "note_time": 59.29
-  },
-  {
-   "text": "e",
-   "time": 127.1,
-   "weight": 0.77,
-   "note_time": 64.94
-  },
-  {
-   "text": "o",
-   "time": 127.45,
-   "weight": 0.77,
-   "note_time": 66.0
-  },
-  {
-   "text": "De",
-   "time": 127.43,
+   "time": 97.04,
    "weight": 0.0,
-   "note_time": 66.35
+   "note_time": 100.0
   },
   {
-   "text": "us",
-   "time": 127.41,
+   "text": "him",
+   "time": 97.05,
    "weight": 0.0,
-   "note_time": 67.06
+   "note_time": 100.87
   },
   {
-   "text": "ca",
-   "time": 127.4,
-   "weight": 0.0,
-   "note_time": 67.76
-  },
-  {
-   "text": "ri",
-   "time": 127.38,
-   "weight": 0.0,
-   "note_time": 69.53
-  },
-  {
-   "text": "tas",
-   "time": 127.36,
-   "weight": 0.0,
-   "note_time": 69.88
-  },
-  {
-   "text": "est",
-   "time": 127.34,
-   "weight": 0.0,
-   "note_time": 70.24
-  },
-  {
-   "text": "et",
-   "time": 127.32,
-   "weight": 0.0,
-   "note_time": 70.59
-  },
-  {
-   "text": "qu",
-   "time": 127.3,
-   "weight": 0.0,
-   "note_time": 71.65
-  },
-  {
-   "text": "i",
-   "time": 127.29,
-   "weight": 0.0,
-   "note_time": 72.0
-  },
-  {
-   "text": "ma",
-   "time": 127.27,
-   "weight": 0.0,
-   "note_time": 72.71
-  },
-  {
-   "text": "net",
-   "time": 127.25,
-   "weight": 0.0,
-   "note_time": 73.41
-  },
-  {
-   "text": "in",
-   "time": 127.23,
-   "weight": 0.0,
-   "note_time": 74.47
-  },
-  {
-   "text": "ca",
-   "time": 127.21,
-   "weight": 0.0,
-   "note_time": 75.88
-  },
-  {
-   "text": "ri",
-   "time": 127.19,
-   "weight": 0.0,
-   "note_time": 76.24
-  },
-  {
-   "text": "ta",
-   "time": 127.18,
-   "weight": 0.0,
-   "note_time": 77.65
-  },
-  {
-   "text": "te",
-   "time": 127.16,
-   "weight": 0.0,
-   "note_time": 78.35
-  },
-  {
-   "text": "in",
-   "time": 127.14,
+   "text": "God",
+   "time": 97.06,
    "weight": 0.15,
-   "note_time": 79.06
+   "note_time": 106.09
   },
   {
-   "text": "De",
-   "time": 127.34,
-   "weight": 0.47,
-   "note_time": 80.12
+   "text": "is",
+   "time": 97.54,
+   "weight": 0.17,
+   "note_time": 106.96
   },
   {
-   "text": "o",
-   "time": 127.69,
-   "weight": 0.47,
-   "note_time": 80.47
-  },
-  {
-   "text": "ma",
-   "time": 128.3,
-   "weight": 0.06,
-   "note_time": 80.82
-  },
-  {
-   "text": "net",
-   "time": 128.65,
-   "weight": 0.06,
-   "note_time": 81.18
-  },
-  {
-   "text": "et",
-   "time": 128.72,
-   "weight": 0.0,
-   "note_time": 81.53
-  },
-  {
-   "text": "De",
-   "time": 128.79,
-   "weight": 0.0,
-   "note_time": 81.88
-  },
-  {
-   "text": "us",
-   "time": 128.86,
-   "weight": 0.0,
-   "note_time": 110.12
-  },
-  {
-   "text": "in",
-   "time": 128.94,
-   "weight": 0.0,
-   "note_time": 111.18
-  },
-  {
-   "text": "e",
-   "time": 129.01,
-   "weight": 0.0,
-   "note_time": 111.53
-  },
-  {
-   "text": "o",
-   "time": 129.08,
-   "weight": 0.0,
-   "note_time": 112.24
-  },
-  {
-   "text": "De",
-   "time": 129.15,
-   "weight": 0.0,
-   "note_time": 112.94
-  },
-  {
-   "text": "us",
-   "time": 129.22,
-   "weight": 0.0,
-   "note_time": 114.71
-  },
-  {
-   "text": "ca",
-   "time": 129.29,
-   "weight": 0.0,
-   "note_time": 115.06
-  },
-  {
-   "text": "ri",
-   "time": 129.36,
-   "weight": 0.0,
-   "note_time": 115.41
-  },
-  {
-   "text": "tas",
-   "time": 129.44,
-   "weight": 0.0,
-   "note_time": 115.76
-  },
-  {
-   "text": "est",
-   "time": 129.51,
-   "weight": 0.0,
-   "note_time": 116.82
-  },
-  {
-   "text": "et",
-   "time": 129.58,
-   "weight": 0.0,
-   "note_time": 117.18
-  },
-  {
-   "text": "qu",
-   "time": 129.65,
-   "weight": 0.0,
-   "note_time": 117.88
-  },
-  {
-   "text": "i",
-   "time": 129.72,
-   "weight": 0.0,
-   "note_time": 118.24
-  },
-  {
-   "text": "ma",
-   "time": 129.79,
-   "weight": 0.0,
-   "note_time": 118.59
-  },
-  {
-   "text": "net",
-   "time": 129.87,
-   "weight": 0.0,
-   "note_time": 119.65
-  },
-  {
-   "text": "in",
-   "time": 129.94,
-   "weight": 0.0,
-   "note_time": 121.06
-  },
-  {
-   "text": "ca",
-   "time": 130.01,
-   "weight": 0.0,
-   "note_time": 121.41
-  },
-  {
-   "text": "ri",
-   "time": 130.08,
-   "weight": 0.0,
-   "note_time": 122.82
-  },
-  {
-   "text": "ta",
-   "time": 130.15,
-   "weight": 0.0,
-   "note_time": 123.53
-  },
-  {
-   "text": "te",
-   "time": 130.22,
-   "weight": 0.0,
-   "note_time": 124.24
-  },
-  {
-   "text": "in",
-   "time": 130.29,
-   "weight": 0.0,
-   "note_time": 125.29
-  },
-  {
-   "text": "De",
-   "time": 130.37,
-   "weight": 0.0,
-   "note_time": 125.65
-  },
-  {
-   "text": "o",
-   "time": 130.44,
-   "weight": 0.0,
-   "note_time": 126.0
-  },
-  {
-   "text": "ma",
-   "time": 130.51,
-   "weight": 0.0,
-   "note_time": 126.35
-  },
-  {
-   "text": "net",
-   "time": 130.58,
-   "weight": 0.0,
-   "note_time": 126.71
-  },
-  {
-   "text": "et",
-   "time": 130.65,
-   "weight": 0.0,
-   "note_time": 127.06
-  },
-  {
-   "text": "De",
-   "time": 130.72,
-   "weight": 0.0,
-   "note_time": 127.06
-  },
-  {
-   "text": "us",
-   "time": 130.79,
-   "weight": 0.0,
-   "note_time": 127.06
-  },
-  {
-   "text": "in",
-   "time": 130.87,
-   "weight": 0.0,
-   "note_time": 127.06
-  },
-  {
-   "text": "e",
-   "time": 130.94,
-   "weight": 0.0,
-   "note_time": 127.06
-  },
-  {
-   "text": "o",
-   "time": 131.01,
-   "weight": 0.0,
-   "note_time": 127.06
-  },
-  {
-   "text": "et",
-   "time": 131.08,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "qu",
-   "time": 131.1,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "i",
-   "time": 131.45,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "ma",
-   "time": 132.06,
-   "weight": 0.3,
-   "note_time": 127.06
-  },
-  {
-   "text": "net",
-   "time": 132.2,
-   "weight": 0.3,
-   "note_time": 127.06
-  },
-  {
-   "text": "in",
-   "time": 132.34,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "ca",
-   "time": 132.58,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "ri",
-   "time": 132.74,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "ta",
-   "time": 132.9,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "te",
-   "time": 133.06,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "in",
-   "time": 133.22,
-   "weight": 0.15,
-   "note_time": 127.06
-  },
-  {
-   "text": "De",
-   "time": 133.44,
-   "weight": 0.26,
-   "note_time": 127.06
-  },
-  {
-   "text": "o",
-   "time": 133.79,
-   "weight": 0.26,
-   "note_time": 127.06
-  },
-  {
-   "text": "ma",
-   "time": 136.04,
+   "text": "love",
+   "time": 97.54,
    "weight": 0.84,
-   "note_time": 127.06
-  },
-  {
-   "text": "net",
-   "time": 136.04,
-   "weight": 0.84,
-   "note_time": 127.06
-  },
-  {
-   "text": "et",
-   "time": 136.04,
-   "weight": 0.75,
-   "note_time": 127.06
-  },
-  {
-   "text": "qu",
-   "time": 136.04,
-   "weight": 0.97,
-   "note_time": 127.06
-  },
-  {
-   "text": "i",
-   "time": 136.04,
-   "weight": 0.97,
-   "note_time": 127.06
-  },
-  {
-   "text": "ma",
-   "time": 136.04,
-   "weight": 0.95,
-   "note_time": 127.06
-  },
-  {
-   "text": "net",
-   "time": 136.04,
-   "weight": 0.95,
-   "note_time": 127.06
-  },
-  {
-   "text": "in",
-   "time": 136.04,
-   "weight": 0.54,
-   "note_time": 127.06
-  },
-  {
-   "text": "ca",
-   "time": 136.04,
-   "weight": 0.95,
-   "note_time": 127.06
-  },
-  {
-   "text": "ri",
-   "time": 136.04,
-   "weight": 0.95,
-   "note_time": 127.06
-  },
-  {
-   "text": "ta",
-   "time": 136.04,
-   "weight": 0.95,
-   "note_time": 127.06
-  },
-  {
-   "text": "te",
-   "time": 136.04,
-   "weight": 0.95,
-   "note_time": 19.76
+   "note_time": 107.83
   }
  ],
  "chord_sheet_pages": 1,
- "lilypond_warnings": [
-  "/Users/vhanssen/WebstormProjects/flogvit/music-generate/sheets/verse-62-4-16-taize/verse-62-4-16-taize-lead-sheet.ly:23:11695: warning: unterminated hyphen; removing"
- ],
- "quality": "0 of 19 lyric lines sit clearly on their notes; 19 are uncertain and printed in grey italics."
+ "lilypond_warnings": [],
+ "quality": "0 of 17 lyric lines sit clearly on their notes; 17 are uncertain and printed in grey italics."
 }

@@ -1,0 +1,850 @@
+{
+ "id": "story-debora-og-barak-middle-eastern",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-debora-og-barak-middle-eastern",
+ "offset_seconds": -4.120000000000168,
+ "words_heard": 76,
+ "words": 80,
+ "lines": [
+  {
+   "text": "When the leaders lead in Israel",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the people offer themselves willingly",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bless the Lord",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.5,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Hear, O kings, give ear, O princes",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awake, awake, Deborah",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awake, awake, sing a song",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, Barak, lead away your captives",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awake, awake, Deborah",
+   "heard": 1,
+   "words": 3,
+   "error_s": 1.2,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Lord, when you went out from Seir",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The earth trembled and the heavens poured",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The mountains quaked before the Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The God of Israel",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awake, awake, Deborah",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awake, awake, sing a song",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, Barak, lead away your captives",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awake, awake, Deborah",
+   "heard": 1,
+   "words": 3,
+   "error_s": 1.45,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "When",
+   "time": 16.8,
+   "weight": 0.15,
+   "note_time": 18.46
+  },
+  {
+   "text": "the",
+   "time": 18.2,
+   "weight": 0.99,
+   "note_time": 18.69
+  },
+  {
+   "text": "lead",
+   "time": 18.68,
+   "weight": 0.91,
+   "note_time": 18.92
+  },
+  {
+   "text": "ers",
+   "time": 19.03,
+   "weight": 0.91,
+   "note_time": 19.15
+  },
+  {
+   "text": "lead",
+   "time": 20.1,
+   "weight": 0.98,
+   "note_time": 19.38
+  },
+  {
+   "text": "in",
+   "time": 21.1,
+   "weight": 0.98,
+   "note_time": 19.85
+  },
+  {
+   "text": "Is",
+   "time": 21.64,
+   "weight": 0.96,
+   "note_time": 20.08
+  },
+  {
+   "text": "rael",
+   "time": 21.99,
+   "weight": 0.96,
+   "note_time": 20.31
+  },
+  {
+   "text": "When",
+   "time": 22.42,
+   "weight": 0.33,
+   "note_time": 23.08
+  },
+  {
+   "text": "the",
+   "time": 25.66,
+   "weight": 1.0,
+   "note_time": 25.85
+  },
+  {
+   "text": "peo",
+   "time": 26.1,
+   "weight": 0.99,
+   "note_time": 26.08
+  },
+  {
+   "text": "ple",
+   "time": 26.45,
+   "weight": 0.99,
+   "note_time": 26.54
+  },
+  {
+   "text": "of",
+   "time": 27.46,
+   "weight": 1.0,
+   "note_time": 26.77
+  },
+  {
+   "text": "fer",
+   "time": 27.81,
+   "weight": 1.0,
+   "note_time": 27.69
+  },
+  {
+   "text": "them",
+   "time": 28.54,
+   "weight": 1.0,
+   "note_time": 27.92
+  },
+  {
+   "text": "selves",
+   "time": 28.83,
+   "weight": 1.0,
+   "note_time": 28.15
+  },
+  {
+   "text": "will",
+   "time": 29.12,
+   "weight": 0.99,
+   "note_time": 28.62
+  },
+  {
+   "text": "ing",
+   "time": 29.47,
+   "weight": 0.99,
+   "note_time": 30.92
+  },
+  {
+   "text": "ly",
+   "time": 29.82,
+   "weight": 0.99,
+   "note_time": 31.15
+  },
+  {
+   "text": "Bless",
+   "time": 31.08,
+   "weight": 0.27,
+   "note_time": 34.15
+  },
+  {
+   "text": "the",
+   "time": 33.0,
+   "weight": 0.99,
+   "note_time": 34.62
+  },
+  {
+   "text": "Lord",
+   "time": 33.46,
+   "weight": 0.85,
+   "note_time": 34.85
+  },
+  {
+   "text": "Hear,",
+   "time": 36.2,
+   "weight": 0.38,
+   "note_time": 36.46
+  },
+  {
+   "text": "O",
+   "time": 36.96,
+   "weight": 0.81,
+   "note_time": 36.92
+  },
+  {
+   "text": "kings,",
+   "time": 37.36,
+   "weight": 0.53,
+   "note_time": 38.31
+  },
+  {
+   "text": "give",
+   "time": 38.06,
+   "weight": 0.97,
+   "note_time": 38.77
+  },
+  {
+   "text": "ear,",
+   "time": 39.06,
+   "weight": 0.99,
+   "note_time": 39.69
+  },
+  {
+   "text": "O",
+   "time": 39.84,
+   "weight": 0.99,
+   "note_time": 46.15
+  },
+  {
+   "text": "prin",
+   "time": 40.88,
+   "weight": 0.9,
+   "note_time": 46.85
+  },
+  {
+   "text": "ces",
+   "time": 41.23,
+   "weight": 0.9,
+   "note_time": 47.08
+  },
+  {
+   "text": "A",
+   "time": 48.0,
+   "weight": 0.77,
+   "note_time": 48.0
+  },
+  {
+   "text": "wake,",
+   "time": 48.32,
+   "weight": 0.77,
+   "note_time": 48.23
+  },
+  {
+   "text": "a",
+   "time": 48.88,
+   "weight": 0.97,
+   "note_time": 48.46
+  },
+  {
+   "text": "wake,",
+   "time": 49.23,
+   "weight": 0.97,
+   "note_time": 48.69
+  },
+  {
+   "text": "Debo",
+   "time": 49.84,
+   "weight": 0.98,
+   "note_time": 48.81
+  },
+  {
+   "text": "rah",
+   "time": 50.19,
+   "weight": 0.98,
+   "note_time": 48.92
+  },
+  {
+   "text": "A",
+   "time": 50.7,
+   "weight": 0.26,
+   "note_time": 51.69
+  },
+  {
+   "text": "wake,",
+   "time": 51.05,
+   "weight": 0.26,
+   "note_time": 51.92
+  },
+  {
+   "text": "a",
+   "time": 52.58,
+   "weight": 1.0,
+   "note_time": 52.62
+  },
+  {
+   "text": "wake,",
+   "time": 52.87,
+   "weight": 1.0,
+   "note_time": 53.08
+  },
+  {
+   "text": "sing",
+   "time": 53.58,
+   "weight": 0.96,
+   "note_time": 53.31
+  },
+  {
+   "text": "a",
+   "time": 54.22,
+   "weight": 0.97,
+   "note_time": 53.54
+  },
+  {
+   "text": "song",
+   "time": 54.72,
+   "weight": 1.0,
+   "note_time": 54.23
+  },
+  {
+   "text": "A",
+   "time": 55.28,
+   "weight": 0.51,
+   "note_time": 55.38
+  },
+  {
+   "text": "rise,",
+   "time": 55.63,
+   "weight": 0.51,
+   "note_time": 55.62
+  },
+  {
+   "text": "Ba",
+   "time": 56.5,
+   "weight": 0.52,
+   "note_time": 56.19
+  },
+  {
+   "text": "rak,",
+   "time": 56.72,
+   "weight": 0.52,
+   "note_time": 56.31
+  },
+  {
+   "text": "lead",
+   "time": 57.16,
+   "weight": 0.76,
+   "note_time": 56.77
+  },
+  {
+   "text": "a",
+   "time": 58.02,
+   "weight": 0.97,
+   "note_time": 57.0
+  },
+  {
+   "text": "way",
+   "time": 58.2,
+   "weight": 0.97,
+   "note_time": 57.23
+  },
+  {
+   "text": "your",
+   "time": 58.38,
+   "weight": 0.95,
+   "note_time": 57.69
+  },
+  {
+   "text": "cap",
+   "time": 58.94,
+   "weight": 1.0,
+   "note_time": 57.92
+  },
+  {
+   "text": "tives",
+   "time": 59.29,
+   "weight": 1.0,
+   "note_time": 58.15
+  },
+  {
+   "text": "A",
+   "time": 60.35,
+   "weight": 0.0,
+   "note_time": 61.62
+  },
+  {
+   "text": "wake,",
+   "time": 61.41,
+   "weight": 0.0,
+   "note_time": 61.85
+  },
+  {
+   "text": "a",
+   "time": 62.48,
+   "weight": 0.0,
+   "note_time": 62.77
+  },
+  {
+   "text": "wake,",
+   "time": 63.54,
+   "weight": 0.0,
+   "note_time": 63.23
+  },
+  {
+   "text": "Debo",
+   "time": 64.6,
+   "weight": 0.98,
+   "note_time": 63.46
+  },
+  {
+   "text": "rah",
+   "time": 64.95,
+   "weight": 0.98,
+   "note_time": 63.69
+  },
+  {
+   "text": "Lord,",
+   "time": 78.3,
+   "weight": 0.69,
+   "note_time": 78.46
+  },
+  {
+   "text": "when",
+   "time": 81.26,
+   "weight": 0.99,
+   "note_time": 81.23
+  },
+  {
+   "text": "you",
+   "time": 81.72,
+   "weight": 0.92,
+   "note_time": 81.69
+  },
+  {
+   "text": "went",
+   "time": 82.0,
+   "weight": 1.0,
+   "note_time": 81.92
+  },
+  {
+   "text": "out",
+   "time": 82.98,
+   "weight": 1.0,
+   "note_time": 82.15
+  },
+  {
+   "text": "from",
+   "time": 84.04,
+   "weight": 0.99,
+   "note_time": 82.62
+  },
+  {
+   "text": "Seir",
+   "time": 84.8,
+   "weight": 0.33,
+   "note_time": 82.85
+  },
+  {
+   "text": "The",
+   "time": 85.66,
+   "weight": 0.15,
+   "note_time": 85.62
+  },
+  {
+   "text": "earth",
+   "time": 86.98,
+   "weight": 0.28,
+   "note_time": 86.77
+  },
+  {
+   "text": "trem",
+   "time": 88.3,
+   "weight": 0.97,
+   "note_time": 88.15
+  },
+  {
+   "text": "bled",
+   "time": 88.65,
+   "weight": 0.97,
+   "note_time": 88.62
+  },
+  {
+   "text": "and",
+   "time": 89.6,
+   "weight": 0.91,
+   "note_time": 89.31
+  },
+  {
+   "text": "the",
+   "time": 90.36,
+   "weight": 0.99,
+   "note_time": 89.54
+  },
+  {
+   "text": "heav",
+   "time": 90.72,
+   "weight": 0.99,
+   "note_time": 90.23
+  },
+  {
+   "text": "ens",
+   "time": 91.05,
+   "weight": 0.99,
+   "note_time": 90.46
+  },
+  {
+   "text": "poured",
+   "time": 91.38,
+   "weight": 0.99,
+   "note_time": 90.92
+  },
+  {
+   "text": "The",
+   "time": 92.24,
+   "weight": 0.55,
+   "note_time": 91.38
+  },
+  {
+   "text": "moun",
+   "time": 92.76,
+   "weight": 0.99,
+   "note_time": 92.08
+  },
+  {
+   "text": "tains",
+   "time": 93.04,
+   "weight": 0.99,
+   "note_time": 92.31
+  },
+  {
+   "text": "qua",
+   "time": 93.32,
+   "weight": 0.99,
+   "note_time": 92.77
+  },
+  {
+   "text": "ked",
+   "time": 93.67,
+   "weight": 0.99,
+   "note_time": 93.23
+  },
+  {
+   "text": "be",
+   "time": 94.22,
+   "weight": 0.99,
+   "note_time": 93.69
+  },
+  {
+   "text": "fore",
+   "time": 94.53,
+   "weight": 0.99,
+   "note_time": 93.92
+  },
+  {
+   "text": "the",
+   "time": 94.84,
+   "weight": 0.97,
+   "note_time": 94.15
+  },
+  {
+   "text": "Lord",
+   "time": 95.34,
+   "weight": 0.9,
+   "note_time": 95.08
+  },
+  {
+   "text": "The",
+   "time": 95.7,
+   "weight": 0.15,
+   "note_time": 96.0
+  },
+  {
+   "text": "God",
+   "time": 96.5,
+   "weight": 0.99,
+   "note_time": 96.92
+  },
+  {
+   "text": "of",
+   "time": 96.92,
+   "weight": 0.98,
+   "note_time": 97.85
+  },
+  {
+   "text": "Is",
+   "time": 97.78,
+   "weight": 0.34,
+   "note_time": 101.31
+  },
+  {
+   "text": "rael",
+   "time": 98.13,
+   "weight": 0.34,
+   "note_time": 101.54
+  },
+  {
+   "text": "A",
+   "time": 103.62,
+   "weight": 0.42,
+   "note_time": 103.38
+  },
+  {
+   "text": "wake,",
+   "time": 103.94,
+   "weight": 0.42,
+   "note_time": 103.62
+  },
+  {
+   "text": "a",
+   "time": 104.3,
+   "weight": 0.96,
+   "note_time": 103.85
+  },
+  {
+   "text": "wake,",
+   "time": 104.62,
+   "weight": 0.96,
+   "note_time": 104.08
+  },
+  {
+   "text": "Debo",
+   "time": 105.24,
+   "weight": 0.98,
+   "note_time": 104.19
+  },
+  {
+   "text": "rah",
+   "time": 105.59,
+   "weight": 0.98,
+   "note_time": 104.31
+  },
+  {
+   "text": "A",
+   "time": 107.12,
+   "weight": 0.65,
+   "note_time": 107.08
+  },
+  {
+   "text": "wake,",
+   "time": 107.44,
+   "weight": 0.65,
+   "note_time": 107.54
+  },
+  {
+   "text": "a",
+   "time": 107.94,
+   "weight": 0.99,
+   "note_time": 108.0
+  },
+  {
+   "text": "wake,",
+   "time": 108.29,
+   "weight": 0.99,
+   "note_time": 108.46
+  },
+  {
+   "text": "sing",
+   "time": 108.92,
+   "weight": 0.94,
+   "note_time": 108.69
+  },
+  {
+   "text": "a",
+   "time": 109.58,
+   "weight": 0.93,
+   "note_time": 108.92
+  },
+  {
+   "text": "song",
+   "time": 110.12,
+   "weight": 1.0,
+   "note_time": 109.62
+  },
+  {
+   "text": "A",
+   "time": 110.76,
+   "weight": 0.59,
+   "note_time": 110.77
+  },
+  {
+   "text": "rise,",
+   "time": 111.11,
+   "weight": 0.59,
+   "note_time": 111.0
+  },
+  {
+   "text": "Ba",
+   "time": 111.56,
+   "weight": 0.44,
+   "note_time": 111.58
+  },
+  {
+   "text": "rak,",
+   "time": 111.91,
+   "weight": 0.44,
+   "note_time": 111.69
+  },
+  {
+   "text": "lead",
+   "time": 112.56,
+   "weight": 0.99,
+   "note_time": 112.15
+  },
+  {
+   "text": "a",
+   "time": 113.32,
+   "weight": 0.95,
+   "note_time": 112.38
+  },
+  {
+   "text": "way",
+   "time": 113.53,
+   "weight": 0.95,
+   "note_time": 112.62
+  },
+  {
+   "text": "your",
+   "time": 113.74,
+   "weight": 0.95,
+   "note_time": 113.08
+  },
+  {
+   "text": "cap",
+   "time": 114.34,
+   "weight": 1.0,
+   "note_time": 113.31
+  },
+  {
+   "text": "tives",
+   "time": 114.69,
+   "weight": 1.0,
+   "note_time": 113.54
+  },
+  {
+   "text": "A",
+   "time": 115.78,
+   "weight": 0.0,
+   "note_time": 116.08
+  },
+  {
+   "text": "wake,",
+   "time": 116.86,
+   "weight": 0.0,
+   "note_time": 116.31
+  },
+  {
+   "text": "a",
+   "time": 117.95,
+   "weight": 0.0,
+   "note_time": 117.23
+  },
+  {
+   "text": "wake,",
+   "time": 119.03,
+   "weight": 0.0,
+   "note_time": 118.15
+  },
+  {
+   "text": "Debo",
+   "time": 120.12,
+   "weight": 1.0,
+   "note_time": 118.62
+  },
+  {
+   "text": "rah",
+   "time": 120.47,
+   "weight": 1.0,
+   "note_time": 119.08
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "13 of 16 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

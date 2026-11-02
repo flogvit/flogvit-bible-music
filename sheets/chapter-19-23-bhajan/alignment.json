@@ -1,0 +1,880 @@
+{
+ "id": "chapter-19-23-bhajan",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-23-bhajan",
+ "offset_seconds": -3.08000000000019,
+ "words_heard": 99,
+ "words": 103,
+ "lines": [
+  {
+   "text": "The Lord is my shepherd",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My shepherd, I shall not want",
+   "heard": 6,
+   "words": 6,
+   "error_s": 4.15,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He makes me lie down in green pastures",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.6,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He leads me beside still waters",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.46,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My shepherd is the Lord, the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My shepherd is the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My shepherd is the Lord, the Lord",
+   "heard": 6,
+   "words": 7,
+   "error_s": 5.77,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My shepherd is the Lord",
+   "heard": 2,
+   "words": 5,
+   "error_s": 10.39,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He restores my soul",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He leads me in paths of righteousness",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Even in the valley of the shadow of death",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will fear no evil, for you are with me",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My shepherd is the Lord, the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My shepherd is the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My shepherd is the Lord, the Lord",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My shepherd is the Lord",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 30.08,
+   "weight": 0.3,
+   "note_time": 30.71
+  },
+  {
+   "text": "Lord",
+   "time": 31.12,
+   "weight": 0.98,
+   "note_time": 31.06
+  },
+  {
+   "text": "is",
+   "time": 32.16,
+   "weight": 0.96,
+   "note_time": 31.59
+  },
+  {
+   "text": "my",
+   "time": 32.68,
+   "weight": 0.62,
+   "note_time": 32.12
+  },
+  {
+   "text": "shep",
+   "time": 33.02,
+   "weight": 0.15,
+   "note_time": 32.47
+  },
+  {
+   "text": "herd",
+   "time": 33.04,
+   "weight": 0.15,
+   "note_time": 33.18
+  },
+  {
+   "text": "My",
+   "time": 33.06,
+   "weight": 0.28,
+   "note_time": 36.71
+  },
+  {
+   "text": "shep",
+   "time": 33.06,
+   "weight": 0.67,
+   "note_time": 37.24
+  },
+  {
+   "text": "herd,",
+   "time": 33.41,
+   "weight": 0.67,
+   "note_time": 37.76
+  },
+  {
+   "text": "I",
+   "time": 34.12,
+   "weight": 0.14,
+   "note_time": 38.12
+  },
+  {
+   "text": "shall",
+   "time": 36.12,
+   "weight": 0.4,
+   "note_time": 42.0
+  },
+  {
+   "text": "not",
+   "time": 38.22,
+   "weight": 1.0,
+   "note_time": 42.35
+  },
+  {
+   "text": "want",
+   "time": 38.88,
+   "weight": 0.99,
+   "note_time": 42.88
+  },
+  {
+   "text": "He",
+   "time": 39.42,
+   "weight": 0.79,
+   "note_time": 43.41
+  },
+  {
+   "text": "makes",
+   "time": 40.7,
+   "weight": 0.4,
+   "note_time": 43.76
+  },
+  {
+   "text": "me",
+   "time": 43.54,
+   "weight": 1.0,
+   "note_time": 44.29
+  },
+  {
+   "text": "lie",
+   "time": 43.92,
+   "weight": 0.99,
+   "note_time": 44.82
+  },
+  {
+   "text": "down",
+   "time": 44.42,
+   "weight": 1.0,
+   "note_time": 45.18
+  },
+  {
+   "text": "in",
+   "time": 44.9,
+   "weight": 0.97,
+   "note_time": 45.88
+  },
+  {
+   "text": "green",
+   "time": 45.42,
+   "weight": 0.99,
+   "note_time": 47.65
+  },
+  {
+   "text": "pas",
+   "time": 45.78,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "tures",
+   "time": 46.13,
+   "weight": 1.0,
+   "note_time": 48.53
+  },
+  {
+   "text": "He",
+   "time": 47.84,
+   "weight": 0.92,
+   "note_time": 49.06
+  },
+  {
+   "text": "leads",
+   "time": 48.5,
+   "weight": 1.0,
+   "note_time": 49.41
+  },
+  {
+   "text": "me",
+   "time": 49.18,
+   "weight": 1.0,
+   "note_time": 50.12
+  },
+  {
+   "text": "be",
+   "time": 49.54,
+   "weight": 0.95,
+   "note_time": 50.82
+  },
+  {
+   "text": "side",
+   "time": 49.89,
+   "weight": 0.95,
+   "note_time": 51.53
+  },
+  {
+   "text": "still",
+   "time": 50.36,
+   "weight": 1.0,
+   "note_time": 53.29
+  },
+  {
+   "text": "wa",
+   "time": 51.08,
+   "weight": 0.87,
+   "note_time": 53.65
+  },
+  {
+   "text": "ters",
+   "time": 51.43,
+   "weight": 0.87,
+   "note_time": 54.0
+  },
+  {
+   "text": "My",
+   "time": 53.66,
+   "weight": 0.96,
+   "note_time": 54.35
+  },
+  {
+   "text": "shep",
+   "time": 54.32,
+   "weight": 0.96,
+   "note_time": 54.71
+  },
+  {
+   "text": "herd",
+   "time": 54.63,
+   "weight": 0.96,
+   "note_time": 55.06
+  },
+  {
+   "text": "is",
+   "time": 54.94,
+   "weight": 1.0,
+   "note_time": 56.12
+  },
+  {
+   "text": "the",
+   "time": 55.46,
+   "weight": 0.98,
+   "note_time": 56.47
+  },
+  {
+   "text": "Lord,",
+   "time": 55.64,
+   "weight": 0.93,
+   "note_time": 58.94
+  },
+  {
+   "text": "the",
+   "time": 56.8,
+   "weight": 0.98,
+   "note_time": 59.29
+  },
+  {
+   "text": "Lord",
+   "time": 57.06,
+   "weight": 1.0,
+   "note_time": 59.65
+  },
+  {
+   "text": "My",
+   "time": 58.96,
+   "weight": 0.59,
+   "note_time": 60.0
+  },
+  {
+   "text": "shep",
+   "time": 59.92,
+   "weight": 0.24,
+   "note_time": 60.35
+  },
+  {
+   "text": "herd",
+   "time": 60.25,
+   "weight": 0.24,
+   "note_time": 60.71
+  },
+  {
+   "text": "is",
+   "time": 60.58,
+   "weight": 0.94,
+   "note_time": 61.76
+  },
+  {
+   "text": "the",
+   "time": 61.06,
+   "weight": 0.92,
+   "note_time": 62.12
+  },
+  {
+   "text": "Lord",
+   "time": 61.3,
+   "weight": 0.9,
+   "note_time": 64.59
+  },
+  {
+   "text": "My",
+   "time": 61.21,
+   "weight": 0.0,
+   "note_time": 64.94
+  },
+  {
+   "text": "shep",
+   "time": 61.12,
+   "weight": 0.15,
+   "note_time": 65.29
+  },
+  {
+   "text": "herd",
+   "time": 61.19,
+   "weight": 0.15,
+   "note_time": 65.65
+  },
+  {
+   "text": "is",
+   "time": 61.26,
+   "weight": 0.15,
+   "note_time": 66.0
+  },
+  {
+   "text": "the",
+   "time": 61.28,
+   "weight": 0.83,
+   "note_time": 66.35
+  },
+  {
+   "text": "Lord,",
+   "time": 61.34,
+   "weight": 0.63,
+   "note_time": 67.41
+  },
+  {
+   "text": "the",
+   "time": 62.3,
+   "weight": 0.96,
+   "note_time": 67.76
+  },
+  {
+   "text": "Lord",
+   "time": 62.72,
+   "weight": 0.99,
+   "note_time": 70.24
+  },
+  {
+   "text": "My",
+   "time": 62.68,
+   "weight": 0.0,
+   "note_time": 70.59
+  },
+  {
+   "text": "shep",
+   "time": 62.64,
+   "weight": 0.0,
+   "note_time": 70.94
+  },
+  {
+   "text": "herd",
+   "time": 62.6,
+   "weight": 0.0,
+   "note_time": 71.65
+  },
+  {
+   "text": "is",
+   "time": 62.56,
+   "weight": 0.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "the",
+   "time": 62.52,
+   "weight": 0.77,
+   "note_time": 72.71
+  },
+  {
+   "text": "Lord",
+   "time": 62.82,
+   "weight": 1.0,
+   "note_time": 73.41
+  },
+  {
+   "text": "He",
+   "time": 104.44,
+   "weight": 0.32,
+   "note_time": 104.47
+  },
+  {
+   "text": "re",
+   "time": 105.84,
+   "weight": 0.96,
+   "note_time": 105.53
+  },
+  {
+   "text": "stores",
+   "time": 106.19,
+   "weight": 0.96,
+   "note_time": 105.88
+  },
+  {
+   "text": "my",
+   "time": 107.24,
+   "weight": 0.99,
+   "note_time": 106.59
+  },
+  {
+   "text": "soul",
+   "time": 107.6,
+   "weight": 1.0,
+   "note_time": 107.29
+  },
+  {
+   "text": "He",
+   "time": 109.24,
+   "weight": 0.27,
+   "note_time": 109.76
+  },
+  {
+   "text": "leads",
+   "time": 110.76,
+   "weight": 1.0,
+   "note_time": 110.12
+  },
+  {
+   "text": "me",
+   "time": 111.28,
+   "weight": 1.0,
+   "note_time": 110.65
+  },
+  {
+   "text": "in",
+   "time": 111.62,
+   "weight": 0.99,
+   "note_time": 111.18
+  },
+  {
+   "text": "paths",
+   "time": 112.22,
+   "weight": 0.99,
+   "note_time": 111.53
+  },
+  {
+   "text": "of",
+   "time": 112.56,
+   "weight": 0.99,
+   "note_time": 112.24
+  },
+  {
+   "text": "right",
+   "time": 113.34,
+   "weight": 0.99,
+   "note_time": 112.94
+  },
+  {
+   "text": "eous",
+   "time": 113.69,
+   "weight": 0.99,
+   "note_time": 113.65
+  },
+  {
+   "text": "ness",
+   "time": 114.04,
+   "weight": 0.99,
+   "note_time": 114.0
+  },
+  {
+   "text": "E",
+   "time": 115.86,
+   "weight": 0.31,
+   "note_time": 115.76
+  },
+  {
+   "text": "ven",
+   "time": 116.21,
+   "weight": 0.31,
+   "note_time": 116.12
+  },
+  {
+   "text": "in",
+   "time": 116.88,
+   "weight": 0.99,
+   "note_time": 116.47
+  },
+  {
+   "text": "the",
+   "time": 117.5,
+   "weight": 0.99,
+   "note_time": 116.82
+  },
+  {
+   "text": "val",
+   "time": 117.78,
+   "weight": 0.99,
+   "note_time": 117.18
+  },
+  {
+   "text": "ley",
+   "time": 118.13,
+   "weight": 0.99,
+   "note_time": 117.53
+  },
+  {
+   "text": "of",
+   "time": 118.48,
+   "weight": 0.98,
+   "note_time": 117.88
+  },
+  {
+   "text": "the",
+   "time": 118.9,
+   "weight": 0.99,
+   "note_time": 118.24
+  },
+  {
+   "text": "shad",
+   "time": 119.18,
+   "weight": 0.99,
+   "note_time": 118.59
+  },
+  {
+   "text": "ow",
+   "time": 119.44,
+   "weight": 0.99,
+   "note_time": 118.94
+  },
+  {
+   "text": "of",
+   "time": 119.7,
+   "weight": 0.99,
+   "note_time": 119.65
+  },
+  {
+   "text": "death",
+   "time": 120.6,
+   "weight": 0.98,
+   "note_time": 120.0
+  },
+  {
+   "text": "I",
+   "time": 121.06,
+   "weight": 0.74,
+   "note_time": 121.41
+  },
+  {
+   "text": "will",
+   "time": 122.42,
+   "weight": 0.98,
+   "note_time": 121.76
+  },
+  {
+   "text": "fear",
+   "time": 122.72,
+   "weight": 1.0,
+   "note_time": 122.12
+  },
+  {
+   "text": "no",
+   "time": 123.12,
+   "weight": 1.0,
+   "note_time": 122.47
+  },
+  {
+   "text": "e",
+   "time": 123.44,
+   "weight": 1.0,
+   "note_time": 122.82
+  },
+  {
+   "text": "vil,",
+   "time": 123.78,
+   "weight": 1.0,
+   "note_time": 123.18
+  },
+  {
+   "text": "for",
+   "time": 124.34,
+   "weight": 0.98,
+   "note_time": 124.24
+  },
+  {
+   "text": "you",
+   "time": 125.18,
+   "weight": 0.62,
+   "note_time": 124.59
+  },
+  {
+   "text": "are",
+   "time": 125.58,
+   "weight": 0.99,
+   "note_time": 125.29
+  },
+  {
+   "text": "with",
+   "time": 126.32,
+   "weight": 1.0,
+   "note_time": 125.65
+  },
+  {
+   "text": "me",
+   "time": 126.66,
+   "weight": 0.98,
+   "note_time": 126.35
+  },
+  {
+   "text": "My",
+   "time": 127.36,
+   "weight": 0.84,
+   "note_time": 126.71
+  },
+  {
+   "text": "shep",
+   "time": 127.64,
+   "weight": 0.55,
+   "note_time": 127.06
+  },
+  {
+   "text": "herd",
+   "time": 127.98,
+   "weight": 0.55,
+   "note_time": 127.41
+  },
+  {
+   "text": "is",
+   "time": 128.32,
+   "weight": 1.0,
+   "note_time": 127.76
+  },
+  {
+   "text": "the",
+   "time": 128.84,
+   "weight": 0.99,
+   "note_time": 128.12
+  },
+  {
+   "text": "Lord,",
+   "time": 129.06,
+   "weight": 0.96,
+   "note_time": 128.47
+  },
+  {
+   "text": "the",
+   "time": 130.1,
+   "weight": 0.98,
+   "note_time": 129.53
+  },
+  {
+   "text": "Lord",
+   "time": 130.5,
+   "weight": 1.0,
+   "note_time": 129.88
+  },
+  {
+   "text": "My",
+   "time": 131.12,
+   "weight": 0.36,
+   "note_time": 132.35
+  },
+  {
+   "text": "shep",
+   "time": 133.38,
+   "weight": 1.0,
+   "note_time": 133.06
+  },
+  {
+   "text": "herd",
+   "time": 133.58,
+   "weight": 1.0,
+   "note_time": 133.41
+  },
+  {
+   "text": "is",
+   "time": 133.78,
+   "weight": 1.0,
+   "note_time": 133.76
+  },
+  {
+   "text": "the",
+   "time": 134.48,
+   "weight": 1.0,
+   "note_time": 134.12
+  },
+  {
+   "text": "Lord",
+   "time": 134.7,
+   "weight": 1.0,
+   "note_time": 135.18
+  },
+  {
+   "text": "My",
+   "time": 136.7,
+   "weight": 0.24,
+   "note_time": 138.0
+  },
+  {
+   "text": "shep",
+   "time": 138.94,
+   "weight": 0.58,
+   "note_time": 138.35
+  },
+  {
+   "text": "herd",
+   "time": 139.26,
+   "weight": 0.58,
+   "note_time": 138.71
+  },
+  {
+   "text": "is",
+   "time": 139.58,
+   "weight": 0.99,
+   "note_time": 139.06
+  },
+  {
+   "text": "the",
+   "time": 140.14,
+   "weight": 0.98,
+   "note_time": 139.41
+  },
+  {
+   "text": "Lord,",
+   "time": 140.34,
+   "weight": 0.94,
+   "note_time": 139.76
+  },
+  {
+   "text": "the",
+   "time": 141.52,
+   "weight": 0.74,
+   "note_time": 140.82
+  },
+  {
+   "text": "Lord",
+   "time": 141.76,
+   "weight": 1.0,
+   "note_time": 141.18
+  },
+  {
+   "text": "My",
+   "time": 142.28,
+   "weight": 0.33,
+   "note_time": 143.65
+  },
+  {
+   "text": "shep",
+   "time": 144.62,
+   "weight": 0.98,
+   "note_time": 144.35
+  },
+  {
+   "text": "herd",
+   "time": 144.94,
+   "weight": 0.98,
+   "note_time": 145.06
+  },
+  {
+   "text": "is",
+   "time": 145.26,
+   "weight": 1.0,
+   "note_time": 145.41
+  },
+  {
+   "text": "the",
+   "time": 146.54,
+   "weight": 1.0,
+   "note_time": 146.12
+  },
+  {
+   "text": "Lord",
+   "time": 147.06,
+   "weight": 1.0,
+   "note_time": 146.82
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 16 lyric lines sit clearly on their notes; 7 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,946 @@
+{
+ "id": "chapter-22-2-middle-eastern",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-22-2-middle-eastern",
+ "offset_seconds": -1.2200000000002298,
+ "words_heard": 104,
+ "words": 104,
+ "lines": [
+  {
+   "text": "The voice of my beloved, look, he comes",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leaping over the mountains, bounding over the hills",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My beloved speaks and says to me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, my love, my beautiful one, and come away",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For behold, the winter is past",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The rain is over and gone",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The flowers appear on the earth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The time of singing has come",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The fig tree ripens its figs",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The vines are in blossom, they give their fragrance",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Arise, my love, my beautiful one",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And come away",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For behold, the winter is past",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The rain is over and gone",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The flowers appear on the earth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The time of singing has come",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 36.24,
+   "weight": 0.72,
+   "note_time": 36.22
+  },
+  {
+   "text": "voice",
+   "time": 37.54,
+   "weight": 0.97,
+   "note_time": 37.32
+  },
+  {
+   "text": "of",
+   "time": 38.08,
+   "weight": 1.0,
+   "note_time": 37.68
+  },
+  {
+   "text": "my",
+   "time": 38.52,
+   "weight": 0.95,
+   "note_time": 38.05
+  },
+  {
+   "text": "belo",
+   "time": 38.8,
+   "weight": 0.73,
+   "note_time": 38.41
+  },
+  {
+   "text": "ved,",
+   "time": 39.15,
+   "weight": 0.73,
+   "note_time": 39.51
+  },
+  {
+   "text": "look,",
+   "time": 40.32,
+   "weight": 0.94,
+   "note_time": 40.24
+  },
+  {
+   "text": "he",
+   "time": 41.04,
+   "weight": 0.43,
+   "note_time": 40.98
+  },
+  {
+   "text": "comes",
+   "time": 41.6,
+   "weight": 1.0,
+   "note_time": 42.44
+  },
+  {
+   "text": "Leap",
+   "time": 43.28,
+   "weight": 0.96,
+   "note_time": 43.17
+  },
+  {
+   "text": "ing",
+   "time": 43.63,
+   "weight": 0.96,
+   "note_time": 43.54
+  },
+  {
+   "text": "o",
+   "time": 44.36,
+   "weight": 1.0,
+   "note_time": 43.72
+  },
+  {
+   "text": "ver",
+   "time": 44.59,
+   "weight": 1.0,
+   "note_time": 43.9
+  },
+  {
+   "text": "the",
+   "time": 44.82,
+   "weight": 1.0,
+   "note_time": 44.63
+  },
+  {
+   "text": "moun",
+   "time": 45.1,
+   "weight": 0.99,
+   "note_time": 45.37
+  },
+  {
+   "text": "tains,",
+   "time": 45.45,
+   "weight": 0.99,
+   "note_time": 45.73
+  },
+  {
+   "text": "bound",
+   "time": 46.48,
+   "weight": 0.98,
+   "note_time": 46.1
+  },
+  {
+   "text": "ing",
+   "time": 46.83,
+   "weight": 0.98,
+   "note_time": 46.46
+  },
+  {
+   "text": "o",
+   "time": 47.28,
+   "weight": 1.0,
+   "note_time": 46.65
+  },
+  {
+   "text": "ver",
+   "time": 47.51,
+   "weight": 1.0,
+   "note_time": 46.83
+  },
+  {
+   "text": "the",
+   "time": 47.74,
+   "weight": 1.0,
+   "note_time": 48.29
+  },
+  {
+   "text": "hills",
+   "time": 48.08,
+   "weight": 1.0,
+   "note_time": 48.66
+  },
+  {
+   "text": "My",
+   "time": 48.66,
+   "weight": 0.98,
+   "note_time": 49.02
+  },
+  {
+   "text": "belo",
+   "time": 49.76,
+   "weight": 0.98,
+   "note_time": 49.39
+  },
+  {
+   "text": "ved",
+   "time": 50.1,
+   "weight": 0.98,
+   "note_time": 49.76
+  },
+  {
+   "text": "speaks",
+   "time": 50.44,
+   "weight": 0.99,
+   "note_time": 50.85
+  },
+  {
+   "text": "and",
+   "time": 51.06,
+   "weight": 0.98,
+   "note_time": 51.22
+  },
+  {
+   "text": "says",
+   "time": 52.22,
+   "weight": 1.0,
+   "note_time": 51.95
+  },
+  {
+   "text": "to",
+   "time": 52.66,
+   "weight": 1.0,
+   "note_time": 52.68
+  },
+  {
+   "text": "me",
+   "time": 53.24,
+   "weight": 1.0,
+   "note_time": 53.96
+  },
+  {
+   "text": "A",
+   "time": 54.66,
+   "weight": 0.32,
+   "note_time": 54.88
+  },
+  {
+   "text": "rise,",
+   "time": 55.01,
+   "weight": 0.32,
+   "note_time": 55.24
+  },
+  {
+   "text": "my",
+   "time": 56.24,
+   "weight": 0.84,
+   "note_time": 55.61
+  },
+  {
+   "text": "love,",
+   "time": 56.54,
+   "weight": 0.99,
+   "note_time": 56.71
+  },
+  {
+   "text": "my",
+   "time": 57.38,
+   "weight": 1.0,
+   "note_time": 57.07
+  },
+  {
+   "text": "beau",
+   "time": 57.94,
+   "weight": 0.99,
+   "note_time": 57.44
+  },
+  {
+   "text": "ti",
+   "time": 58.28,
+   "weight": 0.99,
+   "note_time": 57.8
+  },
+  {
+   "text": "ful",
+   "time": 58.62,
+   "weight": 0.99,
+   "note_time": 58.17
+  },
+  {
+   "text": "one,",
+   "time": 58.96,
+   "weight": 1.0,
+   "note_time": 58.54
+  },
+  {
+   "text": "and",
+   "time": 60.02,
+   "weight": 0.28,
+   "note_time": 60.0
+  },
+  {
+   "text": "come",
+   "time": 61.28,
+   "weight": 0.97,
+   "note_time": 60.73
+  },
+  {
+   "text": "a",
+   "time": 61.9,
+   "weight": 0.94,
+   "note_time": 61.1
+  },
+  {
+   "text": "way",
+   "time": 62.25,
+   "weight": 0.94,
+   "note_time": 61.46
+  },
+  {
+   "text": "For",
+   "time": 65.62,
+   "weight": 0.73,
+   "note_time": 65.85
+  },
+  {
+   "text": "be",
+   "time": 67.02,
+   "weight": 0.98,
+   "note_time": 66.59
+  },
+  {
+   "text": "hold,",
+   "time": 67.37,
+   "weight": 0.98,
+   "note_time": 67.32
+  },
+  {
+   "text": "the",
+   "time": 68.66,
+   "weight": 0.98,
+   "note_time": 68.41
+  },
+  {
+   "text": "win",
+   "time": 69.48,
+   "weight": 0.99,
+   "note_time": 68.78
+  },
+  {
+   "text": "ter",
+   "time": 69.83,
+   "weight": 0.99,
+   "note_time": 69.33
+  },
+  {
+   "text": "is",
+   "time": 70.34,
+   "weight": 0.99,
+   "note_time": 69.88
+  },
+  {
+   "text": "past",
+   "time": 70.98,
+   "weight": 0.99,
+   "note_time": 70.24
+  },
+  {
+   "text": "The",
+   "time": 71.6,
+   "weight": 0.9,
+   "note_time": 71.34
+  },
+  {
+   "text": "rain",
+   "time": 72.4,
+   "weight": 0.98,
+   "note_time": 72.44
+  },
+  {
+   "text": "is",
+   "time": 72.92,
+   "weight": 1.0,
+   "note_time": 72.8
+  },
+  {
+   "text": "o",
+   "time": 73.76,
+   "weight": 1.0,
+   "note_time": 73.17
+  },
+  {
+   "text": "ver",
+   "time": 74.11,
+   "weight": 1.0,
+   "note_time": 74.63
+  },
+  {
+   "text": "and",
+   "time": 74.92,
+   "weight": 0.4,
+   "note_time": 75.37
+  },
+  {
+   "text": "gone",
+   "time": 76.56,
+   "weight": 0.98,
+   "note_time": 76.1
+  },
+  {
+   "text": "The",
+   "time": 77.24,
+   "weight": 0.99,
+   "note_time": 77.2
+  },
+  {
+   "text": "flow",
+   "time": 78.22,
+   "weight": 0.99,
+   "note_time": 78.29
+  },
+  {
+   "text": "ers",
+   "time": 78.57,
+   "weight": 0.99,
+   "note_time": 78.66
+  },
+  {
+   "text": "ap",
+   "time": 79.22,
+   "weight": 0.99,
+   "note_time": 79.02
+  },
+  {
+   "text": "pear",
+   "time": 79.57,
+   "weight": 0.99,
+   "note_time": 80.49
+  },
+  {
+   "text": "on",
+   "time": 79.96,
+   "weight": 0.4,
+   "note_time": 81.22
+  },
+  {
+   "text": "the",
+   "time": 81.62,
+   "weight": 1.0,
+   "note_time": 81.59
+  },
+  {
+   "text": "earth",
+   "time": 82.08,
+   "weight": 0.99,
+   "note_time": 81.95
+  },
+  {
+   "text": "The",
+   "time": 83.04,
+   "weight": 0.68,
+   "note_time": 83.05
+  },
+  {
+   "text": "time",
+   "time": 84.04,
+   "weight": 0.96,
+   "note_time": 84.15
+  },
+  {
+   "text": "of",
+   "time": 84.42,
+   "weight": 0.99,
+   "note_time": 84.51
+  },
+  {
+   "text": "sin",
+   "time": 85.22,
+   "weight": 0.97,
+   "note_time": 84.88
+  },
+  {
+   "text": "ging",
+   "time": 85.57,
+   "weight": 0.97,
+   "note_time": 86.34
+  },
+  {
+   "text": "has",
+   "time": 86.36,
+   "weight": 0.4,
+   "note_time": 87.07
+  },
+  {
+   "text": "come",
+   "time": 88.08,
+   "weight": 0.99,
+   "note_time": 87.8
+  },
+  {
+   "text": "The",
+   "time": 106.04,
+   "weight": 0.57,
+   "note_time": 106.46
+  },
+  {
+   "text": "fig",
+   "time": 106.88,
+   "weight": 0.99,
+   "note_time": 106.83
+  },
+  {
+   "text": "tree",
+   "time": 107.54,
+   "weight": 0.97,
+   "note_time": 107.56
+  },
+  {
+   "text": "ri",
+   "time": 108.24,
+   "weight": 0.4,
+   "note_time": 108.29
+  },
+  {
+   "text": "pens",
+   "time": 108.59,
+   "weight": 0.4,
+   "note_time": 109.76
+  },
+  {
+   "text": "its",
+   "time": 110.42,
+   "weight": 0.49,
+   "note_time": 110.49
+  },
+  {
+   "text": "figs",
+   "time": 111.22,
+   "weight": 0.95,
+   "note_time": 111.22
+  },
+  {
+   "text": "The",
+   "time": 112.38,
+   "weight": 0.83,
+   "note_time": 112.32
+  },
+  {
+   "text": "vines",
+   "time": 112.86,
+   "weight": 0.98,
+   "note_time": 112.68
+  },
+  {
+   "text": "are",
+   "time": 113.64,
+   "weight": 1.0,
+   "note_time": 113.23
+  },
+  {
+   "text": "in",
+   "time": 113.9,
+   "weight": 1.0,
+   "note_time": 113.78
+  },
+  {
+   "text": "blos",
+   "time": 114.4,
+   "weight": 0.99,
+   "note_time": 114.15
+  },
+  {
+   "text": "som,",
+   "time": 114.75,
+   "weight": 0.99,
+   "note_time": 114.88
+  },
+  {
+   "text": "they",
+   "time": 115.7,
+   "weight": 0.91,
+   "note_time": 115.61
+  },
+  {
+   "text": "give",
+   "time": 116.14,
+   "weight": 1.0,
+   "note_time": 116.16
+  },
+  {
+   "text": "their",
+   "time": 116.74,
+   "weight": 0.99,
+   "note_time": 116.71
+  },
+  {
+   "text": "fra",
+   "time": 117.26,
+   "weight": 0.98,
+   "note_time": 117.07
+  },
+  {
+   "text": "grance",
+   "time": 117.61,
+   "weight": 0.98,
+   "note_time": 117.8
+  },
+  {
+   "text": "A",
+   "time": 118.32,
+   "weight": 0.92,
+   "note_time": 119.09
+  },
+  {
+   "text": "rise,",
+   "time": 118.67,
+   "weight": 0.92,
+   "note_time": 119.27
+  },
+  {
+   "text": "my",
+   "time": 119.44,
+   "weight": 0.99,
+   "note_time": 119.63
+  },
+  {
+   "text": "love,",
+   "time": 120.12,
+   "weight": 0.98,
+   "note_time": 120.0
+  },
+  {
+   "text": "my",
+   "time": 121.14,
+   "weight": 1.0,
+   "note_time": 121.1
+  },
+  {
+   "text": "beau",
+   "time": 121.56,
+   "weight": 0.98,
+   "note_time": 121.46
+  },
+  {
+   "text": "ti",
+   "time": 121.85,
+   "weight": 0.98,
+   "note_time": 122.01
+  },
+  {
+   "text": "ful",
+   "time": 122.15,
+   "weight": 0.98,
+   "note_time": 122.56
+  },
+  {
+   "text": "one",
+   "time": 122.44,
+   "weight": 0.99,
+   "note_time": 122.93
+  },
+  {
+   "text": "And",
+   "time": 123.84,
+   "weight": 0.94,
+   "note_time": 124.39
+  },
+  {
+   "text": "come",
+   "time": 124.84,
+   "weight": 1.0,
+   "note_time": 124.94
+  },
+  {
+   "text": "a",
+   "time": 125.4,
+   "weight": 0.97,
+   "note_time": 125.49
+  },
+  {
+   "text": "way",
+   "time": 125.75,
+   "weight": 0.97,
+   "note_time": 125.85
+  },
+  {
+   "text": "For",
+   "time": 129.84,
+   "weight": 0.92,
+   "note_time": 130.24
+  },
+  {
+   "text": "be",
+   "time": 130.54,
+   "weight": 0.91,
+   "note_time": 130.98
+  },
+  {
+   "text": "hold,",
+   "time": 130.89,
+   "weight": 0.91,
+   "note_time": 131.71
+  },
+  {
+   "text": "the",
+   "time": 132.34,
+   "weight": 0.99,
+   "note_time": 132.8
+  },
+  {
+   "text": "win",
+   "time": 133.08,
+   "weight": 0.99,
+   "note_time": 133.17
+  },
+  {
+   "text": "ter",
+   "time": 133.43,
+   "weight": 0.99,
+   "note_time": 133.72
+  },
+  {
+   "text": "is",
+   "time": 133.9,
+   "weight": 0.98,
+   "note_time": 134.27
+  },
+  {
+   "text": "past",
+   "time": 134.62,
+   "weight": 0.98,
+   "note_time": 134.63
+  },
+  {
+   "text": "The",
+   "time": 135.52,
+   "weight": 0.98,
+   "note_time": 135.73
+  },
+  {
+   "text": "rain",
+   "time": 135.94,
+   "weight": 1.0,
+   "note_time": 136.1
+  },
+  {
+   "text": "is",
+   "time": 136.54,
+   "weight": 1.0,
+   "note_time": 136.83
+  },
+  {
+   "text": "o",
+   "time": 137.32,
+   "weight": 1.0,
+   "note_time": 137.2
+  },
+  {
+   "text": "ver",
+   "time": 137.67,
+   "weight": 1.0,
+   "note_time": 137.56
+  },
+  {
+   "text": "and",
+   "time": 138.24,
+   "weight": 0.4,
+   "note_time": 139.02
+  },
+  {
+   "text": "gone",
+   "time": 140.12,
+   "weight": 0.99,
+   "note_time": 139.76
+  },
+  {
+   "text": "The",
+   "time": 140.92,
+   "weight": 0.84,
+   "note_time": 141.59
+  },
+  {
+   "text": "flow",
+   "time": 141.82,
+   "weight": 0.98,
+   "note_time": 141.95
+  },
+  {
+   "text": "ers",
+   "time": 142.17,
+   "weight": 0.98,
+   "note_time": 142.68
+  },
+  {
+   "text": "ap",
+   "time": 142.6,
+   "weight": 1.0,
+   "note_time": 143.05
+  },
+  {
+   "text": "pear",
+   "time": 142.95,
+   "weight": 1.0,
+   "note_time": 143.41
+  },
+  {
+   "text": "on",
+   "time": 143.58,
+   "weight": 0.39,
+   "note_time": 144.88
+  },
+  {
+   "text": "the",
+   "time": 145.28,
+   "weight": 1.0,
+   "note_time": 145.61
+  },
+  {
+   "text": "earth",
+   "time": 145.76,
+   "weight": 0.95,
+   "note_time": 145.98
+  },
+  {
+   "text": "The",
+   "time": 146.82,
+   "weight": 0.73,
+   "note_time": 147.44
+  },
+  {
+   "text": "time",
+   "time": 147.6,
+   "weight": 0.99,
+   "note_time": 147.8
+  },
+  {
+   "text": "of",
+   "time": 148.32,
+   "weight": 1.0,
+   "note_time": 148.54
+  },
+  {
+   "text": "sin",
+   "time": 148.88,
+   "weight": 0.97,
+   "note_time": 148.9
+  },
+  {
+   "text": "ging",
+   "time": 149.23,
+   "weight": 0.97,
+   "note_time": 149.27
+  },
+  {
+   "text": "has",
+   "time": 149.86,
+   "weight": 0.4,
+   "note_time": 150.73
+  },
+  {
+   "text": "come",
+   "time": 151.62,
+   "weight": 1.0,
+   "note_time": 151.46
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

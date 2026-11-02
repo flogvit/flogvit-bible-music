@@ -1,0 +1,698 @@
+{
+ "id": "story-flukten-til-egypt-coptic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-flukten-til-egypt-coptic",
+ "offset_seconds": -3.280000000000186,
+ "words_heard": 80,
+ "words": 83,
+ "lines": [
+  {
+   "text": "An angel of the Lord appeared to Joseph in a dream",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Rise, take the child and his mother",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And flee into Egypt",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stay there until I tell you",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Out of Egypt I called my son",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.58,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Out of Egypt I called my son",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He rose and took the child and his mother by night",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And went down into Egypt",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And there they stayed",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed be Egypt, where the Lord came",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Out of Egypt I called my son",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Out of Egypt I called my son",
+   "heard": 4,
+   "words": 7,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "An",
+   "time": 3.28,
+   "weight": 0.72,
+   "note_time": 1.71
+  },
+  {
+   "text": "an",
+   "time": 3.56,
+   "weight": 0.94,
+   "note_time": 3.0
+  },
+  {
+   "text": "gel",
+   "time": 3.91,
+   "weight": 0.94,
+   "note_time": 3.43
+  },
+  {
+   "text": "of",
+   "time": 4.52,
+   "weight": 0.99,
+   "note_time": 4.71
+  },
+  {
+   "text": "the",
+   "time": 4.96,
+   "weight": 0.99,
+   "note_time": 5.14
+  },
+  {
+   "text": "Lord",
+   "time": 6.1,
+   "weight": 0.93,
+   "note_time": 6.43
+  },
+  {
+   "text": "ap",
+   "time": 6.7,
+   "weight": 0.72,
+   "note_time": 6.86
+  },
+  {
+   "text": "peared",
+   "time": 7.05,
+   "weight": 0.72,
+   "note_time": 7.29
+  },
+  {
+   "text": "to",
+   "time": 7.98,
+   "weight": 0.93,
+   "note_time": 7.71
+  },
+  {
+   "text": "Jo",
+   "time": 9.3,
+   "weight": 0.99,
+   "note_time": 8.14
+  },
+  {
+   "text": "seph",
+   "time": 9.64,
+   "weight": 0.99,
+   "note_time": 8.57
+  },
+  {
+   "text": "in",
+   "time": 9.98,
+   "weight": 0.99,
+   "note_time": 12.0
+  },
+  {
+   "text": "a",
+   "time": 10.52,
+   "weight": 1.0,
+   "note_time": 12.86
+  },
+  {
+   "text": "dream",
+   "time": 10.86,
+   "weight": 1.0,
+   "note_time": 13.29
+  },
+  {
+   "text": "Rise,",
+   "time": 11.58,
+   "weight": 0.15,
+   "note_time": 13.71
+  },
+  {
+   "text": "take",
+   "time": 14.96,
+   "weight": 0.99,
+   "note_time": 14.57
+  },
+  {
+   "text": "the",
+   "time": 15.46,
+   "weight": 1.0,
+   "note_time": 15.0
+  },
+  {
+   "text": "child",
+   "time": 15.88,
+   "weight": 0.91,
+   "note_time": 15.43
+  },
+  {
+   "text": "and",
+   "time": 16.36,
+   "weight": 0.98,
+   "note_time": 15.64
+  },
+  {
+   "text": "his",
+   "time": 17.16,
+   "weight": 0.99,
+   "note_time": 15.86
+  },
+  {
+   "text": "moth",
+   "time": 17.5,
+   "weight": 1.0,
+   "note_time": 18.86
+  },
+  {
+   "text": "er",
+   "time": 17.85,
+   "weight": 1.0,
+   "note_time": 19.71
+  },
+  {
+   "text": "And",
+   "time": 18.3,
+   "weight": 0.23,
+   "note_time": 20.14
+  },
+  {
+   "text": "flee",
+   "time": 20.74,
+   "weight": 0.99,
+   "note_time": 20.57
+  },
+  {
+   "text": "in",
+   "time": 21.1,
+   "weight": 0.99,
+   "note_time": 20.79
+  },
+  {
+   "text": "to",
+   "time": 21.45,
+   "weight": 0.99,
+   "note_time": 21.0
+  },
+  {
+   "text": "E",
+   "time": 22.12,
+   "weight": 1.0,
+   "note_time": 22.29
+  },
+  {
+   "text": "gypt",
+   "time": 22.47,
+   "weight": 1.0,
+   "note_time": 22.5
+  },
+  {
+   "text": "Stay",
+   "time": 23.12,
+   "weight": 0.73,
+   "note_time": 24.0
+  },
+  {
+   "text": "there",
+   "time": 24.36,
+   "weight": 1.0,
+   "note_time": 24.21
+  },
+  {
+   "text": "un",
+   "time": 24.9,
+   "weight": 0.95,
+   "note_time": 24.43
+  },
+  {
+   "text": "til",
+   "time": 25.25,
+   "weight": 0.95,
+   "note_time": 24.64
+  },
+  {
+   "text": "I",
+   "time": 25.86,
+   "weight": 0.99,
+   "note_time": 24.86
+  },
+  {
+   "text": "tell",
+   "time": 26.54,
+   "weight": 1.0,
+   "note_time": 25.29
+  },
+  {
+   "text": "you",
+   "time": 26.9,
+   "weight": 1.0,
+   "note_time": 25.71
+  },
+  {
+   "text": "Out",
+   "time": 30.14,
+   "weight": 0.17,
+   "note_time": 29.14
+  },
+  {
+   "text": "of",
+   "time": 31.3,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "E",
+   "time": 31.74,
+   "weight": 0.95,
+   "note_time": 30.21
+  },
+  {
+   "text": "gypt",
+   "time": 32.09,
+   "weight": 0.95,
+   "note_time": 30.43
+  },
+  {
+   "text": "I",
+   "time": 32.44,
+   "weight": 0.83,
+   "note_time": 30.86
+  },
+  {
+   "text": "called",
+   "time": 33.18,
+   "weight": 0.73,
+   "note_time": 31.71
+  },
+  {
+   "text": "my",
+   "time": 33.74,
+   "weight": 0.97,
+   "note_time": 32.14
+  },
+  {
+   "text": "son",
+   "time": 34.2,
+   "weight": 0.95,
+   "note_time": 32.57
+  },
+  {
+   "text": "Out",
+   "time": 34.74,
+   "weight": 0.23,
+   "note_time": 36.0
+  },
+  {
+   "text": "of",
+   "time": 36.68,
+   "weight": 0.4,
+   "note_time": 36.86
+  },
+  {
+   "text": "E",
+   "time": 38.42,
+   "weight": 1.0,
+   "note_time": 37.07
+  },
+  {
+   "text": "gypt",
+   "time": 38.77,
+   "weight": 1.0,
+   "note_time": 37.29
+  },
+  {
+   "text": "I",
+   "time": 39.18,
+   "weight": 0.98,
+   "note_time": 37.71
+  },
+  {
+   "text": "called",
+   "time": 39.76,
+   "weight": 1.0,
+   "note_time": 38.57
+  },
+  {
+   "text": "my",
+   "time": 40.42,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "son",
+   "time": 40.94,
+   "weight": 1.0,
+   "note_time": 39.43
+  },
+  {
+   "text": "He",
+   "time": 43.06,
+   "weight": 0.92,
+   "note_time": 42.43
+  },
+  {
+   "text": "rose",
+   "time": 44.22,
+   "weight": 0.98,
+   "note_time": 43.29
+  },
+  {
+   "text": "and",
+   "time": 44.8,
+   "weight": 0.97,
+   "note_time": 43.71
+  },
+  {
+   "text": "took",
+   "time": 45.14,
+   "weight": 1.0,
+   "note_time": 44.14
+  },
+  {
+   "text": "the",
+   "time": 45.52,
+   "weight": 0.99,
+   "note_time": 44.57
+  },
+  {
+   "text": "child",
+   "time": 45.92,
+   "weight": 0.96,
+   "note_time": 45.43
+  },
+  {
+   "text": "and",
+   "time": 46.54,
+   "weight": 0.87,
+   "note_time": 45.86
+  },
+  {
+   "text": "his",
+   "time": 47.24,
+   "weight": 0.98,
+   "note_time": 46.29
+  },
+  {
+   "text": "moth",
+   "time": 47.64,
+   "weight": 0.99,
+   "note_time": 46.5
+  },
+  {
+   "text": "er",
+   "time": 47.98,
+   "weight": 0.99,
+   "note_time": 46.71
+  },
+  {
+   "text": "by",
+   "time": 48.32,
+   "weight": 0.99,
+   "note_time": 47.57
+  },
+  {
+   "text": "night",
+   "time": 49.22,
+   "weight": 0.97,
+   "note_time": 48.0
+  },
+  {
+   "text": "And",
+   "time": 51.18,
+   "weight": 0.29,
+   "note_time": 51.0
+  },
+  {
+   "text": "went",
+   "time": 52.58,
+   "weight": 0.87,
+   "note_time": 52.29
+  },
+  {
+   "text": "down",
+   "time": 52.96,
+   "weight": 1.0,
+   "note_time": 52.71
+  },
+  {
+   "text": "in",
+   "time": 53.56,
+   "weight": 0.98,
+   "note_time": 53.14
+  },
+  {
+   "text": "to",
+   "time": 53.84,
+   "weight": 0.98,
+   "note_time": 53.36
+  },
+  {
+   "text": "E",
+   "time": 54.12,
+   "weight": 0.99,
+   "note_time": 53.57
+  },
+  {
+   "text": "gypt",
+   "time": 54.47,
+   "weight": 0.99,
+   "note_time": 54.43
+  },
+  {
+   "text": "And",
+   "time": 55.36,
+   "weight": 0.94,
+   "note_time": 55.07
+  },
+  {
+   "text": "there",
+   "time": 56.04,
+   "weight": 1.0,
+   "note_time": 55.29
+  },
+  {
+   "text": "they",
+   "time": 56.52,
+   "weight": 0.99,
+   "note_time": 56.14
+  },
+  {
+   "text": "stayed",
+   "time": 57.58,
+   "weight": 0.88,
+   "note_time": 56.57
+  },
+  {
+   "text": "Blessed",
+   "time": 60.26,
+   "weight": 0.59,
+   "note_time": 60.0
+  },
+  {
+   "text": "be",
+   "time": 61.66,
+   "weight": 0.91,
+   "note_time": 61.71
+  },
+  {
+   "text": "E",
+   "time": 62.7,
+   "weight": 0.98,
+   "note_time": 62.14
+  },
+  {
+   "text": "gypt,",
+   "time": 63.05,
+   "weight": 0.98,
+   "note_time": 63.43
+  },
+  {
+   "text": "where",
+   "time": 63.88,
+   "weight": 0.99,
+   "note_time": 63.86
+  },
+  {
+   "text": "the",
+   "time": 64.8,
+   "weight": 1.0,
+   "note_time": 64.71
+  },
+  {
+   "text": "Lord",
+   "time": 66.06,
+   "weight": 0.97,
+   "note_time": 65.14
+  },
+  {
+   "text": "came",
+   "time": 66.62,
+   "weight": 0.4,
+   "note_time": 65.36
+  },
+  {
+   "text": "Out",
+   "time": 70.06,
+   "weight": 0.93,
+   "note_time": 70.29
+  },
+  {
+   "text": "of",
+   "time": 71.46,
+   "weight": 1.0,
+   "note_time": 71.14
+  },
+  {
+   "text": "E",
+   "time": 72.04,
+   "weight": 1.0,
+   "note_time": 71.36
+  },
+  {
+   "text": "gypt",
+   "time": 72.39,
+   "weight": 1.0,
+   "note_time": 71.57
+  },
+  {
+   "text": "I",
+   "time": 72.82,
+   "weight": 0.86,
+   "note_time": 72.0
+  },
+  {
+   "text": "called",
+   "time": 73.32,
+   "weight": 0.42,
+   "note_time": 72.86
+  },
+  {
+   "text": "my",
+   "time": 74.12,
+   "weight": 0.8,
+   "note_time": 73.29
+  },
+  {
+   "text": "son",
+   "time": 74.52,
+   "weight": 0.8,
+   "note_time": 73.71
+  },
+  {
+   "text": "Out",
+   "time": 77.14,
+   "weight": 0.39,
+   "note_time": 77.14
+  },
+  {
+   "text": "of",
+   "time": 78.42,
+   "weight": 1.0,
+   "note_time": 77.57
+  },
+  {
+   "text": "E",
+   "time": 78.86,
+   "weight": 1.0,
+   "note_time": 78.0
+  },
+  {
+   "text": "gypt",
+   "time": 79.19,
+   "weight": 1.0,
+   "note_time": 78.21
+  },
+  {
+   "text": "I",
+   "time": 79.52,
+   "weight": 0.88,
+   "note_time": 78.43
+  },
+  {
+   "text": "called",
+   "time": 79.92,
+   "weight": 0.0,
+   "note_time": 78.86
+  },
+  {
+   "text": "my",
+   "time": 80.32,
+   "weight": 0.0,
+   "note_time": 79.71
+  },
+  {
+   "text": "son",
+   "time": 80.72,
+   "weight": 0.0,
+   "note_time": 80.14
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 12 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

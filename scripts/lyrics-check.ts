@@ -4,13 +4,15 @@
  * with their sections, against what Whisper heard in the song (whisper.json from song-sheets.py, with times).
  * Three outcomes: "correct" (sung as written), "adopt" (sung differently but as good, singable lyrics: the song
  * is kept and its lyrics become what was sung, in `sung_lyrics`), and "wrong" (broken: garbled, content lost,
- * an unintended repeat, or a meaning that misrepresents the passage), which generate.ts makes again.
+ * an unintended repeat, a meaning that misrepresents the passage, or singing that is not English), which
+ * generate.ts makes again. A song not sung in English is wrong before the judge is asked (languageVerdict).
  *
  * Usage: bun scripts/lyrics-check.ts <song-id> [whisper.json]   (default sheets/<id>/whisper.json)
  * Environment: MUSIC_JUDGE_MODEL (default qwen3.8:27b), OLLAMA_HOST (default http://localhost:11434).
  */
-import { readFileSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import path from 'path';
+import { notEnglish } from './lyrics-language';
 
 export const JUDGE_MODEL = process.env.MUSIC_JUDGE_MODEL ?? 'qwen3.8:27b';
 const OLLAMA = process.env.OLLAMA_HOST ?? 'http://localhost:11434';
@@ -76,7 +78,9 @@ capitals and punctuation, keeping the requested wording wherever the difference 
   when every other line is still sung; or any line, a chorus line too, sung twice where another requested line
   should be. A requested line that is missing while a neighbouring line is sung twice is a repeat that took its
   place, never a line left out of a list;
-- sung words that change the meaning so that the song misrepresents its Bible passage.
+- sung words that change the meaning so that the song misrepresents its Bible passage;
+- singing that is not in English: the songs are sung in English only, so lines sung in Latin, Norwegian or any
+  other language are wrong, even when the rest is English.
 Before calling a line missing, look at the times: Whisper often writes nothing for a line sung right after the
 same words (a chorus that repeats the end of a verse, a refrain sung twice). When there is a gap in what was
 heard long enough for the missing line, the line was most likely sung there and only not written down: that is
@@ -96,8 +100,7 @@ It is FINE, and not a problem to report, when:
 - "Thank you", "Thanks for watching", "Amen" or a word or two is heard in silence or after the singing ends:
   Whisper invents such words on quiet audio;
 - there are wordless vocals (ooh, ah, la) or instrumental parts;
-- in Norwegian or Latin lyrics, Whisper spells a word another way that sounds the same (caeli/celi, i/j,
-  eleison/eleyson, jeg/eg, meg/mæ), or a choir's long held vowels make it write a word in pieces.
+- a choir's long held vowels make Whisper write a word in pieces.
 Words marked (?) were heard with low confidence. Phrases from a "second listen" cover a stretch the first
 pass missed; use them in place of that stretch.
 
@@ -183,6 +186,30 @@ export function outcome(v: Verdict): 'ok' | 'adopt' | 'reject' {
 /** The song is kept, as it is or with its sung lyrics. */
 export const passes = (v: Verdict) => outcome(v) !== 'reject';
 
+/** The language Whisper hears in the singing (language.json from song-sheets.py --listen-only). */
+export type SungLanguage = { language: string; probability: number };
+
+/**
+ * The songs are sung in English only: a wrong verdict, without asking the judge, when the lyrics asked for are not
+ * English, when Whisper hears the singing as another language, or when the words it heard are not English.
+ */
+export function languageVerdict(lyrics: string, whisper: Record<string, Heard[]>, sung?: SungLanguage): Verdict | undefined {
+  const wrong = (detail: string): Verdict => ({ verdict: 'wrong', problems: [{ time: '', kind: 'other', detail }], summary: detail });
+  const asked = notEnglish(lyrics);
+  if (asked) return wrong(`The lyrics asked for are not English: ${asked}.`);
+  if (sung && sung.language !== 'en' && sung.probability >= 0.5) {
+    return wrong(`Whisper hears the singing as "${sung.language}" (${sung.probability}), not English.`);
+  }
+  const heard = notEnglish(Object.values(whisper).flat().map((w) => w.w).join(' '));
+  if (heard) return wrong(`What was sung is not English: ${heard}.`);
+}
+
+/** sheets/<id>/language.json, when song-sheets.py wrote one. */
+export function sungLanguage(sheets: string): SungLanguage | undefined {
+  const file = path.join(sheets, 'language.json');
+  return existsSync(file) ? JSON.parse(readFileSync(file, 'utf8')) : undefined;
+}
+
 export function catalogLyrics(id: string): string {
   return JSON.parse(readFileSync(path.join(import.meta.dir, '..', 'catalog', `${id}.json`), 'utf8')).request.lyrics;
 }
@@ -193,8 +220,10 @@ if (import.meta.main) {
     console.error('Usage: bun scripts/lyrics-check.ts <song-id> [whisper.json]');
     process.exit(1);
   }
-  const whisper = JSON.parse(readFileSync(file ?? path.join(import.meta.dir, '..', 'sheets', id, 'whisper.json'), 'utf8'));
-  const v = await judge(catalogLyrics(id), whisper);
+  const sheets = path.join(import.meta.dir, '..', 'sheets', id);
+  const whisper = JSON.parse(readFileSync(file ?? path.join(sheets, 'whisper.json'), 'utf8'));
+  const lyrics = catalogLyrics(id);
+  const v = languageVerdict(lyrics, whisper, sungLanguage(sheets)) ?? await judge(lyrics, whisper);
   console.log(JSON.stringify(v, null, 2));
   process.exit({ ok: 0, adopt: 3, reject: 2 }[outcome(v)]);
 }

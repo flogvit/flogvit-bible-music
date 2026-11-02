@@ -4,6 +4,11 @@ The owner's order, 2026-11-01: the songs are pleasant and stay as they are, but 
 styles than the catalog has. Widen it to as many styles as possible, and make just enough songs per style to cover
 it well, no more.
 
+**English only (the owner, 2026-11-02):** every song is sung in English. The styles below stay, with their sound,
+but are sung in English: the Norwegian and Latin probes (prayer house, kveding, chorale, Gregorian, polyphony, a
+Taizé chant) were written again in English, and the generation rejects a song asked for or sung in another
+language (README, Catalog and Lyrics check).
+
 ## Where the catalog stood
 
 374 songs in 16 styles of about 23 each (folk, gospel, soul, rock, worship, pop, orchestral, jazz, hymn, country,
@@ -27,9 +32,9 @@ song was in English, nearly always one lead singer with a soft choir.
 
 Voices: choir alone (Gregorian, polyphony, Byzantine, Sacred Harp, isicathamiya, spirituals), children's choir,
 a cappella, duets between roles (musical, Song of Songs), lead and congregation (brass band, chorale, prayer
-house), rap, and old, raw voices (lament, kveding). Tempo: 50 to 160 BPM. Language: Norwegian (prayer house,
-kveding, chorale; quotes from `osnb`) and Latin (Gregorian, polyphony, one Taizé chant; quotes from the
-Clementine Vulgate, `vulgate`).
+house), rap, and old, raw voices (lament, kveding). Tempo: 50 to 160 BPM. Language: English, for every style (the
+owner, 2026-11-02); the first probes of the prayer house, kveding, chorale, Gregorian and polyphony were sung in
+Norwegian or Latin and are now in English.
 
 ## How many songs per style
 
@@ -111,9 +116,9 @@ how good the lead sheet is, not whether the song is kept. Meter and key: what Yu
 
 ### What the probes showed
 
-- **Norwegian and Latin work.** The prayer-house song, kveding (Psalm 23 word for word from `osnb`) and the
-  Lutheran chorale passed on the first take in Norwegian; Gregorian chant and Renaissance polyphony in Latin, from
-  the Vulgate. Whisper hears them with `language` set from the style line, and the judge reads them.
+- **Norwegian and Latin passed the lyrics check** (the prayer-house song, kveding, the chorale in Norwegian;
+  Gregorian chant and polyphony in Latin), but the owner wants every song in English (2026-11-02), so these
+  styles are sung in English now and the language support is gone again.
 - **The takes that failed** failed on words, never on style: mass choir sang its two-line bridge three times
   (take 1); reggae garbled its opening line "Down in the dungeon, feet in the stocks / Paul and Silas behind the
   locks" twice before the third take sang it; metal and bhajan each needed a second take. Short, plain opening

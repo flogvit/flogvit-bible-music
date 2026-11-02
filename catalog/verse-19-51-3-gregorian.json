@@ -33,10 +33,10 @@
     "persons": []
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Gregorian chant, penitential psalm sung by a low male schola in unison, slow and hushed, no instruments, Phrygian mode, dark candlelit chapel, contrite, 54 BPM",
-    "lyrics": "[Verse]\nMiserere mei, Deus\nsecundum magnam misericordiam tuam\n\n[Verse]\nEt secundum multitudinem miserationum tuarum\ndele iniquitatem meam\n\n[Verse]\nAmplius lava me ab iniquitate mea\net a peccato meo munda me\n\n[Outro]\nMiserere mei, Deus",
+    "style": "English, Gregorian chant, penitential psalm sung by a low male schola in unison, slow and hushed, no instruments, Phrygian mode, dark candlelit chapel, contrite, 54 BPM, sung in English",
+    "lyrics": "[Verse]\nHave mercy on me, O God\nAccording to your steadfast love\n\n[Verse]\nIn your great compassion\nBlot out my transgressions\n\n[Verse]\nWash me thoroughly from my guilt\nAnd cleanse me from my sin\n\n[Outro]\nHave mercy on me, O God",
     "cot": "full",
     "seed": 31002
   }

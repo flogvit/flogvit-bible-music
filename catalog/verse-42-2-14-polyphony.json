@@ -36,10 +36,10 @@
     "persons": []
   },
   "lyricsMode": "verbatim",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "request": {
-    "style": "Latin, Renaissance double-choir polyphony, two a cappella choirs answering each other across a basilica, bright sopranos, ringing chords, festive and jubilant, no instruments, 96 BPM",
-    "lyrics": "[Verse]\nGloria in altissimis Deo\net in terra pax\nhominibus bonae voluntatis\n\n[Verse]\nGloria in altissimis Deo\net in terra pax\nhominibus bonae voluntatis\n\n[Verse]\nGloria, gloria in altissimis Deo\net in terra pax hominibus\n\n[Outro]\nGloria in altissimis Deo",
+    "style": "English, Renaissance double-choir polyphony, two a cappella choirs answering each other across a basilica, bright sopranos, ringing chords, festive and jubilant, no instruments, 96 BPM, sung in English",
+    "lyrics": "[Verse]\nGlory to God in the highest\nAnd on earth peace\nTo those on whom his favor rests\n\n[Verse]\nGlory to God in the highest\nAnd on earth peace\nTo those on whom his favor rests\n\n[Verse]\nGlory, glory to God in the highest\nAnd on earth peace to all\n\n[Outro]\nGlory to God in the highest",
     "cot": "full",
     "seed": 31012
   }

@@ -16,6 +16,7 @@ import { existsSync, readdirSync, readFileSync, writeFileSync, appendFileSync } 
 import path from 'path';
 import { JUDGE_MODEL } from './lyrics-check';
 import { lyricsErrors } from './lyrics-form';
+import { notEnglish } from './lyrics-language';
 
 const REPO = path.join(import.meta.dir, '..');
 const CATALOG = path.join(REPO, 'catalog');
@@ -237,6 +238,8 @@ to three of ${themes.join(', ')}.`;
     const lines = song.lyrics.split('\n').filter((l: string) => l.trim() && !l.startsWith('['));
     const errors = [
       ...lyricsErrors(song.lyrics, 'mixed', form),
+      ...(notEnglish(song.lyrics) ? [`write the lyrics in English only, not ${notEnglish(song.lyrics)}`] : []),
+      ...(/^(Norwegian|Latin)\b/i.test(song.style) ? ['the style line is for an English song: do not start it with a language'] : []),
       ...(lines.length < 12 || lines.length > 48 ? [`${lines.length} sung lines; write 16 to 36`] : []),
       ...(/\(|\)|:\s*$/m.test(song.lyrics) ? ['no parentheses or speaker names'] : []),
       ...(!/\d+ BPM/.test(song.style) ? ['the style line needs a tempo as "<number> BPM"'] : []),

@@ -107,7 +107,7 @@ One file per song in `catalog/<id>.json`:
 | `lyricsMode` | `verbatim`, `mixed` (quotes the verse) or `thematic` |
 | `textSource` | `osen`; quotes come from `free-bible/generate/bibles_raw/osen` (CC BY 4.0, credit SBLGNT and tanach.us) |
 | `form` | optional. Without it the lyrics need a `[Chorus]` (or `[Refrain]`), unless `lyricsMode` is `verbatim`. `litany`: every line is answered by one refrain line, as in Psalm 136, and no chorus is needed. `strophic`: verses only (a hymn, a metrical psalm), at least 3, of one length unless verbatim. `ballad`: a story in at least 4 verses of one length, no chorus or bridge, a refrain at most as the last line of every verse. `chant`: one text of 2–4 lines sung as every verse, at least 4 times (Taizé). `call-response`: in every verse a lead line answered by a short response (at most 6 words, at most 2 different ones), with a chorus. The rules are in `scripts/lyrics-form.ts`; section 4 of `docs/research/diversity.md` says why |
-| `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed`. The style line opens with the language the song is sung in: `English` (quotes from `osen` or `kjv`), `Norwegian` (`osnb`) or `Latin` (`vulgate`, the Clementine Vulgate). Whisper listens for that language, the lead sheet splits syllables by its rules, and `info.json` has it as `language` |
+| `request` | what YuE2 gets: `style`, `lyrics`, `cot`, `seed`. **Every song is sung in English** (the owner, 2026-11-02): the style line opens with `English,`, quotes come from `osen` or `kjv`, and the lyrics are English. A style from another tradition (kveding, Gregorian chant, polyphony, a Norwegian prayer-house song) keeps its sound and is sung in English. `validate-catalog` and `catalog-write` refuse lyrics that are not English (`scripts/lyrics-language.ts`), and the lyrics check rejects a song sung in another language |
 
 Check new or changed songs before committing them:
 
@@ -227,7 +227,10 @@ not thrown away for that: when what was sung is good lyrics too, the song is kep
 Only a broken song is made again.
 
 1. Whisper listens to the song (`song-sheets.py --listen-only`, which writes `sheets/<id>/whisper.json`; the
-   sheets reuse it afterwards, so Whisper runs once per song).
+   sheets reuse it afterwards, so Whisper runs once per song), and writes the language it hears the singing in
+   (`sheets/<id>/language.json`). A song whose lyrics are not English, that Whisper hears in another language
+   (probability 0.5 or more), or whose heard words are not English is `wrong` at once, without the judge
+   (`languageVerdict` in `scripts/lyrics-check.ts`), and is made again like any wrong take.
 2. `scripts/lyrics-check.ts` gives a local LLM the requested lyrics with their sections (`[Verse]`,
    `[Chorus]`, …) and the phrases Whisper heard, with times. It answers one of three, with each difference and
    when it is heard:
@@ -507,7 +510,14 @@ default; other music gets its own collection with `--collection <name>`):
 bun scripts/publish.ts                    # to the S3 bucket in .env (see .env.example)
 bun scripts/publish.ts --out site/music   # to a folder, for any static web host
 bun scripts/publish.ts --dry-run          # say what would change, change nothing
+bun scripts/publish.ts --take-down <id>,<id>   # take these songs out of every machine's list and delete their files
 ```
+
+Only songs sung in English are published: a library song whose `info.json` has another `language`, or whose
+lyrics are not English, is skipped with `not published, not English: <id>`. A song that leaves this machine's
+list (its `library/<id>/` is gone, or it is not English) and is in no other machine's list is taken down: its
+public files are deleted, so it is gone from `index.json` and media.flogvit.com (the FLAC master stays in cold
+storage). `--take-down` does the same for songs in another machine's list, from any machine.
 
 It only uploads files that changed, so it can run after every new song. Several machines can publish into
 the same collection at the same time, each from its own `library/`. Each machine writes only its own song

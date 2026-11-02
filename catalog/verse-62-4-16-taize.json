@@ -34,11 +34,11 @@
     "persons": []
   },
   "lyricsMode": "mixed",
-  "textSource": "vulgate",
+  "textSource": "osen",
   "form": "chant",
   "request": {
-    "style": "Latin, Taizé chant, a warm mixed choir repeating a short Latin text in four-part harmony, a flute and classical guitar, candlelight and silence between phrases, 3/4, 63 BPM",
-    "lyrics": "[Verse]\nDeus caritas est\net qui manet in caritate\nin Deo manet\net Deus in eo\n\n[Verse]\nDeus caritas est\net qui manet in caritate\nin Deo manet\net Deus in eo\n\n[Verse]\nDeus caritas est\net qui manet in caritate\nin Deo manet\net Deus in eo\n\n[Verse]\nDeus caritas est\net qui manet in caritate\nin Deo manet\net Deus in eo\n\n[Outro]\nDeus caritas est",
+    "style": "English, Taizé chant, a warm mixed choir repeating a short text in four-part harmony, a flute and classical guitar, candlelight and silence between phrases, 3/4, 63 BPM, sung in English",
+    "lyrics": "[Verse]\nGod is love\nAnd whoever remains in love\nRemains in God\nAnd God in him\n\n[Verse]\nGod is love\nAnd whoever remains in love\nRemains in God\nAnd God in him\n\n[Verse]\nGod is love\nAnd whoever remains in love\nRemains in God\nAnd God in him\n\n[Verse]\nGod is love\nAnd whoever remains in love\nRemains in God\nAnd God in him\n\n[Outro]\nGod is love",
     "cot": "full",
     "seed": 31006
   }

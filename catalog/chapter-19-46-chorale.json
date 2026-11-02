@@ -39,11 +39,11 @@
     "persons": []
   },
   "lyricsMode": "mixed",
-  "textSource": "osnb",
+  "textSource": "osen",
   "form": "strophic",
   "request": {
-    "style": "Norwegian, Lutheran chorale, a full church congregation singing in unison with a mighty pipe organ, steady even notes, plain and majestic, 4/4, 72 BPM",
-    "lyrics": "[Verse]\nGud er vår tilflukt og vår borg\nen hjelp i nød så nær\nVi frykter ikke i vår sorg\nom jorden skjelver her\n\n[Verse]\nLa havet bruse, fjellet gå\nog vannet skumme vilt\nGuds by skal likevel bestå\nder elven renner stilt\n\n[Verse]\nNår folkene i vrede står\nog riker raver tungt\nhan løfter røsten, jorden går\nog alt blir stille, ungt\n\n[Verse]\nHærskarers Herre er med oss\nvår borg er Jakobs Gud\nVær stille, kjenn at jeg er Gud\nla jorden høre bud",
+    "style": "English, Lutheran chorale, a full church congregation singing in unison with a mighty pipe organ, steady even notes, plain and majestic, 4/4, 72 BPM, sung in English",
+    "lyrics": "[Verse]\nOur God, our refuge and our strength\nA help so near in need\nWe will not fear though earth gives way\nAnd mountains fall to sea\n\n[Verse]\nThough waters roar and foam and rage\nAnd hills shake at the swell\nA river gladdens God's own town\nWhere the Most High will dwell\n\n[Verse]\nThe nations rage, the kingdoms fall\nHe lifts his voice, earth melts\nYet God is in her midst, she stands\nHe helps her when day breaks\n\n[Verse]\nThe LORD of hosts is here with us\nOur fortress, Jacob's God\nBe still, and know that I am God\nLet all the earth be awed",
     "cot": "full",
     "seed": 30035
   }

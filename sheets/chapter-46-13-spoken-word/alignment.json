@@ -1,0 +1,1078 @@
+{
+ "id": "chapter-46-13-spoken-word",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-46-13-spoken-word",
+ "offset_seconds": -1.4800000000002242,
+ "words_heard": 130,
+ "words": 130,
+ "lines": [
+  {
+   "text": "If I speak in the tongues of men and of angels",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But have not love",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am a noisy gong, a clanging cymbal",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "If I have all faith, so as to remove mountains",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But have not love, I am nothing",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.12,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Love is patient, love is kind",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.89,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Love never ends",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.41,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Love does not envy or boast",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.5,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "It is not arrogant or rude",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It does not insist on its own way",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It bears all things, believes all things",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hopes all things, endures all things",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Love is patient, love is kind",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Love never ends",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For now we see in a mirror dimly",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But then face to face",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Now I know in part, then I shall know fully",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So now faith, hope and love abide, these three",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the greatest of these is love",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "If",
+   "time": 9.54,
+   "weight": 0.8,
+   "note_time": 9.72
+  },
+  {
+   "text": "I",
+   "time": 10.82,
+   "weight": 0.97,
+   "note_time": 10.14
+  },
+  {
+   "text": "speak",
+   "time": 11.06,
+   "weight": 1.0,
+   "note_time": 10.99
+  },
+  {
+   "text": "in",
+   "time": 11.64,
+   "weight": 0.99,
+   "note_time": 11.2
+  },
+  {
+   "text": "the",
+   "time": 12.4,
+   "weight": 0.95,
+   "note_time": 11.41
+  },
+  {
+   "text": "tongues",
+   "time": 12.52,
+   "weight": 1.0,
+   "note_time": 12.25
+  },
+  {
+   "text": "of",
+   "time": 13.16,
+   "weight": 0.99,
+   "note_time": 12.68
+  },
+  {
+   "text": "men",
+   "time": 13.66,
+   "weight": 0.99,
+   "note_time": 14.79
+  },
+  {
+   "text": "and",
+   "time": 14.08,
+   "weight": 0.09,
+   "note_time": 15.0
+  },
+  {
+   "text": "of",
+   "time": 16.12,
+   "weight": 0.99,
+   "note_time": 15.21
+  },
+  {
+   "text": "an",
+   "time": 16.34,
+   "weight": 0.99,
+   "note_time": 16.06
+  },
+  {
+   "text": "gels",
+   "time": 16.69,
+   "weight": 0.99,
+   "note_time": 19.44
+  },
+  {
+   "text": "But",
+   "time": 17.36,
+   "weight": 0.32,
+   "note_time": 19.65
+  },
+  {
+   "text": "have",
+   "time": 20.56,
+   "weight": 0.99,
+   "note_time": 19.86
+  },
+  {
+   "text": "not",
+   "time": 20.9,
+   "weight": 0.99,
+   "note_time": 20.28
+  },
+  {
+   "text": "love",
+   "time": 21.22,
+   "weight": 0.98,
+   "note_time": 24.51
+  },
+  {
+   "text": "I",
+   "time": 21.82,
+   "weight": 0.38,
+   "note_time": 24.93
+  },
+  {
+   "text": "am",
+   "time": 25.86,
+   "weight": 1.0,
+   "note_time": 25.14
+  },
+  {
+   "text": "a",
+   "time": 26.28,
+   "weight": 1.0,
+   "note_time": 25.35
+  },
+  {
+   "text": "noi",
+   "time": 26.48,
+   "weight": 0.99,
+   "note_time": 26.2
+  },
+  {
+   "text": "sy",
+   "time": 26.83,
+   "weight": 0.99,
+   "note_time": 26.41
+  },
+  {
+   "text": "gong,",
+   "time": 27.34,
+   "weight": 0.53,
+   "note_time": 27.68
+  },
+  {
+   "text": "a",
+   "time": 28.06,
+   "weight": 0.82,
+   "note_time": 27.89
+  },
+  {
+   "text": "clang",
+   "time": 28.88,
+   "weight": 1.0,
+   "note_time": 28.31
+  },
+  {
+   "text": "ing",
+   "time": 29.22,
+   "weight": 1.0,
+   "note_time": 29.15
+  },
+  {
+   "text": "cym",
+   "time": 29.56,
+   "weight": 1.0,
+   "note_time": 29.58
+  },
+  {
+   "text": "bal",
+   "time": 29.91,
+   "weight": 1.0,
+   "note_time": 30.85
+  },
+  {
+   "text": "If",
+   "time": 30.92,
+   "weight": 0.82,
+   "note_time": 31.06
+  },
+  {
+   "text": "I",
+   "time": 32.08,
+   "weight": 0.99,
+   "note_time": 31.27
+  },
+  {
+   "text": "have",
+   "time": 32.14,
+   "weight": 1.0,
+   "note_time": 31.69
+  },
+  {
+   "text": "all",
+   "time": 32.4,
+   "weight": 0.98,
+   "note_time": 32.75
+  },
+  {
+   "text": "faith,",
+   "time": 32.64,
+   "weight": 1.0,
+   "note_time": 32.96
+  },
+  {
+   "text": "so",
+   "time": 33.4,
+   "weight": 0.99,
+   "note_time": 33.38
+  },
+  {
+   "text": "as",
+   "time": 34.08,
+   "weight": 0.99,
+   "note_time": 33.59
+  },
+  {
+   "text": "to",
+   "time": 34.46,
+   "weight": 1.0,
+   "note_time": 33.8
+  },
+  {
+   "text": "re",
+   "time": 34.72,
+   "weight": 0.99,
+   "note_time": 34.23
+  },
+  {
+   "text": "move",
+   "time": 34.86,
+   "weight": 0.99,
+   "note_time": 34.65
+  },
+  {
+   "text": "moun",
+   "time": 35.0,
+   "weight": 1.0,
+   "note_time": 35.92
+  },
+  {
+   "text": "tains",
+   "time": 35.35,
+   "weight": 1.0,
+   "note_time": 36.13
+  },
+  {
+   "text": "But",
+   "time": 36.72,
+   "weight": 0.65,
+   "note_time": 36.34
+  },
+  {
+   "text": "have",
+   "time": 37.28,
+   "weight": 0.94,
+   "note_time": 36.76
+  },
+  {
+   "text": "not",
+   "time": 37.6,
+   "weight": 1.0,
+   "note_time": 39.72
+  },
+  {
+   "text": "love,",
+   "time": 37.84,
+   "weight": 0.97,
+   "note_time": 40.14
+  },
+  {
+   "text": "I",
+   "time": 38.84,
+   "weight": 0.4,
+   "note_time": 40.56
+  },
+  {
+   "text": "am",
+   "time": 41.18,
+   "weight": 1.0,
+   "note_time": 40.99
+  },
+  {
+   "text": "noth",
+   "time": 41.62,
+   "weight": 1.0,
+   "note_time": 44.79
+  },
+  {
+   "text": "ing",
+   "time": 41.94,
+   "weight": 1.0,
+   "note_time": 45.21
+  },
+  {
+   "text": "Love",
+   "time": 45.24,
+   "weight": 0.99,
+   "note_time": 45.63
+  },
+  {
+   "text": "is",
+   "time": 46.28,
+   "weight": 1.0,
+   "note_time": 46.9
+  },
+  {
+   "text": "pa",
+   "time": 46.76,
+   "weight": 1.0,
+   "note_time": 49.86
+  },
+  {
+   "text": "tient,",
+   "time": 47.11,
+   "weight": 1.0,
+   "note_time": 50.28
+  },
+  {
+   "text": "love",
+   "time": 48.64,
+   "weight": 0.4,
+   "note_time": 50.7
+  },
+  {
+   "text": "is",
+   "time": 51.36,
+   "weight": 1.0,
+   "note_time": 54.08
+  },
+  {
+   "text": "kind",
+   "time": 51.88,
+   "weight": 1.0,
+   "note_time": 54.93
+  },
+  {
+   "text": "Love",
+   "time": 54.48,
+   "weight": 0.82,
+   "note_time": 55.14
+  },
+  {
+   "text": "ne",
+   "time": 55.52,
+   "weight": 1.0,
+   "note_time": 55.35
+  },
+  {
+   "text": "ver",
+   "time": 55.87,
+   "weight": 1.0,
+   "note_time": 55.77
+  },
+  {
+   "text": "ends",
+   "time": 56.42,
+   "weight": 1.0,
+   "note_time": 60.85
+  },
+  {
+   "text": "Love",
+   "time": 61.2,
+   "weight": 0.8,
+   "note_time": 61.27
+  },
+  {
+   "text": "does",
+   "time": 62.2,
+   "weight": 0.99,
+   "note_time": 61.48
+  },
+  {
+   "text": "not",
+   "time": 62.58,
+   "weight": 1.0,
+   "note_time": 62.11
+  },
+  {
+   "text": "en",
+   "time": 62.9,
+   "weight": 0.99,
+   "note_time": 62.54
+  },
+  {
+   "text": "vy",
+   "time": 63.25,
+   "weight": 0.99,
+   "note_time": 62.75
+  },
+  {
+   "text": "or",
+   "time": 63.68,
+   "weight": 0.99,
+   "note_time": 63.17
+  },
+  {
+   "text": "boast",
+   "time": 64.12,
+   "weight": 1.0,
+   "note_time": 63.38
+  },
+  {
+   "text": "It",
+   "time": 64.64,
+   "weight": 0.27,
+   "note_time": 66.13
+  },
+  {
+   "text": "is",
+   "time": 67.44,
+   "weight": 1.0,
+   "note_time": 66.34
+  },
+  {
+   "text": "not",
+   "time": 67.58,
+   "weight": 1.0,
+   "note_time": 66.55
+  },
+  {
+   "text": "ar",
+   "time": 67.86,
+   "weight": 1.0,
+   "note_time": 67.18
+  },
+  {
+   "text": "ro",
+   "time": 68.15,
+   "weight": 1.0,
+   "note_time": 67.39
+  },
+  {
+   "text": "gant",
+   "time": 68.43,
+   "weight": 1.0,
+   "note_time": 67.61
+  },
+  {
+   "text": "or",
+   "time": 68.72,
+   "weight": 0.99,
+   "note_time": 68.03
+  },
+  {
+   "text": "rude",
+   "time": 69.22,
+   "weight": 0.99,
+   "note_time": 68.45
+  },
+  {
+   "text": "It",
+   "time": 71.54,
+   "weight": 0.98,
+   "note_time": 71.41
+  },
+  {
+   "text": "does",
+   "time": 72.54,
+   "weight": 1.0,
+   "note_time": 71.62
+  },
+  {
+   "text": "not",
+   "time": 72.72,
+   "weight": 1.0,
+   "note_time": 71.83
+  },
+  {
+   "text": "in",
+   "time": 73.04,
+   "weight": 1.0,
+   "note_time": 72.04
+  },
+  {
+   "text": "sist",
+   "time": 73.24,
+   "weight": 1.0,
+   "note_time": 72.25
+  },
+  {
+   "text": "on",
+   "time": 73.44,
+   "weight": 1.0,
+   "note_time": 72.68
+  },
+  {
+   "text": "its",
+   "time": 73.92,
+   "weight": 0.96,
+   "note_time": 72.89
+  },
+  {
+   "text": "own",
+   "time": 74.14,
+   "weight": 1.0,
+   "note_time": 73.1
+  },
+  {
+   "text": "way",
+   "time": 74.48,
+   "weight": 0.98,
+   "note_time": 73.94
+  },
+  {
+   "text": "It",
+   "time": 75.24,
+   "weight": 0.39,
+   "note_time": 75.85
+  },
+  {
+   "text": "bears",
+   "time": 77.02,
+   "weight": 0.98,
+   "note_time": 76.06
+  },
+  {
+   "text": "all",
+   "time": 77.32,
+   "weight": 1.0,
+   "note_time": 76.48
+  },
+  {
+   "text": "things,",
+   "time": 77.74,
+   "weight": 1.0,
+   "note_time": 77.32
+  },
+  {
+   "text": "be",
+   "time": 78.9,
+   "weight": 0.98,
+   "note_time": 78.38
+  },
+  {
+   "text": "lieves",
+   "time": 79.25,
+   "weight": 0.98,
+   "note_time": 78.59
+  },
+  {
+   "text": "all",
+   "time": 79.68,
+   "weight": 1.0,
+   "note_time": 79.01
+  },
+  {
+   "text": "things",
+   "time": 80.26,
+   "weight": 1.0,
+   "note_time": 79.86
+  },
+  {
+   "text": "Hopes",
+   "time": 81.12,
+   "weight": 0.35,
+   "note_time": 81.13
+  },
+  {
+   "text": "all",
+   "time": 82.62,
+   "weight": 1.0,
+   "note_time": 81.55
+  },
+  {
+   "text": "things,",
+   "time": 82.76,
+   "weight": 1.0,
+   "note_time": 82.39
+  },
+  {
+   "text": "en",
+   "time": 84.0,
+   "weight": 1.0,
+   "note_time": 83.24
+  },
+  {
+   "text": "dures",
+   "time": 84.35,
+   "weight": 1.0,
+   "note_time": 83.45
+  },
+  {
+   "text": "all",
+   "time": 84.88,
+   "weight": 1.0,
+   "note_time": 84.08
+  },
+  {
+   "text": "things",
+   "time": 85.32,
+   "weight": 1.0,
+   "note_time": 84.93
+  },
+  {
+   "text": "Love",
+   "time": 90.92,
+   "weight": 0.75,
+   "note_time": 90.42
+  },
+  {
+   "text": "is",
+   "time": 91.6,
+   "weight": 0.99,
+   "note_time": 90.85
+  },
+  {
+   "text": "pa",
+   "time": 91.94,
+   "weight": 0.4,
+   "note_time": 91.27
+  },
+  {
+   "text": "tient,",
+   "time": 92.29,
+   "weight": 0.4,
+   "note_time": 92.54
+  },
+  {
+   "text": "love",
+   "time": 94.04,
+   "weight": 0.34,
+   "note_time": 95.49
+  },
+  {
+   "text": "is",
+   "time": 96.44,
+   "weight": 1.0,
+   "note_time": 95.92
+  },
+  {
+   "text": "kind",
+   "time": 97.04,
+   "weight": 1.0,
+   "note_time": 96.34
+  },
+  {
+   "text": "Love",
+   "time": 98.64,
+   "weight": 0.37,
+   "note_time": 99.72
+  },
+  {
+   "text": "ne",
+   "time": 100.64,
+   "weight": 1.0,
+   "note_time": 100.56
+  },
+  {
+   "text": "ver",
+   "time": 100.99,
+   "weight": 1.0,
+   "note_time": 100.77
+  },
+  {
+   "text": "ends",
+   "time": 101.48,
+   "weight": 1.0,
+   "note_time": 100.99
+  },
+  {
+   "text": "For",
+   "time": 105.5,
+   "weight": 0.64,
+   "note_time": 106.27
+  },
+  {
+   "text": "now",
+   "time": 106.82,
+   "weight": 1.0,
+   "note_time": 106.48
+  },
+  {
+   "text": "we",
+   "time": 107.26,
+   "weight": 0.96,
+   "note_time": 106.9
+  },
+  {
+   "text": "see",
+   "time": 107.62,
+   "weight": 0.99,
+   "note_time": 107.75
+  },
+  {
+   "text": "in",
+   "time": 108.44,
+   "weight": 0.98,
+   "note_time": 108.59
+  },
+  {
+   "text": "a",
+   "time": 109.36,
+   "weight": 0.96,
+   "note_time": 108.8
+  },
+  {
+   "text": "mir",
+   "time": 109.52,
+   "weight": 1.0,
+   "note_time": 109.01
+  },
+  {
+   "text": "ror",
+   "time": 109.77,
+   "weight": 1.0,
+   "note_time": 109.23
+  },
+  {
+   "text": "dim",
+   "time": 110.02,
+   "weight": 0.91,
+   "note_time": 110.28
+  },
+  {
+   "text": "ly",
+   "time": 110.37,
+   "weight": 0.91,
+   "note_time": 110.7
+  },
+  {
+   "text": "But",
+   "time": 111.5,
+   "weight": 0.33,
+   "note_time": 112.18
+  },
+  {
+   "text": "then",
+   "time": 112.68,
+   "weight": 0.99,
+   "note_time": 112.39
+  },
+  {
+   "text": "face",
+   "time": 113.16,
+   "weight": 0.99,
+   "note_time": 112.82
+  },
+  {
+   "text": "to",
+   "time": 113.72,
+   "weight": 0.93,
+   "note_time": 113.66
+  },
+  {
+   "text": "face",
+   "time": 114.3,
+   "weight": 1.0,
+   "note_time": 113.87
+  },
+  {
+   "text": "Now",
+   "time": 116.78,
+   "weight": 0.41,
+   "note_time": 117.04
+  },
+  {
+   "text": "I",
+   "time": 117.62,
+   "weight": 0.97,
+   "note_time": 117.25
+  },
+  {
+   "text": "know",
+   "time": 117.88,
+   "weight": 1.0,
+   "note_time": 117.46
+  },
+  {
+   "text": "in",
+   "time": 118.1,
+   "weight": 0.98,
+   "note_time": 117.68
+  },
+  {
+   "text": "part,",
+   "time": 118.26,
+   "weight": 1.0,
+   "note_time": 117.89
+  },
+  {
+   "text": "then",
+   "time": 118.82,
+   "weight": 0.97,
+   "note_time": 118.52
+  },
+  {
+   "text": "I",
+   "time": 119.24,
+   "weight": 1.0,
+   "note_time": 118.73
+  },
+  {
+   "text": "shall",
+   "time": 119.42,
+   "weight": 1.0,
+   "note_time": 119.15
+  },
+  {
+   "text": "know",
+   "time": 119.8,
+   "weight": 1.0,
+   "note_time": 119.58
+  },
+  {
+   "text": "ful",
+   "time": 120.24,
+   "weight": 1.0,
+   "note_time": 120.42
+  },
+  {
+   "text": "ly",
+   "time": 120.59,
+   "weight": 1.0,
+   "note_time": 120.63
+  },
+  {
+   "text": "So",
+   "time": 122.06,
+   "weight": 0.91,
+   "note_time": 122.32
+  },
+  {
+   "text": "now",
+   "time": 122.9,
+   "weight": 0.99,
+   "note_time": 122.54
+  },
+  {
+   "text": "faith,",
+   "time": 123.18,
+   "weight": 0.99,
+   "note_time": 122.96
+  },
+  {
+   "text": "hope",
+   "time": 123.86,
+   "weight": 1.0,
+   "note_time": 124.23
+  },
+  {
+   "text": "and",
+   "time": 125.14,
+   "weight": 1.0,
+   "note_time": 125.07
+  },
+  {
+   "text": "love",
+   "time": 125.86,
+   "weight": 1.0,
+   "note_time": 125.49
+  },
+  {
+   "text": "a",
+   "time": 126.14,
+   "weight": 0.97,
+   "note_time": 125.7
+  },
+  {
+   "text": "bide,",
+   "time": 126.26,
+   "weight": 0.97,
+   "note_time": 125.92
+  },
+  {
+   "text": "these",
+   "time": 126.38,
+   "weight": 0.92,
+   "note_time": 126.34
+  },
+  {
+   "text": "three",
+   "time": 126.98,
+   "weight": 1.0,
+   "note_time": 126.76
+  },
+  {
+   "text": "But",
+   "time": 129.9,
+   "weight": 0.99,
+   "note_time": 130.14
+  },
+  {
+   "text": "the",
+   "time": 130.74,
+   "weight": 1.0,
+   "note_time": 130.35
+  },
+  {
+   "text": "great",
+   "time": 130.88,
+   "weight": 1.0,
+   "note_time": 130.56
+  },
+  {
+   "text": "est",
+   "time": 131.2,
+   "weight": 1.0,
+   "note_time": 130.99
+  },
+  {
+   "text": "of",
+   "time": 131.52,
+   "weight": 1.0,
+   "note_time": 131.2
+  },
+  {
+   "text": "these",
+   "time": 131.92,
+   "weight": 1.0,
+   "note_time": 131.83
+  },
+  {
+   "text": "is",
+   "time": 132.54,
+   "weight": 0.4,
+   "note_time": 133.52
+  },
+  {
+   "text": "love",
+   "time": 134.1,
+   "weight": 1.0,
+   "note_time": 134.37
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "17 of 19 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

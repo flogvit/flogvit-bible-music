@@ -1,0 +1,1826 @@
+{
+ "id": "story-david-og-goliat-hiphop",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-david-og-goliat-hiphop",
+ "offset_seconds": -0.48000000000024556,
+ "words_heard": 221,
+ "words": 240,
+ "lines": [
+  {
+   "text": "Valley of Elah, two armies on the hills",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nine foot giant talking big, giving everybody chills",
+   "heard": 6,
+   "words": 8,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forty days he shouted, send a man to fight me",
+   "heard": 8,
+   "words": 10,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Saul's whole army shaking, nobody stepping up to try me",
+   "heard": 9,
+   "words": 10,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Then a shepherd boy came down with bread for his brothers",
+   "heard": 9,
+   "words": 11,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heard the giant mocking God and said, I'll go if no other",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Saul gave him armor but it didn't fit the frame",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He took his staff and his sling and he went in the name",
+   "heard": 9,
+   "words": 13,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Five smooth stones from the brook",
+   "heard": 3,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "One shot is all that it took",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You come with a sword and a spear",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I come in the name of the Lord, he is here",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The liar looked at David and he laughed at the kid",
+   "heard": 9,
+   "words": 11,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come here, I'll give your flesh to the birds, that's what he said",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "David said, you come with a sword, a spear, a javelin",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But I come in the name of the Lord of hosts, and he will win",
+   "heard": 14,
+   "words": 15,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He ran to the line, put a stone in the sling",
+   "heard": 10,
+   "words": 11,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let it fly to the forehead and the giant hit the ground",
+   "heard": 12,
+   "words": 12,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The battle is the Lord's, let the whole earth know",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There's a God in Israel, and he saves without a sword",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Five smooth stones from the brook",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "One shot is all that it took",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You come with a sword and a spear",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I come in the name of the Lord, he is here",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Val",
+   "time": 11.5,
+   "weight": 0.82,
+   "note_time": 11.29
+  },
+  {
+   "text": "ley",
+   "time": 11.63,
+   "weight": 0.82,
+   "note_time": 11.47
+  },
+  {
+   "text": "of",
+   "time": 11.76,
+   "weight": 0.92,
+   "note_time": 11.65
+  },
+  {
+   "text": "E",
+   "time": 11.99,
+   "weight": 0.0,
+   "note_time": 11.82
+  },
+  {
+   "text": "lah,",
+   "time": 12.21,
+   "weight": 0.0,
+   "note_time": 12.0
+  },
+  {
+   "text": "two",
+   "time": 12.44,
+   "weight": 0.16,
+   "note_time": 12.71
+  },
+  {
+   "text": "ar",
+   "time": 13.02,
+   "weight": 0.95,
+   "note_time": 12.88
+  },
+  {
+   "text": "mies",
+   "time": 13.21,
+   "weight": 0.95,
+   "note_time": 13.06
+  },
+  {
+   "text": "on",
+   "time": 13.4,
+   "weight": 0.99,
+   "note_time": 13.24
+  },
+  {
+   "text": "the",
+   "time": 13.64,
+   "weight": 0.97,
+   "note_time": 13.41
+  },
+  {
+   "text": "hills",
+   "time": 13.78,
+   "weight": 0.89,
+   "note_time": 13.76
+  },
+  {
+   "text": "Nine",
+   "time": 14.05,
+   "weight": 0.0,
+   "note_time": 13.94
+  },
+  {
+   "text": "foot",
+   "time": 14.33,
+   "weight": 0.0,
+   "note_time": 14.12
+  },
+  {
+   "text": "gi",
+   "time": 14.6,
+   "weight": 0.96,
+   "note_time": 14.29
+  },
+  {
+   "text": "ant",
+   "time": 14.72,
+   "weight": 0.96,
+   "note_time": 14.47
+  },
+  {
+   "text": "talk",
+   "time": 14.84,
+   "weight": 0.75,
+   "note_time": 14.65
+  },
+  {
+   "text": "ing",
+   "time": 14.98,
+   "weight": 0.75,
+   "note_time": 14.82
+  },
+  {
+   "text": "big,",
+   "time": 15.12,
+   "weight": 0.37,
+   "note_time": 15.18
+  },
+  {
+   "text": "giv",
+   "time": 15.4,
+   "weight": 0.74,
+   "note_time": 15.35
+  },
+  {
+   "text": "ing",
+   "time": 15.6,
+   "weight": 0.74,
+   "note_time": 15.53
+  },
+  {
+   "text": "eve",
+   "time": 15.8,
+   "weight": 0.98,
+   "note_time": 15.71
+  },
+  {
+   "text": "ry",
+   "time": 15.91,
+   "weight": 0.98,
+   "note_time": 15.88
+  },
+  {
+   "text": "bo",
+   "time": 16.02,
+   "weight": 0.98,
+   "note_time": 16.06
+  },
+  {
+   "text": "dy",
+   "time": 16.13,
+   "weight": 0.98,
+   "note_time": 16.24
+  },
+  {
+   "text": "chills",
+   "time": 16.24,
+   "weight": 0.97,
+   "note_time": 16.94
+  },
+  {
+   "text": "For",
+   "time": 16.92,
+   "weight": 0.81,
+   "note_time": 17.12
+  },
+  {
+   "text": "ty",
+   "time": 17.27,
+   "weight": 0.81,
+   "note_time": 17.29
+  },
+  {
+   "text": "days",
+   "time": 17.68,
+   "weight": 0.25,
+   "note_time": 17.47
+  },
+  {
+   "text": "he",
+   "time": 17.88,
+   "weight": 0.8,
+   "note_time": 17.65
+  },
+  {
+   "text": "shout",
+   "time": 18.02,
+   "weight": 0.4,
+   "note_time": 17.82
+  },
+  {
+   "text": "ed,",
+   "time": 18.16,
+   "weight": 0.4,
+   "note_time": 18.35
+  },
+  {
+   "text": "send",
+   "time": 18.3,
+   "weight": 0.62,
+   "note_time": 18.53
+  },
+  {
+   "text": "a",
+   "time": 19.28,
+   "weight": 0.15,
+   "note_time": 18.71
+  },
+  {
+   "text": "man",
+   "time": 19.32,
+   "weight": 0.0,
+   "note_time": 18.88
+  },
+  {
+   "text": "to",
+   "time": 19.36,
+   "weight": 0.0,
+   "note_time": 19.06
+  },
+  {
+   "text": "fight",
+   "time": 19.4,
+   "weight": 0.83,
+   "note_time": 19.24
+  },
+  {
+   "text": "me",
+   "time": 19.62,
+   "weight": 0.4,
+   "note_time": 19.41
+  },
+  {
+   "text": "Saul's",
+   "time": 19.84,
+   "weight": 0.0,
+   "note_time": 19.59
+  },
+  {
+   "text": "whole",
+   "time": 20.06,
+   "weight": 0.99,
+   "note_time": 19.76
+  },
+  {
+   "text": "ar",
+   "time": 20.16,
+   "weight": 0.96,
+   "note_time": 19.94
+  },
+  {
+   "text": "my",
+   "time": 20.28,
+   "weight": 0.96,
+   "note_time": 20.12
+  },
+  {
+   "text": "shak",
+   "time": 20.4,
+   "weight": 0.84,
+   "note_time": 20.29
+  },
+  {
+   "text": "ing,",
+   "time": 20.55,
+   "weight": 0.84,
+   "note_time": 20.47
+  },
+  {
+   "text": "no",
+   "time": 20.7,
+   "weight": 0.3,
+   "note_time": 20.65
+  },
+  {
+   "text": "bo",
+   "time": 20.93,
+   "weight": 0.3,
+   "note_time": 20.82
+  },
+  {
+   "text": "dy",
+   "time": 21.15,
+   "weight": 0.3,
+   "note_time": 21.0
+  },
+  {
+   "text": "step",
+   "time": 21.38,
+   "weight": 0.74,
+   "note_time": 21.18
+  },
+  {
+   "text": "ping",
+   "time": 21.57,
+   "weight": 0.74,
+   "note_time": 21.35
+  },
+  {
+   "text": "up",
+   "time": 21.76,
+   "weight": 0.99,
+   "note_time": 21.53
+  },
+  {
+   "text": "to",
+   "time": 21.9,
+   "weight": 0.99,
+   "note_time": 21.71
+  },
+  {
+   "text": "try",
+   "time": 22.04,
+   "weight": 0.97,
+   "note_time": 21.88
+  },
+  {
+   "text": "me",
+   "time": 22.28,
+   "weight": 1.0,
+   "note_time": 22.06
+  },
+  {
+   "text": "Then",
+   "time": 22.42,
+   "weight": 0.98,
+   "note_time": 22.24
+  },
+  {
+   "text": "a",
+   "time": 22.62,
+   "weight": 0.56,
+   "note_time": 22.41
+  },
+  {
+   "text": "shep",
+   "time": 22.76,
+   "weight": 0.84,
+   "note_time": 22.59
+  },
+  {
+   "text": "herd",
+   "time": 22.9,
+   "weight": 0.84,
+   "note_time": 22.76
+  },
+  {
+   "text": "boy",
+   "time": 23.04,
+   "weight": 0.97,
+   "note_time": 22.94
+  },
+  {
+   "text": "came",
+   "time": 23.3,
+   "weight": 0.98,
+   "note_time": 23.29
+  },
+  {
+   "text": "down",
+   "time": 23.54,
+   "weight": 1.0,
+   "note_time": 23.65
+  },
+  {
+   "text": "with",
+   "time": 23.83,
+   "weight": 0.0,
+   "note_time": 23.82
+  },
+  {
+   "text": "bread",
+   "time": 24.11,
+   "weight": 0.0,
+   "note_time": 24.0
+  },
+  {
+   "text": "for",
+   "time": 24.4,
+   "weight": 1.0,
+   "note_time": 24.35
+  },
+  {
+   "text": "his",
+   "time": 24.58,
+   "weight": 0.98,
+   "note_time": 24.71
+  },
+  {
+   "text": "broth",
+   "time": 24.7,
+   "weight": 0.88,
+   "note_time": 24.88
+  },
+  {
+   "text": "ers",
+   "time": 24.87,
+   "weight": 0.88,
+   "note_time": 25.06
+  },
+  {
+   "text": "Heard",
+   "time": 25.04,
+   "weight": 0.68,
+   "note_time": 25.24
+  },
+  {
+   "text": "the",
+   "time": 25.5,
+   "weight": 0.16,
+   "note_time": 25.41
+  },
+  {
+   "text": "gi",
+   "time": 25.6,
+   "weight": 0.98,
+   "note_time": 25.59
+  },
+  {
+   "text": "ant",
+   "time": 25.74,
+   "weight": 0.98,
+   "note_time": 25.76
+  },
+  {
+   "text": "mock",
+   "time": 25.88,
+   "weight": 0.94,
+   "note_time": 25.94
+  },
+  {
+   "text": "ing",
+   "time": 26.07,
+   "weight": 0.94,
+   "note_time": 26.12
+  },
+  {
+   "text": "God",
+   "time": 26.26,
+   "weight": 0.79,
+   "note_time": 26.29
+  },
+  {
+   "text": "and",
+   "time": 26.56,
+   "weight": 0.42,
+   "note_time": 26.47
+  },
+  {
+   "text": "said,",
+   "time": 26.68,
+   "weight": 0.97,
+   "note_time": 26.65
+  },
+  {
+   "text": "I'll",
+   "time": 26.92,
+   "weight": 0.25,
+   "note_time": 26.82
+  },
+  {
+   "text": "go",
+   "time": 27.08,
+   "weight": 0.99,
+   "note_time": 27.0
+  },
+  {
+   "text": "if",
+   "time": 27.18,
+   "weight": 0.15,
+   "note_time": 27.18
+  },
+  {
+   "text": "no",
+   "time": 27.38,
+   "weight": 0.99,
+   "note_time": 27.53
+  },
+  {
+   "text": "oth",
+   "time": 27.54,
+   "weight": 0.54,
+   "note_time": 27.71
+  },
+  {
+   "text": "er",
+   "time": 27.69,
+   "weight": 0.54,
+   "note_time": 28.24
+  },
+  {
+   "text": "Saul",
+   "time": 27.84,
+   "weight": 0.21,
+   "note_time": 28.59
+  },
+  {
+   "text": "gave",
+   "time": 28.24,
+   "weight": 0.99,
+   "note_time": 28.76
+  },
+  {
+   "text": "him",
+   "time": 29.1,
+   "weight": 0.38,
+   "note_time": 28.94
+  },
+  {
+   "text": "ar",
+   "time": 29.36,
+   "weight": 0.15,
+   "note_time": 29.12
+  },
+  {
+   "text": "mor",
+   "time": 29.47,
+   "weight": 0.15,
+   "note_time": 29.29
+  },
+  {
+   "text": "but",
+   "time": 29.58,
+   "weight": 0.65,
+   "note_time": 29.47
+  },
+  {
+   "text": "it",
+   "time": 29.86,
+   "weight": 0.97,
+   "note_time": 29.65
+  },
+  {
+   "text": "didn't",
+   "time": 30.02,
+   "weight": 1.0,
+   "note_time": 29.82
+  },
+  {
+   "text": "fit",
+   "time": 30.4,
+   "weight": 0.56,
+   "note_time": 30.0
+  },
+  {
+   "text": "the",
+   "time": 30.46,
+   "weight": 0.15,
+   "note_time": 30.18
+  },
+  {
+   "text": "frame",
+   "time": 30.46,
+   "weight": 0.15,
+   "note_time": 30.35
+  },
+  {
+   "text": "He",
+   "time": 31.2,
+   "weight": 0.34,
+   "note_time": 31.24
+  },
+  {
+   "text": "took",
+   "time": 31.6,
+   "weight": 0.96,
+   "note_time": 31.41
+  },
+  {
+   "text": "his",
+   "time": 31.86,
+   "weight": 0.0,
+   "note_time": 31.59
+  },
+  {
+   "text": "staff",
+   "time": 32.12,
+   "weight": 0.95,
+   "note_time": 31.76
+  },
+  {
+   "text": "and",
+   "time": 32.38,
+   "weight": 0.74,
+   "note_time": 31.94
+  },
+  {
+   "text": "his",
+   "time": 32.51,
+   "weight": 0.0,
+   "note_time": 32.12
+  },
+  {
+   "text": "sling",
+   "time": 32.64,
+   "weight": 0.99,
+   "note_time": 32.29
+  },
+  {
+   "text": "and",
+   "time": 32.96,
+   "weight": 0.83,
+   "note_time": 32.47
+  },
+  {
+   "text": "he",
+   "time": 33.02,
+   "weight": 0.95,
+   "note_time": 32.65
+  },
+  {
+   "text": "went",
+   "time": 33.22,
+   "weight": 0.85,
+   "note_time": 32.82
+  },
+  {
+   "text": "in",
+   "time": 33.33,
+   "weight": 0.0,
+   "note_time": 33.0
+  },
+  {
+   "text": "the",
+   "time": 33.43,
+   "weight": 0.0,
+   "note_time": 33.18
+  },
+  {
+   "text": "name",
+   "time": 33.54,
+   "weight": 0.59,
+   "note_time": 34.59
+  },
+  {
+   "text": "Five",
+   "time": 34.76,
+   "weight": 0.27,
+   "note_time": 34.94
+  },
+  {
+   "text": "smooth",
+   "time": 35.12,
+   "weight": 0.0,
+   "note_time": 35.29
+  },
+  {
+   "text": "stones",
+   "time": 35.48,
+   "weight": 1.0,
+   "note_time": 35.65
+  },
+  {
+   "text": "from",
+   "time": 35.94,
+   "weight": 0.96,
+   "note_time": 35.82
+  },
+  {
+   "text": "the",
+   "time": 36.48,
+   "weight": 0.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "brook",
+   "time": 37.02,
+   "weight": 0.0,
+   "note_time": 37.41
+  },
+  {
+   "text": "One",
+   "time": 37.56,
+   "weight": 0.88,
+   "note_time": 37.76
+  },
+  {
+   "text": "shot",
+   "time": 37.96,
+   "weight": 0.99,
+   "note_time": 37.94
+  },
+  {
+   "text": "is",
+   "time": 38.3,
+   "weight": 0.99,
+   "note_time": 38.12
+  },
+  {
+   "text": "all",
+   "time": 38.52,
+   "weight": 1.0,
+   "note_time": 38.47
+  },
+  {
+   "text": "that",
+   "time": 38.78,
+   "weight": 0.99,
+   "note_time": 38.65
+  },
+  {
+   "text": "it",
+   "time": 39.02,
+   "weight": 0.94,
+   "note_time": 38.82
+  },
+  {
+   "text": "took",
+   "time": 39.2,
+   "weight": 1.0,
+   "note_time": 40.06
+  },
+  {
+   "text": "You",
+   "time": 40.16,
+   "weight": 0.96,
+   "note_time": 40.24
+  },
+  {
+   "text": "come",
+   "time": 40.56,
+   "weight": 0.98,
+   "note_time": 40.59
+  },
+  {
+   "text": "with",
+   "time": 40.78,
+   "weight": 0.99,
+   "note_time": 40.76
+  },
+  {
+   "text": "a",
+   "time": 41.12,
+   "weight": 0.99,
+   "note_time": 40.94
+  },
+  {
+   "text": "sword",
+   "time": 41.32,
+   "weight": 1.0,
+   "note_time": 41.29
+  },
+  {
+   "text": "and",
+   "time": 41.58,
+   "weight": 1.0,
+   "note_time": 41.47
+  },
+  {
+   "text": "a",
+   "time": 41.84,
+   "weight": 1.0,
+   "note_time": 41.65
+  },
+  {
+   "text": "spear",
+   "time": 41.96,
+   "weight": 1.0,
+   "note_time": 42.18
+  },
+  {
+   "text": "I",
+   "time": 42.24,
+   "weight": 0.99,
+   "note_time": 42.35
+  },
+  {
+   "text": "come",
+   "time": 42.66,
+   "weight": 1.0,
+   "note_time": 42.71
+  },
+  {
+   "text": "in",
+   "time": 42.88,
+   "weight": 1.0,
+   "note_time": 42.88
+  },
+  {
+   "text": "the",
+   "time": 43.24,
+   "weight": 1.0,
+   "note_time": 43.06
+  },
+  {
+   "text": "name",
+   "time": 43.4,
+   "weight": 1.0,
+   "note_time": 43.41
+  },
+  {
+   "text": "of",
+   "time": 43.74,
+   "weight": 1.0,
+   "note_time": 43.59
+  },
+  {
+   "text": "the",
+   "time": 43.98,
+   "weight": 1.0,
+   "note_time": 43.76
+  },
+  {
+   "text": "Lord,",
+   "time": 44.14,
+   "weight": 0.96,
+   "note_time": 44.12
+  },
+  {
+   "text": "he",
+   "time": 44.52,
+   "weight": 0.69,
+   "note_time": 44.29
+  },
+  {
+   "text": "is",
+   "time": 44.64,
+   "weight": 1.0,
+   "note_time": 44.47
+  },
+  {
+   "text": "here",
+   "time": 44.82,
+   "weight": 0.99,
+   "note_time": 45.0
+  },
+  {
+   "text": "The",
+   "time": 45.18,
+   "weight": 0.0,
+   "note_time": 45.18
+  },
+  {
+   "text": "liar",
+   "time": 45.54,
+   "weight": 0.0,
+   "note_time": 45.35
+  },
+  {
+   "text": "looked",
+   "time": 45.9,
+   "weight": 1.0,
+   "note_time": 45.53
+  },
+  {
+   "text": "at",
+   "time": 46.1,
+   "weight": 1.0,
+   "note_time": 45.71
+  },
+  {
+   "text": "Da",
+   "time": 46.26,
+   "weight": 1.0,
+   "note_time": 45.88
+  },
+  {
+   "text": "vid",
+   "time": 46.42,
+   "weight": 1.0,
+   "note_time": 46.06
+  },
+  {
+   "text": "and",
+   "time": 46.58,
+   "weight": 0.99,
+   "note_time": 46.24
+  },
+  {
+   "text": "he",
+   "time": 46.82,
+   "weight": 1.0,
+   "note_time": 46.41
+  },
+  {
+   "text": "laughed",
+   "time": 46.96,
+   "weight": 1.0,
+   "note_time": 46.59
+  },
+  {
+   "text": "at",
+   "time": 47.28,
+   "weight": 1.0,
+   "note_time": 46.94
+  },
+  {
+   "text": "the",
+   "time": 47.52,
+   "weight": 1.0,
+   "note_time": 47.12
+  },
+  {
+   "text": "kid",
+   "time": 47.66,
+   "weight": 0.99,
+   "note_time": 47.29
+  },
+  {
+   "text": "Come",
+   "time": 47.9,
+   "weight": 0.95,
+   "note_time": 47.82
+  },
+  {
+   "text": "here,",
+   "time": 48.4,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "I'll",
+   "time": 48.64,
+   "weight": 1.0,
+   "note_time": 48.18
+  },
+  {
+   "text": "give",
+   "time": 48.8,
+   "weight": 1.0,
+   "note_time": 48.35
+  },
+  {
+   "text": "your",
+   "time": 48.92,
+   "weight": 0.59,
+   "note_time": 48.53
+  },
+  {
+   "text": "flesh",
+   "time": 49.06,
+   "weight": 1.0,
+   "note_time": 48.71
+  },
+  {
+   "text": "to",
+   "time": 49.24,
+   "weight": 1.0,
+   "note_time": 48.88
+  },
+  {
+   "text": "the",
+   "time": 49.42,
+   "weight": 1.0,
+   "note_time": 49.06
+  },
+  {
+   "text": "birds,",
+   "time": 49.58,
+   "weight": 1.0,
+   "note_time": 49.24
+  },
+  {
+   "text": "that's",
+   "time": 50.04,
+   "weight": 1.0,
+   "note_time": 49.59
+  },
+  {
+   "text": "what",
+   "time": 50.18,
+   "weight": 1.0,
+   "note_time": 49.76
+  },
+  {
+   "text": "he",
+   "time": 50.32,
+   "weight": 1.0,
+   "note_time": 49.94
+  },
+  {
+   "text": "said",
+   "time": 50.46,
+   "weight": 1.0,
+   "note_time": 50.12
+  },
+  {
+   "text": "Da",
+   "time": 50.76,
+   "weight": 1.0,
+   "note_time": 50.47
+  },
+  {
+   "text": "vid",
+   "time": 50.94,
+   "weight": 1.0,
+   "note_time": 50.65
+  },
+  {
+   "text": "said,",
+   "time": 51.12,
+   "weight": 1.0,
+   "note_time": 50.82
+  },
+  {
+   "text": "you",
+   "time": 51.44,
+   "weight": 0.99,
+   "note_time": 51.0
+  },
+  {
+   "text": "come",
+   "time": 51.54,
+   "weight": 0.99,
+   "note_time": 51.18
+  },
+  {
+   "text": "with",
+   "time": 51.74,
+   "weight": 1.0,
+   "note_time": 51.35
+  },
+  {
+   "text": "a",
+   "time": 51.88,
+   "weight": 0.76,
+   "note_time": 51.53
+  },
+  {
+   "text": "sword,",
+   "time": 51.96,
+   "weight": 1.0,
+   "note_time": 52.06
+  },
+  {
+   "text": "a",
+   "time": 52.3,
+   "weight": 1.0,
+   "note_time": 52.24
+  },
+  {
+   "text": "spear,",
+   "time": 52.54,
+   "weight": 1.0,
+   "note_time": 52.76
+  },
+  {
+   "text": "a",
+   "time": 53.0,
+   "weight": 1.0,
+   "note_time": 52.94
+  },
+  {
+   "text": "jave",
+   "time": 53.26,
+   "weight": 1.0,
+   "note_time": 53.12
+  },
+  {
+   "text": "lin",
+   "time": 53.48,
+   "weight": 1.0,
+   "note_time": 53.29
+  },
+  {
+   "text": "But",
+   "time": 53.7,
+   "weight": 1.0,
+   "note_time": 53.47
+  },
+  {
+   "text": "I",
+   "time": 53.86,
+   "weight": 1.0,
+   "note_time": 53.65
+  },
+  {
+   "text": "come",
+   "time": 54.0,
+   "weight": 1.0,
+   "note_time": 53.82
+  },
+  {
+   "text": "in",
+   "time": 54.2,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "the",
+   "time": 54.38,
+   "weight": 1.0,
+   "note_time": 54.18
+  },
+  {
+   "text": "name",
+   "time": 54.52,
+   "weight": 1.0,
+   "note_time": 54.35
+  },
+  {
+   "text": "of",
+   "time": 54.78,
+   "weight": 1.0,
+   "note_time": 54.53
+  },
+  {
+   "text": "the",
+   "time": 54.92,
+   "weight": 1.0,
+   "note_time": 54.71
+  },
+  {
+   "text": "Lord",
+   "time": 55.08,
+   "weight": 1.0,
+   "note_time": 54.88
+  },
+  {
+   "text": "of",
+   "time": 55.28,
+   "weight": 0.0,
+   "note_time": 55.06
+  },
+  {
+   "text": "hosts,",
+   "time": 55.48,
+   "weight": 0.58,
+   "note_time": 55.24
+  },
+  {
+   "text": "and",
+   "time": 55.74,
+   "weight": 1.0,
+   "note_time": 55.41
+  },
+  {
+   "text": "he",
+   "time": 55.8,
+   "weight": 1.0,
+   "note_time": 55.59
+  },
+  {
+   "text": "will",
+   "time": 55.9,
+   "weight": 0.99,
+   "note_time": 55.76
+  },
+  {
+   "text": "win",
+   "time": 56.1,
+   "weight": 1.0,
+   "note_time": 56.29
+  },
+  {
+   "text": "He",
+   "time": 56.38,
+   "weight": 1.0,
+   "note_time": 56.47
+  },
+  {
+   "text": "ran",
+   "time": 56.74,
+   "weight": 1.0,
+   "note_time": 56.82
+  },
+  {
+   "text": "to",
+   "time": 57.1,
+   "weight": 1.0,
+   "note_time": 57.0
+  },
+  {
+   "text": "the",
+   "time": 57.34,
+   "weight": 1.0,
+   "note_time": 57.18
+  },
+  {
+   "text": "line,",
+   "time": 57.5,
+   "weight": 0.89,
+   "note_time": 57.53
+  },
+  {
+   "text": "put",
+   "time": 57.88,
+   "weight": 1.0,
+   "note_time": 57.71
+  },
+  {
+   "text": "a",
+   "time": 58.04,
+   "weight": 1.0,
+   "note_time": 57.88
+  },
+  {
+   "text": "stone",
+   "time": 58.2,
+   "weight": 1.0,
+   "note_time": 58.24
+  },
+  {
+   "text": "in",
+   "time": 58.48,
+   "weight": 0.95,
+   "note_time": 58.41
+  },
+  {
+   "text": "the",
+   "time": 58.8,
+   "weight": 0.86,
+   "note_time": 58.59
+  },
+  {
+   "text": "sling",
+   "time": 58.97,
+   "weight": 0.0,
+   "note_time": 58.94
+  },
+  {
+   "text": "Let",
+   "time": 59.14,
+   "weight": 0.58,
+   "note_time": 59.12
+  },
+  {
+   "text": "it",
+   "time": 59.44,
+   "weight": 0.99,
+   "note_time": 59.29
+  },
+  {
+   "text": "fly",
+   "time": 59.62,
+   "weight": 1.0,
+   "note_time": 59.65
+  },
+  {
+   "text": "to",
+   "time": 59.86,
+   "weight": 0.99,
+   "note_time": 59.82
+  },
+  {
+   "text": "the",
+   "time": 60.12,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "fore",
+   "time": 60.34,
+   "weight": 0.97,
+   "note_time": 60.18
+  },
+  {
+   "text": "head",
+   "time": 60.52,
+   "weight": 0.97,
+   "note_time": 60.35
+  },
+  {
+   "text": "and",
+   "time": 60.7,
+   "weight": 0.83,
+   "note_time": 60.53
+  },
+  {
+   "text": "the",
+   "time": 60.9,
+   "weight": 0.89,
+   "note_time": 60.71
+  },
+  {
+   "text": "gi",
+   "time": 61.02,
+   "weight": 0.99,
+   "note_time": 60.88
+  },
+  {
+   "text": "ant",
+   "time": 61.19,
+   "weight": 0.99,
+   "note_time": 61.06
+  },
+  {
+   "text": "hit",
+   "time": 61.36,
+   "weight": 0.99,
+   "note_time": 61.24
+  },
+  {
+   "text": "the",
+   "time": 61.58,
+   "weight": 1.0,
+   "note_time": 61.41
+  },
+  {
+   "text": "ground",
+   "time": 61.76,
+   "weight": 1.0,
+   "note_time": 61.94
+  },
+  {
+   "text": "The",
+   "time": 62.04,
+   "weight": 0.97,
+   "note_time": 62.12
+  },
+  {
+   "text": "bat",
+   "time": 62.44,
+   "weight": 1.0,
+   "note_time": 62.29
+  },
+  {
+   "text": "tle",
+   "time": 62.63,
+   "weight": 1.0,
+   "note_time": 62.47
+  },
+  {
+   "text": "is",
+   "time": 62.82,
+   "weight": 0.99,
+   "note_time": 62.65
+  },
+  {
+   "text": "the",
+   "time": 63.02,
+   "weight": 0.99,
+   "note_time": 62.82
+  },
+  {
+   "text": "Lord's,",
+   "time": 63.14,
+   "weight": 0.98,
+   "note_time": 63.18
+  },
+  {
+   "text": "let",
+   "time": 63.6,
+   "weight": 1.0,
+   "note_time": 63.35
+  },
+  {
+   "text": "the",
+   "time": 63.7,
+   "weight": 1.0,
+   "note_time": 63.53
+  },
+  {
+   "text": "whole",
+   "time": 63.86,
+   "weight": 1.0,
+   "note_time": 63.88
+  },
+  {
+   "text": "earth",
+   "time": 64.12,
+   "weight": 0.67,
+   "note_time": 64.24
+  },
+  {
+   "text": "know",
+   "time": 64.5,
+   "weight": 0.99,
+   "note_time": 64.59
+  },
+  {
+   "text": "There's",
+   "time": 64.76,
+   "weight": 1.0,
+   "note_time": 64.76
+  },
+  {
+   "text": "a",
+   "time": 65.2,
+   "weight": 1.0,
+   "note_time": 64.94
+  },
+  {
+   "text": "God",
+   "time": 65.24,
+   "weight": 1.0,
+   "note_time": 65.12
+  },
+  {
+   "text": "in",
+   "time": 65.54,
+   "weight": 0.98,
+   "note_time": 65.29
+  },
+  {
+   "text": "Is",
+   "time": 65.7,
+   "weight": 0.99,
+   "note_time": 65.47
+  },
+  {
+   "text": "rael,",
+   "time": 65.86,
+   "weight": 0.99,
+   "note_time": 65.65
+  },
+  {
+   "text": "and",
+   "time": 66.02,
+   "weight": 0.96,
+   "note_time": 66.0
+  },
+  {
+   "text": "he",
+   "time": 66.58,
+   "weight": 0.85,
+   "note_time": 66.18
+  },
+  {
+   "text": "saves",
+   "time": 66.68,
+   "weight": 0.98,
+   "note_time": 66.35
+  },
+  {
+   "text": "with",
+   "time": 66.94,
+   "weight": 1.0,
+   "note_time": 66.53
+  },
+  {
+   "text": "out",
+   "time": 67.07,
+   "weight": 1.0,
+   "note_time": 66.71
+  },
+  {
+   "text": "a",
+   "time": 67.2,
+   "weight": 1.0,
+   "note_time": 66.88
+  },
+  {
+   "text": "sword",
+   "time": 67.4,
+   "weight": 0.98,
+   "note_time": 67.06
+  },
+  {
+   "text": "Five",
+   "time": 68.42,
+   "weight": 0.51,
+   "note_time": 68.47
+  },
+  {
+   "text": "smooth",
+   "time": 68.94,
+   "weight": 0.98,
+   "note_time": 68.82
+  },
+  {
+   "text": "stones",
+   "time": 69.4,
+   "weight": 1.0,
+   "note_time": 69.18
+  },
+  {
+   "text": "from",
+   "time": 69.72,
+   "weight": 1.0,
+   "note_time": 69.53
+  },
+  {
+   "text": "the",
+   "time": 70.06,
+   "weight": 0.98,
+   "note_time": 69.71
+  },
+  {
+   "text": "brook",
+   "time": 70.22,
+   "weight": 0.99,
+   "note_time": 69.88
+  },
+  {
+   "text": "One",
+   "time": 71.3,
+   "weight": 0.94,
+   "note_time": 71.29
+  },
+  {
+   "text": "shot",
+   "time": 71.82,
+   "weight": 1.0,
+   "note_time": 71.65
+  },
+  {
+   "text": "is",
+   "time": 72.16,
+   "weight": 1.0,
+   "note_time": 71.82
+  },
+  {
+   "text": "all",
+   "time": 72.42,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "that",
+   "time": 72.66,
+   "weight": 1.0,
+   "note_time": 72.35
+  },
+  {
+   "text": "it",
+   "time": 72.88,
+   "weight": 0.99,
+   "note_time": 72.53
+  },
+  {
+   "text": "took",
+   "time": 73.08,
+   "weight": 1.0,
+   "note_time": 72.71
+  },
+  {
+   "text": "You",
+   "time": 73.9,
+   "weight": 0.95,
+   "note_time": 73.94
+  },
+  {
+   "text": "come",
+   "time": 74.42,
+   "weight": 1.0,
+   "note_time": 74.12
+  },
+  {
+   "text": "with",
+   "time": 74.7,
+   "weight": 1.0,
+   "note_time": 74.47
+  },
+  {
+   "text": "a",
+   "time": 75.02,
+   "weight": 1.0,
+   "note_time": 74.65
+  },
+  {
+   "text": "sword",
+   "time": 75.22,
+   "weight": 1.0,
+   "note_time": 74.82
+  },
+  {
+   "text": "and",
+   "time": 75.46,
+   "weight": 1.0,
+   "note_time": 75.18
+  },
+  {
+   "text": "a",
+   "time": 75.74,
+   "weight": 1.0,
+   "note_time": 75.35
+  },
+  {
+   "text": "spear",
+   "time": 75.86,
+   "weight": 1.0,
+   "note_time": 75.53
+  },
+  {
+   "text": "I",
+   "time": 76.14,
+   "weight": 1.0,
+   "note_time": 76.06
+  },
+  {
+   "text": "come",
+   "time": 76.56,
+   "weight": 1.0,
+   "note_time": 76.24
+  },
+  {
+   "text": "in",
+   "time": 76.84,
+   "weight": 1.0,
+   "note_time": 76.59
+  },
+  {
+   "text": "the",
+   "time": 77.14,
+   "weight": 1.0,
+   "note_time": 76.76
+  },
+  {
+   "text": "name",
+   "time": 77.28,
+   "weight": 1.0,
+   "note_time": 76.94
+  },
+  {
+   "text": "of",
+   "time": 77.62,
+   "weight": 1.0,
+   "note_time": 77.29
+  },
+  {
+   "text": "the",
+   "time": 77.84,
+   "weight": 1.0,
+   "note_time": 77.47
+  },
+  {
+   "text": "Lord,",
+   "time": 78.04,
+   "weight": 1.0,
+   "note_time": 77.65
+  },
+  {
+   "text": "he",
+   "time": 78.42,
+   "weight": 0.95,
+   "note_time": 78.0
+  },
+  {
+   "text": "is",
+   "time": 78.54,
+   "weight": 0.99,
+   "note_time": 78.18
+  },
+  {
+   "text": "here",
+   "time": 78.68,
+   "weight": 1.0,
+   "note_time": 78.35
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 24 lyric lines sit on their notes."
+}

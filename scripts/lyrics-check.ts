@@ -186,20 +186,24 @@ export function outcome(v: Verdict): 'ok' | 'adopt' | 'reject' {
 /** The song is kept, as it is or with its sung lyrics. */
 export const passes = (v: Verdict) => outcome(v) !== 'reject';
 
-/** The language Whisper hears in the singing (language.json from song-sheets.py --listen-only). */
-export type SungLanguage = { language: string; probability: number };
+/**
+ * What Whisper hears in the first minute of singing with no lyrics to go by and no language given (language.json
+ * from song-sheets.py --listen-only): its words, and its guess of the language, which is not used on its own: it
+ * calls English Gregorian chant Latin.
+ */
+export type SungLanguage = { language: string; probability: number; heard?: string };
 
 /**
  * The songs are sung in English only: a wrong verdict, without asking the judge, when the lyrics asked for are not
- * English, when Whisper hears the singing as another language, or when the words it heard are not English.
+ * English, when what Whisper writes down without the lyrics to go by is not English, or when the words it heard
+ * with them are not.
  */
 export function languageVerdict(lyrics: string, whisper: Record<string, Heard[]>, sung?: SungLanguage): Verdict | undefined {
   const wrong = (detail: string): Verdict => ({ verdict: 'wrong', problems: [{ time: '', kind: 'other', detail }], summary: detail });
   const asked = notEnglish(lyrics);
   if (asked) return wrong(`The lyrics asked for are not English: ${asked}.`);
-  if (sung && sung.language !== 'en' && sung.probability >= 0.5) {
-    return wrong(`Whisper hears the singing as "${sung.language}" (${sung.probability}), not English.`);
-  }
+  const unprompted = sung?.heard !== undefined && notEnglish(sung.heard);
+  if (unprompted) return wrong(`Whisper hears the singing, without the lyrics to go by, as not English (${sung!.language}): ${unprompted}.`);
   const heard = notEnglish(Object.values(whisper).flat().map((w) => w.w).join(' '));
   if (heard) return wrong(`What was sung is not English: ${heard}.`);
 }

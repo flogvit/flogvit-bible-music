@@ -36,13 +36,20 @@ describe('languageVerdict', () => {
     expect(outcome(languageVerdict(SALME_23, heard('Herren er min hyrde'))!)).toBe('reject');
   });
 
-  test('English lyrics sung in Latin are wrong: by the language Whisper hears, or by the words it writes', () => {
-    expect(languageVerdict(PSALM_23, heard('Dominus regit me'), { language: 'la', probability: 0.97 })!.summary)
-      .toBe('Whisper hears the singing as "la" (0.97), not English.');
+  test('English lyrics sung in Latin are wrong: by what Whisper writes without the lyrics, or with them', () => {
+    const sung = { language: 'la', probability: 0.97, heard: 'Pater noster, qui es in caelis, sanctificetur nomen tuum, adveniat regnum tuum' };
+    expect(languageVerdict(PSALM_23, heard('The LORD is my shepherd'), sung)!.summary).toStartWith('Whisper hears the singing, without the lyrics to go by, as not English (la)');
     expect(outcome(languageVerdict(PSALM_23, heard('Pater noster qui es in caelis sanctificetur nomen tuum fiat voluntas tua'))!)).toBe('reject');
   });
 
-  test('an unsure language guess (instrumental, a word or two) does not reject an English song', () => {
-    expect(languageVerdict(PSALM_23, heard('The LORD is my shepherd'), { language: 'cy', probability: 0.31 })).toBeUndefined();
+  test('a language that is neither English, Norwegian nor Latin is caught by its few English words', () => {
+    const sung = { language: 'de', probability: 0.95, heard: 'Der Herr ist mein Hirte, mir wird nichts mangeln. Er weidet mich auf einer grünen Aue und führet mich zum frischen Wasser.' };
+    expect(languageVerdict(PSALM_23, heard('The LORD is my shepherd'), sung)!.summary).toContain('few English words');
+  });
+
+  test('English Gregorian chant that Whisper guesses is Latin, but writes down in English, is not rejected', () => {
+    // The Lord's Prayer as Gregorian chant on the Home Mac, 2026-11-02: guessed Latin (0.888), heard in English.
+    const sung = { language: 'la', probability: 0.888, heard: 'Our Father in heaven, Hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread, and forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation But deliver us from evil' };
+    expect(languageVerdict(PSALM_23, heard('Our Father in heaven hallowed be your name'), sung)).toBeUndefined();
   });
 });

@@ -227,10 +227,12 @@ not thrown away for that: when what was sung is good lyrics too, the song is kep
 Only a broken song is made again.
 
 1. Whisper listens to the song (`song-sheets.py --listen-only`, which writes `sheets/<id>/whisper.json`; the
-   sheets reuse it afterwards, so Whisper runs once per song), and writes the language it hears the singing in
-   (`sheets/<id>/language.json`). A song whose lyrics are not English, that Whisper hears in another language
-   (probability 0.5 or more), or whose heard words are not English is `wrong` at once, without the judge
-   (`languageVerdict` in `scripts/lyrics-check.ts`), and is made again like any wrong take.
+   sheets reuse it afterwards, so Whisper runs once per song). It also listens to the first minute of singing
+   with no lyrics to go by and no language given, and writes what it hears there and its guess of the language
+   (`sheets/<id>/language.json`). A song whose lyrics are not English, whose first minute Whisper does not write
+   down in English, or whose heard words are not English is `wrong` at once, without the judge
+   (`languageVerdict` in `scripts/lyrics-check.ts`), and is made again like any wrong take. The guess alone does
+   not count: Whisper calls English Gregorian chant Latin (0.89) while it writes the English words down.
 2. `scripts/lyrics-check.ts` gives a local LLM the requested lyrics with their sections (`[Verse]`,
    `[Chorus]`, …) and the phrases Whisper heard, with times. It answers one of three, with each difference and
    when it is heard:

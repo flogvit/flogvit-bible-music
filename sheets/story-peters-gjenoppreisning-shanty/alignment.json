@@ -1,0 +1,1214 @@
+{
+ "id": "story-peters-gjenoppreisning-shanty",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-peters-gjenoppreisning-shanty",
+ "offset_seconds": -1.5000000000002238,
+ "words_heard": 150,
+ "words": 152,
+ "lines": [
+  {
+   "text": "I'm going fishing, Peter said",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And we went with him too",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "All night we fished on Galilee",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And not a fish came through",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "At dawn a man stood on the shore",
+   "heard": 6,
+   "words": 8,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Have you any fish, my friends",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cast the net on the right side",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And you will find some then",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cast the net on the right side",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Haul it in, haul it in",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A hundred fifty three great fish",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the net was not torn",
+   "heard": 6,
+   "words": 6,
+   "error_s": 5.2,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is the Lord, said John to him",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Peter jumped into the sea",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A fire of coals upon the beach",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With fish and bread for free",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come and have breakfast, Jesus said",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And no one dared to ask",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They knew it was the Lord himself",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who served them at the last",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Cast the net on the right side",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Haul it in, haul it in",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A hundred fifty three great fish",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the net was not torn",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I'm",
+   "time": 20.1,
+   "weight": 0.88,
+   "note_time": 19.71
+  },
+  {
+   "text": "go",
+   "time": 20.82,
+   "weight": 0.8,
+   "note_time": 20.0
+  },
+  {
+   "text": "ing",
+   "time": 20.95,
+   "weight": 0.8,
+   "note_time": 20.29
+  },
+  {
+   "text": "fish",
+   "time": 21.08,
+   "weight": 1.0,
+   "note_time": 20.59
+  },
+  {
+   "text": "ing,",
+   "time": 21.36,
+   "weight": 1.0,
+   "note_time": 20.88
+  },
+  {
+   "text": "Pe",
+   "time": 21.92,
+   "weight": 0.99,
+   "note_time": 21.18
+  },
+  {
+   "text": "ter",
+   "time": 22.15,
+   "weight": 0.99,
+   "note_time": 21.47
+  },
+  {
+   "text": "said",
+   "time": 22.38,
+   "weight": 1.0,
+   "note_time": 21.76
+  },
+  {
+   "text": "And",
+   "time": 22.76,
+   "weight": 0.15,
+   "note_time": 22.21
+  },
+  {
+   "text": "we",
+   "time": 23.26,
+   "weight": 1.0,
+   "note_time": 22.35
+  },
+  {
+   "text": "went",
+   "time": 23.4,
+   "weight": 1.0,
+   "note_time": 22.65
+  },
+  {
+   "text": "with",
+   "time": 23.74,
+   "weight": 1.0,
+   "note_time": 22.94
+  },
+  {
+   "text": "him",
+   "time": 23.96,
+   "weight": 1.0,
+   "note_time": 23.09
+  },
+  {
+   "text": "too",
+   "time": 24.2,
+   "weight": 0.72,
+   "note_time": 23.53
+  },
+  {
+   "text": "All",
+   "time": 24.6,
+   "weight": 0.97,
+   "note_time": 24.41
+  },
+  {
+   "text": "night",
+   "time": 25.48,
+   "weight": 1.0,
+   "note_time": 24.71
+  },
+  {
+   "text": "we",
+   "time": 25.74,
+   "weight": 0.98,
+   "note_time": 25.0
+  },
+  {
+   "text": "fished",
+   "time": 26.02,
+   "weight": 1.0,
+   "note_time": 25.29
+  },
+  {
+   "text": "on",
+   "time": 26.54,
+   "weight": 1.0,
+   "note_time": 25.59
+  },
+  {
+   "text": "Ga",
+   "time": 26.62,
+   "weight": 1.0,
+   "note_time": 25.88
+  },
+  {
+   "text": "li",
+   "time": 26.86,
+   "weight": 1.0,
+   "note_time": 26.18
+  },
+  {
+   "text": "lee",
+   "time": 27.1,
+   "weight": 1.0,
+   "note_time": 26.32
+  },
+  {
+   "text": "And",
+   "time": 27.34,
+   "weight": 0.98,
+   "note_time": 26.76
+  },
+  {
+   "text": "not",
+   "time": 27.88,
+   "weight": 1.0,
+   "note_time": 27.06
+  },
+  {
+   "text": "a",
+   "time": 28.12,
+   "weight": 1.0,
+   "note_time": 27.21
+  },
+  {
+   "text": "fish",
+   "time": 28.24,
+   "weight": 1.0,
+   "note_time": 27.5
+  },
+  {
+   "text": "came",
+   "time": 28.56,
+   "weight": 1.0,
+   "note_time": 27.94
+  },
+  {
+   "text": "through",
+   "time": 28.96,
+   "weight": 0.99,
+   "note_time": 28.24
+  },
+  {
+   "text": "At",
+   "time": 29.48,
+   "weight": 0.0,
+   "note_time": 29.12
+  },
+  {
+   "text": "dawn",
+   "time": 30.0,
+   "weight": 0.0,
+   "note_time": 29.85
+  },
+  {
+   "text": "a",
+   "time": 30.52,
+   "weight": 0.56,
+   "note_time": 30.0
+  },
+  {
+   "text": "man",
+   "time": 30.9,
+   "weight": 0.99,
+   "note_time": 30.29
+  },
+  {
+   "text": "stood",
+   "time": 31.04,
+   "weight": 0.98,
+   "note_time": 30.59
+  },
+  {
+   "text": "on",
+   "time": 31.26,
+   "weight": 1.0,
+   "note_time": 30.88
+  },
+  {
+   "text": "the",
+   "time": 31.66,
+   "weight": 0.99,
+   "note_time": 31.18
+  },
+  {
+   "text": "shore",
+   "time": 31.88,
+   "weight": 0.99,
+   "note_time": 31.62
+  },
+  {
+   "text": "Have",
+   "time": 32.24,
+   "weight": 0.29,
+   "note_time": 31.76
+  },
+  {
+   "text": "you",
+   "time": 32.56,
+   "weight": 1.0,
+   "note_time": 32.06
+  },
+  {
+   "text": "a",
+   "time": 32.68,
+   "weight": 0.99,
+   "note_time": 32.21
+  },
+  {
+   "text": "ny",
+   "time": 32.78,
+   "weight": 0.99,
+   "note_time": 32.65
+  },
+  {
+   "text": "fish,",
+   "time": 32.88,
+   "weight": 1.0,
+   "note_time": 32.94
+  },
+  {
+   "text": "my",
+   "time": 33.32,
+   "weight": 0.73,
+   "note_time": 34.12
+  },
+  {
+   "text": "friends",
+   "time": 33.62,
+   "weight": 0.96,
+   "note_time": 34.56
+  },
+  {
+   "text": "Cast",
+   "time": 34.7,
+   "weight": 0.99,
+   "note_time": 34.71
+  },
+  {
+   "text": "the",
+   "time": 35.32,
+   "weight": 0.85,
+   "note_time": 35.0
+  },
+  {
+   "text": "net",
+   "time": 35.58,
+   "weight": 0.97,
+   "note_time": 35.29
+  },
+  {
+   "text": "on",
+   "time": 35.8,
+   "weight": 0.99,
+   "note_time": 35.44
+  },
+  {
+   "text": "the",
+   "time": 36.04,
+   "weight": 1.0,
+   "note_time": 35.88
+  },
+  {
+   "text": "right",
+   "time": 36.3,
+   "weight": 1.0,
+   "note_time": 36.32
+  },
+  {
+   "text": "side",
+   "time": 36.56,
+   "weight": 1.0,
+   "note_time": 36.47
+  },
+  {
+   "text": "And",
+   "time": 36.96,
+   "weight": 0.7,
+   "note_time": 36.76
+  },
+  {
+   "text": "you",
+   "time": 37.36,
+   "weight": 1.0,
+   "note_time": 37.06
+  },
+  {
+   "text": "will",
+   "time": 37.52,
+   "weight": 0.99,
+   "note_time": 37.35
+  },
+  {
+   "text": "find",
+   "time": 37.74,
+   "weight": 1.0,
+   "note_time": 37.65
+  },
+  {
+   "text": "some",
+   "time": 38.16,
+   "weight": 1.0,
+   "note_time": 38.82
+  },
+  {
+   "text": "then",
+   "time": 38.36,
+   "weight": 0.99,
+   "note_time": 39.26
+  },
+  {
+   "text": "Cast",
+   "time": 39.34,
+   "weight": 0.94,
+   "note_time": 39.41
+  },
+  {
+   "text": "the",
+   "time": 39.92,
+   "weight": 1.0,
+   "note_time": 39.71
+  },
+  {
+   "text": "net",
+   "time": 40.28,
+   "weight": 1.0,
+   "note_time": 39.85
+  },
+  {
+   "text": "on",
+   "time": 40.5,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "the",
+   "time": 40.72,
+   "weight": 1.0,
+   "note_time": 40.59
+  },
+  {
+   "text": "right",
+   "time": 40.86,
+   "weight": 1.0,
+   "note_time": 41.18
+  },
+  {
+   "text": "side",
+   "time": 41.14,
+   "weight": 1.0,
+   "note_time": 41.62
+  },
+  {
+   "text": "Haul",
+   "time": 41.8,
+   "weight": 0.93,
+   "note_time": 42.35
+  },
+  {
+   "text": "it",
+   "time": 42.34,
+   "weight": 0.97,
+   "note_time": 42.79
+  },
+  {
+   "text": "in,",
+   "time": 42.68,
+   "weight": 1.0,
+   "note_time": 42.94
+  },
+  {
+   "text": "haul",
+   "time": 43.06,
+   "weight": 0.9,
+   "note_time": 43.38
+  },
+  {
+   "text": "it",
+   "time": 43.5,
+   "weight": 1.0,
+   "note_time": 43.53
+  },
+  {
+   "text": "in",
+   "time": 43.86,
+   "weight": 1.0,
+   "note_time": 43.82
+  },
+  {
+   "text": "A",
+   "time": 44.14,
+   "weight": 0.52,
+   "note_time": 44.12
+  },
+  {
+   "text": "hun",
+   "time": 44.4,
+   "weight": 0.98,
+   "note_time": 44.41
+  },
+  {
+   "text": "dred",
+   "time": 44.59,
+   "weight": 0.98,
+   "note_time": 44.71
+  },
+  {
+   "text": "fif",
+   "time": 44.78,
+   "weight": 0.94,
+   "note_time": 45.0
+  },
+  {
+   "text": "ty",
+   "time": 45.03,
+   "weight": 0.94,
+   "note_time": 45.29
+  },
+  {
+   "text": "three",
+   "time": 45.28,
+   "weight": 0.86,
+   "note_time": 45.59
+  },
+  {
+   "text": "great",
+   "time": 45.84,
+   "weight": 0.98,
+   "note_time": 45.74
+  },
+  {
+   "text": "fish",
+   "time": 46.08,
+   "weight": 1.0,
+   "note_time": 45.88
+  },
+  {
+   "text": "And",
+   "time": 46.38,
+   "weight": 0.93,
+   "note_time": 46.47
+  },
+  {
+   "text": "the",
+   "time": 46.62,
+   "weight": 1.0,
+   "note_time": 46.76
+  },
+  {
+   "text": "net",
+   "time": 46.78,
+   "weight": 1.0,
+   "note_time": 47.06
+  },
+  {
+   "text": "was",
+   "time": 46.98,
+   "weight": 1.0,
+   "note_time": 57.35
+  },
+  {
+   "text": "not",
+   "time": 47.5,
+   "weight": 1.0,
+   "note_time": 57.65
+  },
+  {
+   "text": "torn",
+   "time": 47.82,
+   "weight": 1.0,
+   "note_time": 57.94
+  },
+  {
+   "text": "It",
+   "time": 57.74,
+   "weight": 0.47,
+   "note_time": 58.09
+  },
+  {
+   "text": "is",
+   "time": 58.34,
+   "weight": 0.99,
+   "note_time": 58.53
+  },
+  {
+   "text": "the",
+   "time": 58.7,
+   "weight": 0.99,
+   "note_time": 58.82
+  },
+  {
+   "text": "Lord,",
+   "time": 58.94,
+   "weight": 0.95,
+   "note_time": 59.26
+  },
+  {
+   "text": "said",
+   "time": 59.34,
+   "weight": 0.99,
+   "note_time": 59.41
+  },
+  {
+   "text": "John",
+   "time": 59.52,
+   "weight": 1.0,
+   "note_time": 59.85
+  },
+  {
+   "text": "to",
+   "time": 59.92,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "him",
+   "time": 60.26,
+   "weight": 0.83,
+   "note_time": 60.15
+  },
+  {
+   "text": "And",
+   "time": 60.62,
+   "weight": 0.96,
+   "note_time": 60.29
+  },
+  {
+   "text": "Pe",
+   "time": 60.88,
+   "weight": 1.0,
+   "note_time": 60.59
+  },
+  {
+   "text": "ter",
+   "time": 60.98,
+   "weight": 1.0,
+   "note_time": 60.74
+  },
+  {
+   "text": "jumped",
+   "time": 61.08,
+   "weight": 1.0,
+   "note_time": 60.88
+  },
+  {
+   "text": "in",
+   "time": 61.36,
+   "weight": 1.0,
+   "note_time": 61.03
+  },
+  {
+   "text": "to",
+   "time": 61.51,
+   "weight": 1.0,
+   "note_time": 62.21
+  },
+  {
+   "text": "the",
+   "time": 61.66,
+   "weight": 1.0,
+   "note_time": 62.35
+  },
+  {
+   "text": "sea",
+   "time": 61.88,
+   "weight": 1.0,
+   "note_time": 62.65
+  },
+  {
+   "text": "A",
+   "time": 62.18,
+   "weight": 0.53,
+   "note_time": 62.94
+  },
+  {
+   "text": "fire",
+   "time": 63.14,
+   "weight": 1.0,
+   "note_time": 63.38
+  },
+  {
+   "text": "of",
+   "time": 63.52,
+   "weight": 1.0,
+   "note_time": 63.53
+  },
+  {
+   "text": "coals",
+   "time": 63.74,
+   "weight": 1.0,
+   "note_time": 63.82
+  },
+  {
+   "text": "up",
+   "time": 64.26,
+   "weight": 1.0,
+   "note_time": 63.97
+  },
+  {
+   "text": "on",
+   "time": 64.38,
+   "weight": 1.0,
+   "note_time": 64.41
+  },
+  {
+   "text": "the",
+   "time": 64.5,
+   "weight": 1.0,
+   "note_time": 64.71
+  },
+  {
+   "text": "beach",
+   "time": 64.84,
+   "weight": 1.0,
+   "note_time": 64.85
+  },
+  {
+   "text": "With",
+   "time": 65.26,
+   "weight": 1.0,
+   "note_time": 65.29
+  },
+  {
+   "text": "fish",
+   "time": 65.44,
+   "weight": 1.0,
+   "note_time": 65.59
+  },
+  {
+   "text": "and",
+   "time": 65.76,
+   "weight": 1.0,
+   "note_time": 65.88
+  },
+  {
+   "text": "bread",
+   "time": 65.96,
+   "weight": 1.0,
+   "note_time": 67.06
+  },
+  {
+   "text": "for",
+   "time": 66.3,
+   "weight": 1.0,
+   "note_time": 67.21
+  },
+  {
+   "text": "free",
+   "time": 66.64,
+   "weight": 1.0,
+   "note_time": 67.35
+  },
+  {
+   "text": "Come",
+   "time": 67.02,
+   "weight": 0.89,
+   "note_time": 67.65
+  },
+  {
+   "text": "and",
+   "time": 68.1,
+   "weight": 1.0,
+   "note_time": 67.94
+  },
+  {
+   "text": "have",
+   "time": 68.26,
+   "weight": 1.0,
+   "note_time": 68.24
+  },
+  {
+   "text": "break",
+   "time": 68.44,
+   "weight": 1.0,
+   "note_time": 68.53
+  },
+  {
+   "text": "fast,",
+   "time": 68.68,
+   "weight": 1.0,
+   "note_time": 68.82
+  },
+  {
+   "text": "Je",
+   "time": 69.08,
+   "weight": 1.0,
+   "note_time": 69.26
+  },
+  {
+   "text": "sus",
+   "time": 69.26,
+   "weight": 1.0,
+   "note_time": 69.41
+  },
+  {
+   "text": "said",
+   "time": 69.44,
+   "weight": 1.0,
+   "note_time": 69.71
+  },
+  {
+   "text": "And",
+   "time": 70.12,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "no",
+   "time": 70.34,
+   "weight": 1.0,
+   "note_time": 70.15
+  },
+  {
+   "text": "one",
+   "time": 70.48,
+   "weight": 1.0,
+   "note_time": 70.29
+  },
+  {
+   "text": "dared",
+   "time": 70.74,
+   "weight": 1.0,
+   "note_time": 70.44
+  },
+  {
+   "text": "to",
+   "time": 71.06,
+   "weight": 1.0,
+   "note_time": 71.47
+  },
+  {
+   "text": "ask",
+   "time": 71.34,
+   "weight": 1.0,
+   "note_time": 71.76
+  },
+  {
+   "text": "They",
+   "time": 71.72,
+   "weight": 1.0,
+   "note_time": 72.06
+  },
+  {
+   "text": "knew",
+   "time": 72.56,
+   "weight": 1.0,
+   "note_time": 72.35
+  },
+  {
+   "text": "it",
+   "time": 72.84,
+   "weight": 1.0,
+   "note_time": 72.79
+  },
+  {
+   "text": "was",
+   "time": 73.12,
+   "weight": 1.0,
+   "note_time": 72.94
+  },
+  {
+   "text": "the",
+   "time": 73.44,
+   "weight": 1.0,
+   "note_time": 73.24
+  },
+  {
+   "text": "Lord",
+   "time": 73.84,
+   "weight": 1.0,
+   "note_time": 73.53
+  },
+  {
+   "text": "him",
+   "time": 74.06,
+   "weight": 0.59,
+   "note_time": 73.82
+  },
+  {
+   "text": "self",
+   "time": 74.24,
+   "weight": 0.59,
+   "note_time": 74.12
+  },
+  {
+   "text": "Who",
+   "time": 74.42,
+   "weight": 0.97,
+   "note_time": 74.56
+  },
+  {
+   "text": "served",
+   "time": 74.86,
+   "weight": 1.0,
+   "note_time": 74.71
+  },
+  {
+   "text": "them",
+   "time": 75.18,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "at",
+   "time": 75.62,
+   "weight": 1.0,
+   "note_time": 75.15
+  },
+  {
+   "text": "the",
+   "time": 75.82,
+   "weight": 1.0,
+   "note_time": 76.91
+  },
+  {
+   "text": "last",
+   "time": 75.96,
+   "weight": 1.0,
+   "note_time": 77.06
+  },
+  {
+   "text": "Cast",
+   "time": 76.48,
+   "weight": 0.67,
+   "note_time": 77.35
+  },
+  {
+   "text": "the",
+   "time": 77.62,
+   "weight": 0.98,
+   "note_time": 77.5
+  },
+  {
+   "text": "net",
+   "time": 77.92,
+   "weight": 0.99,
+   "note_time": 77.65
+  },
+  {
+   "text": "on",
+   "time": 78.16,
+   "weight": 0.99,
+   "note_time": 78.24
+  },
+  {
+   "text": "the",
+   "time": 78.36,
+   "weight": 1.0,
+   "note_time": 78.82
+  },
+  {
+   "text": "right",
+   "time": 78.5,
+   "weight": 1.0,
+   "note_time": 79.26
+  },
+  {
+   "text": "side",
+   "time": 78.82,
+   "weight": 1.0,
+   "note_time": 79.41
+  },
+  {
+   "text": "Haul",
+   "time": 79.66,
+   "weight": 0.94,
+   "note_time": 80.0
+  },
+  {
+   "text": "it",
+   "time": 79.94,
+   "weight": 0.98,
+   "note_time": 80.44
+  },
+  {
+   "text": "in,",
+   "time": 80.32,
+   "weight": 1.0,
+   "note_time": 80.59
+  },
+  {
+   "text": "haul",
+   "time": 80.7,
+   "weight": 0.99,
+   "note_time": 81.03
+  },
+  {
+   "text": "it",
+   "time": 81.12,
+   "weight": 1.0,
+   "note_time": 81.18
+  },
+  {
+   "text": "in",
+   "time": 81.48,
+   "weight": 1.0,
+   "note_time": 81.47
+  },
+  {
+   "text": "A",
+   "time": 110.0,
+   "weight": 0.41,
+   "note_time": 109.26
+  },
+  {
+   "text": "hun",
+   "time": 110.32,
+   "weight": 0.99,
+   "note_time": 109.41
+  },
+  {
+   "text": "dred",
+   "time": 110.46,
+   "weight": 0.99,
+   "note_time": 109.71
+  },
+  {
+   "text": "fif",
+   "time": 110.6,
+   "weight": 0.94,
+   "note_time": 110.0
+  },
+  {
+   "text": "ty",
+   "time": 110.88,
+   "weight": 0.94,
+   "note_time": 110.29
+  },
+  {
+   "text": "three",
+   "time": 111.16,
+   "weight": 0.96,
+   "note_time": 110.59
+  },
+  {
+   "text": "great",
+   "time": 111.7,
+   "weight": 0.95,
+   "note_time": 110.88
+  },
+  {
+   "text": "fish",
+   "time": 111.96,
+   "weight": 0.99,
+   "note_time": 111.18
+  },
+  {
+   "text": "And",
+   "time": 112.28,
+   "weight": 0.75,
+   "note_time": 111.47
+  },
+  {
+   "text": "the",
+   "time": 112.52,
+   "weight": 1.0,
+   "note_time": 111.62
+  },
+  {
+   "text": "net",
+   "time": 112.64,
+   "weight": 1.0,
+   "note_time": 111.76
+  },
+  {
+   "text": "was",
+   "time": 112.88,
+   "weight": 1.0,
+   "note_time": 112.35
+  },
+  {
+   "text": "not",
+   "time": 113.36,
+   "weight": 1.0,
+   "note_time": 112.65
+  },
+  {
+   "text": "torn",
+   "time": 113.7,
+   "weight": 1.0,
+   "note_time": 112.94
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "23 of 24 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

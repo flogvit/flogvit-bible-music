@@ -1,0 +1,1200 @@
+{
+ "id": "story-ester-redder-sitt-folk-musical",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-ester-redder-sitt-folk-musical",
+ "offset_seconds": -1.6600000000002204,
+ "words_heard": 141,
+ "words": 147,
+ "lines": [
+  {
+   "text": "Everyone knows, the law of the king",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.93,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Whoever goes in to him uncalled shall die",
+   "heard": 8,
+   "words": 8,
+   "error_s": 4.56,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Unless he holds out the golden scepter",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.94,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And I have not been called these thirty days",
+   "heard": 9,
+   "words": 9,
+   "error_s": 3.82,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Do not think that in the king's palace",
+   "heard": 8,
+   "words": 8,
+   "error_s": 3.11,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "You will escape more than all the Jews",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.6,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For if you keep silent at this time",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Relief will rise from another place",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.69,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And who knows whether you have come",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To the kingdom for such a time as this",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.55,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Who knows, who knows",
+   "heard": 4,
+   "words": 4,
+   "error_s": 2.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For such a time as this",
+   "heard": 6,
+   "words": 6,
+   "error_s": 3.34,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Go, gather all the Jews in Susa",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Fast for me, three days, night or day",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Then I will go to the king, though it is against the law",
+   "heard": 13,
+   "words": 13,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And if I perish, I perish",
+   "heard": 1,
+   "words": 6,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And who knows whether you have come",
+   "heard": 6,
+   "words": 7,
+   "error_s": 7.12,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To the kingdom for such a time as this",
+   "heard": 9,
+   "words": 9,
+   "error_s": 8.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Who knows, who knows",
+   "heard": 4,
+   "words": 4,
+   "error_s": 7.19,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For such a time as this",
+   "heard": 6,
+   "words": 6,
+   "error_s": 3.66,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Ev",
+   "time": 12.38,
+   "weight": 0.38,
+   "note_time": 13.79
+  },
+  {
+   "text": "ery",
+   "time": 12.73,
+   "weight": 0.38,
+   "note_time": 14.14
+  },
+  {
+   "text": "one",
+   "time": 13.08,
+   "weight": 0.38,
+   "note_time": 14.48
+  },
+  {
+   "text": "knows,",
+   "time": 13.44,
+   "weight": 0.94,
+   "note_time": 15.86
+  },
+  {
+   "text": "the",
+   "time": 14.14,
+   "weight": 0.94,
+   "note_time": 16.55
+  },
+  {
+   "text": "law",
+   "time": 15.26,
+   "weight": 0.7,
+   "note_time": 16.9
+  },
+  {
+   "text": "of",
+   "time": 15.64,
+   "weight": 1.0,
+   "note_time": 19.31
+  },
+  {
+   "text": "the",
+   "time": 16.22,
+   "weight": 1.0,
+   "note_time": 19.66
+  },
+  {
+   "text": "king",
+   "time": 16.38,
+   "weight": 0.68,
+   "note_time": 19.83
+  },
+  {
+   "text": "Who",
+   "time": 16.72,
+   "weight": 0.2,
+   "note_time": 20.34
+  },
+  {
+   "text": "ev",
+   "time": 17.07,
+   "weight": 0.2,
+   "note_time": 20.69
+  },
+  {
+   "text": "er",
+   "time": 17.42,
+   "weight": 0.2,
+   "note_time": 21.03
+  },
+  {
+   "text": "goes",
+   "time": 18.86,
+   "weight": 1.0,
+   "note_time": 21.21
+  },
+  {
+   "text": "in",
+   "time": 19.5,
+   "weight": 0.15,
+   "note_time": 21.72
+  },
+  {
+   "text": "to",
+   "time": 19.88,
+   "weight": 0.96,
+   "note_time": 22.07
+  },
+  {
+   "text": "him",
+   "time": 20.18,
+   "weight": 0.98,
+   "note_time": 24.83
+  },
+  {
+   "text": "un",
+   "time": 20.54,
+   "weight": 0.85,
+   "note_time": 25.17
+  },
+  {
+   "text": "called",
+   "time": 20.89,
+   "weight": 0.85,
+   "note_time": 25.52
+  },
+  {
+   "text": "shall",
+   "time": 21.3,
+   "weight": 0.92,
+   "note_time": 25.86
+  },
+  {
+   "text": "die",
+   "time": 21.74,
+   "weight": 1.0,
+   "note_time": 26.03
+  },
+  {
+   "text": "Un",
+   "time": 22.28,
+   "weight": 0.38,
+   "note_time": 26.21
+  },
+  {
+   "text": "less",
+   "time": 22.63,
+   "weight": 0.38,
+   "note_time": 26.9
+  },
+  {
+   "text": "he",
+   "time": 24.98,
+   "weight": 0.99,
+   "note_time": 27.59
+  },
+  {
+   "text": "holds",
+   "time": 25.4,
+   "weight": 0.99,
+   "note_time": 27.93
+  },
+  {
+   "text": "out",
+   "time": 25.92,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "the",
+   "time": 26.24,
+   "weight": 0.99,
+   "note_time": 30.17
+  },
+  {
+   "text": "gold",
+   "time": 26.42,
+   "weight": 0.89,
+   "note_time": 30.34
+  },
+  {
+   "text": "en",
+   "time": 26.75,
+   "weight": 0.89,
+   "note_time": 30.69
+  },
+  {
+   "text": "s",
+   "time": 27.08,
+   "weight": 0.75,
+   "note_time": 31.03
+  },
+  {
+   "text": "cepter",
+   "time": 27.43,
+   "weight": 0.75,
+   "note_time": 31.38
+  },
+  {
+   "text": "And",
+   "time": 28.44,
+   "weight": 0.23,
+   "note_time": 31.72
+  },
+  {
+   "text": "I",
+   "time": 30.4,
+   "weight": 0.99,
+   "note_time": 32.41
+  },
+  {
+   "text": "have",
+   "time": 30.68,
+   "weight": 1.0,
+   "note_time": 33.1
+  },
+  {
+   "text": "not",
+   "time": 30.98,
+   "weight": 1.0,
+   "note_time": 34.14
+  },
+  {
+   "text": "been",
+   "time": 31.38,
+   "weight": 1.0,
+   "note_time": 34.48
+  },
+  {
+   "text": "called",
+   "time": 31.62,
+   "weight": 1.0,
+   "note_time": 36.21
+  },
+  {
+   "text": "these",
+   "time": 32.12,
+   "weight": 0.98,
+   "note_time": 36.38
+  },
+  {
+   "text": "thir",
+   "time": 32.54,
+   "weight": 0.6,
+   "note_time": 36.55
+  },
+  {
+   "text": "ty",
+   "time": 32.89,
+   "weight": 0.6,
+   "note_time": 36.9
+  },
+  {
+   "text": "days",
+   "time": 33.42,
+   "weight": 1.0,
+   "note_time": 37.24
+  },
+  {
+   "text": "Do",
+   "time": 36.3,
+   "weight": 0.75,
+   "note_time": 37.59
+  },
+  {
+   "text": "not",
+   "time": 36.8,
+   "weight": 1.0,
+   "note_time": 37.93
+  },
+  {
+   "text": "think",
+   "time": 37.46,
+   "weight": 1.0,
+   "note_time": 38.62
+  },
+  {
+   "text": "that",
+   "time": 37.76,
+   "weight": 1.0,
+   "note_time": 38.97
+  },
+  {
+   "text": "in",
+   "time": 38.02,
+   "weight": 1.0,
+   "note_time": 41.72
+  },
+  {
+   "text": "the",
+   "time": 38.34,
+   "weight": 0.99,
+   "note_time": 42.07
+  },
+  {
+   "text": "king's",
+   "time": 38.56,
+   "weight": 0.89,
+   "note_time": 42.24
+  },
+  {
+   "text": "pa",
+   "time": 39.46,
+   "weight": 1.0,
+   "note_time": 42.59
+  },
+  {
+   "text": "lace",
+   "time": 39.65,
+   "weight": 1.0,
+   "note_time": 42.76
+  },
+  {
+   "text": "You",
+   "time": 41.5,
+   "weight": 0.94,
+   "note_time": 43.1
+  },
+  {
+   "text": "will",
+   "time": 42.5,
+   "weight": 1.0,
+   "note_time": 43.79
+  },
+  {
+   "text": "es",
+   "time": 43.0,
+   "weight": 1.0,
+   "note_time": 44.14
+  },
+  {
+   "text": "cape",
+   "time": 43.22,
+   "weight": 1.0,
+   "note_time": 45.17
+  },
+  {
+   "text": "more",
+   "time": 43.44,
+   "weight": 1.0,
+   "note_time": 45.34
+  },
+  {
+   "text": "than",
+   "time": 44.02,
+   "weight": 1.0,
+   "note_time": 45.52
+  },
+  {
+   "text": "all",
+   "time": 44.72,
+   "weight": 1.0,
+   "note_time": 47.24
+  },
+  {
+   "text": "the",
+   "time": 45.28,
+   "weight": 1.0,
+   "note_time": 47.41
+  },
+  {
+   "text": "Jews",
+   "time": 46.0,
+   "weight": 1.0,
+   "note_time": 47.59
+  },
+  {
+   "text": "For",
+   "time": 47.26,
+   "weight": 0.99,
+   "note_time": 47.93
+  },
+  {
+   "text": "if",
+   "time": 48.0,
+   "weight": 1.0,
+   "note_time": 48.28
+  },
+  {
+   "text": "you",
+   "time": 48.28,
+   "weight": 1.0,
+   "note_time": 48.62
+  },
+  {
+   "text": "keep",
+   "time": 48.44,
+   "weight": 1.0,
+   "note_time": 49.31
+  },
+  {
+   "text": "si",
+   "time": 48.82,
+   "weight": 0.99,
+   "note_time": 49.66
+  },
+  {
+   "text": "lent",
+   "time": 49.14,
+   "weight": 0.99,
+   "note_time": 50.0
+  },
+  {
+   "text": "at",
+   "time": 49.46,
+   "weight": 1.0,
+   "note_time": 51.55
+  },
+  {
+   "text": "this",
+   "time": 50.1,
+   "weight": 1.0,
+   "note_time": 51.72
+  },
+  {
+   "text": "time",
+   "time": 50.54,
+   "weight": 1.0,
+   "note_time": 52.07
+  },
+  {
+   "text": "Re",
+   "time": 51.7,
+   "weight": 0.99,
+   "note_time": 52.41
+  },
+  {
+   "text": "lief",
+   "time": 52.05,
+   "weight": 0.99,
+   "note_time": 54.14
+  },
+  {
+   "text": "will",
+   "time": 52.62,
+   "weight": 1.0,
+   "note_time": 54.31
+  },
+  {
+   "text": "rise",
+   "time": 52.84,
+   "weight": 0.99,
+   "note_time": 54.48
+  },
+  {
+   "text": "from",
+   "time": 53.52,
+   "weight": 1.0,
+   "note_time": 54.83
+  },
+  {
+   "text": "an",
+   "time": 54.88,
+   "weight": 1.0,
+   "note_time": 55.17
+  },
+  {
+   "text": "oth",
+   "time": 55.03,
+   "weight": 1.0,
+   "note_time": 57.24
+  },
+  {
+   "text": "er",
+   "time": 55.19,
+   "weight": 1.0,
+   "note_time": 57.93
+  },
+  {
+   "text": "place",
+   "time": 55.34,
+   "weight": 1.0,
+   "note_time": 59.31
+  },
+  {
+   "text": "And",
+   "time": 56.14,
+   "weight": 0.18,
+   "note_time": 60.0
+  },
+  {
+   "text": "who",
+   "time": 58.2,
+   "weight": 0.98,
+   "note_time": 60.69
+  },
+  {
+   "text": "knows",
+   "time": 58.86,
+   "weight": 0.39,
+   "note_time": 62.07
+  },
+  {
+   "text": "whet",
+   "time": 60.44,
+   "weight": 0.96,
+   "note_time": 62.76
+  },
+  {
+   "text": "her",
+   "time": 60.77,
+   "weight": 0.96,
+   "note_time": 63.45
+  },
+  {
+   "text": "you",
+   "time": 61.1,
+   "weight": 0.38,
+   "note_time": 64.48
+  },
+  {
+   "text": "have",
+   "time": 63.0,
+   "weight": 0.99,
+   "note_time": 64.66
+  },
+  {
+   "text": "come",
+   "time": 63.68,
+   "weight": 0.99,
+   "note_time": 64.83
+  },
+  {
+   "text": "To",
+   "time": 64.46,
+   "weight": 0.64,
+   "note_time": 65.17
+  },
+  {
+   "text": "the",
+   "time": 65.32,
+   "weight": 0.99,
+   "note_time": 65.86
+  },
+  {
+   "text": "kin",
+   "time": 65.46,
+   "weight": 0.81,
+   "note_time": 66.21
+  },
+  {
+   "text": "gdom",
+   "time": 65.68,
+   "weight": 0.81,
+   "note_time": 66.9
+  },
+  {
+   "text": "for",
+   "time": 65.9,
+   "weight": 0.94,
+   "note_time": 67.59
+  },
+  {
+   "text": "such",
+   "time": 66.64,
+   "weight": 1.0,
+   "note_time": 68.28
+  },
+  {
+   "text": "a",
+   "time": 67.5,
+   "weight": 1.0,
+   "note_time": 68.97
+  },
+  {
+   "text": "time",
+   "time": 67.64,
+   "weight": 1.0,
+   "note_time": 69.66
+  },
+  {
+   "text": "as",
+   "time": 68.52,
+   "weight": 0.99,
+   "note_time": 70.34
+  },
+  {
+   "text": "this",
+   "time": 69.24,
+   "weight": 1.0,
+   "note_time": 71.03
+  },
+  {
+   "text": "Who",
+   "time": 69.86,
+   "weight": 0.17,
+   "note_time": 71.72
+  },
+  {
+   "text": "knows,",
+   "time": 70.38,
+   "weight": 1.0,
+   "note_time": 73.45
+  },
+  {
+   "text": "who",
+   "time": 71.5,
+   "weight": 0.98,
+   "note_time": 73.79
+  },
+  {
+   "text": "knows",
+   "time": 71.82,
+   "weight": 1.0,
+   "note_time": 74.14
+  },
+  {
+   "text": "For",
+   "time": 73.06,
+   "weight": 0.99,
+   "note_time": 74.48
+  },
+  {
+   "text": "such",
+   "time": 74.08,
+   "weight": 1.0,
+   "note_time": 75.86
+  },
+  {
+   "text": "a",
+   "time": 74.68,
+   "weight": 1.0,
+   "note_time": 77.24
+  },
+  {
+   "text": "time",
+   "time": 74.78,
+   "weight": 1.0,
+   "note_time": 80.34
+  },
+  {
+   "text": "as",
+   "time": 75.96,
+   "weight": 1.0,
+   "note_time": 80.69
+  },
+  {
+   "text": "this",
+   "time": 76.74,
+   "weight": 1.0,
+   "note_time": 80.86
+  },
+  {
+   "text": "Go,",
+   "time": 80.42,
+   "weight": 0.78,
+   "note_time": 81.03
+  },
+  {
+   "text": "gath",
+   "time": 80.96,
+   "weight": 0.93,
+   "note_time": 81.21
+  },
+  {
+   "text": "er",
+   "time": 81.15,
+   "weight": 0.93,
+   "note_time": 81.38
+  },
+  {
+   "text": "all",
+   "time": 81.34,
+   "weight": 1.0,
+   "note_time": 81.72
+  },
+  {
+   "text": "the",
+   "time": 81.62,
+   "weight": 1.0,
+   "note_time": 82.07
+  },
+  {
+   "text": "Jews",
+   "time": 81.78,
+   "weight": 0.97,
+   "note_time": 82.41
+  },
+  {
+   "text": "in",
+   "time": 82.02,
+   "weight": 1.0,
+   "note_time": 83.1
+  },
+  {
+   "text": "Su",
+   "time": 82.34,
+   "weight": 0.99,
+   "note_time": 83.28
+  },
+  {
+   "text": "sa",
+   "time": 82.62,
+   "weight": 0.99,
+   "note_time": 83.45
+  },
+  {
+   "text": "Fast",
+   "time": 83.12,
+   "weight": 0.92,
+   "note_time": 83.79
+  },
+  {
+   "text": "for",
+   "time": 83.62,
+   "weight": 0.99,
+   "note_time": 84.14
+  },
+  {
+   "text": "me,",
+   "time": 83.78,
+   "weight": 0.98,
+   "note_time": 84.48
+  },
+  {
+   "text": "three",
+   "time": 83.96,
+   "weight": 0.97,
+   "note_time": 84.66
+  },
+  {
+   "text": "days,",
+   "time": 84.24,
+   "weight": 1.0,
+   "note_time": 84.83
+  },
+  {
+   "text": "night",
+   "time": 84.78,
+   "weight": 1.0,
+   "note_time": 85.69
+  },
+  {
+   "text": "or",
+   "time": 84.98,
+   "weight": 1.0,
+   "note_time": 85.86
+  },
+  {
+   "text": "day",
+   "time": 85.16,
+   "weight": 1.0,
+   "note_time": 86.03
+  },
+  {
+   "text": "Then",
+   "time": 85.42,
+   "weight": 0.72,
+   "note_time": 86.21
+  },
+  {
+   "text": "I",
+   "time": 86.14,
+   "weight": 0.98,
+   "note_time": 86.55
+  },
+  {
+   "text": "will",
+   "time": 86.3,
+   "weight": 0.99,
+   "note_time": 86.72
+  },
+  {
+   "text": "go",
+   "time": 86.48,
+   "weight": 1.0,
+   "note_time": 86.9
+  },
+  {
+   "text": "to",
+   "time": 86.7,
+   "weight": 1.0,
+   "note_time": 87.59
+  },
+  {
+   "text": "the",
+   "time": 86.92,
+   "weight": 1.0,
+   "note_time": 87.76
+  },
+  {
+   "text": "king,",
+   "time": 87.1,
+   "weight": 0.72,
+   "note_time": 87.93
+  },
+  {
+   "text": "though",
+   "time": 87.58,
+   "weight": 0.98,
+   "note_time": 88.1
+  },
+  {
+   "text": "it",
+   "time": 87.92,
+   "weight": 1.0,
+   "note_time": 88.28
+  },
+  {
+   "text": "is",
+   "time": 88.22,
+   "weight": 1.0,
+   "note_time": 89.31
+  },
+  {
+   "text": "a",
+   "time": 88.42,
+   "weight": 1.0,
+   "note_time": 89.66
+  },
+  {
+   "text": "gainst",
+   "time": 88.75,
+   "weight": 1.0,
+   "note_time": 93.1
+  },
+  {
+   "text": "the",
+   "time": 89.08,
+   "weight": 1.0,
+   "note_time": 93.79
+  },
+  {
+   "text": "law",
+   "time": 89.7,
+   "weight": 1.0,
+   "note_time": 95.17
+  },
+  {
+   "text": "And",
+   "time": 92.36,
+   "weight": 0.37,
+   "note_time": 95.86
+  },
+  {
+   "text": "if",
+   "time": 92.48,
+   "weight": 0.0,
+   "note_time": 96.55
+  },
+  {
+   "text": "I",
+   "time": 92.61,
+   "weight": 0.0,
+   "note_time": 97.93
+  },
+  {
+   "text": "per",
+   "time": 92.73,
+   "weight": 0.0,
+   "note_time": 98.62
+  },
+  {
+   "text": "ish,",
+   "time": 92.86,
+   "weight": 0.0,
+   "note_time": 99.31
+  },
+  {
+   "text": "I",
+   "time": 92.98,
+   "weight": 0.0,
+   "note_time": 100.34
+  },
+  {
+   "text": "per",
+   "time": 93.11,
+   "weight": 0.0,
+   "note_time": 100.52
+  },
+  {
+   "text": "ish",
+   "time": 93.23,
+   "weight": 0.0,
+   "note_time": 100.69
+  },
+  {
+   "text": "And",
+   "time": 93.36,
+   "weight": 0.0,
+   "note_time": 101.03
+  },
+  {
+   "text": "who",
+   "time": 93.48,
+   "weight": 0.98,
+   "note_time": 101.72
+  },
+  {
+   "text": "knows",
+   "time": 94.1,
+   "weight": 0.4,
+   "note_time": 102.07
+  },
+  {
+   "text": "whet",
+   "time": 95.64,
+   "weight": 0.98,
+   "note_time": 102.76
+  },
+  {
+   "text": "her",
+   "time": 95.92,
+   "weight": 0.98,
+   "note_time": 103.45
+  },
+  {
+   "text": "you",
+   "time": 96.2,
+   "weight": 0.39,
+   "note_time": 104.14
+  },
+  {
+   "text": "have",
+   "time": 98.12,
+   "weight": 1.0,
+   "note_time": 104.83
+  },
+  {
+   "text": "come",
+   "time": 98.74,
+   "weight": 1.0,
+   "note_time": 105.52
+  },
+  {
+   "text": "To",
+   "time": 99.52,
+   "weight": 0.46,
+   "note_time": 106.21
+  },
+  {
+   "text": "the",
+   "time": 100.04,
+   "weight": 1.0,
+   "note_time": 106.9
+  },
+  {
+   "text": "kin",
+   "time": 100.48,
+   "weight": 0.99,
+   "note_time": 107.59
+  },
+  {
+   "text": "gdom",
+   "time": 100.72,
+   "weight": 0.99,
+   "note_time": 109.31
+  },
+  {
+   "text": "for",
+   "time": 100.96,
+   "weight": 1.0,
+   "note_time": 109.66
+  },
+  {
+   "text": "such",
+   "time": 101.66,
+   "weight": 1.0,
+   "note_time": 110.0
+  },
+  {
+   "text": "a",
+   "time": 102.48,
+   "weight": 1.0,
+   "note_time": 110.34
+  },
+  {
+   "text": "time",
+   "time": 102.66,
+   "weight": 1.0,
+   "note_time": 111.72
+  },
+  {
+   "text": "as",
+   "time": 103.54,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "this",
+   "time": 104.22,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "Who",
+   "time": 104.84,
+   "weight": 0.83,
+   "note_time": 113.1
+  },
+  {
+   "text": "knows,",
+   "time": 105.34,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "who",
+   "time": 106.48,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "knows",
+   "time": 106.74,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "For",
+   "time": 108.48,
+   "weight": 0.47,
+   "note_time": 113.1
+  },
+  {
+   "text": "such",
+   "time": 109.04,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "a",
+   "time": 109.44,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "time",
+   "time": 109.8,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "as",
+   "time": 110.8,
+   "weight": 1.0,
+   "note_time": 113.1
+  },
+  {
+   "text": "this",
+   "time": 111.68,
+   "weight": 1.0,
+   "note_time": 13.79
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "4 of 20 lyric lines sit clearly on their notes; 16 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,1006 @@
+{
+ "id": "verse-42-2-11-chorale",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-42-2-11-chorale",
+ "offset_seconds": -3.4000000000001833,
+ "words_heard": 95,
+ "words": 100,
+ "lines": [
+  {
+   "text": "Det var noen gjetere p\u00e5 marken",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "som voktet flokken sin om natt",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Da sto en Herrens engel foran dem",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.01,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "og lyset str\u00e5lte overalt",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Frykt ikke, se, jeg bringer glede",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "en glede for det hele folk",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I dag er f\u00f8dt i Davids by",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "en frelser, Kristus, Herren v\u00e5r",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Og dette skal for dere v\u00e6re tegnet",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "et barn som ligger i en krybbe sv\u00f8pt",
+   "heard": 6,
+   "words": 8,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Og himmelens h\u00e6r sang sammen med engelen",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "med lovsang over jorden l\u00f8ftet",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "\u00c6re v\u00e6re Gud i det h\u00f8yeste",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "og fred p\u00e5 jorden, fred i kveld",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "blant mennesker som Gud har behag i",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "syng med, alle, syng i kveld",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Det",
+   "time": 13.68,
+   "weight": 0.96,
+   "note_time": 13.76
+  },
+  {
+   "text": "var",
+   "time": 15.08,
+   "weight": 1.0,
+   "note_time": 14.47
+  },
+  {
+   "text": "noen",
+   "time": 15.48,
+   "weight": 0.62,
+   "note_time": 15.53
+  },
+  {
+   "text": "gje",
+   "time": 16.72,
+   "weight": 0.65,
+   "note_time": 15.88
+  },
+  {
+   "text": "te",
+   "time": 17.06,
+   "weight": 0.65,
+   "note_time": 16.24
+  },
+  {
+   "text": "re",
+   "time": 17.4,
+   "weight": 0.65,
+   "note_time": 16.59
+  },
+  {
+   "text": "p\u00e5",
+   "time": 17.74,
+   "weight": 1.0,
+   "note_time": 16.94
+  },
+  {
+   "text": "mar",
+   "time": 18.14,
+   "weight": 0.38,
+   "note_time": 17.29
+  },
+  {
+   "text": "ken",
+   "time": 18.49,
+   "weight": 0.38,
+   "note_time": 18.0
+  },
+  {
+   "text": "som",
+   "time": 19.7,
+   "weight": 0.6,
+   "note_time": 19.06
+  },
+  {
+   "text": "vok",
+   "time": 20.36,
+   "weight": 0.82,
+   "note_time": 19.76
+  },
+  {
+   "text": "tet",
+   "time": 20.71,
+   "weight": 0.82,
+   "note_time": 20.12
+  },
+  {
+   "text": "flok",
+   "time": 21.18,
+   "weight": 0.92,
+   "note_time": 20.82
+  },
+  {
+   "text": "ken",
+   "time": 21.53,
+   "weight": 0.92,
+   "note_time": 21.53
+  },
+  {
+   "text": "sin",
+   "time": 22.22,
+   "weight": 1.0,
+   "note_time": 22.59
+  },
+  {
+   "text": "om",
+   "time": 22.82,
+   "weight": 0.99,
+   "note_time": 22.76
+  },
+  {
+   "text": "natt",
+   "time": 23.94,
+   "weight": 0.94,
+   "note_time": 22.94
+  },
+  {
+   "text": "Da",
+   "time": 24.7,
+   "weight": 0.89,
+   "note_time": 24.71
+  },
+  {
+   "text": "sto",
+   "time": 25.94,
+   "weight": 0.82,
+   "note_time": 25.06
+  },
+  {
+   "text": "en",
+   "time": 26.3,
+   "weight": 0.99,
+   "note_time": 25.41
+  },
+  {
+   "text": "Her",
+   "time": 26.74,
+   "weight": 0.92,
+   "note_time": 25.76
+  },
+  {
+   "text": "rens",
+   "time": 27.09,
+   "weight": 0.92,
+   "note_time": 26.47
+  },
+  {
+   "text": "en",
+   "time": 28.22,
+   "weight": 0.95,
+   "note_time": 27.18
+  },
+  {
+   "text": "gel",
+   "time": 28.57,
+   "weight": 0.95,
+   "note_time": 27.53
+  },
+  {
+   "text": "fo",
+   "time": 28.92,
+   "weight": 1.0,
+   "note_time": 27.88
+  },
+  {
+   "text": "ran",
+   "time": 29.27,
+   "weight": 1.0,
+   "note_time": 28.24
+  },
+  {
+   "text": "dem",
+   "time": 29.7,
+   "weight": 0.84,
+   "note_time": 28.59
+  },
+  {
+   "text": "og",
+   "time": 30.3,
+   "weight": 0.99,
+   "note_time": 30.35
+  },
+  {
+   "text": "ly",
+   "time": 31.54,
+   "weight": 0.97,
+   "note_time": 31.06
+  },
+  {
+   "text": "set",
+   "time": 31.89,
+   "weight": 0.97,
+   "note_time": 31.41
+  },
+  {
+   "text": "str\u00e5l",
+   "time": 32.38,
+   "weight": 0.98,
+   "note_time": 32.12
+  },
+  {
+   "text": "te",
+   "time": 32.73,
+   "weight": 0.98,
+   "note_time": 32.82
+  },
+  {
+   "text": "o",
+   "time": 33.68,
+   "weight": 0.0,
+   "note_time": 33.88
+  },
+  {
+   "text": "ve",
+   "time": 34.64,
+   "weight": 0.0,
+   "note_time": 34.06
+  },
+  {
+   "text": "ralt",
+   "time": 35.59,
+   "weight": 0.0,
+   "note_time": 34.24
+  },
+  {
+   "text": "Frykt",
+   "time": 36.54,
+   "weight": 0.84,
+   "note_time": 36.0
+  },
+  {
+   "text": "ik",
+   "time": 37.32,
+   "weight": 0.71,
+   "note_time": 36.35
+  },
+  {
+   "text": "ke,",
+   "time": 37.52,
+   "weight": 0.71,
+   "note_time": 36.71
+  },
+  {
+   "text": "se,",
+   "time": 37.84,
+   "weight": 0.74,
+   "note_time": 37.06
+  },
+  {
+   "text": "jeg",
+   "time": 38.6,
+   "weight": 0.98,
+   "note_time": 37.76
+  },
+  {
+   "text": "brin",
+   "time": 39.28,
+   "weight": 0.97,
+   "note_time": 38.47
+  },
+  {
+   "text": "ger",
+   "time": 39.63,
+   "weight": 0.97,
+   "note_time": 39.18
+  },
+  {
+   "text": "gle",
+   "time": 40.52,
+   "weight": 0.39,
+   "note_time": 39.88
+  },
+  {
+   "text": "de",
+   "time": 40.87,
+   "weight": 0.39,
+   "note_time": 40.59
+  },
+  {
+   "text": "en",
+   "time": 42.04,
+   "weight": 0.99,
+   "note_time": 41.65
+  },
+  {
+   "text": "gle",
+   "time": 42.78,
+   "weight": 0.96,
+   "note_time": 42.0
+  },
+  {
+   "text": "de",
+   "time": 43.13,
+   "weight": 0.96,
+   "note_time": 42.35
+  },
+  {
+   "text": "for",
+   "time": 43.62,
+   "weight": 0.97,
+   "note_time": 42.71
+  },
+  {
+   "text": "det",
+   "time": 43.86,
+   "weight": 0.97,
+   "note_time": 43.41
+  },
+  {
+   "text": "he",
+   "time": 44.56,
+   "weight": 1.0,
+   "note_time": 44.12
+  },
+  {
+   "text": "le",
+   "time": 44.91,
+   "weight": 1.0,
+   "note_time": 44.82
+  },
+  {
+   "text": "folk",
+   "time": 45.84,
+   "weight": 0.9,
+   "note_time": 45.53
+  },
+  {
+   "text": "I",
+   "time": 46.72,
+   "weight": 0.29,
+   "note_time": 47.29
+  },
+  {
+   "text": "dag",
+   "time": 48.38,
+   "weight": 1.0,
+   "note_time": 47.65
+  },
+  {
+   "text": "er",
+   "time": 48.76,
+   "weight": 0.99,
+   "note_time": 48.0
+  },
+  {
+   "text": "f\u00f8dt",
+   "time": 49.14,
+   "weight": 0.99,
+   "note_time": 48.35
+  },
+  {
+   "text": "i",
+   "time": 49.7,
+   "weight": 0.96,
+   "note_time": 49.06
+  },
+  {
+   "text": "Da",
+   "time": 50.26,
+   "weight": 0.39,
+   "note_time": 49.76
+  },
+  {
+   "text": "vids",
+   "time": 50.61,
+   "weight": 0.39,
+   "note_time": 50.47
+  },
+  {
+   "text": "by",
+   "time": 51.86,
+   "weight": 0.88,
+   "note_time": 51.18
+  },
+  {
+   "text": "en",
+   "time": 52.98,
+   "weight": 0.62,
+   "note_time": 52.94
+  },
+  {
+   "text": "frel",
+   "time": 53.92,
+   "weight": 0.76,
+   "note_time": 53.29
+  },
+  {
+   "text": "ser,",
+   "time": 54.27,
+   "weight": 0.76,
+   "note_time": 53.65
+  },
+  {
+   "text": "Kris",
+   "time": 54.74,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "tus,",
+   "time": 55.09,
+   "weight": 1.0,
+   "note_time": 54.71
+  },
+  {
+   "text": "Her",
+   "time": 56.14,
+   "weight": 0.68,
+   "note_time": 55.41
+  },
+  {
+   "text": "ren",
+   "time": 56.44,
+   "weight": 0.68,
+   "note_time": 56.12
+  },
+  {
+   "text": "v\u00e5r",
+   "time": 56.74,
+   "weight": 1.0,
+   "note_time": 56.82
+  },
+  {
+   "text": "Og",
+   "time": 59.18,
+   "weight": 0.98,
+   "note_time": 58.59
+  },
+  {
+   "text": "det",
+   "time": 59.58,
+   "weight": 0.99,
+   "note_time": 58.94
+  },
+  {
+   "text": "te",
+   "time": 59.84,
+   "weight": 0.99,
+   "note_time": 59.29
+  },
+  {
+   "text": "skal",
+   "time": 60.1,
+   "weight": 0.99,
+   "note_time": 59.65
+  },
+  {
+   "text": "for",
+   "time": 60.66,
+   "weight": 0.98,
+   "note_time": 60.35
+  },
+  {
+   "text": "de",
+   "time": 61.34,
+   "weight": 1.0,
+   "note_time": 61.06
+  },
+  {
+   "text": "re",
+   "time": 61.69,
+   "weight": 1.0,
+   "note_time": 61.41
+  },
+  {
+   "text": "v\u00e6",
+   "time": 62.18,
+   "weight": 0.99,
+   "note_time": 61.76
+  },
+  {
+   "text": "re",
+   "time": 62.53,
+   "weight": 0.99,
+   "note_time": 62.12
+  },
+  {
+   "text": "teg",
+   "time": 62.9,
+   "weight": 0.39,
+   "note_time": 62.47
+  },
+  {
+   "text": "net",
+   "time": 63.25,
+   "weight": 0.39,
+   "note_time": 63.18
+  },
+  {
+   "text": "et",
+   "time": 64.68,
+   "weight": 0.99,
+   "note_time": 64.24
+  },
+  {
+   "text": "barn",
+   "time": 65.24,
+   "weight": 1.0,
+   "note_time": 64.59
+  },
+  {
+   "text": "som",
+   "time": 65.66,
+   "weight": 1.0,
+   "note_time": 64.94
+  },
+  {
+   "text": "lig",
+   "time": 65.92,
+   "weight": 1.0,
+   "note_time": 65.29
+  },
+  {
+   "text": "ger",
+   "time": 66.23,
+   "weight": 1.0,
+   "note_time": 66.0
+  },
+  {
+   "text": "i",
+   "time": 66.54,
+   "weight": 1.0,
+   "note_time": 66.71
+  },
+  {
+   "text": "en",
+   "time": 67.8,
+   "weight": 0.99,
+   "note_time": 67.06
+  },
+  {
+   "text": "kryb",
+   "time": 68.35,
+   "weight": 0.0,
+   "note_time": 67.41
+  },
+  {
+   "text": "be",
+   "time": 68.9,
+   "weight": 0.0,
+   "note_time": 67.76
+  },
+  {
+   "text": "sv\u00f8pt",
+   "time": 69.45,
+   "weight": 0.0,
+   "note_time": 68.12
+  },
+  {
+   "text": "Og",
+   "time": 70.0,
+   "weight": 0.52,
+   "note_time": 69.88
+  },
+  {
+   "text": "him",
+   "time": 70.8,
+   "weight": 0.97,
+   "note_time": 70.24
+  },
+  {
+   "text": "me",
+   "time": 71.15,
+   "weight": 0.97,
+   "note_time": 70.59
+  },
+  {
+   "text": "lens",
+   "time": 71.5,
+   "weight": 0.97,
+   "note_time": 70.94
+  },
+  {
+   "text": "h\u00e6r",
+   "time": 72.14,
+   "weight": 0.0,
+   "note_time": 71.65
+  },
+  {
+   "text": "sang",
+   "time": 72.78,
+   "weight": 0.31,
+   "note_time": 72.35
+  },
+  {
+   "text": "sam",
+   "time": 73.26,
+   "weight": 1.0,
+   "note_time": 72.71
+  },
+  {
+   "text": "men",
+   "time": 73.61,
+   "weight": 1.0,
+   "note_time": 73.06
+  },
+  {
+   "text": "med",
+   "time": 74.02,
+   "weight": 1.0,
+   "note_time": 73.41
+  },
+  {
+   "text": "en",
+   "time": 74.3,
+   "weight": 0.93,
+   "note_time": 73.76
+  },
+  {
+   "text": "ge",
+   "time": 74.63,
+   "weight": 0.93,
+   "note_time": 74.29
+  },
+  {
+   "text": "len",
+   "time": 74.97,
+   "weight": 0.93,
+   "note_time": 74.47
+  },
+  {
+   "text": "med",
+   "time": 75.66,
+   "weight": 0.2,
+   "note_time": 75.53
+  },
+  {
+   "text": "lov",
+   "time": 76.11,
+   "weight": 0.0,
+   "note_time": 75.88
+  },
+  {
+   "text": "sang",
+   "time": 76.55,
+   "weight": 0.0,
+   "note_time": 76.24
+  },
+  {
+   "text": "o",
+   "time": 77.0,
+   "weight": 0.95,
+   "note_time": 76.59
+  },
+  {
+   "text": "ver",
+   "time": 77.35,
+   "weight": 0.95,
+   "note_time": 77.29
+  },
+  {
+   "text": "jor",
+   "time": 77.88,
+   "weight": 0.4,
+   "note_time": 78.0
+  },
+  {
+   "text": "den",
+   "time": 78.23,
+   "weight": 0.4,
+   "note_time": 78.71
+  },
+  {
+   "text": "l\u00f8f",
+   "time": 79.56,
+   "weight": 0.35,
+   "note_time": 79.41
+  },
+  {
+   "text": "tet",
+   "time": 79.91,
+   "weight": 0.35,
+   "note_time": 80.12
+  },
+  {
+   "text": "\u00c6",
+   "time": 81.66,
+   "weight": 0.31,
+   "note_time": 82.24
+  },
+  {
+   "text": "re",
+   "time": 82.01,
+   "weight": 0.31,
+   "note_time": 82.59
+  },
+  {
+   "text": "v\u00e6",
+   "time": 83.4,
+   "weight": 0.86,
+   "note_time": 83.29
+  },
+  {
+   "text": "re",
+   "time": 83.62,
+   "weight": 0.86,
+   "note_time": 83.65
+  },
+  {
+   "text": "Gud",
+   "time": 83.84,
+   "weight": 0.98,
+   "note_time": 84.35
+  },
+  {
+   "text": "i",
+   "time": 84.48,
+   "weight": 0.99,
+   "note_time": 84.71
+  },
+  {
+   "text": "det",
+   "time": 85.2,
+   "weight": 1.0,
+   "note_time": 85.06
+  },
+  {
+   "text": "h\u00f8yes",
+   "time": 85.42,
+   "weight": 1.0,
+   "note_time": 85.41
+  },
+  {
+   "text": "te",
+   "time": 85.77,
+   "weight": 1.0,
+   "note_time": 85.76
+  },
+  {
+   "text": "og",
+   "time": 86.44,
+   "weight": 0.88,
+   "note_time": 86.82
+  },
+  {
+   "text": "fred",
+   "time": 87.56,
+   "weight": 1.0,
+   "note_time": 87.18
+  },
+  {
+   "text": "p\u00e5",
+   "time": 88.1,
+   "weight": 1.0,
+   "note_time": 87.53
+  },
+  {
+   "text": "jor",
+   "time": 88.28,
+   "weight": 1.0,
+   "note_time": 87.88
+  },
+  {
+   "text": "den,",
+   "time": 88.63,
+   "weight": 1.0,
+   "note_time": 88.59
+  },
+  {
+   "text": "fred",
+   "time": 89.4,
+   "weight": 1.0,
+   "note_time": 89.29
+  },
+  {
+   "text": "i",
+   "time": 90.46,
+   "weight": 0.94,
+   "note_time": 90.35
+  },
+  {
+   "text": "kveld",
+   "time": 91.1,
+   "weight": 1.0,
+   "note_time": 90.53
+  },
+  {
+   "text": "blant",
+   "time": 91.94,
+   "weight": 0.38,
+   "note_time": 93.18
+  },
+  {
+   "text": "men",
+   "time": 94.04,
+   "weight": 1.0,
+   "note_time": 93.53
+  },
+  {
+   "text": "nes",
+   "time": 94.36,
+   "weight": 1.0,
+   "note_time": 93.88
+  },
+  {
+   "text": "ker",
+   "time": 94.68,
+   "weight": 1.0,
+   "note_time": 94.24
+  },
+  {
+   "text": "som",
+   "time": 95.0,
+   "weight": 1.0,
+   "note_time": 94.59
+  },
+  {
+   "text": "Gud",
+   "time": 95.3,
+   "weight": 1.0,
+   "note_time": 94.94
+  },
+  {
+   "text": "har",
+   "time": 95.72,
+   "weight": 1.0,
+   "note_time": 95.65
+  },
+  {
+   "text": "be",
+   "time": 96.34,
+   "weight": 0.95,
+   "note_time": 96.0
+  },
+  {
+   "text": "hag",
+   "time": 96.69,
+   "weight": 0.95,
+   "note_time": 96.35
+  },
+  {
+   "text": "i",
+   "time": 97.54,
+   "weight": 0.96,
+   "note_time": 97.06
+  },
+  {
+   "text": "syng",
+   "time": 97.9,
+   "weight": 0.27,
+   "note_time": 98.47
+  },
+  {
+   "text": "med,",
+   "time": 99.44,
+   "weight": 0.93,
+   "note_time": 98.82
+  },
+  {
+   "text": "al",
+   "time": 99.56,
+   "weight": 0.97,
+   "note_time": 99.18
+  },
+  {
+   "text": "le,",
+   "time": 99.91,
+   "weight": 0.97,
+   "note_time": 99.88
+  },
+  {
+   "text": "syng",
+   "time": 100.7,
+   "weight": 0.39,
+   "note_time": 100.59
+  },
+  {
+   "text": "i",
+   "time": 102.56,
+   "weight": 0.96,
+   "note_time": 101.65
+  },
+  {
+   "text": "kveld",
+   "time": 102.92,
+   "weight": 0.4,
+   "note_time": 101.82
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

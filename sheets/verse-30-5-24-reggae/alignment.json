@@ -1,0 +1,1218 @@
+{
+ "id": "verse-30-5-24-reggae",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-30-5-24-reggae",
+ "offset_seconds": -2.440000000000204,
+ "words_heard": 123,
+ "words": 129,
+ "lines": [
+  {
+   "text": "I hate, I despise your feasts",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.88,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I take no delight in your solemn assemblies",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.57,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Though you offer me your offerings",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I will not accept them",
+   "heard": 5,
+   "words": 5,
+   "error_s": 4.98,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Take away from me the noise of your songs",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.42,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "To the melody of your harps I will not listen",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your festivals are empty",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the poor cry out at your gate",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.43,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "But let justice roll down like waters",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.27,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And righteousness like an ever-flowing stream",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.55,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let justice roll down like waters",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.07,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Righteousness like a mighty stream",
+   "heard": 5,
+   "words": 5,
+   "error_s": 3.22,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Seek good and not evil, that you may live",
+   "heard": 9,
+   "words": 9,
+   "error_s": 17.73,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Hate evil and love good",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Establish justice in the gate",
+   "heard": 2,
+   "words": 5,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Maybe the Lord will be gracious",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But let justice roll down like waters",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.26,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And righteousness like an ever-flowing stream",
+   "heard": 4,
+   "words": 6,
+   "error_s": 1.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let justice roll down like waters",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.56,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Righteousness like a mighty stream",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.67,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 36.16,
+   "weight": 0.58,
+   "note_time": 38.31
+  },
+  {
+   "text": "hate,",
+   "time": 37.26,
+   "weight": 0.65,
+   "note_time": 38.86
+  },
+  {
+   "text": "I",
+   "time": 38.14,
+   "weight": 0.39,
+   "note_time": 39.04
+  },
+  {
+   "text": "de",
+   "time": 39.84,
+   "weight": 1.0,
+   "note_time": 41.93
+  },
+  {
+   "text": "spise",
+   "time": 40.19,
+   "weight": 1.0,
+   "note_time": 42.29
+  },
+  {
+   "text": "your",
+   "time": 40.8,
+   "weight": 0.89,
+   "note_time": 42.47
+  },
+  {
+   "text": "feasts",
+   "time": 40.98,
+   "weight": 0.72,
+   "note_time": 42.65
+  },
+  {
+   "text": "I",
+   "time": 41.58,
+   "weight": 0.31,
+   "note_time": 43.73
+  },
+  {
+   "text": "take",
+   "time": 43.4,
+   "weight": 0.98,
+   "note_time": 44.1
+  },
+  {
+   "text": "no",
+   "time": 43.98,
+   "weight": 0.99,
+   "note_time": 44.46
+  },
+  {
+   "text": "de",
+   "time": 44.26,
+   "weight": 1.0,
+   "note_time": 44.82
+  },
+  {
+   "text": "light",
+   "time": 44.49,
+   "weight": 1.0,
+   "note_time": 45.18
+  },
+  {
+   "text": "in",
+   "time": 44.72,
+   "weight": 0.95,
+   "note_time": 45.36
+  },
+  {
+   "text": "your",
+   "time": 45.56,
+   "weight": 0.99,
+   "note_time": 47.17
+  },
+  {
+   "text": "so",
+   "time": 45.78,
+   "weight": 1.0,
+   "note_time": 47.35
+  },
+  {
+   "text": "lemn",
+   "time": 46.04,
+   "weight": 1.0,
+   "note_time": 47.71
+  },
+  {
+   "text": "as",
+   "time": 46.3,
+   "weight": 0.91,
+   "note_time": 48.07
+  },
+  {
+   "text": "sem",
+   "time": 46.65,
+   "weight": 0.91,
+   "note_time": 48.25
+  },
+  {
+   "text": "blies",
+   "time": 47.0,
+   "weight": 0.91,
+   "note_time": 49.7
+  },
+  {
+   "text": "Though",
+   "time": 47.48,
+   "weight": 0.35,
+   "note_time": 49.88
+  },
+  {
+   "text": "you",
+   "time": 49.24,
+   "weight": 0.98,
+   "note_time": 50.42
+  },
+  {
+   "text": "of",
+   "time": 49.5,
+   "weight": 1.0,
+   "note_time": 50.6
+  },
+  {
+   "text": "fer",
+   "time": 49.71,
+   "weight": 1.0,
+   "note_time": 52.59
+  },
+  {
+   "text": "me",
+   "time": 49.92,
+   "weight": 0.99,
+   "note_time": 52.77
+  },
+  {
+   "text": "your",
+   "time": 50.26,
+   "weight": 0.87,
+   "note_time": 53.13
+  },
+  {
+   "text": "of",
+   "time": 51.72,
+   "weight": 0.99,
+   "note_time": 53.31
+  },
+  {
+   "text": "ferings",
+   "time": 52.07,
+   "weight": 0.99,
+   "note_time": 53.49
+  },
+  {
+   "text": "I",
+   "time": 52.48,
+   "weight": 0.32,
+   "note_time": 54.22
+  },
+  {
+   "text": "will",
+   "time": 54.62,
+   "weight": 1.0,
+   "note_time": 59.46
+  },
+  {
+   "text": "not",
+   "time": 54.84,
+   "weight": 1.0,
+   "note_time": 59.82
+  },
+  {
+   "text": "ac",
+   "time": 55.14,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "cept",
+   "time": 55.31,
+   "weight": 1.0,
+   "note_time": 60.36
+  },
+  {
+   "text": "them",
+   "time": 55.48,
+   "weight": 0.99,
+   "note_time": 60.54
+  },
+  {
+   "text": "Take",
+   "time": 60.64,
+   "weight": 0.72,
+   "note_time": 60.72
+  },
+  {
+   "text": "a",
+   "time": 61.44,
+   "weight": 0.99,
+   "note_time": 61.27
+  },
+  {
+   "text": "way",
+   "time": 61.69,
+   "weight": 0.99,
+   "note_time": 61.45
+  },
+  {
+   "text": "from",
+   "time": 61.94,
+   "weight": 0.99,
+   "note_time": 61.81
+  },
+  {
+   "text": "me",
+   "time": 62.34,
+   "weight": 1.0,
+   "note_time": 61.99
+  },
+  {
+   "text": "the",
+   "time": 62.66,
+   "weight": 0.8,
+   "note_time": 62.17
+  },
+  {
+   "text": "noise",
+   "time": 63.28,
+   "weight": 0.99,
+   "note_time": 62.35
+  },
+  {
+   "text": "of",
+   "time": 63.6,
+   "weight": 1.0,
+   "note_time": 64.7
+  },
+  {
+   "text": "your",
+   "time": 63.86,
+   "weight": 0.99,
+   "note_time": 64.88
+  },
+  {
+   "text": "songs",
+   "time": 64.1,
+   "weight": 0.95,
+   "note_time": 65.06
+  },
+  {
+   "text": "To",
+   "time": 64.62,
+   "weight": 0.29,
+   "note_time": 65.42
+  },
+  {
+   "text": "the",
+   "time": 66.68,
+   "weight": 1.0,
+   "note_time": 65.6
+  },
+  {
+   "text": "me",
+   "time": 66.8,
+   "weight": 0.99,
+   "note_time": 66.14
+  },
+  {
+   "text": "lo",
+   "time": 67.05,
+   "weight": 0.99,
+   "note_time": 66.33
+  },
+  {
+   "text": "dy",
+   "time": 67.29,
+   "weight": 0.99,
+   "note_time": 66.51
+  },
+  {
+   "text": "of",
+   "time": 67.54,
+   "weight": 1.0,
+   "note_time": 67.05
+  },
+  {
+   "text": "your",
+   "time": 68.16,
+   "weight": 1.0,
+   "note_time": 67.41
+  },
+  {
+   "text": "harps",
+   "time": 68.4,
+   "weight": 0.97,
+   "note_time": 67.59
+  },
+  {
+   "text": "I",
+   "time": 68.84,
+   "weight": 0.85,
+   "note_time": 67.95
+  },
+  {
+   "text": "will",
+   "time": 69.06,
+   "weight": 1.0,
+   "note_time": 68.31
+  },
+  {
+   "text": "not",
+   "time": 69.44,
+   "weight": 1.0,
+   "note_time": 69.94
+  },
+  {
+   "text": "lis",
+   "time": 69.68,
+   "weight": 1.0,
+   "note_time": 70.12
+  },
+  {
+   "text": "ten",
+   "time": 69.95,
+   "weight": 1.0,
+   "note_time": 70.3
+  },
+  {
+   "text": "Your",
+   "time": 71.16,
+   "weight": 0.96,
+   "note_time": 70.48
+  },
+  {
+   "text": "fes",
+   "time": 71.96,
+   "weight": 0.96,
+   "note_time": 70.66
+  },
+  {
+   "text": "ti",
+   "time": 72.08,
+   "weight": 0.96,
+   "note_time": 70.84
+  },
+  {
+   "text": "vals",
+   "time": 72.2,
+   "weight": 0.96,
+   "note_time": 71.39
+  },
+  {
+   "text": "are",
+   "time": 72.32,
+   "weight": 0.88,
+   "note_time": 73.19
+  },
+  {
+   "text": "emp",
+   "time": 72.78,
+   "weight": 0.99,
+   "note_time": 73.55
+  },
+  {
+   "text": "ty",
+   "time": 72.97,
+   "weight": 0.99,
+   "note_time": 73.73
+  },
+  {
+   "text": "When",
+   "time": 73.16,
+   "weight": 0.33,
+   "note_time": 74.46
+  },
+  {
+   "text": "the",
+   "time": 75.2,
+   "weight": 0.99,
+   "note_time": 75.18
+  },
+  {
+   "text": "poor",
+   "time": 75.52,
+   "weight": 0.98,
+   "note_time": 75.9
+  },
+  {
+   "text": "cry",
+   "time": 75.84,
+   "weight": 0.99,
+   "note_time": 76.27
+  },
+  {
+   "text": "out",
+   "time": 76.5,
+   "weight": 1.0,
+   "note_time": 76.45
+  },
+  {
+   "text": "at",
+   "time": 77.28,
+   "weight": 0.95,
+   "note_time": 76.63
+  },
+  {
+   "text": "your",
+   "time": 77.92,
+   "weight": 0.99,
+   "note_time": 81.14
+  },
+  {
+   "text": "gate",
+   "time": 78.2,
+   "weight": 0.72,
+   "note_time": 81.33
+  },
+  {
+   "text": "But",
+   "time": 81.9,
+   "weight": 0.49,
+   "note_time": 81.69
+  },
+  {
+   "text": "let",
+   "time": 83.1,
+   "weight": 0.97,
+   "note_time": 81.87
+  },
+  {
+   "text": "jus",
+   "time": 83.34,
+   "weight": 0.97,
+   "note_time": 82.05
+  },
+  {
+   "text": "tice",
+   "time": 83.58,
+   "weight": 0.97,
+   "note_time": 82.23
+  },
+  {
+   "text": "roll",
+   "time": 83.82,
+   "weight": 0.99,
+   "note_time": 82.59
+  },
+  {
+   "text": "down",
+   "time": 84.26,
+   "weight": 0.99,
+   "note_time": 84.58
+  },
+  {
+   "text": "like",
+   "time": 84.82,
+   "weight": 0.22,
+   "note_time": 85.12
+  },
+  {
+   "text": "wa",
+   "time": 86.58,
+   "weight": 0.52,
+   "note_time": 85.3
+  },
+  {
+   "text": "ters",
+   "time": 86.93,
+   "weight": 0.52,
+   "note_time": 85.66
+  },
+  {
+   "text": "And",
+   "time": 87.72,
+   "weight": 0.65,
+   "note_time": 88.01
+  },
+  {
+   "text": "right",
+   "time": 88.44,
+   "weight": 0.39,
+   "note_time": 88.19
+  },
+  {
+   "text": "eous",
+   "time": 88.79,
+   "weight": 0.39,
+   "note_time": 88.55
+  },
+  {
+   "text": "ness",
+   "time": 89.14,
+   "weight": 0.39,
+   "note_time": 88.92
+  },
+  {
+   "text": "like",
+   "time": 90.72,
+   "weight": 0.95,
+   "note_time": 89.28
+  },
+  {
+   "text": "an",
+   "time": 91.32,
+   "weight": 0.91,
+   "note_time": 89.46
+  },
+  {
+   "text": "ev-",
+   "time": 91.57,
+   "weight": 0.0,
+   "note_time": 89.64
+  },
+  {
+   "text": "er-",
+   "time": 91.82,
+   "weight": 0.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "flow-",
+   "time": 92.06,
+   "weight": 0.0,
+   "note_time": 90.36
+  },
+  {
+   "text": "ing",
+   "time": 92.31,
+   "weight": 0.0,
+   "note_time": 90.54
+  },
+  {
+   "text": "stream",
+   "time": 92.56,
+   "weight": 1.0,
+   "note_time": 90.9
+  },
+  {
+   "text": "Let",
+   "time": 92.94,
+   "weight": 0.37,
+   "note_time": 91.08
+  },
+  {
+   "text": "jus",
+   "time": 94.84,
+   "weight": 0.99,
+   "note_time": 92.89
+  },
+  {
+   "text": "tice",
+   "time": 95.09,
+   "weight": 0.99,
+   "note_time": 93.25
+  },
+  {
+   "text": "roll",
+   "time": 95.34,
+   "weight": 1.0,
+   "note_time": 93.43
+  },
+  {
+   "text": "down",
+   "time": 95.8,
+   "weight": 1.0,
+   "note_time": 93.61
+  },
+  {
+   "text": "like",
+   "time": 96.32,
+   "weight": 0.39,
+   "note_time": 93.8
+  },
+  {
+   "text": "wa",
+   "time": 98.18,
+   "weight": 1.0,
+   "note_time": 93.98
+  },
+  {
+   "text": "ters",
+   "time": 98.53,
+   "weight": 1.0,
+   "note_time": 94.16
+  },
+  {
+   "text": "Right",
+   "time": 99.24,
+   "weight": 0.39,
+   "note_time": 96.14
+  },
+  {
+   "text": "eous",
+   "time": 99.59,
+   "weight": 0.39,
+   "note_time": 96.69
+  },
+  {
+   "text": "ness",
+   "time": 99.94,
+   "weight": 0.39,
+   "note_time": 96.87
+  },
+  {
+   "text": "like",
+   "time": 102.44,
+   "weight": 0.96,
+   "note_time": 97.23
+  },
+  {
+   "text": "a",
+   "time": 103.06,
+   "weight": 0.93,
+   "note_time": 99.76
+  },
+  {
+   "text": "mig",
+   "time": 103.34,
+   "weight": 0.99,
+   "note_time": 100.12
+  },
+  {
+   "text": "hty",
+   "time": 103.61,
+   "weight": 0.99,
+   "note_time": 100.48
+  },
+  {
+   "text": "stream",
+   "time": 103.88,
+   "weight": 1.0,
+   "note_time": 101.02
+  },
+  {
+   "text": "Seek",
+   "time": 118.66,
+   "weight": 0.51,
+   "note_time": 101.2
+  },
+  {
+   "text": "good",
+   "time": 119.42,
+   "weight": 0.63,
+   "note_time": 101.39
+  },
+  {
+   "text": "and",
+   "time": 119.68,
+   "weight": 0.99,
+   "note_time": 101.75
+  },
+  {
+   "text": "not",
+   "time": 119.92,
+   "weight": 0.97,
+   "note_time": 102.11
+  },
+  {
+   "text": "e",
+   "time": 120.2,
+   "weight": 1.0,
+   "note_time": 102.47
+  },
+  {
+   "text": "vil,",
+   "time": 120.45,
+   "weight": 1.0,
+   "note_time": 102.65
+  },
+  {
+   "text": "that",
+   "time": 120.86,
+   "weight": 0.34,
+   "note_time": 117.83
+  },
+  {
+   "text": "you",
+   "time": 122.52,
+   "weight": 0.99,
+   "note_time": 118.55
+  },
+  {
+   "text": "may",
+   "time": 122.88,
+   "weight": 0.99,
+   "note_time": 123.61
+  },
+  {
+   "text": "live",
+   "time": 123.14,
+   "weight": 1.0,
+   "note_time": 123.98
+  },
+  {
+   "text": "Hate",
+   "time": 123.62,
+   "weight": 0.29,
+   "note_time": 124.16
+  },
+  {
+   "text": "e",
+   "time": 125.16,
+   "weight": 0.99,
+   "note_time": 124.34
+  },
+  {
+   "text": "vil",
+   "time": 125.45,
+   "weight": 0.99,
+   "note_time": 126.51
+  },
+  {
+   "text": "and",
+   "time": 125.74,
+   "weight": 0.98,
+   "note_time": 126.87
+  },
+  {
+   "text": "love",
+   "time": 126.0,
+   "weight": 1.0,
+   "note_time": 127.05
+  },
+  {
+   "text": "good",
+   "time": 126.26,
+   "weight": 1.0,
+   "note_time": 127.23
+  },
+  {
+   "text": "Es",
+   "time": 126.98,
+   "weight": 0.39,
+   "note_time": 127.41
+  },
+  {
+   "text": "tab",
+   "time": 127.33,
+   "weight": 0.39,
+   "note_time": 127.59
+  },
+  {
+   "text": "lish",
+   "time": 127.68,
+   "weight": 0.39,
+   "note_time": 127.77
+  },
+  {
+   "text": "jus",
+   "time": 128.54,
+   "weight": 0.98,
+   "note_time": 128.13
+  },
+  {
+   "text": "tice",
+   "time": 128.89,
+   "weight": 0.98,
+   "note_time": 128.31
+  },
+  {
+   "text": "in",
+   "time": 129.7,
+   "weight": 0.0,
+   "note_time": 132.29
+  },
+  {
+   "text": "the",
+   "time": 130.52,
+   "weight": 0.0,
+   "note_time": 132.65
+  },
+  {
+   "text": "gate",
+   "time": 131.33,
+   "weight": 0.0,
+   "note_time": 132.83
+  },
+  {
+   "text": "Maybe",
+   "time": 132.14,
+   "weight": 0.15,
+   "note_time": 133.01
+  },
+  {
+   "text": "the",
+   "time": 133.46,
+   "weight": 0.94,
+   "note_time": 133.73
+  },
+  {
+   "text": "Lord",
+   "time": 134.78,
+   "weight": 0.74,
+   "note_time": 134.1
+  },
+  {
+   "text": "will",
+   "time": 135.28,
+   "weight": 0.83,
+   "note_time": 134.46
+  },
+  {
+   "text": "be",
+   "time": 135.78,
+   "weight": 0.98,
+   "note_time": 135.0
+  },
+  {
+   "text": "gra",
+   "time": 136.04,
+   "weight": 0.91,
+   "note_time": 138.98
+  },
+  {
+   "text": "cious",
+   "time": 136.39,
+   "weight": 0.91,
+   "note_time": 139.16
+  },
+  {
+   "text": "But",
+   "time": 136.86,
+   "weight": 0.21,
+   "note_time": 139.52
+  },
+  {
+   "text": "let",
+   "time": 138.26,
+   "weight": 0.39,
+   "note_time": 139.88
+  },
+  {
+   "text": "jus",
+   "time": 141.2,
+   "weight": 0.96,
+   "note_time": 140.06
+  },
+  {
+   "text": "tice",
+   "time": 141.46,
+   "weight": 0.96,
+   "note_time": 140.24
+  },
+  {
+   "text": "roll",
+   "time": 141.72,
+   "weight": 0.99,
+   "note_time": 140.42
+  },
+  {
+   "text": "down",
+   "time": 142.12,
+   "weight": 1.0,
+   "note_time": 142.41
+  },
+  {
+   "text": "like",
+   "time": 142.68,
+   "weight": 0.22,
+   "note_time": 142.95
+  },
+  {
+   "text": "wa",
+   "time": 144.44,
+   "weight": 0.9,
+   "note_time": 143.13
+  },
+  {
+   "text": "ters",
+   "time": 144.79,
+   "weight": 0.9,
+   "note_time": 143.49
+  },
+  {
+   "text": "And",
+   "time": 145.52,
+   "weight": 0.87,
+   "note_time": 145.84
+  },
+  {
+   "text": "right",
+   "time": 146.38,
+   "weight": 0.39,
+   "note_time": 146.02
+  },
+  {
+   "text": "eous",
+   "time": 146.73,
+   "weight": 0.39,
+   "note_time": 146.39
+  },
+  {
+   "text": "ness",
+   "time": 147.08,
+   "weight": 0.39,
+   "note_time": 146.75
+  },
+  {
+   "text": "like",
+   "time": 148.42,
+   "weight": 0.95,
+   "note_time": 147.11
+  },
+  {
+   "text": "an",
+   "time": 148.74,
+   "weight": 0.0,
+   "note_time": 147.29
+  },
+  {
+   "text": "ev-",
+   "time": 149.05,
+   "weight": 0.0,
+   "note_time": 147.47
+  },
+  {
+   "text": "er-",
+   "time": 149.37,
+   "weight": 0.0,
+   "note_time": 147.83
+  },
+  {
+   "text": "flow-",
+   "time": 149.69,
+   "weight": 0.0,
+   "note_time": 148.19
+  },
+  {
+   "text": "ing",
+   "time": 150.0,
+   "weight": 0.0,
+   "note_time": 148.37
+  },
+  {
+   "text": "stream",
+   "time": 150.32,
+   "weight": 1.0,
+   "note_time": 148.73
+  },
+  {
+   "text": "Let",
+   "time": 150.74,
+   "weight": 0.38,
+   "note_time": 150.72
+  },
+  {
+   "text": "jus",
+   "time": 152.68,
+   "weight": 0.98,
+   "note_time": 151.08
+  },
+  {
+   "text": "tice",
+   "time": 152.97,
+   "weight": 0.98,
+   "note_time": 151.45
+  },
+  {
+   "text": "roll",
+   "time": 153.26,
+   "weight": 1.0,
+   "note_time": 151.63
+  },
+  {
+   "text": "down",
+   "time": 153.62,
+   "weight": 1.0,
+   "note_time": 151.99
+  },
+  {
+   "text": "like",
+   "time": 154.06,
+   "weight": 0.38,
+   "note_time": 153.98
+  },
+  {
+   "text": "wa",
+   "time": 156.04,
+   "weight": 0.99,
+   "note_time": 154.52
+  },
+  {
+   "text": "ters",
+   "time": 156.39,
+   "weight": 0.99,
+   "note_time": 155.06
+  },
+  {
+   "text": "Right",
+   "time": 159.32,
+   "weight": 0.94,
+   "note_time": 157.59
+  },
+  {
+   "text": "eous",
+   "time": 159.67,
+   "weight": 0.94,
+   "note_time": 157.95
+  },
+  {
+   "text": "ness",
+   "time": 160.02,
+   "weight": 0.94,
+   "note_time": 158.31
+  },
+  {
+   "text": "like",
+   "time": 160.48,
+   "weight": 0.84,
+   "note_time": 158.86
+  },
+  {
+   "text": "a",
+   "time": 161.0,
+   "weight": 1.0,
+   "note_time": 159.22
+  },
+  {
+   "text": "mig",
+   "time": 161.16,
+   "weight": 0.99,
+   "note_time": 159.58
+  },
+  {
+   "text": "hty",
+   "time": 161.44,
+   "weight": 0.99,
+   "note_time": 159.94
+  },
+  {
+   "text": "stream",
+   "time": 161.72,
+   "weight": 1.0,
+   "note_time": 160.3
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "6 of 20 lyric lines sit clearly on their notes; 14 are uncertain and printed in grey italics."
+}

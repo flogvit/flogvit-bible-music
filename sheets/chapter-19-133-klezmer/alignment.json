@@ -1,71 +1,63 @@
 {
  "id": "chapter-19-133-klezmer",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-133-klezmer",
- "offset_seconds": 1.3799999999997148,
- "words_heard": 70,
- "words": 90,
+ "offset_seconds": -2.3600000000002055,
+ "words_heard": 95,
+ "words": 100,
  "lines": [
   {
-   "text": "Behold, how good and how pleasant",
+   "text": "Behold how good, behold how good",
    "heard": 6,
    "words": 6,
-   "error_s": 3.39,
+   "error_s": 0.31,
    "tie_split": false,
-   "uncertain": true
+   "uncertain": false
   },
   {
    "text": "When brothers dwell in unity",
    "heard": 5,
    "words": 5,
-   "error_s": 3.13,
+   "error_s": 0.73,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Behold, how good and how pleasant",
+   "text": "Behold how good, behold how good",
    "heard": 6,
    "words": 6,
-   "error_s": 3.02,
+   "error_s": 1.14,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "When we dwell as one",
+   "text": "How good and how pleasant it is",
    "heard": 5,
-   "words": 5,
-   "error_s": 2.6,
+   "words": 7,
+   "error_s": 2.3,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Hine ma tov, hine ma tov",
-   "heard": 0,
-   "words": 6,
-   "error_s": null,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "How good and pleasant it is",
-   "heard": 6,
-   "words": 6,
-   "error_s": 2.13,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "Hine ma tov, hine ma tov",
-   "heard": 4,
-   "words": 6,
-   "error_s": 0.82,
-   "tie_split": false,
-   "uncertain": false
-  },
-  {
-   "text": "When we dwell as one",
+   "text": "And how pleasant when we dwell as one",
    "heard": 5,
-   "words": 5,
-   "error_s": 1.06,
+   "words": 8,
+   "error_s": 5.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Behold how good, behold how good, how good and pleasant it is",
+   "heard": 12,
+   "words": 12,
+   "error_s": 4.58,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Behold how good, behold how good, when we dwell as one",
+   "heard": 11,
+   "words": 11,
+   "error_s": 22.18,
    "tie_split": false,
    "uncertain": true
   },
@@ -73,7 +65,7 @@
    "text": "Like the oil upon the head of Aaron",
    "heard": 8,
    "words": 8,
-   "error_s": 7.99,
+   "error_s": 3.02,
    "tie_split": false,
    "uncertain": true
   },
@@ -81,31 +73,31 @@
    "text": "Like the dew upon Mount Zion",
    "heard": 6,
    "words": 6,
-   "error_s": 0.64,
+   "error_s": 2.86,
    "tie_split": false,
-   "uncertain": false
+   "uncertain": true
   },
   {
    "text": "There the Lord commands the blessing",
    "heard": 6,
    "words": 6,
-   "error_s": 0.19,
+   "error_s": 2.14,
    "tie_split": false,
-   "uncertain": false
+   "uncertain": true
   },
   {
    "text": "Life forevermore",
    "heard": 2,
    "words": 2,
-   "error_s": 0.45,
+   "error_s": 3.88,
    "tie_split": false,
-   "uncertain": false
+   "uncertain": true
   },
   {
-   "text": "Hine ma tov, hine ma tov",
-   "heard": 0,
+   "text": "Behold how good, behold how good",
+   "heard": 6,
    "words": 6,
-   "error_s": null,
+   "error_s": 1.7,
    "tie_split": false,
    "uncertain": true
   },
@@ -113,15 +105,15 @@
    "text": "How good and pleasant it is",
    "heard": 6,
    "words": 6,
-   "error_s": 0.48,
+   "error_s": 2.28,
    "tie_split": false,
-   "uncertain": false
+   "uncertain": true
   },
   {
-   "text": "Hine ma tov, hine ma tov",
-   "heard": 0,
+   "text": "Behold how good, behold how good",
+   "heard": 6,
    "words": 6,
-   "error_s": null,
+   "error_s": 2.22,
    "tie_split": false,
    "uncertain": true
   },
@@ -129,656 +121,776 @@
    "text": "When we dwell as one",
    "heard": 5,
    "words": 5,
-   "error_s": 0.1,
-   "tie_split": false,
-   "uncertain": false
+   "error_s": 2.52,
+   "tie_split": true,
+   "uncertain": true
   }
  ],
  "syllables": [
   {
    "text": "Be",
-   "time": 22.46,
-   "weight": 0.73,
-   "note_time": 26.25
+   "time": 18.0,
+   "weight": 0.79,
+   "note_time": 17.75
   },
   {
-   "text": "hold,",
-   "time": 22.81,
-   "weight": 0.73,
-   "note_time": 26.5
+   "text": "hold",
+   "time": 18.35,
+   "weight": 0.79,
+   "note_time": 18.0
   },
   {
    "text": "how",
-   "time": 23.56,
-   "weight": 1.0,
-   "note_time": 26.75
+   "time": 18.94,
+   "weight": 0.69,
+   "note_time": 18.5
+  },
+  {
+   "text": "good,",
+   "time": 19.26,
+   "weight": 0.99,
+   "note_time": 19.0
+  },
+  {
+   "text": "be",
+   "time": 19.92,
+   "weight": 0.15,
+   "note_time": 19.5
+  },
+  {
+   "text": "hold",
+   "time": 20.14,
+   "weight": 0.15,
+   "note_time": 19.75
+  },
+  {
+   "text": "how",
+   "time": 20.36,
+   "weight": 0.96,
+   "note_time": 20.0
   },
   {
    "text": "good",
-   "time": 23.68,
-   "weight": 1.0,
-   "note_time": 27.0
-  },
-  {
-   "text": "and",
-   "time": 24.04,
-   "weight": 0.96,
-   "note_time": 27.5
-  },
-  {
-   "text": "how",
-   "time": 24.58,
-   "weight": 0.97,
-   "note_time": 28.5
-  },
-  {
-   "text": "pleas",
-   "time": 25.42,
-   "weight": 1.0,
-   "note_time": 28.75
-  },
-  {
-   "text": "ant",
-   "time": 25.77,
-   "weight": 1.0,
-   "note_time": 29.0
+   "time": 20.36,
+   "weight": 0.67,
+   "note_time": 20.25
   },
   {
    "text": "When",
-   "time": 26.4,
+   "time": 21.94,
    "weight": 0.66,
-   "note_time": 29.5
+   "note_time": 20.5
   },
   {
    "text": "broth",
-   "time": 27.12,
-   "weight": 0.98,
-   "note_time": 30.25
+   "time": 22.4,
+   "weight": 0.96,
+   "note_time": 21.75
   },
   {
    "text": "ers",
-   "time": 27.36,
-   "weight": 0.98,
-   "note_time": 30.5
+   "time": 22.61,
+   "weight": 0.96,
+   "note_time": 22.0
   },
   {
    "text": "dwell",
-   "time": 27.6,
+   "time": 22.82,
    "weight": 0.99,
-   "note_time": 30.75
+   "note_time": 22.5
   },
   {
    "text": "in",
-   "time": 27.92,
+   "time": 23.68,
    "weight": 0.99,
-   "note_time": 31.0
+   "note_time": 23.0
   },
   {
    "text": "u",
-   "time": 28.54,
-   "weight": 0.98,
-   "note_time": 31.5
+   "time": 24.3,
+   "weight": 0.99,
+   "note_time": 23.5
   },
   {
    "text": "ni",
-   "time": 28.85,
-   "weight": 0.98,
-   "note_time": 32.0
+   "time": 24.54,
+   "weight": 0.99,
+   "note_time": 23.75
   },
   {
    "text": "ty",
-   "time": 29.15,
-   "weight": 0.98,
-   "note_time": 32.5
+   "time": 24.78,
+   "weight": 0.99,
+   "note_time": 24.0
   },
   {
    "text": "Be",
-   "time": 30.1,
-   "weight": 0.81,
-   "note_time": 33.0
+   "time": 25.02,
+   "weight": 0.35,
+   "note_time": 24.25
   },
   {
-   "text": "hold,",
-   "time": 30.45,
-   "weight": 0.81,
-   "note_time": 34.25
+   "text": "hold",
+   "time": 25.37,
+   "weight": 0.35,
+   "note_time": 24.5
   },
   {
    "text": "how",
-   "time": 31.46,
-   "weight": 0.89,
-   "note_time": 34.5
+   "time": 26.76,
+   "weight": 0.99,
+   "note_time": 25.75
+  },
+  {
+   "text": "good,",
+   "time": 27.3,
+   "weight": 1.0,
+   "note_time": 26.0
+  },
+  {
+   "text": "be",
+   "time": 28.26,
+   "weight": 0.95,
+   "note_time": 26.5
+  },
+  {
+   "text": "hold",
+   "time": 28.26,
+   "weight": 0.95,
+   "note_time": 27.0
+  },
+  {
+   "text": "how",
+   "time": 28.26,
+   "weight": 0.97,
+   "note_time": 27.5
   },
   {
    "text": "good",
-   "time": 31.68,
-   "weight": 1.0,
-   "note_time": 34.75
+   "time": 28.26,
+   "weight": 0.99,
+   "note_time": 27.75
+  },
+  {
+   "text": "How",
+   "time": 28.26,
+   "weight": 0.0,
+   "note_time": 28.0
+  },
+  {
+   "text": "good",
+   "time": 28.26,
+   "weight": 0.0,
+   "note_time": 28.25
   },
   {
    "text": "and",
-   "time": 32.02,
-   "weight": 0.98,
-   "note_time": 35.0
+   "time": 28.26,
+   "weight": 0.95,
+   "note_time": 28.5
   },
   {
    "text": "how",
-   "time": 32.58,
-   "weight": 0.84,
-   "note_time": 35.5
+   "time": 28.26,
+   "weight": 1.0,
+   "note_time": 30.0
   },
   {
    "text": "pleas",
-   "time": 33.4,
+   "time": 28.46,
+   "weight": 1.0,
+   "note_time": 30.75
+  },
+  {
+   "text": "ant",
+   "time": 28.69,
+   "weight": 1.0,
+   "note_time": 31.0
+  },
+  {
+   "text": "it",
+   "time": 28.92,
+   "weight": 0.95,
+   "note_time": 31.5
+  },
+  {
+   "text": "is",
+   "time": 29.4,
+   "weight": 1.0,
+   "note_time": 32.0
+  },
+  {
+   "text": "And",
+   "time": 29.56,
+   "weight": 0.0,
+   "note_time": 33.75
+  },
+  {
+   "text": "how",
+   "time": 29.71,
+   "weight": 0.0,
+   "note_time": 34.0
+  },
+  {
+   "text": "pleas",
+   "time": 29.87,
+   "weight": 0.0,
+   "note_time": 34.5
+  },
+  {
+   "text": "ant",
+   "time": 30.02,
+   "weight": 0.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "when",
+   "time": 30.18,
+   "weight": 0.94,
+   "note_time": 35.75
+  },
+  {
+   "text": "we",
+   "time": 30.82,
+   "weight": 0.62,
+   "note_time": 36.0
+  },
+  {
+   "text": "dwell",
+   "time": 31.42,
    "weight": 0.99,
    "note_time": 36.5
   },
   {
-   "text": "ant",
-   "time": 33.75,
-   "weight": 0.99,
-   "note_time": 36.75
-  },
-  {
-   "text": "When",
-   "time": 34.38,
-   "weight": 0.89,
+   "text": "as",
+   "time": 31.88,
+   "weight": 0.15,
    "note_time": 37.0
   },
   {
-   "text": "we",
-   "time": 34.9,
-   "weight": 1.0,
-   "note_time": 37.5
+   "text": "one",
+   "time": 32.34,
+   "weight": 0.97,
+   "note_time": 37.75
   },
   {
-   "text": "dwell",
-   "time": 35.4,
-   "weight": 1.0,
+   "text": "Be",
+   "time": 33.72,
+   "weight": 0.65,
    "note_time": 38.0
   },
   {
-   "text": "as",
-   "time": 35.96,
-   "weight": 1.0,
+   "text": "hold",
+   "time": 34.07,
+   "weight": 0.65,
    "note_time": 38.5
   },
   {
-   "text": "one",
-   "time": 36.62,
-   "weight": 0.97,
+   "text": "how",
+   "time": 34.88,
+   "weight": 0.82,
    "note_time": 39.0
   },
   {
-   "text": "Hine",
-   "time": 37.41,
-   "weight": 0.0,
-   "note_time": 39.5
+   "text": "good,",
+   "time": 35.3,
+   "weight": 0.98,
+   "note_time": 39.38
   },
   {
-   "text": "ma",
-   "time": 38.19,
-   "weight": 0.0,
+   "text": "be",
+   "time": 36.08,
+   "weight": 0.91,
    "note_time": 39.75
   },
   {
-   "text": "tov,",
-   "time": 38.98,
-   "weight": 0.0,
+   "text": "hold",
+   "time": 36.36,
+   "weight": 0.91,
    "note_time": 40.0
   },
   {
-   "text": "hine",
-   "time": 39.76,
-   "weight": 0.0,
+   "text": "how",
+   "time": 36.64,
+   "weight": 0.99,
+   "note_time": 41.75
+  },
+  {
+   "text": "good,",
+   "time": 37.32,
+   "weight": 1.0,
    "note_time": 42.0
   },
   {
-   "text": "ma",
-   "time": 40.55,
-   "weight": 0.0,
+   "text": "how",
+   "time": 38.02,
+   "weight": 0.83,
    "note_time": 42.5
   },
   {
-   "text": "tov",
-   "time": 41.33,
-   "weight": 0.0,
+   "text": "good",
+   "time": 38.42,
+   "weight": 0.99,
    "note_time": 43.0
   },
   {
-   "text": "How",
-   "time": 42.12,
-   "weight": 0.89,
+   "text": "and",
+   "time": 38.8,
+   "weight": 0.96,
+   "note_time": 43.75
+  },
+  {
+   "text": "pleas",
+   "time": 39.4,
+   "weight": 1.0,
    "note_time": 44.0
   },
   {
-   "text": "good",
-   "time": 42.6,
+   "text": "ant",
+   "time": 39.73,
    "weight": 1.0,
    "note_time": 44.5
   },
   {
-   "text": "and",
-   "time": 42.98,
-   "weight": 1.0,
+   "text": "it",
+   "time": 40.06,
+   "weight": 0.87,
    "note_time": 45.0
   },
   {
-   "text": "pleas",
-   "time": 43.52,
-   "weight": 1.0,
-   "note_time": 45.75
-  },
-  {
-   "text": "ant",
-   "time": 43.87,
+   "text": "is",
+   "time": 40.46,
    "weight": 1.0,
    "note_time": 46.0
   },
   {
-   "text": "it",
-   "time": 44.32,
-   "weight": 0.99,
-   "note_time": 46.5
+   "text": "Be",
+   "time": 42.22,
+   "weight": 0.71,
+   "note_time": 46.75
   },
   {
-   "text": "is",
-   "time": 44.72,
-   "weight": 1.0,
+   "text": "hold",
+   "time": 42.51,
+   "weight": 0.71,
    "note_time": 47.0
   },
   {
-   "text": "Hine",
-   "time": 45.97,
-   "weight": 0.0,
-   "note_time": 47.25
-  },
-  {
-   "text": "ma",
-   "time": 47.22,
-   "weight": 0.15,
+   "text": "how",
+   "time": 42.8,
+   "weight": 0.99,
    "note_time": 47.5
   },
   {
-   "text": "tov,",
-   "time": 47.38,
-   "weight": 0.52,
+   "text": "good,",
+   "time": 43.3,
+   "weight": 1.0,
    "note_time": 47.75
   },
   {
-   "text": "hine",
-   "time": 48.28,
-   "weight": 0.0,
+   "text": "be",
+   "time": 44.1,
+   "weight": 1.0,
    "note_time": 48.0
   },
   {
-   "text": "ma",
-   "time": 49.18,
-   "weight": 0.99,
-   "note_time": 50.0
-  },
-  {
-   "text": "tov",
-   "time": 49.5,
+   "text": "hold",
+   "time": 44.39,
    "weight": 1.0,
-   "note_time": 50.5
+   "note_time": 68.5
   },
   {
-   "text": "When",
-   "time": 50.12,
-   "weight": 1.0,
-   "note_time": 51.0
-  },
-  {
-   "text": "we",
-   "time": 51.06,
-   "weight": 1.0,
-   "note_time": 52.0
-  },
-  {
-   "text": "dwell",
-   "time": 51.42,
-   "weight": 1.0,
-   "note_time": 52.5
-  },
-  {
-   "text": "as",
-   "time": 51.94,
-   "weight": 1.0,
-   "note_time": 53.0
-  },
-  {
-   "text": "one",
-   "time": 52.66,
-   "weight": 1.0,
-   "note_time": 54.0
-  },
-  {
-   "text": "Like",
-   "time": 62.12,
-   "weight": 0.82,
-   "note_time": 54.5
-  },
-  {
-   "text": "the",
-   "time": 63.36,
-   "weight": 0.99,
-   "note_time": 55.0
-  },
-  {
-   "text": "oil",
-   "time": 63.62,
-   "weight": 0.95,
-   "note_time": 55.25
-  },
-  {
-   "text": "up",
-   "time": 64.0,
-   "weight": 0.99,
-   "note_time": 55.5
-  },
-  {
-   "text": "on",
-   "time": 64.18,
-   "weight": 0.99,
-   "note_time": 55.75
-  },
-  {
-   "text": "the",
-   "time": 64.36,
-   "weight": 1.0,
-   "note_time": 56.0
-  },
-  {
-   "text": "head",
-   "time": 64.7,
-   "weight": 0.99,
-   "note_time": 66.25
-  },
-  {
-   "text": "of",
-   "time": 65.06,
-   "weight": 0.99,
-   "note_time": 66.75
-  },
-  {
-   "text": "Aa",
-   "time": 65.76,
-   "weight": 0.96,
-   "note_time": 67.0
-  },
-  {
-   "text": "ron",
-   "time": 65.98,
-   "weight": 0.96,
-   "note_time": 67.25
-  },
-  {
-   "text": "Like",
-   "time": 66.2,
-   "weight": 0.44,
-   "note_time": 67.5
-  },
-  {
-   "text": "the",
-   "time": 67.14,
-   "weight": 1.0,
-   "note_time": 67.75
-  },
-  {
-   "text": "dew",
-   "time": 67.66,
-   "weight": 1.0,
-   "note_time": 68.0
-  },
-  {
-   "text": "up",
-   "time": 68.02,
+   "text": "how",
+   "time": 44.68,
    "weight": 1.0,
    "note_time": 68.75
   },
   {
-   "text": "on",
-   "time": 68.37,
+   "text": "good,",
+   "time": 45.32,
    "weight": 1.0,
    "note_time": 69.0
   },
   {
-   "text": "Mount",
-   "time": 68.84,
-   "weight": 0.81,
-   "note_time": 69.5
-  },
-  {
-   "text": "Zion",
-   "time": 69.52,
-   "weight": 0.99,
-   "note_time": 70.25
-  },
-  {
-   "text": "There",
-   "time": 70.18,
-   "weight": 0.96,
-   "note_time": 70.75
-  },
-  {
-   "text": "the",
-   "time": 71.26,
-   "weight": 0.97,
-   "note_time": 71.0
-  },
-  {
-   "text": "Lord",
-   "time": 71.68,
-   "weight": 0.95,
-   "note_time": 71.5
-  },
-  {
-   "text": "com",
-   "time": 72.04,
-   "weight": 1.0,
-   "note_time": 72.0
-  },
-  {
-   "text": "mands",
-   "time": 72.39,
-   "weight": 1.0,
-   "note_time": 72.5
-  },
-  {
-   "text": "the",
-   "time": 72.84,
-   "weight": 0.83,
-   "note_time": 73.0
-  },
-  {
-   "text": "bles",
-   "time": 73.7,
-   "weight": 0.94,
-   "note_time": 73.5
-  },
-  {
-   "text": "sing",
-   "time": 74.0,
-   "weight": 0.94,
-   "note_time": 74.25
-  },
-  {
-   "text": "Life",
-   "time": 74.3,
-   "weight": 0.56,
-   "note_time": 74.75
-  },
-  {
-   "text": "fo",
-   "time": 74.92,
-   "weight": 0.36,
-   "note_time": 75.0
-  },
-  {
-   "text": "re",
-   "time": 75.27,
-   "weight": 0.36,
-   "note_time": 75.5
-  },
-  {
-   "text": "ver",
-   "time": 75.62,
-   "weight": 0.36,
-   "note_time": 76.0
-  },
-  {
-   "text": "more",
-   "time": 75.97,
-   "weight": 0.36,
-   "note_time": 76.75
-  },
-  {
-   "text": "Hine",
-   "time": 76.8,
-   "weight": 0.0,
-   "note_time": 77.0
-  },
-  {
-   "text": "ma",
-   "time": 77.64,
-   "weight": 0.0,
-   "note_time": 77.5
-  },
-  {
-   "text": "tov,",
-   "time": 78.47,
-   "weight": 0.0,
-   "note_time": 78.0
-  },
-  {
-   "text": "hine",
-   "time": 79.3,
-   "weight": 0.0,
-   "note_time": 78.5
-  },
-  {
-   "text": "ma",
-   "time": 80.13,
-   "weight": 0.0,
-   "note_time": 79.0
-  },
-  {
-   "text": "tov",
-   "time": 80.97,
-   "weight": 0.0,
-   "note_time": 79.5
-  },
-  {
-   "text": "How",
-   "time": 81.8,
-   "weight": 0.66,
-   "note_time": 82.0
-  },
-  {
-   "text": "good",
-   "time": 82.46,
-   "weight": 1.0,
-   "note_time": 82.5
-  },
-  {
-   "text": "and",
-   "time": 83.04,
-   "weight": 1.0,
-   "note_time": 83.0
-  },
-  {
-   "text": "pleas",
-   "time": 83.52,
-   "weight": 1.0,
-   "note_time": 84.0
-  },
-  {
-   "text": "ant",
-   "time": 83.87,
-   "weight": 1.0,
-   "note_time": 84.5
-  },
-  {
-   "text": "it",
-   "time": 84.32,
-   "weight": 0.99,
-   "note_time": 85.0
-  },
-  {
-   "text": "is",
-   "time": 84.72,
-   "weight": 1.0,
-   "note_time": 85.75
-  },
-  {
-   "text": "Hine",
-   "time": 85.47,
-   "weight": 0.0,
-   "note_time": 86.0
-  },
-  {
-   "text": "ma",
-   "time": 86.22,
-   "weight": 0.0,
-   "note_time": 86.5
-  },
-  {
-   "text": "tov,",
-   "time": 86.97,
-   "weight": 0.0,
-   "note_time": 87.0
-  },
-  {
-   "text": "hine",
-   "time": 87.73,
-   "weight": 0.0,
-   "note_time": 87.25
-  },
-  {
-   "text": "ma",
-   "time": 88.48,
-   "weight": 0.0,
-   "note_time": 87.5
-  },
-  {
-   "text": "tov",
-   "time": 89.23,
-   "weight": 0.0,
-   "note_time": 87.75
-  },
-  {
-   "text": "When",
-   "time": 89.98,
-   "weight": 0.67,
-   "note_time": 90.0
+   "text": "when",
+   "time": 46.1,
+   "weight": 0.98,
+   "note_time": 69.25
   },
   {
    "text": "we",
-   "time": 90.92,
+   "time": 46.76,
+   "weight": 1.0,
+   "note_time": 69.5
+  },
+  {
+   "text": "dwell",
+   "time": 47.5,
+   "weight": 0.99,
+   "note_time": 69.75
+  },
+  {
+   "text": "as",
+   "time": 47.82,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "one",
+   "time": 48.4,
+   "weight": 0.99,
+   "note_time": 70.5
+  },
+  {
+   "text": "Like",
+   "time": 67.04,
+   "weight": 0.55,
+   "note_time": 71.0
+  },
+  {
+   "text": "the",
+   "time": 68.24,
+   "weight": 0.99,
+   "note_time": 71.25
+  },
+  {
+   "text": "oil",
+   "time": 69.44,
+   "weight": 0.98,
+   "note_time": 71.5
+  },
+  {
+   "text": "up",
+   "time": 69.78,
+   "weight": 0.98,
+   "note_time": 72.5
+  },
+  {
+   "text": "on",
+   "time": 69.95,
+   "weight": 0.98,
+   "note_time": 72.75
+  },
+  {
+   "text": "the",
+   "time": 70.12,
+   "weight": 1.0,
+   "note_time": 73.0
+  },
+  {
+   "text": "head",
+   "time": 70.46,
+   "weight": 1.0,
+   "note_time": 73.5
+  },
+  {
+   "text": "of",
+   "time": 70.84,
+   "weight": 1.0,
+   "note_time": 74.0
+  },
+  {
+   "text": "Aa",
+   "time": 71.36,
+   "weight": 0.98,
+   "note_time": 74.5
+  },
+  {
+   "text": "ron",
+   "time": 71.71,
+   "weight": 0.98,
+   "note_time": 75.0
+  },
+  {
+   "text": "Like",
+   "time": 72.18,
+   "weight": 0.71,
+   "note_time": 75.25
+  },
+  {
+   "text": "the",
+   "time": 73.2,
+   "weight": 1.0,
+   "note_time": 75.5
+  },
+  {
+   "text": "dew",
+   "time": 73.48,
+   "weight": 1.0,
+   "note_time": 76.5
+  },
+  {
+   "text": "up",
+   "time": 73.82,
+   "weight": 1.0,
+   "note_time": 76.75
+  },
+  {
+   "text": "on",
+   "time": 74.17,
+   "weight": 1.0,
+   "note_time": 77.0
+  },
+  {
+   "text": "Mount",
+   "time": 74.64,
+   "weight": 0.99,
+   "note_time": 77.5
+  },
+  {
+   "text": "Zion",
+   "time": 75.32,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "There",
+   "time": 76.02,
+   "weight": 0.76,
+   "note_time": 78.75
+  },
+  {
+   "text": "the",
+   "time": 77.2,
+   "weight": 0.98,
+   "note_time": 79.0
+  },
+  {
+   "text": "Lord",
+   "time": 77.44,
+   "weight": 0.97,
+   "note_time": 79.5
+  },
+  {
+   "text": "com",
+   "time": 77.92,
+   "weight": 0.83,
+   "note_time": 80.0
+  },
+  {
+   "text": "mands",
+   "time": 78.27,
+   "weight": 0.83,
+   "note_time": 80.75
+  },
+  {
+   "text": "the",
+   "time": 78.68,
+   "weight": 0.93,
+   "note_time": 81.0
+  },
+  {
+   "text": "bles",
+   "time": 79.48,
+   "weight": 0.95,
+   "note_time": 81.5
+  },
+  {
+   "text": "sing",
+   "time": 79.8,
+   "weight": 0.95,
+   "note_time": 82.0
+  },
+  {
+   "text": "Life",
+   "time": 80.12,
+   "weight": 0.86,
+   "note_time": 84.0
+  },
+  {
+   "text": "fo",
+   "time": 80.8,
+   "weight": 0.37,
+   "note_time": 85.75
+  },
+  {
+   "text": "re",
+   "time": 81.15,
+   "weight": 0.37,
+   "note_time": 86.0
+  },
+  {
+   "text": "ver",
+   "time": 81.5,
+   "weight": 0.37,
+   "note_time": 86.5
+  },
+  {
+   "text": "more",
+   "time": 81.85,
+   "weight": 0.37,
+   "note_time": 87.0
+  },
+  {
+   "text": "Be",
+   "time": 85.74,
+   "weight": 0.8,
+   "note_time": 87.75
+  },
+  {
+   "text": "hold",
+   "time": 86.09,
+   "weight": 0.8,
+   "note_time": 88.0
+  },
+  {
+   "text": "how",
+   "time": 86.86,
+   "weight": 0.92,
+   "note_time": 88.5
+  },
+  {
+   "text": "good,",
+   "time": 87.3,
+   "weight": 0.99,
+   "note_time": 89.0
+  },
+  {
+   "text": "be",
+   "time": 88.08,
+   "weight": 0.91,
+   "note_time": 89.75
+  },
+  {
+   "text": "hold",
+   "time": 88.36,
+   "weight": 0.91,
+   "note_time": 90.0
+  },
+  {
+   "text": "how",
+   "time": 88.64,
    "weight": 1.0,
    "note_time": 90.5
   },
   {
-   "text": "dwell",
-   "time": 91.42,
-   "weight": 0.97,
+   "text": "good",
+   "time": 89.3,
+   "weight": 1.0,
    "note_time": 91.0
   },
   {
-   "text": "as",
-   "time": 91.94,
+   "text": "How",
+   "time": 90.06,
+   "weight": 0.95,
+   "note_time": 91.38
+  },
+  {
+   "text": "good",
+   "time": 90.4,
+   "weight": 1.0,
+   "note_time": 91.75
+  },
+  {
+   "text": "and",
+   "time": 90.8,
    "weight": 1.0,
    "note_time": 92.0
   },
   {
-   "text": "one",
-   "time": 92.6,
+   "text": "pleas",
+   "time": 91.4,
    "weight": 0.99,
-   "note_time": 92.5
+   "note_time": 93.75
+  },
+  {
+   "text": "ant",
+   "time": 91.72,
+   "weight": 0.99,
+   "note_time": 94.0
+  },
+  {
+   "text": "it",
+   "time": 92.04,
+   "weight": 0.73,
+   "note_time": 94.5
+  },
+  {
+   "text": "is",
+   "time": 92.46,
+   "weight": 1.0,
+   "note_time": 95.0
+  },
+  {
+   "text": "Be",
+   "time": 93.4,
+   "weight": 0.98,
+   "note_time": 95.75
+  },
+  {
+   "text": "hold",
+   "time": 93.75,
+   "weight": 0.98,
+   "note_time": 96.0
+  },
+  {
+   "text": "how",
+   "time": 94.76,
+   "weight": 1.0,
+   "note_time": 96.5
+  },
+  {
+   "text": "good,",
+   "time": 95.28,
+   "weight": 1.0,
+   "note_time": 97.0
+  },
+  {
+   "text": "be",
+   "time": 96.08,
+   "weight": 1.0,
+   "note_time": 98.0
+  },
+  {
+   "text": "hold",
+   "time": 96.36,
+   "weight": 1.0,
+   "note_time": 98.75
+  },
+  {
+   "text": "how",
+   "time": 96.64,
+   "weight": 1.0,
+   "note_time": 99.0
+  },
+  {
+   "text": "good",
+   "time": 97.3,
+   "weight": 1.0,
+   "note_time": 99.5
+  },
+  {
+   "text": "When",
+   "time": 98.1,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "we",
+   "time": 98.68,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "dwell",
+   "time": 99.48,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "as",
+   "time": 99.8,
+   "weight": 1.0,
+   "note_time": 102.0
+  },
+  {
+   "text": "one",
+   "time": 100.44,
+   "weight": 1.0,
+   "note_time": 17.75
   }
  ],
  "chord_sheet_pages": 1,
  "lilypond_warnings": [],
- "quality": "6 of 16 lyric lines sit clearly on their notes; 10 are uncertain and printed in grey italics."
+ "quality": "1 of 15 lyric lines sit clearly on their notes; 14 are uncertain and printed in grey italics."
 }

@@ -1,0 +1,60 @@
+{
+  "id": "person-tafat-hymn",
+  "title": "Solomon's Daughter Taphath",
+  "kind": "person",
+  "anchor": {
+    "person": "tafat"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 11,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "tafat",
+      "salomo",
+      "ben-abinadab",
+      "david",
+      "batseba"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, female voice, solemn and dignified solo with string quartet, violins, cellos, harp, organ, majestic and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nSolomon had twelve governors over all Israel\nThey supplied provisions for the king and his household\nEach one was responsible for a month of the year\nTheir names were recorded in the ancient scroll\n\n[Verse]\nBen-Abinadab ruled in all of Naphath Dor\nHe had Solomon's daughter Taphath as his wife\nA bond of loyalty between the royal house\nAnd the administrative leaders of the land\n\n[Verse]\nThe hill country of Ephraim held Ben-Hur\nBen-Deker in Makaz and Shaalbim and Beth Shemesh\nBen-Hesed held Arubboth and Socoh and Hepher\nEach region provided for the royal needs\n\n[Verse]\nTaphath was given to strengthen the kingdom\nA political arrangement to ensure stability\nHer father had many wives of royal birth\nYet Taphath's union served the state's design\n\n[Outro]\nTaphath, Solomon's daughter, wife of Ben-Abinadab",
+    "cot": "full",
+    "seed": 31141
+  }
+}

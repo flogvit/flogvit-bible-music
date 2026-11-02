@@ -1,0 +1,64 @@
+{
+  "id": "person-sabteka-acoustic",
+  "title": "Sons of the Flood",
+  "kind": "person",
+  "anchor": {
+    "person": "sabteka"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 6,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sabteka",
+      "noah",
+      "kam",
+      "kusj",
+      "nimrod"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male acoustic voice, solo, acoustic guitar, soft cello, gentle percussion, contemplative mood, 80 BPM",
+    "lyrics": "[Verse]\nThis is the family line of Noah\nShem and Ham and Japheth born\nSons were born to them after the flood\nThe nations spread from the storm\n\n[Verse]\nThe sons of Ham came from the water\nCush and Egypt and Put\nCanaan was with them in the land\nThey moved out from the hut\n\n[Chorus]\nSeba and Havilah stand together\nSabtah and Raamah follow\nSabteca is listed in the text\nFrom the roots that were hollow\n\n[Verse]\nThe sons of Raamah are named here\nSheba and Dedan are found\nIn the genealogy of the earth\nWhere the peoples are bound\n\n[Chorus]\nSeba and Havilah stand together\nSabtah and Raamah follow\nSabteca is listed in the text\nFrom the roots that were hollow\n\n[Outro]\nThese are the sons of Ham\nIn their lands and nations\nThe line continues on",
+    "cot": "full",
+    "seed": 31136
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person-usai-choral",
+  "title": "Hananiah Son of Uzai",
+  "kind": "person",
+  "anchor": {
+    "person": "usai"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 30,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 16,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 16,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "usai",
+      "nehemja",
+      "hananja-usais-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo with choir, organ, cello, harp, flute, timpani, solemn, 80 BPM",
+    "lyrics": "[Verse]\nUzai raised up a son called Hananiah\nHe joined the men to build up the wall\nThe gates were set and the bars were placed\nWe worked in the dust as we heard it called\n\n[Verse]\nUzai the goldsmith worked with care\nHananiah the perfumer stood there\nThey restored the wall to the Broad Wall side\nNext to Rephaiah and the people who stayed\n\n[Verse]\nSanballat and Tobiah were furious\nThe Ammonites and Arabs were furious\nThey conspired to throw it into confusion\nBut we posted a guard day and night\n\n[Verse]\nThe laborers said our strength is failing\nToo much rubble and we cannot rebuild\nBut we prayed to our God and we warned\nWe kept working though our enemies were stern\n\n[Verse]\nThe wall was finished in fifty-two days\nThe nations around us were afraid\nUzai’s son helped close up the gaps\nWe finished the work of the city walls",
+    "cot": "full",
+    "seed": 31142
+  }
+}

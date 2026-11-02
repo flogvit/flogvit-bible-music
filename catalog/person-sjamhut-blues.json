@@ -1,0 +1,64 @@
+{
+  "id": "person-sjamhut-blues",
+  "title": "Line of Perez",
+  "kind": "person",
+  "anchor": {
+    "person": "sjamhut"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 4,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 8,
+      "chapter": 4,
+      "verseStart": 18,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 32,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjamhut",
+      "juda",
+      "peres",
+      "hesron",
+      "aram"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, solo, harmonica, slide guitar, upright bass, brushed drums, mournful and steady, 72 BPM",
+    "lyrics": "[Verse]\nTamar bore Perez and Zerah\nJudah had five sons in all\nSons of Perez are Hezron\nAnd Hamul stands beside him tall\n\n[Chorus]\nFrom Perez to Hezron\nHezron to Ram\nRam to Amminadab\nThe name remains\n\n[Verse]\nAmminadab father of Nahshon\nNahshon father of Salmon\nA link in the line of Judah\nA name in the ancient scroll\n\n[Chorus]\nFrom Perez to Hezron\nHezron to Ram\nRam to Amminadab\nThe name remains\n\n[Bridge]\nJesse and Obed and Boaz\nSalah and Nahshon\nAmminadab and Admin\nArni and Hezron\n\n[Chorus]\nFrom Perez to Hezron\nHezron to Ram\nRam to Amminadab\nThe name remains\n\n[Outro]\nSon of Perez\nSon of Judah\nThe line is clear",
+    "cot": "full",
+    "seed": 31138
+  }
+}

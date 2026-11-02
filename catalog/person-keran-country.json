@@ -1,0 +1,68 @@
+{
+  "id": "person-keran-country",
+  "title": "Sons of Dishon",
+  "kind": "person",
+  "anchor": {
+    "person": "keran"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 20,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 41,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 5,
+      "chapter": 2,
+      "verseStart": 12,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "skapelsen",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "keran",
+      "disjon",
+      "esau",
+      "seir"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male country solo, acoustic guitar, fiddle, mandolin, warm and reflective, 85 BPM",
+    "lyrics": "[Verse]\nThe land of Seir held the old ways\nThe Horite chiefs kept the mountain days\nLotan and Shobal stood the test\nZibeon and Anah were the best\nDishon and Ezer lived in the land\nDishan was the last of the band\nThese were the sons of Seir the Horite\nIn the place that they called their site\n\n[Chorus]\nHemdan and Eshban stood tall\nIthran and Keran heard the call\nSons of Dishon in the genealogy\nNames written in the history\nBefore the Esauites took the land\nThey walked across the Seir land\n\n[Verse]\nThe descendants of Esau came near\nThey drove the old clans from the sphere\nWiped them out and settled in place\nJust like Israel in that location\nThirty-eight years the men did fade\nThe hand of the Lord was in the shade\nTo root them out until they perished\nAs the Lord had sworn and whispered\n\n[Chorus]\nHemdan and Eshban stood tall\nIthran and Keran heard the call\nSons of Dishon in the genealogy\nNames written in the history\nBefore the Esauites took the land\nThey walked across the Seir land\n\n[Bridge]\nAnah had a son named Dishon\nHis lineage is not forgotten\nCherans and Kerans keep the name\nThough the power slowly changed\n\n[Outro]\nThey lived in Seir to this day\nUnder the shadow of the sway",
+    "cot": "full",
+    "seed": 31135
+  }
+}

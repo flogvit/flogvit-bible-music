@@ -1,0 +1,41 @@
+{
+  "id": "story-jehu-salves-til-konge-og-akabs-hus-utryddes-gospel",
+  "title": "Jehu is King",
+  "kind": "story",
+  "anchor": {
+    "story": "jehu-salves-til-konge-og-akabs-hus-utryddes"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 37
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "jehu-salves-til-konge-og-akabs-hus-utryddes"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel, male solo with gospel choir, acoustic guitar, piano, drums, bass, cymbals, triumphant and urgent, 120 BPM",
+    "lyrics": "[Verse]\nElisha called a young disciple\nTuck in your cloak and go to Ramoth-gilead\nFind Jehu son of Nimshi\nPour oil on his head and declare his name\n\n[Chorus]\nJehu is king over Israel\nThe LORD has spoken and the judgment comes\nStrike down the house of Ahab\nAvenge the prophets and the blood they shed\n\n[Verse]\nThey spread their cloaks on the steps\nTrumpets blew the message loud\nJehu rode his chariot fast\nToward the walls of Jezreel\nJoram saw him and asked\nDo you come in peace today\nJehu said what do you know of peace\nAs long as idolatry remains\n\n[Chorus]\nJehu is king over Israel\nThe LORD has spoken and the judgment comes\nStrike down the house of Ahab\nAvenge the prophets and the blood they shed\n\n[Verse]\nJehu drew his bow and shot\nThe arrow pierced the king's heart\nHe fell in his chariot\nOn Naboth's plot of ground\nAhaziah fled in fear\nBut arrows found him on the road\nHe died at Megiddo\nHis body taken to Jerusalem\n\n[Chorus]\nJehu is king over Israel\nThe LORD has spoken and the judgment comes\nStrike down the house of Ahab\nAvenge the prophets and the blood they shed\n\n[Bridge]\nJezebel painted her eyes\nLooking out the window in pride\nShe asked is it peace, you Zimri\nWho is on my side, who\nThrow her down from the window\nHorses trampled her to dust\n\n[Outro]\nDogs devoured her flesh\nAs Elijah foretold in the text\nNo one buried her name\nJudgment fulfilled in Jezreel",
+    "cot": "full",
+    "seed": 31144
+  }
+}

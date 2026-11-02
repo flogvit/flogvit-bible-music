@@ -1,0 +1,68 @@
+{
+  "id": "person-sjuni-jazz",
+  "title": "Shuni's Line",
+  "kind": "person",
+  "anchor": {
+    "person": "sjuni"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 4,
+      "chapter": 32,
+      "verseStart": 1,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "sjuni",
+      "jakob-israel",
+      "gad-silpas-sonn",
+      "silpa"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, soulful, piano, upright bass, brushed drums, saxophone, mellow jazz, 75 BPM",
+    "lyrics": "[Verse]\nSeventy souls went down to the Nile\nGad's sons walked in a single file\nZiphion, Haggi, and Shuni too\nEzbon, Eri, Arodi, Areli's view\nJacob's household, sixty-six count\nTwo sons born in the new ground\nSeventy total, safe and sound\nIn the land where the wheat is found\n\n[Pre-Chorus]\nWilderness years, the census calls\nClans of Gad, standing in the halls\nFrom Zephon to the Zephonite name\nShuni's line, none lost from fame\n\n[Chorus]\nShunite clan, east of the Jordan stream\nLivestock heavy, the quiet dream\nYour inheritance lies on the other side\nWith the Reubenites, proudly pride\n\n[Verse]\nMoses spoke of the fathers' sin\nKadesh Barnea, the wandering spin\nForty years in the desert heat\nBut your flocks are a powerful feat\nBuild pens for the sheep and the goat\nCities for the children, afloat\nWe will arm ourselves for the fight\nMarch ahead in the morning light\n\n[Chorus]\nShunite clan, east of the Jordan stream\nLivestock heavy, the quiet dream\nYour inheritance lies on the other side\nWith the Reubenites, proudly pride\n\n[Bridge]\nUntil the land is subdued before\nThe enemies gone, the wars no more\nThen you may return, free of debt\nTo the Lord and to Israel, set\n\n[Verse]\nSihon's kingdom, Og's Bashan land\nMoses gave it, in his hand\nGad and Reuben, side by side\nWith half of Manasseh, they abide\nThe whole territory, city to city\nA possession, a holy pity\nNo longer crossing, but staying true\nIn the east, in the ancient view\n\n[Chorus]\nShunite clan, east of the Jordan stream\nLivestock heavy, the quiet dream\nYour inheritance lies on the other side\nWith the Reubenites, proudly pride\n\n[Outro]\nShuni's name, in the book it remains\nA thread in the lineage, through the rains\nEast of the river, the land is yours\nIn the promise, in the silent hours",
+    "cot": "full",
+    "seed": 31140
+  }
+}

@@ -1,0 +1,1270 @@
+{
+ "id": "person-josef-barsabbas-orchestral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-josef-barsabbas-orchestral",
+ "offset_seconds": -3.940000000000172,
+ "words_heard": 135,
+ "words": 139,
+ "lines": [
+  {
+   "text": "Two names stood before the praying room",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Joseph called Justus sought the light",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A witness to the risen Lord",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "From John's baptism to the final flight",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Show us which of these you chose",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord you know the human heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The lot fell not on Justus",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the witness role was marked",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the upper room they gathered one hundred and twenty",
+   "heard": 6,
+   "words": 10,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praying with the women and the mother Mary",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He walked with Jesus all the days",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "An eyewitness to the victory",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Show us which of these you chose",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord you know the human heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The lot fell not on Justus",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the witness role was marked",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Matthias took the twelfth seat",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Justus remained in faithful love",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The ministry continued on",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Witnessing the words of God above",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.02,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "One of these must become a witness",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of the resurrection and the truth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Two",
+   "time": 16.14,
+   "weight": 0.77,
+   "note_time": 16.15
+  },
+  {
+   "text": "names",
+   "time": 17.18,
+   "weight": 0.98,
+   "note_time": 16.35
+  },
+  {
+   "text": "stood",
+   "time": 17.62,
+   "weight": 1.0,
+   "note_time": 16.92
+  },
+  {
+   "text": "be",
+   "time": 18.04,
+   "weight": 1.0,
+   "note_time": 17.31
+  },
+  {
+   "text": "fore",
+   "time": 18.3,
+   "weight": 1.0,
+   "note_time": 17.5
+  },
+  {
+   "text": "the",
+   "time": 18.56,
+   "weight": 0.99,
+   "note_time": 18.08
+  },
+  {
+   "text": "pray",
+   "time": 19.18,
+   "weight": 0.99,
+   "note_time": 18.27
+  },
+  {
+   "text": "ing",
+   "time": 19.41,
+   "weight": 0.99,
+   "note_time": 18.65
+  },
+  {
+   "text": "room",
+   "time": 19.64,
+   "weight": 0.95,
+   "note_time": 18.85
+  },
+  {
+   "text": "Jo",
+   "time": 20.18,
+   "weight": 0.28,
+   "note_time": 22.31
+  },
+  {
+   "text": "seph",
+   "time": 20.53,
+   "weight": 0.28,
+   "note_time": 22.69
+  },
+  {
+   "text": "called",
+   "time": 23.56,
+   "weight": 0.97,
+   "note_time": 22.88
+  },
+  {
+   "text": "Jus",
+   "time": 24.24,
+   "weight": 0.15,
+   "note_time": 23.85
+  },
+  {
+   "text": "tus",
+   "time": 24.59,
+   "weight": 0.15,
+   "note_time": 24.23
+  },
+  {
+   "text": "sought",
+   "time": 25.44,
+   "weight": 0.96,
+   "note_time": 24.62
+  },
+  {
+   "text": "the",
+   "time": 25.82,
+   "weight": 1.0,
+   "note_time": 25.0
+  },
+  {
+   "text": "light",
+   "time": 26.12,
+   "weight": 0.94,
+   "note_time": 25.19
+  },
+  {
+   "text": "A",
+   "time": 26.56,
+   "weight": 0.37,
+   "note_time": 28.46
+  },
+  {
+   "text": "wit",
+   "time": 29.42,
+   "weight": 1.0,
+   "note_time": 28.65
+  },
+  {
+   "text": "ness",
+   "time": 29.57,
+   "weight": 1.0,
+   "note_time": 29.04
+  },
+  {
+   "text": "to",
+   "time": 29.72,
+   "weight": 1.0,
+   "note_time": 30.38
+  },
+  {
+   "text": "the",
+   "time": 30.22,
+   "weight": 0.99,
+   "note_time": 30.58
+  },
+  {
+   "text": "ri",
+   "time": 31.44,
+   "weight": 0.94,
+   "note_time": 30.77
+  },
+  {
+   "text": "sen",
+   "time": 31.7,
+   "weight": 0.94,
+   "note_time": 30.96
+  },
+  {
+   "text": "Lord",
+   "time": 31.96,
+   "weight": 0.96,
+   "note_time": 31.15
+  },
+  {
+   "text": "From",
+   "time": 32.46,
+   "weight": 0.18,
+   "note_time": 33.46
+  },
+  {
+   "text": "John's",
+   "time": 34.54,
+   "weight": 1.0,
+   "note_time": 34.62
+  },
+  {
+   "text": "bap",
+   "time": 35.54,
+   "weight": 0.96,
+   "note_time": 35.38
+  },
+  {
+   "text": "tism",
+   "time": 35.89,
+   "weight": 0.96,
+   "note_time": 35.58
+  },
+  {
+   "text": "to",
+   "time": 36.48,
+   "weight": 0.98,
+   "note_time": 36.15
+  },
+  {
+   "text": "the",
+   "time": 37.28,
+   "weight": 0.99,
+   "note_time": 36.54
+  },
+  {
+   "text": "fi",
+   "time": 37.64,
+   "weight": 0.98,
+   "note_time": 36.73
+  },
+  {
+   "text": "nal",
+   "time": 37.93,
+   "weight": 0.98,
+   "note_time": 37.12
+  },
+  {
+   "text": "flight",
+   "time": 38.22,
+   "weight": 0.97,
+   "note_time": 37.5
+  },
+  {
+   "text": "Show",
+   "time": 40.04,
+   "weight": 0.8,
+   "note_time": 40.0
+  },
+  {
+   "text": "us",
+   "time": 41.24,
+   "weight": 1.0,
+   "note_time": 40.77
+  },
+  {
+   "text": "which",
+   "time": 42.18,
+   "weight": 0.98,
+   "note_time": 41.54
+  },
+  {
+   "text": "of",
+   "time": 42.76,
+   "weight": 1.0,
+   "note_time": 41.92
+  },
+  {
+   "text": "these",
+   "time": 43.12,
+   "weight": 1.0,
+   "note_time": 42.12
+  },
+  {
+   "text": "you",
+   "time": 43.38,
+   "weight": 0.5,
+   "note_time": 42.69
+  },
+  {
+   "text": "chose",
+   "time": 43.86,
+   "weight": 0.8,
+   "note_time": 43.08
+  },
+  {
+   "text": "Lord",
+   "time": 46.26,
+   "weight": 0.98,
+   "note_time": 46.15
+  },
+  {
+   "text": "you",
+   "time": 47.52,
+   "weight": 0.93,
+   "note_time": 46.54
+  },
+  {
+   "text": "know",
+   "time": 47.7,
+   "weight": 1.0,
+   "note_time": 46.73
+  },
+  {
+   "text": "the",
+   "time": 48.2,
+   "weight": 0.56,
+   "note_time": 47.31
+  },
+  {
+   "text": "hu",
+   "time": 48.46,
+   "weight": 1.0,
+   "note_time": 47.69
+  },
+  {
+   "text": "man",
+   "time": 48.75,
+   "weight": 1.0,
+   "note_time": 48.46
+  },
+  {
+   "text": "heart",
+   "time": 49.04,
+   "weight": 1.0,
+   "note_time": 48.85
+  },
+  {
+   "text": "The",
+   "time": 52.1,
+   "weight": 0.97,
+   "note_time": 52.12
+  },
+  {
+   "text": "lot",
+   "time": 53.3,
+   "weight": 0.58,
+   "note_time": 53.08
+  },
+  {
+   "text": "fell",
+   "time": 53.66,
+   "weight": 0.97,
+   "note_time": 53.85
+  },
+  {
+   "text": "not",
+   "time": 54.3,
+   "weight": 0.97,
+   "note_time": 54.62
+  },
+  {
+   "text": "on",
+   "time": 55.0,
+   "weight": 1.0,
+   "note_time": 55.0
+  },
+  {
+   "text": "Jus",
+   "time": 55.84,
+   "weight": 0.99,
+   "note_time": 55.19
+  },
+  {
+   "text": "tus",
+   "time": 56.18,
+   "weight": 0.99,
+   "note_time": 55.38
+  },
+  {
+   "text": "But",
+   "time": 56.52,
+   "weight": 0.06,
+   "note_time": 58.08
+  },
+  {
+   "text": "the",
+   "time": 58.38,
+   "weight": 0.99,
+   "note_time": 58.27
+  },
+  {
+   "text": "wit",
+   "time": 59.36,
+   "weight": 0.88,
+   "note_time": 58.46
+  },
+  {
+   "text": "ness",
+   "time": 59.63,
+   "weight": 0.88,
+   "note_time": 58.85
+  },
+  {
+   "text": "role",
+   "time": 59.9,
+   "weight": 0.42,
+   "note_time": 59.62
+  },
+  {
+   "text": "was",
+   "time": 60.84,
+   "weight": 1.0,
+   "note_time": 60.77
+  },
+  {
+   "text": "marked",
+   "time": 61.98,
+   "weight": 0.35,
+   "note_time": 61.15
+  },
+  {
+   "text": "In",
+   "time": 64.84,
+   "weight": 0.52,
+   "note_time": 65.0
+  },
+  {
+   "text": "the",
+   "time": 65.9,
+   "weight": 1.0,
+   "note_time": 65.19
+  },
+  {
+   "text": "up",
+   "time": 66.3,
+   "weight": 0.98,
+   "note_time": 65.38
+  },
+  {
+   "text": "per",
+   "time": 66.49,
+   "weight": 0.98,
+   "note_time": 65.58
+  },
+  {
+   "text": "room",
+   "time": 66.68,
+   "weight": 1.0,
+   "note_time": 65.77
+  },
+  {
+   "text": "they",
+   "time": 67.08,
+   "weight": 0.86,
+   "note_time": 66.54
+  },
+  {
+   "text": "gath",
+   "time": 67.68,
+   "weight": 0.99,
+   "note_time": 66.73
+  },
+  {
+   "text": "ered",
+   "time": 67.94,
+   "weight": 0.99,
+   "note_time": 67.12
+  },
+  {
+   "text": "one",
+   "time": 68.39,
+   "weight": 0.0,
+   "note_time": 67.31
+  },
+  {
+   "text": "hun",
+   "time": 68.84,
+   "weight": 0.0,
+   "note_time": 67.69
+  },
+  {
+   "text": "dred",
+   "time": 69.29,
+   "weight": 0.0,
+   "note_time": 68.08
+  },
+  {
+   "text": "and",
+   "time": 69.75,
+   "weight": 0.0,
+   "note_time": 68.27
+  },
+  {
+   "text": "twen",
+   "time": 70.2,
+   "weight": 0.0,
+   "note_time": 68.85
+  },
+  {
+   "text": "ty",
+   "time": 70.65,
+   "weight": 0.0,
+   "note_time": 69.04
+  },
+  {
+   "text": "Pray",
+   "time": 71.1,
+   "weight": 0.97,
+   "note_time": 70.77
+  },
+  {
+   "text": "ing",
+   "time": 71.45,
+   "weight": 0.97,
+   "note_time": 71.15
+  },
+  {
+   "text": "with",
+   "time": 72.16,
+   "weight": 1.0,
+   "note_time": 71.35
+  },
+  {
+   "text": "the",
+   "time": 72.52,
+   "weight": 1.0,
+   "note_time": 71.92
+  },
+  {
+   "text": "wom",
+   "time": 73.08,
+   "weight": 0.97,
+   "note_time": 72.12
+  },
+  {
+   "text": "en",
+   "time": 73.33,
+   "weight": 0.97,
+   "note_time": 72.5
+  },
+  {
+   "text": "and",
+   "time": 73.58,
+   "weight": 0.97,
+   "note_time": 73.46
+  },
+  {
+   "text": "the",
+   "time": 74.66,
+   "weight": 0.99,
+   "note_time": 73.65
+  },
+  {
+   "text": "moth",
+   "time": 74.76,
+   "weight": 0.58,
+   "note_time": 73.85
+  },
+  {
+   "text": "er",
+   "time": 74.99,
+   "weight": 0.58,
+   "note_time": 74.04
+  },
+  {
+   "text": "Ma",
+   "time": 75.22,
+   "weight": 0.92,
+   "note_time": 74.42
+  },
+  {
+   "text": "ry",
+   "time": 75.43,
+   "weight": 0.92,
+   "note_time": 74.81
+  },
+  {
+   "text": "He",
+   "time": 77.5,
+   "weight": 0.91,
+   "note_time": 77.5
+  },
+  {
+   "text": "walked",
+   "time": 78.56,
+   "weight": 1.0,
+   "note_time": 78.27
+  },
+  {
+   "text": "with",
+   "time": 78.98,
+   "weight": 1.0,
+   "note_time": 78.65
+  },
+  {
+   "text": "Je",
+   "time": 79.22,
+   "weight": 1.0,
+   "note_time": 79.23
+  },
+  {
+   "text": "sus",
+   "time": 79.47,
+   "weight": 1.0,
+   "note_time": 79.62
+  },
+  {
+   "text": "all",
+   "time": 79.72,
+   "weight": 1.0,
+   "note_time": 79.81
+  },
+  {
+   "text": "the",
+   "time": 80.44,
+   "weight": 1.0,
+   "note_time": 80.19
+  },
+  {
+   "text": "days",
+   "time": 80.74,
+   "weight": 0.97,
+   "note_time": 80.38
+  },
+  {
+   "text": "An",
+   "time": 83.36,
+   "weight": 0.16,
+   "note_time": 83.85
+  },
+  {
+   "text": "eye",
+   "time": 84.6,
+   "weight": 0.75,
+   "note_time": 84.42
+  },
+  {
+   "text": "wit",
+   "time": 84.95,
+   "weight": 0.75,
+   "note_time": 84.81
+  },
+  {
+   "text": "ness",
+   "time": 85.3,
+   "weight": 0.75,
+   "note_time": 85.38
+  },
+  {
+   "text": "to",
+   "time": 85.84,
+   "weight": 0.99,
+   "note_time": 85.77
+  },
+  {
+   "text": "the",
+   "time": 86.46,
+   "weight": 0.99,
+   "note_time": 85.96
+  },
+  {
+   "text": "vic",
+   "time": 86.86,
+   "weight": 0.95,
+   "note_time": 86.35
+  },
+  {
+   "text": "tory",
+   "time": 87.15,
+   "weight": 0.95,
+   "note_time": 86.73
+  },
+  {
+   "text": "Show",
+   "time": 89.18,
+   "weight": 0.69,
+   "note_time": 89.23
+  },
+  {
+   "text": "us",
+   "time": 90.42,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "which",
+   "time": 91.34,
+   "weight": 0.99,
+   "note_time": 90.77
+  },
+  {
+   "text": "of",
+   "time": 92.04,
+   "weight": 1.0,
+   "note_time": 91.15
+  },
+  {
+   "text": "these",
+   "time": 92.38,
+   "weight": 1.0,
+   "note_time": 91.35
+  },
+  {
+   "text": "you",
+   "time": 92.64,
+   "weight": 0.53,
+   "note_time": 91.92
+  },
+  {
+   "text": "chose",
+   "time": 93.14,
+   "weight": 0.98,
+   "note_time": 92.31
+  },
+  {
+   "text": "Lord",
+   "time": 95.48,
+   "weight": 0.98,
+   "note_time": 95.38
+  },
+  {
+   "text": "you",
+   "time": 96.74,
+   "weight": 0.66,
+   "note_time": 95.77
+  },
+  {
+   "text": "know",
+   "time": 96.92,
+   "weight": 1.0,
+   "note_time": 95.96
+  },
+  {
+   "text": "the",
+   "time": 97.38,
+   "weight": 0.88,
+   "note_time": 96.54
+  },
+  {
+   "text": "hu",
+   "time": 97.72,
+   "weight": 1.0,
+   "note_time": 96.92
+  },
+  {
+   "text": "man",
+   "time": 98.02,
+   "weight": 1.0,
+   "note_time": 97.69
+  },
+  {
+   "text": "heart",
+   "time": 98.32,
+   "weight": 1.0,
+   "note_time": 98.08
+  },
+  {
+   "text": "The",
+   "time": 101.28,
+   "weight": 0.97,
+   "note_time": 101.35
+  },
+  {
+   "text": "lot",
+   "time": 102.52,
+   "weight": 0.35,
+   "note_time": 102.31
+  },
+  {
+   "text": "fell",
+   "time": 102.82,
+   "weight": 0.97,
+   "note_time": 103.08
+  },
+  {
+   "text": "not",
+   "time": 103.5,
+   "weight": 0.97,
+   "note_time": 103.85
+  },
+  {
+   "text": "on",
+   "time": 104.26,
+   "weight": 1.0,
+   "note_time": 104.23
+  },
+  {
+   "text": "Jus",
+   "time": 105.08,
+   "weight": 1.0,
+   "note_time": 104.42
+  },
+  {
+   "text": "tus",
+   "time": 105.32,
+   "weight": 1.0,
+   "note_time": 104.62
+  },
+  {
+   "text": "But",
+   "time": 105.56,
+   "weight": 0.06,
+   "note_time": 107.31
+  },
+  {
+   "text": "the",
+   "time": 107.98,
+   "weight": 0.99,
+   "note_time": 107.5
+  },
+  {
+   "text": "wit",
+   "time": 108.6,
+   "weight": 0.96,
+   "note_time": 107.69
+  },
+  {
+   "text": "ness",
+   "time": 108.86,
+   "weight": 0.96,
+   "note_time": 108.08
+  },
+  {
+   "text": "role",
+   "time": 109.12,
+   "weight": 0.48,
+   "note_time": 108.85
+  },
+  {
+   "text": "was",
+   "time": 110.08,
+   "weight": 0.98,
+   "note_time": 110.0
+  },
+  {
+   "text": "marked",
+   "time": 111.24,
+   "weight": 0.72,
+   "note_time": 110.38
+  },
+  {
+   "text": "Matthias",
+   "time": 114.7,
+   "weight": 0.57,
+   "note_time": 114.62
+  },
+  {
+   "text": "took",
+   "time": 116.1,
+   "weight": 0.99,
+   "note_time": 115.38
+  },
+  {
+   "text": "the",
+   "time": 116.48,
+   "weight": 0.99,
+   "note_time": 115.77
+  },
+  {
+   "text": "twelfth",
+   "time": 116.9,
+   "weight": 0.81,
+   "note_time": 115.96
+  },
+  {
+   "text": "seat",
+   "time": 117.44,
+   "weight": 0.97,
+   "note_time": 116.54
+  },
+  {
+   "text": "Jus",
+   "time": 120.1,
+   "weight": 0.7,
+   "note_time": 120.38
+  },
+  {
+   "text": "tus",
+   "time": 120.45,
+   "weight": 0.7,
+   "note_time": 120.77
+  },
+  {
+   "text": "re",
+   "time": 121.5,
+   "weight": 0.99,
+   "note_time": 121.35
+  },
+  {
+   "text": "mained",
+   "time": 121.85,
+   "weight": 0.99,
+   "note_time": 121.92
+  },
+  {
+   "text": "in",
+   "time": 122.38,
+   "weight": 1.0,
+   "note_time": 122.31
+  },
+  {
+   "text": "faith",
+   "time": 123.16,
+   "weight": 0.98,
+   "note_time": 122.69
+  },
+  {
+   "text": "ful",
+   "time": 123.38,
+   "weight": 0.98,
+   "note_time": 122.88
+  },
+  {
+   "text": "love",
+   "time": 123.6,
+   "weight": 1.0,
+   "note_time": 123.08
+  },
+  {
+   "text": "The",
+   "time": 126.38,
+   "weight": 0.85,
+   "note_time": 126.73
+  },
+  {
+   "text": "mi",
+   "time": 127.78,
+   "weight": 0.98,
+   "note_time": 126.92
+  },
+  {
+   "text": "nis",
+   "time": 127.99,
+   "weight": 0.98,
+   "note_time": 127.12
+  },
+  {
+   "text": "try",
+   "time": 128.19,
+   "weight": 0.98,
+   "note_time": 127.31
+  },
+  {
+   "text": "con",
+   "time": 128.4,
+   "weight": 1.0,
+   "note_time": 128.08
+  },
+  {
+   "text": "tin",
+   "time": 128.71,
+   "weight": 1.0,
+   "note_time": 128.27
+  },
+  {
+   "text": "ued",
+   "time": 129.01,
+   "weight": 1.0,
+   "note_time": 128.65
+  },
+  {
+   "text": "on",
+   "time": 129.32,
+   "weight": 1.0,
+   "note_time": 128.85
+  },
+  {
+   "text": "Wit",
+   "time": 133.44,
+   "weight": 0.87,
+   "note_time": 132.31
+  },
+  {
+   "text": "ness",
+   "time": 133.79,
+   "weight": 0.87,
+   "note_time": 132.69
+  },
+  {
+   "text": "ing",
+   "time": 134.13,
+   "weight": 0.87,
+   "note_time": 132.88
+  },
+  {
+   "text": "the",
+   "time": 134.48,
+   "weight": 1.0,
+   "note_time": 133.46
+  },
+  {
+   "text": "words",
+   "time": 134.56,
+   "weight": 0.92,
+   "note_time": 133.65
+  },
+  {
+   "text": "of",
+   "time": 135.08,
+   "weight": 1.0,
+   "note_time": 134.23
+  },
+  {
+   "text": "God",
+   "time": 135.46,
+   "weight": 1.0,
+   "note_time": 134.42
+  },
+  {
+   "text": "a",
+   "time": 135.76,
+   "weight": 1.0,
+   "note_time": 135.0
+  },
+  {
+   "text": "bove",
+   "time": 136.11,
+   "weight": 1.0,
+   "note_time": 135.19
+  },
+  {
+   "text": "One",
+   "time": 138.6,
+   "weight": 0.91,
+   "note_time": 138.46
+  },
+  {
+   "text": "of",
+   "time": 139.64,
+   "weight": 1.0,
+   "note_time": 138.85
+  },
+  {
+   "text": "these",
+   "time": 140.06,
+   "weight": 1.0,
+   "note_time": 139.04
+  },
+  {
+   "text": "must",
+   "time": 140.32,
+   "weight": 0.99,
+   "note_time": 140.0
+  },
+  {
+   "text": "be",
+   "time": 141.1,
+   "weight": 0.99,
+   "note_time": 140.38
+  },
+  {
+   "text": "come",
+   "time": 141.42,
+   "weight": 0.99,
+   "note_time": 140.58
+  },
+  {
+   "text": "a",
+   "time": 141.74,
+   "weight": 0.99,
+   "note_time": 141.15
+  },
+  {
+   "text": "wit",
+   "time": 142.3,
+   "weight": 1.0,
+   "note_time": 141.35
+  },
+  {
+   "text": "ness",
+   "time": 142.53,
+   "weight": 1.0,
+   "note_time": 141.73
+  },
+  {
+   "text": "Of",
+   "time": 144.38,
+   "weight": 0.72,
+   "note_time": 144.23
+  },
+  {
+   "text": "the",
+   "time": 145.42,
+   "weight": 0.99,
+   "note_time": 144.42
+  },
+  {
+   "text": "res",
+   "time": 145.52,
+   "weight": 0.98,
+   "note_time": 144.62
+  },
+  {
+   "text": "ur",
+   "time": 145.74,
+   "weight": 0.98,
+   "note_time": 145.0
+  },
+  {
+   "text": "rec",
+   "time": 145.95,
+   "weight": 0.98,
+   "note_time": 145.19
+  },
+  {
+   "text": "tion",
+   "time": 146.17,
+   "weight": 0.98,
+   "note_time": 145.58
+  },
+  {
+   "text": "and",
+   "time": 146.38,
+   "weight": 0.22,
+   "note_time": 149.62
+  },
+  {
+   "text": "the",
+   "time": 150.84,
+   "weight": 1.0,
+   "note_time": 150.0
+  },
+  {
+   "text": "truth",
+   "time": 151.14,
+   "weight": 0.98,
+   "note_time": 150.38
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 22 lyric lines sit on their notes."
+}

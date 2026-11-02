@@ -1,0 +1,880 @@
+{
+ "id": "story-den-tapte-mynten-salsa",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-den-tapte-mynten-salsa",
+ "offset_seconds": -9.020000000000064,
+ "words_heard": 104,
+ "words": 105,
+ "lines": [
+  {
+   "text": "A woman had ten silver coins",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.65,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And one of them was lost",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.54,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "She lit a lamp and swept the house",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.99,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "She searched at any cost",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.46,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Rejoice with me, rejoice with me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For I have found the coin I lost",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There is joy before the angels of God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Over one who turns back home",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And when she found it, she called her friends",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Her neighbors gathered round",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come, celebrate with me tonight",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.37,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The lost coin has been found",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Rejoice with me, rejoice with me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For I have found the coin I lost",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "There is joy before the angels of God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Over one who turns back home",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": true,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "A",
+   "time": 29.38,
+   "weight": 0.79,
+   "note_time": 28.55
+  },
+  {
+   "text": "wom",
+   "time": 30.54,
+   "weight": 0.84,
+   "note_time": 28.71
+  },
+  {
+   "text": "an",
+   "time": 30.76,
+   "weight": 0.84,
+   "note_time": 28.87
+  },
+  {
+   "text": "had",
+   "time": 30.98,
+   "weight": 0.99,
+   "note_time": 29.19
+  },
+  {
+   "text": "ten",
+   "time": 31.36,
+   "weight": 0.91,
+   "note_time": 30.0
+  },
+  {
+   "text": "sil",
+   "time": 31.62,
+   "weight": 1.0,
+   "note_time": 30.32
+  },
+  {
+   "text": "ver",
+   "time": 31.97,
+   "weight": 1.0,
+   "note_time": 33.87
+  },
+  {
+   "text": "coins",
+   "time": 32.52,
+   "weight": 0.97,
+   "note_time": 34.03
+  },
+  {
+   "text": "And",
+   "time": 33.3,
+   "weight": 0.26,
+   "note_time": 34.35
+  },
+  {
+   "text": "one",
+   "time": 35.32,
+   "weight": 1.0,
+   "note_time": 34.68
+  },
+  {
+   "text": "of",
+   "time": 36.6,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "them",
+   "time": 36.86,
+   "weight": 1.0,
+   "note_time": 35.32
+  },
+  {
+   "text": "was",
+   "time": 37.14,
+   "weight": 0.99,
+   "note_time": 35.65
+  },
+  {
+   "text": "lost",
+   "time": 37.86,
+   "weight": 1.0,
+   "note_time": 35.81
+  },
+  {
+   "text": "She",
+   "time": 40.34,
+   "weight": 0.25,
+   "note_time": 38.87
+  },
+  {
+   "text": "lit",
+   "time": 41.34,
+   "weight": 0.95,
+   "note_time": 39.35
+  },
+  {
+   "text": "a",
+   "time": 41.64,
+   "weight": 0.97,
+   "note_time": 39.52
+  },
+  {
+   "text": "lamp",
+   "time": 41.84,
+   "weight": 0.99,
+   "note_time": 39.68
+  },
+  {
+   "text": "and",
+   "time": 42.3,
+   "weight": 0.97,
+   "note_time": 40.32
+  },
+  {
+   "text": "swept",
+   "time": 42.52,
+   "weight": 1.0,
+   "note_time": 40.65
+  },
+  {
+   "text": "the",
+   "time": 42.76,
+   "weight": 1.0,
+   "note_time": 40.81
+  },
+  {
+   "text": "house",
+   "time": 43.12,
+   "weight": 0.99,
+   "note_time": 40.97
+  },
+  {
+   "text": "She",
+   "time": 43.6,
+   "weight": 0.25,
+   "note_time": 44.19
+  },
+  {
+   "text": "searched",
+   "time": 46.3,
+   "weight": 0.99,
+   "note_time": 44.84
+  },
+  {
+   "text": "at",
+   "time": 46.92,
+   "weight": 0.98,
+   "note_time": 45.48
+  },
+  {
+   "text": "a",
+   "time": 47.14,
+   "weight": 0.99,
+   "note_time": 45.81
+  },
+  {
+   "text": "ny",
+   "time": 47.46,
+   "weight": 0.99,
+   "note_time": 49.35
+  },
+  {
+   "text": "cost",
+   "time": 47.78,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "Re",
+   "time": 51.92,
+   "weight": 0.97,
+   "note_time": 50.65
+  },
+  {
+   "text": "joice",
+   "time": 52.27,
+   "weight": 0.97,
+   "note_time": 50.97
+  },
+  {
+   "text": "with",
+   "time": 52.92,
+   "weight": 0.99,
+   "note_time": 55.16
+  },
+  {
+   "text": "me,",
+   "time": 53.2,
+   "weight": 0.97,
+   "note_time": 55.65
+  },
+  {
+   "text": "re",
+   "time": 53.98,
+   "weight": 0.36,
+   "note_time": 56.13
+  },
+  {
+   "text": "joice",
+   "time": 54.33,
+   "weight": 0.36,
+   "note_time": 57.1
+  },
+  {
+   "text": "with",
+   "time": 57.08,
+   "weight": 1.0,
+   "note_time": 57.42
+  },
+  {
+   "text": "me",
+   "time": 58.24,
+   "weight": 1.0,
+   "note_time": 58.39
+  },
+  {
+   "text": "For",
+   "time": 58.94,
+   "weight": 0.38,
+   "note_time": 60.65
+  },
+  {
+   "text": "I",
+   "time": 62.46,
+   "weight": 0.98,
+   "note_time": 62.58
+  },
+  {
+   "text": "have",
+   "time": 62.78,
+   "weight": 0.99,
+   "note_time": 62.9
+  },
+  {
+   "text": "found",
+   "time": 63.24,
+   "weight": 1.0,
+   "note_time": 63.23
+  },
+  {
+   "text": "the",
+   "time": 63.9,
+   "weight": 0.97,
+   "note_time": 63.55
+  },
+  {
+   "text": "coin",
+   "time": 64.62,
+   "weight": 0.99,
+   "note_time": 63.87
+  },
+  {
+   "text": "I",
+   "time": 65.08,
+   "weight": 0.99,
+   "note_time": 64.03
+  },
+  {
+   "text": "lost",
+   "time": 65.96,
+   "weight": 1.0,
+   "note_time": 64.19
+  },
+  {
+   "text": "There",
+   "time": 66.48,
+   "weight": 0.11,
+   "note_time": 65.81
+  },
+  {
+   "text": "is",
+   "time": 67.98,
+   "weight": 0.94,
+   "note_time": 66.77
+  },
+  {
+   "text": "joy",
+   "time": 68.52,
+   "weight": 0.97,
+   "note_time": 68.71
+  },
+  {
+   "text": "be",
+   "time": 68.92,
+   "weight": 0.98,
+   "note_time": 68.87
+  },
+  {
+   "text": "fore",
+   "time": 69.26,
+   "weight": 0.98,
+   "note_time": 69.03
+  },
+  {
+   "text": "the",
+   "time": 69.6,
+   "weight": 0.99,
+   "note_time": 69.19
+  },
+  {
+   "text": "an",
+   "time": 70.04,
+   "weight": 0.89,
+   "note_time": 69.35
+  },
+  {
+   "text": "gels",
+   "time": 70.37,
+   "weight": 0.89,
+   "note_time": 70.97
+  },
+  {
+   "text": "of",
+   "time": 70.7,
+   "weight": 0.99,
+   "note_time": 71.29
+  },
+  {
+   "text": "God",
+   "time": 71.1,
+   "weight": 0.96,
+   "note_time": 72.26
+  },
+  {
+   "text": "O",
+   "time": 71.54,
+   "weight": 0.19,
+   "note_time": 72.58
+  },
+  {
+   "text": "ver",
+   "time": 71.89,
+   "weight": 0.19,
+   "note_time": 72.74
+  },
+  {
+   "text": "one",
+   "time": 73.52,
+   "weight": 0.98,
+   "note_time": 72.9
+  },
+  {
+   "text": "who",
+   "time": 74.2,
+   "weight": 0.35,
+   "note_time": 77.74
+  },
+  {
+   "text": "turns",
+   "time": 78.02,
+   "weight": 0.99,
+   "note_time": 78.06
+  },
+  {
+   "text": "back",
+   "time": 78.82,
+   "weight": 1.0,
+   "note_time": 78.23
+  },
+  {
+   "text": "home",
+   "time": 79.66,
+   "weight": 1.0,
+   "note_time": 78.71
+  },
+  {
+   "text": "And",
+   "time": 83.58,
+   "weight": 0.84,
+   "note_time": 84.03
+  },
+  {
+   "text": "when",
+   "time": 84.9,
+   "weight": 1.0,
+   "note_time": 84.19
+  },
+  {
+   "text": "she",
+   "time": 85.08,
+   "weight": 1.0,
+   "note_time": 84.52
+  },
+  {
+   "text": "found",
+   "time": 85.24,
+   "weight": 0.99,
+   "note_time": 84.68
+  },
+  {
+   "text": "it,",
+   "time": 85.75,
+   "weight": 0.0,
+   "note_time": 84.84
+  },
+  {
+   "text": "she",
+   "time": 86.26,
+   "weight": 0.98,
+   "note_time": 85.48
+  },
+  {
+   "text": "called",
+   "time": 87.36,
+   "weight": 0.99,
+   "note_time": 85.81
+  },
+  {
+   "text": "her",
+   "time": 87.78,
+   "weight": 1.0,
+   "note_time": 89.52
+  },
+  {
+   "text": "friends",
+   "time": 88.02,
+   "weight": 0.99,
+   "note_time": 89.68
+  },
+  {
+   "text": "Her",
+   "time": 88.68,
+   "weight": 0.37,
+   "note_time": 90.48
+  },
+  {
+   "text": "neigh",
+   "time": 91.22,
+   "weight": 0.78,
+   "note_time": 90.81
+  },
+  {
+   "text": "bors",
+   "time": 91.45,
+   "weight": 0.78,
+   "note_time": 91.13
+  },
+  {
+   "text": "gath",
+   "time": 91.68,
+   "weight": 0.99,
+   "note_time": 91.29
+  },
+  {
+   "text": "ered",
+   "time": 92.03,
+   "weight": 0.99,
+   "note_time": 92.1
+  },
+  {
+   "text": "round",
+   "time": 92.5,
+   "weight": 0.6,
+   "note_time": 92.26
+  },
+  {
+   "text": "Come,",
+   "time": 95.04,
+   "weight": 0.19,
+   "note_time": 94.35
+  },
+  {
+   "text": "cel",
+   "time": 96.12,
+   "weight": 0.96,
+   "note_time": 94.52
+  },
+  {
+   "text": "e",
+   "time": 96.39,
+   "weight": 0.96,
+   "note_time": 94.84
+  },
+  {
+   "text": "brate",
+   "time": 96.65,
+   "weight": 0.96,
+   "note_time": 95.16
+  },
+  {
+   "text": "with",
+   "time": 96.92,
+   "weight": 0.98,
+   "note_time": 95.81
+  },
+  {
+   "text": "me",
+   "time": 97.46,
+   "weight": 1.0,
+   "note_time": 96.13
+  },
+  {
+   "text": "to",
+   "time": 97.66,
+   "weight": 0.98,
+   "note_time": 96.29
+  },
+  {
+   "text": "night",
+   "time": 97.95,
+   "weight": 0.98,
+   "note_time": 97.74
+  },
+  {
+   "text": "The",
+   "time": 100.22,
+   "weight": 0.68,
+   "note_time": 99.68
+  },
+  {
+   "text": "lost",
+   "time": 101.3,
+   "weight": 0.84,
+   "note_time": 100.32
+  },
+  {
+   "text": "coin",
+   "time": 101.74,
+   "weight": 0.9,
+   "note_time": 100.97
+  },
+  {
+   "text": "has",
+   "time": 102.02,
+   "weight": 1.0,
+   "note_time": 101.29
+  },
+  {
+   "text": "been",
+   "time": 102.34,
+   "weight": 1.0,
+   "note_time": 104.84
+  },
+  {
+   "text": "found",
+   "time": 102.94,
+   "weight": 1.0,
+   "note_time": 105.48
+  },
+  {
+   "text": "Re",
+   "time": 106.72,
+   "weight": 0.99,
+   "note_time": 106.13
+  },
+  {
+   "text": "joice",
+   "time": 107.07,
+   "weight": 0.99,
+   "note_time": 106.45
+  },
+  {
+   "text": "with",
+   "time": 107.8,
+   "weight": 1.0,
+   "note_time": 110.65
+  },
+  {
+   "text": "me,",
+   "time": 108.06,
+   "weight": 1.0,
+   "note_time": 111.13
+  },
+  {
+   "text": "re",
+   "time": 111.76,
+   "weight": 0.94,
+   "note_time": 111.61
+  },
+  {
+   "text": "joice",
+   "time": 112.11,
+   "weight": 0.94,
+   "note_time": 112.58
+  },
+  {
+   "text": "with",
+   "time": 112.84,
+   "weight": 1.0,
+   "note_time": 112.9
+  },
+  {
+   "text": "me",
+   "time": 113.16,
+   "weight": 1.0,
+   "note_time": 113.87
+  },
+  {
+   "text": "For",
+   "time": 116.22,
+   "weight": 0.98,
+   "note_time": 116.13
+  },
+  {
+   "text": "I",
+   "time": 117.3,
+   "weight": 0.99,
+   "note_time": 117.42
+  },
+  {
+   "text": "have",
+   "time": 117.68,
+   "weight": 0.99,
+   "note_time": 117.74
+  },
+  {
+   "text": "found",
+   "time": 118.14,
+   "weight": 1.0,
+   "note_time": 118.06
+  },
+  {
+   "text": "the",
+   "time": 118.8,
+   "weight": 0.96,
+   "note_time": 118.39
+  },
+  {
+   "text": "coin",
+   "time": 119.52,
+   "weight": 0.97,
+   "note_time": 118.71
+  },
+  {
+   "text": "I",
+   "time": 120.04,
+   "weight": 0.99,
+   "note_time": 119.03
+  },
+  {
+   "text": "lost",
+   "time": 120.84,
+   "weight": 1.0,
+   "note_time": 119.35
+  },
+  {
+   "text": "There",
+   "time": 121.36,
+   "weight": 0.32,
+   "note_time": 121.29
+  },
+  {
+   "text": "is",
+   "time": 122.98,
+   "weight": 0.99,
+   "note_time": 121.61
+  },
+  {
+   "text": "joy",
+   "time": 123.4,
+   "weight": 0.98,
+   "note_time": 121.94
+  },
+  {
+   "text": "be",
+   "time": 123.78,
+   "weight": 0.98,
+   "note_time": 122.1
+  },
+  {
+   "text": "fore",
+   "time": 124.1,
+   "weight": 0.98,
+   "note_time": 122.26
+  },
+  {
+   "text": "the",
+   "time": 124.42,
+   "weight": 0.99,
+   "note_time": 124.19
+  },
+  {
+   "text": "an",
+   "time": 124.88,
+   "weight": 0.94,
+   "note_time": 124.35
+  },
+  {
+   "text": "gels",
+   "time": 125.22,
+   "weight": 0.94,
+   "note_time": 124.52
+  },
+  {
+   "text": "of",
+   "time": 125.56,
+   "weight": 0.97,
+   "note_time": 124.68
+  },
+  {
+   "text": "God",
+   "time": 126.0,
+   "weight": 0.97,
+   "note_time": 124.84
+  },
+  {
+   "text": "O",
+   "time": 127.36,
+   "weight": 0.59,
+   "note_time": 127.42
+  },
+  {
+   "text": "ver",
+   "time": 127.71,
+   "weight": 0.59,
+   "note_time": 128.06
+  },
+  {
+   "text": "one",
+   "time": 128.36,
+   "weight": 0.71,
+   "note_time": 129.03
+  },
+  {
+   "text": "who",
+   "time": 128.96,
+   "weight": 0.28,
+   "note_time": 129.35
+  },
+  {
+   "text": "turns",
+   "time": 132.98,
+   "weight": 0.4,
+   "note_time": 129.68
+  },
+  {
+   "text": "back",
+   "time": 135.0,
+   "weight": 1.0,
+   "note_time": 132.58
+  },
+  {
+   "text": "home",
+   "time": 135.8,
+   "weight": 0.89,
+   "note_time": 133.87
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 16 lyric lines sit clearly on their notes; 7 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,1286 @@
+{
+ "id": "story-jona-flykter-fra-gud-shanty",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-jona-flykter-fra-gud-shanty",
+ "offset_seconds": -2.6000000000002004,
+ "words_heard": 159,
+ "words": 161,
+ "lines": [
+  {
+   "text": "We sailed from Joppa bound for Tarshish",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A stranger slept down in the hold",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord hurled a great wind on the sea",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The ship was ready to break apart",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Pick me up and throw me in the sea",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the sea will quiet down for thee",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For I know it is because of me",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This great storm has come upon thee",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We cast the lots and they fell on him",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I fear the Lord who made the sea",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We rowed hard but we could not land",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So we threw him in and the sea was calm",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heave away, my boys",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Pick me up and throw me in the sea",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the sea will quiet down for thee",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For I know it is because of me",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This great storm has come upon thee",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "We",
+   "time": 16.68,
+   "weight": 0.41,
+   "note_time": 17.75
+  },
+  {
+   "text": "sailed",
+   "time": 17.82,
+   "weight": 0.96,
+   "note_time": 18.0
+  },
+  {
+   "text": "from",
+   "time": 18.96,
+   "weight": 0.99,
+   "note_time": 19.0
+  },
+  {
+   "text": "Jop",
+   "time": 19.3,
+   "weight": 0.82,
+   "note_time": 19.25
+  },
+  {
+   "text": "pa",
+   "time": 19.65,
+   "weight": 0.82,
+   "note_time": 19.5
+  },
+  {
+   "text": "bound",
+   "time": 20.0,
+   "weight": 0.79,
+   "note_time": 20.0
+  },
+  {
+   "text": "for",
+   "time": 20.36,
+   "weight": 0.99,
+   "note_time": 20.25
+  },
+  {
+   "text": "Tar",
+   "time": 20.78,
+   "weight": 0.99,
+   "note_time": 20.5
+  },
+  {
+   "text": "shish",
+   "time": 21.13,
+   "weight": 0.99,
+   "note_time": 21.0
+  },
+  {
+   "text": "Heave",
+   "time": 21.98,
+   "weight": 0.92,
+   "note_time": 22.0
+  },
+  {
+   "text": "a",
+   "time": 23.2,
+   "weight": 0.98,
+   "note_time": 23.0
+  },
+  {
+   "text": "way,",
+   "time": 23.46,
+   "weight": 0.98,
+   "note_time": 23.25
+  },
+  {
+   "text": "my",
+   "time": 23.84,
+   "weight": 0.99,
+   "note_time": 23.5
+  },
+  {
+   "text": "boys",
+   "time": 24.3,
+   "weight": 0.88,
+   "note_time": 24.0
+  },
+  {
+   "text": "A",
+   "time": 25.16,
+   "weight": 0.81,
+   "note_time": 25.75
+  },
+  {
+   "text": "s",
+   "time": 26.46,
+   "weight": 1.0,
+   "note_time": 26.0
+  },
+  {
+   "text": "tranger",
+   "time": 26.77,
+   "weight": 1.0,
+   "note_time": 26.5
+  },
+  {
+   "text": "slept",
+   "time": 27.08,
+   "weight": 0.96,
+   "note_time": 27.0
+  },
+  {
+   "text": "down",
+   "time": 27.72,
+   "weight": 1.0,
+   "note_time": 27.5
+  },
+  {
+   "text": "in",
+   "time": 28.36,
+   "weight": 1.0,
+   "note_time": 28.0
+  },
+  {
+   "text": "the",
+   "time": 28.84,
+   "weight": 0.99,
+   "note_time": 28.25
+  },
+  {
+   "text": "hold",
+   "time": 29.24,
+   "weight": 0.87,
+   "note_time": 28.5
+  },
+  {
+   "text": "Heave",
+   "time": 29.98,
+   "weight": 0.97,
+   "note_time": 30.0
+  },
+  {
+   "text": "a",
+   "time": 31.2,
+   "weight": 1.0,
+   "note_time": 31.0
+  },
+  {
+   "text": "way,",
+   "time": 31.45,
+   "weight": 1.0,
+   "note_time": 31.25
+  },
+  {
+   "text": "my",
+   "time": 31.92,
+   "weight": 1.0,
+   "note_time": 31.5
+  },
+  {
+   "text": "boys",
+   "time": 32.26,
+   "weight": 0.98,
+   "note_time": 32.0
+  },
+  {
+   "text": "The",
+   "time": 34.08,
+   "weight": 0.88,
+   "note_time": 33.75
+  },
+  {
+   "text": "Lord",
+   "time": 34.46,
+   "weight": 0.88,
+   "note_time": 34.5
+  },
+  {
+   "text": "hurled",
+   "time": 34.92,
+   "weight": 0.0,
+   "note_time": 34.75
+  },
+  {
+   "text": "a",
+   "time": 35.38,
+   "weight": 0.99,
+   "note_time": 35.0
+  },
+  {
+   "text": "great",
+   "time": 35.6,
+   "weight": 1.0,
+   "note_time": 35.5
+  },
+  {
+   "text": "wind",
+   "time": 35.88,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "on",
+   "time": 36.36,
+   "weight": 1.0,
+   "note_time": 36.25
+  },
+  {
+   "text": "the",
+   "time": 36.88,
+   "weight": 1.0,
+   "note_time": 36.5
+  },
+  {
+   "text": "sea",
+   "time": 37.24,
+   "weight": 0.99,
+   "note_time": 37.0
+  },
+  {
+   "text": "Heave",
+   "time": 38.1,
+   "weight": 0.96,
+   "note_time": 38.0
+  },
+  {
+   "text": "a",
+   "time": 39.34,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "way,",
+   "time": 39.53,
+   "weight": 1.0,
+   "note_time": 39.25
+  },
+  {
+   "text": "my",
+   "time": 39.72,
+   "weight": 0.87,
+   "note_time": 39.5
+  },
+  {
+   "text": "boys",
+   "time": 40.24,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "The",
+   "time": 42.16,
+   "weight": 1.0,
+   "note_time": 41.75
+  },
+  {
+   "text": "ship",
+   "time": 42.48,
+   "weight": 1.0,
+   "note_time": 42.5
+  },
+  {
+   "text": "was",
+   "time": 42.82,
+   "weight": 1.0,
+   "note_time": 43.0
+  },
+  {
+   "text": "rea",
+   "time": 43.32,
+   "weight": 1.0,
+   "note_time": 43.25
+  },
+  {
+   "text": "dy",
+   "time": 43.64,
+   "weight": 1.0,
+   "note_time": 43.5
+  },
+  {
+   "text": "to",
+   "time": 43.96,
+   "weight": 1.0,
+   "note_time": 44.0
+  },
+  {
+   "text": "break",
+   "time": 44.26,
+   "weight": 1.0,
+   "note_time": 44.25
+  },
+  {
+   "text": "a",
+   "time": 44.92,
+   "weight": 1.0,
+   "note_time": 44.5
+  },
+  {
+   "text": "part",
+   "time": 45.27,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "Heave",
+   "time": 46.2,
+   "weight": 1.0,
+   "note_time": 46.0
+  },
+  {
+   "text": "a",
+   "time": 47.1,
+   "weight": 1.0,
+   "note_time": 47.0
+  },
+  {
+   "text": "way,",
+   "time": 47.42,
+   "weight": 1.0,
+   "note_time": 47.25
+  },
+  {
+   "text": "my",
+   "time": 47.74,
+   "weight": 1.0,
+   "note_time": 47.5
+  },
+  {
+   "text": "boys",
+   "time": 48.22,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "Pick",
+   "time": 50.22,
+   "weight": 0.99,
+   "note_time": 50.0
+  },
+  {
+   "text": "me",
+   "time": 50.88,
+   "weight": 1.0,
+   "note_time": 51.0
+  },
+  {
+   "text": "up",
+   "time": 51.26,
+   "weight": 1.0,
+   "note_time": 51.5
+  },
+  {
+   "text": "and",
+   "time": 51.9,
+   "weight": 0.98,
+   "note_time": 52.0
+  },
+  {
+   "text": "throw",
+   "time": 52.24,
+   "weight": 1.0,
+   "note_time": 52.25
+  },
+  {
+   "text": "me",
+   "time": 52.78,
+   "weight": 1.0,
+   "note_time": 52.5
+  },
+  {
+   "text": "in",
+   "time": 53.02,
+   "weight": 1.0,
+   "note_time": 52.75
+  },
+  {
+   "text": "the",
+   "time": 53.32,
+   "weight": 1.0,
+   "note_time": 53.0
+  },
+  {
+   "text": "sea",
+   "time": 53.48,
+   "weight": 1.0,
+   "note_time": 53.5
+  },
+  {
+   "text": "And",
+   "time": 53.98,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "the",
+   "time": 54.36,
+   "weight": 1.0,
+   "note_time": 54.5
+  },
+  {
+   "text": "sea",
+   "time": 54.5,
+   "weight": 1.0,
+   "note_time": 55.0
+  },
+  {
+   "text": "will",
+   "time": 55.34,
+   "weight": 0.26,
+   "note_time": 55.25
+  },
+  {
+   "text": "qui",
+   "time": 55.34,
+   "weight": 0.93,
+   "note_time": 55.5
+  },
+  {
+   "text": "et",
+   "time": 55.57,
+   "weight": 0.93,
+   "note_time": 56.0
+  },
+  {
+   "text": "down",
+   "time": 55.8,
+   "weight": 1.0,
+   "note_time": 56.25
+  },
+  {
+   "text": "for",
+   "time": 56.74,
+   "weight": 1.0,
+   "note_time": 56.5
+  },
+  {
+   "text": "thee",
+   "time": 57.26,
+   "weight": 0.82,
+   "note_time": 56.75
+  },
+  {
+   "text": "For",
+   "time": 58.04,
+   "weight": 0.77,
+   "note_time": 58.0
+  },
+  {
+   "text": "I",
+   "time": 58.7,
+   "weight": 1.0,
+   "note_time": 58.5
+  },
+  {
+   "text": "know",
+   "time": 59.32,
+   "weight": 1.0,
+   "note_time": 59.25
+  },
+  {
+   "text": "it",
+   "time": 59.88,
+   "weight": 1.0,
+   "note_time": 59.5
+  },
+  {
+   "text": "is",
+   "time": 60.38,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "be",
+   "time": 60.86,
+   "weight": 1.0,
+   "note_time": 60.25
+  },
+  {
+   "text": "cause",
+   "time": 61.03,
+   "weight": 1.0,
+   "note_time": 60.5
+  },
+  {
+   "text": "of",
+   "time": 61.2,
+   "weight": 1.0,
+   "note_time": 60.75
+  },
+  {
+   "text": "me",
+   "time": 61.62,
+   "weight": 0.99,
+   "note_time": 61.0
+  },
+  {
+   "text": "This",
+   "time": 62.02,
+   "weight": 1.0,
+   "note_time": 62.0
+  },
+  {
+   "text": "great",
+   "time": 62.74,
+   "weight": 1.0,
+   "note_time": 62.5
+  },
+  {
+   "text": "storm",
+   "time": 63.3,
+   "weight": 1.0,
+   "note_time": 63.25
+  },
+  {
+   "text": "has",
+   "time": 63.86,
+   "weight": 1.0,
+   "note_time": 64.0
+  },
+  {
+   "text": "come",
+   "time": 64.32,
+   "weight": 1.0,
+   "note_time": 64.25
+  },
+  {
+   "text": "up",
+   "time": 64.78,
+   "weight": 1.0,
+   "note_time": 64.5
+  },
+  {
+   "text": "on",
+   "time": 64.98,
+   "weight": 1.0,
+   "note_time": 64.75
+  },
+  {
+   "text": "thee",
+   "time": 65.18,
+   "weight": 0.99,
+   "note_time": 65.0
+  },
+  {
+   "text": "We",
+   "time": 73.48,
+   "weight": 0.85,
+   "note_time": 73.75
+  },
+  {
+   "text": "cast",
+   "time": 74.48,
+   "weight": 0.99,
+   "note_time": 74.0
+  },
+  {
+   "text": "the",
+   "time": 74.84,
+   "weight": 0.99,
+   "note_time": 74.5
+  },
+  {
+   "text": "lots",
+   "time": 75.26,
+   "weight": 0.67,
+   "note_time": 75.0
+  },
+  {
+   "text": "and",
+   "time": 75.94,
+   "weight": 0.94,
+   "note_time": 75.5
+  },
+  {
+   "text": "they",
+   "time": 76.26,
+   "weight": 1.0,
+   "note_time": 76.0
+  },
+  {
+   "text": "fell",
+   "time": 76.76,
+   "weight": 1.0,
+   "note_time": 76.25
+  },
+  {
+   "text": "on",
+   "time": 77.08,
+   "weight": 1.0,
+   "note_time": 76.5
+  },
+  {
+   "text": "him",
+   "time": 77.42,
+   "weight": 0.89,
+   "note_time": 77.0
+  },
+  {
+   "text": "Heave",
+   "time": 77.86,
+   "weight": 0.92,
+   "note_time": 78.0
+  },
+  {
+   "text": "a",
+   "time": 79.24,
+   "weight": 0.99,
+   "note_time": 78.75
+  },
+  {
+   "text": "way,",
+   "time": 79.47,
+   "weight": 0.99,
+   "note_time": 79.0
+  },
+  {
+   "text": "my",
+   "time": 79.7,
+   "weight": 0.64,
+   "note_time": 79.25
+  },
+  {
+   "text": "boys",
+   "time": 80.26,
+   "weight": 0.99,
+   "note_time": 79.5
+  },
+  {
+   "text": "I",
+   "time": 81.94,
+   "weight": 0.9,
+   "note_time": 81.75
+  },
+  {
+   "text": "fear",
+   "time": 82.44,
+   "weight": 0.94,
+   "note_time": 82.5
+  },
+  {
+   "text": "the",
+   "time": 82.82,
+   "weight": 1.0,
+   "note_time": 83.0
+  },
+  {
+   "text": "Lord",
+   "time": 83.26,
+   "weight": 0.91,
+   "note_time": 83.25
+  },
+  {
+   "text": "who",
+   "time": 83.88,
+   "weight": 0.97,
+   "note_time": 84.0
+  },
+  {
+   "text": "made",
+   "time": 84.32,
+   "weight": 0.99,
+   "note_time": 84.25
+  },
+  {
+   "text": "the",
+   "time": 84.82,
+   "weight": 0.98,
+   "note_time": 84.5
+  },
+  {
+   "text": "sea",
+   "time": 85.26,
+   "weight": 1.0,
+   "note_time": 85.0
+  },
+  {
+   "text": "Heave",
+   "time": 85.82,
+   "weight": 1.0,
+   "note_time": 86.0
+  },
+  {
+   "text": "a",
+   "time": 87.24,
+   "weight": 1.0,
+   "note_time": 87.0
+  },
+  {
+   "text": "way,",
+   "time": 87.49,
+   "weight": 1.0,
+   "note_time": 87.25
+  },
+  {
+   "text": "my",
+   "time": 87.74,
+   "weight": 1.0,
+   "note_time": 87.5
+  },
+  {
+   "text": "boys",
+   "time": 88.26,
+   "weight": 1.0,
+   "note_time": 88.0
+  },
+  {
+   "text": "We",
+   "time": 90.2,
+   "weight": 0.98,
+   "note_time": 90.0
+  },
+  {
+   "text": "rowed",
+   "time": 90.84,
+   "weight": 0.79,
+   "note_time": 91.0
+  },
+  {
+   "text": "hard",
+   "time": 91.32,
+   "weight": 1.0,
+   "note_time": 91.25
+  },
+  {
+   "text": "but",
+   "time": 91.86,
+   "weight": 0.98,
+   "note_time": 91.75
+  },
+  {
+   "text": "we",
+   "time": 92.28,
+   "weight": 1.0,
+   "note_time": 92.0
+  },
+  {
+   "text": "could",
+   "time": 92.54,
+   "weight": 1.0,
+   "note_time": 92.25
+  },
+  {
+   "text": "not",
+   "time": 92.82,
+   "weight": 1.0,
+   "note_time": 92.5
+  },
+  {
+   "text": "land",
+   "time": 93.3,
+   "weight": 1.0,
+   "note_time": 93.0
+  },
+  {
+   "text": "Heave",
+   "time": 93.86,
+   "weight": 0.37,
+   "note_time": 94.0
+  },
+  {
+   "text": "a",
+   "time": 95.36,
+   "weight": 0.99,
+   "note_time": 94.75
+  },
+  {
+   "text": "way,",
+   "time": 95.54,
+   "weight": 0.99,
+   "note_time": 95.0
+  },
+  {
+   "text": "my",
+   "time": 95.72,
+   "weight": 0.54,
+   "note_time": 95.25
+  },
+  {
+   "text": "boys",
+   "time": 96.24,
+   "weight": 0.97,
+   "note_time": 95.5
+  },
+  {
+   "text": "So",
+   "time": 97.69,
+   "weight": 0.67,
+   "note_time": 97.75
+  },
+  {
+   "text": "we",
+   "time": 98.2,
+   "weight": 0.97,
+   "note_time": 98.0
+  },
+  {
+   "text": "threw",
+   "time": 98.52,
+   "weight": 0.99,
+   "note_time": 98.5
+  },
+  {
+   "text": "him",
+   "time": 98.78,
+   "weight": 0.9,
+   "note_time": 99.0
+  },
+  {
+   "text": "in",
+   "time": 99.4,
+   "weight": 1.0,
+   "note_time": 99.5
+  },
+  {
+   "text": "and",
+   "time": 99.96,
+   "weight": 0.96,
+   "note_time": 99.75
+  },
+  {
+   "text": "the",
+   "time": 100.32,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "sea",
+   "time": 100.54,
+   "weight": 1.0,
+   "note_time": 100.25
+  },
+  {
+   "text": "was",
+   "time": 100.84,
+   "weight": 1.0,
+   "note_time": 100.5
+  },
+  {
+   "text": "calm",
+   "time": 101.32,
+   "weight": 0.99,
+   "note_time": 101.0
+  },
+  {
+   "text": "Heave",
+   "time": 101.96,
+   "weight": 0.99,
+   "note_time": 102.0
+  },
+  {
+   "text": "a",
+   "time": 103.16,
+   "weight": 1.0,
+   "note_time": 103.0
+  },
+  {
+   "text": "way,",
+   "time": 103.44,
+   "weight": 1.0,
+   "note_time": 103.25
+  },
+  {
+   "text": "my",
+   "time": 103.72,
+   "weight": 1.0,
+   "note_time": 103.5
+  },
+  {
+   "text": "boys",
+   "time": 104.24,
+   "weight": 1.0,
+   "note_time": 104.0
+  },
+  {
+   "text": "Pick",
+   "time": 106.18,
+   "weight": 0.98,
+   "note_time": 106.0
+  },
+  {
+   "text": "me",
+   "time": 106.86,
+   "weight": 1.0,
+   "note_time": 107.0
+  },
+  {
+   "text": "up",
+   "time": 107.22,
+   "weight": 1.0,
+   "note_time": 107.5
+  },
+  {
+   "text": "and",
+   "time": 107.88,
+   "weight": 0.99,
+   "note_time": 108.0
+  },
+  {
+   "text": "throw",
+   "time": 108.22,
+   "weight": 1.0,
+   "note_time": 108.25
+  },
+  {
+   "text": "me",
+   "time": 108.76,
+   "weight": 1.0,
+   "note_time": 108.5
+  },
+  {
+   "text": "in",
+   "time": 109.0,
+   "weight": 1.0,
+   "note_time": 108.75
+  },
+  {
+   "text": "the",
+   "time": 109.3,
+   "weight": 1.0,
+   "note_time": 109.0
+  },
+  {
+   "text": "sea",
+   "time": 109.48,
+   "weight": 1.0,
+   "note_time": 109.5
+  },
+  {
+   "text": "And",
+   "time": 109.84,
+   "weight": 0.94,
+   "note_time": 109.75
+  },
+  {
+   "text": "the",
+   "time": 110.3,
+   "weight": 1.0,
+   "note_time": 110.0
+  },
+  {
+   "text": "sea",
+   "time": 110.48,
+   "weight": 1.0,
+   "note_time": 110.5
+  },
+  {
+   "text": "will",
+   "time": 110.82,
+   "weight": 1.0,
+   "note_time": 111.0
+  },
+  {
+   "text": "qui",
+   "time": 111.32,
+   "weight": 0.97,
+   "note_time": 111.25
+  },
+  {
+   "text": "et",
+   "time": 111.63,
+   "weight": 0.97,
+   "note_time": 111.5
+  },
+  {
+   "text": "down",
+   "time": 111.94,
+   "weight": 1.0,
+   "note_time": 112.0
+  },
+  {
+   "text": "for",
+   "time": 112.76,
+   "weight": 1.0,
+   "note_time": 112.25
+  },
+  {
+   "text": "thee",
+   "time": 113.28,
+   "weight": 0.96,
+   "note_time": 112.5
+  },
+  {
+   "text": "For",
+   "time": 113.86,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "I",
+   "time": 114.74,
+   "weight": 1.0,
+   "note_time": 114.5
+  },
+  {
+   "text": "know",
+   "time": 115.3,
+   "weight": 1.0,
+   "note_time": 115.25
+  },
+  {
+   "text": "it",
+   "time": 115.84,
+   "weight": 1.0,
+   "note_time": 115.5
+  },
+  {
+   "text": "is",
+   "time": 116.36,
+   "weight": 1.0,
+   "note_time": 116.0
+  },
+  {
+   "text": "be",
+   "time": 116.82,
+   "weight": 1.0,
+   "note_time": 116.25
+  },
+  {
+   "text": "cause",
+   "time": 117.03,
+   "weight": 1.0,
+   "note_time": 116.5
+  },
+  {
+   "text": "of",
+   "time": 117.24,
+   "weight": 1.0,
+   "note_time": 116.75
+  },
+  {
+   "text": "me",
+   "time": 117.53,
+   "weight": 0.0,
+   "note_time": 117.0
+  },
+  {
+   "text": "This",
+   "time": 117.82,
+   "weight": 0.99,
+   "note_time": 118.0
+  },
+  {
+   "text": "great",
+   "time": 118.82,
+   "weight": 1.0,
+   "note_time": 119.0
+  },
+  {
+   "text": "storm",
+   "time": 119.26,
+   "weight": 1.0,
+   "note_time": 119.25
+  },
+  {
+   "text": "has",
+   "time": 119.9,
+   "weight": 1.0,
+   "note_time": 119.5
+  },
+  {
+   "text": "come",
+   "time": 120.36,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "up",
+   "time": 120.76,
+   "weight": 1.0,
+   "note_time": 120.25
+  },
+  {
+   "text": "on",
+   "time": 120.97,
+   "weight": 1.0,
+   "note_time": 120.5
+  },
+  {
+   "text": "thee",
+   "time": 121.18,
+   "weight": 1.0,
+   "note_time": 120.75
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 24 lyric lines sit on their notes."
+}

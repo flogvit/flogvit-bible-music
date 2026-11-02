@@ -1,0 +1,856 @@
+{
+ "id": "verse-40-11-28-lofi",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-11-28-lofi",
+ "offset_seconds": -3.940000000000172,
+ "words_heard": 100,
+ "words": 105,
+ "lines": [
+  {
+   "text": "Long day, heavy shoulders",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Too much on my mind",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hear a voice inside the quiet",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Saying leave it all behind",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to me, all you who are weary",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to me and I will give you rest",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My yoke is easy and my burden light",
+   "heard": 5,
+   "words": 8,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to me and rest",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.27,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Take my yoke and learn from me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am gentle, lowly in heart",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will find rest for your souls",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Right here where you are",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to me, all you who are weary",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to me and I will give you rest",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My yoke is easy and my burden light",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to me and rest",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.22,
+   "tie_split": true,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Long",
+   "time": 18.06,
+   "weight": 0.25,
+   "note_time": 18.08
+  },
+  {
+   "text": "day,",
+   "time": 19.08,
+   "weight": 0.95,
+   "note_time": 18.49
+  },
+  {
+   "text": "hea",
+   "time": 19.64,
+   "weight": 0.99,
+   "note_time": 18.9
+  },
+  {
+   "text": "vy",
+   "time": 19.86,
+   "weight": 0.99,
+   "note_time": 19.11
+  },
+  {
+   "text": "shoul",
+   "time": 20.08,
+   "weight": 0.98,
+   "note_time": 19.32
+  },
+  {
+   "text": "ders",
+   "time": 20.39,
+   "weight": 0.98,
+   "note_time": 20.14
+  },
+  {
+   "text": "Too",
+   "time": 20.7,
+   "weight": 0.36,
+   "note_time": 24.66
+  },
+  {
+   "text": "much",
+   "time": 25.64,
+   "weight": 1.0,
+   "note_time": 24.86
+  },
+  {
+   "text": "on",
+   "time": 26.06,
+   "weight": 0.99,
+   "note_time": 25.27
+  },
+  {
+   "text": "my",
+   "time": 26.46,
+   "weight": 1.0,
+   "note_time": 25.89
+  },
+  {
+   "text": "mind",
+   "time": 27.0,
+   "weight": 1.0,
+   "note_time": 26.71
+  },
+  {
+   "text": "Hear",
+   "time": 30.88,
+   "weight": 0.15,
+   "note_time": 30.82
+  },
+  {
+   "text": "a",
+   "time": 31.8,
+   "weight": 0.93,
+   "note_time": 31.03
+  },
+  {
+   "text": "voice",
+   "time": 32.08,
+   "weight": 0.99,
+   "note_time": 31.23
+  },
+  {
+   "text": "in",
+   "time": 32.4,
+   "weight": 0.98,
+   "note_time": 31.64
+  },
+  {
+   "text": "side",
+   "time": 32.64,
+   "weight": 0.98,
+   "note_time": 31.85
+  },
+  {
+   "text": "the",
+   "time": 32.88,
+   "weight": 0.91,
+   "note_time": 32.05
+  },
+  {
+   "text": "qui",
+   "time": 33.3,
+   "weight": 0.35,
+   "note_time": 32.47
+  },
+  {
+   "text": "et",
+   "time": 33.51,
+   "weight": 0.35,
+   "note_time": 33.29
+  },
+  {
+   "text": "Say",
+   "time": 34.1,
+   "weight": 0.82,
+   "note_time": 34.11
+  },
+  {
+   "text": "ing",
+   "time": 34.45,
+   "weight": 0.82,
+   "note_time": 34.32
+  },
+  {
+   "text": "leave",
+   "time": 35.14,
+   "weight": 0.82,
+   "note_time": 34.52
+  },
+  {
+   "text": "it",
+   "time": 35.66,
+   "weight": 1.0,
+   "note_time": 34.93
+  },
+  {
+   "text": "all",
+   "time": 36.0,
+   "weight": 1.0,
+   "note_time": 35.14
+  },
+  {
+   "text": "be",
+   "time": 36.22,
+   "weight": 1.0,
+   "note_time": 35.75
+  },
+  {
+   "text": "hind",
+   "time": 36.57,
+   "weight": 1.0,
+   "note_time": 35.96
+  },
+  {
+   "text": "Come",
+   "time": 41.22,
+   "weight": 0.93,
+   "note_time": 41.1
+  },
+  {
+   "text": "to",
+   "time": 42.14,
+   "weight": 1.0,
+   "note_time": 41.92
+  },
+  {
+   "text": "me,",
+   "time": 43.06,
+   "weight": 0.98,
+   "note_time": 42.74
+  },
+  {
+   "text": "all",
+   "time": 44.06,
+   "weight": 0.89,
+   "note_time": 44.38
+  },
+  {
+   "text": "you",
+   "time": 45.4,
+   "weight": 0.99,
+   "note_time": 44.79
+  },
+  {
+   "text": "who",
+   "time": 45.86,
+   "weight": 1.0,
+   "note_time": 45.21
+  },
+  {
+   "text": "are",
+   "time": 46.18,
+   "weight": 0.99,
+   "note_time": 45.41
+  },
+  {
+   "text": "wea",
+   "time": 46.5,
+   "weight": 1.0,
+   "note_time": 45.82
+  },
+  {
+   "text": "ry",
+   "time": 46.79,
+   "weight": 1.0,
+   "note_time": 46.44
+  },
+  {
+   "text": "Come",
+   "time": 47.08,
+   "weight": 0.38,
+   "note_time": 47.67
+  },
+  {
+   "text": "to",
+   "time": 48.64,
+   "weight": 1.0,
+   "note_time": 48.49
+  },
+  {
+   "text": "me",
+   "time": 49.52,
+   "weight": 1.0,
+   "note_time": 49.32
+  },
+  {
+   "text": "and",
+   "time": 50.66,
+   "weight": 0.99,
+   "note_time": 50.75
+  },
+  {
+   "text": "I",
+   "time": 51.8,
+   "weight": 0.99,
+   "note_time": 50.96
+  },
+  {
+   "text": "will",
+   "time": 51.98,
+   "weight": 1.0,
+   "note_time": 51.37
+  },
+  {
+   "text": "give",
+   "time": 52.38,
+   "weight": 1.0,
+   "note_time": 51.58
+  },
+  {
+   "text": "you",
+   "time": 52.68,
+   "weight": 1.0,
+   "note_time": 51.99
+  },
+  {
+   "text": "rest",
+   "time": 53.12,
+   "weight": 1.0,
+   "note_time": 52.6
+  },
+  {
+   "text": "My",
+   "time": 53.8,
+   "weight": 0.53,
+   "note_time": 53.84
+  },
+  {
+   "text": "yoke",
+   "time": 54.98,
+   "weight": 0.74,
+   "note_time": 54.25
+  },
+  {
+   "text": "is",
+   "time": 55.5,
+   "weight": 0.98,
+   "note_time": 54.66
+  },
+  {
+   "text": "ea",
+   "time": 55.8,
+   "weight": 0.87,
+   "note_time": 55.07
+  },
+  {
+   "text": "sy",
+   "time": 56.13,
+   "weight": 0.87,
+   "note_time": 55.48
+  },
+  {
+   "text": "and",
+   "time": 56.34,
+   "weight": 0.0,
+   "note_time": 55.68
+  },
+  {
+   "text": "my",
+   "time": 56.54,
+   "weight": 0.97,
+   "note_time": 55.89
+  },
+  {
+   "text": "bur",
+   "time": 57.01,
+   "weight": 0.0,
+   "note_time": 56.51
+  },
+  {
+   "text": "den",
+   "time": 57.47,
+   "weight": 0.0,
+   "note_time": 57.12
+  },
+  {
+   "text": "light",
+   "time": 57.94,
+   "weight": 0.0,
+   "note_time": 60.82
+  },
+  {
+   "text": "Come",
+   "time": 58.4,
+   "weight": 0.36,
+   "note_time": 61.23
+  },
+  {
+   "text": "to",
+   "time": 61.78,
+   "weight": 1.0,
+   "note_time": 61.44
+  },
+  {
+   "text": "me",
+   "time": 62.22,
+   "weight": 0.98,
+   "note_time": 61.85
+  },
+  {
+   "text": "and",
+   "time": 62.48,
+   "weight": 0.99,
+   "note_time": 62.47
+  },
+  {
+   "text": "rest",
+   "time": 63.08,
+   "weight": 0.98,
+   "note_time": 62.88
+  },
+  {
+   "text": "Take",
+   "time": 69.76,
+   "weight": 0.99,
+   "note_time": 69.86
+  },
+  {
+   "text": "my",
+   "time": 70.84,
+   "weight": 1.0,
+   "note_time": 70.27
+  },
+  {
+   "text": "yoke",
+   "time": 71.3,
+   "weight": 1.0,
+   "note_time": 70.68
+  },
+  {
+   "text": "and",
+   "time": 72.0,
+   "weight": 0.98,
+   "note_time": 71.1
+  },
+  {
+   "text": "learn",
+   "time": 72.16,
+   "weight": 0.94,
+   "note_time": 71.3
+  },
+  {
+   "text": "from",
+   "time": 72.46,
+   "weight": 1.0,
+   "note_time": 71.71
+  },
+  {
+   "text": "me",
+   "time": 72.78,
+   "weight": 0.99,
+   "note_time": 72.33
+  },
+  {
+   "text": "I",
+   "time": 73.5,
+   "weight": 0.39,
+   "note_time": 76.44
+  },
+  {
+   "text": "am",
+   "time": 77.54,
+   "weight": 0.99,
+   "note_time": 76.64
+  },
+  {
+   "text": "gen",
+   "time": 77.78,
+   "weight": 1.0,
+   "note_time": 77.05
+  },
+  {
+   "text": "tle,",
+   "time": 78.13,
+   "weight": 1.0,
+   "note_time": 77.67
+  },
+  {
+   "text": "low",
+   "time": 78.92,
+   "weight": 0.33,
+   "note_time": 78.9
+  },
+  {
+   "text": "ly",
+   "time": 79.27,
+   "weight": 0.33,
+   "note_time": 79.52
+  },
+  {
+   "text": "in",
+   "time": 80.22,
+   "weight": 0.0,
+   "note_time": 80.14
+  },
+  {
+   "text": "heart",
+   "time": 81.16,
+   "weight": 0.89,
+   "note_time": 80.55
+  },
+  {
+   "text": "You",
+   "time": 83.56,
+   "weight": 0.45,
+   "note_time": 83.42
+  },
+  {
+   "text": "will",
+   "time": 84.4,
+   "weight": 0.92,
+   "note_time": 83.63
+  },
+  {
+   "text": "find",
+   "time": 84.64,
+   "weight": 0.99,
+   "note_time": 83.84
+  },
+  {
+   "text": "rest",
+   "time": 85.0,
+   "weight": 0.96,
+   "note_time": 84.25
+  },
+  {
+   "text": "for",
+   "time": 85.32,
+   "weight": 0.99,
+   "note_time": 84.66
+  },
+  {
+   "text": "your",
+   "time": 85.68,
+   "weight": 0.97,
+   "note_time": 84.86
+  },
+  {
+   "text": "souls",
+   "time": 85.92,
+   "weight": 0.68,
+   "note_time": 85.27
+  },
+  {
+   "text": "Right",
+   "time": 86.44,
+   "weight": 0.24,
+   "note_time": 87.12
+  },
+  {
+   "text": "here",
+   "time": 88.24,
+   "weight": 0.99,
+   "note_time": 87.53
+  },
+  {
+   "text": "where",
+   "time": 88.64,
+   "weight": 0.94,
+   "note_time": 87.95
+  },
+  {
+   "text": "you",
+   "time": 89.0,
+   "weight": 0.98,
+   "note_time": 88.36
+  },
+  {
+   "text": "are",
+   "time": 89.34,
+   "weight": 0.99,
+   "note_time": 88.56
+  },
+  {
+   "text": "Come",
+   "time": 93.86,
+   "weight": 0.97,
+   "note_time": 93.7
+  },
+  {
+   "text": "to",
+   "time": 94.7,
+   "weight": 1.0,
+   "note_time": 94.52
+  },
+  {
+   "text": "me,",
+   "time": 95.52,
+   "weight": 0.97,
+   "note_time": 95.34
+  },
+  {
+   "text": "all",
+   "time": 96.4,
+   "weight": 0.25,
+   "note_time": 96.99
+  },
+  {
+   "text": "you",
+   "time": 98.08,
+   "weight": 0.98,
+   "note_time": 97.4
+  },
+  {
+   "text": "who",
+   "time": 98.42,
+   "weight": 0.99,
+   "note_time": 97.81
+  },
+  {
+   "text": "are",
+   "time": 98.74,
+   "weight": 1.0,
+   "note_time": 98.01
+  },
+  {
+   "text": "wea",
+   "time": 99.12,
+   "weight": 1.0,
+   "note_time": 98.42
+  },
+  {
+   "text": "ry",
+   "time": 99.43,
+   "weight": 1.0,
+   "note_time": 99.04
+  },
+  {
+   "text": "Come",
+   "time": 100.72,
+   "weight": 0.99,
+   "note_time": 100.27
+  },
+  {
+   "text": "to",
+   "time": 101.28,
+   "weight": 1.0,
+   "note_time": 101.1
+  },
+  {
+   "text": "me",
+   "time": 102.08,
+   "weight": 1.0,
+   "note_time": 101.92
+  },
+  {
+   "text": "and",
+   "time": 102.98,
+   "weight": 0.94,
+   "note_time": 103.36
+  },
+  {
+   "text": "I",
+   "time": 104.44,
+   "weight": 0.98,
+   "note_time": 103.56
+  },
+  {
+   "text": "will",
+   "time": 104.58,
+   "weight": 0.99,
+   "note_time": 103.97
+  },
+  {
+   "text": "give",
+   "time": 104.94,
+   "weight": 1.0,
+   "note_time": 104.18
+  },
+  {
+   "text": "you",
+   "time": 105.28,
+   "weight": 1.0,
+   "note_time": 104.59
+  },
+  {
+   "text": "rest",
+   "time": 105.78,
+   "weight": 1.0,
+   "note_time": 105.21
+  },
+  {
+   "text": "My",
+   "time": 106.44,
+   "weight": 0.72,
+   "note_time": 106.44
+  },
+  {
+   "text": "yoke",
+   "time": 107.56,
+   "weight": 0.92,
+   "note_time": 106.85
+  },
+  {
+   "text": "is",
+   "time": 108.08,
+   "weight": 0.99,
+   "note_time": 107.26
+  },
+  {
+   "text": "ea",
+   "time": 108.38,
+   "weight": 0.98,
+   "note_time": 107.67
+  },
+  {
+   "text": "sy",
+   "time": 108.72,
+   "weight": 0.98,
+   "note_time": 108.08
+  },
+  {
+   "text": "and",
+   "time": 109.06,
+   "weight": 0.76,
+   "note_time": 108.29
+  },
+  {
+   "text": "my",
+   "time": 109.34,
+   "weight": 0.99,
+   "note_time": 108.49
+  },
+  {
+   "text": "bur",
+   "time": 109.56,
+   "weight": 0.9,
+   "note_time": 109.11
+  },
+  {
+   "text": "den",
+   "time": 109.91,
+   "weight": 0.9,
+   "note_time": 109.73
+  },
+  {
+   "text": "light",
+   "time": 110.23,
+   "weight": 0.0,
+   "note_time": 113.42
+  },
+  {
+   "text": "Come",
+   "time": 110.54,
+   "weight": 0.33,
+   "note_time": 113.84
+  },
+  {
+   "text": "to",
+   "time": 114.34,
+   "weight": 1.0,
+   "note_time": 114.04
+  },
+  {
+   "text": "me",
+   "time": 114.8,
+   "weight": 0.99,
+   "note_time": 114.66
+  },
+  {
+   "text": "and",
+   "time": 115.08,
+   "weight": 0.99,
+   "note_time": 115.07
+  },
+  {
+   "text": "rest",
+   "time": 115.78,
+   "weight": 0.98,
+   "note_time": 115.48
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

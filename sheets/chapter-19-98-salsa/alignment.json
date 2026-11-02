@@ -1,0 +1,868 @@
+{
+ "id": "chapter-19-98-salsa",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-98-salsa",
+ "offset_seconds": -3.360000000000184,
+ "words_heard": 105,
+ "words": 109,
+ "lines": [
+  {
+   "text": "Sing to the Lord a new song",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.39,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For he has done marvelous things",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His right hand and his holy arm",
+   "heard": 4,
+   "words": 7,
+   "error_s": 1.75,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Have worked salvation for him",
+   "heard": 4,
+   "words": 5,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sing a new song, sing a new song",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Make a joyful noise to the King",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sing a new song, sing a new song",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let the whole earth sing",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let the sea roar and all that fills it",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.43,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let the rivers clap their hands",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.43,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let the mountains sing together for joy",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.43,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Before the Lord, for he comes",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.43,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sing a new song, sing a new song",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.37,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Make a joyful noise to the King",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.43,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sing a new song, sing a new song",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Let the whole earth sing",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Sing",
+   "time": 22.18,
+   "weight": 0.46,
+   "note_time": 21.6
+  },
+  {
+   "text": "to",
+   "time": 23.26,
+   "weight": 0.99,
+   "note_time": 22.05
+  },
+  {
+   "text": "the",
+   "time": 23.76,
+   "weight": 0.99,
+   "note_time": 22.35
+  },
+  {
+   "text": "Lord",
+   "time": 24.08,
+   "weight": 0.98,
+   "note_time": 22.65
+  },
+  {
+   "text": "a",
+   "time": 24.62,
+   "weight": 0.98,
+   "note_time": 23.25
+  },
+  {
+   "text": "new",
+   "time": 25.02,
+   "weight": 0.99,
+   "note_time": 23.55
+  },
+  {
+   "text": "song",
+   "time": 25.3,
+   "weight": 1.0,
+   "note_time": 24.0
+  },
+  {
+   "text": "For",
+   "time": 25.84,
+   "weight": 0.18,
+   "note_time": 26.25
+  },
+  {
+   "text": "he",
+   "time": 27.68,
+   "weight": 0.23,
+   "note_time": 27.6
+  },
+  {
+   "text": "has",
+   "time": 28.32,
+   "weight": 1.0,
+   "note_time": 28.2
+  },
+  {
+   "text": "done",
+   "time": 28.72,
+   "weight": 1.0,
+   "note_time": 28.35
+  },
+  {
+   "text": "mar",
+   "time": 28.98,
+   "weight": 0.98,
+   "note_time": 28.5
+  },
+  {
+   "text": "ve",
+   "time": 29.26,
+   "weight": 0.98,
+   "note_time": 28.8
+  },
+  {
+   "text": "lous",
+   "time": 29.54,
+   "weight": 0.98,
+   "note_time": 28.95
+  },
+  {
+   "text": "things",
+   "time": 29.82,
+   "weight": 0.99,
+   "note_time": 29.1
+  },
+  {
+   "text": "His",
+   "time": 30.71,
+   "weight": 0.0,
+   "note_time": 30.9
+  },
+  {
+   "text": "right",
+   "time": 31.59,
+   "weight": 0.0,
+   "note_time": 31.2
+  },
+  {
+   "text": "hand",
+   "time": 32.48,
+   "weight": 0.0,
+   "note_time": 31.65
+  },
+  {
+   "text": "and",
+   "time": 33.36,
+   "weight": 0.15,
+   "note_time": 31.95
+  },
+  {
+   "text": "his",
+   "time": 33.44,
+   "weight": 0.41,
+   "note_time": 32.1
+  },
+  {
+   "text": "ho",
+   "time": 34.0,
+   "weight": 0.83,
+   "note_time": 32.25
+  },
+  {
+   "text": "ly",
+   "time": 34.31,
+   "weight": 0.83,
+   "note_time": 32.55
+  },
+  {
+   "text": "arm",
+   "time": 34.62,
+   "weight": 0.68,
+   "note_time": 33.3
+  },
+  {
+   "text": "Have",
+   "time": 35.46,
+   "weight": 0.14,
+   "note_time": 35.7
+  },
+  {
+   "text": "worked",
+   "time": 36.67,
+   "weight": 0.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "sal",
+   "time": 37.88,
+   "weight": 0.93,
+   "note_time": 36.9
+  },
+  {
+   "text": "va",
+   "time": 38.23,
+   "weight": 0.93,
+   "note_time": 37.2
+  },
+  {
+   "text": "tion",
+   "time": 38.58,
+   "weight": 0.93,
+   "note_time": 37.65
+  },
+  {
+   "text": "for",
+   "time": 39.04,
+   "weight": 0.99,
+   "note_time": 37.95
+  },
+  {
+   "text": "him",
+   "time": 39.78,
+   "weight": 0.92,
+   "note_time": 38.4
+  },
+  {
+   "text": "Sing",
+   "time": 40.28,
+   "weight": 0.66,
+   "note_time": 39.6
+  },
+  {
+   "text": "a",
+   "time": 41.36,
+   "weight": 0.99,
+   "note_time": 40.05
+  },
+  {
+   "text": "new",
+   "time": 41.8,
+   "weight": 1.0,
+   "note_time": 40.2
+  },
+  {
+   "text": "song,",
+   "time": 42.04,
+   "weight": 1.0,
+   "note_time": 40.65
+  },
+  {
+   "text": "sing",
+   "time": 42.74,
+   "weight": 0.95,
+   "note_time": 42.0
+  },
+  {
+   "text": "a",
+   "time": 43.72,
+   "weight": 1.0,
+   "note_time": 42.45
+  },
+  {
+   "text": "new",
+   "time": 44.18,
+   "weight": 1.0,
+   "note_time": 42.6
+  },
+  {
+   "text": "song",
+   "time": 44.4,
+   "weight": 1.0,
+   "note_time": 43.05
+  },
+  {
+   "text": "Make",
+   "time": 45.96,
+   "weight": 0.91,
+   "note_time": 45.15
+  },
+  {
+   "text": "a",
+   "time": 46.96,
+   "weight": 0.99,
+   "note_time": 45.45
+  },
+  {
+   "text": "joy",
+   "time": 47.22,
+   "weight": 1.0,
+   "note_time": 45.6
+  },
+  {
+   "text": "ful",
+   "time": 47.48,
+   "weight": 1.0,
+   "note_time": 46.2
+  },
+  {
+   "text": "noise",
+   "time": 47.74,
+   "weight": 1.0,
+   "note_time": 46.5
+  },
+  {
+   "text": "to",
+   "time": 48.42,
+   "weight": 1.0,
+   "note_time": 47.25
+  },
+  {
+   "text": "the",
+   "time": 49.0,
+   "weight": 1.0,
+   "note_time": 47.55
+  },
+  {
+   "text": "King",
+   "time": 49.28,
+   "weight": 0.53,
+   "note_time": 47.85
+  },
+  {
+   "text": "Sing",
+   "time": 49.7,
+   "weight": 0.98,
+   "note_time": 49.2
+  },
+  {
+   "text": "a",
+   "time": 50.96,
+   "weight": 1.0,
+   "note_time": 49.65
+  },
+  {
+   "text": "new",
+   "time": 51.4,
+   "weight": 1.0,
+   "note_time": 49.8
+  },
+  {
+   "text": "song,",
+   "time": 51.6,
+   "weight": 1.0,
+   "note_time": 50.25
+  },
+  {
+   "text": "sing",
+   "time": 52.4,
+   "weight": 1.0,
+   "note_time": 51.6
+  },
+  {
+   "text": "a",
+   "time": 53.34,
+   "weight": 1.0,
+   "note_time": 52.05
+  },
+  {
+   "text": "new",
+   "time": 53.8,
+   "weight": 1.0,
+   "note_time": 52.2
+  },
+  {
+   "text": "song",
+   "time": 54.0,
+   "weight": 1.0,
+   "note_time": 52.65
+  },
+  {
+   "text": "Let",
+   "time": 54.5,
+   "weight": 0.4,
+   "note_time": 54.6
+  },
+  {
+   "text": "the",
+   "time": 56.42,
+   "weight": 1.0,
+   "note_time": 54.9
+  },
+  {
+   "text": "whole",
+   "time": 56.68,
+   "weight": 0.99,
+   "note_time": 55.2
+  },
+  {
+   "text": "earth",
+   "time": 57.06,
+   "weight": 0.98,
+   "note_time": 56.4
+  },
+  {
+   "text": "sing",
+   "time": 58.34,
+   "weight": 1.0,
+   "note_time": 57.6
+  },
+  {
+   "text": "Let",
+   "time": 59.4,
+   "weight": 0.26,
+   "note_time": 59.4
+  },
+  {
+   "text": "the",
+   "time": 61.14,
+   "weight": 0.99,
+   "note_time": 59.7
+  },
+  {
+   "text": "sea",
+   "time": 61.42,
+   "weight": 0.94,
+   "note_time": 60.0
+  },
+  {
+   "text": "roar",
+   "time": 61.8,
+   "weight": 0.95,
+   "note_time": 60.45
+  },
+  {
+   "text": "and",
+   "time": 62.24,
+   "weight": 0.83,
+   "note_time": 60.9
+  },
+  {
+   "text": "all",
+   "time": 62.74,
+   "weight": 1.0,
+   "note_time": 61.2
+  },
+  {
+   "text": "that",
+   "time": 63.1,
+   "weight": 0.99,
+   "note_time": 61.8
+  },
+  {
+   "text": "fills",
+   "time": 63.6,
+   "weight": 0.99,
+   "note_time": 62.1
+  },
+  {
+   "text": "it",
+   "time": 64.14,
+   "weight": 0.6,
+   "note_time": 62.7
+  },
+  {
+   "text": "Let",
+   "time": 64.52,
+   "weight": 0.7,
+   "note_time": 64.95
+  },
+  {
+   "text": "the",
+   "time": 65.44,
+   "weight": 0.4,
+   "note_time": 65.25
+  },
+  {
+   "text": "ri",
+   "time": 66.98,
+   "weight": 0.99,
+   "note_time": 65.4
+  },
+  {
+   "text": "vers",
+   "time": 67.18,
+   "weight": 0.99,
+   "note_time": 65.7
+  },
+  {
+   "text": "clap",
+   "time": 67.38,
+   "weight": 0.99,
+   "note_time": 66.0
+  },
+  {
+   "text": "their",
+   "time": 67.76,
+   "weight": 0.99,
+   "note_time": 66.6
+  },
+  {
+   "text": "hands",
+   "time": 68.38,
+   "weight": 0.99,
+   "note_time": 66.9
+  },
+  {
+   "text": "Let",
+   "time": 69.04,
+   "weight": 0.39,
+   "note_time": 69.15
+  },
+  {
+   "text": "the",
+   "time": 70.88,
+   "weight": 1.0,
+   "note_time": 69.45
+  },
+  {
+   "text": "moun",
+   "time": 71.16,
+   "weight": 0.96,
+   "note_time": 69.6
+  },
+  {
+   "text": "tains",
+   "time": 71.46,
+   "weight": 0.96,
+   "note_time": 70.05
+  },
+  {
+   "text": "sing",
+   "time": 71.76,
+   "weight": 1.0,
+   "note_time": 70.35
+  },
+  {
+   "text": "to",
+   "time": 72.14,
+   "weight": 1.0,
+   "note_time": 70.65
+  },
+  {
+   "text": "geth",
+   "time": 72.31,
+   "weight": 1.0,
+   "note_time": 70.8
+  },
+  {
+   "text": "er",
+   "time": 72.49,
+   "weight": 1.0,
+   "note_time": 71.25
+  },
+  {
+   "text": "for",
+   "time": 72.66,
+   "weight": 0.99,
+   "note_time": 71.55
+  },
+  {
+   "text": "joy",
+   "time": 73.3,
+   "weight": 0.99,
+   "note_time": 71.85
+  },
+  {
+   "text": "Be",
+   "time": 73.66,
+   "weight": 0.37,
+   "note_time": 73.65
+  },
+  {
+   "text": "fore",
+   "time": 74.01,
+   "weight": 0.37,
+   "note_time": 73.8
+  },
+  {
+   "text": "the",
+   "time": 75.5,
+   "weight": 0.99,
+   "note_time": 74.1
+  },
+  {
+   "text": "Lord,",
+   "time": 75.84,
+   "weight": 0.97,
+   "note_time": 74.25
+  },
+  {
+   "text": "for",
+   "time": 76.68,
+   "weight": 0.97,
+   "note_time": 76.05
+  },
+  {
+   "text": "he",
+   "time": 77.78,
+   "weight": 0.67,
+   "note_time": 76.35
+  },
+  {
+   "text": "comes",
+   "time": 78.1,
+   "weight": 0.99,
+   "note_time": 76.65
+  },
+  {
+   "text": "Sing",
+   "time": 78.62,
+   "weight": 0.97,
+   "note_time": 78.0
+  },
+  {
+   "text": "a",
+   "time": 79.82,
+   "weight": 1.0,
+   "note_time": 78.45
+  },
+  {
+   "text": "new",
+   "time": 80.18,
+   "weight": 1.0,
+   "note_time": 78.6
+  },
+  {
+   "text": "song,",
+   "time": 80.42,
+   "weight": 1.0,
+   "note_time": 79.05
+  },
+  {
+   "text": "sing",
+   "time": 81.16,
+   "weight": 0.97,
+   "note_time": 80.4
+  },
+  {
+   "text": "a",
+   "time": 82.14,
+   "weight": 1.0,
+   "note_time": 80.85
+  },
+  {
+   "text": "new",
+   "time": 82.6,
+   "weight": 1.0,
+   "note_time": 81.0
+  },
+  {
+   "text": "song",
+   "time": 82.82,
+   "weight": 1.0,
+   "note_time": 81.45
+  },
+  {
+   "text": "Make",
+   "time": 83.3,
+   "weight": 0.39,
+   "note_time": 83.55
+  },
+  {
+   "text": "a",
+   "time": 85.38,
+   "weight": 1.0,
+   "note_time": 83.85
+  },
+  {
+   "text": "joy",
+   "time": 85.62,
+   "weight": 1.0,
+   "note_time": 84.0
+  },
+  {
+   "text": "ful",
+   "time": 85.88,
+   "weight": 1.0,
+   "note_time": 84.6
+  },
+  {
+   "text": "noise",
+   "time": 86.14,
+   "weight": 1.0,
+   "note_time": 84.9
+  },
+  {
+   "text": "to",
+   "time": 86.8,
+   "weight": 1.0,
+   "note_time": 85.65
+  },
+  {
+   "text": "the",
+   "time": 87.38,
+   "weight": 1.0,
+   "note_time": 85.95
+  },
+  {
+   "text": "King",
+   "time": 87.68,
+   "weight": 0.81,
+   "note_time": 86.25
+  },
+  {
+   "text": "Sing",
+   "time": 88.1,
+   "weight": 0.94,
+   "note_time": 87.6
+  },
+  {
+   "text": "a",
+   "time": 89.4,
+   "weight": 1.0,
+   "note_time": 88.05
+  },
+  {
+   "text": "new",
+   "time": 89.8,
+   "weight": 1.0,
+   "note_time": 88.2
+  },
+  {
+   "text": "song,",
+   "time": 90.02,
+   "weight": 1.0,
+   "note_time": 88.65
+  },
+  {
+   "text": "sing",
+   "time": 90.76,
+   "weight": 0.98,
+   "note_time": 90.0
+  },
+  {
+   "text": "a",
+   "time": 91.74,
+   "weight": 1.0,
+   "note_time": 90.45
+  },
+  {
+   "text": "new",
+   "time": 92.2,
+   "weight": 1.0,
+   "note_time": 90.6
+  },
+  {
+   "text": "song",
+   "time": 92.42,
+   "weight": 1.0,
+   "note_time": 91.05
+  },
+  {
+   "text": "Let",
+   "time": 92.94,
+   "weight": 0.29,
+   "note_time": 93.0
+  },
+  {
+   "text": "the",
+   "time": 94.72,
+   "weight": 1.0,
+   "note_time": 93.3
+  },
+  {
+   "text": "whole",
+   "time": 95.08,
+   "weight": 1.0,
+   "note_time": 93.6
+  },
+  {
+   "text": "earth",
+   "time": 95.48,
+   "weight": 0.94,
+   "note_time": 94.8
+  },
+  {
+   "text": "sing",
+   "time": 96.8,
+   "weight": 1.0,
+   "note_time": 96.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "1 of 16 lyric lines sit clearly on their notes; 15 are uncertain and printed in grey italics."
+}

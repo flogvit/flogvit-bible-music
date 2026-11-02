@@ -1,0 +1,918 @@
+{
+ "id": "verse-66-22-1-edm",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-66-22-1-edm",
+ "offset_seconds": -1.160000000000231,
+ "words_heard": 97,
+ "words": 105,
+ "lines": [
+  {
+   "text": "Then the angel showed me the river",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The river of the water of life",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bright as crystal, flowing from the throne",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of God and of the Lamb",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "River of life, flow through the city",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tree of life on either side",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leaves for the healing of the nations",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "River of life",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No longer will there be anything accursed",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They will see his face",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "His name will be on their foreheads",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And night will be no more",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "River of life, flow through the city",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tree of life on either side",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leaves for the healing of the nations",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.92,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "River of life",
+   "heard": 2,
+   "words": 3,
+   "error_s": 1.15,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord God will be their light",
+   "heard": 5,
+   "words": 7,
+   "error_s": 10.2,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Then",
+   "time": 19.56,
+   "weight": 0.0,
+   "note_time": 18.82
+  },
+  {
+   "text": "the",
+   "time": 19.96,
+   "weight": 0.99,
+   "note_time": 19.09
+  },
+  {
+   "text": "an",
+   "time": 20.3,
+   "weight": 0.92,
+   "note_time": 19.36
+  },
+  {
+   "text": "gel",
+   "time": 20.62,
+   "weight": 0.92,
+   "note_time": 19.91
+  },
+  {
+   "text": "showed",
+   "time": 20.94,
+   "weight": 0.34,
+   "note_time": 21.55
+  },
+  {
+   "text": "me",
+   "time": 22.78,
+   "weight": 1.0,
+   "note_time": 22.64
+  },
+  {
+   "text": "the",
+   "time": 23.92,
+   "weight": 0.99,
+   "note_time": 23.45
+  },
+  {
+   "text": "riv",
+   "time": 24.7,
+   "weight": 0.99,
+   "note_time": 23.73
+  },
+  {
+   "text": "er",
+   "time": 24.99,
+   "weight": 0.99,
+   "note_time": 24.27
+  },
+  {
+   "text": "The",
+   "time": 26.86,
+   "weight": 0.7,
+   "note_time": 27.0
+  },
+  {
+   "text": "riv",
+   "time": 28.22,
+   "weight": 0.99,
+   "note_time": 27.27
+  },
+  {
+   "text": "er",
+   "time": 28.4,
+   "weight": 0.99,
+   "note_time": 27.41
+  },
+  {
+   "text": "of",
+   "time": 28.58,
+   "weight": 1.0,
+   "note_time": 27.55
+  },
+  {
+   "text": "the",
+   "time": 29.06,
+   "weight": 1.0,
+   "note_time": 28.09
+  },
+  {
+   "text": "wa",
+   "time": 29.28,
+   "weight": 0.98,
+   "note_time": 28.36
+  },
+  {
+   "text": "ter",
+   "time": 29.63,
+   "weight": 0.98,
+   "note_time": 29.18
+  },
+  {
+   "text": "of",
+   "time": 32.08,
+   "weight": 0.15,
+   "note_time": 31.91
+  },
+  {
+   "text": "life",
+   "time": 34.04,
+   "weight": 0.0,
+   "note_time": 32.45
+  },
+  {
+   "text": "Bright",
+   "time": 36.0,
+   "weight": 0.94,
+   "note_time": 36.0
+  },
+  {
+   "text": "as",
+   "time": 37.24,
+   "weight": 0.99,
+   "note_time": 36.41
+  },
+  {
+   "text": "crys",
+   "time": 37.66,
+   "weight": 0.97,
+   "note_time": 36.82
+  },
+  {
+   "text": "tal,",
+   "time": 38.01,
+   "weight": 0.97,
+   "note_time": 37.36
+  },
+  {
+   "text": "flow",
+   "time": 38.56,
+   "weight": 0.35,
+   "note_time": 39.82
+  },
+  {
+   "text": "ing",
+   "time": 38.91,
+   "weight": 0.35,
+   "note_time": 40.09
+  },
+  {
+   "text": "from",
+   "time": 40.84,
+   "weight": 0.99,
+   "note_time": 40.91
+  },
+  {
+   "text": "the",
+   "time": 41.24,
+   "weight": 0.99,
+   "note_time": 41.18
+  },
+  {
+   "text": "throne",
+   "time": 42.16,
+   "weight": 0.98,
+   "note_time": 41.59
+  },
+  {
+   "text": "Of",
+   "time": 42.56,
+   "weight": 0.34,
+   "note_time": 43.36
+  },
+  {
+   "text": "God",
+   "time": 44.6,
+   "weight": 0.9,
+   "note_time": 43.64
+  },
+  {
+   "text": "and",
+   "time": 44.96,
+   "weight": 0.88,
+   "note_time": 44.18
+  },
+  {
+   "text": "of",
+   "time": 45.44,
+   "weight": 0.98,
+   "note_time": 44.45
+  },
+  {
+   "text": "the",
+   "time": 45.86,
+   "weight": 0.99,
+   "note_time": 45.27
+  },
+  {
+   "text": "Lamb",
+   "time": 46.58,
+   "weight": 0.93,
+   "note_time": 45.55
+  },
+  {
+   "text": "Riv",
+   "time": 49.16,
+   "weight": 0.97,
+   "note_time": 49.09
+  },
+  {
+   "text": "er",
+   "time": 49.51,
+   "weight": 0.97,
+   "note_time": 49.23
+  },
+  {
+   "text": "of",
+   "time": 50.4,
+   "weight": 1.0,
+   "note_time": 49.36
+  },
+  {
+   "text": "life,",
+   "time": 51.54,
+   "weight": 0.0,
+   "note_time": 49.91
+  },
+  {
+   "text": "flow",
+   "time": 52.68,
+   "weight": 0.73,
+   "note_time": 52.64
+  },
+  {
+   "text": "through",
+   "time": 53.92,
+   "weight": 0.99,
+   "note_time": 53.18
+  },
+  {
+   "text": "the",
+   "time": 54.38,
+   "weight": 0.99,
+   "note_time": 54.0
+  },
+  {
+   "text": "c",
+   "time": 55.18,
+   "weight": 0.99,
+   "note_time": 54.27
+  },
+  {
+   "text": "ity",
+   "time": 55.52,
+   "weight": 0.99,
+   "note_time": 54.82
+  },
+  {
+   "text": "Tree",
+   "time": 57.8,
+   "weight": 0.99,
+   "note_time": 57.82
+  },
+  {
+   "text": "of",
+   "time": 59.04,
+   "weight": 1.0,
+   "note_time": 57.95
+  },
+  {
+   "text": "life",
+   "time": 59.51,
+   "weight": 0.0,
+   "note_time": 58.09
+  },
+  {
+   "text": "on",
+   "time": 59.98,
+   "weight": 0.07,
+   "note_time": 58.64
+  },
+  {
+   "text": "ei",
+   "time": 62.72,
+   "weight": 0.85,
+   "note_time": 61.91
+  },
+  {
+   "text": "ther",
+   "time": 63.02,
+   "weight": 0.85,
+   "note_time": 62.45
+  },
+  {
+   "text": "side",
+   "time": 63.32,
+   "weight": 0.99,
+   "note_time": 63.0
+  },
+  {
+   "text": "Leaves",
+   "time": 66.6,
+   "weight": 0.97,
+   "note_time": 66.55
+  },
+  {
+   "text": "for",
+   "time": 68.0,
+   "weight": 0.98,
+   "note_time": 67.09
+  },
+  {
+   "text": "the",
+   "time": 68.28,
+   "weight": 0.99,
+   "note_time": 67.36
+  },
+  {
+   "text": "heal",
+   "time": 68.58,
+   "weight": 0.99,
+   "note_time": 67.64
+  },
+  {
+   "text": "ing",
+   "time": 68.93,
+   "weight": 0.99,
+   "note_time": 68.45
+  },
+  {
+   "text": "of",
+   "time": 69.4,
+   "weight": 0.33,
+   "note_time": 71.45
+  },
+  {
+   "text": "the",
+   "time": 72.1,
+   "weight": 0.98,
+   "note_time": 71.73
+  },
+  {
+   "text": "na",
+   "time": 72.62,
+   "weight": 0.97,
+   "note_time": 72.27
+  },
+  {
+   "text": "tions",
+   "time": 72.97,
+   "weight": 0.97,
+   "note_time": 72.41
+  },
+  {
+   "text": "Riv",
+   "time": 75.14,
+   "weight": 0.96,
+   "note_time": 75.27
+  },
+  {
+   "text": "er",
+   "time": 75.49,
+   "weight": 0.96,
+   "note_time": 75.41
+  },
+  {
+   "text": "of",
+   "time": 76.54,
+   "weight": 1.0,
+   "note_time": 75.55
+  },
+  {
+   "text": "life",
+   "time": 76.98,
+   "weight": 0.58,
+   "note_time": 76.09
+  },
+  {
+   "text": "No",
+   "time": 97.22,
+   "weight": 0.55,
+   "note_time": 96.82
+  },
+  {
+   "text": "lon",
+   "time": 98.1,
+   "weight": 0.95,
+   "note_time": 97.09
+  },
+  {
+   "text": "ger",
+   "time": 98.32,
+   "weight": 0.95,
+   "note_time": 97.36
+  },
+  {
+   "text": "will",
+   "time": 98.54,
+   "weight": 0.99,
+   "note_time": 97.64
+  },
+  {
+   "text": "there",
+   "time": 98.86,
+   "weight": 0.93,
+   "note_time": 97.91
+  },
+  {
+   "text": "be",
+   "time": 99.16,
+   "weight": 1.0,
+   "note_time": 98.18
+  },
+  {
+   "text": "a",
+   "time": 99.42,
+   "weight": 0.19,
+   "note_time": 100.91
+  },
+  {
+   "text": "nyt",
+   "time": 99.77,
+   "weight": 0.19,
+   "note_time": 101.18
+  },
+  {
+   "text": "hing",
+   "time": 100.12,
+   "weight": 0.19,
+   "note_time": 102.0
+  },
+  {
+   "text": "ac",
+   "time": 102.12,
+   "weight": 0.3,
+   "note_time": 102.27
+  },
+  {
+   "text": "cursed",
+   "time": 102.47,
+   "weight": 0.3,
+   "note_time": 102.82
+  },
+  {
+   "text": "They",
+   "time": 103.84,
+   "weight": 0.64,
+   "note_time": 105.27
+  },
+  {
+   "text": "will",
+   "time": 104.72,
+   "weight": 0.4,
+   "note_time": 105.55
+  },
+  {
+   "text": "see",
+   "time": 106.72,
+   "weight": 1.0,
+   "note_time": 105.82
+  },
+  {
+   "text": "his",
+   "time": 107.02,
+   "weight": 0.52,
+   "note_time": 106.09
+  },
+  {
+   "text": "face",
+   "time": 107.46,
+   "weight": 0.98,
+   "note_time": 106.64
+  },
+  {
+   "text": "His",
+   "time": 109.14,
+   "weight": 0.77,
+   "note_time": 108.82
+  },
+  {
+   "text": "name",
+   "time": 110.02,
+   "weight": 0.97,
+   "note_time": 109.5
+  },
+  {
+   "text": "will",
+   "time": 110.36,
+   "weight": 1.0,
+   "note_time": 109.91
+  },
+  {
+   "text": "be",
+   "time": 110.7,
+   "weight": 1.0,
+   "note_time": 110.18
+  },
+  {
+   "text": "on",
+   "time": 111.06,
+   "weight": 1.0,
+   "note_time": 110.59
+  },
+  {
+   "text": "their",
+   "time": 111.46,
+   "weight": 0.99,
+   "note_time": 111.0
+  },
+  {
+   "text": "fore",
+   "time": 111.78,
+   "weight": 1.0,
+   "note_time": 111.55
+  },
+  {
+   "text": "heads",
+   "time": 112.13,
+   "weight": 1.0,
+   "note_time": 111.68
+  },
+  {
+   "text": "And",
+   "time": 113.27,
+   "weight": 0.0,
+   "note_time": 113.18
+  },
+  {
+   "text": "night",
+   "time": 114.4,
+   "weight": 0.99,
+   "note_time": 113.45
+  },
+  {
+   "text": "will",
+   "time": 114.74,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "be",
+   "time": 115.18,
+   "weight": 1.0,
+   "note_time": 114.27
+  },
+  {
+   "text": "no",
+   "time": 115.5,
+   "weight": 0.99,
+   "note_time": 114.82
+  },
+  {
+   "text": "more",
+   "time": 115.98,
+   "weight": 0.99,
+   "note_time": 115.36
+  },
+  {
+   "text": "Riv",
+   "time": 118.72,
+   "weight": 0.15,
+   "note_time": 116.73
+  },
+  {
+   "text": "er",
+   "time": 119.07,
+   "weight": 0.15,
+   "note_time": 119.05
+  },
+  {
+   "text": "of",
+   "time": 120.12,
+   "weight": 0.99,
+   "note_time": 119.18
+  },
+  {
+   "text": "life,",
+   "time": 120.6,
+   "weight": 0.6,
+   "note_time": 119.73
+  },
+  {
+   "text": "flow",
+   "time": 121.38,
+   "weight": 0.39,
+   "note_time": 123.0
+  },
+  {
+   "text": "through",
+   "time": 123.62,
+   "weight": 0.97,
+   "note_time": 123.82
+  },
+  {
+   "text": "the",
+   "time": 124.16,
+   "weight": 0.99,
+   "note_time": 124.09
+  },
+  {
+   "text": "c",
+   "time": 125.02,
+   "weight": 0.99,
+   "note_time": 124.64
+  },
+  {
+   "text": "ity",
+   "time": 125.37,
+   "weight": 0.99,
+   "note_time": 124.77
+  },
+  {
+   "text": "Tree",
+   "time": 127.42,
+   "weight": 0.91,
+   "note_time": 127.64
+  },
+  {
+   "text": "of",
+   "time": 128.82,
+   "weight": 1.0,
+   "note_time": 127.77
+  },
+  {
+   "text": "life",
+   "time": 129.16,
+   "weight": 0.94,
+   "note_time": 127.91
+  },
+  {
+   "text": "on",
+   "time": 130.22,
+   "weight": 0.4,
+   "note_time": 128.45
+  },
+  {
+   "text": "ei",
+   "time": 132.42,
+   "weight": 0.99,
+   "note_time": 131.73
+  },
+  {
+   "text": "ther",
+   "time": 132.76,
+   "weight": 0.99,
+   "note_time": 132.27
+  },
+  {
+   "text": "side",
+   "time": 133.1,
+   "weight": 1.0,
+   "note_time": 132.82
+  },
+  {
+   "text": "Leaves",
+   "time": 136.5,
+   "weight": 0.98,
+   "note_time": 136.36
+  },
+  {
+   "text": "for",
+   "time": 137.9,
+   "weight": 0.99,
+   "note_time": 136.91
+  },
+  {
+   "text": "the",
+   "time": 138.1,
+   "weight": 1.0,
+   "note_time": 137.18
+  },
+  {
+   "text": "heal",
+   "time": 138.38,
+   "weight": 1.0,
+   "note_time": 137.45
+  },
+  {
+   "text": "ing",
+   "time": 138.73,
+   "weight": 1.0,
+   "note_time": 138.27
+  },
+  {
+   "text": "of",
+   "time": 139.22,
+   "weight": 0.31,
+   "note_time": 140.73
+  },
+  {
+   "text": "the",
+   "time": 141.84,
+   "weight": 0.98,
+   "note_time": 141.27
+  },
+  {
+   "text": "na",
+   "time": 142.46,
+   "weight": 0.98,
+   "note_time": 141.55
+  },
+  {
+   "text": "tions",
+   "time": 142.81,
+   "weight": 0.98,
+   "note_time": 141.82
+  },
+  {
+   "text": "Riv",
+   "time": 144.92,
+   "weight": 0.15,
+   "note_time": 142.09
+  },
+  {
+   "text": "er",
+   "time": 145.27,
+   "weight": 0.15,
+   "note_time": 142.23
+  },
+  {
+   "text": "of",
+   "time": 146.24,
+   "weight": 0.99,
+   "note_time": 145.09
+  },
+  {
+   "text": "life",
+   "time": 149.44,
+   "weight": 0.0,
+   "note_time": 145.23
+  },
+  {
+   "text": "The",
+   "time": 152.64,
+   "weight": 0.34,
+   "note_time": 145.36
+  },
+  {
+   "text": "Lord",
+   "time": 153.96,
+   "weight": 0.91,
+   "note_time": 145.91
+  },
+  {
+   "text": "God",
+   "time": 155.7,
+   "weight": 0.44,
+   "note_time": 146.18
+  },
+  {
+   "text": "will",
+   "time": 156.34,
+   "weight": 0.2,
+   "note_time": 146.32
+  },
+  {
+   "text": "be",
+   "time": 158.8,
+   "weight": 0.99,
+   "note_time": 146.45
+  },
+  {
+   "text": "their",
+   "time": 159.2,
+   "weight": 0.0,
+   "note_time": 167.18
+  },
+  {
+   "text": "light",
+   "time": 159.6,
+   "weight": 0.0,
+   "note_time": 167.45
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "14 of 17 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

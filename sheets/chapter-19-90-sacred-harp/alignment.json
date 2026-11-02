@@ -1,0 +1,838 @@
+{
+ "id": "chapter-19-90-sacred-harp",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-90-sacred-harp",
+ "offset_seconds": -3.600000000000179,
+ "words_heard": 100,
+ "words": 102,
+ "lines": [
+  {
+   "text": "Lord, you have been our dwelling place",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through all the years gone by",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before the mountains rose in space",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You were, and you are nigh",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You turn us back to dust again",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Return, you sons of men",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A thousand years are in your sight",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Like yesterday, like a watch in the night",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We flourish like the morning grass",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "By evening it is dry",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So teach us how our days will pass",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "That wise our hearts may lie",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lord, you have been our dwelling place",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Through all the years gone by",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before the mountains rose in space",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You were, and you are nigh",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Lord,",
+   "time": 15.7,
+   "weight": 0.44,
+   "note_time": 16.0
+  },
+  {
+   "text": "you",
+   "time": 17.94,
+   "weight": 0.45,
+   "note_time": 17.6
+  },
+  {
+   "text": "have",
+   "time": 18.76,
+   "weight": 1.0,
+   "note_time": 18.4
+  },
+  {
+   "text": "been",
+   "time": 19.56,
+   "weight": 1.0,
+   "note_time": 19.2
+  },
+  {
+   "text": "our",
+   "time": 20.46,
+   "weight": 0.97,
+   "note_time": 20.4
+  },
+  {
+   "text": "d",
+   "time": 21.54,
+   "weight": 1.0,
+   "note_time": 20.8
+  },
+  {
+   "text": "welling",
+   "time": 21.89,
+   "weight": 1.0,
+   "note_time": 21.6
+  },
+  {
+   "text": "place",
+   "time": 22.26,
+   "weight": 0.97,
+   "note_time": 21.8
+  },
+  {
+   "text": "Through",
+   "time": 23.6,
+   "weight": 0.34,
+   "note_time": 23.6
+  },
+  {
+   "text": "all",
+   "time": 24.76,
+   "weight": 1.0,
+   "note_time": 24.0
+  },
+  {
+   "text": "the",
+   "time": 25.3,
+   "weight": 1.0,
+   "note_time": 25.2
+  },
+  {
+   "text": "years",
+   "time": 26.4,
+   "weight": 1.0,
+   "note_time": 25.6
+  },
+  {
+   "text": "gone",
+   "time": 26.84,
+   "weight": 1.0,
+   "note_time": 26.4
+  },
+  {
+   "text": "by",
+   "time": 27.62,
+   "weight": 1.0,
+   "note_time": 27.2
+  },
+  {
+   "text": "Be",
+   "time": 30.14,
+   "weight": 0.47,
+   "note_time": 30.0
+  },
+  {
+   "text": "fore",
+   "time": 30.49,
+   "weight": 0.47,
+   "note_time": 30.4
+  },
+  {
+   "text": "the",
+   "time": 31.54,
+   "weight": 0.99,
+   "note_time": 31.2
+  },
+  {
+   "text": "moun",
+   "time": 32.44,
+   "weight": 0.39,
+   "note_time": 32.0
+  },
+  {
+   "text": "tains",
+   "time": 32.79,
+   "weight": 0.39,
+   "note_time": 33.2
+  },
+  {
+   "text": "rose",
+   "time": 34.08,
+   "weight": 0.99,
+   "note_time": 33.6
+  },
+  {
+   "text": "in",
+   "time": 34.98,
+   "weight": 0.98,
+   "note_time": 34.4
+  },
+  {
+   "text": "space",
+   "time": 35.82,
+   "weight": 0.98,
+   "note_time": 34.6
+  },
+  {
+   "text": "You",
+   "time": 37.0,
+   "weight": 0.58,
+   "note_time": 36.4
+  },
+  {
+   "text": "were,",
+   "time": 37.7,
+   "weight": 0.99,
+   "note_time": 36.8
+  },
+  {
+   "text": "and",
+   "time": 38.18,
+   "weight": 0.9,
+   "note_time": 38.0
+  },
+  {
+   "text": "you",
+   "time": 39.4,
+   "weight": 0.84,
+   "note_time": 38.4
+  },
+  {
+   "text": "are",
+   "time": 39.74,
+   "weight": 1.0,
+   "note_time": 39.2
+  },
+  {
+   "text": "nigh",
+   "time": 41.6,
+   "weight": 0.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "You",
+   "time": 43.46,
+   "weight": 0.93,
+   "note_time": 44.4
+  },
+  {
+   "text": "turn",
+   "time": 44.86,
+   "weight": 0.97,
+   "note_time": 44.8
+  },
+  {
+   "text": "us",
+   "time": 46.26,
+   "weight": 1.0,
+   "note_time": 46.4
+  },
+  {
+   "text": "back",
+   "time": 47.28,
+   "weight": 1.0,
+   "note_time": 47.6
+  },
+  {
+   "text": "to",
+   "time": 48.06,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "dust",
+   "time": 49.06,
+   "weight": 1.0,
+   "note_time": 48.8
+  },
+  {
+   "text": "a",
+   "time": 49.86,
+   "weight": 1.0,
+   "note_time": 49.0
+  },
+  {
+   "text": "gain",
+   "time": 50.21,
+   "weight": 1.0,
+   "note_time": 49.2
+  },
+  {
+   "text": "Re",
+   "time": 51.06,
+   "weight": 0.96,
+   "note_time": 50.8
+  },
+  {
+   "text": "turn,",
+   "time": 51.41,
+   "weight": 0.96,
+   "note_time": 51.2
+  },
+  {
+   "text": "you",
+   "time": 53.08,
+   "weight": 0.7,
+   "note_time": 52.4
+  },
+  {
+   "text": "sons",
+   "time": 53.84,
+   "weight": 0.97,
+   "note_time": 52.8
+  },
+  {
+   "text": "of",
+   "time": 54.3,
+   "weight": 1.0,
+   "note_time": 53.6
+  },
+  {
+   "text": "men",
+   "time": 55.16,
+   "weight": 0.95,
+   "note_time": 54.4
+  },
+  {
+   "text": "A",
+   "time": 55.92,
+   "weight": 0.18,
+   "note_time": 57.2
+  },
+  {
+   "text": "thou",
+   "time": 58.56,
+   "weight": 0.98,
+   "note_time": 58.4
+  },
+  {
+   "text": "sand",
+   "time": 58.91,
+   "weight": 0.98,
+   "note_time": 59.2
+  },
+  {
+   "text": "years",
+   "time": 59.5,
+   "weight": 1.0,
+   "note_time": 60.4
+  },
+  {
+   "text": "are",
+   "time": 60.64,
+   "weight": 0.96,
+   "note_time": 60.8
+  },
+  {
+   "text": "in",
+   "time": 61.8,
+   "weight": 1.0,
+   "note_time": 61.6
+  },
+  {
+   "text": "your",
+   "time": 62.3,
+   "weight": 0.88,
+   "note_time": 61.8
+  },
+  {
+   "text": "sight",
+   "time": 63.0,
+   "weight": 1.0,
+   "note_time": 62.0
+  },
+  {
+   "text": "Like",
+   "time": 63.78,
+   "weight": 0.86,
+   "note_time": 63.6
+  },
+  {
+   "text": "yes",
+   "time": 64.94,
+   "weight": 1.0,
+   "note_time": 64.0
+  },
+  {
+   "text": "ter",
+   "time": 65.2,
+   "weight": 1.0,
+   "note_time": 64.4
+  },
+  {
+   "text": "day,",
+   "time": 65.46,
+   "weight": 1.0,
+   "note_time": 64.6
+  },
+  {
+   "text": "like",
+   "time": 66.04,
+   "weight": 1.0,
+   "note_time": 65.2
+  },
+  {
+   "text": "a",
+   "time": 66.64,
+   "weight": 0.97,
+   "note_time": 65.4
+  },
+  {
+   "text": "watch",
+   "time": 66.76,
+   "weight": 1.0,
+   "note_time": 65.6
+  },
+  {
+   "text": "in",
+   "time": 67.24,
+   "weight": 1.0,
+   "note_time": 66.2
+  },
+  {
+   "text": "the",
+   "time": 67.76,
+   "weight": 1.0,
+   "note_time": 66.8
+  },
+  {
+   "text": "night",
+   "time": 68.22,
+   "weight": 1.0,
+   "note_time": 67.2
+  },
+  {
+   "text": "We",
+   "time": 71.52,
+   "weight": 0.99,
+   "note_time": 71.6
+  },
+  {
+   "text": "flour",
+   "time": 72.92,
+   "weight": 1.0,
+   "note_time": 72.8
+  },
+  {
+   "text": "ish",
+   "time": 73.27,
+   "weight": 1.0,
+   "note_time": 73.6
+  },
+  {
+   "text": "like",
+   "time": 73.74,
+   "weight": 1.0,
+   "note_time": 74.8
+  },
+  {
+   "text": "the",
+   "time": 75.12,
+   "weight": 1.0,
+   "note_time": 75.2
+  },
+  {
+   "text": "morn",
+   "time": 76.18,
+   "weight": 1.0,
+   "note_time": 76.0
+  },
+  {
+   "text": "ing",
+   "time": 76.53,
+   "weight": 1.0,
+   "note_time": 76.2
+  },
+  {
+   "text": "grass",
+   "time": 77.1,
+   "weight": 0.99,
+   "note_time": 76.4
+  },
+  {
+   "text": "By",
+   "time": 78.64,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "eve",
+   "time": 79.34,
+   "weight": 1.0,
+   "note_time": 78.4
+  },
+  {
+   "text": "ning",
+   "time": 79.69,
+   "weight": 1.0,
+   "note_time": 79.6
+  },
+  {
+   "text": "it",
+   "time": 80.82,
+   "weight": 0.98,
+   "note_time": 80.0
+  },
+  {
+   "text": "is",
+   "time": 81.44,
+   "weight": 1.0,
+   "note_time": 80.8
+  },
+  {
+   "text": "dry",
+   "time": 82.4,
+   "weight": 0.99,
+   "note_time": 81.6
+  },
+  {
+   "text": "So",
+   "time": 82.98,
+   "weight": 0.16,
+   "note_time": 84.4
+  },
+  {
+   "text": "teach",
+   "time": 85.48,
+   "weight": 0.98,
+   "note_time": 85.6
+  },
+  {
+   "text": "us",
+   "time": 86.06,
+   "weight": 1.0,
+   "note_time": 86.4
+  },
+  {
+   "text": "how",
+   "time": 86.94,
+   "weight": 0.99,
+   "note_time": 87.6
+  },
+  {
+   "text": "our",
+   "time": 87.74,
+   "weight": 0.99,
+   "note_time": 88.0
+  },
+  {
+   "text": "days",
+   "time": 88.66,
+   "weight": 1.0,
+   "note_time": 88.8
+  },
+  {
+   "text": "will",
+   "time": 89.3,
+   "weight": 1.0,
+   "note_time": 89.0
+  },
+  {
+   "text": "pass",
+   "time": 90.0,
+   "weight": 1.0,
+   "note_time": 89.2
+  },
+  {
+   "text": "That",
+   "time": 90.78,
+   "weight": 0.5,
+   "note_time": 90.8
+  },
+  {
+   "text": "wise",
+   "time": 91.84,
+   "weight": 0.98,
+   "note_time": 91.2
+  },
+  {
+   "text": "our",
+   "time": 92.4,
+   "weight": 1.0,
+   "note_time": 92.4
+  },
+  {
+   "text": "hearts",
+   "time": 93.54,
+   "weight": 1.0,
+   "note_time": 92.8
+  },
+  {
+   "text": "may",
+   "time": 94.32,
+   "weight": 1.0,
+   "note_time": 93.6
+  },
+  {
+   "text": "lie",
+   "time": 94.72,
+   "weight": 0.86,
+   "note_time": 94.4
+  },
+  {
+   "text": "Lord,",
+   "time": 100.52,
+   "weight": 0.95,
+   "note_time": 100.8
+  },
+  {
+   "text": "you",
+   "time": 102.26,
+   "weight": 0.57,
+   "note_time": 102.4
+  },
+  {
+   "text": "have",
+   "time": 103.46,
+   "weight": 1.0,
+   "note_time": 103.2
+  },
+  {
+   "text": "been",
+   "time": 104.32,
+   "weight": 1.0,
+   "note_time": 104.0
+  },
+  {
+   "text": "our",
+   "time": 105.12,
+   "weight": 0.99,
+   "note_time": 105.2
+  },
+  {
+   "text": "d",
+   "time": 106.28,
+   "weight": 1.0,
+   "note_time": 105.6
+  },
+  {
+   "text": "welling",
+   "time": 106.57,
+   "weight": 1.0,
+   "note_time": 106.4
+  },
+  {
+   "text": "place",
+   "time": 106.86,
+   "weight": 1.0,
+   "note_time": 106.6
+  },
+  {
+   "text": "Through",
+   "time": 108.24,
+   "weight": 0.3,
+   "note_time": 108.4
+  },
+  {
+   "text": "all",
+   "time": 109.34,
+   "weight": 1.0,
+   "note_time": 108.8
+  },
+  {
+   "text": "the",
+   "time": 109.92,
+   "weight": 1.0,
+   "note_time": 110.0
+  },
+  {
+   "text": "years",
+   "time": 110.92,
+   "weight": 1.0,
+   "note_time": 110.4
+  },
+  {
+   "text": "gone",
+   "time": 111.48,
+   "weight": 0.99,
+   "note_time": 111.2
+  },
+  {
+   "text": "by",
+   "time": 112.12,
+   "weight": 1.0,
+   "note_time": 112.0
+  },
+  {
+   "text": "Be",
+   "time": 114.44,
+   "weight": 0.87,
+   "note_time": 114.8
+  },
+  {
+   "text": "fore",
+   "time": 114.79,
+   "weight": 0.87,
+   "note_time": 115.2
+  },
+  {
+   "text": "the",
+   "time": 115.84,
+   "weight": 1.0,
+   "note_time": 116.0
+  },
+  {
+   "text": "moun",
+   "time": 116.76,
+   "weight": 0.99,
+   "note_time": 116.8
+  },
+  {
+   "text": "tains",
+   "time": 117.11,
+   "weight": 0.99,
+   "note_time": 118.0
+  },
+  {
+   "text": "rose",
+   "time": 117.94,
+   "weight": 0.99,
+   "note_time": 118.4
+  },
+  {
+   "text": "in",
+   "time": 119.28,
+   "weight": 0.99,
+   "note_time": 119.2
+  },
+  {
+   "text": "space",
+   "time": 120.08,
+   "weight": 1.0,
+   "note_time": 119.4
+  },
+  {
+   "text": "You",
+   "time": 121.22,
+   "weight": 0.98,
+   "note_time": 121.2
+  },
+  {
+   "text": "were,",
+   "time": 121.92,
+   "weight": 1.0,
+   "note_time": 121.6
+  },
+  {
+   "text": "and",
+   "time": 122.32,
+   "weight": 0.94,
+   "note_time": 122.8
+  },
+  {
+   "text": "you",
+   "time": 123.5,
+   "weight": 0.62,
+   "note_time": 123.2
+  },
+  {
+   "text": "are",
+   "time": 123.88,
+   "weight": 1.0,
+   "note_time": 124.0
+  },
+  {
+   "text": "nigh",
+   "time": 124.28,
+   "weight": 0.0,
+   "note_time": 124.6
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 16 lyric lines sit on their notes."
+}

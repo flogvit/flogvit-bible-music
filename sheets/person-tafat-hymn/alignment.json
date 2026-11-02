@@ -1,0 +1,1389 @@
+{
+ "id": "person-tafat-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-tafat-hymn",
+ "offset_seconds": 1.59999999999971,
+ "words_heard": 119,
+ "words": 127,
+ "lines": [
+  {
+   "text": "Solomon had twelve governors over all Israel",
+   "heard": 7,
+   "words": 7,
+   "error_s": 5.23,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "They supplied provisions for the king and his household",
+   "heard": 9,
+   "words": 9,
+   "error_s": 4.7,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Each one was responsible for a month of the year",
+   "heard": 10,
+   "words": 10,
+   "error_s": 3.74,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Their names were recorded in the ancient scroll",
+   "heard": 8,
+   "words": 8,
+   "error_s": 2.41,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Ben-Abinadab ruled in all of Naphath Dor",
+   "heard": 6,
+   "words": 7,
+   "error_s": 2.64,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "He had Solomon's daughter Taphath as his wife",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.55,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A bond of loyalty between the royal house",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.37,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And the administrative leaders of the land",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.79,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The hill country of Ephraim held Ben-Hur",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ben-Deker in Makaz and Shaalbim and Beth Shemesh",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.68,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Ben-Hesed held Arubboth and Socoh and Hepher",
+   "heard": 5,
+   "words": 7,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Each region provided for the royal needs",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Taphath was given to strengthen the kingdom",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A political arrangement to ensure stability",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Her father had many wives of royal birth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yet Taphath's union served the state's design",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Taphath, Solomon's daughter, wife of Ben-Abinadab",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "So",
+   "time": 13.2,
+   "weight": 0.2,
+   "note_time": 18.95
+  },
+  {
+   "text": "lo",
+   "time": 13.55,
+   "weight": 0.2,
+   "note_time": 19.34
+  },
+  {
+   "text": "mon",
+   "time": 13.9,
+   "weight": 0.2,
+   "note_time": 19.54
+  },
+  {
+   "text": "had",
+   "time": 14.6,
+   "weight": 0.97,
+   "note_time": 20.13
+  },
+  {
+   "text": "twelve",
+   "time": 15.46,
+   "weight": 0.47,
+   "note_time": 20.53
+  },
+  {
+   "text": "gov",
+   "time": 15.9,
+   "weight": 0.98,
+   "note_time": 21.32
+  },
+  {
+   "text": "er",
+   "time": 16.23,
+   "weight": 0.98,
+   "note_time": 21.51
+  },
+  {
+   "text": "nors",
+   "time": 16.55,
+   "weight": 0.98,
+   "note_time": 21.71
+  },
+  {
+   "text": "o",
+   "time": 16.88,
+   "weight": 1.0,
+   "note_time": 22.11
+  },
+  {
+   "text": "ver",
+   "time": 17.23,
+   "weight": 1.0,
+   "note_time": 22.5
+  },
+  {
+   "text": "all",
+   "time": 17.74,
+   "weight": 0.99,
+   "note_time": 22.7
+  },
+  {
+   "text": "Is",
+   "time": 18.18,
+   "weight": 0.98,
+   "note_time": 23.29
+  },
+  {
+   "text": "rael",
+   "time": 18.53,
+   "weight": 0.98,
+   "note_time": 23.68
+  },
+  {
+   "text": "They",
+   "time": 18.94,
+   "weight": 0.35,
+   "note_time": 23.88
+  },
+  {
+   "text": "sup",
+   "time": 20.26,
+   "weight": 1.0,
+   "note_time": 25.26
+  },
+  {
+   "text": "plied",
+   "time": 20.61,
+   "weight": 1.0,
+   "note_time": 25.66
+  },
+  {
+   "text": "pro",
+   "time": 21.08,
+   "weight": 0.99,
+   "note_time": 25.86
+  },
+  {
+   "text": "vi",
+   "time": 21.36,
+   "weight": 0.99,
+   "note_time": 26.45
+  },
+  {
+   "text": "sions",
+   "time": 21.64,
+   "weight": 0.99,
+   "note_time": 26.64
+  },
+  {
+   "text": "for",
+   "time": 21.92,
+   "weight": 0.97,
+   "note_time": 26.84
+  },
+  {
+   "text": "the",
+   "time": 23.24,
+   "weight": 0.99,
+   "note_time": 27.04
+  },
+  {
+   "text": "king",
+   "time": 23.4,
+   "weight": 0.95,
+   "note_time": 28.03
+  },
+  {
+   "text": "and",
+   "time": 23.76,
+   "weight": 0.99,
+   "note_time": 28.22
+  },
+  {
+   "text": "his",
+   "time": 24.5,
+   "weight": 1.0,
+   "note_time": 28.42
+  },
+  {
+   "text": "house",
+   "time": 24.8,
+   "weight": 1.0,
+   "note_time": 29.01
+  },
+  {
+   "text": "hold",
+   "time": 25.15,
+   "weight": 1.0,
+   "note_time": 29.21
+  },
+  {
+   "text": "Each",
+   "time": 25.58,
+   "weight": 0.15,
+   "note_time": 29.61
+  },
+  {
+   "text": "one",
+   "time": 26.72,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "was",
+   "time": 27.24,
+   "weight": 0.99,
+   "note_time": 30.39
+  },
+  {
+   "text": "re",
+   "time": 27.62,
+   "weight": 0.99,
+   "note_time": 31.58
+  },
+  {
+   "text": "spon",
+   "time": 27.83,
+   "weight": 0.99,
+   "note_time": 31.97
+  },
+  {
+   "text": "si",
+   "time": 28.03,
+   "weight": 0.99,
+   "note_time": 32.37
+  },
+  {
+   "text": "ble",
+   "time": 28.24,
+   "weight": 0.99,
+   "note_time": 32.76
+  },
+  {
+   "text": "for",
+   "time": 28.44,
+   "weight": 0.97,
+   "note_time": 32.96
+  },
+  {
+   "text": "a",
+   "time": 29.5,
+   "weight": 0.98,
+   "note_time": 33.16
+  },
+  {
+   "text": "month",
+   "time": 29.74,
+   "weight": 1.0,
+   "note_time": 33.55
+  },
+  {
+   "text": "of",
+   "time": 30.52,
+   "weight": 0.99,
+   "note_time": 33.75
+  },
+  {
+   "text": "the",
+   "time": 30.84,
+   "weight": 1.0,
+   "note_time": 33.95
+  },
+  {
+   "text": "year",
+   "time": 31.06,
+   "weight": 1.0,
+   "note_time": 34.34
+  },
+  {
+   "text": "Their",
+   "time": 31.56,
+   "weight": 0.65,
+   "note_time": 34.54
+  },
+  {
+   "text": "names",
+   "time": 32.64,
+   "weight": 1.0,
+   "note_time": 34.74
+  },
+  {
+   "text": "were",
+   "time": 33.36,
+   "weight": 1.0,
+   "note_time": 35.53
+  },
+  {
+   "text": "re",
+   "time": 33.84,
+   "weight": 1.0,
+   "note_time": 35.92
+  },
+  {
+   "text": "cor",
+   "time": 34.14,
+   "weight": 1.0,
+   "note_time": 36.12
+  },
+  {
+   "text": "ded",
+   "time": 34.44,
+   "weight": 1.0,
+   "note_time": 36.32
+  },
+  {
+   "text": "in",
+   "time": 34.74,
+   "weight": 0.97,
+   "note_time": 37.5
+  },
+  {
+   "text": "the",
+   "time": 35.48,
+   "weight": 0.99,
+   "note_time": 37.89
+  },
+  {
+   "text": "an",
+   "time": 35.7,
+   "weight": 0.94,
+   "note_time": 38.68
+  },
+  {
+   "text": "cient",
+   "time": 36.05,
+   "weight": 0.94,
+   "note_time": 39.08
+  },
+  {
+   "text": "scroll",
+   "time": 36.84,
+   "weight": 1.0,
+   "note_time": 39.28
+  },
+  {
+   "text": "Ben-",
+   "time": 37.55,
+   "weight": 0.0,
+   "note_time": 39.87
+  },
+  {
+   "text": "A-",
+   "time": 38.26,
+   "weight": 0.0,
+   "note_time": 40.26
+  },
+  {
+   "text": "bi-",
+   "time": 38.97,
+   "weight": 0.0,
+   "note_time": 40.66
+  },
+  {
+   "text": "na-",
+   "time": 39.68,
+   "weight": 0.0,
+   "note_time": 41.05
+  },
+  {
+   "text": "dab",
+   "time": 40.39,
+   "weight": 0.0,
+   "note_time": 41.84
+  },
+  {
+   "text": "ruled",
+   "time": 41.1,
+   "weight": 1.0,
+   "note_time": 42.63
+  },
+  {
+   "text": "in",
+   "time": 41.72,
+   "weight": 0.99,
+   "note_time": 44.21
+  },
+  {
+   "text": "all",
+   "time": 42.12,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "of",
+   "time": 42.52,
+   "weight": 0.99,
+   "note_time": 45.39
+  },
+  {
+   "text": "Nap",
+   "time": 42.82,
+   "weight": 0.69,
+   "note_time": 45.59
+  },
+  {
+   "text": "hath",
+   "time": 43.15,
+   "weight": 0.69,
+   "note_time": 45.79
+  },
+  {
+   "text": "Dor",
+   "time": 43.48,
+   "weight": 0.78,
+   "note_time": 45.99
+  },
+  {
+   "text": "He",
+   "time": 44.5,
+   "weight": 0.96,
+   "note_time": 46.58
+  },
+  {
+   "text": "had",
+   "time": 45.12,
+   "weight": 1.0,
+   "note_time": 46.97
+  },
+  {
+   "text": "So",
+   "time": 45.26,
+   "weight": 0.4,
+   "note_time": 47.37
+  },
+  {
+   "text": "lo",
+   "time": 45.61,
+   "weight": 0.4,
+   "note_time": 47.76
+  },
+  {
+   "text": "mon's",
+   "time": 45.96,
+   "weight": 0.4,
+   "note_time": 47.96
+  },
+  {
+   "text": "daugh",
+   "time": 46.76,
+   "weight": 0.98,
+   "note_time": 48.36
+  },
+  {
+   "text": "ter",
+   "time": 47.0,
+   "weight": 0.98,
+   "note_time": 48.55
+  },
+  {
+   "text": "Tap",
+   "time": 47.88,
+   "weight": 0.76,
+   "note_time": 48.95
+  },
+  {
+   "text": "hath",
+   "time": 48.23,
+   "weight": 0.76,
+   "note_time": 50.13
+  },
+  {
+   "text": "as",
+   "time": 49.06,
+   "weight": 0.82,
+   "note_time": 50.33
+  },
+  {
+   "text": "his",
+   "time": 49.52,
+   "weight": 0.99,
+   "note_time": 50.53
+  },
+  {
+   "text": "wife",
+   "time": 49.84,
+   "weight": 1.0,
+   "note_time": 51.12
+  },
+  {
+   "text": "A",
+   "time": 50.46,
+   "weight": 0.48,
+   "note_time": 51.51
+  },
+  {
+   "text": "bond",
+   "time": 51.46,
+   "weight": 0.99,
+   "note_time": 52.11
+  },
+  {
+   "text": "of",
+   "time": 52.12,
+   "weight": 1.0,
+   "note_time": 52.5
+  },
+  {
+   "text": "loy",
+   "time": 52.9,
+   "weight": 0.99,
+   "note_time": 53.68
+  },
+  {
+   "text": "al",
+   "time": 53.1,
+   "weight": 0.99,
+   "note_time": 54.08
+  },
+  {
+   "text": "ty",
+   "time": 53.3,
+   "weight": 0.99,
+   "note_time": 54.28
+  },
+  {
+   "text": "be",
+   "time": 53.5,
+   "weight": 0.94,
+   "note_time": 54.87
+  },
+  {
+   "text": "tween",
+   "time": 53.85,
+   "weight": 0.94,
+   "note_time": 55.26
+  },
+  {
+   "text": "the",
+   "time": 54.76,
+   "weight": 0.97,
+   "note_time": 56.64
+  },
+  {
+   "text": "roy",
+   "time": 55.38,
+   "weight": 0.86,
+   "note_time": 56.84
+  },
+  {
+   "text": "al",
+   "time": 55.54,
+   "weight": 0.86,
+   "note_time": 58.03
+  },
+  {
+   "text": "house",
+   "time": 55.7,
+   "weight": 0.98,
+   "note_time": 58.42
+  },
+  {
+   "text": "And",
+   "time": 56.68,
+   "weight": 0.36,
+   "note_time": 58.62
+  },
+  {
+   "text": "the",
+   "time": 57.56,
+   "weight": 0.99,
+   "note_time": 58.82
+  },
+  {
+   "text": "ad",
+   "time": 57.72,
+   "weight": 0.47,
+   "note_time": 59.01
+  },
+  {
+   "text": "min",
+   "time": 57.98,
+   "weight": 0.47,
+   "note_time": 59.21
+  },
+  {
+   "text": "is",
+   "time": 58.24,
+   "weight": 0.47,
+   "note_time": 59.8
+  },
+  {
+   "text": "tra",
+   "time": 58.5,
+   "weight": 0.47,
+   "note_time": 60.0
+  },
+  {
+   "text": "tive",
+   "time": 58.76,
+   "weight": 0.47,
+   "note_time": 60.59
+  },
+  {
+   "text": "lead",
+   "time": 59.02,
+   "weight": 0.99,
+   "note_time": 60.79
+  },
+  {
+   "text": "ers",
+   "time": 59.37,
+   "weight": 0.99,
+   "note_time": 61.18
+  },
+  {
+   "text": "of",
+   "time": 59.9,
+   "weight": 1.0,
+   "note_time": 61.58
+  },
+  {
+   "text": "the",
+   "time": 60.4,
+   "weight": 0.99,
+   "note_time": 62.76
+  },
+  {
+   "text": "land",
+   "time": 60.64,
+   "weight": 0.99,
+   "note_time": 62.96
+  },
+  {
+   "text": "The",
+   "time": 62.72,
+   "weight": 0.84,
+   "note_time": 63.16
+  },
+  {
+   "text": "hill",
+   "time": 63.42,
+   "weight": 0.97,
+   "note_time": 63.55
+  },
+  {
+   "text": "coun",
+   "time": 63.76,
+   "weight": 0.88,
+   "note_time": 63.75
+  },
+  {
+   "text": "try",
+   "time": 64.11,
+   "weight": 0.88,
+   "note_time": 64.14
+  },
+  {
+   "text": "of",
+   "time": 64.82,
+   "weight": 0.99,
+   "note_time": 64.74
+  },
+  {
+   "text": "Ep",
+   "time": 65.44,
+   "weight": 1.0,
+   "note_time": 65.13
+  },
+  {
+   "text": "hraim",
+   "time": 65.79,
+   "weight": 1.0,
+   "note_time": 65.53
+  },
+  {
+   "text": "held",
+   "time": 66.86,
+   "weight": 0.78,
+   "note_time": 65.92
+  },
+  {
+   "text": "Ben-",
+   "time": 67.48,
+   "weight": 0.0,
+   "note_time": 66.12
+  },
+  {
+   "text": "Hur",
+   "time": 68.09,
+   "weight": 0.0,
+   "note_time": 66.32
+  },
+  {
+   "text": "Ben-",
+   "time": 68.71,
+   "weight": 0.0,
+   "note_time": 68.68
+  },
+  {
+   "text": "Dek-",
+   "time": 69.33,
+   "weight": 0.0,
+   "note_time": 68.88
+  },
+  {
+   "text": "er",
+   "time": 69.94,
+   "weight": 0.0,
+   "note_time": 69.47
+  },
+  {
+   "text": "in",
+   "time": 70.56,
+   "weight": 0.84,
+   "note_time": 70.26
+  },
+  {
+   "text": "Ma",
+   "time": 71.68,
+   "weight": 0.27,
+   "note_time": 70.66
+  },
+  {
+   "text": "kaz",
+   "time": 72.03,
+   "weight": 0.27,
+   "note_time": 70.86
+  },
+  {
+   "text": "and",
+   "time": 72.58,
+   "weight": 0.56,
+   "note_time": 71.05
+  },
+  {
+   "text": "Shaal",
+   "time": 73.14,
+   "weight": 0.8,
+   "note_time": 71.45
+  },
+  {
+   "text": "bim",
+   "time": 73.49,
+   "weight": 0.8,
+   "note_time": 72.63
+  },
+  {
+   "text": "and",
+   "time": 73.96,
+   "weight": 0.65,
+   "note_time": 73.42
+  },
+  {
+   "text": "Beth",
+   "time": 74.18,
+   "weight": 0.97,
+   "note_time": 74.21
+  },
+  {
+   "text": "She",
+   "time": 74.74,
+   "weight": 0.84,
+   "note_time": 75.39
+  },
+  {
+   "text": "mesh",
+   "time": 75.09,
+   "weight": 0.84,
+   "note_time": 75.79
+  },
+  {
+   "text": "Ben-",
+   "time": 75.6,
+   "weight": 0.0,
+   "note_time": 75.99
+  },
+  {
+   "text": "H-",
+   "time": 76.12,
+   "weight": 0.0,
+   "note_time": 76.97
+  },
+  {
+   "text": "esed",
+   "time": 76.63,
+   "weight": 0.0,
+   "note_time": 77.37
+  },
+  {
+   "text": "held",
+   "time": 77.14,
+   "weight": 0.98,
+   "note_time": 77.76
+  },
+  {
+   "text": "A",
+   "time": 77.59,
+   "weight": 0.0,
+   "note_time": 78.55
+  },
+  {
+   "text": "rub",
+   "time": 78.04,
+   "weight": 0.0,
+   "note_time": 78.95
+  },
+  {
+   "text": "both",
+   "time": 78.49,
+   "weight": 0.0,
+   "note_time": 79.34
+  },
+  {
+   "text": "and",
+   "time": 78.94,
+   "weight": 0.74,
+   "note_time": 79.54
+  },
+  {
+   "text": "So",
+   "time": 79.3,
+   "weight": 0.53,
+   "note_time": 80.13
+  },
+  {
+   "text": "coh",
+   "time": 79.65,
+   "weight": 0.53,
+   "note_time": 80.53
+  },
+  {
+   "text": "and",
+   "time": 80.12,
+   "weight": 0.97,
+   "note_time": 80.72
+  },
+  {
+   "text": "Hep",
+   "time": 80.56,
+   "weight": 0.58,
+   "note_time": 81.71
+  },
+  {
+   "text": "her",
+   "time": 80.85,
+   "weight": 0.58,
+   "note_time": 82.11
+  },
+  {
+   "text": "Each",
+   "time": 81.14,
+   "weight": 0.42,
+   "note_time": 82.5
+  },
+  {
+   "text": "re",
+   "time": 82.46,
+   "weight": 0.98,
+   "note_time": 82.89
+  },
+  {
+   "text": "gion",
+   "time": 82.81,
+   "weight": 0.98,
+   "note_time": 83.49
+  },
+  {
+   "text": "pro",
+   "time": 83.22,
+   "weight": 0.98,
+   "note_time": 83.68
+  },
+  {
+   "text": "vid",
+   "time": 83.56,
+   "weight": 0.98,
+   "note_time": 83.88
+  },
+  {
+   "text": "ed",
+   "time": 83.9,
+   "weight": 0.98,
+   "note_time": 84.87
+  },
+  {
+   "text": "for",
+   "time": 84.24,
+   "weight": 0.99,
+   "note_time": 85.26
+  },
+  {
+   "text": "the",
+   "time": 85.16,
+   "weight": 0.96,
+   "note_time": 85.66
+  },
+  {
+   "text": "roy",
+   "time": 85.56,
+   "weight": 0.91,
+   "note_time": 85.86
+  },
+  {
+   "text": "al",
+   "time": 85.91,
+   "weight": 0.91,
+   "note_time": 86.45
+  },
+  {
+   "text": "needs",
+   "time": 86.36,
+   "weight": 0.86,
+   "note_time": 86.64
+  },
+  {
+   "text": "Tap",
+   "time": 88.52,
+   "weight": 0.63,
+   "note_time": 88.03
+  },
+  {
+   "text": "hath",
+   "time": 88.87,
+   "weight": 0.63,
+   "note_time": 88.42
+  },
+  {
+   "text": "was",
+   "time": 89.72,
+   "weight": 0.99,
+   "note_time": 89.01
+  },
+  {
+   "text": "giv",
+   "time": 90.24,
+   "weight": 1.0,
+   "note_time": 89.61
+  },
+  {
+   "text": "en",
+   "time": 90.52,
+   "weight": 1.0,
+   "note_time": 89.8
+  },
+  {
+   "text": "to",
+   "time": 90.8,
+   "weight": 0.87,
+   "note_time": 90.39
+  },
+  {
+   "text": "strength",
+   "time": 91.78,
+   "weight": 1.0,
+   "note_time": 90.79
+  },
+  {
+   "text": "en",
+   "time": 92.13,
+   "weight": 1.0,
+   "note_time": 91.18
+  },
+  {
+   "text": "the",
+   "time": 92.54,
+   "weight": 0.98,
+   "note_time": 91.58
+  },
+  {
+   "text": "kin",
+   "time": 93.38,
+   "weight": 0.91,
+   "note_time": 92.17
+  },
+  {
+   "text": "gdom",
+   "time": 93.64,
+   "weight": 0.91,
+   "note_time": 92.37
+  },
+  {
+   "text": "A",
+   "time": 94.26,
+   "weight": 0.91,
+   "note_time": 93.16
+  },
+  {
+   "text": "po",
+   "time": 94.96,
+   "weight": 0.69,
+   "note_time": 94.74
+  },
+  {
+   "text": "lit",
+   "time": 95.15,
+   "weight": 0.69,
+   "note_time": 95.13
+  },
+  {
+   "text": "i",
+   "time": 95.33,
+   "weight": 0.69,
+   "note_time": 95.92
+  },
+  {
+   "text": "cal",
+   "time": 95.52,
+   "weight": 0.69,
+   "note_time": 96.32
+  },
+  {
+   "text": "ar",
+   "time": 95.7,
+   "weight": 1.0,
+   "note_time": 96.51
+  },
+  {
+   "text": "range",
+   "time": 96.05,
+   "weight": 1.0,
+   "note_time": 97.5
+  },
+  {
+   "text": "ment",
+   "time": 96.4,
+   "weight": 1.0,
+   "note_time": 97.89
+  },
+  {
+   "text": "to",
+   "time": 97.14,
+   "weight": 0.97,
+   "note_time": 98.29
+  },
+  {
+   "text": "en",
+   "time": 98.02,
+   "weight": 0.98,
+   "note_time": 99.08
+  },
+  {
+   "text": "sure",
+   "time": 98.22,
+   "weight": 0.98,
+   "note_time": 99.28
+  },
+  {
+   "text": "sta",
+   "time": 98.42,
+   "weight": 1.0,
+   "note_time": 99.67
+  },
+  {
+   "text": "bil",
+   "time": 98.62,
+   "weight": 1.0,
+   "note_time": 100.66
+  },
+  {
+   "text": "i",
+   "time": 98.82,
+   "weight": 1.0,
+   "note_time": 100.86
+  },
+  {
+   "text": "ty",
+   "time": 99.02,
+   "weight": 1.0,
+   "note_time": 101.05
+  },
+  {
+   "text": "Her",
+   "time": 99.22,
+   "weight": 0.31,
+   "note_time": 101.45
+  },
+  {
+   "text": "fa",
+   "time": 100.98,
+   "weight": 1.0,
+   "note_time": 101.64
+  },
+  {
+   "text": "ther",
+   "time": 101.33,
+   "weight": 1.0,
+   "note_time": 102.24
+  },
+  {
+   "text": "had",
+   "time": 101.88,
+   "weight": 0.98,
+   "note_time": 102.43
+  },
+  {
+   "text": "ma",
+   "time": 102.68,
+   "weight": 1.0,
+   "note_time": 103.03
+  },
+  {
+   "text": "ny",
+   "time": 102.93,
+   "weight": 1.0,
+   "note_time": 103.82
+  },
+  {
+   "text": "wives",
+   "time": 103.18,
+   "weight": 1.0,
+   "note_time": 104.01
+  },
+  {
+   "text": "of",
+   "time": 103.9,
+   "weight": 0.98,
+   "note_time": 104.21
+  },
+  {
+   "text": "roy",
+   "time": 104.82,
+   "weight": 0.99,
+   "note_time": 104.8
+  },
+  {
+   "text": "al",
+   "time": 105.17,
+   "weight": 0.99,
+   "note_time": 105.0
+  },
+  {
+   "text": "birth",
+   "time": 105.58,
+   "weight": 1.0,
+   "note_time": 105.2
+  },
+  {
+   "text": "Yet",
+   "time": 106.74,
+   "weight": 0.52,
+   "note_time": 106.97
+  },
+  {
+   "text": "Tap",
+   "time": 107.29,
+   "weight": 0.0,
+   "note_time": 107.37
+  },
+  {
+   "text": "hath's",
+   "time": 107.83,
+   "weight": 0.0,
+   "note_time": 107.76
+  },
+  {
+   "text": "u",
+   "time": 108.38,
+   "weight": 0.8,
+   "note_time": 108.55
+  },
+  {
+   "text": "nion",
+   "time": 108.73,
+   "weight": 0.8,
+   "note_time": 108.95
+  },
+  {
+   "text": "served",
+   "time": 109.5,
+   "weight": 0.99,
+   "note_time": 109.54
+  },
+  {
+   "text": "the",
+   "time": 110.22,
+   "weight": 1.0,
+   "note_time": 109.74
+  },
+  {
+   "text": "state's",
+   "time": 110.54,
+   "weight": 0.97,
+   "note_time": 110.53
+  },
+  {
+   "text": "de",
+   "time": 111.46,
+   "weight": 1.0,
+   "note_time": 111.32
+  },
+  {
+   "text": "sign",
+   "time": 111.81,
+   "weight": 1.0,
+   "note_time": 111.71
+  },
+  {
+   "text": "Tap",
+   "time": 113.43,
+   "weight": 0.0,
+   "note_time": 113.29
+  },
+  {
+   "text": "hath,",
+   "time": 115.06,
+   "weight": 0.0,
+   "note_time": 115.26
+  },
+  {
+   "text": "So",
+   "time": 116.68,
+   "weight": 1.0,
+   "note_time": 116.05
+  },
+  {
+   "text": "lo",
+   "time": 117.03,
+   "weight": 1.0,
+   "note_time": 116.45
+  },
+  {
+   "text": "mon's",
+   "time": 117.38,
+   "weight": 1.0,
+   "note_time": 116.84
+  },
+  {
+   "text": "daugh",
+   "time": 118.08,
+   "weight": 1.0,
+   "note_time": 117.63
+  },
+  {
+   "text": "ter,",
+   "time": 118.35,
+   "weight": 1.0,
+   "note_time": 118.42
+  },
+  {
+   "text": "wife",
+   "time": 121.0,
+   "weight": 0.9,
+   "note_time": 121.58
+  },
+  {
+   "text": "of",
+   "time": 122.4,
+   "weight": 1.0,
+   "note_time": 122.37
+  },
+  {
+   "text": "Ben-",
+   "time": 122.8,
+   "weight": 0.0,
+   "note_time": 123.16
+  },
+  {
+   "text": "A-",
+   "time": 123.2,
+   "weight": 0.0,
+   "note_time": 123.55
+  },
+  {
+   "text": "bi-",
+   "time": 123.6,
+   "weight": 0.0,
+   "note_time": 123.75
+  },
+  {
+   "text": "na-",
+   "time": 124.0,
+   "weight": 0.0,
+   "note_time": 124.34
+  },
+  {
+   "text": "dab",
+   "time": 124.4,
+   "weight": 0.0,
+   "note_time": 124.74
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 1.2 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "9 of 17 lyric lines sit clearly on their notes; 8 are uncertain and printed in grey italics."
+}

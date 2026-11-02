@@ -1,0 +1,648 @@
+{
+ "id": "verse-40-26-38-taize",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-26-38-taize",
+ "offset_seconds": -5.320000000000142,
+ "words_heard": 83,
+ "words": 83,
+ "lines": [
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 17.61,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 13.52,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": 8.1,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.71,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.38,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Stay here and keep watch with me",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Watch and pray",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Stay",
+   "time": 20.0,
+   "weight": 0.48,
+   "note_time": 3.2
+  },
+  {
+   "text": "here",
+   "time": 21.4,
+   "weight": 0.94,
+   "note_time": 4.0
+  },
+  {
+   "text": "and",
+   "time": 22.4,
+   "weight": 0.93,
+   "note_time": 4.8
+  },
+  {
+   "text": "keep",
+   "time": 23.64,
+   "weight": 0.98,
+   "note_time": 5.6
+  },
+  {
+   "text": "watch",
+   "time": 24.02,
+   "weight": 0.99,
+   "note_time": 6.4
+  },
+  {
+   "text": "with",
+   "time": 24.88,
+   "weight": 0.99,
+   "note_time": 7.2
+  },
+  {
+   "text": "me",
+   "time": 25.26,
+   "weight": 0.99,
+   "note_time": 8.0
+  },
+  {
+   "text": "Watch",
+   "time": 25.78,
+   "weight": 0.29,
+   "note_time": 11.2
+  },
+  {
+   "text": "and",
+   "time": 28.1,
+   "weight": 0.39,
+   "note_time": 12.0
+  },
+  {
+   "text": "pray",
+   "time": 29.66,
+   "weight": 0.39,
+   "note_time": 12.8
+  },
+  {
+   "text": "Stay",
+   "time": 32.72,
+   "weight": 0.76,
+   "note_time": 19.2
+  },
+  {
+   "text": "here",
+   "time": 34.12,
+   "weight": 1.0,
+   "note_time": 20.0
+  },
+  {
+   "text": "and",
+   "time": 35.14,
+   "weight": 0.88,
+   "note_time": 21.2
+  },
+  {
+   "text": "keep",
+   "time": 35.3,
+   "weight": 0.94,
+   "note_time": 21.6
+  },
+  {
+   "text": "watch",
+   "time": 35.3,
+   "weight": 0.98,
+   "note_time": 22.0
+  },
+  {
+   "text": "with",
+   "time": 35.3,
+   "weight": 0.99,
+   "note_time": 22.4
+  },
+  {
+   "text": "me",
+   "time": 35.3,
+   "weight": 1.0,
+   "note_time": 22.8
+  },
+  {
+   "text": "Watch",
+   "time": 35.3,
+   "weight": 0.91,
+   "note_time": 25.6
+  },
+  {
+   "text": "and",
+   "time": 35.3,
+   "weight": 0.99,
+   "note_time": 27.2
+  },
+  {
+   "text": "pray",
+   "time": 35.3,
+   "weight": 1.0,
+   "note_time": 28.8
+  },
+  {
+   "text": "Stay",
+   "time": 35.3,
+   "weight": 0.18,
+   "note_time": 32.0
+  },
+  {
+   "text": "here",
+   "time": 35.98,
+   "weight": 0.97,
+   "note_time": 34.0
+  },
+  {
+   "text": "and",
+   "time": 35.98,
+   "weight": 0.94,
+   "note_time": 34.4
+  },
+  {
+   "text": "keep",
+   "time": 36.2,
+   "weight": 0.98,
+   "note_time": 34.8
+  },
+  {
+   "text": "watch",
+   "time": 36.66,
+   "weight": 0.99,
+   "note_time": 35.2
+  },
+  {
+   "text": "with",
+   "time": 37.48,
+   "weight": 1.0,
+   "note_time": 35.6
+  },
+  {
+   "text": "me",
+   "time": 37.84,
+   "weight": 0.99,
+   "note_time": 36.0
+  },
+  {
+   "text": "Watch",
+   "time": 38.3,
+   "weight": 0.24,
+   "note_time": 38.4
+  },
+  {
+   "text": "and",
+   "time": 40.6,
+   "weight": 0.4,
+   "note_time": 40.0
+  },
+  {
+   "text": "pray",
+   "time": 42.2,
+   "weight": 0.39,
+   "note_time": 41.2
+  },
+  {
+   "text": "Stay",
+   "time": 46.2,
+   "weight": 0.85,
+   "note_time": 44.8
+  },
+  {
+   "text": "here",
+   "time": 46.9,
+   "weight": 1.0,
+   "note_time": 46.8
+  },
+  {
+   "text": "and",
+   "time": 47.74,
+   "weight": 1.0,
+   "note_time": 47.2
+  },
+  {
+   "text": "keep",
+   "time": 48.98,
+   "weight": 1.0,
+   "note_time": 47.6
+  },
+  {
+   "text": "watch",
+   "time": 49.3,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "with",
+   "time": 50.12,
+   "weight": 1.0,
+   "note_time": 48.4
+  },
+  {
+   "text": "me",
+   "time": 50.58,
+   "weight": 1.0,
+   "note_time": 48.8
+  },
+  {
+   "text": "Watch",
+   "time": 51.24,
+   "weight": 0.4,
+   "note_time": 51.2
+  },
+  {
+   "text": "and",
+   "time": 53.56,
+   "weight": 1.0,
+   "note_time": 52.8
+  },
+  {
+   "text": "pray",
+   "time": 55.04,
+   "weight": 1.0,
+   "note_time": 54.4
+  },
+  {
+   "text": "Stay",
+   "time": 58.04,
+   "weight": 0.24,
+   "note_time": 57.6
+  },
+  {
+   "text": "here",
+   "time": 59.44,
+   "weight": 0.89,
+   "note_time": 59.6
+  },
+  {
+   "text": "and",
+   "time": 60.4,
+   "weight": 0.87,
+   "note_time": 60.0
+  },
+  {
+   "text": "keep",
+   "time": 61.56,
+   "weight": 0.96,
+   "note_time": 60.4
+  },
+  {
+   "text": "watch",
+   "time": 61.94,
+   "weight": 0.93,
+   "note_time": 60.8
+  },
+  {
+   "text": "with",
+   "time": 62.8,
+   "weight": 0.97,
+   "note_time": 61.2
+  },
+  {
+   "text": "me",
+   "time": 63.18,
+   "weight": 0.99,
+   "note_time": 61.6
+  },
+  {
+   "text": "Watch",
+   "time": 63.62,
+   "weight": 0.2,
+   "note_time": 64.0
+  },
+  {
+   "text": "and",
+   "time": 65.88,
+   "weight": 0.39,
+   "note_time": 65.6
+  },
+  {
+   "text": "pray",
+   "time": 67.58,
+   "weight": 0.39,
+   "note_time": 66.8
+  },
+  {
+   "text": "Stay",
+   "time": 70.72,
+   "weight": 0.94,
+   "note_time": 70.4
+  },
+  {
+   "text": "here",
+   "time": 72.12,
+   "weight": 1.0,
+   "note_time": 72.4
+  },
+  {
+   "text": "and",
+   "time": 73.14,
+   "weight": 1.0,
+   "note_time": 72.8
+  },
+  {
+   "text": "keep",
+   "time": 74.3,
+   "weight": 1.0,
+   "note_time": 73.2
+  },
+  {
+   "text": "watch",
+   "time": 74.56,
+   "weight": 1.0,
+   "note_time": 73.6
+  },
+  {
+   "text": "with",
+   "time": 75.36,
+   "weight": 1.0,
+   "note_time": 74.0
+  },
+  {
+   "text": "me",
+   "time": 75.84,
+   "weight": 1.0,
+   "note_time": 74.4
+  },
+  {
+   "text": "Watch",
+   "time": 76.4,
+   "weight": 0.4,
+   "note_time": 76.8
+  },
+  {
+   "text": "and",
+   "time": 79.02,
+   "weight": 1.0,
+   "note_time": 78.4
+  },
+  {
+   "text": "pray",
+   "time": 80.2,
+   "weight": 0.4,
+   "note_time": 80.0
+  },
+  {
+   "text": "Stay",
+   "time": 83.3,
+   "weight": 0.16,
+   "note_time": 83.2
+  },
+  {
+   "text": "here",
+   "time": 84.7,
+   "weight": 0.86,
+   "note_time": 85.2
+  },
+  {
+   "text": "and",
+   "time": 85.72,
+   "weight": 0.9,
+   "note_time": 85.6
+  },
+  {
+   "text": "keep",
+   "time": 86.82,
+   "weight": 0.96,
+   "note_time": 86.0
+  },
+  {
+   "text": "watch",
+   "time": 87.16,
+   "weight": 0.96,
+   "note_time": 86.4
+  },
+  {
+   "text": "with",
+   "time": 88.06,
+   "weight": 0.98,
+   "note_time": 86.8
+  },
+  {
+   "text": "me",
+   "time": 88.42,
+   "weight": 0.99,
+   "note_time": 87.2
+  },
+  {
+   "text": "Watch",
+   "time": 88.86,
+   "weight": 0.26,
+   "note_time": 89.6
+  },
+  {
+   "text": "and",
+   "time": 91.24,
+   "weight": 0.39,
+   "note_time": 91.2
+  },
+  {
+   "text": "pray",
+   "time": 92.82,
+   "weight": 0.39,
+   "note_time": 92.4
+  },
+  {
+   "text": "Stay",
+   "time": 96.7,
+   "weight": 0.88,
+   "note_time": 96.0
+  },
+  {
+   "text": "here",
+   "time": 97.4,
+   "weight": 1.0,
+   "note_time": 98.0
+  },
+  {
+   "text": "and",
+   "time": 98.4,
+   "weight": 1.0,
+   "note_time": 98.4
+  },
+  {
+   "text": "keep",
+   "time": 99.58,
+   "weight": 1.0,
+   "note_time": 98.8
+  },
+  {
+   "text": "watch",
+   "time": 99.82,
+   "weight": 1.0,
+   "note_time": 99.2
+  },
+  {
+   "text": "with",
+   "time": 100.6,
+   "weight": 1.0,
+   "note_time": 99.6
+  },
+  {
+   "text": "me",
+   "time": 101.06,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "Watch",
+   "time": 101.66,
+   "weight": 0.4,
+   "note_time": 102.4
+  },
+  {
+   "text": "and",
+   "time": 104.1,
+   "weight": 1.0,
+   "note_time": 104.0
+  },
+  {
+   "text": "pray",
+   "time": 105.34,
+   "weight": 0.4,
+   "note_time": 105.6
+  },
+  {
+   "text": "Watch",
+   "time": 114.8,
+   "weight": 0.32,
+   "note_time": 115.2
+  },
+  {
+   "text": "and",
+   "time": 116.68,
+   "weight": 0.98,
+   "note_time": 116.8
+  },
+  {
+   "text": "pray",
+   "time": 118.12,
+   "weight": 0.38,
+   "note_time": 118.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "8 of 17 lyric lines sit clearly on their notes; 9 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,1114 @@
+{
+ "id": "verse-19-118-24-mass-choir",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-118-24-mass-choir",
+ "offset_seconds": -1.400000000000226,
+ "words_heard": 127,
+ "words": 130,
+ "lines": [
+  {
+   "text": "The stone the builders rejected",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Has become the cornerstone",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord is doing",
+   "heard": 2,
+   "words": 4,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "It is marvelous in our eyes",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This is the day, this is the day",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "That the Lord has made",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We will rejoice, we will rejoice",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And be glad again",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You are my God and I will thank you",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You are my God, I will exalt you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Give thanks to the Lord, for he is good",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His steadfast love endures forever",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This is the day, this is the day",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "That the Lord has made",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We will rejoice, we will rejoice",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And be glad in it",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Rejoice, rejoice, rejoice",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Be glad, be glad, be glad",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This is the day, this is the day",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "That the Lord has made",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "We will rejoice, we will rejoice",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And be glad in it",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 16.78,
+   "weight": 0.82,
+   "note_time": 16.79
+  },
+  {
+   "text": "stone",
+   "time": 17.48,
+   "weight": 0.98,
+   "note_time": 17.01
+  },
+  {
+   "text": "the",
+   "time": 18.1,
+   "weight": 0.97,
+   "note_time": 17.46
+  },
+  {
+   "text": "buil",
+   "time": 18.46,
+   "weight": 0.97,
+   "note_time": 17.69
+  },
+  {
+   "text": "ders",
+   "time": 18.81,
+   "weight": 0.97,
+   "note_time": 18.13
+  },
+  {
+   "text": "re",
+   "time": 19.22,
+   "weight": 0.97,
+   "note_time": 19.48
+  },
+  {
+   "text": "ject",
+   "time": 19.57,
+   "weight": 0.97,
+   "note_time": 19.7
+  },
+  {
+   "text": "ed",
+   "time": 19.92,
+   "weight": 0.97,
+   "note_time": 19.93
+  },
+  {
+   "text": "Has",
+   "time": 23.7,
+   "weight": 0.95,
+   "note_time": 24.18
+  },
+  {
+   "text": "be",
+   "time": 25.1,
+   "weight": 1.0,
+   "note_time": 24.85
+  },
+  {
+   "text": "come",
+   "time": 25.45,
+   "weight": 1.0,
+   "note_time": 25.52
+  },
+  {
+   "text": "the",
+   "time": 25.8,
+   "weight": 0.23,
+   "note_time": 25.75
+  },
+  {
+   "text": "cor",
+   "time": 26.56,
+   "weight": 0.99,
+   "note_time": 26.42
+  },
+  {
+   "text": "ner",
+   "time": 26.91,
+   "weight": 0.99,
+   "note_time": 26.64
+  },
+  {
+   "text": "stone",
+   "time": 27.26,
+   "weight": 0.99,
+   "note_time": 26.87
+  },
+  {
+   "text": "The",
+   "time": 32.68,
+   "weight": 0.95,
+   "note_time": 31.12
+  },
+  {
+   "text": "Lord",
+   "time": 33.02,
+   "weight": 0.0,
+   "note_time": 31.79
+  },
+  {
+   "text": "is",
+   "time": 33.36,
+   "weight": 0.0,
+   "note_time": 32.01
+  },
+  {
+   "text": "do",
+   "time": 33.7,
+   "weight": 0.99,
+   "note_time": 32.91
+  },
+  {
+   "text": "ing",
+   "time": 33.88,
+   "weight": 0.99,
+   "note_time": 33.36
+  },
+  {
+   "text": "It",
+   "time": 34.66,
+   "weight": 0.5,
+   "note_time": 34.93
+  },
+  {
+   "text": "is",
+   "time": 35.34,
+   "weight": 1.0,
+   "note_time": 35.15
+  },
+  {
+   "text": "mar",
+   "time": 36.3,
+   "weight": 0.99,
+   "note_time": 35.6
+  },
+  {
+   "text": "ve",
+   "time": 36.53,
+   "weight": 0.99,
+   "note_time": 36.04
+  },
+  {
+   "text": "lous",
+   "time": 36.77,
+   "weight": 0.99,
+   "note_time": 36.27
+  },
+  {
+   "text": "in",
+   "time": 37.0,
+   "weight": 0.99,
+   "note_time": 36.49
+  },
+  {
+   "text": "our",
+   "time": 37.62,
+   "weight": 0.99,
+   "note_time": 36.94
+  },
+  {
+   "text": "eyes",
+   "time": 38.1,
+   "weight": 1.0,
+   "note_time": 37.39
+  },
+  {
+   "text": "This",
+   "time": 39.24,
+   "weight": 0.38,
+   "note_time": 40.3
+  },
+  {
+   "text": "is",
+   "time": 41.26,
+   "weight": 1.0,
+   "note_time": 40.52
+  },
+  {
+   "text": "the",
+   "time": 41.6,
+   "weight": 1.0,
+   "note_time": 40.75
+  },
+  {
+   "text": "day,",
+   "time": 41.8,
+   "weight": 1.0,
+   "note_time": 40.97
+  },
+  {
+   "text": "this",
+   "time": 42.4,
+   "weight": 0.99,
+   "note_time": 42.09
+  },
+  {
+   "text": "is",
+   "time": 43.14,
+   "weight": 1.0,
+   "note_time": 42.31
+  },
+  {
+   "text": "the",
+   "time": 43.3,
+   "weight": 1.0,
+   "note_time": 42.54
+  },
+  {
+   "text": "day",
+   "time": 43.5,
+   "weight": 1.0,
+   "note_time": 42.76
+  },
+  {
+   "text": "That",
+   "time": 43.94,
+   "weight": 0.84,
+   "note_time": 43.88
+  },
+  {
+   "text": "the",
+   "time": 44.84,
+   "weight": 1.0,
+   "note_time": 44.33
+  },
+  {
+   "text": "Lord",
+   "time": 45.28,
+   "weight": 1.0,
+   "note_time": 44.55
+  },
+  {
+   "text": "has",
+   "time": 45.9,
+   "weight": 0.99,
+   "note_time": 45.9
+  },
+  {
+   "text": "made",
+   "time": 47.04,
+   "weight": 0.99,
+   "note_time": 46.34
+  },
+  {
+   "text": "We",
+   "time": 47.48,
+   "weight": 1.0,
+   "note_time": 47.46
+  },
+  {
+   "text": "will",
+   "time": 48.42,
+   "weight": 1.0,
+   "note_time": 47.69
+  },
+  {
+   "text": "re",
+   "time": 48.72,
+   "weight": 1.0,
+   "note_time": 47.91
+  },
+  {
+   "text": "joice,",
+   "time": 49.04,
+   "weight": 1.0,
+   "note_time": 48.13
+  },
+  {
+   "text": "we",
+   "time": 49.72,
+   "weight": 1.0,
+   "note_time": 49.25
+  },
+  {
+   "text": "will",
+   "time": 50.32,
+   "weight": 1.0,
+   "note_time": 49.48
+  },
+  {
+   "text": "re",
+   "time": 50.52,
+   "weight": 1.0,
+   "note_time": 49.7
+  },
+  {
+   "text": "joice",
+   "time": 50.76,
+   "weight": 1.0,
+   "note_time": 49.93
+  },
+  {
+   "text": "And",
+   "time": 51.0,
+   "weight": 0.96,
+   "note_time": 51.04
+  },
+  {
+   "text": "be",
+   "time": 52.12,
+   "weight": 1.0,
+   "note_time": 51.49
+  },
+  {
+   "text": "glad",
+   "time": 52.5,
+   "weight": 1.0,
+   "note_time": 51.94
+  },
+  {
+   "text": "a",
+   "time": 53.16,
+   "weight": 0.82,
+   "note_time": 53.06
+  },
+  {
+   "text": "gain",
+   "time": 53.51,
+   "weight": 0.82,
+   "note_time": 53.28
+  },
+  {
+   "text": "You",
+   "time": 57.64,
+   "weight": 0.45,
+   "note_time": 57.76
+  },
+  {
+   "text": "are",
+   "time": 58.72,
+   "weight": 0.98,
+   "note_time": 58.66
+  },
+  {
+   "text": "my",
+   "time": 59.28,
+   "weight": 0.99,
+   "note_time": 59.1
+  },
+  {
+   "text": "God",
+   "time": 59.68,
+   "weight": 0.99,
+   "note_time": 59.78
+  },
+  {
+   "text": "and",
+   "time": 60.32,
+   "weight": 0.82,
+   "note_time": 60.0
+  },
+  {
+   "text": "I",
+   "time": 60.84,
+   "weight": 1.0,
+   "note_time": 60.22
+  },
+  {
+   "text": "will",
+   "time": 61.02,
+   "weight": 1.0,
+   "note_time": 60.45
+  },
+  {
+   "text": "thank",
+   "time": 61.34,
+   "weight": 0.99,
+   "note_time": 60.67
+  },
+  {
+   "text": "you",
+   "time": 61.78,
+   "weight": 0.37,
+   "note_time": 60.9
+  },
+  {
+   "text": "You",
+   "time": 64.2,
+   "weight": 0.76,
+   "note_time": 64.93
+  },
+  {
+   "text": "are",
+   "time": 65.28,
+   "weight": 1.0,
+   "note_time": 65.37
+  },
+  {
+   "text": "my",
+   "time": 66.36,
+   "weight": 1.0,
+   "note_time": 66.27
+  },
+  {
+   "text": "God,",
+   "time": 66.92,
+   "weight": 1.0,
+   "note_time": 66.94
+  },
+  {
+   "text": "I",
+   "time": 67.7,
+   "weight": 1.0,
+   "note_time": 67.39
+  },
+  {
+   "text": "will",
+   "time": 68.0,
+   "weight": 1.0,
+   "note_time": 67.61
+  },
+  {
+   "text": "ex",
+   "time": 68.44,
+   "weight": 1.0,
+   "note_time": 67.84
+  },
+  {
+   "text": "alt",
+   "time": 68.71,
+   "weight": 1.0,
+   "note_time": 68.06
+  },
+  {
+   "text": "you",
+   "time": 68.98,
+   "weight": 0.99,
+   "note_time": 68.28
+  },
+  {
+   "text": "Give",
+   "time": 70.84,
+   "weight": 0.98,
+   "note_time": 70.97
+  },
+  {
+   "text": "thanks",
+   "time": 71.92,
+   "weight": 1.0,
+   "note_time": 71.42
+  },
+  {
+   "text": "to",
+   "time": 72.84,
+   "weight": 0.99,
+   "note_time": 72.99
+  },
+  {
+   "text": "the",
+   "time": 73.72,
+   "weight": 1.0,
+   "note_time": 73.21
+  },
+  {
+   "text": "Lord,",
+   "time": 73.94,
+   "weight": 1.0,
+   "note_time": 73.88
+  },
+  {
+   "text": "for",
+   "time": 74.44,
+   "weight": 0.93,
+   "note_time": 74.1
+  },
+  {
+   "text": "he",
+   "time": 75.02,
+   "weight": 0.97,
+   "note_time": 74.33
+  },
+  {
+   "text": "is",
+   "time": 75.36,
+   "weight": 1.0,
+   "note_time": 74.55
+  },
+  {
+   "text": "good",
+   "time": 75.9,
+   "weight": 0.99,
+   "note_time": 74.78
+  },
+  {
+   "text": "His",
+   "time": 78.0,
+   "weight": 0.22,
+   "note_time": 78.13
+  },
+  {
+   "text": "stead",
+   "time": 79.24,
+   "weight": 1.0,
+   "note_time": 78.58
+  },
+  {
+   "text": "fast",
+   "time": 79.59,
+   "weight": 1.0,
+   "note_time": 79.48
+  },
+  {
+   "text": "love",
+   "time": 80.48,
+   "weight": 0.97,
+   "note_time": 80.37
+  },
+  {
+   "text": "en",
+   "time": 81.5,
+   "weight": 1.0,
+   "note_time": 81.04
+  },
+  {
+   "text": "dures",
+   "time": 81.85,
+   "weight": 1.0,
+   "note_time": 81.27
+  },
+  {
+   "text": "for",
+   "time": 82.68,
+   "weight": 0.39,
+   "note_time": 81.49
+  },
+  {
+   "text": "ev",
+   "time": 83.03,
+   "weight": 0.39,
+   "note_time": 81.94
+  },
+  {
+   "text": "er",
+   "time": 83.38,
+   "weight": 0.39,
+   "note_time": 82.39
+  },
+  {
+   "text": "This",
+   "time": 84.4,
+   "weight": 0.26,
+   "note_time": 85.07
+  },
+  {
+   "text": "is",
+   "time": 86.06,
+   "weight": 0.99,
+   "note_time": 85.3
+  },
+  {
+   "text": "the",
+   "time": 86.32,
+   "weight": 0.99,
+   "note_time": 85.52
+  },
+  {
+   "text": "day,",
+   "time": 86.5,
+   "weight": 0.99,
+   "note_time": 85.75
+  },
+  {
+   "text": "this",
+   "time": 87.18,
+   "weight": 0.93,
+   "note_time": 86.87
+  },
+  {
+   "text": "is",
+   "time": 87.9,
+   "weight": 1.0,
+   "note_time": 87.09
+  },
+  {
+   "text": "the",
+   "time": 88.06,
+   "weight": 1.0,
+   "note_time": 87.31
+  },
+  {
+   "text": "day",
+   "time": 88.3,
+   "weight": 1.0,
+   "note_time": 87.54
+  },
+  {
+   "text": "That",
+   "time": 88.74,
+   "weight": 0.51,
+   "note_time": 88.66
+  },
+  {
+   "text": "the",
+   "time": 89.36,
+   "weight": 0.79,
+   "note_time": 89.1
+  },
+  {
+   "text": "Lord",
+   "time": 90.06,
+   "weight": 0.97,
+   "note_time": 89.33
+  },
+  {
+   "text": "has",
+   "time": 90.54,
+   "weight": 0.86,
+   "note_time": 90.67
+  },
+  {
+   "text": "made",
+   "time": 91.76,
+   "weight": 1.0,
+   "note_time": 91.12
+  },
+  {
+   "text": "We",
+   "time": 92.34,
+   "weight": 0.54,
+   "note_time": 92.24
+  },
+  {
+   "text": "will",
+   "time": 93.4,
+   "weight": 0.99,
+   "note_time": 92.46
+  },
+  {
+   "text": "re",
+   "time": 93.54,
+   "weight": 1.0,
+   "note_time": 92.69
+  },
+  {
+   "text": "joice,",
+   "time": 93.81,
+   "weight": 1.0,
+   "note_time": 92.91
+  },
+  {
+   "text": "we",
+   "time": 94.46,
+   "weight": 0.97,
+   "note_time": 94.03
+  },
+  {
+   "text": "will",
+   "time": 94.82,
+   "weight": 0.98,
+   "note_time": 94.25
+  },
+  {
+   "text": "re",
+   "time": 95.26,
+   "weight": 1.0,
+   "note_time": 94.48
+  },
+  {
+   "text": "joice",
+   "time": 95.54,
+   "weight": 1.0,
+   "note_time": 94.7
+  },
+  {
+   "text": "And",
+   "time": 95.82,
+   "weight": 0.72,
+   "note_time": 95.82
+  },
+  {
+   "text": "be",
+   "time": 96.82,
+   "weight": 0.91,
+   "note_time": 96.27
+  },
+  {
+   "text": "glad",
+   "time": 97.26,
+   "weight": 1.0,
+   "note_time": 96.72
+  },
+  {
+   "text": "in",
+   "time": 97.92,
+   "weight": 0.92,
+   "note_time": 97.84
+  },
+  {
+   "text": "it",
+   "time": 98.78,
+   "weight": 0.0,
+   "note_time": 98.06
+  },
+  {
+   "text": "Re",
+   "time": 99.64,
+   "weight": 0.4,
+   "note_time": 99.85
+  },
+  {
+   "text": "joice,",
+   "time": 99.99,
+   "weight": 0.4,
+   "note_time": 100.07
+  },
+  {
+   "text": "re",
+   "time": 101.54,
+   "weight": 0.98,
+   "note_time": 101.64
+  },
+  {
+   "text": "joice,",
+   "time": 101.88,
+   "weight": 0.98,
+   "note_time": 101.87
+  },
+  {
+   "text": "re",
+   "time": 102.34,
+   "weight": 0.82,
+   "note_time": 103.43
+  },
+  {
+   "text": "joice",
+   "time": 102.69,
+   "weight": 0.82,
+   "note_time": 103.66
+  },
+  {
+   "text": "Be",
+   "time": 105.24,
+   "weight": 0.94,
+   "note_time": 105.22
+  },
+  {
+   "text": "glad,",
+   "time": 106.2,
+   "weight": 1.0,
+   "note_time": 106.34
+  },
+  {
+   "text": "be",
+   "time": 107.2,
+   "weight": 0.37,
+   "note_time": 107.01
+  },
+  {
+   "text": "glad,",
+   "time": 109.16,
+   "weight": 1.0,
+   "note_time": 109.03
+  },
+  {
+   "text": "be",
+   "time": 110.38,
+   "weight": 0.99,
+   "note_time": 110.6
+  },
+  {
+   "text": "glad",
+   "time": 111.52,
+   "weight": 1.0,
+   "note_time": 111.04
+  },
+  {
+   "text": "This",
+   "time": 112.54,
+   "weight": 0.29,
+   "note_time": 113.73
+  },
+  {
+   "text": "is",
+   "time": 114.68,
+   "weight": 1.0,
+   "note_time": 113.96
+  },
+  {
+   "text": "the",
+   "time": 115.02,
+   "weight": 0.77,
+   "note_time": 114.18
+  },
+  {
+   "text": "day,",
+   "time": 115.16,
+   "weight": 1.0,
+   "note_time": 114.4
+  },
+  {
+   "text": "this",
+   "time": 115.94,
+   "weight": 0.99,
+   "note_time": 115.52
+  },
+  {
+   "text": "is",
+   "time": 116.6,
+   "weight": 1.0,
+   "note_time": 115.75
+  },
+  {
+   "text": "the",
+   "time": 116.8,
+   "weight": 1.0,
+   "note_time": 115.97
+  },
+  {
+   "text": "day",
+   "time": 116.98,
+   "weight": 1.0,
+   "note_time": 116.19
+  },
+  {
+   "text": "That",
+   "time": 117.4,
+   "weight": 0.55,
+   "note_time": 117.31
+  },
+  {
+   "text": "the",
+   "time": 118.42,
+   "weight": 0.94,
+   "note_time": 117.76
+  },
+  {
+   "text": "Lord",
+   "time": 118.66,
+   "weight": 0.99,
+   "note_time": 117.99
+  },
+  {
+   "text": "has",
+   "time": 119.36,
+   "weight": 0.97,
+   "note_time": 119.33
+  },
+  {
+   "text": "made",
+   "time": 120.4,
+   "weight": 0.96,
+   "note_time": 119.78
+  },
+  {
+   "text": "We",
+   "time": 120.96,
+   "weight": 0.95,
+   "note_time": 120.9
+  },
+  {
+   "text": "will",
+   "time": 121.92,
+   "weight": 0.99,
+   "note_time": 121.12
+  },
+  {
+   "text": "re",
+   "time": 122.16,
+   "weight": 0.99,
+   "note_time": 121.34
+  },
+  {
+   "text": "joice,",
+   "time": 122.46,
+   "weight": 0.99,
+   "note_time": 121.57
+  },
+  {
+   "text": "we",
+   "time": 123.12,
+   "weight": 0.99,
+   "note_time": 122.69
+  },
+  {
+   "text": "will",
+   "time": 123.56,
+   "weight": 1.0,
+   "note_time": 122.91
+  },
+  {
+   "text": "re",
+   "time": 123.94,
+   "weight": 1.0,
+   "note_time": 123.13
+  },
+  {
+   "text": "joice",
+   "time": 124.21,
+   "weight": 1.0,
+   "note_time": 123.36
+  },
+  {
+   "text": "And",
+   "time": 124.48,
+   "weight": 0.78,
+   "note_time": 124.48
+  },
+  {
+   "text": "be",
+   "time": 125.56,
+   "weight": 1.0,
+   "note_time": 124.93
+  },
+  {
+   "text": "glad",
+   "time": 125.92,
+   "weight": 1.0,
+   "note_time": 125.37
+  },
+  {
+   "text": "in",
+   "time": 126.68,
+   "weight": 0.6,
+   "note_time": 126.49
+  },
+  {
+   "text": "it",
+   "time": 127.94,
+   "weight": 0.7,
+   "note_time": 126.72
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "21 of 22 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

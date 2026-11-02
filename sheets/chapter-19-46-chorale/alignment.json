@@ -1,814 +1,814 @@
 {
  "id": "chapter-19-46-chorale",
  "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/chapter-19-46-chorale",
- "offset_seconds": 2.1799999999996977,
- "words_heard": 77,
- "words": 81,
+ "offset_seconds": -0.12000000000025324,
+ "words_heard": 102,
+ "words": 103,
  "lines": [
   {
-   "text": "Gud er v\u00e5r tilflukt og v\u00e5r borg",
+   "text": "Our God, our refuge and our strength",
    "heard": 7,
    "words": 7,
-   "error_s": 3.37,
+   "error_s": 1.88,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "en hjelp i n\u00f8d s\u00e5 n\u00e6r",
+   "text": "A help so near in need",
    "heard": 6,
    "words": 6,
-   "error_s": 3.31,
+   "error_s": 1.65,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "We will not fear though earth gives way",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.81,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "Vi frykter ikke i v\u00e5r sorg",
+   "text": "And mountains fall to sea",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.62,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Though waters roar and foam and rage",
    "heard": 6,
-   "words": 6,
-   "error_s": 3.44,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "om jorden skjelver her",
-   "heard": 4,
-   "words": 4,
-   "error_s": 3.28,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "La havet bruse, fjellet g\u00e5",
-   "heard": 5,
-   "words": 5,
-   "error_s": 3.47,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "og vannet skumme vilt",
-   "heard": 4,
-   "words": 4,
-   "error_s": 3.33,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "Guds by skal likevel best\u00e5",
-   "heard": 5,
-   "words": 5,
-   "error_s": 3.46,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "der elven renner stilt",
-   "heard": 4,
-   "words": 4,
-   "error_s": 3.33,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "N\u00e5r folkene i vrede st\u00e5r",
-   "heard": 5,
-   "words": 5,
-   "error_s": 3.4,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "og riker raver tungt",
-   "heard": 2,
-   "words": 4,
-   "error_s": 3.46,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "han l\u00f8fter r\u00f8sten, jorden g\u00e5r",
-   "heard": 5,
-   "words": 5,
-   "error_s": 3.46,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "og alt blir stille, ungt",
-   "heard": 5,
-   "words": 5,
-   "error_s": 3.36,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "H\u00e6rskarers Herre er med oss",
-   "heard": 4,
-   "words": 5,
-   "error_s": 3.44,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "v\u00e5r borg er Jakobs Gud",
-   "heard": 5,
-   "words": 5,
-   "error_s": 3.23,
-   "tie_split": false,
-   "uncertain": true
-  },
-  {
-   "text": "V\u00e6r stille, kjenn at jeg er Gud",
-   "heard": 7,
    "words": 7,
-   "error_s": 3.36,
+   "error_s": 1.22,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "And hills shake at the swell",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.25,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "A river gladdens God's own town",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where the Most High will dwell",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.21,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "The nations rage, the kingdoms fall",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.66,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "He lifts His voice, earth melts",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.75,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Yet God is in her midst, she stands",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He helps her when day breaks",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord of hosts is here with us",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.39,
    "tie_split": false,
    "uncertain": true
   },
   {
-   "text": "la jorden h\u00f8re bud",
-   "heard": 3,
+   "text": "Our fortress, Jacob's God",
+   "heard": 4,
    "words": 4,
-   "error_s": 3.38,
+   "error_s": 0.16,
    "tie_split": false,
-   "uncertain": true
+   "uncertain": false
+  },
+  {
+   "text": "Be still, and know that I am God",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.02,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let all the earth be yours",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
   }
  ],
  "syllables": [
   {
-   "text": "Gud",
-   "time": 16.24,
-   "weight": 0.38,
+   "text": "Our",
+   "time": 11.5,
+   "weight": 0.25,
+   "note_time": 14.38
+  },
+  {
+   "text": "God,",
+   "time": 12.5,
+   "weight": 0.97,
+   "note_time": 14.79
+  },
+  {
+   "text": "our",
+   "time": 13.6,
+   "weight": 0.99,
+   "note_time": 15.21
+  },
+  {
+   "text": "re",
+   "time": 13.8,
+   "weight": 0.99,
+   "note_time": 15.62
+  },
+  {
+   "text": "fuge",
+   "time": 14.15,
+   "weight": 0.99,
+   "note_time": 16.03
+  },
+  {
+   "text": "and",
+   "time": 14.52,
+   "weight": 0.85,
+   "note_time": 16.44
+  },
+  {
+   "text": "our",
+   "time": 14.98,
+   "weight": 0.99,
+   "note_time": 16.85
+  },
+  {
+   "text": "strength",
+   "time": 15.32,
+   "weight": 1.0,
+   "note_time": 17.26
+  },
+  {
+   "text": "A",
+   "time": 16.14,
+   "weight": 0.15,
+   "note_time": 18.08
+  },
+  {
+   "text": "help",
+   "time": 17.5,
+   "weight": 0.99,
+   "note_time": 19.32
+  },
+  {
+   "text": "so",
+   "time": 18.08,
+   "weight": 1.0,
+   "note_time": 19.73
+  },
+  {
+   "text": "near",
+   "time": 18.42,
+   "weight": 1.0,
+   "note_time": 20.14
+  },
+  {
+   "text": "in",
+   "time": 18.96,
+   "weight": 0.8,
+   "note_time": 20.55
+  },
+  {
+   "text": "need",
+   "time": 19.36,
+   "weight": 1.0,
    "note_time": 20.96
   },
   {
-   "text": "er",
-   "time": 17.28,
-   "weight": 0.98,
+   "text": "We",
+   "time": 19.8,
+   "weight": 0.39,
    "note_time": 21.37
   },
   {
-   "text": "v\u00e5r",
-   "time": 18.32,
+   "text": "will",
+   "time": 22.48,
    "weight": 1.0,
-   "note_time": 21.99
-  },
-  {
-   "text": "til",
-   "time": 18.9,
-   "weight": 0.99,
-   "note_time": 22.19
-  },
-  {
-   "text": "flukt",
-   "time": 19.25,
-   "weight": 0.99,
-   "note_time": 22.6
-  },
-  {
-   "text": "og",
-   "time": 19.76,
-   "weight": 0.99,
-   "note_time": 23.01
-  },
-  {
-   "text": "v\u00e5r",
-   "time": 20.04,
-   "weight": 1.0,
-   "note_time": 23.42
-  },
-  {
-   "text": "borg",
-   "time": 20.48,
-   "weight": 0.15,
-   "note_time": 23.84
-  },
-  {
-   "text": "en",
-   "time": 21.0,
-   "weight": 0.15,
    "note_time": 24.25
   },
   {
-   "text": "hjelp",
-   "time": 21.3,
-   "weight": 0.99,
+   "text": "not",
+   "time": 22.84,
+   "weight": 1.0,
    "note_time": 24.66
   },
   {
-   "text": "i",
-   "time": 21.96,
-   "weight": 0.96,
-   "note_time": 25.27
+   "text": "fear",
+   "time": 23.28,
+   "weight": 1.0,
+   "note_time": 25.07
   },
   {
-   "text": "n\u00f8d",
-   "time": 22.22,
-   "weight": 0.84,
+   "text": "though",
+   "time": 23.68,
+   "weight": 0.31,
    "note_time": 25.48
   },
   {
-   "text": "s\u00e5",
-   "time": 22.6,
-   "weight": 0.74,
+   "text": "earth",
+   "time": 24.06,
+   "weight": 0.73,
    "note_time": 25.89
   },
   {
-   "text": "n\u00e6r",
-   "time": 22.84,
-   "weight": 0.95,
+   "text": "gives",
+   "time": 24.5,
+   "weight": 0.99,
    "note_time": 26.3
   },
   {
-   "text": "Vi",
-   "time": 23.52,
-   "weight": 0.9,
-   "note_time": 27.53
+   "text": "way",
+   "time": 24.82,
+   "weight": 1.0,
+   "note_time": 26.71
   },
   {
-   "text": "fryk",
-   "time": 24.48,
-   "weight": 1.0,
+   "text": "And",
+   "time": 25.32,
+   "weight": 0.38,
+   "note_time": 27.12
+  },
+  {
+   "text": "moun",
+   "time": 27.04,
+   "weight": 0.99,
    "note_time": 27.95
   },
   {
-   "text": "ter",
-   "time": 24.83,
-   "weight": 1.0,
-   "note_time": 28.56
-  },
-  {
-   "text": "ik",
-   "time": 25.58,
-   "weight": 1.0,
-   "note_time": 28.77
-  },
-  {
-   "text": "ke",
-   "time": 25.76,
-   "weight": 1.0,
+   "text": "tains",
+   "time": 27.39,
+   "weight": 0.99,
    "note_time": 29.18
   },
   {
-   "text": "i",
-   "time": 25.94,
+   "text": "fall",
+   "time": 27.88,
    "weight": 1.0,
    "note_time": 29.59
   },
   {
-   "text": "v\u00e5r",
-   "time": 26.64,
-   "weight": 0.99,
+   "text": "to",
+   "time": 28.46,
+   "weight": 1.0,
    "note_time": 30.0
   },
   {
-   "text": "sorg",
-   "time": 27.02,
-   "weight": 0.93,
+   "text": "sea",
+   "time": 29.46,
+   "weight": 0.35,
    "note_time": 30.41
   },
   {
-   "text": "om",
-   "time": 27.6,
-   "weight": 0.98,
-   "note_time": 30.82
-  },
-  {
-   "text": "jor",
-   "time": 27.96,
-   "weight": 0.97,
+   "text": "Though",
+   "time": 31.12,
+   "weight": 0.0,
    "note_time": 31.23
   },
   {
-   "text": "den",
-   "time": 28.31,
-   "weight": 0.97,
-   "note_time": 31.85
+   "text": "wa",
+   "time": 32.78,
+   "weight": 0.85,
+   "note_time": 31.64
   },
   {
-   "text": "skjel",
-   "time": 28.82,
-   "weight": 0.79,
+   "text": "ters",
+   "time": 33.13,
+   "weight": 0.85,
    "note_time": 32.05
   },
   {
-   "text": "ver",
-   "time": 29.17,
-   "weight": 0.79,
-   "note_time": 32.47
-  },
-  {
-   "text": "her",
-   "time": 29.54,
+   "text": "roar",
+   "time": 33.64,
    "weight": 0.99,
-   "note_time": 32.88
+   "note_time": 34.93
   },
   {
-   "text": "La",
-   "time": 32.02,
-   "weight": 1.0,
+   "text": "and",
+   "time": 34.06,
+   "weight": 0.94,
+   "note_time": 35.34
+  },
+  {
+   "text": "foam",
+   "time": 34.56,
+   "weight": 0.51,
    "note_time": 35.75
   },
   {
-   "text": "ha",
-   "time": 32.72,
-   "weight": 0.95,
+   "text": "and",
+   "time": 34.94,
+   "weight": 0.99,
    "note_time": 36.16
   },
   {
-   "text": "vet",
-   "time": 33.07,
-   "weight": 0.95,
-   "note_time": 36.78
+   "text": "rage",
+   "time": 35.34,
+   "weight": 1.0,
+   "note_time": 36.58
   },
   {
-   "text": "bru",
-   "time": 33.78,
-   "weight": 0.98,
+   "text": "And",
+   "time": 36.8,
+   "weight": 0.44,
    "note_time": 36.99
   },
   {
-   "text": "se,",
-   "time": 34.02,
-   "weight": 0.98,
+   "text": "hills",
+   "time": 37.32,
+   "weight": 0.96,
    "note_time": 37.4
   },
   {
-   "text": "fjel",
-   "time": 34.32,
+   "text": "shake",
+   "time": 38.06,
    "weight": 1.0,
    "note_time": 37.81
   },
   {
-   "text": "let",
-   "time": 34.67,
-   "weight": 1.0,
-   "note_time": 38.22
-  },
-  {
-   "text": "g\u00e5",
-   "time": 35.34,
-   "weight": 1.0,
+   "text": "at",
+   "time": 38.44,
+   "weight": 0.99,
    "note_time": 38.63
   },
   {
-   "text": "og",
-   "time": 35.66,
-   "weight": 0.71,
-   "note_time": 39.04
+   "text": "the",
+   "time": 38.92,
+   "weight": 1.0,
+   "note_time": 39.86
   },
   {
-   "text": "van",
-   "time": 36.12,
-   "weight": 0.97,
-   "note_time": 39.45
-  },
-  {
-   "text": "net",
-   "time": 36.47,
-   "weight": 0.97,
-   "note_time": 40.07
-  },
-  {
-   "text": "skum",
-   "time": 37.02,
-   "weight": 0.86,
+   "text": "swell",
+   "time": 39.16,
+   "weight": 1.0,
    "note_time": 40.27
   },
   {
-   "text": "me",
-   "time": 37.37,
-   "weight": 0.86,
+   "text": "A",
+   "time": 41.26,
+   "weight": 0.95,
    "note_time": 40.68
   },
   {
-   "text": "vilt",
-   "time": 37.76,
-   "weight": 0.72,
+   "text": "riv",
+   "time": 42.3,
+   "weight": 0.99,
    "note_time": 41.1
   },
   {
-   "text": "Guds",
-   "time": 38.8,
-   "weight": 1.0,
-   "note_time": 42.33
+   "text": "er",
+   "time": 42.61,
+   "weight": 0.99,
+   "note_time": 41.51
   },
   {
-   "text": "by",
-   "time": 39.52,
-   "weight": 0.83,
-   "note_time": 42.74
-  },
-  {
-   "text": "skal",
-   "time": 39.64,
-   "weight": 1.0,
-   "note_time": 43.36
-  },
-  {
-   "text": "li",
-   "time": 40.3,
+   "text": "glad",
+   "time": 42.92,
    "weight": 0.98,
-   "note_time": 43.56
+   "note_time": 41.92
   },
   {
-   "text": "ke",
-   "time": 40.63,
+   "text": "dens",
+   "time": 43.27,
    "weight": 0.98,
-   "note_time": 43.97
-  },
-  {
-   "text": "vel",
-   "time": 40.97,
-   "weight": 0.98,
-   "note_time": 44.38
-  },
-  {
-   "text": "be",
-   "time": 41.3,
-   "weight": 1.0,
    "note_time": 44.79
   },
   {
-   "text": "st\u00e5",
-   "time": 41.65,
+   "text": "God's",
+   "time": 44.08,
    "weight": 1.0,
    "note_time": 45.21
   },
   {
-   "text": "der",
-   "time": 42.32,
-   "weight": 0.92,
+   "text": "own",
+   "time": 44.64,
+   "weight": 0.98,
    "note_time": 45.62
   },
   {
-   "text": "el",
-   "time": 42.62,
-   "weight": 0.87,
+   "text": "town",
+   "time": 44.78,
+   "weight": 0.99,
    "note_time": 46.03
   },
   {
-   "text": "ven",
-   "time": 42.97,
-   "weight": 0.87,
-   "note_time": 46.64
+   "text": "Where",
+   "time": 46.24,
+   "weight": 0.99,
+   "note_time": 46.44
   },
   {
-   "text": "ren",
-   "time": 43.68,
-   "weight": 0.99,
+   "text": "the",
+   "time": 47.14,
+   "weight": 1.0,
    "note_time": 46.85
   },
   {
-   "text": "ner",
-   "time": 43.99,
-   "weight": 0.99,
+   "text": "Most",
+   "time": 47.48,
+   "weight": 0.93,
    "note_time": 47.26
   },
   {
-   "text": "stilt",
-   "time": 44.3,
-   "weight": 0.92,
+   "text": "High",
+   "time": 47.96,
+   "weight": 1.0,
    "note_time": 47.67
   },
   {
-   "text": "N\u00e5r",
-   "time": 46.78,
+   "text": "will",
+   "time": 48.44,
+   "weight": 0.99,
+   "note_time": 48.49
+  },
+  {
+   "text": "dwell",
+   "time": 49.52,
+   "weight": 1.0,
+   "note_time": 49.73
+  },
+  {
+   "text": "The",
+   "time": 51.48,
+   "weight": 0.96,
+   "note_time": 50.14
+  },
+  {
+   "text": "na",
+   "time": 52.52,
    "weight": 0.99,
    "note_time": 50.55
   },
   {
-   "text": "fol",
-   "time": 47.8,
-   "weight": 0.92,
+   "text": "tions",
+   "time": 52.87,
+   "weight": 0.99,
    "note_time": 50.96
   },
   {
-   "text": "ke",
-   "time": 48.14,
-   "weight": 0.92,
-   "note_time": 51.58
-  },
-  {
-   "text": "ne",
-   "time": 48.48,
-   "weight": 0.92,
+   "text": "rage,",
+   "time": 53.44,
+   "weight": 0.99,
    "note_time": 51.78
   },
   {
-   "text": "i",
-   "time": 48.82,
-   "weight": 0.93,
+   "text": "the",
+   "time": 54.16,
+   "weight": 0.99,
    "note_time": 52.19
   },
   {
-   "text": "vre",
-   "time": 49.12,
-   "weight": 0.99,
+   "text": "kin",
+   "time": 54.26,
+   "weight": 0.98,
    "note_time": 52.6
   },
   {
-   "text": "de",
-   "time": 49.47,
-   "weight": 0.99,
-   "note_time": 53.01
-  },
-  {
-   "text": "st\u00e5r",
-   "time": 50.1,
-   "weight": 1.0,
-   "note_time": 53.42
-  },
-  {
-   "text": "og",
-   "time": 50.38,
-   "weight": 0.95,
-   "note_time": 53.84
-  },
-  {
-   "text": "ri",
-   "time": 50.92,
-   "weight": 0.88,
-   "note_time": 54.25
-  },
-  {
-   "text": "ker",
-   "time": 51.27,
-   "weight": 0.88,
-   "note_time": 54.86
-  },
-  {
-   "text": "ra",
-   "time": 51.74,
-   "weight": 0.0,
-   "note_time": 55.07
-  },
-  {
-   "text": "ver",
-   "time": 52.21,
-   "weight": 0.0,
+   "text": "gdoms",
+   "time": 54.56,
+   "weight": 0.98,
    "note_time": 55.48
   },
   {
-   "text": "tungt",
-   "time": 52.67,
-   "weight": 0.0,
+   "text": "fall",
+   "time": 54.86,
+   "weight": 1.0,
    "note_time": 55.89
   },
   {
-   "text": "han",
-   "time": 53.14,
-   "weight": 0.32,
+   "text": "He",
+   "time": 55.54,
+   "weight": 0.95,
+   "note_time": 56.3
+  },
+  {
+   "text": "lifts",
+   "time": 55.98,
+   "weight": 1.0,
+   "note_time": 56.71
+  },
+  {
+   "text": "His",
+   "time": 56.38,
+   "weight": 0.73,
    "note_time": 57.12
   },
   {
-   "text": "l\u00f8f",
-   "time": 54.04,
+   "text": "voice,",
+   "time": 56.66,
    "weight": 1.0,
    "note_time": 57.53
   },
   {
-   "text": "ter",
-   "time": 54.39,
-   "weight": 1.0,
-   "note_time": 58.15
+   "text": "earth",
+   "time": 57.2,
+   "weight": 0.98,
+   "note_time": 57.95
   },
   {
-   "text": "r\u00f8s",
-   "time": 54.98,
-   "weight": 0.87,
+   "text": "melts",
+   "time": 57.54,
+   "weight": 1.0,
    "note_time": 58.36
   },
   {
-   "text": "ten,",
-   "time": 55.33,
-   "weight": 0.87,
-   "note_time": 58.77
+   "text": "Yet",
+   "time": 58.08,
+   "weight": 0.3,
+   "note_time": 58.97
   },
   {
-   "text": "jor",
-   "time": 55.76,
-   "weight": 0.99,
+   "text": "God",
+   "time": 58.96,
+   "weight": 0.79,
    "note_time": 59.18
   },
   {
-   "text": "den",
-   "time": 56.11,
-   "weight": 0.99,
+   "text": "is",
+   "time": 59.46,
+   "weight": 0.97,
    "note_time": 59.59
   },
   {
-   "text": "g\u00e5r",
-   "time": 56.54,
-   "weight": 1.0,
+   "text": "in",
+   "time": 59.92,
+   "weight": 0.95,
    "note_time": 60.0
   },
   {
-   "text": "og",
-   "time": 56.94,
-   "weight": 0.94,
+   "text": "her",
+   "time": 60.26,
+   "weight": 0.98,
    "note_time": 60.41
   },
   {
-   "text": "alt",
-   "time": 57.42,
-   "weight": 1.0,
+   "text": "midst,",
+   "time": 60.58,
+   "weight": 0.98,
    "note_time": 60.82
   },
   {
-   "text": "blir",
-   "time": 58.04,
-   "weight": 1.0,
-   "note_time": 61.44
-  },
-  {
-   "text": "stil",
-   "time": 58.38,
-   "weight": 0.97,
-   "note_time": 61.64
-  },
-  {
-   "text": "le,",
-   "time": 58.73,
-   "weight": 0.97,
+   "text": "she",
+   "time": 61.0,
+   "weight": 0.65,
    "note_time": 62.05
   },
   {
-   "text": "ungt",
-   "time": 59.18,
-   "weight": 0.84,
+   "text": "stands",
+   "time": 61.36,
+   "weight": 0.98,
    "note_time": 62.47
   },
   {
-   "text": "H\u00e6r",
-   "time": 61.98,
-   "weight": 0.47,
-   "note_time": 65.34
+   "text": "He",
+   "time": 62.06,
+   "weight": 0.25,
+   "note_time": 62.88
   },
   {
-   "text": "ska",
-   "time": 62.32,
-   "weight": 0.47,
-   "note_time": 65.75
+   "text": "helps",
+   "time": 63.64,
+   "weight": 0.97,
+   "note_time": 63.29
   },
   {
-   "text": "rers",
-   "time": 62.66,
-   "weight": 0.47,
-   "note_time": 66.37
+   "text": "her",
+   "time": 64.24,
+   "weight": 0.97,
+   "note_time": 63.7
   },
   {
-   "text": "Her",
-   "time": 63.09,
-   "weight": 0.0,
-   "note_time": 66.58
+   "text": "when",
+   "time": 64.54,
+   "weight": 0.9,
+   "note_time": 64.11
   },
   {
-   "text": "re",
-   "time": 63.53,
-   "weight": 0.0,
+   "text": "day",
+   "time": 65.0,
+   "weight": 0.92,
+   "note_time": 64.52
+  },
+  {
+   "text": "breaks",
+   "time": 66.08,
+   "weight": 0.95,
+   "note_time": 64.93
+  },
+  {
+   "text": "The",
+   "time": 66.92,
+   "weight": 0.31,
    "note_time": 66.99
   },
   {
-   "text": "er",
-   "time": 63.96,
-   "weight": 0.75,
+   "text": "Lord",
+   "time": 69.24,
+   "weight": 0.94,
    "note_time": 67.4
   },
   {
-   "text": "med",
-   "time": 64.4,
-   "weight": 0.98,
+   "text": "of",
+   "time": 69.78,
+   "weight": 1.0,
    "note_time": 67.81
   },
   {
-   "text": "oss",
-   "time": 64.78,
-   "weight": 1.0,
+   "text": "hosts",
+   "time": 70.2,
+   "weight": 0.61,
    "note_time": 68.22
   },
   {
-   "text": "v\u00e5r",
-   "time": 65.44,
-   "weight": 0.64,
-   "note_time": 68.63
+   "text": "is",
+   "time": 70.6,
+   "weight": 1.0,
+   "note_time": 69.45
   },
   {
-   "text": "borg",
-   "time": 65.86,
-   "weight": 0.8,
-   "note_time": 69.04
-  },
-  {
-   "text": "er",
-   "time": 66.46,
-   "weight": 0.98,
-   "note_time": 69.66
-  },
-  {
-   "text": "Ja",
-   "time": 66.6,
-   "weight": 0.97,
+   "text": "here",
+   "time": 70.98,
+   "weight": 0.99,
    "note_time": 69.86
   },
   {
-   "text": "kobs",
-   "time": 66.95,
-   "weight": 0.97,
-   "note_time": 70.27
-  },
-  {
-   "text": "Gud",
-   "time": 67.4,
-   "weight": 0.93,
-   "note_time": 70.68
-  },
-  {
-   "text": "V\u00e6r",
-   "time": 67.76,
+   "text": "with",
+   "time": 71.36,
    "weight": 0.99,
-   "note_time": 71.92
+   "note_time": 72.74
   },
   {
-   "text": "stil",
-   "time": 68.98,
-   "weight": 0.92,
-   "note_time": 72.33
-  },
-  {
-   "text": "le,",
-   "time": 69.33,
-   "weight": 0.92,
-   "note_time": 72.95
-  },
-  {
-   "text": "kjenn",
-   "time": 69.86,
-   "weight": 0.98,
+   "text": "us",
+   "time": 71.76,
+   "weight": 0.99,
    "note_time": 73.15
   },
   {
-   "text": "at",
-   "time": 70.32,
-   "weight": 1.0,
+   "text": "Our",
+   "time": 72.28,
+   "weight": 0.37,
    "note_time": 73.56
   },
   {
-   "text": "jeg",
-   "time": 70.62,
-   "weight": 1.0,
+   "text": "for",
+   "time": 74.2,
+   "weight": 0.98,
    "note_time": 73.97
   },
   {
-   "text": "er",
-   "time": 70.98,
-   "weight": 1.0,
+   "text": "tress,",
+   "time": 74.54,
+   "weight": 0.98,
    "note_time": 74.38
   },
   {
-   "text": "Gud",
-   "time": 71.42,
-   "weight": 0.99,
+   "text": "Ja",
+   "time": 74.88,
+   "weight": 0.89,
    "note_time": 74.79
   },
   {
-   "text": "la",
-   "time": 71.96,
-   "weight": 0.97,
+   "text": "cob's",
+   "time": 75.23,
+   "weight": 0.89,
    "note_time": 75.21
   },
   {
-   "text": "jor",
-   "time": 72.2,
-   "weight": 1.0,
+   "text": "God",
+   "time": 76.0,
+   "weight": 0.71,
    "note_time": 75.62
   },
   {
-   "text": "den",
-   "time": 72.55,
-   "weight": 1.0,
-   "note_time": 76.23
+   "text": "Be",
+   "time": 76.26,
+   "weight": 0.37,
+   "note_time": 77.67
   },
   {
-   "text": "h\u00f8",
-   "time": 73.18,
+   "text": "still,",
+   "time": 78.96,
    "weight": 1.0,
-   "note_time": 76.44
+   "note_time": 78.08
   },
   {
-   "text": "re",
-   "time": 73.47,
-   "weight": 1.0,
-   "note_time": 76.85
+   "text": "and",
+   "time": 79.4,
+   "weight": 0.95,
+   "note_time": 78.49
   },
   {
-   "text": "bud",
-   "time": 73.87,
-   "weight": 0.0,
-   "note_time": 77.26
+   "text": "know",
+   "time": 79.98,
+   "weight": 0.99,
+   "note_time": 78.9
+  },
+  {
+   "text": "that",
+   "time": 80.32,
+   "weight": 0.98,
+   "note_time": 79.32
+  },
+  {
+   "text": "I",
+   "time": 80.76,
+   "weight": 0.96,
+   "note_time": 79.73
+  },
+  {
+   "text": "am",
+   "time": 81.18,
+   "weight": 0.96,
+   "note_time": 82.6
+  },
+  {
+   "text": "God",
+   "time": 81.66,
+   "weight": 0.19,
+   "note_time": 83.01
+  },
+  {
+   "text": "Let",
+   "time": 82.46,
+   "weight": 0.38,
+   "note_time": 83.42
+  },
+  {
+   "text": "all",
+   "time": 84.02,
+   "weight": 1.0,
+   "note_time": 83.84
+  },
+  {
+   "text": "the",
+   "time": 84.64,
+   "weight": 0.99,
+   "note_time": 84.25
+  },
+  {
+   "text": "earth",
+   "time": 85.02,
+   "weight": 0.95,
+   "note_time": 84.66
+  },
+  {
+   "text": "be",
+   "time": 85.72,
+   "weight": 0.39,
+   "note_time": 85.07
+  },
+  {
+   "text": "yours",
+   "time": 88.0,
+   "weight": 0.21,
+   "note_time": 85.48
   }
  ],
  "chord_sheet_pages": 1,
  "lilypond_warnings": [],
- "quality": "0 of 16 lyric lines sit clearly on their notes; 16 are uncertain and printed in grey italics."
+ "quality": "10 of 16 lyric lines sit clearly on their notes; 6 are uncertain and printed in grey italics."
 }

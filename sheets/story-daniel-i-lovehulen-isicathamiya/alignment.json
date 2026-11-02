@@ -1,0 +1,1002 @@
+{
+ "id": "story-daniel-i-lovehulen-isicathamiya",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-daniel-i-lovehulen-isicathamiya",
+ "offset_seconds": -2.940000000000193,
+ "words_heard": 111,
+ "words": 116,
+ "lines": [
+  {
+   "text": "They threw Daniel to the lions",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And they sealed the stone",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The king could not sleep all night",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He fasted all alone",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My God sent his angel",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And shut the lions' mouths",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My God sent his angel",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And they have not hurt me",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "At the break of day the king came running",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Daniel, servant of the living God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Has your God been able to save you",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Daniel answered from the den",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My God sent his angel",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And shut the lions' mouths",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My God sent his angel",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And they have not hurt me",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They lifted Daniel from the den",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Not a wound was found on him",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Because he trusted in his God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He came out without harm",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "They",
+   "time": 20.36,
+   "weight": 0.15,
+   "note_time": 22.2
+  },
+  {
+   "text": "threw",
+   "time": 22.76,
+   "weight": 0.98,
+   "note_time": 22.5
+  },
+  {
+   "text": "Da",
+   "time": 23.82,
+   "weight": 0.92,
+   "note_time": 22.8
+  },
+  {
+   "text": "niel",
+   "time": 24.09,
+   "weight": 0.92,
+   "note_time": 23.1
+  },
+  {
+   "text": "to",
+   "time": 24.36,
+   "weight": 0.98,
+   "note_time": 23.4
+  },
+  {
+   "text": "the",
+   "time": 24.66,
+   "weight": 1.0,
+   "note_time": 23.7
+  },
+  {
+   "text": "li",
+   "time": 24.9,
+   "weight": 0.99,
+   "note_time": 23.85
+  },
+  {
+   "text": "ons",
+   "time": 25.25,
+   "weight": 0.99,
+   "note_time": 24.3
+  },
+  {
+   "text": "And",
+   "time": 25.6,
+   "weight": 0.25,
+   "note_time": 27.0
+  },
+  {
+   "text": "they",
+   "time": 28.32,
+   "weight": 1.0,
+   "note_time": 27.3
+  },
+  {
+   "text": "sealed",
+   "time": 28.56,
+   "weight": 0.99,
+   "note_time": 27.6
+  },
+  {
+   "text": "the",
+   "time": 29.28,
+   "weight": 0.93,
+   "note_time": 28.2
+  },
+  {
+   "text": "stone",
+   "time": 29.6,
+   "weight": 0.72,
+   "note_time": 28.5
+  },
+  {
+   "text": "The",
+   "time": 31.64,
+   "weight": 0.8,
+   "note_time": 31.65
+  },
+  {
+   "text": "king",
+   "time": 32.82,
+   "weight": 0.86,
+   "note_time": 32.85
+  },
+  {
+   "text": "could",
+   "time": 33.08,
+   "weight": 0.99,
+   "note_time": 33.0
+  },
+  {
+   "text": "not",
+   "time": 33.36,
+   "weight": 1.0,
+   "note_time": 33.15
+  },
+  {
+   "text": "sleep",
+   "time": 33.72,
+   "weight": 1.0,
+   "note_time": 33.6
+  },
+  {
+   "text": "all",
+   "time": 34.12,
+   "weight": 0.99,
+   "note_time": 33.75
+  },
+  {
+   "text": "night",
+   "time": 34.48,
+   "weight": 1.0,
+   "note_time": 33.9
+  },
+  {
+   "text": "He",
+   "time": 35.24,
+   "weight": 0.29,
+   "note_time": 36.45
+  },
+  {
+   "text": "fast",
+   "time": 37.46,
+   "weight": 1.0,
+   "note_time": 36.6
+  },
+  {
+   "text": "ed",
+   "time": 37.81,
+   "weight": 1.0,
+   "note_time": 36.9
+  },
+  {
+   "text": "all",
+   "time": 38.26,
+   "weight": 0.98,
+   "note_time": 37.2
+  },
+  {
+   "text": "a",
+   "time": 38.58,
+   "weight": 0.98,
+   "note_time": 37.8
+  },
+  {
+   "text": "lone",
+   "time": 38.93,
+   "weight": 0.98,
+   "note_time": 38.1
+  },
+  {
+   "text": "My",
+   "time": 40.02,
+   "weight": 0.21,
+   "note_time": 40.5
+  },
+  {
+   "text": "God",
+   "time": 41.62,
+   "weight": 0.93,
+   "note_time": 40.8
+  },
+  {
+   "text": "sent",
+   "time": 42.28,
+   "weight": 0.61,
+   "note_time": 42.0
+  },
+  {
+   "text": "his",
+   "time": 43.14,
+   "weight": 0.49,
+   "note_time": 42.6
+  },
+  {
+   "text": "an",
+   "time": 43.84,
+   "weight": 0.7,
+   "note_time": 42.9
+  },
+  {
+   "text": "gel",
+   "time": 44.19,
+   "weight": 0.7,
+   "note_time": 43.5
+  },
+  {
+   "text": "And",
+   "time": 44.7,
+   "weight": 0.0,
+   "note_time": 46.05
+  },
+  {
+   "text": "shut",
+   "time": 45.2,
+   "weight": 0.4,
+   "note_time": 46.2
+  },
+  {
+   "text": "the",
+   "time": 47.4,
+   "weight": 0.99,
+   "note_time": 46.5
+  },
+  {
+   "text": "li",
+   "time": 47.62,
+   "weight": 0.8,
+   "note_time": 46.8
+  },
+  {
+   "text": "ons'",
+   "time": 47.97,
+   "weight": 0.8,
+   "note_time": 47.25
+  },
+  {
+   "text": "mouths",
+   "time": 48.66,
+   "weight": 0.97,
+   "note_time": 47.7
+  },
+  {
+   "text": "My",
+   "time": 50.02,
+   "weight": 0.96,
+   "note_time": 50.1
+  },
+  {
+   "text": "God",
+   "time": 51.24,
+   "weight": 1.0,
+   "note_time": 50.4
+  },
+  {
+   "text": "sent",
+   "time": 51.62,
+   "weight": 0.97,
+   "note_time": 51.6
+  },
+  {
+   "text": "his",
+   "time": 52.72,
+   "weight": 0.99,
+   "note_time": 52.2
+  },
+  {
+   "text": "an",
+   "time": 53.38,
+   "weight": 0.99,
+   "note_time": 52.5
+  },
+  {
+   "text": "gel",
+   "time": 53.73,
+   "weight": 0.99,
+   "note_time": 53.1
+  },
+  {
+   "text": "And",
+   "time": 54.36,
+   "weight": 0.13,
+   "note_time": 55.65
+  },
+  {
+   "text": "they",
+   "time": 56.26,
+   "weight": 0.99,
+   "note_time": 55.8
+  },
+  {
+   "text": "have",
+   "time": 56.98,
+   "weight": 0.99,
+   "note_time": 56.1
+  },
+  {
+   "text": "not",
+   "time": 57.2,
+   "weight": 1.0,
+   "note_time": 56.4
+  },
+  {
+   "text": "hurt",
+   "time": 57.64,
+   "weight": 0.0,
+   "note_time": 56.85
+  },
+  {
+   "text": "me",
+   "time": 58.08,
+   "weight": 0.98,
+   "note_time": 57.3
+  },
+  {
+   "text": "At",
+   "time": 60.46,
+   "weight": 0.76,
+   "note_time": 60.3
+  },
+  {
+   "text": "the",
+   "time": 61.3,
+   "weight": 1.0,
+   "note_time": 60.45
+  },
+  {
+   "text": "break",
+   "time": 61.46,
+   "weight": 1.0,
+   "note_time": 60.6
+  },
+  {
+   "text": "of",
+   "time": 61.76,
+   "weight": 1.0,
+   "note_time": 60.9
+  },
+  {
+   "text": "day",
+   "time": 61.96,
+   "weight": 1.0,
+   "note_time": 61.2
+  },
+  {
+   "text": "the",
+   "time": 62.48,
+   "weight": 0.99,
+   "note_time": 61.65
+  },
+  {
+   "text": "king",
+   "time": 62.66,
+   "weight": 0.62,
+   "note_time": 61.8
+  },
+  {
+   "text": "came",
+   "time": 62.9,
+   "weight": 1.0,
+   "note_time": 62.1
+  },
+  {
+   "text": "run",
+   "time": 63.22,
+   "weight": 0.99,
+   "note_time": 62.4
+  },
+  {
+   "text": "ning",
+   "time": 63.52,
+   "weight": 0.99,
+   "note_time": 62.85
+  },
+  {
+   "text": "Da",
+   "time": 63.82,
+   "weight": 0.22,
+   "note_time": 64.2
+  },
+  {
+   "text": "niel,",
+   "time": 64.17,
+   "weight": 0.22,
+   "note_time": 64.5
+  },
+  {
+   "text": "ser",
+   "time": 65.56,
+   "weight": 1.0,
+   "note_time": 64.8
+  },
+  {
+   "text": "vant",
+   "time": 65.78,
+   "weight": 1.0,
+   "note_time": 65.1
+  },
+  {
+   "text": "of",
+   "time": 66.0,
+   "weight": 1.0,
+   "note_time": 65.4
+  },
+  {
+   "text": "the",
+   "time": 66.54,
+   "weight": 1.0,
+   "note_time": 65.7
+  },
+  {
+   "text": "liv",
+   "time": 66.74,
+   "weight": 0.93,
+   "note_time": 66.0
+  },
+  {
+   "text": "ing",
+   "time": 67.0,
+   "weight": 0.93,
+   "note_time": 66.45
+  },
+  {
+   "text": "God",
+   "time": 67.26,
+   "weight": 1.0,
+   "note_time": 66.9
+  },
+  {
+   "text": "Has",
+   "time": 70.4,
+   "weight": 0.88,
+   "note_time": 70.2
+  },
+  {
+   "text": "your",
+   "time": 71.24,
+   "weight": 0.98,
+   "note_time": 70.5
+  },
+  {
+   "text": "God",
+   "time": 71.46,
+   "weight": 0.98,
+   "note_time": 70.65
+  },
+  {
+   "text": "been",
+   "time": 71.84,
+   "weight": 1.0,
+   "note_time": 71.25
+  },
+  {
+   "text": "ab",
+   "time": 72.22,
+   "weight": 1.0,
+   "note_time": 71.4
+  },
+  {
+   "text": "le",
+   "time": 72.35,
+   "weight": 1.0,
+   "note_time": 71.55
+  },
+  {
+   "text": "to",
+   "time": 72.48,
+   "weight": 1.0,
+   "note_time": 71.7
+  },
+  {
+   "text": "save",
+   "time": 72.68,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "you",
+   "time": 73.1,
+   "weight": 1.0,
+   "note_time": 72.45
+  },
+  {
+   "text": "Da",
+   "time": 74.8,
+   "weight": 1.0,
+   "note_time": 74.4
+  },
+  {
+   "text": "niel",
+   "time": 75.15,
+   "weight": 1.0,
+   "note_time": 74.7
+  },
+  {
+   "text": "an",
+   "time": 75.64,
+   "weight": 0.99,
+   "note_time": 74.85
+  },
+  {
+   "text": "swered",
+   "time": 75.91,
+   "weight": 0.99,
+   "note_time": 75.3
+  },
+  {
+   "text": "from",
+   "time": 76.18,
+   "weight": 0.99,
+   "note_time": 75.6
+  },
+  {
+   "text": "the",
+   "time": 76.6,
+   "weight": 1.0,
+   "note_time": 76.05
+  },
+  {
+   "text": "den",
+   "time": 77.0,
+   "weight": 0.52,
+   "note_time": 76.5
+  },
+  {
+   "text": "My",
+   "time": 79.14,
+   "weight": 0.93,
+   "note_time": 78.9
+  },
+  {
+   "text": "God",
+   "time": 79.98,
+   "weight": 0.99,
+   "note_time": 79.2
+  },
+  {
+   "text": "sent",
+   "time": 80.5,
+   "weight": 0.51,
+   "note_time": 80.4
+  },
+  {
+   "text": "his",
+   "time": 81.34,
+   "weight": 0.62,
+   "note_time": 81.0
+  },
+  {
+   "text": "an",
+   "time": 82.02,
+   "weight": 0.76,
+   "note_time": 81.3
+  },
+  {
+   "text": "gel",
+   "time": 82.37,
+   "weight": 0.76,
+   "note_time": 81.9
+  },
+  {
+   "text": "And",
+   "time": 83.12,
+   "weight": 0.0,
+   "note_time": 84.45
+  },
+  {
+   "text": "shut",
+   "time": 83.86,
+   "weight": 0.4,
+   "note_time": 84.6
+  },
+  {
+   "text": "the",
+   "time": 85.62,
+   "weight": 1.0,
+   "note_time": 84.9
+  },
+  {
+   "text": "li",
+   "time": 85.8,
+   "weight": 0.9,
+   "note_time": 85.2
+  },
+  {
+   "text": "ons'",
+   "time": 86.15,
+   "weight": 0.9,
+   "note_time": 85.65
+  },
+  {
+   "text": "mouths",
+   "time": 86.82,
+   "weight": 0.99,
+   "note_time": 86.1
+  },
+  {
+   "text": "My",
+   "time": 88.48,
+   "weight": 0.36,
+   "note_time": 88.5
+  },
+  {
+   "text": "God",
+   "time": 89.36,
+   "weight": 0.85,
+   "note_time": 88.8
+  },
+  {
+   "text": "sent",
+   "time": 89.96,
+   "weight": 0.52,
+   "note_time": 90.0
+  },
+  {
+   "text": "his",
+   "time": 90.86,
+   "weight": 0.77,
+   "note_time": 90.6
+  },
+  {
+   "text": "an",
+   "time": 91.56,
+   "weight": 0.59,
+   "note_time": 90.9
+  },
+  {
+   "text": "gel",
+   "time": 91.91,
+   "weight": 0.59,
+   "note_time": 91.5
+  },
+  {
+   "text": "And",
+   "time": 93.38,
+   "weight": 0.0,
+   "note_time": 94.05
+  },
+  {
+   "text": "they",
+   "time": 94.84,
+   "weight": 0.99,
+   "note_time": 94.2
+  },
+  {
+   "text": "have",
+   "time": 95.16,
+   "weight": 0.99,
+   "note_time": 94.5
+  },
+  {
+   "text": "not",
+   "time": 95.44,
+   "weight": 1.0,
+   "note_time": 94.8
+  },
+  {
+   "text": "hurt",
+   "time": 95.85,
+   "weight": 0.0,
+   "note_time": 95.25
+  },
+  {
+   "text": "me",
+   "time": 96.26,
+   "weight": 0.96,
+   "note_time": 95.7
+  },
+  {
+   "text": "They",
+   "time": 98.72,
+   "weight": 0.6,
+   "note_time": 98.85
+  },
+  {
+   "text": "lift",
+   "time": 99.6,
+   "weight": 1.0,
+   "note_time": 99.6
+  },
+  {
+   "text": "ed",
+   "time": 99.86,
+   "weight": 1.0,
+   "note_time": 99.9
+  },
+  {
+   "text": "Da",
+   "time": 100.12,
+   "weight": 1.0,
+   "note_time": 100.05
+  },
+  {
+   "text": "niel",
+   "time": 100.41,
+   "weight": 1.0,
+   "note_time": 100.2
+  },
+  {
+   "text": "from",
+   "time": 100.7,
+   "weight": 1.0,
+   "note_time": 100.35
+  },
+  {
+   "text": "the",
+   "time": 101.18,
+   "weight": 1.0,
+   "note_time": 100.5
+  },
+  {
+   "text": "den",
+   "time": 101.4,
+   "weight": 0.74,
+   "note_time": 100.65
+  },
+  {
+   "text": "Not",
+   "time": 101.74,
+   "weight": 0.25,
+   "note_time": 103.8
+  },
+  {
+   "text": "a",
+   "time": 104.64,
+   "weight": 1.0,
+   "note_time": 104.25
+  },
+  {
+   "text": "wound",
+   "time": 104.78,
+   "weight": 0.99,
+   "note_time": 104.7
+  },
+  {
+   "text": "was",
+   "time": 105.14,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "found",
+   "time": 105.56,
+   "weight": 1.0,
+   "note_time": 105.45
+  },
+  {
+   "text": "on",
+   "time": 105.94,
+   "weight": 1.0,
+   "note_time": 105.6
+  },
+  {
+   "text": "him",
+   "time": 106.42,
+   "weight": 0.99,
+   "note_time": 105.9
+  },
+  {
+   "text": "Be",
+   "time": 108.46,
+   "weight": 0.97,
+   "note_time": 108.45
+  },
+  {
+   "text": "cause",
+   "time": 108.81,
+   "weight": 0.97,
+   "note_time": 108.9
+  },
+  {
+   "text": "he",
+   "time": 109.34,
+   "weight": 0.93,
+   "note_time": 109.2
+  },
+  {
+   "text": "trust",
+   "time": 109.72,
+   "weight": 1.0,
+   "note_time": 109.5
+  },
+  {
+   "text": "ed",
+   "time": 109.96,
+   "weight": 1.0,
+   "note_time": 109.65
+  },
+  {
+   "text": "in",
+   "time": 110.2,
+   "weight": 1.0,
+   "note_time": 109.8
+  },
+  {
+   "text": "his",
+   "time": 110.62,
+   "weight": 0.94,
+   "note_time": 110.1
+  },
+  {
+   "text": "God",
+   "time": 110.8,
+   "weight": 1.0,
+   "note_time": 111.15
+  },
+  {
+   "text": "He",
+   "time": 111.12,
+   "weight": 0.35,
+   "note_time": 113.25
+  },
+  {
+   "text": "came",
+   "time": 113.72,
+   "weight": 1.0,
+   "note_time": 113.4
+  },
+  {
+   "text": "out",
+   "time": 114.28,
+   "weight": 1.0,
+   "note_time": 113.7
+  },
+  {
+   "text": "with",
+   "time": 114.7,
+   "weight": 0.99,
+   "note_time": 114.0
+  },
+  {
+   "text": "out",
+   "time": 114.89,
+   "weight": 0.99,
+   "note_time": 114.45
+  },
+  {
+   "text": "harm",
+   "time": 115.08,
+   "weight": 0.99,
+   "note_time": 114.9
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 20 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

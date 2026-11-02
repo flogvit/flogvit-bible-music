@@ -1,0 +1,1368 @@
+{
+ "id": "story-jona-flykter-fra-gud-bluegrass",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-jona-flykter-fra-gud-bluegrass",
+ "offset_seconds": -2.200000000000209,
+ "words_heard": 161,
+ "words": 167,
+ "lines": [
+  {
+   "text": "The word of the Lord came to Jonah one day",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Go to Nineveh, preach against her ways",
+   "heard": 3,
+   "words": 7,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "But Jonah ran down to Joppa instead",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Paid for a ship bound for Tarshish ahead",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Running from the Lord, running from the Lord",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You can't outrun him on the sea or the shore",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Running from the Lord, running from the Lord",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jonah went down, down, down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord sent a wind and a terrible storm",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sailors cried out, every man to his god",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jonah lay sleeping deep down in the hold",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Throw me in the sea and it will be calm",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Running from the Lord, running from the Lord",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You can't outrun him on the sea or the shore",
+   "heard": 10,
+   "words": 10,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Running from the Lord, running from the Lord",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jonah went down, down, down",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They threw him overboard and the sea grew still",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord sent a fish to do his will",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Three days and three nights in the belly of the whale",
+   "heard": 11,
+   "words": 11,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jonah learned to pray where his running failed",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 41.7,
+   "weight": 0.32,
+   "note_time": 41.75
+  },
+  {
+   "text": "word",
+   "time": 42.42,
+   "weight": 0.93,
+   "note_time": 42.38
+  },
+  {
+   "text": "of",
+   "time": 42.78,
+   "weight": 1.0,
+   "note_time": 42.59
+  },
+  {
+   "text": "the",
+   "time": 43.16,
+   "weight": 0.99,
+   "note_time": 42.69
+  },
+  {
+   "text": "Lord",
+   "time": 43.32,
+   "weight": 0.99,
+   "note_time": 43.01
+  },
+  {
+   "text": "came",
+   "time": 43.58,
+   "weight": 0.98,
+   "note_time": 43.22
+  },
+  {
+   "text": "to",
+   "time": 43.94,
+   "weight": 1.0,
+   "note_time": 43.43
+  },
+  {
+   "text": "Jon",
+   "time": 44.18,
+   "weight": 0.99,
+   "note_time": 43.53
+  },
+  {
+   "text": "ah",
+   "time": 44.35,
+   "weight": 0.99,
+   "note_time": 43.85
+  },
+  {
+   "text": "one",
+   "time": 44.52,
+   "weight": 1.0,
+   "note_time": 44.06
+  },
+  {
+   "text": "day",
+   "time": 44.78,
+   "weight": 1.0,
+   "note_time": 44.48
+  },
+  {
+   "text": "Go",
+   "time": 45.15,
+   "weight": 0.0,
+   "note_time": 45.31
+  },
+  {
+   "text": "to",
+   "time": 45.53,
+   "weight": 0.0,
+   "note_time": 45.52
+  },
+  {
+   "text": "Ni",
+   "time": 45.9,
+   "weight": 0.0,
+   "note_time": 45.94
+  },
+  {
+   "text": "ne",
+   "time": 46.28,
+   "weight": 0.0,
+   "note_time": 46.05
+  },
+  {
+   "text": "veh,",
+   "time": 46.65,
+   "weight": 0.0,
+   "note_time": 46.36
+  },
+  {
+   "text": "preach",
+   "time": 47.03,
+   "weight": 0.0,
+   "note_time": 46.57
+  },
+  {
+   "text": "a",
+   "time": 47.4,
+   "weight": 1.0,
+   "note_time": 46.78
+  },
+  {
+   "text": "gainst",
+   "time": 47.57,
+   "weight": 1.0,
+   "note_time": 46.89
+  },
+  {
+   "text": "her",
+   "time": 47.74,
+   "weight": 1.0,
+   "note_time": 47.41
+  },
+  {
+   "text": "ways",
+   "time": 48.18,
+   "weight": 0.99,
+   "note_time": 47.83
+  },
+  {
+   "text": "But",
+   "time": 48.74,
+   "weight": 0.97,
+   "note_time": 48.46
+  },
+  {
+   "text": "Jon",
+   "time": 49.22,
+   "weight": 0.99,
+   "note_time": 48.99
+  },
+  {
+   "text": "ah",
+   "time": 49.36,
+   "weight": 0.99,
+   "note_time": 49.3
+  },
+  {
+   "text": "ran",
+   "time": 49.5,
+   "weight": 1.0,
+   "note_time": 49.51
+  },
+  {
+   "text": "down",
+   "time": 50.02,
+   "weight": 0.99,
+   "note_time": 49.93
+  },
+  {
+   "text": "to",
+   "time": 50.6,
+   "weight": 0.99,
+   "note_time": 50.14
+  },
+  {
+   "text": "Jop",
+   "time": 50.86,
+   "weight": 1.0,
+   "note_time": 50.35
+  },
+  {
+   "text": "pa",
+   "time": 51.13,
+   "weight": 1.0,
+   "note_time": 50.66
+  },
+  {
+   "text": "in",
+   "time": 51.4,
+   "weight": 0.99,
+   "note_time": 50.98
+  },
+  {
+   "text": "stead",
+   "time": 51.63,
+   "weight": 0.99,
+   "note_time": 51.19
+  },
+  {
+   "text": "Paid",
+   "time": 52.1,
+   "weight": 0.47,
+   "note_time": 52.03
+  },
+  {
+   "text": "for",
+   "time": 52.82,
+   "weight": 0.89,
+   "note_time": 52.45
+  },
+  {
+   "text": "a",
+   "time": 52.99,
+   "weight": 0.0,
+   "note_time": 52.66
+  },
+  {
+   "text": "ship",
+   "time": 53.16,
+   "weight": 0.91,
+   "note_time": 52.76
+  },
+  {
+   "text": "bound",
+   "time": 53.54,
+   "weight": 0.92,
+   "note_time": 53.08
+  },
+  {
+   "text": "for",
+   "time": 53.96,
+   "weight": 0.97,
+   "note_time": 53.5
+  },
+  {
+   "text": "Tar",
+   "time": 54.24,
+   "weight": 0.71,
+   "note_time": 53.71
+  },
+  {
+   "text": "shish",
+   "time": 54.56,
+   "weight": 0.71,
+   "note_time": 54.02
+  },
+  {
+   "text": "a",
+   "time": 54.88,
+   "weight": 0.97,
+   "note_time": 54.34
+  },
+  {
+   "text": "head",
+   "time": 55.06,
+   "weight": 0.97,
+   "note_time": 54.55
+  },
+  {
+   "text": "Run",
+   "time": 55.24,
+   "weight": 0.97,
+   "note_time": 55.38
+  },
+  {
+   "text": "ning",
+   "time": 55.59,
+   "weight": 0.97,
+   "note_time": 55.49
+  },
+  {
+   "text": "from",
+   "time": 56.18,
+   "weight": 1.0,
+   "note_time": 55.7
+  },
+  {
+   "text": "the",
+   "time": 56.44,
+   "weight": 1.0,
+   "note_time": 56.01
+  },
+  {
+   "text": "Lord,",
+   "time": 56.74,
+   "weight": 0.81,
+   "note_time": 56.22
+  },
+  {
+   "text": "run",
+   "time": 57.18,
+   "weight": 0.99,
+   "note_time": 57.17
+  },
+  {
+   "text": "ning",
+   "time": 57.53,
+   "weight": 0.99,
+   "note_time": 57.38
+  },
+  {
+   "text": "from",
+   "time": 57.88,
+   "weight": 1.0,
+   "note_time": 57.69
+  },
+  {
+   "text": "the",
+   "time": 58.26,
+   "weight": 1.0,
+   "note_time": 57.9
+  },
+  {
+   "text": "Lord",
+   "time": 58.44,
+   "weight": 1.0,
+   "note_time": 58.53
+  },
+  {
+   "text": "You",
+   "time": 59.0,
+   "weight": 0.8,
+   "note_time": 58.74
+  },
+  {
+   "text": "can't",
+   "time": 59.32,
+   "weight": 0.97,
+   "note_time": 59.16
+  },
+  {
+   "text": "out",
+   "time": 59.72,
+   "weight": 0.96,
+   "note_time": 59.58
+  },
+  {
+   "text": "run",
+   "time": 60.03,
+   "weight": 0.96,
+   "note_time": 59.79
+  },
+  {
+   "text": "him",
+   "time": 60.34,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "on",
+   "time": 60.66,
+   "weight": 1.0,
+   "note_time": 60.21
+  },
+  {
+   "text": "the",
+   "time": 60.84,
+   "weight": 0.93,
+   "note_time": 60.42
+  },
+  {
+   "text": "sea",
+   "time": 60.96,
+   "weight": 0.99,
+   "note_time": 60.73
+  },
+  {
+   "text": "or",
+   "time": 61.24,
+   "weight": 0.99,
+   "note_time": 61.05
+  },
+  {
+   "text": "the",
+   "time": 61.54,
+   "weight": 1.0,
+   "note_time": 61.26
+  },
+  {
+   "text": "shore",
+   "time": 61.76,
+   "weight": 0.99,
+   "note_time": 62.1
+  },
+  {
+   "text": "Run",
+   "time": 62.02,
+   "weight": 0.99,
+   "note_time": 62.2
+  },
+  {
+   "text": "ning",
+   "time": 62.37,
+   "weight": 0.99,
+   "note_time": 62.41
+  },
+  {
+   "text": "from",
+   "time": 62.9,
+   "weight": 1.0,
+   "note_time": 62.73
+  },
+  {
+   "text": "the",
+   "time": 63.16,
+   "weight": 1.0,
+   "note_time": 62.94
+  },
+  {
+   "text": "Lord,",
+   "time": 63.48,
+   "weight": 1.0,
+   "note_time": 63.78
+  },
+  {
+   "text": "run",
+   "time": 63.96,
+   "weight": 0.99,
+   "note_time": 63.88
+  },
+  {
+   "text": "ning",
+   "time": 64.28,
+   "weight": 0.99,
+   "note_time": 64.09
+  },
+  {
+   "text": "from",
+   "time": 64.6,
+   "weight": 1.0,
+   "note_time": 64.41
+  },
+  {
+   "text": "the",
+   "time": 64.92,
+   "weight": 1.0,
+   "note_time": 64.62
+  },
+  {
+   "text": "Lord",
+   "time": 65.16,
+   "weight": 1.0,
+   "note_time": 65.45
+  },
+  {
+   "text": "Jon",
+   "time": 65.62,
+   "weight": 0.89,
+   "note_time": 65.77
+  },
+  {
+   "text": "ah",
+   "time": 65.97,
+   "weight": 0.89,
+   "note_time": 66.08
+  },
+  {
+   "text": "went",
+   "time": 66.52,
+   "weight": 0.98,
+   "note_time": 66.29
+  },
+  {
+   "text": "down,",
+   "time": 66.92,
+   "weight": 1.0,
+   "note_time": 67.13
+  },
+  {
+   "text": "down,",
+   "time": 67.26,
+   "weight": 0.98,
+   "note_time": 67.76
+  },
+  {
+   "text": "down",
+   "time": 68.22,
+   "weight": 0.96,
+   "note_time": 67.97
+  },
+  {
+   "text": "The",
+   "time": 75.32,
+   "weight": 0.4,
+   "note_time": 75.31
+  },
+  {
+   "text": "Lord",
+   "time": 76.0,
+   "weight": 0.99,
+   "note_time": 75.94
+  },
+  {
+   "text": "sent",
+   "time": 76.36,
+   "weight": 0.99,
+   "note_time": 76.15
+  },
+  {
+   "text": "a",
+   "time": 76.66,
+   "weight": 0.99,
+   "note_time": 76.26
+  },
+  {
+   "text": "wind",
+   "time": 76.9,
+   "weight": 1.0,
+   "note_time": 76.57
+  },
+  {
+   "text": "and",
+   "time": 77.22,
+   "weight": 0.99,
+   "note_time": 76.78
+  },
+  {
+   "text": "a",
+   "time": 77.58,
+   "weight": 1.0,
+   "note_time": 76.99
+  },
+  {
+   "text": "ter",
+   "time": 77.76,
+   "weight": 1.0,
+   "note_time": 77.2
+  },
+  {
+   "text": "ri",
+   "time": 77.94,
+   "weight": 1.0,
+   "note_time": 77.52
+  },
+  {
+   "text": "ble",
+   "time": 78.12,
+   "weight": 1.0,
+   "note_time": 77.83
+  },
+  {
+   "text": "storm",
+   "time": 78.3,
+   "weight": 1.0,
+   "note_time": 78.04
+  },
+  {
+   "text": "The",
+   "time": 78.9,
+   "weight": 0.78,
+   "note_time": 78.67
+  },
+  {
+   "text": "sai",
+   "time": 79.38,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "lors",
+   "time": 79.65,
+   "weight": 1.0,
+   "note_time": 79.51
+  },
+  {
+   "text": "cried",
+   "time": 79.92,
+   "weight": 1.0,
+   "note_time": 79.72
+  },
+  {
+   "text": "out,",
+   "time": 80.3,
+   "weight": 1.0,
+   "note_time": 80.14
+  },
+  {
+   "text": "ev",
+   "time": 80.8,
+   "weight": 0.84,
+   "note_time": 80.35
+  },
+  {
+   "text": "ery",
+   "time": 80.91,
+   "weight": 0.84,
+   "note_time": 80.45
+  },
+  {
+   "text": "man",
+   "time": 81.02,
+   "weight": 1.0,
+   "note_time": 80.98
+  },
+  {
+   "text": "to",
+   "time": 81.3,
+   "weight": 1.0,
+   "note_time": 81.08
+  },
+  {
+   "text": "his",
+   "time": 81.68,
+   "weight": 1.0,
+   "note_time": 81.19
+  },
+  {
+   "text": "god",
+   "time": 81.9,
+   "weight": 0.99,
+   "note_time": 81.29
+  },
+  {
+   "text": "Jon",
+   "time": 82.26,
+   "weight": 0.99,
+   "note_time": 82.24
+  },
+  {
+   "text": "ah",
+   "time": 82.61,
+   "weight": 0.99,
+   "note_time": 82.55
+  },
+  {
+   "text": "lay",
+   "time": 83.24,
+   "weight": 0.98,
+   "note_time": 82.87
+  },
+  {
+   "text": "sleep",
+   "time": 83.58,
+   "weight": 1.0,
+   "note_time": 83.08
+  },
+  {
+   "text": "ing",
+   "time": 83.76,
+   "weight": 1.0,
+   "note_time": 83.29
+  },
+  {
+   "text": "deep",
+   "time": 83.94,
+   "weight": 1.0,
+   "note_time": 83.5
+  },
+  {
+   "text": "down",
+   "time": 84.32,
+   "weight": 1.0,
+   "note_time": 83.92
+  },
+  {
+   "text": "in",
+   "time": 84.78,
+   "weight": 1.0,
+   "note_time": 84.34
+  },
+  {
+   "text": "the",
+   "time": 85.14,
+   "weight": 1.0,
+   "note_time": 84.55
+  },
+  {
+   "text": "hold",
+   "time": 85.24,
+   "weight": 0.97,
+   "note_time": 84.65
+  },
+  {
+   "text": "Throw",
+   "time": 85.52,
+   "weight": 0.98,
+   "note_time": 85.59
+  },
+  {
+   "text": "me",
+   "time": 86.34,
+   "weight": 1.0,
+   "note_time": 85.91
+  },
+  {
+   "text": "in",
+   "time": 86.54,
+   "weight": 1.0,
+   "note_time": 86.22
+  },
+  {
+   "text": "the",
+   "time": 86.8,
+   "weight": 1.0,
+   "note_time": 86.43
+  },
+  {
+   "text": "sea",
+   "time": 86.94,
+   "weight": 1.0,
+   "note_time": 86.85
+  },
+  {
+   "text": "and",
+   "time": 87.3,
+   "weight": 0.99,
+   "note_time": 87.06
+  },
+  {
+   "text": "it",
+   "time": 87.74,
+   "weight": 1.0,
+   "note_time": 87.27
+  },
+  {
+   "text": "will",
+   "time": 88.1,
+   "weight": 1.0,
+   "note_time": 87.59
+  },
+  {
+   "text": "be",
+   "time": 88.34,
+   "weight": 1.0,
+   "note_time": 87.9
+  },
+  {
+   "text": "calm",
+   "time": 88.6,
+   "weight": 0.98,
+   "note_time": 88.11
+  },
+  {
+   "text": "Run",
+   "time": 89.02,
+   "weight": 0.82,
+   "note_time": 88.95
+  },
+  {
+   "text": "ning",
+   "time": 89.37,
+   "weight": 0.82,
+   "note_time": 89.06
+  },
+  {
+   "text": "from",
+   "time": 89.8,
+   "weight": 1.0,
+   "note_time": 89.27
+  },
+  {
+   "text": "the",
+   "time": 90.04,
+   "weight": 1.0,
+   "note_time": 89.58
+  },
+  {
+   "text": "Lord,",
+   "time": 90.32,
+   "weight": 1.0,
+   "note_time": 89.79
+  },
+  {
+   "text": "run",
+   "time": 91.0,
+   "weight": 1.0,
+   "note_time": 90.73
+  },
+  {
+   "text": "ning",
+   "time": 91.23,
+   "weight": 1.0,
+   "note_time": 90.94
+  },
+  {
+   "text": "from",
+   "time": 91.46,
+   "weight": 1.0,
+   "note_time": 91.26
+  },
+  {
+   "text": "the",
+   "time": 91.72,
+   "weight": 1.0,
+   "note_time": 91.47
+  },
+  {
+   "text": "Lord",
+   "time": 92.02,
+   "weight": 1.0,
+   "note_time": 92.1
+  },
+  {
+   "text": "You",
+   "time": 92.46,
+   "weight": 0.98,
+   "note_time": 92.31
+  },
+  {
+   "text": "can't",
+   "time": 92.86,
+   "weight": 0.99,
+   "note_time": 92.73
+  },
+  {
+   "text": "out",
+   "time": 93.2,
+   "weight": 1.0,
+   "note_time": 93.15
+  },
+  {
+   "text": "run",
+   "time": 93.55,
+   "weight": 1.0,
+   "note_time": 93.36
+  },
+  {
+   "text": "him",
+   "time": 93.96,
+   "weight": 0.6,
+   "note_time": 93.57
+  },
+  {
+   "text": "on",
+   "time": 94.24,
+   "weight": 1.0,
+   "note_time": 93.78
+  },
+  {
+   "text": "the",
+   "time": 94.42,
+   "weight": 1.0,
+   "note_time": 93.99
+  },
+  {
+   "text": "sea",
+   "time": 94.56,
+   "weight": 1.0,
+   "note_time": 94.3
+  },
+  {
+   "text": "or",
+   "time": 94.82,
+   "weight": 1.0,
+   "note_time": 94.62
+  },
+  {
+   "text": "the",
+   "time": 95.08,
+   "weight": 1.0,
+   "note_time": 94.83
+  },
+  {
+   "text": "shore",
+   "time": 95.34,
+   "weight": 1.0,
+   "note_time": 95.66
+  },
+  {
+   "text": "Run",
+   "time": 95.62,
+   "weight": 1.0,
+   "note_time": 95.77
+  },
+  {
+   "text": "ning",
+   "time": 95.97,
+   "weight": 1.0,
+   "note_time": 95.98
+  },
+  {
+   "text": "from",
+   "time": 96.5,
+   "weight": 1.0,
+   "note_time": 96.29
+  },
+  {
+   "text": "the",
+   "time": 96.74,
+   "weight": 1.0,
+   "note_time": 96.5
+  },
+  {
+   "text": "Lord,",
+   "time": 97.04,
+   "weight": 1.0,
+   "note_time": 97.34
+  },
+  {
+   "text": "run",
+   "time": 97.7,
+   "weight": 1.0,
+   "note_time": 97.45
+  },
+  {
+   "text": "ning",
+   "time": 97.94,
+   "weight": 1.0,
+   "note_time": 97.66
+  },
+  {
+   "text": "from",
+   "time": 98.18,
+   "weight": 1.0,
+   "note_time": 97.97
+  },
+  {
+   "text": "the",
+   "time": 98.42,
+   "weight": 1.0,
+   "note_time": 98.18
+  },
+  {
+   "text": "Lord",
+   "time": 98.72,
+   "weight": 1.0,
+   "note_time": 99.02
+  },
+  {
+   "text": "Jon",
+   "time": 99.3,
+   "weight": 0.15,
+   "note_time": 99.34
+  },
+  {
+   "text": "ah",
+   "time": 99.64,
+   "weight": 0.15,
+   "note_time": 99.65
+  },
+  {
+   "text": "went",
+   "time": 99.98,
+   "weight": 0.99,
+   "note_time": 99.86
+  },
+  {
+   "text": "down,",
+   "time": 100.36,
+   "weight": 1.0,
+   "note_time": 100.7
+  },
+  {
+   "text": "down,",
+   "time": 101.1,
+   "weight": 1.0,
+   "note_time": 101.33
+  },
+  {
+   "text": "down",
+   "time": 102.0,
+   "weight": 1.0,
+   "note_time": 101.54
+  },
+  {
+   "text": "They",
+   "time": 121.76,
+   "weight": 0.56,
+   "note_time": 122.31
+  },
+  {
+   "text": "threw",
+   "time": 122.52,
+   "weight": 0.99,
+   "note_time": 122.52
+  },
+  {
+   "text": "him",
+   "time": 123.28,
+   "weight": 0.9,
+   "note_time": 122.83
+  },
+  {
+   "text": "o",
+   "time": 123.52,
+   "weight": 1.0,
+   "note_time": 123.15
+  },
+  {
+   "text": "ver",
+   "time": 123.7,
+   "weight": 1.0,
+   "note_time": 123.36
+  },
+  {
+   "text": "board",
+   "time": 123.88,
+   "weight": 1.0,
+   "note_time": 123.57
+  },
+  {
+   "text": "and",
+   "time": 124.06,
+   "weight": 0.96,
+   "note_time": 123.78
+  },
+  {
+   "text": "the",
+   "time": 124.58,
+   "weight": 1.0,
+   "note_time": 123.99
+  },
+  {
+   "text": "sea",
+   "time": 124.72,
+   "weight": 1.0,
+   "note_time": 124.2
+  },
+  {
+   "text": "grew",
+   "time": 124.98,
+   "weight": 1.0,
+   "note_time": 124.51
+  },
+  {
+   "text": "still",
+   "time": 125.26,
+   "weight": 1.0,
+   "note_time": 124.83
+  },
+  {
+   "text": "The",
+   "time": 125.64,
+   "weight": 0.65,
+   "note_time": 125.66
+  },
+  {
+   "text": "Lord",
+   "time": 126.4,
+   "weight": 0.96,
+   "note_time": 126.29
+  },
+  {
+   "text": "sent",
+   "time": 126.72,
+   "weight": 1.0,
+   "note_time": 126.5
+  },
+  {
+   "text": "a",
+   "time": 127.02,
+   "weight": 0.99,
+   "note_time": 126.61
+  },
+  {
+   "text": "fish",
+   "time": 127.26,
+   "weight": 1.0,
+   "note_time": 126.71
+  },
+  {
+   "text": "to",
+   "time": 127.6,
+   "weight": 0.98,
+   "note_time": 126.92
+  },
+  {
+   "text": "do",
+   "time": 128.06,
+   "weight": 1.0,
+   "note_time": 127.55
+  },
+  {
+   "text": "his",
+   "time": 128.34,
+   "weight": 0.56,
+   "note_time": 127.87
+  },
+  {
+   "text": "will",
+   "time": 128.7,
+   "weight": 1.0,
+   "note_time": 128.18
+  },
+  {
+   "text": "Three",
+   "time": 129.04,
+   "weight": 0.81,
+   "note_time": 129.02
+  },
+  {
+   "text": "days",
+   "time": 129.8,
+   "weight": 1.0,
+   "note_time": 129.86
+  },
+  {
+   "text": "and",
+   "time": 130.08,
+   "weight": 1.0,
+   "note_time": 130.07
+  },
+  {
+   "text": "three",
+   "time": 130.44,
+   "weight": 1.0,
+   "note_time": 130.28
+  },
+  {
+   "text": "nights",
+   "time": 130.62,
+   "weight": 1.0,
+   "note_time": 130.49
+  },
+  {
+   "text": "in",
+   "time": 131.02,
+   "weight": 0.98,
+   "note_time": 130.7
+  },
+  {
+   "text": "the",
+   "time": 131.3,
+   "weight": 1.0,
+   "note_time": 130.8
+  },
+  {
+   "text": "bel",
+   "time": 131.42,
+   "weight": 1.0,
+   "note_time": 131.12
+  },
+  {
+   "text": "ly",
+   "time": 131.6,
+   "weight": 1.0,
+   "note_time": 131.22
+  },
+  {
+   "text": "of",
+   "time": 131.78,
+   "weight": 1.0,
+   "note_time": 131.33
+  },
+  {
+   "text": "the",
+   "time": 132.04,
+   "weight": 1.0,
+   "note_time": 131.54
+  },
+  {
+   "text": "whale",
+   "time": 132.24,
+   "weight": 1.0,
+   "note_time": 131.64
+  },
+  {
+   "text": "Jon",
+   "time": 132.58,
+   "weight": 1.0,
+   "note_time": 132.59
+  },
+  {
+   "text": "ah",
+   "time": 132.93,
+   "weight": 1.0,
+   "note_time": 132.9
+  },
+  {
+   "text": "learned",
+   "time": 133.46,
+   "weight": 1.0,
+   "note_time": 133.22
+  },
+  {
+   "text": "to",
+   "time": 133.74,
+   "weight": 1.0,
+   "note_time": 133.43
+  },
+  {
+   "text": "pray",
+   "time": 134.0,
+   "weight": 1.0,
+   "note_time": 133.64
+  },
+  {
+   "text": "where",
+   "time": 134.3,
+   "weight": 0.97,
+   "note_time": 133.85
+  },
+  {
+   "text": "his",
+   "time": 134.66,
+   "weight": 0.91,
+   "note_time": 134.06
+  },
+  {
+   "text": "run",
+   "time": 134.88,
+   "weight": 0.98,
+   "note_time": 134.27
+  },
+  {
+   "text": "ning",
+   "time": 135.23,
+   "weight": 0.98,
+   "note_time": 135.1
+  },
+  {
+   "text": "failed",
+   "time": 135.63,
+   "weight": 0.0,
+   "note_time": 135.94
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 20 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

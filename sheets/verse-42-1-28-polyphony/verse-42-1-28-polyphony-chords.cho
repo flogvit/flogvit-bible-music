@@ -1,29 +1,35 @@
 {title: Ave Gratia Plena}
 {subtitle: Luke 1:28}
-{key: Eb}
+{key: Bb}
 {tempo: 68}
 {time: 2/4}
 
 {comment: Intro}
-| [Eb] | ×9
+| [Bb] | ×8
+| [Eb] | [Eb] | [Eb] | [Bb] |
+| [Bb] |
 
 {start_of_verse: Verse 1}
-Ave, [Bb]gratia ple[Cm]na
-Domi[Bb6]nus te[Ab]cum
-[Eb]benedicta [Bb]tu in muli[Ab]eribus
+[Bb]Greetings, you who are favored
+[Eb]The Lord is [Bb]with you
+Blessed are you among [Eb]women
 {end_of_verse}
 
 {start_of_verse: Verse 2}
-[Eb]Ave, [Bb]gratia plena
-[Cm]Domi[Bb6]nus te[Ab]cum
-[Eb]benedicta [Bb]tu in muli[Ab]eribus
+[Bb]Greetings, you who are favored
+[Eb]The Lord is [Bb]with you
+[Gm7]Blessed are you a[F]mong wom[Eb]en
 {end_of_verse}
 
 {start_of_verse: Verse 3}
-[Cm]Benedicta [Bb]tu in[Eb]ter mulie[Ab]res
-et [Cm]benedictus [Bb]fructus [Ab]ventris tui
+Blessed are [Gm7]you among wom[Eb]en
+And blessed is the fruit [F]of your [Bb][Eb]womb
 {end_of_verse}
 
 {start_of_verse: Outro}
-Dominus [Eb]tecum
+[Bb]The Lord is [Eb]with you
 {end_of_verse}
+
+{comment: Outro (instrumental)}
+| [Gm7] | [F] | [Eb] | [Eb] |
+| [Eb] | [Eb] |

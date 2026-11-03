@@ -1,0 +1,1244 @@
+{
+ "id": "verse-19-146-1-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-146-1-hymn",
+ "offset_seconds": -6.060000000000127,
+ "words_heard": 162,
+ "words": 164,
+ "lines": [
+  {
+   "text": "Praise the LORD, O my soul",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.2,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I will praise Him as long as I live",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I will sing praise to my God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.11,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As long as I have breath in my lungs",
+   "heard": 9,
+   "words": 9,
+   "error_s": 2.09,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Do not put your trust in princes",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.86,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In mortals who cannot save",
+   "heard": 3,
+   "words": 5,
+   "error_s": 1.62,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "When their breath departs from them",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.89,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "They return to the dust below",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD, O my soul",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.37,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I will praise Him as long as I live",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.63,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "I will sing praise to my God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.28,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "As long as I have breath in my lungs",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "On that day all their plans",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.06,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come to nothing in the end",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed is the one whose help",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is the God of Jacob's name",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whose hope is in the LORD",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His God, the living One",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD, O my soul",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will praise Him as long as I live",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will sing praise to my God",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "As long as I have breath in my lungs",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Praise the LORD, O my soul",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "As long as I have breath",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Praise",
+   "time": 31.38,
+   "weight": 0.18,
+   "note_time": 29.58
+  },
+  {
+   "text": "the",
+   "time": 32.34,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "LORD,",
+   "time": 32.82,
+   "weight": 0.15,
+   "note_time": 30.21
+  },
+  {
+   "text": "O",
+   "time": 33.54,
+   "weight": 0.23,
+   "note_time": 32.54
+  },
+  {
+   "text": "my",
+   "time": 35.22,
+   "weight": 0.97,
+   "note_time": 33.17
+  },
+  {
+   "text": "soul",
+   "time": 35.94,
+   "weight": 0.15,
+   "note_time": 33.8
+  },
+  {
+   "text": "I",
+   "time": 36.04,
+   "weight": 0.07,
+   "note_time": 36.34
+  },
+  {
+   "text": "will",
+   "time": 37.68,
+   "weight": 0.34,
+   "note_time": 36.55
+  },
+  {
+   "text": "praise",
+   "time": 39.32,
+   "weight": 0.84,
+   "note_time": 37.18
+  },
+  {
+   "text": "Him",
+   "time": 39.98,
+   "weight": 0.67,
+   "note_time": 38.03
+  },
+  {
+   "text": "as",
+   "time": 40.72,
+   "weight": 0.97,
+   "note_time": 38.24
+  },
+  {
+   "text": "long",
+   "time": 41.12,
+   "weight": 1.0,
+   "note_time": 38.66
+  },
+  {
+   "text": "as",
+   "time": 41.44,
+   "weight": 1.0,
+   "note_time": 39.72
+  },
+  {
+   "text": "I",
+   "time": 42.34,
+   "weight": 1.0,
+   "note_time": 39.93
+  },
+  {
+   "text": "live",
+   "time": 42.66,
+   "weight": 1.0,
+   "note_time": 40.35
+  },
+  {
+   "text": "I",
+   "time": 43.1,
+   "weight": 0.25,
+   "note_time": 43.1
+  },
+  {
+   "text": "will",
+   "time": 45.28,
+   "weight": 1.0,
+   "note_time": 43.31
+  },
+  {
+   "text": "sing",
+   "time": 46.02,
+   "weight": 1.0,
+   "note_time": 43.73
+  },
+  {
+   "text": "praise",
+   "time": 46.46,
+   "weight": 0.39,
+   "note_time": 45.63
+  },
+  {
+   "text": "to",
+   "time": 48.16,
+   "weight": 1.0,
+   "note_time": 46.27
+  },
+  {
+   "text": "my",
+   "time": 48.8,
+   "weight": 0.99,
+   "note_time": 46.69
+  },
+  {
+   "text": "God",
+   "time": 49.32,
+   "weight": 0.99,
+   "note_time": 47.11
+  },
+  {
+   "text": "As",
+   "time": 51.06,
+   "weight": 0.77,
+   "note_time": 50.28
+  },
+  {
+   "text": "long",
+   "time": 52.32,
+   "weight": 1.0,
+   "note_time": 50.7
+  },
+  {
+   "text": "as",
+   "time": 53.2,
+   "weight": 1.0,
+   "note_time": 51.13
+  },
+  {
+   "text": "I",
+   "time": 53.68,
+   "weight": 0.99,
+   "note_time": 51.34
+  },
+  {
+   "text": "have",
+   "time": 53.94,
+   "weight": 0.98,
+   "note_time": 51.76
+  },
+  {
+   "text": "breath",
+   "time": 54.34,
+   "weight": 0.98,
+   "note_time": 52.18
+  },
+  {
+   "text": "in",
+   "time": 54.78,
+   "weight": 1.0,
+   "note_time": 53.03
+  },
+  {
+   "text": "my",
+   "time": 55.56,
+   "weight": 1.0,
+   "note_time": 53.45
+  },
+  {
+   "text": "lungs",
+   "time": 55.96,
+   "weight": 1.0,
+   "note_time": 53.87
+  },
+  {
+   "text": "Do",
+   "time": 56.58,
+   "weight": 0.39,
+   "note_time": 57.04
+  },
+  {
+   "text": "not",
+   "time": 59.48,
+   "weight": 1.0,
+   "note_time": 57.46
+  },
+  {
+   "text": "put",
+   "time": 59.96,
+   "weight": 1.0,
+   "note_time": 58.1
+  },
+  {
+   "text": "your",
+   "time": 60.52,
+   "weight": 1.0,
+   "note_time": 58.52
+  },
+  {
+   "text": "trust",
+   "time": 60.98,
+   "weight": 1.0,
+   "note_time": 59.15
+  },
+  {
+   "text": "in",
+   "time": 61.78,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "prin",
+   "time": 62.5,
+   "weight": 0.96,
+   "note_time": 60.42
+  },
+  {
+   "text": "ces",
+   "time": 62.85,
+   "weight": 0.96,
+   "note_time": 61.27
+  },
+  {
+   "text": "In",
+   "time": 64.01,
+   "weight": 0.0,
+   "note_time": 63.8
+  },
+  {
+   "text": "mor",
+   "time": 65.18,
+   "weight": 0.0,
+   "note_time": 64.23
+  },
+  {
+   "text": "tals",
+   "time": 66.34,
+   "weight": 0.0,
+   "note_time": 64.86
+  },
+  {
+   "text": "who",
+   "time": 67.5,
+   "weight": 0.96,
+   "note_time": 65.49
+  },
+  {
+   "text": "can",
+   "time": 67.78,
+   "weight": 0.99,
+   "note_time": 65.92
+  },
+  {
+   "text": "not",
+   "time": 68.13,
+   "weight": 0.99,
+   "note_time": 66.76
+  },
+  {
+   "text": "save",
+   "time": 68.8,
+   "weight": 0.65,
+   "note_time": 67.61
+  },
+  {
+   "text": "When",
+   "time": 70.5,
+   "weight": 0.29,
+   "note_time": 70.35
+  },
+  {
+   "text": "their",
+   "time": 72.48,
+   "weight": 0.99,
+   "note_time": 70.56
+  },
+  {
+   "text": "breath",
+   "time": 72.88,
+   "weight": 0.99,
+   "note_time": 70.99
+  },
+  {
+   "text": "de",
+   "time": 73.44,
+   "weight": 0.4,
+   "note_time": 71.83
+  },
+  {
+   "text": "parts",
+   "time": 73.79,
+   "weight": 0.4,
+   "note_time": 72.25
+  },
+  {
+   "text": "from",
+   "time": 75.4,
+   "weight": 1.0,
+   "note_time": 73.52
+  },
+  {
+   "text": "them",
+   "time": 75.7,
+   "weight": 0.97,
+   "note_time": 73.94
+  },
+  {
+   "text": "They",
+   "time": 77.96,
+   "weight": 0.95,
+   "note_time": 77.32
+  },
+  {
+   "text": "re",
+   "time": 79.36,
+   "weight": 0.99,
+   "note_time": 77.75
+  },
+  {
+   "text": "turn",
+   "time": 79.6,
+   "weight": 0.99,
+   "note_time": 78.59
+  },
+  {
+   "text": "to",
+   "time": 79.84,
+   "weight": 1.0,
+   "note_time": 78.8
+  },
+  {
+   "text": "the",
+   "time": 80.68,
+   "weight": 0.99,
+   "note_time": 79.01
+  },
+  {
+   "text": "dust",
+   "time": 80.96,
+   "weight": 1.0,
+   "note_time": 80.7
+  },
+  {
+   "text": "be",
+   "time": 82.0,
+   "weight": 1.0,
+   "note_time": 80.92
+  },
+  {
+   "text": "low",
+   "time": 82.35,
+   "weight": 1.0,
+   "note_time": 81.13
+  },
+  {
+   "text": "Praise",
+   "time": 84.46,
+   "weight": 0.95,
+   "note_time": 83.66
+  },
+  {
+   "text": "the",
+   "time": 85.86,
+   "weight": 1.0,
+   "note_time": 84.08
+  },
+  {
+   "text": "LORD,",
+   "time": 86.14,
+   "weight": 0.96,
+   "note_time": 84.3
+  },
+  {
+   "text": "O",
+   "time": 87.5,
+   "weight": 0.64,
+   "note_time": 86.62
+  },
+  {
+   "text": "my",
+   "time": 88.64,
+   "weight": 0.99,
+   "note_time": 87.25
+  },
+  {
+   "text": "soul",
+   "time": 89.24,
+   "weight": 1.0,
+   "note_time": 87.89
+  },
+  {
+   "text": "I",
+   "time": 89.96,
+   "weight": 0.27,
+   "note_time": 90.42
+  },
+  {
+   "text": "will",
+   "time": 92.28,
+   "weight": 0.99,
+   "note_time": 90.63
+  },
+  {
+   "text": "praise",
+   "time": 92.68,
+   "weight": 0.99,
+   "note_time": 91.27
+  },
+  {
+   "text": "Him",
+   "time": 93.34,
+   "weight": 0.9,
+   "note_time": 92.11
+  },
+  {
+   "text": "as",
+   "time": 94.06,
+   "weight": 0.98,
+   "note_time": 92.32
+  },
+  {
+   "text": "long",
+   "time": 94.44,
+   "weight": 1.0,
+   "note_time": 92.75
+  },
+  {
+   "text": "as",
+   "time": 94.76,
+   "weight": 1.0,
+   "note_time": 93.8
+  },
+  {
+   "text": "I",
+   "time": 95.74,
+   "weight": 1.0,
+   "note_time": 94.01
+  },
+  {
+   "text": "live",
+   "time": 96.06,
+   "weight": 1.0,
+   "note_time": 94.44
+  },
+  {
+   "text": "I",
+   "time": 97.3,
+   "weight": 0.7,
+   "note_time": 97.18
+  },
+  {
+   "text": "will",
+   "time": 98.7,
+   "weight": 1.0,
+   "note_time": 97.39
+  },
+  {
+   "text": "sing",
+   "time": 99.36,
+   "weight": 1.0,
+   "note_time": 97.82
+  },
+  {
+   "text": "praise",
+   "time": 99.84,
+   "weight": 0.4,
+   "note_time": 99.72
+  },
+  {
+   "text": "to",
+   "time": 101.54,
+   "weight": 1.0,
+   "note_time": 100.35
+  },
+  {
+   "text": "my",
+   "time": 102.12,
+   "weight": 1.0,
+   "note_time": 100.77
+  },
+  {
+   "text": "God",
+   "time": 102.66,
+   "weight": 1.0,
+   "note_time": 101.41
+  },
+  {
+   "text": "As",
+   "time": 103.98,
+   "weight": 0.36,
+   "note_time": 104.37
+  },
+  {
+   "text": "long",
+   "time": 105.56,
+   "weight": 1.0,
+   "note_time": 105.21
+  },
+  {
+   "text": "as",
+   "time": 106.5,
+   "weight": 1.0,
+   "note_time": 105.42
+  },
+  {
+   "text": "I",
+   "time": 107.0,
+   "weight": 1.0,
+   "note_time": 105.85
+  },
+  {
+   "text": "have",
+   "time": 107.24,
+   "weight": 1.0,
+   "note_time": 106.27
+  },
+  {
+   "text": "breath",
+   "time": 107.7,
+   "weight": 0.99,
+   "note_time": 107.11
+  },
+  {
+   "text": "in",
+   "time": 108.1,
+   "weight": 1.0,
+   "note_time": 107.54
+  },
+  {
+   "text": "my",
+   "time": 108.9,
+   "weight": 1.0,
+   "note_time": 107.96
+  },
+  {
+   "text": "lungs",
+   "time": 109.3,
+   "weight": 1.0,
+   "note_time": 108.17
+  },
+  {
+   "text": "On",
+   "time": 124.44,
+   "weight": 0.56,
+   "note_time": 124.23
+  },
+  {
+   "text": "that",
+   "time": 125.6,
+   "weight": 1.0,
+   "note_time": 124.44
+  },
+  {
+   "text": "day",
+   "time": 126.0,
+   "weight": 1.0,
+   "note_time": 124.86
+  },
+  {
+   "text": "all",
+   "time": 126.76,
+   "weight": 0.4,
+   "note_time": 127.18
+  },
+  {
+   "text": "their",
+   "time": 128.7,
+   "weight": 1.0,
+   "note_time": 127.82
+  },
+  {
+   "text": "plans",
+   "time": 129.3,
+   "weight": 1.0,
+   "note_time": 128.24
+  },
+  {
+   "text": "Come",
+   "time": 129.88,
+   "weight": 0.24,
+   "note_time": 130.99
+  },
+  {
+   "text": "to",
+   "time": 132.3,
+   "weight": 1.0,
+   "note_time": 131.41
+  },
+  {
+   "text": "noth",
+   "time": 132.7,
+   "weight": 1.0,
+   "note_time": 131.83
+  },
+  {
+   "text": "ing",
+   "time": 133.05,
+   "weight": 1.0,
+   "note_time": 132.04
+  },
+  {
+   "text": "in",
+   "time": 133.4,
+   "weight": 0.39,
+   "note_time": 133.94
+  },
+  {
+   "text": "the",
+   "time": 135.42,
+   "weight": 1.0,
+   "note_time": 134.37
+  },
+  {
+   "text": "end",
+   "time": 135.68,
+   "weight": 1.0,
+   "note_time": 134.79
+  },
+  {
+   "text": "Blessed",
+   "time": 138.86,
+   "weight": 0.33,
+   "note_time": 138.59
+  },
+  {
+   "text": "is",
+   "time": 140.02,
+   "weight": 1.0,
+   "note_time": 139.23
+  },
+  {
+   "text": "the",
+   "time": 140.54,
+   "weight": 0.99,
+   "note_time": 139.86
+  },
+  {
+   "text": "one",
+   "time": 141.08,
+   "weight": 0.94,
+   "note_time": 140.07
+  },
+  {
+   "text": "whose",
+   "time": 141.4,
+   "weight": 0.93,
+   "note_time": 140.49
+  },
+  {
+   "text": "help",
+   "time": 141.9,
+   "weight": 0.98,
+   "note_time": 141.13
+  },
+  {
+   "text": "Is",
+   "time": 142.56,
+   "weight": 0.94,
+   "note_time": 142.39
+  },
+  {
+   "text": "the",
+   "time": 143.66,
+   "weight": 0.99,
+   "note_time": 142.61
+  },
+  {
+   "text": "God",
+   "time": 143.8,
+   "weight": 0.96,
+   "note_time": 142.82
+  },
+  {
+   "text": "of",
+   "time": 144.12,
+   "weight": 1.0,
+   "note_time": 143.24
+  },
+  {
+   "text": "Ja",
+   "time": 144.48,
+   "weight": 0.99,
+   "note_time": 143.45
+  },
+  {
+   "text": "cob's",
+   "time": 144.83,
+   "weight": 0.99,
+   "note_time": 143.87
+  },
+  {
+   "text": "name",
+   "time": 145.46,
+   "weight": 0.99,
+   "note_time": 144.51
+  },
+  {
+   "text": "Whose",
+   "time": 145.8,
+   "weight": 0.5,
+   "note_time": 145.77
+  },
+  {
+   "text": "hope",
+   "time": 146.94,
+   "weight": 1.0,
+   "note_time": 146.2
+  },
+  {
+   "text": "is",
+   "time": 147.4,
+   "weight": 0.99,
+   "note_time": 146.62
+  },
+  {
+   "text": "in",
+   "time": 147.84,
+   "weight": 1.0,
+   "note_time": 146.83
+  },
+  {
+   "text": "the",
+   "time": 148.1,
+   "weight": 1.0,
+   "note_time": 147.25
+  },
+  {
+   "text": "LORD",
+   "time": 148.38,
+   "weight": 0.99,
+   "note_time": 147.68
+  },
+  {
+   "text": "His",
+   "time": 149.26,
+   "weight": 0.81,
+   "note_time": 148.31
+  },
+  {
+   "text": "God,",
+   "time": 149.5,
+   "weight": 1.0,
+   "note_time": 148.73
+  },
+  {
+   "text": "the",
+   "time": 149.96,
+   "weight": 0.91,
+   "note_time": 149.58
+  },
+  {
+   "text": "liv",
+   "time": 150.74,
+   "weight": 0.57,
+   "note_time": 150.42
+  },
+  {
+   "text": "ing",
+   "time": 151.09,
+   "weight": 0.57,
+   "note_time": 151.27
+  },
+  {
+   "text": "One",
+   "time": 151.94,
+   "weight": 0.72,
+   "note_time": 152.11
+  },
+  {
+   "text": "Praise",
+   "time": 154.6,
+   "weight": 0.57,
+   "note_time": 154.65
+  },
+  {
+   "text": "the",
+   "time": 155.8,
+   "weight": 1.0,
+   "note_time": 155.07
+  },
+  {
+   "text": "LORD,",
+   "time": 156.12,
+   "weight": 0.98,
+   "note_time": 155.28
+  },
+  {
+   "text": "O",
+   "time": 157.54,
+   "weight": 0.52,
+   "note_time": 157.61
+  },
+  {
+   "text": "my",
+   "time": 158.64,
+   "weight": 0.99,
+   "note_time": 158.24
+  },
+  {
+   "text": "soul",
+   "time": 159.24,
+   "weight": 1.0,
+   "note_time": 158.87
+  },
+  {
+   "text": "I",
+   "time": 160.8,
+   "weight": 0.36,
+   "note_time": 161.41
+  },
+  {
+   "text": "will",
+   "time": 162.3,
+   "weight": 1.0,
+   "note_time": 161.62
+  },
+  {
+   "text": "praise",
+   "time": 162.68,
+   "weight": 1.0,
+   "note_time": 162.25
+  },
+  {
+   "text": "Him",
+   "time": 163.34,
+   "weight": 0.94,
+   "note_time": 163.1
+  },
+  {
+   "text": "as",
+   "time": 164.08,
+   "weight": 0.94,
+   "note_time": 163.31
+  },
+  {
+   "text": "long",
+   "time": 164.42,
+   "weight": 1.0,
+   "note_time": 163.73
+  },
+  {
+   "text": "as",
+   "time": 164.8,
+   "weight": 1.0,
+   "note_time": 164.79
+  },
+  {
+   "text": "I",
+   "time": 165.76,
+   "weight": 1.0,
+   "note_time": 165.0
+  },
+  {
+   "text": "live",
+   "time": 166.04,
+   "weight": 1.0,
+   "note_time": 165.42
+  },
+  {
+   "text": "I",
+   "time": 167.84,
+   "weight": 0.99,
+   "note_time": 168.17
+  },
+  {
+   "text": "will",
+   "time": 169.04,
+   "weight": 1.0,
+   "note_time": 168.38
+  },
+  {
+   "text": "sing",
+   "time": 169.36,
+   "weight": 1.0,
+   "note_time": 168.8
+  },
+  {
+   "text": "praise",
+   "time": 169.86,
+   "weight": 0.39,
+   "note_time": 170.7
+  },
+  {
+   "text": "to",
+   "time": 171.54,
+   "weight": 1.0,
+   "note_time": 171.34
+  },
+  {
+   "text": "my",
+   "time": 172.12,
+   "weight": 1.0,
+   "note_time": 171.76
+  },
+  {
+   "text": "God",
+   "time": 172.64,
+   "weight": 1.0,
+   "note_time": 172.39
+  },
+  {
+   "text": "As",
+   "time": 175.12,
+   "weight": 0.5,
+   "note_time": 175.35
+  },
+  {
+   "text": "long",
+   "time": 176.18,
+   "weight": 0.99,
+   "note_time": 176.2
+  },
+  {
+   "text": "as",
+   "time": 176.58,
+   "weight": 1.0,
+   "note_time": 176.41
+  },
+  {
+   "text": "I",
+   "time": 176.98,
+   "weight": 1.0,
+   "note_time": 176.83
+  },
+  {
+   "text": "have",
+   "time": 177.26,
+   "weight": 0.99,
+   "note_time": 177.25
+  },
+  {
+   "text": "breath",
+   "time": 177.66,
+   "weight": 0.98,
+   "note_time": 178.1
+  },
+  {
+   "text": "in",
+   "time": 178.12,
+   "weight": 0.78,
+   "note_time": 178.52
+  },
+  {
+   "text": "my",
+   "time": 178.86,
+   "weight": 1.0,
+   "note_time": 178.94
+  },
+  {
+   "text": "lungs",
+   "time": 179.3,
+   "weight": 0.99,
+   "note_time": 179.15
+  },
+  {
+   "text": "Praise",
+   "time": 181.4,
+   "weight": 0.85,
+   "note_time": 181.69
+  },
+  {
+   "text": "the",
+   "time": 182.46,
+   "weight": 1.0,
+   "note_time": 182.11
+  },
+  {
+   "text": "LORD,",
+   "time": 182.8,
+   "weight": 0.99,
+   "note_time": 182.32
+  },
+  {
+   "text": "O",
+   "time": 184.62,
+   "weight": 0.48,
+   "note_time": 184.65
+  },
+  {
+   "text": "my",
+   "time": 185.48,
+   "weight": 0.95,
+   "note_time": 185.28
+  },
+  {
+   "text": "soul",
+   "time": 186.04,
+   "weight": 1.0,
+   "note_time": 185.92
+  },
+  {
+   "text": "As",
+   "time": 188.52,
+   "weight": 0.97,
+   "note_time": 188.87
+  },
+  {
+   "text": "long",
+   "time": 189.58,
+   "weight": 1.0,
+   "note_time": 189.3
+  },
+  {
+   "text": "as",
+   "time": 190.0,
+   "weight": 1.0,
+   "note_time": 189.72
+  },
+  {
+   "text": "I",
+   "time": 190.5,
+   "weight": 1.0,
+   "note_time": 189.93
+  },
+  {
+   "text": "have",
+   "time": 190.76,
+   "weight": 1.0,
+   "note_time": 190.35
+  },
+  {
+   "text": "breath",
+   "time": 191.24,
+   "weight": 1.0,
+   "note_time": 190.56
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "14 of 24 lyric lines sit clearly on their notes; 10 are uncertain and printed in grey italics."
+}

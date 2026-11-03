@@ -1,0 +1,44 @@
+{
+  "id": "story-jesu-virke-i-galilea-rock",
+  "title": "Great Light",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-virke-i-galilea"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [
+      "jesu-virke-i-galilea"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice with backing choir, electric guitar, bass guitar, drums, piano, driving rock mood, 110 BPM",
+    "lyrics": "[Verse]\nWhen Jesus heard John was arrested\nHe withdrew to Galilee\nLeaving Nazareth behind\nHe settled in Capernaum by the sea\nIn the region of Zebulun and Naphtali\n\n[Verse]\nTo fulfill what Isaiah spoke\nAbout the land along the road\nThe people who sat in darkness\nHave seen a great light arise\nOn those in the shadow of death\nA light has dawned\n\n[Chorus]\nRepent for the kingdom is near\nCome follow me I am here\nI will make you fishers of men\nThe good news that you must hear\n\n[Verse]\nBy the sea he saw two brothers\nCasting nets into the deep\nSimon and Andrew left their nets\nAt once they followed his call\nJames and John in the boat\nMending nets with their father\nThey left the boat and the father\nTo walk with Jesus from that day\n\n[Chorus]\nRepent for the kingdom is near\nCome follow me I am here\nI will make you fishers of men\nThe good news that you must hear\n\n[Bridge]\nHe went throughout all Galilee\nTeaching in their synagogues\nProclaiming the gospel of the kingdom\nHealing every disease and sickness\n\n[Outro]\nNews spread through all of Syria\nPeople brought their sick and bound\nLarge crowds followed from Galilee\nAnd the region beyond the Jordan",
+    "cot": "full",
+    "seed": 31162
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "story-profetens-klage-og-haap-celtic",
+  "title": "Who Is A God Like You",
+  "kind": "story",
+  "anchor": {
+    "story": "profetens-klage-og-haap"
+  },
+  "references": [
+    {
+      "bookId": 33,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 33,
+      "chapter": 7,
+      "verseStart": 18,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade",
+      "pakten"
+    ],
+    "stories": [
+      "profetens-klage-og-haap"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, Celtic harp, bodhran, fiddle, uilleann pipes, mournful and hopeful, 75 BPM",
+    "lyrics": "[Verse]\nWhat misery is mine alone\nGathering summer fruit in vain\nLike gleaning when the grapes are gone\nNo early figs remain\n\nThe faithful have vanished away\nNot one upright person stands\nThey lie in wait for blood each day\nHunting brothers with their hands\n\n[Chorus]\nWho is a God like you\nPardons guilt and passes by\nYou do not hold your anger true\nYou delight in mercy\n\n[Verse]\nBest of them is like a briar\nMost upright a thorned hedge\nDay of your reckoning is here\nConfusion on their ledge\n\nPut no trust in a neighbor\nRely on no friend\nGuard your words from every power\nFrom the wife in your end\n\n[Chorus]\nWho is a God like you\nPardons guilt and passes by\nYou do not hold your anger true\nYou delight in mercy\n\n[Bridge]\nSon treats father with contempt\nDaughter rises against\nEnemies are the household tent\nBroken bonds are at last\n\nBut as for me I will look\nTo the Lord I will wait\nMy God will hear my voice\nIn this darkened state\n\n[Outro]\nHurl our sins to the sea\nShow faithfulness to Jacob\nMercy to Abraham see\nAs you swore in days past",
+    "cot": "full",
+    "seed": 31166
+  }
+}

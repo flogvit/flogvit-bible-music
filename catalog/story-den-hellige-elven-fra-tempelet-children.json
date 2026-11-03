@@ -1,0 +1,45 @@
+{
+  "id": "story-den-hellige-elven-fra-tempelet-children",
+  "title": "Water for Healing",
+  "kind": "story",
+  "anchor": {
+    "story": "den-hellige-elven-fra-tempelet"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 47,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "nade",
+      "skapelsen"
+    ],
+    "stories": [
+      "den-hellige-elven-fra-tempelet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright male solo with children choir, acoustic guitar, piano, flute, harp, strings, warm and joyful, 90 BPM",
+    "lyrics": "[Verse]\nHe led me to the temple gate\nWater flowed out to the east\nFrom under the threshold below\nIt ran down from the altar's base\n\n[Chorus]\nWater for healing\nFresh from the shrine\nMaking the stagnant sea\nBecome fresh and clean\n\n[Verse]\nWith a measuring line in hand\nHe walked a thousand cubits\nThe water reached my ankles\nThen up to my knees\nAnother thousand steps\nIt came up to my waist\nNow it is a deep river\nToo deep to cross\n\n[Chorus]\nWater for healing\nFresh from the shrine\nMaking the stagnant sea\nBecome fresh and clean\n\n[Bridge]\nTrees on both banks grow tall\nTheir leaves will not wither away\nFresh fruit every single month\nBecause water flows from God\n\n[Outro]\nFruit for food and leaves for healing\nThe Holy River flows",
+    "cot": "full",
+    "seed": 31163
+  }
+}

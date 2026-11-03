@@ -1,0 +1,48 @@
+{
+  "id": "story-jesu-omtale-av-johannes-ballad",
+  "title": "Wisdom Vindicated",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-omtale-av-johannes"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 7,
+      "verseStart": 24,
+      "verseEnd": 35
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [
+      "jesu-omtale-av-johannes"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and reflective, acoustic guitar, piano, cello, soft drums, ballad, 72 BPM",
+    "lyrics": "[Verse]\nWhat did you go out to see\nA reed shaken by the wind\nOr a man in soft clothes\nFound in royal palaces\n\n[Chorus]\nMore than a prophet he was\nThe messenger sent ahead\nPreparing the way for us\nAmong the born of women\nNone is greater than John\n\n[Verse]\nYet the least in the kingdom\nIs greater than he\nThis generation is like children\nSitting in the marketplace\n\n[Chorus]\nMore than a prophet he was\nThe messenger sent ahead\nPreparing the way for us\nAmong the born of women\nNone is greater than John\n\n[Verse]\nWe played the flute for you\nBut you did not dance\nWe sang a dirge for you\nBut you did not weep\n\n[Chorus]\nMore than a prophet he was\nThe messenger sent ahead\nPreparing the way for us\nAmong the born of women\nNone is greater than John\n\n[Bridge]\nJohn came without wine or bread\nYou called him a demon\nThe Son of Man came eating\nYou called him a drunkard\n\n[Outro]\nBut wisdom is vindicated\nBy all her children",
+    "cot": "full",
+    "seed": 31165
+  }
+}

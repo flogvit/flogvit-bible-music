@@ -1,0 +1,41 @@
+{
+  "id": "story-doperen-johannes-forkynner-soul",
+  "title": "Kingdom Near",
+  "kind": "story",
+  "anchor": {
+    "story": "doperen-johannes-forkynner"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "doperen-johannes-forkynner"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, male baritone solo with gospel choir, electric piano, Hammond organ, bass guitar, drums, snare, solemn and urgent, 85 BPM",
+    "lyrics": "[Verse]\nIn the wilderness of Judea he stood\nPreaching that the kingdom has come near\nRepent is the only truth he told\nA voice calling out in the wild\n\n[Pre-Chorus]\nJerusalem and Judea went out\nTo the river where the waters flowed\nConfessing sins in the Jordan stream\nWhile the Pharisees watched with pride\n\n[Chorus]\nKingdom near the voice is saying\nPrepare the way of the Lord\nMake the paths straight and true\nFor a mightier one approaches\n\n[Verse]\nClothed in camel's hair and leather belt\nEating locusts and wild honey\nHe warned the vipers to flee wrath\nProduce fruit worthy of change\n\n[Pre-Chorus]\nDo not say we have Abraham\nFor stones can become his children\nThe axe is laid at the root\nEvery tree must bear good fruit\n\n[Chorus]\nKingdom near the voice is saying\nPrepare the way of the Lord\nMake the paths straight and true\nFor a mightier one approaches\n\n[Bridge]\nI am not worthy to carry sandals\nHe will baptize with Spirit and fire\nThe winnowing fork is in his hand\nGathering wheat into the barn\n\n[Outro]\nBurn up the chaff with unquenchable fire\nThe kingdom is near",
+    "cot": "full",
+    "seed": 31164
+  }
+}

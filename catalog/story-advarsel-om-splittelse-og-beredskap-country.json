@@ -1,0 +1,46 @@
+{
+  "id": "story-advarsel-om-splittelse-og-beredskap-country",
+  "title": "Fire and the Last Penny",
+  "kind": "story",
+  "anchor": {
+    "story": "advarsel-om-splittelse-og-beredskap"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 12,
+      "verseStart": 49,
+      "verseEnd": 59
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "tilgivelse",
+      "endetiden"
+    ],
+    "stories": [
+      "advarsel-om-splittelse-og-beredskap"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, raw and urgent, acoustic guitar, fiddle, upright bass, piano, moderate tempo 95 BPM",
+    "lyrics": "[Verse]\nI came to bring fire on the earth\nAnd I wish it were already kindled\nI have a baptism to undergo\nAnd what constraint I am under\n\n[Chorus]\nDo you think I came to bring peace on earth\nNo, I tell you, but division\nFrom now on five in one household will be divided\nThree against two and two against three\n\n[Verse]\nFather against son and son against father\nMother against daughter and daughter against mother\nMother-in-law against daughter-in-law\nAnd daughter-in-law against mother-in-law\n\n[Chorus]\nDo you think I came to bring peace on earth\nNo, I tell you, but division\nFrom now on five in one household will be divided\nThree against two and two against three\n\n[Bridge]\nWhen you see a cloud rising in the west\nYou say at once, A storm is coming\nWhen the south wind blows it will be scorching hot\nHypocrites! You know how to interpret the sky\n\n[Verse]\nWhy then do you not know how to interpret this present time\nAnd why do you not judge for yourselves what is right\nAs you are going with your accuser to the magistrate\nMake an effort to settle with him on the way\n\n[Chorus]\nDo you think I came to bring peace on earth\nNo, I tell you, but division\nFrom now on five in one household will be divided\nThree against two and two against three\n\n[Outro]\nYou will not get out of there\nUntil you have paid the very last penny",
+    "cot": "full",
+    "seed": 31167
+  }
+}

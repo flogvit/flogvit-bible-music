@@ -1,0 +1,47 @@
+{
+  "id": "person-ben-abinadab-worship",
+  "title": "Solomon's Daughter Taphath",
+  "kind": "person",
+  "anchor": {
+    "person": "ben-abinadab"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "ben-abinadab",
+      "salomo"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, strings, soft drums, gentle and reverent, 80 BPM",
+    "lyrics": "[Verse]\nBen-Abinadab served the king\nIn charge of the land of Dor\nHe supplied provisions for the house\nWhere Solomon's word was known\n\n[Chorus]\nSolomon's daughter Taphath\nWas his wife, the text says\nA bond of flesh and spirit\nIn the days of old\n\n[Verse]\nTwelve officers oversaw the land\nEach with their own specific charge\nBen-Abinadab held his post\nIn the region near the shore\n\n[Chorus]\nSolomon's daughter Taphath\nWas his wife, the text says\nA bond of flesh and spirit\nIn the days of old\n\n[Bridge]\nHe had Solomon's daughter Taphath\nAs his wife, the verse declares\nA connection of family and duty\nIn the royal palace\n\n[Outro]\nSolomon's daughter Taphath\nWas his wife, the text says",
+    "cot": "full",
+    "seed": 31169
+  }
+}

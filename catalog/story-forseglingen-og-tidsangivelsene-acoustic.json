@@ -1,0 +1,47 @@
+{
+  "id": "story-forseglingen-og-tidsangivelsene-acoustic",
+  "title": "The Sealed Book",
+  "kind": "story",
+  "anchor": {
+    "story": "forseglingen-og-tidsangivelsene"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 12,
+      "verseStart": 4,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "endetiden",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [
+      "forseglingen-og-tidsangivelsene"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and resonant, acoustic guitar, cello, piano, soft percussion, atmospheric pads, 80 BPM",
+    "lyrics": "[Verse]\nBy the river I saw two men stand\nOne on this bank, one on the other side\nOne asked the man in linen\nHow long until the wonders end\n\n[Chorus]\nA time, times, and half a time\nTill the holy people's power breaks\nThe words are closed and sealed\nUntil the time of the end\n\n[Verse]\nI heard but did not understand\nMy lord, what will be the outcome?\nHe said go your way, Daniel\nThe book is sealed until the end\n\n[Chorus]\nA time, times, and half a time\nTill the holy people's power breaks\nThe words are closed and sealed\nUntil the time of the end\n\n[Verse]\nMany shall be purified and white\nRefined by the fire of truth\nThe wicked shall act wickedly\nNone of them will understand\n\n[Bridge]\nFrom the daily sacrifice taken away\nThe abomination that causes desolation\nOne thousand two hundred and ninety days\nBlessed is he who waits to the end\n\n[Outro]\nGo your way until the end\nYou will rest and rise to your lot",
+    "cot": "full",
+    "seed": 31168
+  }
+}

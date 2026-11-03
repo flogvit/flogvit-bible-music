@@ -1,0 +1,49 @@
+{
+  "id": "person-mesa-moabs-konge-choral",
+  "title": "Rebelled Against the King",
+  "kind": "person",
+  "anchor": {
+    "person": "mesa-moabs-konge"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 3,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "mesa-moabs-konge",
+      "joram-akabs-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone, solo with choral backing, harp, organ, strings, slow hymn, 70 BPM",
+    "lyrics": "[Verse]\nMesha king of Moab was a sheep breeder\nHe paid the king of Israel every year\nA hundred thousand lambs was the tribute\nAnd wool from a hundred thousand rams\n\n[Verse]\nBut when Ahab died the bond was broken\nThe king of Moab rebelled against Israel\nThe sheep breeder stopped his payment\nAnd the sheep breeder refused the heavy load\n\n[Verse]\nThe tribute of lambs was no longer paid\nThe wool of the rams stayed in his fold\nHe rebelled against the king of Israel\nAnd the sheep breeder held his ground\n\n[Outro]\nHe rebelled against the king",
+    "cot": "full",
+    "seed": 31174
+  }
+}

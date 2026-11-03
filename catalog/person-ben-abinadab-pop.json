@@ -1,0 +1,43 @@
+{
+  "id": "person-ben-abinadab-pop",
+  "title": "Solomon's Daughter Taphath",
+  "kind": "person",
+  "anchor": {
+    "person": "ben-abinadab"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "ben-abinadab",
+      "salomo"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, pop, warm male solo voice, acoustic guitar, soft piano, gentle strings, light percussion, nostalgic and tender mood, 80 BPM",
+    "lyrics": "[Verse]\nIn the land of Naphath Dor\nBen-Abinadab kept his post\nOne of twelve who served the king\nSupplying food for royal needs\n\n[Chorus]\nHe had Solomon's daughter Taphath\nAs his wife in days of old\nA bond of house and kingdom shared\nIn the quiet region's hold\n\n[Verse]\nProvisions sent to Zion gate\nFor the household's daily need\nDuties done with steady hand\nUnder Solomon's royal decree\n\n[Chorus]\nHe had Solomon's daughter Taphath\nAs his wife in days of old\nA bond of house and kingdom shared\nIn the quiet region's hold\n\n[Outro]\nTaphath his wife, Ben-Abinadab\nIn the whole of Naphath Dor",
+    "cot": "full",
+    "seed": 31171
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "person-filip-tetrarken-jazz",
+  "title": "Tetrarch of Iturea",
+  "kind": "person",
+  "anchor": {
+    "person": "filip-tetrarken"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "filip-tetrarken",
+      "herodes-antipas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smooth jazz, female vocal solo, upright bass, brushed drums, piano, flute, mellow and reflective mood, 85 BPM",
+    "lyrics": "[Verse]\nIn the fifteenth year of the reign\nTiberius Caesar held the throne\nPontius Pilate governed Judea\nHerod tetrarch in Galilee\nHis brother Philip held the land\nIturea and Trachonitis\nLysanias ruled over Abilene\nNames remembered in the book\n\n[Chorus]\nPhilip tetrarch of the region\nRuled with a gentle hand\nIn the days when John appeared\nHis territory understood\n\n[Verse]\nHe built the city Caesarea\nPhilippi stands on the hill\nDuring the time of Jesus\nHe kept his territory\nThe text gives us his name\nHis place among the rulers\nA historical figure\nIn Luke's account we find him\n\n[Chorus]\nPhilip tetrarch of the region\nRuled with a gentle hand\nIn the days when John appeared\nHis territory understood\n\n[Outro]\nSon of Herod the Great\nRuling in Iturea\nA name in the record\nOf those times past",
+    "cot": "full",
+    "seed": 31172
+  }
+}

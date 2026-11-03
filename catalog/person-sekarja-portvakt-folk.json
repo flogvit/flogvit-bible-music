@@ -1,0 +1,41 @@
+{
+  "id": "person-sekarja-portvakt-folk",
+  "title": "Zechariah Firstborn",
+  "kind": "person",
+  "anchor": {
+    "person": "sekarja-portvakt"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 26,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sekarja-portvakt"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and steady, acoustic guitar, cello, soft percussion, folk, 85 BPM",
+    "lyrics": "[Verse]\nMeshelemiah’s lineage clear\nFirstborn Zechariah stands here\nJediael is the second name\nZebadiah takes the third claim\nJathniel the fourth in line\nLevitical gatekeepers shine\n\n[Chorus]\nStanding at the door so wide\nServing at the Lord’s house inside\nGuarding the threshold with care\nDavid’s era, faithful share\n\n[Verse]\nWith Jaaziel and others there\nIn the watch service, the prayer\nTemple gates they keep secure\nIn their duty, in their cure\nLevitical blood runs strong\nSinging the songs that are sung\n\n[Chorus]\nStanding at the door so wide\nServing at the Lord’s house inside\nGuarding the threshold with care\nDavid’s era, faithful share\n\n[Bridge]\nNames written in the scroll\nGuardians of the holy role\nZechariah leads the way\nIn the light of the day\n\n[Outro]\nFirstborn son, standing firm\nServing the Lord, keeping the arm",
+    "cot": "full",
+    "seed": 31175
+  }
+}

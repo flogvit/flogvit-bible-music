@@ -1,0 +1,41 @@
+{
+  "id": "story-profetens-liknelse-om-den-fangne-orchestral",
+  "title": "You Have Pronounced It Yourself",
+  "kind": "story",
+  "anchor": {
+    "story": "profetens-liknelse-om-den-fangne"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 20,
+      "verseStart": 35,
+      "verseEnd": 43
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "profetens-liknelse-om-den-fangne"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, orchestral strings, french horn, timpani, low cello, somber and dramatic, 80 BPM",
+    "lyrics": "[Verse]\nA prophet spoke to his companion\nStrike me, he requested kindly\nThe man refused the voice of God\nA lion found him and killed him\nAnother man obeyed the word\nHe struck the prophet with a wound\n\n[Pre-Chorus]\nThe prophet stood upon the road\nDisguised with ash upon his eyes\nHe waited for the king of Israel\nTo pass along the dusty way\n\n[Chorus]\nYour servant went into the battle\nA prisoner was brought to you\nGuard this man, they said to you\nIf he escapes, your life is paid\nOr a talent of silver\nWhile I was busy here and there\nThe man has disappeared from sight\n\n[Verse]\nThe king of Israel spoke aloud\nThat is your sentence, he declared\nYou have pronounced it yourself now\nThe verdict rests upon your head\nThe prophet pulled the bandage off\nAnd Ahab saw the prophet face\n\n[Chorus]\nYour servant went into the battle\nA prisoner was brought to you\nGuard this man, they said to you\nIf he escapes, your life is paid\nOr a talent of silver\nWhile I was busy here and there\nThe man has disappeared from sight\n\n[Bridge]\nThis is what the Lord declares\nYou set the devoted man free\nYour life shall stand for his life\nYour people for his people\n\n[Outro]\nSullen and angry in his heart\nThe king went home to Samaria",
+    "cot": "full",
+    "seed": 31177
+  }
+}

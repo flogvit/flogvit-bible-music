@@ -1,0 +1,46 @@
+{
+  "id": "story-moses-skriver-lovsangen-og-oppfordrer-eldste-gospel",
+  "title": "Witness Against You",
+  "kind": "story",
+  "anchor": {
+    "story": "moses-skriver-lovsangen-og-oppfordrer-eldste"
+  },
+  "references": [
+    {
+      "bookId": 5,
+      "chapter": 31,
+      "verseStart": 22,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [
+      "moses-skriver-lovsangen-og-oppfordrer-eldste"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with gospel choir, acoustic piano, upright bass, drums, tambourine, warm and solemn, 80 BPM",
+    "lyrics": "[Verse]\nMoses wrote the song that day\nHe taught the people what to say\nThe Lord spoke to Joshua son of Nun\nBe strong and brave, the work is done\nI will bring them into the land\nI swore to give with my own hand\nI myself shall be with you there\nNo fear shall cloud your solemn care\n\n[Chorus]\nTake this Book of the Law\nPlace it by the ark forever\nIt stands as a witness against you\nFor I know your hearts are few\nRebellious and stiff-necked is your way\nEven now in my life today\n\n[Verse]\nWhen the writing was finished completely\nFrom the first verse to the final beat\nHe gave the command to the Levite\nWho carries the ark of God's light\nPlace it beside the covenant seat\nThere it will remain in the street\nA witness against you, the people see\nHow much more when I am free\n\n[Chorus]\nTake this Book of the Law\nPlace it by the ark forever\nIt stands as a witness against you\nFor I know your hearts are few\nRebellious and stiff-necked is your way\nEven now in my life today\n\n[Bridge]\nAssemble before me all the elders\nWith the officials and tribal leaders\nSo I may speak these words aloud\nAnd call heaven and earth to crowd\nTo testify against your rebellion\nBefore my death and final fall\n\n[Verse]\nI know you will become corrupt\nAnd turn from the path you must\nIn days to come disaster will come\nBecause you will do evil, hum\nEvil in the sight of the Lord\nAnd anger Him with what you form\n\n[Chorus]\nTake this Book of the Law\nPlace it by the ark forever\nIt stands as a witness against you\nFor I know your hearts are few\nRebellious and stiff-necked is your way\nEven now in my life today\n\n[Outro]\nMoses recited the song then\nFrom the beginning to the end",
+    "cot": "full",
+    "seed": 31176
+  }
+}

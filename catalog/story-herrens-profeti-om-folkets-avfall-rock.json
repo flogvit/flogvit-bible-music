@@ -1,0 +1,47 @@
+{
+  "id": "story-herrens-profeti-om-folkets-avfall-rock",
+  "title": "A Witness on Their Lips",
+  "kind": "story",
+  "anchor": {
+    "story": "herrens-profeti-om-folkets-avfall"
+  },
+  "references": [
+    {
+      "bookId": 5,
+      "chapter": 31,
+      "verseStart": 14,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [
+      "herrens-profeti-om-folkets-avfall"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male gritty rock voice, electric guitar, acoustic guitar, bass, drums, dark and urgent mood, 90 BPM",
+    "lyrics": "[Verse]\nThe day of your death is near\nSummon Joshua, stand together\nPresent yourselves at the tent\nWhere I will commission him\n\n[Verse]\nI appeared in a pillar of cloud\nStanding over the entrance\nYou lie down with your fathers soon\nBut the people will rise up\n\n[Chorus]\nWrite down this song for yourselves\nTeach it to the Israelites\nPut it in their mouths deep\nSo it stands as my witness\n\n[Verse]\nThey prostitute themselves to foreign gods\nForsaking me and my covenant\nMy anger will burn against them\nI will hide my face away\n\n[Chorus]\nWrite down this song for yourselves\nTeach it to the Israelites\nPut it in their mouths deep\nSo it stands as my witness\n\n[Bridge]\nThey eat their fill and grow fat\nThen they despise my holy name\nWhen disasters come upon them\nThey will say I am gone\n\n[Outro]\nThis song will testify against them\nIt will not be lost from their lips",
+    "cot": "full",
+    "seed": 31178
+  }
+}

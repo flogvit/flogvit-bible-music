@@ -1,0 +1,51 @@
+{
+  "id": "person-maria-mor-til-markus-hymn",
+  "title": "Many Had Gathered",
+  "kind": "person",
+  "anchor": {
+    "person": "maria-mor-til-markus"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 12,
+      "verseStart": 12,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "menigheten",
+      "bonn",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "maria-mor-til-markus",
+      "johannes-markus",
+      "peter",
+      "rode"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, female contralto, solo with choir, piano, cello, harp, organ, solemn, 72 BPM",
+    "lyrics": "[Verse]\nPeter walked through the night\nTo the home of Mary\nMany had gathered there\nTo pray without ceasing\n\n[Verse]\nHe knocked on the outer door\nA servant girl came\nHer name was Rhoda\nShe heard his voice clear\n\n[Verse]\nShe was overjoyed\nShe did not open the gate\nShe ran inside quickly\nTo tell them all true\n\n[Verse]\nPeter was standing outside\nThe gate remained shut\nThe joy was too great\nTo stop at the door\n\n[Outro]\nMary's house was the place\nWhere prayer did not end",
+    "cot": "full",
+    "seed": 31173
+  }
+}

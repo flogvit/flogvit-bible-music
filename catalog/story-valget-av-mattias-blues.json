@@ -1,0 +1,44 @@
+{
+  "id": "story-valget-av-mattias-blues",
+  "title": "The Lot Fell to Matthias",
+  "kind": "story",
+  "anchor": {
+    "story": "valget-av-mattias"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [
+      "valget-av-mattias"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, blues, male solo voice with deep baritone character, acoustic guitar, piano, upright bass, brushed snare drum, moody and contemplative, 80 BPM",
+    "lyrics": "[Verse]\nA hundred and twenty gathered round\nPeter stood up among the crowd\nBrothers listen to the word\nThe Scripture had to be fulfilled by God\n\n[Chorus]\nCast the lots for the empty place\nLet the choice fall in this sacred space\nThe lot fell to Matthias\nHe takes the seat of the missing one\n\n[Verse]\nFrom John the Baptist's holy stream\nTo the day He was taken from us by dream\nThey must be witnesses of the rise\nOf the Lord who ascended into the skies\n\n[Chorus]\nCast the lots for the empty place\nLet the choice fall in this sacred space\nThe lot fell to Matthias\nHe takes the seat of the missing one\n\n[Verse]\nJoseph called Barsabbas stood near\nJustus waited in the gathering air\nThey prayed to the Lord who sees all\nShow us which one you are calling to call\n\n[Chorus]\nCast the lots for the empty place\nLet the choice fall in this sacred space\nThe lot fell to Matthias\nHe takes the seat of the missing one\n\n[Outro]\nHe was added to the eleven now\nThe witness ministry is restored somehow",
+    "cot": "full",
+    "seed": 31170
+  }
+}

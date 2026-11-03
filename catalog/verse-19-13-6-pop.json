@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-13-6-pop",
+  "title": "He Has Done Good To Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 13,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 13,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm vibrato, piano, acoustic guitar, strings, soft percussion, hopeful and gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nHow long must I carry worries within me\nWith grief in my heart all the day\nHow long will my enemy triumph over me\nCasting a shadow across my way\n\n[Pre-Chorus]\nLook at me and answer, LORD my God\nGive light to my eyes before the dark takes hold\n\n[Chorus]\nBut I trust in your steadfast love\nMy heart rejoices in your salvation\nI will sing to the LORD\nFor he has dealt bountifully with me\n\n[Verse]\nI feared I would sleep the sleep of death\nWhile my foes rejoiced when I fell\nThey said they had overcome me\nBut your truth is stronger than my distress\n\n[Chorus]\nBut I trust in your steadfast love\nMy heart rejoices in your salvation\nI will sing to the LORD\nFor he has dealt bountifully with me\n\n[Bridge]\nNo darkness can hide your face from me\nYour steadfast love remains\nYou have dealt bountifully with me\nIn the depth of the storm\n\n[Chorus]\nBut I trust in your steadfast love\nMy heart rejoices in your salvation\nI will sing to the LORD\nFor he has dealt bountifully with me\n\n[Outro]\nHe has done good to me\nHe has dealt bountifully with me",
+    "cot": "full",
+    "seed": 31203
+  }
+}

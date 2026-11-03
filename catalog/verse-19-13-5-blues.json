@@ -1,0 +1,41 @@
+{
+  "id": "verse-19-13-5-blues",
+  "title": "I Trust In Your Goodness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 13,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 13,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male gravelly voice, solo vocal, acoustic guitar, upright bass, piano, brushed drums, somber but hopeful, 80 BPM",
+    "lyrics": "[Verse]\nHow long must I carry worries within me\nWith grief in my heart all the day\nLook at me and answer, LORD my God\nGive light to my eyes before I fade\n\n[Chorus]\nBut I trust in your steadfast love\nMy heart rejoices in your salvation\nI will sing to the LORD today\nFor he has dealt bountifully with me\n\n[Verse]\nMy enemy may say he has overcome me\nMy foes may rejoice when I fall\nBut I will not hide my face in fear\nI know your presence is the wall\n\n[Chorus]\nBut I trust in your steadfast love\nMy heart rejoices in your salvation\nI will sing to the LORD today\nFor he has dealt bountifully with me\n\n[Bridge]\nNo more shall the shadow keep its hold\nThe night is breaking on the hill\nYour hand is the only one that stays\nWhen all the world is silent still\n\n[Chorus]\nBut I trust in your steadfast love\nMy heart rejoices in your salvation\nI will sing to the LORD today\nFor he has dealt bountifully with me\n\n[Outro]\nI will sing to the LORD\nFor he has dealt bountifully with me",
+    "cot": "full",
+    "seed": 31202
+  }
+}

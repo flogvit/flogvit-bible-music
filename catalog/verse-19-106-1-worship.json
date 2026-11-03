@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-106-1-worship",
+  "title": "His Mercy Endures",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 106,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 106,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "mercy",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice with soft choir, acoustic guitar, piano, strings, gentle percussion, reverent and hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nHallelujah sing to the Lord\nGive thanks for his goodness\nHis love does not fail\nHis mercy endures forever\n\n[Pre-Chorus]\nWho can recount his mighty deeds\nOr make all his praise be heard\nBlessed are those who keep justice\nDoing what is right at all times\n\n[Chorus]\nRemember me Lord when you show favor\nCome to me with your salvation\nHallelujah for he is good\nHis mercy endures forever\n\n[Verse]\nGive thanks to the Lord for he is good\nHis mercy endures forever\nWho can recount the mighty deeds\nOr make all his praise be heard\n\n[Chorus]\nRemember me Lord when you show favor\nCome to me with your salvation\nHallelujah for he is good\nHis mercy endures forever\n\n[Bridge]\nBlessed are those who keep justice\nWho do what is right at all times\nRemember me when you show favor\nCome with your salvation now\n\n[Chorus]\nRemember me Lord when you show favor\nCome to me with your salvation\nHallelujah for he is good\nHis mercy endures forever\n\n[Outro]\nHallelujah for he is good\nHis mercy endures forever",
+    "cot": "full",
+    "seed": 31201
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "verse-1-1-1-country",
+  "title": "Let There Be Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 1,
+    "chapter": 1,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "skapelsen",
+      "guds-hellighet",
+      "visdom"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, solo, acoustic guitar, piano, cello, soft drums, solemn and majestic, 80 BPM",
+    "lyrics": "[Verse]\nIn the beginning, all was new\nGod created heavens, earth and dew\nThe earth was formless, empty space\nDarkness covered the deep, deep place\n\n[Pre-Chorus]\nThe Spirit of God hovered near\nOver the face of waters clear\n\n[Chorus]\nAnd God said, let there be light\nAnd there was light, a sudden sight\nGod saw the light was good and true\nSeparated it from night and dew\n\n[Verse]\nBefore the sun, before the stars\nBefore the moon or distant mars\nThe deep was dark, the void was wide\nBut God stood there on the other side\n\n[Chorus]\nAnd God said, let there be light\nAnd there was light, a sudden sight\nGod saw the light was good and true\nSeparated it from night and dew\n\n[Verse]\nNo eye to see, no ear to hear\nNo breath to fill the empty air\nJust the Spirit, hovering and still\nWaiting for the light to fill\n\n[Pre-Chorus]\nThe formless earth, the empty sea\nThe darkness lay, wild and free\n\n[Chorus]\nAnd God said, let there be light\nAnd there was light, a sudden sight\nGod saw the light was good and true\nSeparated it from night and dew\n\n[Bridge]\nGoodness made, division done\nLight kept apart, a day begun\n\n[Outro]\nIn the beginning, light was made\nGod created all that has been made",
+    "cot": "full",
+    "seed": 31199
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "verse-1-1-31-acoustic",
+  "title": "Behold, It Was Very Good",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 1,
+    "chapter": 1,
+    "verseStart": 31,
+    "verseEnd": 31
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verseStart": 31,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, warm and reverent, solo with light choir, acoustic guitar, piano, cello, soft drums, peaceful and majestic mood, 75 BPM",
+    "lyrics": "[Verse]\nGod blessed them and said to them\nBe fruitful and multiply\nFill the earth and subdue it\nRule over the sea and sky\n\n[Verse]\nEvery seed-bearing plant on earth\nEvery tree with fruit and seed\nThey will be your food to eat\nFrom the ground where you proceed\n\n[Chorus]\nGod saw all that he had made\nAnd behold, it was very good\nThe evening came, the morning rose\nThe sixth day stood as it should\n\n[Verse]\nTo wild animals of the earth\nTo birds that fly in high\nGreen plants for their food to eat\nUnder the open sky\n\n[Chorus]\nGod saw all that he had made\nAnd behold, it was very good\nThe evening came, the morning rose\nThe sixth day stood as it should\n\n[Bridge]\nEverything that moves on ground\nHas life within its frame\nThe garden and the field\nAll beauty in the name\n\n[Outro]\nAnd behold, it was very good\nThe sixth day was done",
+    "cot": "full",
+    "seed": 31200
+  }
+}

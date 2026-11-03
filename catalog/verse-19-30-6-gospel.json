@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-30-6-gospel",
+  "title": "Joy Comes in the Morning",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 30,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 30,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel, powerful female solo voice with backing choir, piano, organ, drums, bass guitar, uplifting and emotional mood, 90 BPM",
+    "lyrics": "[Verse]\nI cried to you for help today\nYou answered and you healed me straight\nYou brought me up from deep below\nKept me alive from the pit's cold\n\n[Verse]\nYou made my mountain stand so firm\nIn your favor, a new dawn\nBut when you hid your face from me\nI was terrified on my knee\n\n[Chorus]\nHis anger lasts only a moment\nHis favor lasts a lifetime long\nWeeping may spend the night alone\nBut joy comes in the morning song\n\n[Pre-Chorus]\nSing to the Lord, you faithful ones\nGive thanks to his holy name\nDo not forget the mercy shown\nWhen we were lost in pain\n\n[Chorus]\nHis anger lasts only a moment\nHis favor lasts a lifetime long\nWeeping may spend the night alone\nBut joy comes in the morning song\n\n[Bridge]\nTo you I called in my distress\nTo the Lord I pleaded for grace\nHe lifted me from the depths of death\nAnd gave me a new lease of days\n\n[Chorus]\nHis anger lasts only a moment\nHis favor lasts a lifetime long\nWeeping may spend the night alone\nBut joy comes in the morning song\n\n[Outro]\nJoy comes in the morning\nJoy comes in the morning",
+    "cot": "full",
+    "seed": 31208
+  }
+}

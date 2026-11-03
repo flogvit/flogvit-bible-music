@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-144-1-jazz",
+  "title": "My Rock and Fortress",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 144,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 144,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smooth jazz vocal, male baritone solo, upright bass, brushed drums, piano, saxophone, warm and reflective mood, 85 BPM",
+    "lyrics": "[Verse]\nBlessed be the Lord my rock\nHe trains my hands for war\nMy fingers ready for battle\nFaithful God my fortress\n\n[Chorus]\nMy stronghold and my deliverer\nMy shield where I take refuge\nHe subdues the peoples under me\nMy rock in every need\n\n[Verse]\nWhat is man that you take note\nThe son of man you think of\nLike a breath he fades away\nHis days a passing shadow\n\n[Chorus]\nMy stronghold and my deliverer\nMy shield where I take refuge\nHe subdues the peoples under me\nMy rock in every need\n\n[Bridge]\nBend your heavens and come down\nTouch the mountains and they smoke\nThe Lord is my rock and stay\nHis truth is my own way\n\n[Outro]\nBlessed be the Lord my rock\nFaithful God my fortress",
+    "cot": "full",
+    "seed": 31204
+  }
+}

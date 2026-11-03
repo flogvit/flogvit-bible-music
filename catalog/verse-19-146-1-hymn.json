@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-146-1-hymn",
+  "title": "As Long As I Have Breath",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 146,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 146,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and reverent, piano, cello, acoustic guitar, soft strings, organ, solemn and majestic, 70 BPM",
+    "lyrics": "[Verse]\nPraise the LORD, O my soul\nI will praise Him as long as I live\nI will sing praise to my God\nAs long as I have breath in my lungs\nDo not put your trust in princes\nIn mortals who cannot save\nWhen their breath departs from them\nThey return to the dust below\n\n[Chorus]\nPraise the LORD, O my soul\nI will praise Him as long as I live\nI will sing praise to my God\nAs long as I have breath in my lungs\n\n[Verse]\nOn that day all their plans\nCome to nothing in the end\nBlessed is the one whose help\nIs the God of Jacob's name\nWhose hope is in the LORD\nHis God, the living One\n\n[Chorus]\nPraise the LORD, O my soul\nI will praise Him as long as I live\nI will sing praise to my God\nAs long as I have breath in my lungs\n\n[Outro]\nPraise the LORD, O my soul\nAs long as I have breath",
+    "cot": "full",
+    "seed": 31205
+  }
+}

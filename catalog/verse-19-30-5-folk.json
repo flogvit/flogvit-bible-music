@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-30-5-folk",
+  "title": "Joy Comes in the Morning",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 30,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 30,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice with warm folk choir, acoustic guitar, fiddle, piano, upright bass, gentle percussion, reflective and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nI was lifted from the deep place\nYou did not let them gloat\nI cried out for your help\nAnd you healed my broken soul\n\n[Verse]\nYou brought me from the dead\nKept me alive from the pit\nI stand here by your grace\nYour mercy is my only light\n\n[Chorus]\nSing to the Lord his faithful ones\nGive thanks to his holy name\nHis anger lasts but a moment\nHis favor a lifetime\n\n[Pre-Chorus]\nWeeping may spend the night\nBut joy comes in the morning\nThe darkness fades away\nWhen the light starts returning\n\n[Chorus]\nSing to the Lord his faithful ones\nGive thanks to his holy name\nHis anger lasts but a moment\nHis favor a lifetime\n\n[Bridge]\nWhen I felt secure I said\nI would never be shaken\nBut when you hid your face\nMy heart was filled with terror\n\n[Outro]\nJoy comes in the morning\nJoy comes in the morning",
+    "cot": "full",
+    "seed": 31207
+  }
+}

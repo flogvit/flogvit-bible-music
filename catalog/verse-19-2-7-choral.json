@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-2-7-choral",
+  "title": "You Are My Son",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 2,
+    "verseStart": 7,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 2,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Choral, majestic male solo with deep choir, harp, organ, timpani, cello, solemn and awe-inspiring, 70 BPM",
+    "lyrics": "[Verse]\nThe One enthroned in heaven laughs\nHe mocks the raging kings below\nThen he speaks in anger and wrath\nTerrifying them as they go\n\n[Pre-Chorus]\nI myself have installed my king\nUpon Zion my holy mountain\n\n[Chorus]\nYou are my Son today I have begotten you\nAsk of me and I will make the nations yours\nThe ends of the earth shall be your possession\nYou are my Son today I have begotten you\n\n[Verse]\nBreak them with an iron rod\nShatter them like a potter's jar\nSo now be wise you kings of earth\nBe warned you judges far and near\n\n[Chorus]\nYou are my Son today I have begotten you\nAsk of me and I will make the nations yours\nThe ends of the earth shall be your possession\nYou are my Son today I have begotten you\n\n[Bridge]\nServe the Lord with fear\nRejoice with trembling\n\n[Chorus]\nYou are my Son today I have begotten you\nAsk of me and I will make the nations yours\nThe ends of the earth shall be your possession\nYou are my Son today I have begotten you\n\n[Outro]\nI will proclaim the Lord's decree\nYou are my Son",
+    "cot": "full",
+    "seed": 31206
+  }
+}

@@ -1,0 +1,1082 @@
+{
+ "id": "person-mahalat-children",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-mahalat-children",
+ "offset_seconds": -4.04000000000017,
+ "words_heard": 68,
+ "words": 106,
+ "lines": [
+  {
+   "text": "King Rehoboam took a wife",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Her name was Mahalath the light",
+   "heard": 3,
+   "words": 6,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "She came from David's house",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Daughter of Jerimoth",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Daughter of Jerimoth",
+   "heard": 2,
+   "words": 3,
+   "error_s": 1.21,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Blood of the ancient king",
+   "heard": 5,
+   "words": 5,
+   "error_s": 38.69,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Mother of sons three",
+   "heard": 4,
+   "words": 4,
+   "error_s": 38.53,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Hear the story she brings",
+   "heard": 4,
+   "words": 5,
+   "error_s": 38.57,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Her mother was Abihail",
+   "heard": 0,
+   "words": 4,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Daughter of Eliab",
+   "heard": 0,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From Jesse's line she came",
+   "heard": 0,
+   "words": 5,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Walking in an ancient way",
+   "heard": 0,
+   "words": 5,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Daughter of Jerimoth",
+   "heard": 0,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Blood of the ancient king",
+   "heard": 0,
+   "words": 5,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Mother of sons three",
+   "heard": 0,
+   "words": 4,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Hear the story she brings",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "She bore him Jeush first",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Shemariah and Zaham",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Names recorded in the book",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sons of her and of the king",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mahalath the wife",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.2,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Daughter of Jerimoth",
+   "heard": 2,
+   "words": 3,
+   "error_s": 1.18,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The history of her sons",
+   "heard": 2,
+   "words": 5,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Kept in the royal scroll",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "King",
+   "time": 26.3,
+   "weight": 0.35,
+   "note_time": 26.02
+  },
+  {
+   "text": "Re",
+   "time": 27.7,
+   "weight": 1.0,
+   "note_time": 26.75
+  },
+  {
+   "text": "ho",
+   "time": 28.05,
+   "weight": 1.0,
+   "note_time": 27.11
+  },
+  {
+   "text": "boam",
+   "time": 28.4,
+   "weight": 1.0,
+   "note_time": 27.47
+  },
+  {
+   "text": "took",
+   "time": 29.1,
+   "weight": 0.98,
+   "note_time": 28.19
+  },
+  {
+   "text": "a",
+   "time": 29.62,
+   "weight": 0.95,
+   "note_time": 28.55
+  },
+  {
+   "text": "wife",
+   "time": 29.86,
+   "weight": 1.0,
+   "note_time": 28.92
+  },
+  {
+   "text": "Her",
+   "time": 30.58,
+   "weight": 0.19,
+   "note_time": 31.45
+  },
+  {
+   "text": "name",
+   "time": 32.74,
+   "weight": 0.99,
+   "note_time": 31.81
+  },
+  {
+   "text": "was",
+   "time": 33.28,
+   "weight": 0.99,
+   "note_time": 32.53
+  },
+  {
+   "text": "Ma",
+   "time": 33.76,
+   "weight": 0.0,
+   "note_time": 32.89
+  },
+  {
+   "text": "ha",
+   "time": 34.23,
+   "weight": 0.0,
+   "note_time": 33.25
+  },
+  {
+   "text": "lath",
+   "time": 34.71,
+   "weight": 0.0,
+   "note_time": 33.61
+  },
+  {
+   "text": "the",
+   "time": 35.19,
+   "weight": 0.0,
+   "note_time": 34.34
+  },
+  {
+   "text": "light",
+   "time": 35.66,
+   "weight": 0.0,
+   "note_time": 34.7
+  },
+  {
+   "text": "She",
+   "time": 36.14,
+   "weight": 0.25,
+   "note_time": 37.23
+  },
+  {
+   "text": "came",
+   "time": 38.5,
+   "weight": 1.0,
+   "note_time": 38.31
+  },
+  {
+   "text": "from",
+   "time": 38.98,
+   "weight": 1.0,
+   "note_time": 39.04
+  },
+  {
+   "text": "Da",
+   "time": 39.74,
+   "weight": 0.4,
+   "note_time": 39.4
+  },
+  {
+   "text": "vid's",
+   "time": 40.09,
+   "weight": 0.4,
+   "note_time": 39.76
+  },
+  {
+   "text": "house",
+   "time": 41.64,
+   "weight": 0.99,
+   "note_time": 40.12
+  },
+  {
+   "text": "Daugh",
+   "time": 42.1,
+   "weight": 0.33,
+   "note_time": 41.93
+  },
+  {
+   "text": "ter",
+   "time": 42.45,
+   "weight": 0.33,
+   "note_time": 42.29
+  },
+  {
+   "text": "of",
+   "time": 43.64,
+   "weight": 1.0,
+   "note_time": 42.47
+  },
+  {
+   "text": "Je",
+   "time": 43.92,
+   "weight": 0.54,
+   "note_time": 43.01
+  },
+  {
+   "text": "ri",
+   "time": 44.18,
+   "weight": 0.54,
+   "note_time": 43.19
+  },
+  {
+   "text": "moth",
+   "time": 44.44,
+   "weight": 0.54,
+   "note_time": 43.37
+  },
+  {
+   "text": "Daugh",
+   "time": 44.7,
+   "weight": 0.38,
+   "note_time": 47.71
+  },
+  {
+   "text": "ter",
+   "time": 45.05,
+   "weight": 0.38,
+   "note_time": 48.07
+  },
+  {
+   "text": "of",
+   "time": 49.46,
+   "weight": 1.0,
+   "note_time": 48.25
+  },
+  {
+   "text": "Je",
+   "time": 59.3,
+   "weight": 0.0,
+   "note_time": 48.8
+  },
+  {
+   "text": "ri",
+   "time": 69.14,
+   "weight": 0.0,
+   "note_time": 48.98
+  },
+  {
+   "text": "moth",
+   "time": 78.98,
+   "weight": 0.0,
+   "note_time": 49.16
+  },
+  {
+   "text": "Blood",
+   "time": 88.82,
+   "weight": 0.76,
+   "note_time": 50.6
+  },
+  {
+   "text": "of",
+   "time": 89.7,
+   "weight": 1.0,
+   "note_time": 50.96
+  },
+  {
+   "text": "the",
+   "time": 89.96,
+   "weight": 1.0,
+   "note_time": 51.14
+  },
+  {
+   "text": "an",
+   "time": 90.08,
+   "weight": 0.93,
+   "note_time": 51.33
+  },
+  {
+   "text": "cient",
+   "time": 90.34,
+   "weight": 0.93,
+   "note_time": 51.69
+  },
+  {
+   "text": "king",
+   "time": 90.6,
+   "weight": 0.86,
+   "note_time": 52.05
+  },
+  {
+   "text": "Moth",
+   "time": 92.02,
+   "weight": 0.69,
+   "note_time": 53.49
+  },
+  {
+   "text": "er",
+   "time": 92.32,
+   "weight": 0.69,
+   "note_time": 53.86
+  },
+  {
+   "text": "of",
+   "time": 92.62,
+   "weight": 1.0,
+   "note_time": 54.04
+  },
+  {
+   "text": "sons",
+   "time": 93.06,
+   "weight": 0.99,
+   "note_time": 54.58
+  },
+  {
+   "text": "three",
+   "time": 93.54,
+   "weight": 0.83,
+   "note_time": 54.94
+  },
+  {
+   "text": "Hear",
+   "time": 94.28,
+   "weight": 0.98,
+   "note_time": 55.66
+  },
+  {
+   "text": "the",
+   "time": 94.82,
+   "weight": 0.97,
+   "note_time": 56.02
+  },
+  {
+   "text": "sto",
+   "time": 94.96,
+   "weight": 0.94,
+   "note_time": 56.39
+  },
+  {
+   "text": "ry",
+   "time": 95.31,
+   "weight": 0.94,
+   "note_time": 56.93
+  },
+  {
+   "text": "she",
+   "time": 95.66,
+   "weight": 0.98,
+   "note_time": 57.47
+  },
+  {
+   "text": "brings",
+   "time": 95.65,
+   "weight": 0.0,
+   "note_time": 57.65
+  },
+  {
+   "text": "Her",
+   "time": 95.65,
+   "weight": 0.0,
+   "note_time": 63.25
+  },
+  {
+   "text": "moth",
+   "time": 95.64,
+   "weight": 0.0,
+   "note_time": 63.61
+  },
+  {
+   "text": "er",
+   "time": 95.63,
+   "weight": 0.0,
+   "note_time": 63.98
+  },
+  {
+   "text": "was",
+   "time": 95.63,
+   "weight": 0.0,
+   "note_time": 64.7
+  },
+  {
+   "text": "A",
+   "time": 95.62,
+   "weight": 0.0,
+   "note_time": 65.42
+  },
+  {
+   "text": "bi",
+   "time": 95.62,
+   "weight": 0.0,
+   "note_time": 65.78
+  },
+  {
+   "text": "hail",
+   "time": 95.61,
+   "weight": 0.0,
+   "note_time": 66.14
+  },
+  {
+   "text": "Daugh",
+   "time": 95.6,
+   "weight": 0.0,
+   "note_time": 69.4
+  },
+  {
+   "text": "ter",
+   "time": 95.6,
+   "weight": 0.0,
+   "note_time": 70.12
+  },
+  {
+   "text": "of",
+   "time": 95.59,
+   "weight": 0.0,
+   "note_time": 70.48
+  },
+  {
+   "text": "E",
+   "time": 95.58,
+   "weight": 0.0,
+   "note_time": 71.2
+  },
+  {
+   "text": "liab",
+   "time": 95.58,
+   "weight": 0.0,
+   "note_time": 71.57
+  },
+  {
+   "text": "From",
+   "time": 95.57,
+   "weight": 0.0,
+   "note_time": 74.82
+  },
+  {
+   "text": "Jes",
+   "time": 95.56,
+   "weight": 0.0,
+   "note_time": 75.18
+  },
+  {
+   "text": "se's",
+   "time": 95.56,
+   "weight": 0.0,
+   "note_time": 75.54
+  },
+  {
+   "text": "line",
+   "time": 95.55,
+   "weight": 0.0,
+   "note_time": 76.27
+  },
+  {
+   "text": "she",
+   "time": 95.55,
+   "weight": 0.0,
+   "note_time": 76.99
+  },
+  {
+   "text": "came",
+   "time": 95.54,
+   "weight": 0.0,
+   "note_time": 77.35
+  },
+  {
+   "text": "Walk",
+   "time": 95.53,
+   "weight": 0.0,
+   "note_time": 79.52
+  },
+  {
+   "text": "ing",
+   "time": 95.53,
+   "weight": 0.0,
+   "note_time": 79.7
+  },
+  {
+   "text": "in",
+   "time": 95.52,
+   "weight": 0.0,
+   "note_time": 79.88
+  },
+  {
+   "text": "an",
+   "time": 95.51,
+   "weight": 0.0,
+   "note_time": 80.06
+  },
+  {
+   "text": "an",
+   "time": 95.51,
+   "weight": 0.0,
+   "note_time": 80.24
+  },
+  {
+   "text": "cient",
+   "time": 95.5,
+   "weight": 0.0,
+   "note_time": 80.6
+  },
+  {
+   "text": "way",
+   "time": 95.49,
+   "weight": 0.0,
+   "note_time": 80.96
+  },
+  {
+   "text": "Daugh",
+   "time": 95.49,
+   "weight": 0.0,
+   "note_time": 85.3
+  },
+  {
+   "text": "ter",
+   "time": 95.48,
+   "weight": 0.0,
+   "note_time": 85.66
+  },
+  {
+   "text": "of",
+   "time": 95.48,
+   "weight": 0.0,
+   "note_time": 85.84
+  },
+  {
+   "text": "Je",
+   "time": 95.47,
+   "weight": 0.0,
+   "note_time": 86.39
+  },
+  {
+   "text": "ri",
+   "time": 95.46,
+   "weight": 0.0,
+   "note_time": 86.57
+  },
+  {
+   "text": "moth",
+   "time": 95.46,
+   "weight": 0.0,
+   "note_time": 86.75
+  },
+  {
+   "text": "Blood",
+   "time": 95.45,
+   "weight": 0.0,
+   "note_time": 88.19
+  },
+  {
+   "text": "of",
+   "time": 95.44,
+   "weight": 0.0,
+   "note_time": 88.55
+  },
+  {
+   "text": "the",
+   "time": 95.44,
+   "weight": 0.0,
+   "note_time": 88.73
+  },
+  {
+   "text": "an",
+   "time": 95.43,
+   "weight": 0.0,
+   "note_time": 88.92
+  },
+  {
+   "text": "cient",
+   "time": 95.42,
+   "weight": 0.0,
+   "note_time": 89.28
+  },
+  {
+   "text": "king",
+   "time": 95.42,
+   "weight": 0.0,
+   "note_time": 89.64
+  },
+  {
+   "text": "Moth",
+   "time": 95.41,
+   "weight": 0.0,
+   "note_time": 91.08
+  },
+  {
+   "text": "er",
+   "time": 95.41,
+   "weight": 0.0,
+   "note_time": 91.45
+  },
+  {
+   "text": "of",
+   "time": 95.4,
+   "weight": 0.0,
+   "note_time": 91.63
+  },
+  {
+   "text": "sons",
+   "time": 95.39,
+   "weight": 0.0,
+   "note_time": 92.17
+  },
+  {
+   "text": "three",
+   "time": 95.39,
+   "weight": 0.0,
+   "note_time": 92.53
+  },
+  {
+   "text": "Hear",
+   "time": 95.38,
+   "weight": 0.15,
+   "note_time": 93.61
+  },
+  {
+   "text": "the",
+   "time": 95.82,
+   "weight": 0.5,
+   "note_time": 93.98
+  },
+  {
+   "text": "sto",
+   "time": 96.12,
+   "weight": 0.68,
+   "note_time": 94.52
+  },
+  {
+   "text": "ry",
+   "time": 96.12,
+   "weight": 0.68,
+   "note_time": 95.06
+  },
+  {
+   "text": "she",
+   "time": 96.12,
+   "weight": 0.91,
+   "note_time": 95.24
+  },
+  {
+   "text": "brings",
+   "time": 96.42,
+   "weight": 0.15,
+   "note_time": 95.78
+  },
+  {
+   "text": "She",
+   "time": 101.46,
+   "weight": 0.78,
+   "note_time": 100.84
+  },
+  {
+   "text": "bore",
+   "time": 102.06,
+   "weight": 1.0,
+   "note_time": 101.93
+  },
+  {
+   "text": "him",
+   "time": 102.64,
+   "weight": 0.93,
+   "note_time": 103.01
+  },
+  {
+   "text": "Jeush",
+   "time": 103.68,
+   "weight": 0.71,
+   "note_time": 103.37
+  },
+  {
+   "text": "first",
+   "time": 105.14,
+   "weight": 0.48,
+   "note_time": 103.73
+  },
+  {
+   "text": "She",
+   "time": 106.4,
+   "weight": 0.35,
+   "note_time": 106.63
+  },
+  {
+   "text": "mari",
+   "time": 106.75,
+   "weight": 0.35,
+   "note_time": 106.99
+  },
+  {
+   "text": "ah",
+   "time": 107.1,
+   "weight": 0.35,
+   "note_time": 107.71
+  },
+  {
+   "text": "and",
+   "time": 109.58,
+   "weight": 0.85,
+   "note_time": 108.8
+  },
+  {
+   "text": "Za",
+   "time": 110.28,
+   "weight": 0.61,
+   "note_time": 109.52
+  },
+  {
+   "text": "ham",
+   "time": 110.63,
+   "weight": 0.61,
+   "note_time": 109.88
+  },
+  {
+   "text": "Names",
+   "time": 111.4,
+   "weight": 0.29,
+   "note_time": 112.05
+  },
+  {
+   "text": "re",
+   "time": 113.8,
+   "weight": 0.99,
+   "note_time": 112.77
+  },
+  {
+   "text": "cor",
+   "time": 113.95,
+   "weight": 0.99,
+   "note_time": 113.13
+  },
+  {
+   "text": "ded",
+   "time": 114.11,
+   "weight": 0.99,
+   "note_time": 113.86
+  },
+  {
+   "text": "in",
+   "time": 114.26,
+   "weight": 0.99,
+   "note_time": 114.94
+  },
+  {
+   "text": "the",
+   "time": 115.48,
+   "weight": 0.99,
+   "note_time": 115.3
+  },
+  {
+   "text": "book",
+   "time": 116.28,
+   "weight": 0.73,
+   "note_time": 115.66
+  },
+  {
+   "text": "Sons",
+   "time": 117.1,
+   "weight": 0.3,
+   "note_time": 117.11
+  },
+  {
+   "text": "of",
+   "time": 118.68,
+   "weight": 1.0,
+   "note_time": 117.47
+  },
+  {
+   "text": "her",
+   "time": 118.82,
+   "weight": 0.86,
+   "note_time": 117.65
+  },
+  {
+   "text": "and",
+   "time": 119.04,
+   "weight": 0.99,
+   "note_time": 118.19
+  },
+  {
+   "text": "of",
+   "time": 119.66,
+   "weight": 0.99,
+   "note_time": 118.55
+  },
+  {
+   "text": "the",
+   "time": 120.06,
+   "weight": 0.99,
+   "note_time": 119.28
+  },
+  {
+   "text": "king",
+   "time": 120.6,
+   "weight": 0.61,
+   "note_time": 119.64
+  },
+  {
+   "text": "Ma",
+   "time": 125.92,
+   "weight": 0.69,
+   "note_time": 124.34
+  },
+  {
+   "text": "ha",
+   "time": 126.27,
+   "weight": 0.69,
+   "note_time": 124.7
+  },
+  {
+   "text": "lath",
+   "time": 126.62,
+   "weight": 0.69,
+   "note_time": 125.42
+  },
+  {
+   "text": "the",
+   "time": 127.16,
+   "weight": 0.8,
+   "note_time": 126.14
+  },
+  {
+   "text": "wife",
+   "time": 127.54,
+   "weight": 0.98,
+   "note_time": 126.87
+  },
+  {
+   "text": "Daugh",
+   "time": 128.34,
+   "weight": 0.34,
+   "note_time": 128.67
+  },
+  {
+   "text": "ter",
+   "time": 128.69,
+   "weight": 0.34,
+   "note_time": 129.04
+  },
+  {
+   "text": "of",
+   "time": 130.4,
+   "weight": 1.0,
+   "note_time": 129.22
+  },
+  {
+   "text": "Je",
+   "time": 131.51,
+   "weight": 0.0,
+   "note_time": 129.76
+  },
+  {
+   "text": "ri",
+   "time": 132.62,
+   "weight": 0.0,
+   "note_time": 129.94
+  },
+  {
+   "text": "moth",
+   "time": 133.73,
+   "weight": 0.0,
+   "note_time": 130.12
+  },
+  {
+   "text": "The",
+   "time": 134.84,
+   "weight": 0.69,
+   "note_time": 134.82
+  },
+  {
+   "text": "his",
+   "time": 136.12,
+   "weight": 0.94,
+   "note_time": 135.18
+  },
+  {
+   "text": "tory",
+   "time": 136.47,
+   "weight": 0.94,
+   "note_time": 135.54
+  },
+  {
+   "text": "of",
+   "time": 137.35,
+   "weight": 0.0,
+   "note_time": 135.9
+  },
+  {
+   "text": "her",
+   "time": 138.23,
+   "weight": 0.0,
+   "note_time": 136.99
+  },
+  {
+   "text": "sons",
+   "time": 139.1,
+   "weight": 0.0,
+   "note_time": 137.71
+  },
+  {
+   "text": "Kept",
+   "time": 139.98,
+   "weight": 0.2,
+   "note_time": 140.24
+  },
+  {
+   "text": "in",
+   "time": 141.58,
+   "weight": 0.99,
+   "note_time": 140.6
+  },
+  {
+   "text": "the",
+   "time": 141.98,
+   "weight": 0.97,
+   "note_time": 140.78
+  },
+  {
+   "text": "roy",
+   "time": 142.12,
+   "weight": 0.85,
+   "note_time": 140.96
+  },
+  {
+   "text": "al",
+   "time": 142.3,
+   "weight": 0.85,
+   "note_time": 141.33
+  },
+  {
+   "text": "scroll",
+   "time": 142.48,
+   "weight": 0.95,
+   "note_time": 142.41
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 24 lyric lines sit clearly on their notes; 15 are uncertain and printed in grey italics."
+}

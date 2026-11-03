@@ -1,0 +1,41 @@
+{
+  "id": "story-demonbesatt-blind-og-stum-acoustic",
+  "title": "The Kingdom Has Come",
+  "kind": "story",
+  "anchor": {
+    "story": "demonbesatt-blind-og-stum"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 12,
+      "verseStart": 22,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "demonbesatt-blind-og-stum"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, warm and resonant solo, acoustic guitar, upright bass, light percussion, cello, contemplative and building, 85 BPM",
+    "lyrics": "[Verse]\nA blind and mute man was brought to Him\nJesus healed him so he could speak and see\nThe crowds were amazed by what they saw\nCould this be the Son of David?\n\n[Pre-Chorus]\nBut Pharisees heard and spoke with scorn\nSaid He drives out demons by Beelzebul\nThey doubted the power at work in Him\nAnd questioned the spirit of God's will\n\n[Chorus]\nEvery kingdom divided falls apart\nNo city or house will stand alone\nIf Satan casts out Satan then he is split\nHis kingdom cannot remain\n\n[Verse]\nHe knew their thoughts and answered clear\nWho drives out demons by Beelzebul\nThen by whom do your people drive them out\nThey will be the judges of you\n\n[Chorus]\nEvery kingdom divided falls apart\nNo city or house will stand alone\nIf Satan casts out Satan then he is split\nHis kingdom cannot remain\n\n[Pre-Chorus]\nBut if I drive out demons by Spirit of God\nThen the kingdom of God has come upon you\nHe ties up the strong man to take his goods\nAnd plunders the house of the enemy\n\n[Chorus]\nEvery kingdom divided falls apart\nNo city or house will stand alone\nIf Satan casts out Satan then he is split\nHis kingdom cannot remain\n\n[Bridge]\nWhoever is not with me is against me\nWhoever does not gather scatters away\nEvery sin and blasphemy will be forgiven\nBut not the blasphemy against the Spirit\n\n[Outro]\nSpeak against the Son of Man and be forgiven\nSpeak against the Holy Spirit and not\nEither in this age or in the age to come\nThe Kingdom has come upon you",
+    "cot": "full",
+    "seed": 31168
+  }
+}

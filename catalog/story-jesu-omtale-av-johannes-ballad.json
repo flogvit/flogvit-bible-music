@@ -1,0 +1,46 @@
+{
+  "id": "story-jesu-omtale-av-johannes-ballad",
+  "title": "Vindicated by Her Children",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-omtale-av-johannes"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 7,
+      "verseStart": 24,
+      "verseEnd": 35
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "visdom",
+      "frykt"
+    ],
+    "stories": [
+      "jesu-omtale-av-johannes"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, piano, acoustic guitar, cello, soft strings, moderate piano, 85 BPM",
+    "lyrics": "[Verse]\nWhat did you go to the wild to see\nA reed shaken by the passing wind\nOr a man in soft and costly clothes\nThose who wear such splendor dwell in palaces\nBut what did you go there to find\nA prophet, yes, and far more than that\nBehold, I send my messenger ahead\nWho will prepare your way before you\n\n[Chorus]\nNo one born of women is greater than John\nYet the least in the kingdom is greater than he\nThis generation is like children in the square\nCalling out to one another in vain\n\n[Verse]\nThey sat in the marketplace calling out\nWe played the flute and you did not dance\nWe sang a dirge and you did not weep\nJohn came eating no bread or wine\nYou said he has a demon within\nThe Son of Man came eating and drinking\nYou said a glutton and a drunkard\nA friend of tax collectors and sinners\n\n[Chorus]\nNo one born of women is greater than John\nYet the least in the kingdom is greater than he\nThis generation is like children in the square\nCalling out to one another in vain\n\n[Bridge]\nTax collectors acknowledged God's justice there\nFor they were baptized with John's baptism\nBut Pharisees rejected God's purpose for themselves\nSince they had not been baptized by him\n\n[Outro]\nYet wisdom is vindicated by all her children\nWisdom is vindicated by all her children",
+    "cot": "full",
+    "seed": 31165
+  }
+}

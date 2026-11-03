@@ -1,0 +1,48 @@
+{
+  "id": "story-den-hellige-elven-fra-tempelet-children",
+  "title": "Water from the Temple",
+  "kind": "story",
+  "anchor": {
+    "story": "den-hellige-elven-fra-tempelet"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 47,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [
+      "den-hellige-elven-fra-tempelet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice, soft piano, acoustic guitar, celeste, light strings, warm and hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nHe led me to the temple door\nWater flowed beneath the floor\nRunning east from under stone\nFrom the altar's side alone\n\n[Chorus]\nWater from the temple flows\nLife begins where it goes\nDeep and wide and strong and new\nHealing all the sea so blue\n\n[Verse]\nMeasuring line in his hand\nAnkle deep across the land\nKnee deep as we walked along\nWaist deep where we belong\n\n[Chorus]\nWater from the temple flows\nLife begins where it goes\nDeep and wide and strong and new\nHealing all the sea so blue\n\n[Verse]\nA river now too deep to cross\nSwimming through the rising loss\nHe asked if I could see\nThe life that flows from me\n\n[Chorus]\nWater from the temple flows\nLife begins where it goes\nDeep and wide and strong and new\nHealing all the sea so blue\n\n[Bridge]\nTrees on both the banks will grow\nLeaves that never fade or go\nFruit each month for food and health\nFresh from God's eternal wealth\n\n[Outro]\nWhere the river flows they live\nFish and trees and leaves to give\nWater from the temple flows",
+    "cot": "full",
+    "seed": 31163
+  }
+}

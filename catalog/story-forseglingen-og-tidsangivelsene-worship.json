@@ -1,0 +1,44 @@
+{
+  "id": "story-forseglingen-og-tidsangivelsene-worship",
+  "title": "Sealed Until The End",
+  "kind": "story",
+  "anchor": {
+    "story": "forseglingen-og-tidsangivelsene"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 12,
+      "verseStart": 4,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [
+      "forseglingen-og-tidsangivelsene"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, ethereal choir, piano, strings, cello, deep bass, atmospheric, 75 BPM",
+    "lyrics": "[Verse]\nBy the river two figures stood\nOne on each bank where the waters flowed\nOne asked the man in linen\nHow long until the wonders cease\nHe raised his hands to heaven\nSwearing by the one who lives forever\n\n[Chorus]\nA time times and half a time\nUntil the power of holy ones is broken\nSealed until the end\nMany shall be purified and made clean\n\n[Verse]\nI heard but did not understand\nAsked my lord for the outcome\nThe words are closed and sealed\nUntil the time of the end\nThe wicked shall act wickedly\nNone of them will understand\n\n[Chorus]\nA time times and half a time\nUntil the power of holy ones is broken\nSealed until the end\nMany shall be purified and made clean\n\n[Bridge]\nDaily sacrifice taken away\nAbomination of desolation set up\nOne thousand two hundred ninety days\nBlessed is he who waits for thirteen thirty five\n\n[Outro]\nGo your way until the end\nYou will rest and rise for your portion",
+    "cot": "full",
+    "seed": 31169
+  }
+}

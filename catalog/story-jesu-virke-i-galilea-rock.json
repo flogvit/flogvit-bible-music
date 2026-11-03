@@ -1,0 +1,47 @@
+{
+  "id": "story-jesu-virke-i-galilea-rock",
+  "title": "Great Light",
+  "kind": "story",
+  "anchor": {
+    "story": "jesu-virke-i-galilea"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "jesu-virke-i-galilea"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice with backing choir, electric guitar, bass, drums, organ, anthemic mood, 90 BPM",
+    "lyrics": "[Verse]\nJohn was arrested, Jesus withdrew\nLeft Nazareth for the sea\nSettled in Capernaum\nIn Zebulun and Naphtali\n\n[Verse]\nFulfilling the word of Isaiah\nThe people sat in darkness\nNow a great light has been seen\nIn the land of death's shadow\n\n[Chorus]\nRepent, for the kingdom is near\nGreat light for the nations\nFollow me, be fishers of men\nYour new calling is here\n\n[Verse]\nWalking beside the Sea of Galilee\nHe saw Simon and Andrew\nCasting their nets into the water\nHe called them to follow\n\n[Chorus]\nRepent, for the kingdom is near\nGreat light for the nations\nFollow me, be fishers of men\nYour new calling is here\n\n[Bridge]\nJames and John left their father\nIn the boat with their nets\nAt once they followed him\nThrough all of Galilee\n\n[Verse]\nTeaching in the synagogues\nProclaiming the good news\nHealing every disease\nAmong the people there\n\n[Chorus]\nRepent, for the kingdom is near\nGreat light for the nations\nFollow me, be fishers of men\nYour new calling is here\n\n[Outro]\nNews spread through all of Syria\nCrowds from Judea followed him",
+    "cot": "full",
+    "seed": 31162
+  }
+}

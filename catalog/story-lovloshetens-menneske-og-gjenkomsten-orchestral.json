@@ -1,0 +1,41 @@
+{
+  "id": "story-lovloshetens-menneske-og-gjenkomsten-orchestral",
+  "title": "The Breath of His Mouth",
+  "kind": "story",
+  "anchor": {
+    "story": "lovloshetens-menneske-og-gjenkomsten"
+  },
+  "references": [
+    {
+      "bookId": 53,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "lovloshetens-menneske-og-gjenkomsten"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, orchestral, male solo voice with choir, strings, brass, timpani, harp, majestic, 90 BPM",
+    "lyrics": "[Verse]\nDo not be shaken in mind or alarmed\nBy a spirit or word or a letter\nSaying the day of the Lord has come\nLet no one deceive you in any way\n\n[Verse]\nThat day will not come until the rebellion takes place\nAnd the man of lawlessness is revealed\nHe exalts himself above every so-called god\nSeating himself in the temple of God\n\n[Chorus]\nThe Lord Jesus will destroy him\nWith the breath of his mouth\nBring him to nothing\nBy the splendor of his coming\n\n[Verse]\nHis coming is by the working of Satan\nWith all power and false signs and wonders\nWicked deception for those who are perishing\nThey refused to love the truth and be saved\n\n[Chorus]\nThe Lord Jesus will destroy him\nWith the breath of his mouth\nBring him to nothing\nBy the splendor of his coming\n\n[Bridge]\nGod sends them a deluding power\nSo that they believe the lie\nBut we must always thank God for you\nChosen as firstfruits for salvation\n\n[Outro]\nStand firm and hold fast to the traditions\nMay comfort and strength come to your hearts",
+    "cot": "full",
+    "seed": 31161
+  }
+}

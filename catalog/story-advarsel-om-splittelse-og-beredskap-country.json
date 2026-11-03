@@ -1,0 +1,45 @@
+{
+  "id": "story-advarsel-om-splittelse-og-beredskap-country",
+  "title": "Division and Fire",
+  "kind": "story",
+  "anchor": {
+    "story": "advarsel-om-splittelse-og-beredskap"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 12,
+      "verseStart": 49,
+      "verseEnd": 59
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "tro"
+    ],
+    "stories": [
+      "advarsel-om-splittelse-og-beredskap"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male narrative voice, solo, acoustic guitar, fiddle, upright bass, drum kit, pedal steel, somber and urgent, 85 BPM",
+    "lyrics": "[Verse]\nI came to bring fire on the earth\nAnd how I wish it were already kindled\nBut I have a baptism to undergo\nAnd what constraint I am under until it is completed\n\n[Pre-Chorus]\nDo you think I came to bring peace on earth\nNo, I tell you, but division\nFrom now on five in one household will be divided\nThree against two and two against three\n\n[Chorus]\nFather against son and son against father\nMother against daughter and daughter against mother\nMother-in-law against daughter-in-law\nAnd daughter-in-law against mother-in-law\n\n[Verse]\nWhen you see a cloud rising in the west\nYou say at once, A storm is coming, and so it happens\nAnd when the south wind blows, you say\nIt will be scorching hot, and it is\n\n[Pre-Chorus]\nHypocrites, you know how to interpret the face of the earth\nAnd the sky, why then do you not know\nHow to interpret this present time\nAnd why do you not judge for yourselves what is right\n\n[Chorus]\nFather against son and son against father\nMother against daughter and daughter against mother\nMother-in-law against daughter-in-law\nAnd daughter-in-law against mother-in-law\n\n[Bridge]\nAs you are going with your accuser to the magistrate\nMake an effort to settle with him on the way\nOr he may drag you off to the judge\nAnd the judge hand you over to the officer\n\n[Outro]\nThe officer throw you into prison\nYou will not get out until you have paid the very last penny\n\n[Chorus]\nFather against son and son against father\nMother against daughter and daughter against mother\nMother-in-law against daughter-in-law\nAnd daughter-in-law against mother-in-law",
+    "cot": "full",
+    "seed": 31167
+  }
+}

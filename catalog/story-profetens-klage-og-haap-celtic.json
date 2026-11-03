@@ -1,0 +1,50 @@
+{
+  "id": "story-profetens-klage-og-haap-celtic",
+  "title": "Who Is a God Like You",
+  "kind": "story",
+  "anchor": {
+    "story": "profetens-klage-og-haap"
+  },
+  "references": [
+    {
+      "bookId": 33,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 33,
+      "chapter": 7,
+      "verseStart": 18,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "profetens-klage-og-haap"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with deep choir, Celtic harp, bodhran, fiddle, tin whistle, flute, haunting and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nWhat misery is mine, gathering fruit after harvest\nLike gleaning the vineyard when the grapes are gone\nNot a cluster left to eat, not one early fig\nThe faithful have vanished from the land entirely\n\n[Verse]\nNot one upright person remains among us\nThey all lie in wait for blood in the dark\nEach one hunts his own brother with a net\nBoth hands are skilled at weaving evil tight\n\n[Pre-Chorus]\nThe official demands his price, the judge takes his bribe\nThe powerful dictate what they want to do\nThe best is like a briar, a hedge of thorns\nConfusion falls upon them all today\n\n[Chorus]\nWho is a God like you, who pardons guilt\nPassing over the transgression of his remnant\nYou do not hold on to your anger forever\nFor you delight in mercy, yes you do\n\n[Verse]\nPut no trust in a neighbor or a friend\nGuard your mouth even from the wife in your arms\nA son treats his father with contempt\nA daughter rises against her mother now\n\n[Pre-Chorus]\nEnemies are the members of my own household\nTrust is broken and the bonds are torn\nBut as for me, I will look to the LORD\nI will wait for the God of my salvation\n\n[Chorus]\nWho is a God like you, who pardons guilt\nPassing over the transgression of his remnant\nYou do not hold on to your anger forever\nFor you delight in mercy, yes you do\n\n[Bridge]\nDo not gloat over me, my enemy\nThough I have fallen, I will rise again\nThough I sit in darkness, the LORD is my light\nI will bear his wrath until he hears me\n\n[Chorus]\nWho is a God like you, who pardons guilt\nPassing over the transgression of his remnant\nYou do not hold on to your anger forever\nFor you delight in mercy, yes you do\n\n[Outro]\nYou will hurl all our sins into the depths of the sea\nYou will show faithfulness to Jacob and Abraham",
+    "cot": "full",
+    "seed": 31166
+  }
+}

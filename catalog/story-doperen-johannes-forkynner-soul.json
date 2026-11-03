@@ -1,0 +1,49 @@
+{
+  "id": "story-doperen-johannes-forkynner-soul",
+  "title": "Prepare the Way",
+  "kind": "story",
+  "anchor": {
+    "story": "doperen-johannes-forkynner"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [
+      "doperen-johannes-forkynner"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male soul voice, piano, strings, bass, drum kit, gospel choir, reverent and urgent, 85 BPM",
+    "lyrics": "[Verse]\nIn the wilderness of Judea he appeared\nPreaching repentance in the open air\nThe kingdom of heaven has come near\nA voice calling out, the world draws near\n\n[Chorus]\nPrepare the way of the Lord\nMake his paths straight for us to see\nThe spirit and the fire are near\nRepent now, for the day is here\n\n[Verse]\nCamel hair and leather was his dress\nLocusts and honey, no better rest\nJerusalem and Judea came\nBaptized in Jordan, naming their shame\n\n[Chorus]\nPrepare the way of the Lord\nMake his paths straight for us to see\nThe spirit and the fire are near\nRepent now, for the day is here\n\n[Verse]\nBrood of vipers, flee the coming wrath\nProduce fruit worthy of a fresh start\nAbraham is not a shield of pride\nGod can raise children from stones inside\n\n[Chorus]\nPrepare the way of the Lord\nMake his paths straight for us to see\nThe spirit and the fire are near\nRepent now, for the day is here\n\n[Bridge]\nI am not worthy to carry his sandals\nHe is mightier than I can understand\nWater for repentance is all I give\nBut the Spirit and Fire will live\n\n[Outro]\nGather the wheat into the barn\nBurn the chaff with unquenchable fire\nThe way is prepared\nThe Lord is near",
+    "cot": "full",
+    "seed": 31164
+  }
+}

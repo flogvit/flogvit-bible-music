@@ -1,0 +1,1380 @@
+{
+ "id": "story-herrens-profeti-om-folkets-avfall-rock",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-herrens-profeti-om-folkets-avfall-rock",
+ "offset_seconds": -0.9400000000002358,
+ "words_heard": 151,
+ "words": 152,
+ "lines": [
+  {
+   "text": "The day of your death is near",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Summon Joshua, stand together",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Present yourselves at the tent",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where I will commission him",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I appeared in a pillar of cloud",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Standing over the entrance",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You lie down with your fathers soon",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But the people will rise up",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Write down this song for yourselves",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.42,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Teach it to the Israelites",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Put it in their mouths deep",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So it stands as my witness",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They prostitute themselves to foreign gods",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Forsaking me and my covenant",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "My anger will burn against them",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I will hide my face away",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.41,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Write down this song for yourselves",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Teach it to the Israelites",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Put it in their mouths deep",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So it stands as my witness",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.0,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "They eat their fill and grow fat",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Then they despise my holy name",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When disasters come upon them",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They will say I am gone",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "This song will testify against them",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "It will not be lost from their lips",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.42,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 23.28,
+   "weight": 0.83,
+   "note_time": 23.29
+  },
+  {
+   "text": "day",
+   "time": 24.04,
+   "weight": 0.98,
+   "note_time": 23.47
+  },
+  {
+   "text": "of",
+   "time": 24.44,
+   "weight": 0.98,
+   "note_time": 23.65
+  },
+  {
+   "text": "your",
+   "time": 24.62,
+   "weight": 0.99,
+   "note_time": 23.82
+  },
+  {
+   "text": "death",
+   "time": 24.72,
+   "weight": 1.0,
+   "note_time": 24.18
+  },
+  {
+   "text": "is",
+   "time": 25.08,
+   "weight": 1.0,
+   "note_time": 24.53
+  },
+  {
+   "text": "near",
+   "time": 25.4,
+   "weight": 1.0,
+   "note_time": 26.29
+  },
+  {
+   "text": "Sum",
+   "time": 25.78,
+   "weight": 0.21,
+   "note_time": 26.65
+  },
+  {
+   "text": "mon",
+   "time": 26.13,
+   "weight": 0.21,
+   "note_time": 27.0
+  },
+  {
+   "text": "Joshua,",
+   "time": 27.44,
+   "weight": 0.99,
+   "note_time": 27.18
+  },
+  {
+   "text": "stand",
+   "time": 28.12,
+   "weight": 0.99,
+   "note_time": 27.53
+  },
+  {
+   "text": "to",
+   "time": 28.58,
+   "weight": 1.0,
+   "note_time": 28.06
+  },
+  {
+   "text": "geth",
+   "time": 28.85,
+   "weight": 1.0,
+   "note_time": 28.24
+  },
+  {
+   "text": "er",
+   "time": 29.11,
+   "weight": 1.0,
+   "note_time": 28.41
+  },
+  {
+   "text": "P",
+   "time": 35.08,
+   "weight": 0.58,
+   "note_time": 34.59
+  },
+  {
+   "text": "resent",
+   "time": 35.43,
+   "weight": 0.58,
+   "note_time": 34.76
+  },
+  {
+   "text": "your",
+   "time": 35.86,
+   "weight": 0.89,
+   "note_time": 34.94
+  },
+  {
+   "text": "selves",
+   "time": 35.95,
+   "weight": 0.89,
+   "note_time": 35.12
+  },
+  {
+   "text": "at",
+   "time": 36.04,
+   "weight": 0.99,
+   "note_time": 35.47
+  },
+  {
+   "text": "the",
+   "time": 36.62,
+   "weight": 0.99,
+   "note_time": 35.65
+  },
+  {
+   "text": "tent",
+   "time": 36.7,
+   "weight": 0.92,
+   "note_time": 35.82
+  },
+  {
+   "text": "Where",
+   "time": 38.08,
+   "weight": 0.61,
+   "note_time": 37.76
+  },
+  {
+   "text": "I",
+   "time": 38.86,
+   "weight": 0.98,
+   "note_time": 37.94
+  },
+  {
+   "text": "will",
+   "time": 39.08,
+   "weight": 1.0,
+   "note_time": 38.29
+  },
+  {
+   "text": "com",
+   "time": 39.44,
+   "weight": 0.98,
+   "note_time": 38.65
+  },
+  {
+   "text": "mis",
+   "time": 39.61,
+   "weight": 0.98,
+   "note_time": 38.82
+  },
+  {
+   "text": "sion",
+   "time": 39.77,
+   "weight": 0.98,
+   "note_time": 39.0
+  },
+  {
+   "text": "him",
+   "time": 39.94,
+   "weight": 0.7,
+   "note_time": 39.18
+  },
+  {
+   "text": "I",
+   "time": 45.78,
+   "weight": 0.93,
+   "note_time": 45.53
+  },
+  {
+   "text": "ap",
+   "time": 46.56,
+   "weight": 0.97,
+   "note_time": 45.71
+  },
+  {
+   "text": "peared",
+   "time": 46.78,
+   "weight": 0.97,
+   "note_time": 45.88
+  },
+  {
+   "text": "in",
+   "time": 47.0,
+   "weight": 0.99,
+   "note_time": 46.24
+  },
+  {
+   "text": "a",
+   "time": 47.4,
+   "weight": 0.98,
+   "note_time": 46.41
+  },
+  {
+   "text": "pil",
+   "time": 47.52,
+   "weight": 0.99,
+   "note_time": 46.59
+  },
+  {
+   "text": "lar",
+   "time": 47.66,
+   "weight": 0.99,
+   "note_time": 46.76
+  },
+  {
+   "text": "of",
+   "time": 47.8,
+   "weight": 1.0,
+   "note_time": 46.94
+  },
+  {
+   "text": "cloud",
+   "time": 48.12,
+   "weight": 0.92,
+   "note_time": 47.29
+  },
+  {
+   "text": "Stan",
+   "time": 48.5,
+   "weight": 0.88,
+   "note_time": 48.71
+  },
+  {
+   "text": "ding",
+   "time": 48.85,
+   "weight": 0.88,
+   "note_time": 49.06
+  },
+  {
+   "text": "o",
+   "time": 49.88,
+   "weight": 1.0,
+   "note_time": 49.24
+  },
+  {
+   "text": "ver",
+   "time": 50.2,
+   "weight": 1.0,
+   "note_time": 49.59
+  },
+  {
+   "text": "the",
+   "time": 50.52,
+   "weight": 1.0,
+   "note_time": 49.76
+  },
+  {
+   "text": "en",
+   "time": 50.88,
+   "weight": 1.0,
+   "note_time": 49.94
+  },
+  {
+   "text": "trance",
+   "time": 51.2,
+   "weight": 1.0,
+   "note_time": 50.29
+  },
+  {
+   "text": "You",
+   "time": 56.82,
+   "weight": 0.7,
+   "note_time": 56.82
+  },
+  {
+   "text": "lie",
+   "time": 57.6,
+   "weight": 0.45,
+   "note_time": 57.18
+  },
+  {
+   "text": "down",
+   "time": 58.04,
+   "weight": 1.0,
+   "note_time": 57.53
+  },
+  {
+   "text": "with",
+   "time": 58.34,
+   "weight": 1.0,
+   "note_time": 57.71
+  },
+  {
+   "text": "your",
+   "time": 58.66,
+   "weight": 0.99,
+   "note_time": 57.88
+  },
+  {
+   "text": "fa",
+   "time": 58.82,
+   "weight": 0.94,
+   "note_time": 58.24
+  },
+  {
+   "text": "thers",
+   "time": 58.99,
+   "weight": 0.94,
+   "note_time": 58.59
+  },
+  {
+   "text": "soon",
+   "time": 59.16,
+   "weight": 0.98,
+   "note_time": 60.35
+  },
+  {
+   "text": "But",
+   "time": 60.64,
+   "weight": 0.59,
+   "note_time": 60.53
+  },
+  {
+   "text": "the",
+   "time": 61.36,
+   "weight": 1.0,
+   "note_time": 60.71
+  },
+  {
+   "text": "peo",
+   "time": 61.58,
+   "weight": 1.0,
+   "note_time": 60.88
+  },
+  {
+   "text": "ple",
+   "time": 61.75,
+   "weight": 1.0,
+   "note_time": 61.06
+  },
+  {
+   "text": "will",
+   "time": 61.92,
+   "weight": 1.0,
+   "note_time": 61.41
+  },
+  {
+   "text": "rise",
+   "time": 62.2,
+   "weight": 0.99,
+   "note_time": 61.76
+  },
+  {
+   "text": "up",
+   "time": 62.66,
+   "weight": 1.0,
+   "note_time": 68.12
+  },
+  {
+   "text": "Write",
+   "time": 68.46,
+   "weight": 0.75,
+   "note_time": 68.47
+  },
+  {
+   "text": "down",
+   "time": 69.18,
+   "weight": 0.99,
+   "note_time": 68.82
+  },
+  {
+   "text": "this",
+   "time": 69.66,
+   "weight": 1.0,
+   "note_time": 69.18
+  },
+  {
+   "text": "song",
+   "time": 70.0,
+   "weight": 0.99,
+   "note_time": 69.53
+  },
+  {
+   "text": "for",
+   "time": 70.36,
+   "weight": 1.0,
+   "note_time": 69.88
+  },
+  {
+   "text": "your",
+   "time": 70.66,
+   "weight": 0.91,
+   "note_time": 70.24
+  },
+  {
+   "text": "selves",
+   "time": 71.01,
+   "weight": 0.91,
+   "note_time": 70.59
+  },
+  {
+   "text": "Teach",
+   "time": 71.96,
+   "weight": 0.96,
+   "note_time": 71.29
+  },
+  {
+   "text": "it",
+   "time": 72.44,
+   "weight": 1.0,
+   "note_time": 71.47
+  },
+  {
+   "text": "to",
+   "time": 72.6,
+   "weight": 1.0,
+   "note_time": 71.65
+  },
+  {
+   "text": "the",
+   "time": 72.74,
+   "weight": 1.0,
+   "note_time": 71.82
+  },
+  {
+   "text": "Is",
+   "time": 72.88,
+   "weight": 1.0,
+   "note_time": 72.0
+  },
+  {
+   "text": "rae",
+   "time": 73.13,
+   "weight": 1.0,
+   "note_time": 72.35
+  },
+  {
+   "text": "lites",
+   "time": 73.39,
+   "weight": 1.0,
+   "note_time": 72.53
+  },
+  {
+   "text": "Put",
+   "time": 74.52,
+   "weight": 0.99,
+   "note_time": 74.12
+  },
+  {
+   "text": "it",
+   "time": 75.24,
+   "weight": 1.0,
+   "note_time": 74.29
+  },
+  {
+   "text": "in",
+   "time": 75.46,
+   "weight": 1.0,
+   "note_time": 74.47
+  },
+  {
+   "text": "their",
+   "time": 75.68,
+   "weight": 0.98,
+   "note_time": 74.65
+  },
+  {
+   "text": "mouths",
+   "time": 75.78,
+   "weight": 0.95,
+   "note_time": 74.82
+  },
+  {
+   "text": "deep",
+   "time": 76.26,
+   "weight": 0.99,
+   "note_time": 75.53
+  },
+  {
+   "text": "So",
+   "time": 76.78,
+   "weight": 0.94,
+   "note_time": 76.94
+  },
+  {
+   "text": "it",
+   "time": 77.96,
+   "weight": 0.96,
+   "note_time": 77.12
+  },
+  {
+   "text": "stands",
+   "time": 78.28,
+   "weight": 0.99,
+   "note_time": 77.47
+  },
+  {
+   "text": "as",
+   "time": 78.68,
+   "weight": 1.0,
+   "note_time": 77.82
+  },
+  {
+   "text": "my",
+   "time": 78.94,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "wit",
+   "time": 79.16,
+   "weight": 1.0,
+   "note_time": 78.35
+  },
+  {
+   "text": "ness",
+   "time": 79.44,
+   "weight": 1.0,
+   "note_time": 78.71
+  },
+  {
+   "text": "They",
+   "time": 90.44,
+   "weight": 0.78,
+   "note_time": 90.71
+  },
+  {
+   "text": "pros",
+   "time": 91.32,
+   "weight": 0.99,
+   "note_time": 90.88
+  },
+  {
+   "text": "ti",
+   "time": 91.58,
+   "weight": 0.99,
+   "note_time": 91.06
+  },
+  {
+   "text": "tute",
+   "time": 91.84,
+   "weight": 0.99,
+   "note_time": 91.24
+  },
+  {
+   "text": "them",
+   "time": 92.1,
+   "weight": 1.0,
+   "note_time": 91.59
+  },
+  {
+   "text": "selves",
+   "time": 92.28,
+   "weight": 1.0,
+   "note_time": 91.94
+  },
+  {
+   "text": "to",
+   "time": 92.46,
+   "weight": 0.99,
+   "note_time": 92.12
+  },
+  {
+   "text": "for",
+   "time": 93.04,
+   "weight": 1.0,
+   "note_time": 92.29
+  },
+  {
+   "text": "eign",
+   "time": 93.2,
+   "weight": 1.0,
+   "note_time": 92.47
+  },
+  {
+   "text": "gods",
+   "time": 93.36,
+   "weight": 0.99,
+   "note_time": 93.71
+  },
+  {
+   "text": "For",
+   "time": 93.78,
+   "weight": 0.85,
+   "note_time": 93.88
+  },
+  {
+   "text": "sak",
+   "time": 94.13,
+   "weight": 0.85,
+   "note_time": 94.06
+  },
+  {
+   "text": "ing",
+   "time": 94.48,
+   "weight": 0.85,
+   "note_time": 94.41
+  },
+  {
+   "text": "me",
+   "time": 95.08,
+   "weight": 0.99,
+   "note_time": 94.76
+  },
+  {
+   "text": "and",
+   "time": 95.54,
+   "weight": 0.94,
+   "note_time": 94.94
+  },
+  {
+   "text": "my",
+   "time": 95.86,
+   "weight": 1.0,
+   "note_time": 95.29
+  },
+  {
+   "text": "co",
+   "time": 96.04,
+   "weight": 0.99,
+   "note_time": 95.47
+  },
+  {
+   "text": "ve",
+   "time": 96.23,
+   "weight": 0.99,
+   "note_time": 95.65
+  },
+  {
+   "text": "nant",
+   "time": 96.43,
+   "weight": 0.99,
+   "note_time": 102.0
+  },
+  {
+   "text": "My",
+   "time": 102.24,
+   "weight": 0.95,
+   "note_time": 102.35
+  },
+  {
+   "text": "an",
+   "time": 103.12,
+   "weight": 1.0,
+   "note_time": 102.53
+  },
+  {
+   "text": "ger",
+   "time": 103.36,
+   "weight": 1.0,
+   "note_time": 102.71
+  },
+  {
+   "text": "will",
+   "time": 103.6,
+   "weight": 1.0,
+   "note_time": 103.06
+  },
+  {
+   "text": "burn",
+   "time": 103.86,
+   "weight": 1.0,
+   "note_time": 103.41
+  },
+  {
+   "text": "a",
+   "time": 104.3,
+   "weight": 1.0,
+   "note_time": 103.59
+  },
+  {
+   "text": "gainst",
+   "time": 104.49,
+   "weight": 1.0,
+   "note_time": 103.94
+  },
+  {
+   "text": "them",
+   "time": 104.68,
+   "weight": 1.0,
+   "note_time": 105.35
+  },
+  {
+   "text": "I",
+   "time": 105.18,
+   "weight": 0.98,
+   "note_time": 105.53
+  },
+  {
+   "text": "will",
+   "time": 106.44,
+   "weight": 1.0,
+   "note_time": 105.71
+  },
+  {
+   "text": "hide",
+   "time": 106.62,
+   "weight": 1.0,
+   "note_time": 106.24
+  },
+  {
+   "text": "my",
+   "time": 107.0,
+   "weight": 1.0,
+   "note_time": 106.59
+  },
+  {
+   "text": "face",
+   "time": 107.34,
+   "weight": 1.0,
+   "note_time": 106.94
+  },
+  {
+   "text": "a",
+   "time": 107.82,
+   "weight": 1.0,
+   "note_time": 107.12
+  },
+  {
+   "text": "way",
+   "time": 108.01,
+   "weight": 1.0,
+   "note_time": 107.29
+  },
+  {
+   "text": "Write",
+   "time": 113.4,
+   "weight": 0.15,
+   "note_time": 113.29
+  },
+  {
+   "text": "down",
+   "time": 114.12,
+   "weight": 0.98,
+   "note_time": 113.65
+  },
+  {
+   "text": "this",
+   "time": 114.84,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "song",
+   "time": 115.2,
+   "weight": 0.98,
+   "note_time": 114.35
+  },
+  {
+   "text": "for",
+   "time": 115.54,
+   "weight": 1.0,
+   "note_time": 114.71
+  },
+  {
+   "text": "your",
+   "time": 115.82,
+   "weight": 0.82,
+   "note_time": 115.06
+  },
+  {
+   "text": "selves",
+   "time": 116.16,
+   "weight": 0.82,
+   "note_time": 115.41
+  },
+  {
+   "text": "Teach",
+   "time": 117.14,
+   "weight": 0.85,
+   "note_time": 116.47
+  },
+  {
+   "text": "it",
+   "time": 117.56,
+   "weight": 1.0,
+   "note_time": 116.65
+  },
+  {
+   "text": "to",
+   "time": 117.76,
+   "weight": 1.0,
+   "note_time": 116.82
+  },
+  {
+   "text": "the",
+   "time": 117.9,
+   "weight": 1.0,
+   "note_time": 117.0
+  },
+  {
+   "text": "Is",
+   "time": 118.06,
+   "weight": 1.0,
+   "note_time": 117.18
+  },
+  {
+   "text": "rae",
+   "time": 118.28,
+   "weight": 1.0,
+   "note_time": 117.53
+  },
+  {
+   "text": "lites",
+   "time": 118.5,
+   "weight": 1.0,
+   "note_time": 117.71
+  },
+  {
+   "text": "Put",
+   "time": 119.66,
+   "weight": 0.99,
+   "note_time": 119.29
+  },
+  {
+   "text": "it",
+   "time": 120.38,
+   "weight": 0.99,
+   "note_time": 119.47
+  },
+  {
+   "text": "in",
+   "time": 120.62,
+   "weight": 1.0,
+   "note_time": 119.65
+  },
+  {
+   "text": "their",
+   "time": 120.84,
+   "weight": 0.99,
+   "note_time": 119.82
+  },
+  {
+   "text": "mouths",
+   "time": 120.9,
+   "weight": 0.92,
+   "note_time": 120.0
+  },
+  {
+   "text": "deep",
+   "time": 121.4,
+   "weight": 0.95,
+   "note_time": 120.71
+  },
+  {
+   "text": "So",
+   "time": 121.92,
+   "weight": 0.98,
+   "note_time": 122.12
+  },
+  {
+   "text": "it",
+   "time": 123.12,
+   "weight": 0.99,
+   "note_time": 122.29
+  },
+  {
+   "text": "stands",
+   "time": 123.44,
+   "weight": 1.0,
+   "note_time": 122.65
+  },
+  {
+   "text": "as",
+   "time": 123.82,
+   "weight": 1.0,
+   "note_time": 122.82
+  },
+  {
+   "text": "my",
+   "time": 124.12,
+   "weight": 0.96,
+   "note_time": 123.0
+  },
+  {
+   "text": "wit",
+   "time": 124.3,
+   "weight": 1.0,
+   "note_time": 123.18
+  },
+  {
+   "text": "ness",
+   "time": 124.62,
+   "weight": 1.0,
+   "note_time": 123.53
+  },
+  {
+   "text": "They",
+   "time": 136.08,
+   "weight": 0.83,
+   "note_time": 123.88
+  },
+  {
+   "text": "eat",
+   "time": 136.98,
+   "weight": 0.99,
+   "note_time": 136.24
+  },
+  {
+   "text": "their",
+   "time": 137.44,
+   "weight": 0.97,
+   "note_time": 136.59
+  },
+  {
+   "text": "fill",
+   "time": 137.74,
+   "weight": 1.0,
+   "note_time": 136.94
+  },
+  {
+   "text": "and",
+   "time": 138.08,
+   "weight": 0.99,
+   "note_time": 137.12
+  },
+  {
+   "text": "grow",
+   "time": 138.24,
+   "weight": 1.0,
+   "note_time": 137.29
+  },
+  {
+   "text": "fat",
+   "time": 138.42,
+   "weight": 1.0,
+   "note_time": 137.65
+  },
+  {
+   "text": "Then",
+   "time": 139.0,
+   "weight": 0.0,
+   "note_time": 138.88
+  },
+  {
+   "text": "they",
+   "time": 139.58,
+   "weight": 1.0,
+   "note_time": 139.06
+  },
+  {
+   "text": "de",
+   "time": 140.18,
+   "weight": 1.0,
+   "note_time": 139.24
+  },
+  {
+   "text": "spise",
+   "time": 140.53,
+   "weight": 1.0,
+   "note_time": 139.59
+  },
+  {
+   "text": "my",
+   "time": 141.06,
+   "weight": 0.98,
+   "note_time": 140.12
+  },
+  {
+   "text": "ho",
+   "time": 141.22,
+   "weight": 0.98,
+   "note_time": 140.47
+  },
+  {
+   "text": "ly",
+   "time": 141.44,
+   "weight": 0.98,
+   "note_time": 140.65
+  },
+  {
+   "text": "name",
+   "time": 141.66,
+   "weight": 1.0,
+   "note_time": 140.82
+  },
+  {
+   "text": "When",
+   "time": 147.16,
+   "weight": 0.98,
+   "note_time": 147.18
+  },
+  {
+   "text": "dis",
+   "time": 148.06,
+   "weight": 0.99,
+   "note_time": 147.35
+  },
+  {
+   "text": "as",
+   "time": 148.26,
+   "weight": 0.99,
+   "note_time": 147.53
+  },
+  {
+   "text": "ters",
+   "time": 148.46,
+   "weight": 0.99,
+   "note_time": 147.88
+  },
+  {
+   "text": "come",
+   "time": 148.66,
+   "weight": 1.0,
+   "note_time": 148.24
+  },
+  {
+   "text": "up",
+   "time": 149.34,
+   "weight": 1.0,
+   "note_time": 148.59
+  },
+  {
+   "text": "on",
+   "time": 149.59,
+   "weight": 1.0,
+   "note_time": 148.76
+  },
+  {
+   "text": "them",
+   "time": 149.84,
+   "weight": 1.0,
+   "note_time": 149.12
+  },
+  {
+   "text": "They",
+   "time": 150.3,
+   "weight": 0.98,
+   "note_time": 150.53
+  },
+  {
+   "text": "will",
+   "time": 151.58,
+   "weight": 1.0,
+   "note_time": 150.71
+  },
+  {
+   "text": "say",
+   "time": 151.78,
+   "weight": 1.0,
+   "note_time": 150.88
+  },
+  {
+   "text": "I",
+   "time": 152.02,
+   "weight": 0.77,
+   "note_time": 151.76
+  },
+  {
+   "text": "am",
+   "time": 152.88,
+   "weight": 1.0,
+   "note_time": 151.94
+  },
+  {
+   "text": "gone",
+   "time": 153.22,
+   "weight": 0.99,
+   "note_time": 152.29
+  },
+  {
+   "text": "This",
+   "time": 158.44,
+   "weight": 0.96,
+   "note_time": 158.47
+  },
+  {
+   "text": "song",
+   "time": 159.58,
+   "weight": 0.99,
+   "note_time": 158.82
+  },
+  {
+   "text": "will",
+   "time": 160.0,
+   "weight": 1.0,
+   "note_time": 159.18
+  },
+  {
+   "text": "tes",
+   "time": 160.32,
+   "weight": 0.99,
+   "note_time": 159.53
+  },
+  {
+   "text": "ti",
+   "time": 160.53,
+   "weight": 0.99,
+   "note_time": 159.88
+  },
+  {
+   "text": "fy",
+   "time": 160.75,
+   "weight": 0.99,
+   "note_time": 160.06
+  },
+  {
+   "text": "a",
+   "time": 160.96,
+   "weight": 0.99,
+   "note_time": 160.59
+  },
+  {
+   "text": "gainst",
+   "time": 161.31,
+   "weight": 0.99,
+   "note_time": 160.76
+  },
+  {
+   "text": "them",
+   "time": 161.88,
+   "weight": 1.0,
+   "note_time": 161.29
+  },
+  {
+   "text": "It",
+   "time": 168.58,
+   "weight": 0.93,
+   "note_time": 169.76
+  },
+  {
+   "text": "will",
+   "time": 169.72,
+   "weight": 1.0,
+   "note_time": 170.12
+  },
+  {
+   "text": "not",
+   "time": 170.86,
+   "weight": 1.0,
+   "note_time": 170.47
+  },
+  {
+   "text": "be",
+   "time": 171.28,
+   "weight": 1.0,
+   "note_time": 170.82
+  },
+  {
+   "text": "lost",
+   "time": 171.58,
+   "weight": 1.0,
+   "note_time": 171.35
+  },
+  {
+   "text": "from",
+   "time": 172.0,
+   "weight": 1.0,
+   "note_time": 171.71
+  },
+  {
+   "text": "their",
+   "time": 172.5,
+   "weight": 1.0,
+   "note_time": 172.06
+  },
+  {
+   "text": "lips",
+   "time": 172.88,
+   "weight": 1.0,
+   "note_time": 172.24
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "24 of 26 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

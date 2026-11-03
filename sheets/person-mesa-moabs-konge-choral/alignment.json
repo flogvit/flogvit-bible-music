@@ -1,0 +1,850 @@
+{
+ "id": "person-mesa-moabs-konge-choral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-mesa-moabs-konge-choral",
+ "offset_seconds": -3.600000000000179,
+ "words_heard": 92,
+ "words": 95,
+ "lines": [
+  {
+   "text": "Mesha king of Moab was a sheep breeder",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He paid the king of Israel every year",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A hundred thousand lambs was the tribute",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And wool from a hundred thousand rams",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But when Ahab died the bond was broken",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The king of Moab rebelled against Israel",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sheep breeder stopped his payment",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.37,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the sheep breeder refused the heavy load",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.71,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The tribute of lambs was no longer paid",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The wool of the rams stayed in his fold",
+   "heard": 6,
+   "words": 9,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He rebelled against the king of Israel",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And the sheep breeder held his ground",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He rebelled against the king",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Me",
+   "time": 18.54,
+   "weight": 0.41,
+   "note_time": 18.86
+  },
+  {
+   "text": "sha",
+   "time": 18.89,
+   "weight": 0.41,
+   "note_time": 19.71
+  },
+  {
+   "text": "king",
+   "time": 19.94,
+   "weight": 0.65,
+   "note_time": 20.14
+  },
+  {
+   "text": "of",
+   "time": 20.26,
+   "weight": 1.0,
+   "note_time": 20.57
+  },
+  {
+   "text": "Moab",
+   "time": 21.32,
+   "weight": 0.98,
+   "note_time": 21.43
+  },
+  {
+   "text": "was",
+   "time": 22.12,
+   "weight": 0.94,
+   "note_time": 21.86
+  },
+  {
+   "text": "a",
+   "time": 22.9,
+   "weight": 1.0,
+   "note_time": 22.93
+  },
+  {
+   "text": "sheep",
+   "time": 23.26,
+   "weight": 0.99,
+   "note_time": 23.14
+  },
+  {
+   "text": "breed",
+   "time": 23.84,
+   "weight": 0.94,
+   "note_time": 23.57
+  },
+  {
+   "text": "er",
+   "time": 24.19,
+   "weight": 0.94,
+   "note_time": 24.0
+  },
+  {
+   "text": "He",
+   "time": 24.76,
+   "weight": 0.61,
+   "note_time": 24.86
+  },
+  {
+   "text": "paid",
+   "time": 25.92,
+   "weight": 0.99,
+   "note_time": 25.29
+  },
+  {
+   "text": "the",
+   "time": 26.32,
+   "weight": 1.0,
+   "note_time": 26.14
+  },
+  {
+   "text": "king",
+   "time": 26.6,
+   "weight": 0.72,
+   "note_time": 26.36
+  },
+  {
+   "text": "of",
+   "time": 26.96,
+   "weight": 1.0,
+   "note_time": 26.57
+  },
+  {
+   "text": "Is",
+   "time": 28.0,
+   "weight": 0.97,
+   "note_time": 27.0
+  },
+  {
+   "text": "rael",
+   "time": 28.35,
+   "weight": 0.97,
+   "note_time": 27.21
+  },
+  {
+   "text": "ev",
+   "time": 28.96,
+   "weight": 0.99,
+   "note_time": 27.43
+  },
+  {
+   "text": "ery",
+   "time": 29.31,
+   "weight": 0.99,
+   "note_time": 30.86
+  },
+  {
+   "text": "year",
+   "time": 29.86,
+   "weight": 1.0,
+   "note_time": 31.29
+  },
+  {
+   "text": "A",
+   "time": 30.78,
+   "weight": 0.09,
+   "note_time": 31.71
+  },
+  {
+   "text": "hun",
+   "time": 33.14,
+   "weight": 0.98,
+   "note_time": 32.14
+  },
+  {
+   "text": "dred",
+   "time": 33.45,
+   "weight": 0.98,
+   "note_time": 32.57
+  },
+  {
+   "text": "thou",
+   "time": 33.76,
+   "weight": 0.99,
+   "note_time": 33.43
+  },
+  {
+   "text": "sand",
+   "time": 34.11,
+   "weight": 0.99,
+   "note_time": 34.07
+  },
+  {
+   "text": "lambs",
+   "time": 34.46,
+   "weight": 0.99,
+   "note_time": 34.29
+  },
+  {
+   "text": "was",
+   "time": 35.88,
+   "weight": 0.98,
+   "note_time": 34.5
+  },
+  {
+   "text": "the",
+   "time": 36.14,
+   "weight": 0.99,
+   "note_time": 34.71
+  },
+  {
+   "text": "trib",
+   "time": 36.7,
+   "weight": 0.94,
+   "note_time": 37.29
+  },
+  {
+   "text": "ute",
+   "time": 36.99,
+   "weight": 0.94,
+   "note_time": 37.71
+  },
+  {
+   "text": "And",
+   "time": 37.28,
+   "weight": 0.19,
+   "note_time": 38.57
+  },
+  {
+   "text": "wool",
+   "time": 39.82,
+   "weight": 0.99,
+   "note_time": 39.0
+  },
+  {
+   "text": "from",
+   "time": 40.28,
+   "weight": 1.0,
+   "note_time": 39.21
+  },
+  {
+   "text": "a",
+   "time": 41.1,
+   "weight": 0.99,
+   "note_time": 39.86
+  },
+  {
+   "text": "hun",
+   "time": 41.48,
+   "weight": 1.0,
+   "note_time": 40.29
+  },
+  {
+   "text": "dred",
+   "time": 41.82,
+   "weight": 1.0,
+   "note_time": 40.93
+  },
+  {
+   "text": "thou",
+   "time": 42.16,
+   "weight": 0.99,
+   "note_time": 41.14
+  },
+  {
+   "text": "sand",
+   "time": 42.51,
+   "weight": 0.99,
+   "note_time": 43.71
+  },
+  {
+   "text": "rams",
+   "time": 43.14,
+   "weight": 0.99,
+   "note_time": 44.14
+  },
+  {
+   "text": "But",
+   "time": 44.78,
+   "weight": 0.92,
+   "note_time": 44.57
+  },
+  {
+   "text": "when",
+   "time": 46.1,
+   "weight": 0.99,
+   "note_time": 45.43
+  },
+  {
+   "text": "A",
+   "time": 46.56,
+   "weight": 0.96,
+   "note_time": 46.29
+  },
+  {
+   "text": "hab",
+   "time": 46.91,
+   "weight": 0.96,
+   "note_time": 46.93
+  },
+  {
+   "text": "died",
+   "time": 47.66,
+   "weight": 1.0,
+   "note_time": 47.14
+  },
+  {
+   "text": "the",
+   "time": 48.54,
+   "weight": 0.73,
+   "note_time": 47.79
+  },
+  {
+   "text": "bond",
+   "time": 49.1,
+   "weight": 0.95,
+   "note_time": 48.0
+  },
+  {
+   "text": "was",
+   "time": 49.44,
+   "weight": 1.0,
+   "note_time": 48.43
+  },
+  {
+   "text": "bro",
+   "time": 49.9,
+   "weight": 1.0,
+   "note_time": 50.36
+  },
+  {
+   "text": "ken",
+   "time": 50.17,
+   "weight": 1.0,
+   "note_time": 50.57
+  },
+  {
+   "text": "The",
+   "time": 50.44,
+   "weight": 0.39,
+   "note_time": 51.0
+  },
+  {
+   "text": "king",
+   "time": 52.4,
+   "weight": 0.89,
+   "note_time": 51.43
+  },
+  {
+   "text": "of",
+   "time": 52.64,
+   "weight": 1.0,
+   "note_time": 52.29
+  },
+  {
+   "text": "Moab",
+   "time": 53.12,
+   "weight": 0.86,
+   "note_time": 52.71
+  },
+  {
+   "text": "re",
+   "time": 53.96,
+   "weight": 1.0,
+   "note_time": 53.36
+  },
+  {
+   "text": "belled",
+   "time": 54.31,
+   "weight": 1.0,
+   "note_time": 53.57
+  },
+  {
+   "text": "a",
+   "time": 54.8,
+   "weight": 1.0,
+   "note_time": 54.0
+  },
+  {
+   "text": "gainst",
+   "time": 55.13,
+   "weight": 1.0,
+   "note_time": 54.43
+  },
+  {
+   "text": "Is",
+   "time": 55.46,
+   "weight": 0.96,
+   "note_time": 54.64
+  },
+  {
+   "text": "rael",
+   "time": 55.81,
+   "weight": 0.96,
+   "note_time": 54.86
+  },
+  {
+   "text": "The",
+   "time": 58.06,
+   "weight": 0.46,
+   "note_time": 57.86
+  },
+  {
+   "text": "sheep",
+   "time": 59.46,
+   "weight": 0.86,
+   "note_time": 59.14
+  },
+  {
+   "text": "breed",
+   "time": 60.02,
+   "weight": 0.72,
+   "note_time": 59.57
+  },
+  {
+   "text": "er",
+   "time": 60.37,
+   "weight": 0.72,
+   "note_time": 60.0
+  },
+  {
+   "text": "stopped",
+   "time": 60.98,
+   "weight": 0.88,
+   "note_time": 60.86
+  },
+  {
+   "text": "his",
+   "time": 61.52,
+   "weight": 0.97,
+   "note_time": 61.71
+  },
+  {
+   "text": "pay",
+   "time": 62.5,
+   "weight": 1.0,
+   "note_time": 61.93
+  },
+  {
+   "text": "ment",
+   "time": 62.85,
+   "weight": 1.0,
+   "note_time": 62.14
+  },
+  {
+   "text": "And",
+   "time": 63.88,
+   "weight": 0.48,
+   "note_time": 63.86
+  },
+  {
+   "text": "the",
+   "time": 65.22,
+   "weight": 0.99,
+   "note_time": 64.07
+  },
+  {
+   "text": "sheep",
+   "time": 65.46,
+   "weight": 0.99,
+   "note_time": 64.29
+  },
+  {
+   "text": "breed",
+   "time": 65.84,
+   "weight": 0.99,
+   "note_time": 65.14
+  },
+  {
+   "text": "er",
+   "time": 66.19,
+   "weight": 0.99,
+   "note_time": 65.57
+  },
+  {
+   "text": "re",
+   "time": 67.02,
+   "weight": 0.99,
+   "note_time": 66.43
+  },
+  {
+   "text": "fused",
+   "time": 67.37,
+   "weight": 0.99,
+   "note_time": 66.64
+  },
+  {
+   "text": "the",
+   "time": 67.98,
+   "weight": 0.98,
+   "note_time": 67.5
+  },
+  {
+   "text": "hea",
+   "time": 68.86,
+   "weight": 1.0,
+   "note_time": 67.71
+  },
+  {
+   "text": "vy",
+   "time": 69.06,
+   "weight": 1.0,
+   "note_time": 67.93
+  },
+  {
+   "text": "load",
+   "time": 69.26,
+   "weight": 0.98,
+   "note_time": 68.57
+  },
+  {
+   "text": "The",
+   "time": 74.6,
+   "weight": 0.95,
+   "note_time": 75.0
+  },
+  {
+   "text": "trib",
+   "time": 76.0,
+   "weight": 0.98,
+   "note_time": 75.43
+  },
+  {
+   "text": "ute",
+   "time": 76.35,
+   "weight": 0.98,
+   "note_time": 75.86
+  },
+  {
+   "text": "of",
+   "time": 76.88,
+   "weight": 1.0,
+   "note_time": 76.29
+  },
+  {
+   "text": "lambs",
+   "time": 77.34,
+   "weight": 0.99,
+   "note_time": 76.71
+  },
+  {
+   "text": "was",
+   "time": 78.7,
+   "weight": 0.99,
+   "note_time": 78.0
+  },
+  {
+   "text": "no",
+   "time": 78.94,
+   "weight": 0.99,
+   "note_time": 78.43
+  },
+  {
+   "text": "lon",
+   "time": 79.34,
+   "weight": 1.0,
+   "note_time": 78.86
+  },
+  {
+   "text": "ger",
+   "time": 79.69,
+   "weight": 1.0,
+   "note_time": 79.71
+  },
+  {
+   "text": "paid",
+   "time": 80.52,
+   "weight": 1.0,
+   "note_time": 80.14
+  },
+  {
+   "text": "The",
+   "time": 81.6,
+   "weight": 0.97,
+   "note_time": 81.86
+  },
+  {
+   "text": "wool",
+   "time": 82.58,
+   "weight": 0.99,
+   "note_time": 82.29
+  },
+  {
+   "text": "of",
+   "time": 83.18,
+   "weight": 0.99,
+   "note_time": 83.14
+  },
+  {
+   "text": "the",
+   "time": 84.04,
+   "weight": 1.0,
+   "note_time": 83.57
+  },
+  {
+   "text": "rams",
+   "time": 84.26,
+   "weight": 0.49,
+   "note_time": 83.79
+  },
+  {
+   "text": "stayed",
+   "time": 84.62,
+   "weight": 0.94,
+   "note_time": 84.86
+  },
+  {
+   "text": "in",
+   "time": 84.84,
+   "weight": 0.0,
+   "note_time": 85.07
+  },
+  {
+   "text": "his",
+   "time": 85.05,
+   "weight": 0.0,
+   "note_time": 85.71
+  },
+  {
+   "text": "fold",
+   "time": 85.27,
+   "weight": 0.0,
+   "note_time": 86.57
+  },
+  {
+   "text": "He",
+   "time": 85.48,
+   "weight": 0.16,
+   "note_time": 88.29
+  },
+  {
+   "text": "re",
+   "time": 86.84,
+   "weight": 0.37,
+   "note_time": 88.71
+  },
+  {
+   "text": "belled",
+   "time": 87.19,
+   "weight": 0.37,
+   "note_time": 88.93
+  },
+  {
+   "text": "a",
+   "time": 89.92,
+   "weight": 0.99,
+   "note_time": 89.79
+  },
+  {
+   "text": "gainst",
+   "time": 90.15,
+   "weight": 0.99,
+   "note_time": 90.0
+  },
+  {
+   "text": "the",
+   "time": 90.38,
+   "weight": 0.98,
+   "note_time": 90.43
+  },
+  {
+   "text": "king",
+   "time": 90.8,
+   "weight": 0.57,
+   "note_time": 90.64
+  },
+  {
+   "text": "of",
+   "time": 91.14,
+   "weight": 0.88,
+   "note_time": 91.71
+  },
+  {
+   "text": "Is",
+   "time": 92.16,
+   "weight": 0.91,
+   "note_time": 92.57
+  },
+  {
+   "text": "rael",
+   "time": 92.51,
+   "weight": 0.91,
+   "note_time": 93.0
+  },
+  {
+   "text": "And",
+   "time": 93.2,
+   "weight": 0.16,
+   "note_time": 95.14
+  },
+  {
+   "text": "the",
+   "time": 95.22,
+   "weight": 0.99,
+   "note_time": 95.57
+  },
+  {
+   "text": "sheep",
+   "time": 95.7,
+   "weight": 1.0,
+   "note_time": 96.0
+  },
+  {
+   "text": "breed",
+   "time": 96.34,
+   "weight": 0.31,
+   "note_time": 97.71
+  },
+  {
+   "text": "er",
+   "time": 96.69,
+   "weight": 0.31,
+   "note_time": 98.14
+  },
+  {
+   "text": "held",
+   "time": 98.12,
+   "weight": 0.99,
+   "note_time": 98.36
+  },
+  {
+   "text": "his",
+   "time": 98.5,
+   "weight": 0.95,
+   "note_time": 99.0
+  },
+  {
+   "text": "ground",
+   "time": 99.1,
+   "weight": 0.94,
+   "note_time": 99.43
+  },
+  {
+   "text": "He",
+   "time": 99.66,
+   "weight": 0.26,
+   "note_time": 102.0
+  },
+  {
+   "text": "re",
+   "time": 101.86,
+   "weight": 0.4,
+   "note_time": 102.43
+  },
+  {
+   "text": "belled",
+   "time": 102.21,
+   "weight": 0.4,
+   "note_time": 102.86
+  },
+  {
+   "text": "a",
+   "time": 103.94,
+   "weight": 0.99,
+   "note_time": 104.14
+  },
+  {
+   "text": "gainst",
+   "time": 104.16,
+   "weight": 0.99,
+   "note_time": 104.36
+  },
+  {
+   "text": "the",
+   "time": 104.38,
+   "weight": 0.39,
+   "note_time": 104.57
+  },
+  {
+   "text": "king",
+   "time": 106.22,
+   "weight": 0.7,
+   "note_time": 106.71
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 13 lyric lines sit on their notes."
+}

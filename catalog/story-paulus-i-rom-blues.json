@@ -1,0 +1,47 @@
+{
+  "id": "story-paulus-i-rom-blues",
+  "title": "Kingdom of God",
+  "kind": "story",
+  "anchor": {
+    "story": "paulus-i-rom"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 28,
+      "verseStart": 11,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "paulus",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [
+      "paulus-i-rom"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male deep voice solo with backing choir, acoustic guitar, upright bass, harmonica, electric guitar, organ, mournful and resilient mood, 80 BPM",
+    "lyrics": "[Verse]\nThree months passed on the island shore\nWe put to sea in Alexandria's hold\nTwin Brothers on the bow we saw\nSyracuse and Rhegium on the road\nPuteoli brothers welcomed us home\nSeven days we stayed before we roam\nTo Rome where the Forum of Appius stood\nPaul saw them and thanked God for his blood\n\n[Pre-Chorus]\nHe was allowed to live with his guard\nThree days later the leaders came to the yard\nHe said I did nothing against our fathers\nYet I was handed over to Caesar's doors\n\n[Chorus]\nI am wearing this chain for the hope of Israel\nLaying out the kingdom of God before us\nFrom morning until evening he spoke the truth\nConvincing some while others remained in the booth\n\n[Verse]\nThey had no letters from Judea to show\nNor bad reports from the brothers below\nBut they wanted to hear what he thought of the sect\nSpoken against in every part of the net\nSo they set a day and came in crowds great\nTo his lodging where the light was late\nFrom Moses and Prophets he tried to persuade\nAbout Jesus with truth that they could not fade\n\n[Pre-Chorus]\nSome were convinced by the words he had spoken\nOthers would not believe and the truth was broken\nThey disagreed and began to leave\nWith heated arguments in the heat\n\n[Chorus]\nI am wearing this chain for the hope of Israel\nLaying out the kingdom of God before us\nFrom morning until evening he spoke the truth\nConvincing some while others remained in the booth\n\n[Bridge]\nThe Holy Spirit spoke through Isaiah's pen\nYou will listen and listen but never understand\nHearts have grown dull and eyes are shut tight\nSo they may not see or hear the light\nGod's salvation is sent to the Gentiles now\nAnd they will listen to the voice of the vow\n\n[Outro]\nTwo whole years in his rented place\nProclaiming the kingdom with boldness and grace\nWithout hindrance he taught the Lord\nWith complete boldness until the very end",
+    "cot": "full",
+    "seed": 31154
+  }
+}

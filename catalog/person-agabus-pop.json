@@ -1,0 +1,50 @@
+{
+  "id": "person-agabus-pop",
+  "title": "The Belt and The Famine",
+  "kind": "person",
+  "anchor": {
+    "person": "agabus"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 11,
+      "verseStart": 27,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 44,
+      "chapter": 21,
+      "verseStart": 10,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "agabus",
+      "paulus",
+      "barnabas",
+      "filip-evangelisten"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and reflective, acoustic guitar, piano, cello, soft drums, hopeful and solemn mood, 85 BPM",
+    "lyrics": "[Verse]\nProphets came down to Antioch town\nFrom Jerusalem where the story's known\nOne stood up named Agabus there\nBy the Spirit he made a declaration\n\n[Pre-Chorus]\nA severe famine over the whole world\nIn the days of Claudius it unfurled\n\n[Chorus]\nHe warned of the hunger that would come\nHe warned of the binding to be done\nThe Spirit spoke through the prophet’s voice\nTo show the path of the man’s choice\n\n[Verse]\nDisciples decided to send relief\nEach according to their ability\nTo brothers living in Judea’s land\nBarnabas and Saul carried the plan\n\n[Pre-Chorus]\nThen in Caesarea the days went by\nA prophet came down from Judea nigh\n\n[Chorus]\nHe warned of the hunger that would come\nHe warned of the binding to be done\nThe Spirit spoke through the prophet’s voice\nTo show the path of the man’s choice\n\n[Verse]\nAt Philip’s house he took Paul’s belt\nTied his own hands and feet by the text\nSaid the Jews in Jerusalem would bind\nThe man who owns this belt is signed\n\n[Pre-Chorus]\nThey begged him not to go up there\nBut Paul stood firm in the air\n\n[Chorus]\nHe warned of the hunger that would come\nHe warned of the binding to be done\nThe Spirit spoke through the prophet’s voice\nTo show the path of the man’s choice\n\n[Bridge]\nWhy are you weeping and breaking my heart\nI am ready to be bound apart\nEven to die for the Lord Jesus name\nIn Jerusalem I do not shame\n\n[Outro]\nThe Lord’s will be done we said\nThe belt tied the prophecy ahead",
+    "cot": "full",
+    "seed": 31155
+  }
+}

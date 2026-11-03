@@ -1,0 +1,44 @@
+{
+  "id": "story-sidkia-pakten-om-frihet-og-bruddet-folk",
+  "title": "Liberty to the Sword",
+  "kind": "story",
+  "anchor": {
+    "story": "sidkia-pakten-om-frihet-og-bruddet"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 34,
+      "verseStart": 8,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "sidkia-pakten-om-frihet-og-bruddet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with deep choir, acoustic guitar, cello, drums, percussion, somber and tense mood, 80 BPM",
+    "lyrics": "[Verse]\nThe word came to Jeremiah from the Lord\nAfter Zedekiah made a covenant in the land\nTo proclaim liberty for all the people found\nSet free your Hebrew slaves so none held down\n\n[Verse]\nAll the officials and the people obeyed\nThey set the male and female slaves at bay\nBut afterward they changed their minds and turned\nTook back the freed and forced the laboring burned\n\n[Chorus]\nSo now I proclaim liberty for you\nLiberty to the sword plague and famine too\nI will make you a horror to the earth\nBecause you broke the covenant in your birth\n\n[Verse]\nI made a covenant with your fathers of old\nWhen I brought them out from the house of toil\nAt the end of seven years let them go free\nBut they did not listen to what I said to be\n\n[Chorus]\nSo now I proclaim liberty for you\nLiberty to the sword plague and famine too\nI will make you a horror to the earth\nBecause you broke the covenant in your birth\n\n[Bridge]\nLike the calf they cut in two and walked through\nThe priests and the leaders broke the law and broke the vow\nTheir corpses will be food for birds in the sky\nAnd the beasts of the earth under the eye\n\n[Outro]\nI will bring them back to this city of stone\nTo fight and to capture and to burn their home",
+    "cot": "full",
+    "seed": 31159
+  }
+}

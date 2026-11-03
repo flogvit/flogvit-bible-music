@@ -1,0 +1,47 @@
+{
+  "id": "story-elias-opprykkelse-og-elisjas-doble-del-choral",
+  "title": "A Double Portion",
+  "kind": "story",
+  "anchor": {
+    "story": "elias-opprykkelse-og-elisjas-doble-del"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "den-hellige-and"
+    ],
+    "stories": [
+      "elias-opprykkelse-og-elisjas-doble-del"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, choral, male baritone solo with mixed choir, organ, strings, timpani, harp, solemn and majestic, 72 BPM",
+    "lyrics": "[Verse]\nFrom Gilgal to Bethel we went\nElijah said stay here my friend\nBut I said I will not leave you behind\nAs surely as the LORD lives he is kind\n\n[Verse]\nFrom Bethel to Jericho we go\nThe prophets ask if you know\nThe LORD will take your master away\nI answered yes I know what they say\n\n[Verse]\nFrom Jericho to the Jordan stream\nFifty men watched as we walked in between\nHe rolled up his cloak and struck the water\nThe river divided for us to enter\n\n[Verse]\nAs we crossed he asked what I need\nBefore he is taken by the decree\nI asked for a double portion of your spirit\nHe said if you see it it will be it\n\n[Verse]\nA chariot of fire and horses of flame\nSeparated us in the sky's domain\nI cried out my father where have you gone\nI tore my clothes as I looked on\n\n[Verse]\nI picked up his cloak that fell from him\nAnd stood on the bank of the Jordan rim\nI struck the water with his coat\nWhere is the God of Elijah now\n\n[Verse]\nThe water divided to right and to left\nAnd I crossed over without effort or debt\nThe prophets saw and bowed to the ground\nThe spirit of Elijah is found",
+    "cot": "full",
+    "seed": 31158
+  }
+}

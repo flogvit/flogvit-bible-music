@@ -1,0 +1,43 @@
+{
+  "id": "story-den-lamme-ved-betesda-dammen-hymn",
+  "title": "Pick Up Your Mat",
+  "kind": "story",
+  "anchor": {
+    "story": "den-lamme-ved-betesda-dammen"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "den-lamme-ved-betesda-dammen"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo voice, warm baritone, acoustic guitar, piano, strings, timpani, solemn and reverent, 90 BPM",
+    "lyrics": "[Verse]\nSome time later Jesus went up\nTo Jerusalem for a festival\nBy the Sheep Gate there is a pool\nWhere five colonnades covered\n\n[Verse]\nBlind and lame and paralyzed\nLay in these places waiting\nFor the water to be stirred\nSo they might be healed\n\n[Verse]\nOne man had been an invalid\nFor thirty-eight long years\nJesus saw him lying there\nAnd asked if he wanted well\n\n[Verse]\nHe had no one to help him in\nWhen the water was stirred\nWhile he was on his way\nSomeone else would go down first\n\n[Verse]\nJesus said get up and pick up\nYour mat and begin to walk\nAt once the man was made well\nAnd began to walk away\n\n[Verse]\nThe Jews said it was the Sabbath\nYou are not permitted to carry\nBut the man who made him well\nTold him to pick it up\n\n[Verse]\nThey asked who the man was\nBut he did not know who it was\nJesus had slipped away\nBecause there was a crowd\n\n[Verse]\nLater Jesus found him in the temple\nAnd said see you have been made well\nSin no more or something worse\nMay happen to you\n\n[Outro]\nPick up your mat and walk",
+    "cot": "full",
+    "seed": 31157
+  }
+}

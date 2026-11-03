@@ -1,0 +1,48 @@
+{
+  "id": "story-pakten-i-beer-sjeba-gospel",
+  "title": "Beersheba",
+  "kind": "story",
+  "anchor": {
+    "story": "pakten-i-beer-sjeba"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verseStart": 22,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "guds-hellighet"
+    ],
+    "stories": [
+      "pakten-i-beer-sjeba"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with gospel choir, piano, organ, strings, drums, uplifting and solemn, 90 BPM",
+    "lyrics": "[Verse]\nAbimelech and Phicol came to me\nGod is with you in all your deeds\nSwear to me by God, do not lie\nShow the kindness that you see\n\n[Pre-Chorus]\nI confronted him about the well\nHis servants took it, he denied\nI gave him sheep and cattle too\nAnd a covenant we made anew\n\n[Chorus]\nSeven ewe lambs I set aside\nWitness that I dug this well\nBeersheba, where we swore\nGod’s truth is clear and full\n\n[Verse]\nAbimelech asked what this means\nThese seven lambs from my hand\nAccept them as my witness\nThat I dug the well in the land\n\n[Pre-Chorus]\nThey returned to the Philistine land\nPhicol and the king went away\nI planted a tamarisk tree\nAnd called on the Lord that day\n\n[Chorus]\nSeven ewe lambs I set aside\nWitness that I dug this well\nBeersheba, where we swore\nGod’s truth is clear and full\n\n[Bridge]\nThe Everlasting God is my name\nCalled upon in the land of Canaan\nLived as a foreigner there\nIn His care and His plan\n\n[Chorus]\nSeven ewe lambs I set aside\nWitness that I dug this well\nBeersheba, where we swore\nGod’s truth is clear and full\n\n[Outro]\nBeersheba, the place of oath\nFaithful is God in all truth",
+    "cot": "full",
+    "seed": 31160
+  }
+}

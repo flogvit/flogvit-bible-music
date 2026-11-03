@@ -1,0 +1,57 @@
+{
+  "id": "person-jeberekja-jazz",
+  "title": "Zechariah son of Jeberechiah",
+  "kind": "person",
+  "anchor": {
+    "person": "jeberekja"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 8,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 23,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "jeberekja",
+      "jesaja",
+      "uria-presten",
+      "ahas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, upright bass, brushed drums, upright piano, tenor saxophone, smoky ballad mood, 85 BPM",
+    "lyrics": "[Verse]\nThe LORD spoke the word to me that day\nTake a large tablet and write with care\nWrite with an ordinary stylus\nBelonging to Maher-shalal-hash-baz\n\n[Chorus]\nI took reliable witnesses for myself\nUriah the priest stood there\nZechariah son of Jeberechiah\nHe was there when the truth was told\n\n[Verse]\nBefore the boy knows to say father\nOr knows how to call out mother\nThe wealth of Damascus will go\nSpent and carried away\n\n[Chorus]\nI took reliable witnesses for myself\nUriah the priest stood there\nZechariah son of Jeberechiah\nHe was there when the truth was told\n\n[Bridge]\nThe spoil of Samaria will be gone\nBefore the king of Assyria\nThe name is written on the stone\nThe witness stands in the light\n\n[Chorus]\nI took reliable witnesses for myself\nUriah the priest stood there\nZechariah son of Jeberechiah\nHe was there when the truth was told\n\n[Outro]\nZechariah son of Jeberechiah\nReliable witness for the truth",
+    "cot": "full",
+    "seed": 31156
+  }
+}

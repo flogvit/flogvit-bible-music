@@ -1,0 +1,47 @@
+{
+  "id": "story-paktens-ark-tas-worship",
+  "title": "The Glory Has Departed",
+  "kind": "story",
+  "anchor": {
+    "story": "paktens-ark-tas"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "frelsen",
+      "pakten",
+      "tro"
+    ],
+    "stories": [
+      "paktens-ark-tas"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, somber, acoustic piano, cello, low strings, 70 BPM",
+    "lyrics": "[Verse]\nIsrael marched out to meet the Philistines\nThey camped at Ebenezer in the dust\nThe battle was joined and Israel fell\nFour thousand men struck down on the field\n\n[Verse]\nThe elders asked why the LORD let us fall\nBring the ark from Shiloh to our camp\nIt came with a shout that shook the earth\nThe Philistines feared what they heard in the dark\n\n[Chorus]\nThe glory has departed from Israel\nThe ark of God is captured by the foe\nHophni and Phinehas are no more\nThe mighty shield of our nation is gone\n\n[Verse]\nA man of Benjamin ran to the gate\nHis clothes were torn and dirt on his head\nEli sat by the road with trembling heart\nHe heard the outcry of the city's grief\n\n[Pre-Chorus]\nEli was old and his eyes were dim\nHe asked the messenger what had gone wrong\nThe news of defeat came heavy and hard\nTwo sons are dead and the ark is lost\n\n[Chorus]\nThe glory has departed from Israel\nThe ark of God is captured by the foe\nHophni and Phinehas are no more\nThe mighty shield of our nation is gone\n\n[Bridge]\nHe fell backward off his seat by the gate\nHis neck was broken and he died that day\nHe had led Israel for forty years\nBut now his life was cut short and gone\n\n[Outro]\nHer son was born as her breath was leaving\nShe named him Ichabod in her pain\nThe glory has departed from Israel\nThe ark of God has been captured away",
+    "cot": "full",
+    "seed": 31153
+  }
+}

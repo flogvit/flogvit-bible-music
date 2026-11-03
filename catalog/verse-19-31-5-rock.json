@@ -1,0 +1,43 @@
+{
+  "id": "verse-19-31-5-rock",
+  "title": "Into Your Hand",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 31,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 31,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, electric guitar, bass, drums, keyboard, urgent and hopeful mood, 110 BPM",
+    "lyrics": "[Verse]\nIn your righteousness, deliver me\nTurn your ear to me, come quick\nBe my rock of refuge now\nA fortress that saves my life\n\n[Pre-Chorus]\nYou are my rock and stronghold\nLead me for the sake of your name\n\n[Chorus]\nInto your hand I commit my spirit\nYou have redeemed me, Lord\nGod of truth, I trust in you\nInto your hand I commit my spirit\n\n[Verse]\nFree me from the net they hid\nFor you are my refuge today\nI hate worthless idols' cling\nI put my trust in the Lord\n\n[Chorus]\nInto your hand I commit my spirit\nYou have redeemed me, Lord\nGod of truth, I trust in you\nInto your hand I commit my spirit\n\n[Bridge]\nYou have seen my deep affliction\nKnown the distress of my soul\nNot handed over to the enemy\nYou have set my feet free\n\n[Chorus]\nInto your hand I commit my spirit\nYou have redeemed me, Lord\nGod of truth, I trust in you\nInto your hand I commit my spirit\n\n[Outro]\nYou have set my feet in freedom\nI will rejoice in your mercy",
+    "cot": "full",
+    "seed": 31210
+  }
+}

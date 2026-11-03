@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-42-11-celtic",
+  "title": "Hope In God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 42,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 42,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with ethereal choir, Celtic harp, bodhran, fiddle, flute, atmospheric pads, mournful yet hopeful, 85 BPM",
+    "lyrics": "[Verse]\nDeep calls to deep at the thunder of waterfalls\nAll your breakers and waves have swept over me\nBy day the Lord commands his steadfast love\nAt night his song is with me in prayer\n\n[Chorus]\nWhy are you cast down, my soul\nWhy do you groan within me\nHope in God for I will praise him again\nMy salvation and my God\n\n[Verse]\nI say to God my rock why have you forgotten me\nWhy must I go about in mourning oppressed\nThe enemy presses in with cold and silence\nMy bones feel like a deadly wound\n\n[Chorus]\nWhy are you cast down, my soul\nWhy do you groan within me\nHope in God for I will praise him again\nMy salvation and my God\n\n[Bridge]\nAdversaries taunt me all day long\nThey ask where is your God\nBut the Lord commands his love by day\nHis song remains with me by night\n\n[Chorus]\nWhy are you cast down, my soul\nWhy do you groan within me\nHope in God for I will praise him again\nMy salvation and my God\n\n[Outro]\nHope in God for I will praise him again\nMy salvation and my God",
+    "cot": "full",
+    "seed": 31213
+  }
+}

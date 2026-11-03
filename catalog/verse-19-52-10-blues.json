@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-52-10-blues",
+  "title": "Green Olive Tree",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 52,
+    "verseStart": 10,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 52,
+      "verseStart": 10,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soulful voice, acoustic guitar, upright bass, brushed drums, Hammond organ, melancholic and resilient mood, 85 BPM",
+    "lyrics": "[Verse]\nGod will tear you down forever\nSnatch you from your tent and land\nUprooted from the living ground\nYour strength is built on wicked ways\nTrusted in your great wealth\nRefused to make God your refuge\nThe righteous see and stand in awe\nLaughing at your hollow pride\n\n[Chorus]\nBut I am like a green olive tree\nIn the house of God I stand\nI trust in God's mercy forever\nSteady in his gracious hand\nLike a green olive tree\nIn the house of God I am\n\n[Verse]\nThe man who trusted in his coin\nGrew strong in his own deceit\nBut the righteous watch his fall\nAwe and laughter fill the air\nHe had no refuge in the Lord\nOnly his own wicked might\nNow the tent is torn away\nUp from the land of living\n\n[Chorus]\nBut I am like a green olive tree\nIn the house of God I stand\nI trust in God's mercy forever\nSteady in his gracious hand\nLike a green olive tree\nIn the house of God I am\n\n[Bridge]\nI will praise you forever\nBecause you have acted good\nIn the presence of your faithful\nHope remains in your name\n\n[Outro]\nGreen olive tree in his house\nMercy forever and ever",
+    "cot": "full",
+    "seed": 31217
+  }
+}

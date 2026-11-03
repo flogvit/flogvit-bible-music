@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-57-1-pop",
+  "title": "In the Shadow of Your Wings",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 57,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 57,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frykt",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, emotional female solo voice, piano, acoustic guitar, cello, light percussion, warm and hopeful mood, 75 BPM",
+    "lyrics": "[Verse]\nI fled the king into a hidden cave\nMy heart was heavy with the weight of fear\nI hide myself within this narrow place\nAnd cry out loud for you to draw near\n\n[Pre-Chorus]\nI call to God Most High who rules above\nTo God who fulfills his purpose for me\n\n[Chorus]\nHave mercy on me O God have mercy on me\nFor in you my soul takes refuge\nIn the shadow of your wings I will take refuge\nUntil the destroying storms pass by\n\n[Verse]\nHe sends from heaven and saves me today\nHe rebukes the one who tramples me down\nSteadfast love and faithfulness come my way\nTo protect me in this sacred ground\n\n[Pre-Chorus]\nI call to God Most High who rules above\nTo God who fulfills his purpose for me\n\n[Chorus]\nHave mercy on me O God have mercy on me\nFor in you my soul takes refuge\nIn the shadow of your wings I will take refuge\nUntil the destroying storms pass by\n\n[Bridge]\nMy soul lies down among wild lions\nBreathing out fire and sharp teeth\nBut your arms are wider than their claws\nAnd your voice is strong and sweet\n\n[Chorus]\nHave mercy on me O God have mercy on me\nFor in you my soul takes refuge\nIn the shadow of your wings I will take refuge\nUntil the destroying storms pass by\n\n[Outro]\nUntil the destroying storms pass by\nMy soul is safe beneath your wings",
+    "cot": "full",
+    "seed": 31218
+  }
+}

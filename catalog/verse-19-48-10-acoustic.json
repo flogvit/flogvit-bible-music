@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-48-10-acoustic",
+  "title": "Reaching to the Ends of the Earth",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 48,
+    "verseStart": 10,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 48,
+      "verseStart": 10,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, cello, piano, light percussion, reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nTrembling took hold of them there\nAnguish like a woman in labor\nWith an east wind you shattered the ships\nWe heard it and now we see\n\n[Pre-Chorus]\nIn the city of the Lord of hosts\nIn the city of our God\nHe will establish her forever\nWe have pondered your steadfast love\n\n[Chorus]\nLike your name O God\nSo is your praise\nReaching to the ends of the earth\nYour right hand is filled\nWith righteousness for all\n\n[Verse]\nWhat we had heard we have now seen\nIn the holy place of God\nHe will establish her forever\nWe have pondered your steadfast love\n\n[Pre-Chorus]\nIn the city of the Lord of hosts\nIn the city of our God\nHe will establish her forever\nWe have pondered your steadfast love\n\n[Chorus]\nLike your name O God\nSo is your praise\nReaching to the ends of the earth\nYour right hand is filled\nWith righteousness for all\n\n[Bridge]\nLet Mount Zion rejoice\nLet the daughters of Judah be glad\nBecause of your judgments\nWalk around Zion\nCircle her count her towers\n\n[Chorus]\nLike your name O God\nSo is your praise\nReaching to the ends of the earth\nYour right hand is filled\nWith righteousness for all\n\n[Outro]\nReaching to the ends of the earth\nYour right hand is filled with righteousness",
+    "cot": "full",
+    "seed": 31215
+  }
+}

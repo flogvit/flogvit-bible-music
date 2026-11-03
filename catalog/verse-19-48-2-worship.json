@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-48-2-worship",
+  "title": "Greatly To Be Praised",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 48,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 48,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "love",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir backing, piano, strings, acoustic guitar, drums, majestic and reverent, 80 BPM",
+    "lyrics": "[Verse]\nGreat is the Lord in His holy place\nGreatly to be praised in this holy space\nIn the city of our God He reigns\nHis holy mountain bears the weight of praise\n\n[Pre-Chorus]\nBeautiful in its heights to all the earth\nMount Zion rises with a sacred worth\nOn the far northern slopes the King resides\nIn the city where His glory abides\n\n[Chorus]\nGod is within her citadels strong\nHe has shown himself the fortress song\nHe is the shield and the safe retreat\nWhere the kings of the earth meet in defeat\n\n[Verse]\nLook how the kings have assembled here\nThey advanced together in their fear\nBut the great King holds the city fast\nHis fortress stands against all that lasts\n\n[Chorus]\nGod is within her citadels strong\nHe has shown himself the fortress song\nHe is the shield and the safe retreat\nWhere the kings of the earth meet in defeat\n\n[Bridge]\nJoy of all the earth this mountain brings\nThe city of the great King in its wings\nGreatly praised in the holy ground\nWhere the Lord has made His fortress found\n\n[Outro]\nGreat is the Lord in the city of God\nHis holy mountain is the joy of all abroad",
+    "cot": "full",
+    "seed": 31216
+  }
+}

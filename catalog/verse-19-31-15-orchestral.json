@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-31-15-orchestral",
+  "title": "My times are in your hand",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 31,
+    "verseStart": 15,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 31,
+      "verseStart": 15,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and resilient, solo with soft choir backing, strings, piano, harp, cello, hopeful and reverent, 80 BPM",
+    "lyrics": "[Verse]\nI am forgotten out of mind like the dead\nBroken vessel cast away on the street\nWhispering of many surrounds me in fear\nThey conspire against me and plot to kill\n\n[Chorus]\nBut I trust in you LORD I say you are my God\nMy times are in your hand deliver me now\nSave me from the grip of those who pursue\nLet your face shine upon your servant true\n\n[Verse]\nTerror surrounds me as they plot my end\nI hear the voices of the crowd\nThey speak with pride and arrogance\nAgainst the righteous with contempt\n\n[Chorus]\nBut I trust in you LORD I say you are my God\nMy times are in your hand deliver me now\nSave me from the grip of those who pursue\nLet your face shine upon your servant true\n\n[Bridge]\nLet the wicked be put to shame in the grave\nLet lying lips be struck dumb and silent\nI have called on you let me not be ashamed\nYour mercy is my only shield\n\n[Chorus]\nBut I trust in you LORD I say you are my God\nMy times are in your hand deliver me now\nSave me from the grip of those who pursue\nLet your face shine upon your servant true",
+    "cot": "full",
+    "seed": 31209
+  }
+}

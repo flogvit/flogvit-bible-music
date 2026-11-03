@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-45-2-country",
+  "title": "Grace Upon Your Lips",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 45,
+    "verseStart": 2,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 45,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "lignelsene",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, solo with gentle backing choir, acoustic guitar, soft piano, cello, warm and reverent mood, 75 BPM",
+    "lyrics": "[Verse]\nMy heart stirs with a noble theme\nI recite my verses for the king\nMy tongue is the pen of a skilled scribe\nWriting out what the spirit sings\n\n[Chorus]\nYou are the fairest of men\nGrace is poured upon your lips\nTherefore God has blessed you forever\nYour beauty outshines all others\n\n[Verse]\nStrap your sword to your side\nO mighty one in glory and majesty\nRide out in triumph for truth\nLet righteousness guide your destiny\n\n[Chorus]\nYou are the fairest of men\nGrace is poured upon your lips\nTherefore God has blessed you forever\nYour beauty outshines all others\n\n[Bridge]\nLet your right hand reveal awesome deeds\nIn the cause of truth and humility\nYour majesty rides out in victory\nA skilled scribe’s pen for the king\n\n[Chorus]\nYou are the fairest of men\nGrace is poured upon your lips\nTherefore God has blessed you forever\nYour beauty outshines all others\n\n[Outro]\nGrace is poured upon your lips\nBlessed you forever",
+    "cot": "full",
+    "seed": 31214
+  }
+}

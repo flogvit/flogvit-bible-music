@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-37-5-ballad",
+  "title": "Commit your way to the Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 37,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 37,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, cello, soft strings, 80 BPM",
+    "lyrics": "[Verse]\nLike grass they will soon wither\nFade like the green of new growth\nTrust in the Lord and do good\nDwell in the land with grace\n\n[Verse]\nMake faithfulness your pasture\nDelight in the Lord alone\nHe will give what your heart asks\nWhen you walk in his ways\n\n[Chorus]\nCommit your way to the Lord\nTrust in him and he will act\nBring out your righteousness\nLike the light of day\n\n[Verse]\nBe still before the Lord\nWait patiently for him\nDo not burn with anger\nOver the man who prospers\n\n[Chorus]\nCommit your way to the Lord\nTrust in him and he will act\nBring out your righteousness\nLike the light of day\n\n[Bridge]\nYour justice like the noonday sun\nShining clear and true\nLet go of anger now\nAbandon wrath and fear\n\n[Chorus]\nCommit your way to the Lord\nTrust in him and he will act\nBring out your righteousness\nLike the light of day\n\n[Outro]\nIt leads only to evil\nSo trust in him alone",
+    "cot": "full",
+    "seed": 31212
+  }
+}

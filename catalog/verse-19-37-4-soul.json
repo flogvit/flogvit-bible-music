@@ -5,21 +5,15 @@
   "anchor": {
     "bookId": 19,
     "chapter": 37,
-    "verseStart": 3,
-    "verseEnd": 7
+    "verseStart": 4,
+    "verseEnd": 4
   },
   "references": [
     {
       "bookId": 19,
       "chapter": 37,
-      "verseStart": 3,
-      "verseEnd": 7
-    },
-    {
-      "bookId": 19,
-      "chapter": 37,
-      "verseStart": 1,
-      "verseEnd": 2
+      "verseStart": 4,
+      "verseEnd": 4
     }
   ],
   "tags": {
@@ -28,27 +22,27 @@
     ],
     "sentiment": [
       "comfort",
-      "promise"
+      "praise"
     ],
     "liturgy": [],
     "theme": [
-      "faith"
+      "faith",
+      "holiness"
     ],
     "themes": [
+      "david",
       "tro",
-      "glede"
+      "guds-trofasthet"
     ],
     "stories": [],
-    "persons": [
-      "david"
-    ]
+    "persons": []
   },
   "lyricsMode": "mixed",
   "textSource": "osen",
   "request": {
-    "style": "English, slow soul, smooth male vocal with female backing singers, Rhodes piano, warm bass, muted guitar, soft horns, laid-back drums, patient and calm, 78 BPM",
-    "lyrics": "[Verse]\nI see the man whose way prospers, every scheme he makes goes right\nAnd the anger starts to burn in me and keeps me up at night\nBut the psalm is singing softly, do not burn and do not fret\nDwell in the land and do what's good, his word will hold you yet\n\n[Chorus]\nTake your delight in the LORD\nAnd he will give you what your heart asks\nCommit your way to the LORD\nTrust in him, and he will act\nBe still before the LORD and wait patiently for him\n\n[Verse]\nLike the morning breaking slowly over hills of grey and blue\nHe will bring your righteousness to light and let it shine for you\nLike the noonday sun your justice will be plain for all to see\nSo I lay my worry down and let him walk ahead of me\n\n[Chorus]\nTake your delight in the LORD\nAnd he will give you what your heart asks\nCommit your way to the LORD\nTrust in him, and he will act\nBe still before the LORD and wait patiently for him\n\n[Bridge]\nTrust in the LORD and do good\nDwell in the land and make faithfulness your pasture\nBe still, be still\nWait patiently for him\n\n[Outro]\nTake your delight in the LORD\nTrust in him, and he will act",
+    "style": "English, female soul voice, warm and intimate, solo with gospel choir backing, electric piano, upright bass, acoustic guitar, light percussion, gentle and hopeful mood, 72 BPM",
+    "lyrics": "[Verse]\nDo not burn with anger over evildoers\nDo not envy those who do wrong\nLike grass they will soon wither and fade\nLike the green of new growth gone\n\n[Chorus]\nTake your delight in the LORD\nAnd he will give you what your heart asks\nTake your delight in the LORD\nTrust in him and rest in his ways\n\n[Verse]\nTrust in the LORD and do good\nDwell in the land and make faithfulness your pasture\nCommit your way to the LORD\nAnd trust in him, he will act\n\n[Chorus]\nTake your delight in the LORD\nAnd he will give you what your heart asks\nTake your delight in the LORD\nTrust in him and rest in his ways\n\n[Bridge]\nHe will bring out your righteousness like the light\nAnd your justice like the noonday sun\nBe still before the LORD and wait patiently\nDo not burn with anger over the one whose way prospers\n\n[Outro]\nTake your delight in the LORD\nHe will act",
     "cot": "full",
-    "seed": 20065
+    "seed": 31211
   }
 }

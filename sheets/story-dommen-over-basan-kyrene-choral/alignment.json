@@ -1,0 +1,692 @@
+{
+ "id": "story-dommen-over-basan-kyrene-choral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-dommen-over-basan-kyrene-choral",
+ "offset_seconds": -1.5000000000002238,
+ "words_heard": 75,
+ "words": 80,
+ "lines": [
+  {
+   "text": "Hear this word, you cows of Bashan",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Living on Mount Samaria",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You oppress the poor and crush the needy",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Saying, Bring us something to drink",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Lord GOD has sworn by his holiness",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Days are coming upon you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will be carried off with hooks",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The last of you with fishhooks",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will go out through breaches in the wall",
+   "heard": 6,
+   "words": 9,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Each woman straight ahead of her",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will be cast out toward Harmon",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Declares the LORD, the end is near",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Hear",
+   "time": 14.34,
+   "weight": 0.41,
+   "note_time": 14.37
+  },
+  {
+   "text": "this",
+   "time": 15.74,
+   "weight": 0.98,
+   "note_time": 15.21
+  },
+  {
+   "text": "word,",
+   "time": 16.3,
+   "weight": 0.81,
+   "note_time": 16.06
+  },
+  {
+   "text": "you",
+   "time": 17.3,
+   "weight": 0.97,
+   "note_time": 16.27
+  },
+  {
+   "text": "cows",
+   "time": 17.64,
+   "weight": 0.93,
+   "note_time": 16.9
+  },
+  {
+   "text": "of",
+   "time": 18.48,
+   "weight": 1.0,
+   "note_time": 17.75
+  },
+  {
+   "text": "Bas",
+   "time": 19.32,
+   "weight": 0.98,
+   "note_time": 18.17
+  },
+  {
+   "text": "han",
+   "time": 19.67,
+   "weight": 0.98,
+   "note_time": 18.59
+  },
+  {
+   "text": "Liv",
+   "time": 20.14,
+   "weight": 0.27,
+   "note_time": 21.13
+  },
+  {
+   "text": "ing",
+   "time": 20.49,
+   "weight": 0.27,
+   "note_time": 21.55
+  },
+  {
+   "text": "on",
+   "time": 22.72,
+   "weight": 1.0,
+   "note_time": 22.82
+  },
+  {
+   "text": "Mount",
+   "time": 23.6,
+   "weight": 0.87,
+   "note_time": 23.24
+  },
+  {
+   "text": "Samaria",
+   "time": 24.44,
+   "weight": 0.39,
+   "note_time": 23.66
+  },
+  {
+   "text": "You",
+   "time": 26.48,
+   "weight": 0.16,
+   "note_time": 27.89
+  },
+  {
+   "text": "op",
+   "time": 29.2,
+   "weight": 0.42,
+   "note_time": 28.73
+  },
+  {
+   "text": "press",
+   "time": 29.55,
+   "weight": 0.42,
+   "note_time": 29.58
+  },
+  {
+   "text": "the",
+   "time": 30.08,
+   "weight": 1.0,
+   "note_time": 29.79
+  },
+  {
+   "text": "poor",
+   "time": 31.08,
+   "weight": 1.0,
+   "note_time": 31.06
+  },
+  {
+   "text": "and",
+   "time": 31.98,
+   "weight": 0.92,
+   "note_time": 31.27
+  },
+  {
+   "text": "crush",
+   "time": 32.56,
+   "weight": 0.99,
+   "note_time": 31.9
+  },
+  {
+   "text": "the",
+   "time": 32.8,
+   "weight": 1.0,
+   "note_time": 32.11
+  },
+  {
+   "text": "nee",
+   "time": 33.38,
+   "weight": 1.0,
+   "note_time": 32.32
+  },
+  {
+   "text": "dy",
+   "time": 33.73,
+   "weight": 1.0,
+   "note_time": 32.54
+  },
+  {
+   "text": "Say",
+   "time": 34.38,
+   "weight": 0.29,
+   "note_time": 34.65
+  },
+  {
+   "text": "ing,",
+   "time": 34.73,
+   "weight": 0.29,
+   "note_time": 35.07
+  },
+  {
+   "text": "Bring",
+   "time": 36.6,
+   "weight": 0.68,
+   "note_time": 35.49
+  },
+  {
+   "text": "us",
+   "time": 37.12,
+   "weight": 1.0,
+   "note_time": 36.34
+  },
+  {
+   "text": "some",
+   "time": 38.1,
+   "weight": 1.0,
+   "note_time": 37.61
+  },
+  {
+   "text": "thing",
+   "time": 38.45,
+   "weight": 1.0,
+   "note_time": 38.03
+  },
+  {
+   "text": "to",
+   "time": 39.24,
+   "weight": 1.0,
+   "note_time": 38.66
+  },
+  {
+   "text": "drink",
+   "time": 40.12,
+   "weight": 0.85,
+   "note_time": 38.87
+  },
+  {
+   "text": "The",
+   "time": 52.18,
+   "weight": 0.61,
+   "note_time": 52.18
+  },
+  {
+   "text": "Lord",
+   "time": 53.58,
+   "weight": 0.98,
+   "note_time": 53.66
+  },
+  {
+   "text": "GOD",
+   "time": 54.1,
+   "weight": 0.94,
+   "note_time": 54.08
+  },
+  {
+   "text": "has",
+   "time": 54.67,
+   "weight": 0.0,
+   "note_time": 54.93
+  },
+  {
+   "text": "sworn",
+   "time": 55.24,
+   "weight": 0.77,
+   "note_time": 55.35
+  },
+  {
+   "text": "by",
+   "time": 55.68,
+   "weight": 0.96,
+   "note_time": 55.77
+  },
+  {
+   "text": "his",
+   "time": 56.42,
+   "weight": 0.74,
+   "note_time": 56.62
+  },
+  {
+   "text": "ho",
+   "time": 56.88,
+   "weight": 0.36,
+   "note_time": 56.83
+  },
+  {
+   "text": "li",
+   "time": 57.23,
+   "weight": 0.36,
+   "note_time": 57.04
+  },
+  {
+   "text": "ness",
+   "time": 57.58,
+   "weight": 0.36,
+   "note_time": 57.46
+  },
+  {
+   "text": "Days",
+   "time": 60.06,
+   "weight": 0.77,
+   "note_time": 60.0
+  },
+  {
+   "text": "are",
+   "time": 61.46,
+   "weight": 1.0,
+   "note_time": 60.85
+  },
+  {
+   "text": "com",
+   "time": 61.94,
+   "weight": 1.0,
+   "note_time": 61.69
+  },
+  {
+   "text": "ing",
+   "time": 62.29,
+   "weight": 1.0,
+   "note_time": 61.9
+  },
+  {
+   "text": "up",
+   "time": 62.84,
+   "weight": 0.39,
+   "note_time": 62.54
+  },
+  {
+   "text": "on",
+   "time": 63.19,
+   "weight": 0.39,
+   "note_time": 63.17
+  },
+  {
+   "text": "you",
+   "time": 64.6,
+   "weight": 0.91,
+   "note_time": 63.38
+  },
+  {
+   "text": "You",
+   "time": 65.78,
+   "weight": 0.13,
+   "note_time": 66.34
+  },
+  {
+   "text": "will",
+   "time": 67.74,
+   "weight": 0.95,
+   "note_time": 67.18
+  },
+  {
+   "text": "be",
+   "time": 68.2,
+   "weight": 0.96,
+   "note_time": 67.61
+  },
+  {
+   "text": "car",
+   "time": 68.62,
+   "weight": 0.81,
+   "note_time": 68.45
+  },
+  {
+   "text": "ried",
+   "time": 68.94,
+   "weight": 0.81,
+   "note_time": 68.66
+  },
+  {
+   "text": "off",
+   "time": 69.26,
+   "weight": 0.39,
+   "note_time": 69.3
+  },
+  {
+   "text": "with",
+   "time": 70.96,
+   "weight": 0.99,
+   "note_time": 70.14
+  },
+  {
+   "text": "hooks",
+   "time": 71.72,
+   "weight": 0.77,
+   "note_time": 70.35
+  },
+  {
+   "text": "The",
+   "time": 72.62,
+   "weight": 0.67,
+   "note_time": 72.46
+  },
+  {
+   "text": "last",
+   "time": 74.0,
+   "weight": 0.99,
+   "note_time": 73.73
+  },
+  {
+   "text": "of",
+   "time": 74.48,
+   "weight": 1.0,
+   "note_time": 73.94
+  },
+  {
+   "text": "you",
+   "time": 75.18,
+   "weight": 1.0,
+   "note_time": 74.37
+  },
+  {
+   "text": "with",
+   "time": 75.96,
+   "weight": 0.94,
+   "note_time": 75.21
+  },
+  {
+   "text": "fish",
+   "time": 76.76,
+   "weight": 0.27,
+   "note_time": 75.63
+  },
+  {
+   "text": "hooks",
+   "time": 77.11,
+   "weight": 0.27,
+   "note_time": 76.06
+  },
+  {
+   "text": "You",
+   "time": 83.86,
+   "weight": 0.89,
+   "note_time": 83.66
+  },
+  {
+   "text": "will",
+   "time": 85.26,
+   "weight": 0.99,
+   "note_time": 84.51
+  },
+  {
+   "text": "go",
+   "time": 85.84,
+   "weight": 0.0,
+   "note_time": 85.35
+  },
+  {
+   "text": "out",
+   "time": 86.42,
+   "weight": 0.0,
+   "note_time": 85.77
+  },
+  {
+   "text": "through",
+   "time": 87.0,
+   "weight": 0.98,
+   "note_time": 86.2
+  },
+  {
+   "text": "breach",
+   "time": 87.36,
+   "weight": 0.95,
+   "note_time": 86.62
+  },
+  {
+   "text": "es",
+   "time": 87.65,
+   "weight": 0.95,
+   "note_time": 87.04
+  },
+  {
+   "text": "in",
+   "time": 87.94,
+   "weight": 0.98,
+   "note_time": 87.46
+  },
+  {
+   "text": "the",
+   "time": 88.64,
+   "weight": 1.0,
+   "note_time": 87.68
+  },
+  {
+   "text": "wall",
+   "time": 89.05,
+   "weight": 0.0,
+   "note_time": 87.89
+  },
+  {
+   "text": "Each",
+   "time": 89.46,
+   "weight": 0.3,
+   "note_time": 90.0
+  },
+  {
+   "text": "wom",
+   "time": 91.44,
+   "weight": 0.94,
+   "note_time": 90.85
+  },
+  {
+   "text": "an",
+   "time": 91.77,
+   "weight": 0.94,
+   "note_time": 91.27
+  },
+  {
+   "text": "straight",
+   "time": 92.1,
+   "weight": 0.85,
+   "note_time": 92.11
+  },
+  {
+   "text": "a",
+   "time": 92.72,
+   "weight": 0.98,
+   "note_time": 92.32
+  },
+  {
+   "text": "head",
+   "time": 93.07,
+   "weight": 0.98,
+   "note_time": 92.96
+  },
+  {
+   "text": "of",
+   "time": 94.16,
+   "weight": 1.0,
+   "note_time": 93.8
+  },
+  {
+   "text": "her",
+   "time": 95.48,
+   "weight": 0.95,
+   "note_time": 94.01
+  },
+  {
+   "text": "You",
+   "time": 97.08,
+   "weight": 0.7,
+   "note_time": 96.76
+  },
+  {
+   "text": "will",
+   "time": 98.26,
+   "weight": 0.99,
+   "note_time": 98.03
+  },
+  {
+   "text": "be",
+   "time": 98.74,
+   "weight": 1.0,
+   "note_time": 98.66
+  },
+  {
+   "text": "cast",
+   "time": 99.1,
+   "weight": 1.0,
+   "note_time": 98.87
+  },
+  {
+   "text": "out",
+   "time": 99.76,
+   "weight": 1.0,
+   "note_time": 99.3
+  },
+  {
+   "text": "toward",
+   "time": 100.36,
+   "weight": 0.0,
+   "note_time": 99.51
+  },
+  {
+   "text": "Har",
+   "time": 100.96,
+   "weight": 0.44,
+   "note_time": 99.72
+  },
+  {
+   "text": "mon",
+   "time": 101.31,
+   "weight": 0.44,
+   "note_time": 100.35
+  },
+  {
+   "text": "De",
+   "time": 102.92,
+   "weight": 0.36,
+   "note_time": 102.68
+  },
+  {
+   "text": "clares",
+   "time": 103.27,
+   "weight": 0.36,
+   "note_time": 103.1
+  },
+  {
+   "text": "the",
+   "time": 104.96,
+   "weight": 1.0,
+   "note_time": 104.37
+  },
+  {
+   "text": "LORD,",
+   "time": 105.84,
+   "weight": 0.99,
+   "note_time": 104.79
+  },
+  {
+   "text": "the",
+   "time": 107.98,
+   "weight": 0.61,
+   "note_time": 107.75
+  },
+  {
+   "text": "end",
+   "time": 109.38,
+   "weight": 0.99,
+   "note_time": 108.17
+  },
+  {
+   "text": "is",
+   "time": 109.8,
+   "weight": 1.0,
+   "note_time": 109.01
+  },
+  {
+   "text": "near",
+   "time": 110.7,
+   "weight": 1.0,
+   "note_time": 109.86
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 12 lyric lines sit on their notes."
+}

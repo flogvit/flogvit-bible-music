@@ -1,0 +1,47 @@
+{
+  "id": "story-de-tre-krigerne-og-betlehem-vannet-worship",
+  "title": "Blood of the Mighty Men",
+  "kind": "story",
+  "anchor": {
+    "story": "de-tre-krigerne-og-betlehem-vannet"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 23,
+      "verseStart": 13,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [
+      "de-tre-krigerne-og-betlehem-vannet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone solo with backing choir, acoustic guitar, piano, strings, cello, solemn and reverent, 70 BPM",
+    "lyrics": "[Verse]\nThe Philistines held the gate strong\nDavid waited in the cave deep\nThree chief men heard the longing song\nAnd rose while the harvest was ripe\n\n[Chorus]\nPour it out to the Lord above\nIt is blood of the men who died\nDo not drink from this cup of love\nFor their lives are the price paid\n\n[Verse]\nThey broke through the enemy camp\nAnd drew water from the well\nThe risk was great and the danger damp\nBut they carried it back to tell\n\n[Chorus]\nPour it out to the Lord above\nIt is blood of the men who died\nDo not drink from this cup of love\nFor their lives are the price paid\n\n[Bridge]\nFar be it from me to take\nThis sacrifice of their blood\nThe mighty men went at the risk\nAnd gave their lives to God\n\n[Outro]\nSuch were the exploits of the three\nRefusing to drink the water\nHonor the risk of the men for me\nAnd keep the holy order",
+    "cot": "full",
+    "seed": 31185
+  }
+}

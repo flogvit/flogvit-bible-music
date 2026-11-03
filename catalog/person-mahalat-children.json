@@ -1,0 +1,42 @@
+{
+  "id": "person-mahalat-children",
+  "title": "Daughter of Jerimoth",
+  "kind": "person",
+  "anchor": {
+    "person": "mahalat"
+  },
+  "references": [
+    {
+      "bookId": 14,
+      "chapter": 11,
+      "verseStart": 18,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "mahalat",
+      "rehabeam"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with choir, harp, flute, piano, soft drums, gentle and majestic mood, 90 BPM",
+    "lyrics": "[Verse]\nKing Rehoboam took a wife\nHer name was Mahalath the light\nShe came from David's house\nDaughter of Jerimoth\n\n[Chorus]\nDaughter of Jerimoth\nBlood of the ancient king\nMother of sons three\nHear the story she brings\n\n[Verse]\nHer mother was Abihail\nDaughter of Eliab\nFrom Jesse's line she came\nWalking in an ancient way\n\n[Chorus]\nDaughter of Jerimoth\nBlood of the ancient king\nMother of sons three\nHear the story she brings\n\n[Bridge]\nShe bore him Jeush first\nShemariah and Zaham\nNames recorded in the book\nSons of her and of the king\n\n[Outro]\nMahalath the wife\nDaughter of Jerimoth\nThe history of her sons\nKept in the royal scroll",
+    "cot": "full",
+    "seed": 31179
+  }
+}

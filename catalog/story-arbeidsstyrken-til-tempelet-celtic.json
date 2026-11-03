@@ -1,0 +1,45 @@
+{
+  "id": "story-arbeidsstyrken-til-tempelet-celtic",
+  "title": "Thousand in Shifts",
+  "kind": "story",
+  "anchor": {
+    "story": "arbeidsstyrken-til-tempelet"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 5,
+      "verseStart": 27,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [
+      "arbeidsstyrken-til-tempelet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo baritone voice, harp, bodhran, Celtic fiddle, flute, ambient pads, solemn and majestic mood, 85 BPM",
+    "lyrics": "[Verse]\nSolomon conscripted laborers from all Israel\nThirty thousand men in all counted the roll\nSent to Lebanon in shifts of ten thousand\nOne month away two months at home in the soil\n\n[Chorus]\nAdoniram was in charge of the forced labor\nSupervising the work with a heavy hand\nSeventy thousand carrying loads on the mountain\nEighty thousand quarrying stone in the land\n\n[Verse]\nThree thousand three hundred foremen stood in charge\nOverseeing the project and the workers below\nAt the king's command they quarried huge blocks\nCostly dressed stone for the foundation of God's house\n\n[Chorus]\nAdoniram was in charge of the forced labor\nSupervising the work with a heavy hand\nSeventy thousand carrying loads on the mountain\nEighty thousand quarrying stone in the land\n\n[Bridge]\nSolomon's builders and Hiram's men joined together\nWith the men of Gebal cutting and shaping the stone\nPreparing the timber for the temple of the Lord\nBuilding the house as the king commanded to show\n\n[Outro]\nCut and shaped them for the temple's glory\nPrepared the stone for the Lord's holy ground",
+    "cot": "full",
+    "seed": 31182
+  }
+}

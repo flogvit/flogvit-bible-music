@@ -1,0 +1,46 @@
+{
+  "id": "story-konfliktlosning-i-menigheten-acoustic",
+  "title": "Gathered in My Name",
+  "kind": "story",
+  "anchor": {
+    "story": "konfliktlosning-i-menigheten"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 18,
+      "verseStart": 15,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "menigheten",
+      "tilgivelse",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "konfliktlosning-i-menigheten"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, soft cello, gentle percussion, hopeful and steady mood, 80 BPM",
+    "lyrics": "[Verse]\nIf your brother sins against you\nGo and confront him privately\nJust the two of you alone\nIf he listens to your voice\nYou have won your brother back\n\n[Chorus]\nWhere two or three are gathered\nIn my name they find me\nI am there among them\nTruly I tell you\n\n[Verse]\nBut if he will not listen\nTake one or two others\nLet the matter be established\nBy the testimony of witnesses\nIf he still refuses to hear\nTell it to the church\n\n[Chorus]\nWhere two or three are gathered\nIn my name they find me\nI am there among them\nTruly I tell you\n\n[Bridge]\nWhatever you bind on earth\nWill be bound in heaven\nWhatever you loose on earth\nWill be loosed in heaven\n\n[Chorus]\nWhere two or three are gathered\nIn my name they find me\nI am there among them\nTruly I tell you",
+    "cot": "full",
+    "seed": 31184
+  }
+}

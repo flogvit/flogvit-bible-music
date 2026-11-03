@@ -1,0 +1,42 @@
+{
+  "id": "story-joakas-regjering-og-fengsling-jazz",
+  "title": "Three Months in Jerusalem",
+  "kind": "story",
+  "anchor": {
+    "story": "joakas-regjering-og-fengsling"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 23,
+      "verseStart": 31,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience"
+    ],
+    "themes": [],
+    "stories": [
+      "joakas-regjering-og-fengsling"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smoky female jazz voice, upright bass, brushed drums, piano, saxophone, melancholic, 85 BPM",
+    "lyrics": "[Verse]\nHe was twenty-three when he took the throne\nHis mother Hamutal from Libnah was known\nThree short months in Jerusalem he stayed\nEvil in the Lord's sight was the way\n\n[Chorus]\nPharaoh Neco came to take his place\nRiblah became his prison and his race\nA hundred talents of silver and gold\nThe heavy weight of the tribute told\n\n[Verse]\nHe could not reign in Jerusalem's gate\nImprisoned in the land of Hamath state\nHis brother Eliakim rose to the crown\nJehoiakim was the name he received now\n\n[Chorus]\nPharaoh Neco came to take his place\nRiblah became his prison and his race\nA hundred talents of silver and gold\nThe heavy weight of the tribute told\n\n[Bridge]\nTo Egypt he was taken by force\nAnd there in the distance he found his course\nJehoahaz died far from his home\nIn the shadow of the pharaoh's throne\n\n[Chorus]\nPharaoh Neco came to take his place\nRiblah became his prison and his race\nA hundred talents of silver and gold\nThe heavy weight of the tribute told\n\n[Outro]\nThree months of rule and then the end\nA king displaced by a foreign friend",
+    "cot": "full",
+    "seed": 31188
+  }
+}

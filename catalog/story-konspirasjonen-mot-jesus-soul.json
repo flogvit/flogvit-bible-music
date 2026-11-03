@@ -1,0 +1,48 @@
+{
+  "id": "story-konspirasjonen-mot-jesus-soul",
+  "title": "One Man Die For The People",
+  "kind": "story",
+  "anchor": {
+    "story": "konspirasjonen-mot-jesus"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 11,
+      "verseStart": 47,
+      "verseEnd": 53
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen",
+      "pakten"
+    ],
+    "stories": [
+      "konspirasjonen-mot-jesus"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with backing choir, piano, strings, bass, drums, gospel, reflective, 80 BPM",
+    "lyrics": "[Verse]\nThe chief priests met with the Pharisees\nThey sat in council and asked with care\nWhat are we doing, they questioned deep\nThis man performs many signs, they said\nIf he keeps on like this, they feared\nEveryone will believe in him\nThe Romans will come to take away\nBoth our place and our nation\n\n[Chorus]\nIt is better that one man die\nFor the people than the whole nation perish\nOne man die for the people\nSave us from the end of days\n\n[Verse]\nOne of them named Caiaphas spoke\nHe was high priest that very year\nYou know nothing at all, he said\nYou do not realize the truth\nIt is better that one man die\nFor the people than the whole nation perish\nHe did not say this on his own\nBut being high priest he prophesied\n\n[Chorus]\nIt is better that one man die\nFor the people than the whole nation perish\nOne man die for the people\nSave us from the end of days\n\n[Bridge]\nJesus was going to die for the nation\nAnd not for the nation only\nBut to gather into one\nThe scattered children of God\n\n[Chorus]\nIt is better that one man die\nFor the people than the whole nation perish\nOne man die for the people\nSave us from the end of days\n\n[Outro]\nFrom that day on they plotted\nTo put him to death",
+    "cot": "full",
+    "seed": 31180
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "story-profeti-om-duma-og-arabia-ballad",
+  "title": "What is left of the night",
+  "kind": "story",
+  "anchor": {
+    "story": "profeti-om-duma-og-arabia"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 21,
+      "verseStart": 11,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "profeti-om-duma-og-arabia"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, solo with soft choir, acoustic guitar, piano, cello, strings, mournful and reflective, 80 BPM",
+    "lyrics": "[Verse]\nSomeone calls out from Seir\nWatchman how far has the night gone?\nHe answers morning is coming\nBut night remains on the horizon\n\n[Chorus]\nWhat is left of the night\nIf you must ask then ask\nCome back again to seek\nWhat is left of the night\n\n[Verse]\nCaravans of Dedan stop\nCamp in the thickets of Arabia\nPeople of Tema bring water\nMeet the fugitives with bread\n\n[Chorus]\nWhat is left of the night\nIf you must ask then ask\nCome back again to seek\nWhat is left of the night\n\n[Verse]\nThey flee from the drawn sword\nFrom the bent bow and battle\nThe Lord says in one year\nThe splendor of Kedar ends\n\n[Chorus]\nWhat is left of the night\nIf you must ask then ask\nCome back again to seek\nWhat is left of the night\n\n[Bridge]\nThe remnant of the bowmen\nWarriors of Kedar will be few\nThe God of Israel has spoken\nHis word stands firm and true\n\n[Outro]\nWhat is left of the night\nCome back again to seek",
+    "cot": "full",
+    "seed": 31181
+  }
+}

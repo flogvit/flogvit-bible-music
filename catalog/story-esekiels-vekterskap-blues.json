@@ -1,0 +1,41 @@
+{
+  "id": "story-esekiels-vekterskap-blues",
+  "title": "Watchman for the House",
+  "kind": "story",
+  "anchor": {
+    "story": "esekiels-vekterskap"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "esekiels-vekterskap"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gravelly male solo voice, electric guitar, upright bass, piano, Hammond organ, drums, solemn and urgent, 80 BPM",
+    "lyrics": "[Verse]\nSon of man I speak to you\nI made you a watchman true\nFor the house of Israel now\nHear my word and let it show\n\n[Verse]\nTo the wicked I have said\nYou will surely die instead\nIf you stay silent in the dark\nHis blood is on your mark\n\n[Chorus]\nWarn them now before they fall\nSpeak the word to stand them tall\nIf they refuse to turn away\nTheir guilt remains for always\n\n[Verse]\nIf you warn and they do not change\nThe wicked path is their range\nThey die in guilt before your eyes\nBut you have saved your life\n\n[Chorus]\nWarn them now before they fall\nSpeak the word to stand them tall\nIf they refuse to turn away\nTheir guilt remains for always\n\n[Bridge]\nEven righteous may turn aside\nPlace a stumbling block to hide\nIf you fail to warn the just\nTheir good deeds are turned to dust\n\n[Outro]\nWarn the righteous not to sin\nHe lives because he did listen\nYou have saved your own life",
+    "cot": "full",
+    "seed": 31186
+  }
+}

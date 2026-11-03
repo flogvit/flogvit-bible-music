@@ -1,0 +1,42 @@
+{
+  "id": "story-diskusjon-om-renselse-country",
+  "title": "He Must Increase",
+  "kind": "story",
+  "anchor": {
+    "story": "diskusjon-om-renselse"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verseStart": 25,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [
+      "diskusjon-om-renselse"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with warm choir backing, acoustic guitar, upright bass, fiddle, piano, soft percussion, humble and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nA dispute arose between the disciples\nAnd a Jew about cleansing and law\nThey came to John to ask\nWho is this one across the Jordan now\nBearing witness but now baptized\nEveryone is going to him instead\n\n[Chorus]\nNo one can receive anything\nUnless it has been given from heaven above\nI am not the Christ I said clearly\nBut I have been sent ahead of him\n\n[Verse]\nThe one who has the bride is the bridegroom\nThe friend stands and listens for his voice\nRejoicing greatly at the sound\nThis is my joy and it is complete\n\n[Chorus]\nNo one can receive anything\nUnless it has been given from heaven above\nI am not the Christ I said clearly\nBut I have been sent ahead of him\n\n[Bridge]\nHe must increase\nI must decrease\nHe must increase\nI must decrease\n\n[Chorus]\nNo one can receive anything\nUnless it has been given from heaven above\nI am not the Christ I said clearly\nBut I have been sent ahead of him\n\n[Outro]\nHe must increase\nI must decrease",
+    "cot": "full",
+    "seed": 31183
+  }
+}

@@ -1,0 +1,1488 @@
+{
+ "id": "story-forseglingen-og-tidsangivelsene-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-forseglingen-og-tidsangivelsene-acoustic",
+ "offset_seconds": -2.6800000000001987,
+ "words_heard": 164,
+ "words": 167,
+ "lines": [
+  {
+   "text": "By the river I saw two men stand",
+   "heard": 8,
+   "words": 8,
+   "error_s": 3.25,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "One on this bank, one on the other side",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "One asked the man in linen",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.44,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "How long until the wonders end",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.61,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A time, times, and half a time",
+   "heard": 6,
+   "words": 7,
+   "error_s": 1.41,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Till the holy people's power breaks",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The words are closed and sealed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Until the time of the end",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I heard but did not understand",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.38,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "My lord, what will be the outcome?",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He said go your way, Daniel",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The book is sealed until the end",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A time, times, and half a time",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.56,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Till the holy people's power breaks",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The words are closed and sealed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Until the time of the end",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.25,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Many shall be purified and white",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Refined by the fire of truth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The wicked shall act wickedly",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "None of them will understand",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the daily sacrifice taken away",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The abomination that causes desolation",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "One thousand two hundred and ninety days",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed is he who waits to the end",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Go your way until the end",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.96,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will rest and rise to your lot",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "By",
+   "time": 32.66,
+   "weight": 0.15,
+   "note_time": 27.63
+  },
+  {
+   "text": "the",
+   "time": 32.66,
+   "weight": 0.98,
+   "note_time": 28.03
+  },
+  {
+   "text": "riv",
+   "time": 32.66,
+   "weight": 0.98,
+   "note_time": 28.42
+  },
+  {
+   "text": "er",
+   "time": 32.66,
+   "weight": 0.98,
+   "note_time": 28.62
+  },
+  {
+   "text": "I",
+   "time": 32.66,
+   "weight": 0.99,
+   "note_time": 29.21
+  },
+  {
+   "text": "saw",
+   "time": 32.66,
+   "weight": 0.99,
+   "note_time": 29.61
+  },
+  {
+   "text": "two",
+   "time": 32.66,
+   "weight": 0.99,
+   "note_time": 30.39
+  },
+  {
+   "text": "men",
+   "time": 32.66,
+   "weight": 0.99,
+   "note_time": 30.79
+  },
+  {
+   "text": "stand",
+   "time": 32.66,
+   "weight": 0.99,
+   "note_time": 31.58
+  },
+  {
+   "text": "One",
+   "time": 33.9,
+   "weight": 0.15,
+   "note_time": 33.55
+  },
+  {
+   "text": "on",
+   "time": 35.04,
+   "weight": 0.89,
+   "note_time": 34.34
+  },
+  {
+   "text": "this",
+   "time": 36.06,
+   "weight": 0.96,
+   "note_time": 34.74
+  },
+  {
+   "text": "bank,",
+   "time": 36.5,
+   "weight": 0.96,
+   "note_time": 35.33
+  },
+  {
+   "text": "one",
+   "time": 37.22,
+   "weight": 0.97,
+   "note_time": 35.53
+  },
+  {
+   "text": "on",
+   "time": 37.48,
+   "weight": 1.0,
+   "note_time": 36.12
+  },
+  {
+   "text": "the",
+   "time": 37.76,
+   "weight": 0.99,
+   "note_time": 36.32
+  },
+  {
+   "text": "oth",
+   "time": 38.18,
+   "weight": 1.0,
+   "note_time": 36.71
+  },
+  {
+   "text": "er",
+   "time": 38.4,
+   "weight": 1.0,
+   "note_time": 37.11
+  },
+  {
+   "text": "side",
+   "time": 38.62,
+   "weight": 0.95,
+   "note_time": 37.5
+  },
+  {
+   "text": "One",
+   "time": 39.66,
+   "weight": 0.33,
+   "note_time": 39.87
+  },
+  {
+   "text": "asked",
+   "time": 42.0,
+   "weight": 0.64,
+   "note_time": 40.26
+  },
+  {
+   "text": "the",
+   "time": 42.56,
+   "weight": 0.98,
+   "note_time": 40.66
+  },
+  {
+   "text": "man",
+   "time": 42.72,
+   "weight": 0.64,
+   "note_time": 41.05
+  },
+  {
+   "text": "in",
+   "time": 43.28,
+   "weight": 0.99,
+   "note_time": 42.24
+  },
+  {
+   "text": "li",
+   "time": 44.48,
+   "weight": 0.99,
+   "note_time": 43.42
+  },
+  {
+   "text": "nen",
+   "time": 44.83,
+   "weight": 0.99,
+   "note_time": 43.62
+  },
+  {
+   "text": "How",
+   "time": 45.52,
+   "weight": 0.29,
+   "note_time": 45.39
+  },
+  {
+   "text": "long",
+   "time": 47.1,
+   "weight": 1.0,
+   "note_time": 45.79
+  },
+  {
+   "text": "un",
+   "time": 47.96,
+   "weight": 0.94,
+   "note_time": 46.18
+  },
+  {
+   "text": "til",
+   "time": 48.25,
+   "weight": 0.94,
+   "note_time": 46.58
+  },
+  {
+   "text": "the",
+   "time": 48.54,
+   "weight": 0.99,
+   "note_time": 47.17
+  },
+  {
+   "text": "won",
+   "time": 49.22,
+   "weight": 0.56,
+   "note_time": 47.37
+  },
+  {
+   "text": "ders",
+   "time": 49.57,
+   "weight": 0.56,
+   "note_time": 47.96
+  },
+  {
+   "text": "end",
+   "time": 50.0,
+   "weight": 1.0,
+   "note_time": 48.55
+  },
+  {
+   "text": "A",
+   "time": 52.25,
+   "weight": 0.0,
+   "note_time": 53.49
+  },
+  {
+   "text": "time,",
+   "time": 54.5,
+   "weight": 0.77,
+   "note_time": 53.68
+  },
+  {
+   "text": "times,",
+   "time": 56.06,
+   "weight": 0.83,
+   "note_time": 54.87
+  },
+  {
+   "text": "and",
+   "time": 56.9,
+   "weight": 0.77,
+   "note_time": 55.66
+  },
+  {
+   "text": "half",
+   "time": 57.64,
+   "weight": 0.99,
+   "note_time": 56.05
+  },
+  {
+   "text": "a",
+   "time": 58.14,
+   "weight": 0.65,
+   "note_time": 56.45
+  },
+  {
+   "text": "time",
+   "time": 58.4,
+   "weight": 0.99,
+   "note_time": 56.64
+  },
+  {
+   "text": "Till",
+   "time": 58.8,
+   "weight": 0.06,
+   "note_time": 59.21
+  },
+  {
+   "text": "the",
+   "time": 61.04,
+   "weight": 0.99,
+   "note_time": 59.61
+  },
+  {
+   "text": "ho",
+   "time": 61.54,
+   "weight": 0.8,
+   "note_time": 60.0
+  },
+  {
+   "text": "ly",
+   "time": 61.79,
+   "weight": 0.8,
+   "note_time": 60.39
+  },
+  {
+   "text": "peo",
+   "time": 62.04,
+   "weight": 0.94,
+   "note_time": 60.79
+  },
+  {
+   "text": "ple's",
+   "time": 62.39,
+   "weight": 0.94,
+   "note_time": 61.18
+  },
+  {
+   "text": "pow",
+   "time": 63.36,
+   "weight": 0.99,
+   "note_time": 61.58
+  },
+  {
+   "text": "er",
+   "time": 63.48,
+   "weight": 0.99,
+   "note_time": 62.37
+  },
+  {
+   "text": "breaks",
+   "time": 63.6,
+   "weight": 0.95,
+   "note_time": 62.76
+  },
+  {
+   "text": "The",
+   "time": 64.78,
+   "weight": 0.33,
+   "note_time": 65.13
+  },
+  {
+   "text": "words",
+   "time": 66.38,
+   "weight": 0.95,
+   "note_time": 65.33
+  },
+  {
+   "text": "are",
+   "time": 67.52,
+   "weight": 1.0,
+   "note_time": 65.92
+  },
+  {
+   "text": "closed",
+   "time": 67.88,
+   "weight": 0.99,
+   "note_time": 66.32
+  },
+  {
+   "text": "and",
+   "time": 68.66,
+   "weight": 0.99,
+   "note_time": 67.5
+  },
+  {
+   "text": "sealed",
+   "time": 69.52,
+   "weight": 0.99,
+   "note_time": 68.68
+  },
+  {
+   "text": "Un",
+   "time": 72.14,
+   "weight": 0.91,
+   "note_time": 71.45
+  },
+  {
+   "text": "til",
+   "time": 72.49,
+   "weight": 0.91,
+   "note_time": 72.43
+  },
+  {
+   "text": "the",
+   "time": 73.54,
+   "weight": 1.0,
+   "note_time": 72.63
+  },
+  {
+   "text": "time",
+   "time": 74.28,
+   "weight": 0.99,
+   "note_time": 72.83
+  },
+  {
+   "text": "of",
+   "time": 75.0,
+   "weight": 0.27,
+   "note_time": 73.03
+  },
+  {
+   "text": "the",
+   "time": 76.72,
+   "weight": 0.4,
+   "note_time": 78.55
+  },
+  {
+   "text": "end",
+   "time": 80.36,
+   "weight": 0.99,
+   "note_time": 78.75
+  },
+  {
+   "text": "I",
+   "time": 86.44,
+   "weight": 0.55,
+   "note_time": 85.66
+  },
+  {
+   "text": "heard",
+   "time": 87.36,
+   "weight": 0.86,
+   "note_time": 86.05
+  },
+  {
+   "text": "but",
+   "time": 87.94,
+   "weight": 0.83,
+   "note_time": 86.64
+  },
+  {
+   "text": "did",
+   "time": 88.38,
+   "weight": 0.99,
+   "note_time": 86.84
+  },
+  {
+   "text": "not",
+   "time": 88.68,
+   "weight": 1.0,
+   "note_time": 87.24
+  },
+  {
+   "text": "un",
+   "time": 89.04,
+   "weight": 1.0,
+   "note_time": 87.43
+  },
+  {
+   "text": "der",
+   "time": 89.38,
+   "weight": 1.0,
+   "note_time": 87.83
+  },
+  {
+   "text": "stand",
+   "time": 89.72,
+   "weight": 1.0,
+   "note_time": 88.42
+  },
+  {
+   "text": "My",
+   "time": 92.06,
+   "weight": 0.54,
+   "note_time": 91.18
+  },
+  {
+   "text": "lord,",
+   "time": 92.98,
+   "weight": 0.83,
+   "note_time": 91.58
+  },
+  {
+   "text": "what",
+   "time": 93.68,
+   "weight": 0.99,
+   "note_time": 92.37
+  },
+  {
+   "text": "will",
+   "time": 94.08,
+   "weight": 1.0,
+   "note_time": 92.76
+  },
+  {
+   "text": "be",
+   "time": 94.42,
+   "weight": 1.0,
+   "note_time": 93.16
+  },
+  {
+   "text": "the",
+   "time": 94.96,
+   "weight": 0.99,
+   "note_time": 93.55
+  },
+  {
+   "text": "out",
+   "time": 95.26,
+   "weight": 1.0,
+   "note_time": 93.75
+  },
+  {
+   "text": "come?",
+   "time": 95.61,
+   "weight": 1.0,
+   "note_time": 94.34
+  },
+  {
+   "text": "He",
+   "time": 98.22,
+   "weight": 0.99,
+   "note_time": 97.11
+  },
+  {
+   "text": "said",
+   "time": 98.68,
+   "weight": 1.0,
+   "note_time": 97.89
+  },
+  {
+   "text": "go",
+   "time": 99.22,
+   "weight": 0.67,
+   "note_time": 99.08
+  },
+  {
+   "text": "your",
+   "time": 99.54,
+   "weight": 0.99,
+   "note_time": 99.87
+  },
+  {
+   "text": "way,",
+   "time": 100.66,
+   "weight": 1.0,
+   "note_time": 100.66
+  },
+  {
+   "text": "Da",
+   "time": 101.88,
+   "weight": 1.0,
+   "note_time": 100.86
+  },
+  {
+   "text": "niel",
+   "time": 102.23,
+   "weight": 1.0,
+   "note_time": 101.05
+  },
+  {
+   "text": "The",
+   "time": 103.88,
+   "weight": 0.9,
+   "note_time": 103.22
+  },
+  {
+   "text": "book",
+   "time": 104.8,
+   "weight": 0.99,
+   "note_time": 103.62
+  },
+  {
+   "text": "is",
+   "time": 105.18,
+   "weight": 1.0,
+   "note_time": 104.21
+  },
+  {
+   "text": "sealed",
+   "time": 105.4,
+   "weight": 1.0,
+   "note_time": 104.41
+  },
+  {
+   "text": "un",
+   "time": 110.12,
+   "weight": 0.15,
+   "note_time": 104.61
+  },
+  {
+   "text": "til",
+   "time": 110.47,
+   "weight": 0.15,
+   "note_time": 109.74
+  },
+  {
+   "text": "the",
+   "time": 111.24,
+   "weight": 0.93,
+   "note_time": 110.13
+  },
+  {
+   "text": "end",
+   "time": 111.68,
+   "weight": 0.89,
+   "note_time": 110.33
+  },
+  {
+   "text": "A",
+   "time": 114.76,
+   "weight": 0.0,
+   "note_time": 116.84
+  },
+  {
+   "text": "time,",
+   "time": 117.84,
+   "weight": 0.96,
+   "note_time": 118.03
+  },
+  {
+   "text": "times,",
+   "time": 118.98,
+   "weight": 0.56,
+   "note_time": 118.82
+  },
+  {
+   "text": "and",
+   "time": 119.54,
+   "weight": 0.78,
+   "note_time": 119.21
+  },
+  {
+   "text": "half",
+   "time": 120.4,
+   "weight": 0.99,
+   "note_time": 119.61
+  },
+  {
+   "text": "a",
+   "time": 120.88,
+   "weight": 0.7,
+   "note_time": 119.8
+  },
+  {
+   "text": "time",
+   "time": 121.16,
+   "weight": 0.79,
+   "note_time": 120.0
+  },
+  {
+   "text": "Till",
+   "time": 121.64,
+   "weight": 0.21,
+   "note_time": 122.37
+  },
+  {
+   "text": "the",
+   "time": 123.86,
+   "weight": 1.0,
+   "note_time": 123.16
+  },
+  {
+   "text": "ho",
+   "time": 124.26,
+   "weight": 0.9,
+   "note_time": 123.55
+  },
+  {
+   "text": "ly",
+   "time": 124.52,
+   "weight": 0.9,
+   "note_time": 123.95
+  },
+  {
+   "text": "peo",
+   "time": 124.78,
+   "weight": 0.95,
+   "note_time": 124.34
+  },
+  {
+   "text": "ple's",
+   "time": 125.13,
+   "weight": 0.95,
+   "note_time": 124.74
+  },
+  {
+   "text": "pow",
+   "time": 126.08,
+   "weight": 0.99,
+   "note_time": 125.53
+  },
+  {
+   "text": "er",
+   "time": 126.19,
+   "weight": 0.99,
+   "note_time": 125.72
+  },
+  {
+   "text": "breaks",
+   "time": 126.3,
+   "weight": 1.0,
+   "note_time": 125.92
+  },
+  {
+   "text": "The",
+   "time": 128.28,
+   "weight": 0.98,
+   "note_time": 128.29
+  },
+  {
+   "text": "words",
+   "time": 129.76,
+   "weight": 0.98,
+   "note_time": 128.49
+  },
+  {
+   "text": "are",
+   "time": 130.24,
+   "weight": 1.0,
+   "note_time": 129.08
+  },
+  {
+   "text": "closed",
+   "time": 130.6,
+   "weight": 0.99,
+   "note_time": 129.47
+  },
+  {
+   "text": "and",
+   "time": 131.02,
+   "weight": 0.99,
+   "note_time": 130.66
+  },
+  {
+   "text": "sealed",
+   "time": 132.24,
+   "weight": 1.0,
+   "note_time": 131.84
+  },
+  {
+   "text": "Un",
+   "time": 133.38,
+   "weight": 0.06,
+   "note_time": 134.61
+  },
+  {
+   "text": "til",
+   "time": 133.73,
+   "weight": 0.06,
+   "note_time": 135.0
+  },
+  {
+   "text": "the",
+   "time": 135.9,
+   "weight": 0.98,
+   "note_time": 135.59
+  },
+  {
+   "text": "time",
+   "time": 137.04,
+   "weight": 0.96,
+   "note_time": 135.79
+  },
+  {
+   "text": "of",
+   "time": 137.76,
+   "weight": 0.29,
+   "note_time": 135.99
+  },
+  {
+   "text": "the",
+   "time": 139.62,
+   "weight": 0.4,
+   "note_time": 136.18
+  },
+  {
+   "text": "end",
+   "time": 143.08,
+   "weight": 0.99,
+   "note_time": 141.71
+  },
+  {
+   "text": "Ma",
+   "time": 149.08,
+   "weight": 0.67,
+   "note_time": 149.21
+  },
+  {
+   "text": "ny",
+   "time": 149.43,
+   "weight": 0.67,
+   "note_time": 149.41
+  },
+  {
+   "text": "shall",
+   "time": 150.48,
+   "weight": 1.0,
+   "note_time": 149.61
+  },
+  {
+   "text": "be",
+   "time": 150.9,
+   "weight": 1.0,
+   "note_time": 149.8
+  },
+  {
+   "text": "pu",
+   "time": 151.18,
+   "weight": 1.0,
+   "note_time": 150.0
+  },
+  {
+   "text": "ri",
+   "time": 151.42,
+   "weight": 1.0,
+   "note_time": 150.39
+  },
+  {
+   "text": "fied",
+   "time": 151.66,
+   "weight": 1.0,
+   "note_time": 150.59
+  },
+  {
+   "text": "and",
+   "time": 151.9,
+   "weight": 0.98,
+   "note_time": 151.18
+  },
+  {
+   "text": "white",
+   "time": 152.62,
+   "weight": 0.91,
+   "note_time": 151.58
+  },
+  {
+   "text": "Re",
+   "time": 155.64,
+   "weight": 0.91,
+   "note_time": 155.33
+  },
+  {
+   "text": "fined",
+   "time": 155.99,
+   "weight": 0.91,
+   "note_time": 155.92
+  },
+  {
+   "text": "by",
+   "time": 157.04,
+   "weight": 1.0,
+   "note_time": 156.91
+  },
+  {
+   "text": "the",
+   "time": 157.26,
+   "weight": 1.0,
+   "note_time": 157.11
+  },
+  {
+   "text": "fire",
+   "time": 157.32,
+   "weight": 0.99,
+   "note_time": 157.5
+  },
+  {
+   "text": "of",
+   "time": 157.72,
+   "weight": 1.0,
+   "note_time": 157.7
+  },
+  {
+   "text": "truth",
+   "time": 158.46,
+   "weight": 1.0,
+   "note_time": 157.89
+  },
+  {
+   "text": "The",
+   "time": 161.42,
+   "weight": 0.27,
+   "note_time": 161.64
+  },
+  {
+   "text": "wic",
+   "time": 162.82,
+   "weight": 0.99,
+   "note_time": 161.84
+  },
+  {
+   "text": "ked",
+   "time": 163.03,
+   "weight": 0.99,
+   "note_time": 162.04
+  },
+  {
+   "text": "shall",
+   "time": 163.24,
+   "weight": 0.99,
+   "note_time": 162.43
+  },
+  {
+   "text": "act",
+   "time": 163.66,
+   "weight": 0.98,
+   "note_time": 163.03
+  },
+  {
+   "text": "wic",
+   "time": 164.48,
+   "weight": 1.0,
+   "note_time": 163.82
+  },
+  {
+   "text": "ked",
+   "time": 164.83,
+   "weight": 1.0,
+   "note_time": 164.01
+  },
+  {
+   "text": "ly",
+   "time": 165.18,
+   "weight": 1.0,
+   "note_time": 164.21
+  },
+  {
+   "text": "None",
+   "time": 167.86,
+   "weight": 0.48,
+   "note_time": 168.16
+  },
+  {
+   "text": "of",
+   "time": 169.26,
+   "weight": 1.0,
+   "note_time": 169.34
+  },
+  {
+   "text": "them",
+   "time": 169.58,
+   "weight": 1.0,
+   "note_time": 169.54
+  },
+  {
+   "text": "will",
+   "time": 170.04,
+   "weight": 0.99,
+   "note_time": 170.13
+  },
+  {
+   "text": "un",
+   "time": 170.5,
+   "weight": 1.0,
+   "note_time": 170.53
+  },
+  {
+   "text": "der",
+   "time": 170.85,
+   "weight": 1.0,
+   "note_time": 170.72
+  },
+  {
+   "text": "stand",
+   "time": 171.2,
+   "weight": 1.0,
+   "note_time": 170.92
+  },
+  {
+   "text": "From",
+   "time": 173.8,
+   "weight": 0.97,
+   "note_time": 174.08
+  },
+  {
+   "text": "the",
+   "time": 175.2,
+   "weight": 1.0,
+   "note_time": 174.28
+  },
+  {
+   "text": "dai",
+   "time": 175.4,
+   "weight": 1.0,
+   "note_time": 174.47
+  },
+  {
+   "text": "ly",
+   "time": 175.63,
+   "weight": 1.0,
+   "note_time": 174.87
+  },
+  {
+   "text": "sac",
+   "time": 175.86,
+   "weight": 0.99,
+   "note_time": 175.07
+  },
+  {
+   "text": "ri",
+   "time": 176.1,
+   "weight": 0.99,
+   "note_time": 175.46
+  },
+  {
+   "text": "fice",
+   "time": 176.34,
+   "weight": 0.99,
+   "note_time": 175.66
+  },
+  {
+   "text": "tak",
+   "time": 176.58,
+   "weight": 0.93,
+   "note_time": 176.05
+  },
+  {
+   "text": "en",
+   "time": 176.92,
+   "weight": 0.93,
+   "note_time": 176.25
+  },
+  {
+   "text": "a",
+   "time": 177.26,
+   "weight": 1.0,
+   "note_time": 176.45
+  },
+  {
+   "text": "way",
+   "time": 177.53,
+   "weight": 1.0,
+   "note_time": 176.64
+  },
+  {
+   "text": "The",
+   "time": 177.8,
+   "weight": 0.39,
+   "note_time": 179.21
+  },
+  {
+   "text": "a",
+   "time": 180.32,
+   "weight": 1.0,
+   "note_time": 179.41
+  },
+  {
+   "text": "bo",
+   "time": 180.47,
+   "weight": 1.0,
+   "note_time": 179.61
+  },
+  {
+   "text": "mi",
+   "time": 180.62,
+   "weight": 1.0,
+   "note_time": 179.8
+  },
+  {
+   "text": "na",
+   "time": 180.76,
+   "weight": 1.0,
+   "note_time": 180.0
+  },
+  {
+   "text": "tion",
+   "time": 180.91,
+   "weight": 1.0,
+   "note_time": 180.39
+  },
+  {
+   "text": "that",
+   "time": 181.06,
+   "weight": 0.34,
+   "note_time": 182.17
+  },
+  {
+   "text": "caus",
+   "time": 183.28,
+   "weight": 1.0,
+   "note_time": 182.37
+  },
+  {
+   "text": "es",
+   "time": 183.45,
+   "weight": 1.0,
+   "note_time": 182.57
+  },
+  {
+   "text": "des",
+   "time": 183.62,
+   "weight": 1.0,
+   "note_time": 182.76
+  },
+  {
+   "text": "o",
+   "time": 183.89,
+   "weight": 1.0,
+   "note_time": 182.96
+  },
+  {
+   "text": "la",
+   "time": 184.16,
+   "weight": 1.0,
+   "note_time": 183.16
+  },
+  {
+   "text": "tion",
+   "time": 184.43,
+   "weight": 1.0,
+   "note_time": 183.55
+  },
+  {
+   "text": "One",
+   "time": 184.7,
+   "weight": 0.06,
+   "note_time": 185.92
+  },
+  {
+   "text": "thou",
+   "time": 186.98,
+   "weight": 0.95,
+   "note_time": 186.32
+  },
+  {
+   "text": "sand",
+   "time": 187.33,
+   "weight": 0.95,
+   "note_time": 186.71
+  },
+  {
+   "text": "two",
+   "time": 187.72,
+   "weight": 0.74,
+   "note_time": 187.11
+  },
+  {
+   "text": "hun",
+   "time": 188.18,
+   "weight": 0.99,
+   "note_time": 187.5
+  },
+  {
+   "text": "dred",
+   "time": 188.53,
+   "weight": 0.99,
+   "note_time": 188.09
+  },
+  {
+   "text": "and",
+   "time": 188.88,
+   "weight": 0.94,
+   "note_time": 188.29
+  },
+  {
+   "text": "nine",
+   "time": 189.4,
+   "weight": 1.0,
+   "note_time": 188.68
+  },
+  {
+   "text": "ty",
+   "time": 189.71,
+   "weight": 1.0,
+   "note_time": 189.08
+  },
+  {
+   "text": "days",
+   "time": 190.02,
+   "weight": 0.99,
+   "note_time": 189.28
+  },
+  {
+   "text": "Blessed",
+   "time": 191.28,
+   "weight": 0.36,
+   "note_time": 191.84
+  },
+  {
+   "text": "is",
+   "time": 192.94,
+   "weight": 0.99,
+   "note_time": 192.04
+  },
+  {
+   "text": "he",
+   "time": 193.32,
+   "weight": 0.43,
+   "note_time": 192.24
+  },
+  {
+   "text": "who",
+   "time": 193.54,
+   "weight": 0.33,
+   "note_time": 192.43
+  },
+  {
+   "text": "waits",
+   "time": 196.4,
+   "weight": 1.0,
+   "note_time": 195.79
+  },
+  {
+   "text": "to",
+   "time": 197.04,
+   "weight": 0.36,
+   "note_time": 198.16
+  },
+  {
+   "text": "the",
+   "time": 199.1,
+   "weight": 1.0,
+   "note_time": 198.55
+  },
+  {
+   "text": "end",
+   "time": 199.52,
+   "weight": 1.0,
+   "note_time": 198.75
+  },
+  {
+   "text": "Go",
+   "time": 206.22,
+   "weight": 0.66,
+   "note_time": 205.26
+  },
+  {
+   "text": "your",
+   "time": 207.62,
+   "weight": 0.41,
+   "note_time": 208.03
+  },
+  {
+   "text": "way",
+   "time": 209.02,
+   "weight": 0.15,
+   "note_time": 211.58
+  },
+  {
+   "text": "un",
+   "time": 210.12,
+   "weight": 0.2,
+   "note_time": 211.78
+  },
+  {
+   "text": "til",
+   "time": 210.47,
+   "weight": 0.2,
+   "note_time": 213.95
+  },
+  {
+   "text": "the",
+   "time": 212.5,
+   "weight": 0.39,
+   "note_time": 214.34
+  },
+  {
+   "text": "end",
+   "time": 214.38,
+   "weight": 0.32,
+   "note_time": 214.54
+  },
+  {
+   "text": "You",
+   "time": 217.92,
+   "weight": 0.82,
+   "note_time": 217.89
+  },
+  {
+   "text": "will",
+   "time": 219.32,
+   "weight": 0.98,
+   "note_time": 219.87
+  },
+  {
+   "text": "rest",
+   "time": 220.72,
+   "weight": 0.93,
+   "note_time": 220.66
+  },
+  {
+   "text": "and",
+   "time": 221.72,
+   "weight": 0.92,
+   "note_time": 221.45
+  },
+  {
+   "text": "rise",
+   "time": 222.4,
+   "weight": 1.0,
+   "note_time": 222.24
+  },
+  {
+   "text": "to",
+   "time": 223.32,
+   "weight": 0.31,
+   "note_time": 226.58
+  },
+  {
+   "text": "your",
+   "time": 227.38,
+   "weight": 0.91,
+   "note_time": 226.97
+  },
+  {
+   "text": "lot",
+   "time": 227.78,
+   "weight": 0.0,
+   "note_time": 227.17
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "17 of 26 lyric lines sit clearly on their notes; 9 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "story-daniel-synet-om-vaeren-og-geitebukken-ballad",
+  "title": "2,300 Evenings and Mornings",
+  "kind": "story",
+  "anchor": {
+    "story": "daniel-synet-om-vaeren-og-geitebukken"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "dapen",
+      "endetiden",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "daniel-synet-om-vaeren-og-geitebukken"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female mezzo-soprano solo with ethereal choir, harp, piano, cello, strings, ambient pads, somber and mysterious, 75 BPM",
+    "lyrics": "[Verse]\nBeside the Ulai Canal I stood\nA ram with two long horns appeared\nOne horn was higher than the rest\nIt charged west, north, and south\nNo animal could stand against its power\nIt did as it pleased and grew great\n\n[Pre-Chorus]\nThen a male goat came from the west\nCrossing the earth without touching ground\nA conspicuous horn between its eyes\nIt rushed at the ram in furious power\n\n[Chorus]\nThe large horn is broken off\nFour horns grow toward the four winds of heaven\nOut of one comes a small horn\nGrowing exceedingly great toward the south\n\n[Verse]\nIt reaches the host of heaven\nThrowing stars down to the earth to be trampled\nIt sets itself up against the Prince\nTaking away the daily sacrifice\n\n[Pre-Chorus]\nTruth is flung to the ground\nWhatever it does, it prospered\nI heard a holy one speaking\nAsking how long this desolation will last\n\n[Chorus]\nThe large horn is broken off\nFour horns grow toward the four winds of heaven\nOut of one comes a small horn\nGrowing exceedingly great toward the south\n\n[Verse]\nGabriel explains the vision to me\nThe ram represents Media and Persia\nThe goat is the king of Greece\nThe large horn is the first king\n\n[Pre-Chorus]\nFour kingdoms will arise from his nation\nBut they will not have his power\nA fierce-looking king will arise\nA master of intrigue and cunning\n\n[Chorus]\nThe large horn is broken off\nFour horns grow toward the four winds of heaven\nOut of one comes a small horn\nGrowing exceedingly great toward the south\n\n[Bridge]\nHe will destroy the mighty and the holy people\nThrough his cunning, deceit will prosper\nHe will exalt himself in his heart\nBut he will be broken, not by human hand\n\n[Outro]\nIt will take 2,300 evenings and mornings\nThen the sanctuary will be restored to its rightful state",
+    "cot": "full",
+    "seed": 31149
+  }
+}

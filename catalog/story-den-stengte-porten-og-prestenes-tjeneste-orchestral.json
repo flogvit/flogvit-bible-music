@@ -1,0 +1,48 @@
+{
+  "id": "story-den-stengte-porten-og-prestenes-tjeneste-orchestral",
+  "title": "I Am Their Possession",
+  "kind": "story",
+  "anchor": {
+    "story": "den-stengte-porten-og-prestenes-tjeneste"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 44,
+      "verseStart": 1,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [
+      "den-stengte-porten-og-prestenes-tjeneste"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone with warm choir, harp, piano, cello, french horn, ethereal mood, 80 BPM",
+    "lyrics": "[Verse]\nThe outer gate facing east is shut tight\nThe Lord has entered and left it sealed\nNo one shall walk through that narrow door\nOnly the prince may sit in the room\nHe enters by the vestibule way\nAnd eats the bread before the Lord\n\n[Chorus]\nI am their possession, their inheritance\nNo land in Israel is given to them\nThe best of the firstfruits are theirs\nA blessing rests on the house of Israel\n\n[Verse]\nGlory filled the house and I fell down\nMark well the statutes with your eyes\nEnough of abominations, house of Israel\nForeigners entered and profaned the house\nYou broke the covenant with blood and fat\nLevites who strayed bear their guilt\nThey serve as guards at the temple gates\nSlaughtering offerings to serve the people\n\n[Chorus]\nI am their possession, their inheritance\nNo land in Israel is given to them\nThe best of the firstfruits are theirs\nA blessing rests on the house of Israel\n\n[Bridge]\nBut the sons of Zadok kept the charge\nThey come near to offer fat and blood\nWearing linen garments in the inner court\nNo wool upon them while they minister\nThey teach the difference holy and common\nJudging disputes by my ordinances\n\n[Outro]\nI am their possession, I am their inheritance",
+    "cot": "full",
+    "seed": 31145
+  }
+}

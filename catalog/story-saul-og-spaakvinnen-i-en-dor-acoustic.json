@@ -1,0 +1,42 @@
+{
+  "id": "story-saul-og-spaakvinnen-i-en-dor-acoustic",
+  "title": "Torn Out of Your Hand",
+  "kind": "story",
+  "anchor": {
+    "story": "saul-og-spaakvinnen-i-en-dor"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 28,
+      "verseStart": 3,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "saul-og-spaakvinnen-i-en-dor"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, haunting and somber, acoustic guitar, cello, piano, 70 BPM, minor key",
+    "lyrics": "[Verse]\nSamuel is dead and buried in Ramah\nAll Israel mourned his passing away\nSaul had driven mediums out of the land\nBut fear now gripped his trembling heart\nPhilistines camped at Shunem in sight\nIsrael waited at Gilboa that night\nHe inquired of the LORD for a sign\nBut no answer came through dream or line\nNot by Urim nor by prophets' call\nSilence held him in the empty hall\n\n[Chorus]\nWhy have you disturbed me by bringing me up\nThe LORD has turned away and become your enemy\nHe has torn the kingdom out of your hand\nAnd given it to David your neighbor today\n\n[Verse]\nSaul disguised himself in other clothes\nTook two men to the woman at night\nAsked her to consult a spirit for him\nShe asked who he would want to find\nBring up Samuel he whispered low\nShe cried out in a sudden flow\nWhy have you deceived me she exclaimed\nI see you clearly you are Saul\nAn old man wrapped in a robe is coming\nRising up from the ground so lonely\nSaul bowed his face to the dusty ground\nTrembling before the prophet found\n\n[Chorus]\nWhy have you disturbed me by bringing me up\nThe LORD has turned away and become your enemy\nHe has torn the kingdom out of your hand\nAnd given it to David your neighbor today\n\n[Bridge]\nBecause you did not obey the voice of the LORD\nAnd failed his burning anger against Amalek\nThe LORD will hand both you and Israel over\nTo the Philistines in the dark\nTomorrow you and your sons will be with me\nAnd the army will fall in defeat\n\n[Outro]\nSaul fell full length on the ground in fear\nHis strength was gone and his spirit broke\nThey ate and left in the dark of the night\nWith no hope left in the sight",
+    "cot": "full",
+    "seed": 31152
+  }
+}

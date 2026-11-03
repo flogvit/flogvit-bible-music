@@ -1,0 +1,44 @@
+{
+  "id": "story-josef-og-potifars-hustru-country",
+  "title": "Steadfast Love",
+  "kind": "story",
+  "anchor": {
+    "story": "josef-og-potifars-hustru"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 39,
+      "verseStart": 1,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [
+      "josef-og-potifars-hustru"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male baritone solo, acoustic guitar, banjo, fiddle, piano, upright bass, reflective and hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nJoseph was taken down to Egypt land\nPotiphar bought him from the Ishmaelites\nThe Lord was with him and he prospered\nHis master saw the favor of the Lord\n\n[Verse]\nHe put Joseph in charge of the house\nAnd entrusted all his wealth to care\nThe Lord blessed the field and the home\nAnd Joseph was handsome and well built\n\n[Pre-Chorus]\nAfter some time his master’s wife\nTook notice of him and spoke\nCome to bed with me she said\nBut he refused her with a voice\n\n[Chorus]\nHow could I do such a great evil\nAnd sin against God in this place\nThe Lord was with him in the prison\nAnd showed him steadfast love\n\n[Verse]\nDay after day she kept at him\nBut he would not listen or lie\nOne day he came to do his work\nShe caught his cloak and screamed aloud\n\n[Verse]\nShe told the men of the household\nThat he came to make sport of us\nShe kept his cloak until his master\nCame home and heard her story\n\n[Chorus]\nHow could I do such a great evil\nAnd sin against God in this place\nThe Lord was with him in the prison\nAnd showed him steadfast love\n\n[Bridge]\nHis master burned with anger then\nAnd took him to the prison cell\nWhere the king’s prisoners were held\nAnd there he remained alone\n\n[Outro]\nThe warden paid no attention\nTo anything under his care\nBecause the Lord was with him\nAnd gave him success in all",
+    "cot": "full",
+    "seed": 31151
+  }
+}

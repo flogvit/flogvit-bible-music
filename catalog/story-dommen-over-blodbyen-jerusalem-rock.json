@@ -1,0 +1,46 @@
+{
+  "id": "story-dommen-over-blodbyen-jerusalem-rock",
+  "title": "City of Blood",
+  "kind": "story",
+  "anchor": {
+    "story": "dommen-over-blodbyen-jerusalem"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "synden",
+      "frelsen"
+    ],
+    "stories": [
+      "dommen-over-blodbyen-jerusalem"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, raw and aggressive, distorted electric guitar, heavy bass, pounding drums, organ, dark and intense mood, 120 BPM",
+    "lyrics": "[Verse]\nWord of the Lord came to me\nJudge the city of blood now\nConfront her with detestable deeds\nIdols made against herself\n\n[Pre-Chorus]\nYou shed blood and bring guilt\nYour days are near the end\nMocked by nations far and near\nPrinces shed blood with power\n\n[Chorus]\nYou are dross in the furnace\nMelted by my wrath\nI will gather you into anger\nAnd blow the fire of fury\n\n[Verse]\nTreating father and mother with contempt\nOppressing the stranger in your midst\nWronging the orphan and the widow\nDespising what is holy to me\n\n[Pre-Chorus]\nMen slander to shed blood\nEating at mountain shrines\nUncleanness in your midst\nYou have forgotten me\n\n[Chorus]\nYou are dross in the furnace\nMelted by my wrath\nI will gather you into anger\nAnd blow the fire of fury\n\n[Bridge]\nProphets like roaring lions\nDevour lives and seize treasure\nPriests profane my law\nOfficials like wolves tearing prey\n\n[Outro]\nI searched for one to stand\nIn the breach on behalf of the land\nBut I found no one there\nSo I poured out my indignation",
+    "cot": "full",
+    "seed": 31146
+  }
+}

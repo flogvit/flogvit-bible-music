@@ -1,0 +1,58 @@
+{
+  "id": "person-abinoam-children",
+  "title": "Son of Abinoam",
+  "kind": "person",
+  "anchor": {
+    "person": "abinoam"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "abinoam",
+      "barak",
+      "debora"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, young female solo voice with gentle choir backing, acoustic guitar, piano, soft flute, warm strings, joyful and steady mood, 90 BPM",
+    "lyrics": "[Verse]\nShe sent for Barak son of Abinoam\nFrom Kedesh in Naphtali to go\nGo, march to Mount Tabor now\nTake ten thousand men to flow\n\n[Chorus]\nRise up, Barak, and lead away\nYour captives, son of Abinoam\nThe LORD has gone out before you\nVictory is the way\n\n[Verse]\nSisera heard he went up\nNine hundred iron chariots run\nTo the Kishon River side\nThe troops were gathered wide\n\n[Chorus]\nRise up, Barak, and lead away\nYour captives, son of Abinoam\nThe LORD has gone out before you\nVictory is the way\n\n[Bridge]\nEarth shook when He went from Seir\nHeavens poured and mountains stirred\nSinai melted before His face\nA mighty and holy grace\n\n[Verse]\nBarak charged down from the hill\nTen thousand men, strong and still\nThe LORD routed Sisera’s force\nBy the sword, a fierce course\n\n[Chorus]\nRise up, Barak, and lead away\nYour captives, son of Abinoam\nThe LORD has gone out before you\nVictory is the way\n\n[Outro]\nAwake, awake, break into song\nSing to the LORD, right and strong\nSon of Abinoam, blessed name\nIn the heart of Israel’s flame",
+    "cot": "full",
+    "seed": 31147
+  }
+}

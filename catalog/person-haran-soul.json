@@ -1,0 +1,58 @@
+{
+  "id": "person-haran-soul",
+  "title": "Haran in Ur",
+  "kind": "person",
+  "anchor": {
+    "person": "haran"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 27,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 28,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "haran",
+      "abraham",
+      "lot",
+      "tarah",
+      "nahor"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, deep and reflective, solo with soft piano, strings, and gentle guitar, somber and reverent, 70 BPM",
+    "lyrics": "[Verse]\nTerah lived in Ur of Chaldees\nSeventy years he walked the dust\nHe became the father of three sons\nAbram, Nahor, and Haran he trusted\n\n[Verse]\nHaran became the father of Lot\nMilcah and Iscah came from him\nHe died in the land of his birth\nWhile his father Terah still lived\n\n[Chorus]\nHaran in Ur, where the family stayed\nBefore the journey to Canaan\nHis early death, a turning point\nIn the history of the patriarchs\n\n[Verse]\nAbram and Nahor took wives\nSarai was the wife of Abram\nMilcah was the daughter of Haran\nWho was the father of Milcah\n\n[Chorus]\nHaran in Ur, where the family stayed\nBefore the journey to Canaan\nHis early death, a turning point\nIn the history of the patriarchs\n\n[Bridge]\nThe account of Terah is told\nHaran became the father of Lot\nHe died in the land of his birth\nIn Ur of the Chaldeans\n\n[Outro]\nHaran in Ur, where the family stayed\nBefore the journey to Canaan",
+    "cot": "full",
+    "seed": 31148
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "person-jeberekja-jazz",
+  "title": "Zechariah Son of Jeberechiah",
+  "kind": "person",
+  "anchor": {
+    "person": "jeberekja"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 8,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 23,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jeberekja",
+      "jesaja",
+      "uria-presten",
+      "ahas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male jazz baritone, upright bass, brushed drums, brushed cymbals, upright piano, warm smoky mood, 85 BPM",
+    "lyrics": "[Verse]\nThe Lord spoke clear to me, a sign\nTake a large tablet, let it be\nWrite the name with stylus plain\nFor Maher-shalal-hash-baz it must remain\n\n[Chorus]\nI took reliable witnesses for myself\nUriah the priest, a steadfast shelf\nZechariah son of Jeberechiah\nTrust in the word, in the holy day\n\n[Verse]\nIn Judah’s days, under King Ahaz\nA prophetic act of grace\nThe name was set on the stone\nA truth that would not be alone\n\n[Chorus]\nI took reliable witnesses for myself\nUriah the priest, a steadfast shelf\nZechariah son of Jeberechiah\nTrust in the word, in the holy day\n\n[Bridge]\nBefore the boy can say father or mother\nThe spoils of Samaria, the Damascus weather\nCarried off before the king of Assyria\nThe prophecy stands, the witness near\n\n[Outro]\nZechariah son of Jeberechiah\nA name remembered in the book of Isaiah",
+    "cot": "full",
+    "seed": 31156
+  }
+}

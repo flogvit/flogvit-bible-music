@@ -1,0 +1,48 @@
+{
+  "id": "story-sidkia-pakten-om-frihet-og-bruddet-gospel",
+  "title": "Liberty to the Sword",
+  "kind": "story",
+  "anchor": {
+    "story": "sidkia-pakten-om-frihet-og-bruddet"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 34,
+      "verseStart": 8,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "obedience"
+    ],
+    "themes": [
+      "synden",
+      "pakten",
+      "lidelse"
+    ],
+    "stories": [
+      "sidkia-pakten-om-frihet-og-bruddet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with gospel choir, piano, drums, trumpet, strings, somber and urgent, 80 BPM",
+    "lyrics": "[Verse]\nKing Zedekiah made a covenant with all the people\nTo proclaim liberty for every Hebrew slave\nThe officials and the crowd who entered the pact\nObeyed the word and set their brothers free\n\n[Chorus]\nBut you turned back and profaned my name\nTook back the men and women you had released\nI made a covenant with your fathers long ago\nBut you did not listen to the voice of the Lord\n\n[Verse]\nYou cut the calf in two and walked between the pieces\nProfaning the name in the house that bears my glory\nI will make you like the calf they cut in half\nYour corpses food for birds and beasts of the earth\n\n[Chorus]\nBut you turned back and profaned my name\nTook back the men and women you had released\nI made a covenant with your fathers long ago\nBut you did not listen to the voice of the Lord\n\n[Bridge]\nSo now I proclaim liberty for you declares the Lord\nLiberty to the sword and to the plague and famine\nI will make you a horror to all the kingdoms of the earth\nHanding you over to those who seek your lives\n\n[Verse]\nZedekiah and his officials will face their enemies\nThe army of Babylon that has withdrawn from you\nThey will fight against this city and capture it\nAnd burn it down to make a desolation\n\n[Chorus]\nBut you turned back and profaned my name\nTook back the men and women you had released\nI made a covenant with your fathers long ago\nBut you did not listen to the voice of the Lord\n\n[Outro]\nThe cities of Judah will be empty\nWith no one living in the ruins left behind",
+    "cot": "full",
+    "seed": 31160
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "person-agabus-pop",
+  "title": "The Belt and the Famine",
+  "kind": "person",
+  "anchor": {
+    "person": "agabus"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 11,
+      "verseStart": 27,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 44,
+      "chapter": 21,
+      "verseStart": 10,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "agabus",
+      "paulus",
+      "barnabas",
+      "filip-evangelisten"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soulful solo voice with gentle choir, piano, acoustic guitar, cello, soft drums, warm and solemn mood, 85 BPM",
+    "lyrics": "[Verse]\nProphets came down to Antioch that day\nOne named Agabus stood up to pray\nBy the Spirit he pointed ahead\nA severe famine coming instead\nThis happened in the days of Claudius\nThe disciples sent relief to Judea\n\n[Chorus]\nThe Spirit spoke through a prophet's voice\nA warning of hunger a world-wide choice\nBound in the belt is the coming fate\nTo hand him over is the Gentile gate\n\n[Verse]\nAfter several days a prophet arrived\nFrom Judea to where they had lived\nHe took Paul's belt in his hand\nAnd tied his own feet in the sand\nHe said the Holy Spirit declares\nThe Jews will bind him in their squares\n\n[Chorus]\nThe Spirit spoke through a prophet's voice\nA warning of hunger a world-wide choice\nBound in the belt is the coming fate\nTo hand him over is the Gentile gate\n\n[Verse]\nWe begged him not to go up there\nTo break his heart with our tears and care\nBut Paul said I am ready to be bound\nEven to die in the holy ground\nFor the name of the Lord Jesus Christ\nThis is my path and my holy enlist\n\n[Outro]\nThe Lord's will be done we said in the end\nThe prophet's word is the promise to send",
+    "cot": "full",
+    "seed": 31155
+  }
+}

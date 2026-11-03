@@ -1,0 +1,46 @@
+{
+  "id": "story-pakten-i-beer-sjeba-orchestral",
+  "title": "Seven Ewe Lambs",
+  "kind": "story",
+  "anchor": {
+    "story": "pakten-i-beer-sjeba"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verseStart": 22,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "pakten"
+    ],
+    "stories": [
+      "pakten-i-beer-sjeba"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone solo with backing choir, organ, harp, strings, brass, solemn and majestic, 80 BPM",
+    "lyrics": "[Verse]\nAbimelech came with Pikol\nSaid God is with you in all\nSwear to me by the Lord\nDo not deal falsely at all\n\n[Chorus]\nSeven ewe lambs set apart\nWitness to the well you dug\nBeersheba the oath was sworn\nThe covenant made by trust\n\n[Verse]\nYou took my well by force\nI did not know who did it\nNow I see your anger rise\nI have heard nothing of it\n\n[Chorus]\nSeven ewe lambs set apart\nWitness to the well you dug\nBeersheba the oath was sworn\nThe covenant made by trust\n\n[Verse]\nSheep and cattle were given\nThe two made a covenant\nPikol left to his land\nAbraham stayed in the dust\n\n[Bridge]\nHe planted a tamarisk tree\nCalled on the name of the Lord\nThe Everlasting God heard\nHis prayer in the desert\n\n[Outro]\nSeven ewe lambs as witness\nThe well dug in the sand\nThe name of the Lord remembered\nIn the land of the Philistines",
+    "cot": "full",
+    "seed": 31161
+  }
+}

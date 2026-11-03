@@ -1,0 +1,42 @@
+{
+  "id": "story-lovloshetens-menneske-og-gjenkomsten-hymn",
+  "title": "The Breath of His Mouth",
+  "kind": "story",
+  "anchor": {
+    "story": "lovloshetens-menneske-og-gjenkomsten"
+  },
+  "references": [
+    {
+      "bookId": 53,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "lovloshetens-menneske-og-gjenkomsten"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo voice with warm alto choir, acoustic guitar, piano, cello, organ, solemn and majestic mood, 75 BPM",
+    "lyrics": "[Verse]\nDo not be quickly shaken in mind\nNor alarmed by a spirit or word\nLet no one deceive you in any way\nThe day of the Lord is not yet here\n\n[Verse]\nFirst comes the rebellion and the fall\nThe man of lawlessness is revealed\nThe son of destruction opposes all\nHe exalts himself above the gods\n\n[Verse]\nHe sits in the temple of God\nProclaiming himself to be divine\nThe mystery of lawlessness at work\nHeld back until the proper time\n\n[Verse]\nHe comes by the working of Satan\nWith false signs and wicked deception\nAiming at those who refuse the truth\nAnd delight in the ways of evil\n\n[Verse]\nBut the Lord Jesus will destroy him\nWith the breath of his mouth to nothing\nThe splendor of his coming returns\nTo destroy the power of the lie\n\n[Verse]\nWe thank God for you who are loved\nChosen as the firstfruits for salvation\nStand firm and hold fast to the truth\nLoved by the Lord in every word\n\n[Outro]\nComfort your hearts and strengthen you",
+    "cot": "full",
+    "seed": 31157
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "story-paktens-ark-tas-blues",
+  "title": "Ichabod",
+  "kind": "story",
+  "anchor": {
+    "story": "paktens-ark-tas"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "mercy",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "ydmykhet",
+      "lidelse",
+      "frelsen"
+    ],
+    "stories": [
+      "paktens-ark-tas"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, gritty, solo, acoustic guitar, upright bass, brushed drums, mournful, slow blues, 80 BPM",
+    "lyrics": "[Verse]\nThe armies met at Ebenezer\nIsrael fell before the foe\nFour thousand men were struck down\nThe elders cried out in woe\nBring the ark from Shiloh\nLet it save us from the hand\nCarry the covenant of the Lord\nWho sits between the cherubim\n\n[Chorus]\nIchabod, the glory is gone\nThe ark of God is taken\nIchabod, the light is faded\nThe strength of Israel is shaken\n\n[Verse]\nHophni and Phinehas are dead\nThe slaughter was very great\nThirty thousand soldiers fell\nEvery man ran for his gate\nA man of Benjamin ran in\nClothes torn and dirt on his head\nHe reached Shiloh to tell the news\nThe whole city cried instead\n\n[Chorus]\nIchabod, the glory is gone\nThe ark of God is taken\nIchabod, the light is faded\nThe strength of Israel is shaken\n\n[Bridge]\nEli sat by the road\nHis heart trembled for the ark\nNinety-eight years of leadership\nHe was old, his eyes were dim\nWhen the news of the capture came\nHe fell backward from his seat\nHis neck was broken in the dust\nHe died where he sat\n\n[Verse]\nHis daughter-in-law felt the pain\nPregnant near the time of birth\nShe heard of the loss of all\nHer husband and her father-in-law\nAs she was dying in the night\nThe women said do not be afraid\nYou have given birth to a son\nBut she did not answer them\n\n[Outro]\nShe named the boy Ichabod\nThe glory has departed from Israel",
+    "cot": "full",
+    "seed": 31154
+  }
+}

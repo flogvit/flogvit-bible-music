@@ -1,0 +1,770 @@
+{
+ "id": "person-maria-mor-til-markus-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-maria-mor-til-markus-hymn",
+ "offset_seconds": -4.760000000000154,
+ "words_heard": 81,
+ "words": 83,
+ "lines": [
+  {
+   "text": "Peter walked through the night",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.4,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To the home of Mary",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Many had gathered there",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To pray without ceasing",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He knocked on the outer door",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.39,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A servant girl came",
+   "heard": 3,
+   "words": 4,
+   "error_s": 1.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Her name was Rhoda",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "She heard his voice clear",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.07,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "She was overjoyed",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.48,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "She did not open the gate",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "She ran inside quickly",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To tell them all true",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Peter was standing outside",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The gate remained shut",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The joy was too great",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.59,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To stop at the door",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mary's house was the place",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Where prayer did not end",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.33,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Pe",
+   "time": 18.32,
+   "weight": 0.43,
+   "note_time": 17.5
+  },
+  {
+   "text": "ter",
+   "time": 18.67,
+   "weight": 0.43,
+   "note_time": 18.12
+  },
+  {
+   "text": "walked",
+   "time": 19.72,
+   "weight": 0.94,
+   "note_time": 18.33
+  },
+  {
+   "text": "through",
+   "time": 20.14,
+   "weight": 0.99,
+   "note_time": 19.17
+  },
+  {
+   "text": "the",
+   "time": 21.2,
+   "weight": 1.0,
+   "note_time": 19.79
+  },
+  {
+   "text": "night",
+   "time": 21.68,
+   "weight": 1.0,
+   "note_time": 20.0
+  },
+  {
+   "text": "To",
+   "time": 22.46,
+   "weight": 0.21,
+   "note_time": 24.17
+  },
+  {
+   "text": "the",
+   "time": 26.04,
+   "weight": 1.0,
+   "note_time": 25.0
+  },
+  {
+   "text": "home",
+   "time": 26.4,
+   "weight": 0.98,
+   "note_time": 25.83
+  },
+  {
+   "text": "of",
+   "time": 27.0,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "Ma",
+   "time": 27.94,
+   "weight": 1.0,
+   "note_time": 27.92
+  },
+  {
+   "text": "ry",
+   "time": 28.29,
+   "weight": 1.0,
+   "note_time": 28.33
+  },
+  {
+   "text": "Ma",
+   "time": 30.74,
+   "weight": 0.17,
+   "note_time": 30.42
+  },
+  {
+   "text": "ny",
+   "time": 31.09,
+   "weight": 0.17,
+   "note_time": 30.83
+  },
+  {
+   "text": "had",
+   "time": 32.14,
+   "weight": 0.97,
+   "note_time": 31.25
+  },
+  {
+   "text": "gath",
+   "time": 33.1,
+   "weight": 0.98,
+   "note_time": 31.67
+  },
+  {
+   "text": "ered",
+   "time": 33.45,
+   "weight": 0.98,
+   "note_time": 32.5
+  },
+  {
+   "text": "there",
+   "time": 34.38,
+   "weight": 0.96,
+   "note_time": 32.92
+  },
+  {
+   "text": "To",
+   "time": 34.9,
+   "weight": 0.3,
+   "note_time": 34.79
+  },
+  {
+   "text": "pray",
+   "time": 36.54,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "with",
+   "time": 36.86,
+   "weight": 0.99,
+   "note_time": 35.62
+  },
+  {
+   "text": "out",
+   "time": 37.2,
+   "weight": 0.99,
+   "note_time": 35.83
+  },
+  {
+   "text": "ceas",
+   "time": 37.54,
+   "weight": 0.98,
+   "note_time": 36.25
+  },
+  {
+   "text": "ing",
+   "time": 37.89,
+   "weight": 0.98,
+   "note_time": 37.08
+  },
+  {
+   "text": "He",
+   "time": 41.69,
+   "weight": 0.0,
+   "note_time": 43.96
+  },
+  {
+   "text": "knocked",
+   "time": 45.48,
+   "weight": 0.98,
+   "note_time": 44.17
+  },
+  {
+   "text": "on",
+   "time": 46.06,
+   "weight": 0.99,
+   "note_time": 44.58
+  },
+  {
+   "text": "the",
+   "time": 46.34,
+   "weight": 1.0,
+   "note_time": 44.79
+  },
+  {
+   "text": "out",
+   "time": 46.46,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "er",
+   "time": 46.81,
+   "weight": 1.0,
+   "note_time": 45.83
+  },
+  {
+   "text": "door",
+   "time": 47.3,
+   "weight": 1.0,
+   "note_time": 46.25
+  },
+  {
+   "text": "A",
+   "time": 48.95,
+   "weight": 0.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "ser",
+   "time": 50.6,
+   "weight": 0.39,
+   "note_time": 50.83
+  },
+  {
+   "text": "vant",
+   "time": 50.95,
+   "weight": 0.39,
+   "note_time": 51.25
+  },
+  {
+   "text": "girl",
+   "time": 52.88,
+   "weight": 0.99,
+   "note_time": 51.67
+  },
+  {
+   "text": "came",
+   "time": 54.12,
+   "weight": 0.4,
+   "note_time": 52.5
+  },
+  {
+   "text": "Her",
+   "time": 57.32,
+   "weight": 0.22,
+   "note_time": 57.08
+  },
+  {
+   "text": "name",
+   "time": 58.52,
+   "weight": 1.0,
+   "note_time": 57.5
+  },
+  {
+   "text": "was",
+   "time": 59.1,
+   "weight": 1.0,
+   "note_time": 57.92
+  },
+  {
+   "text": "Rho",
+   "time": 59.56,
+   "weight": 0.99,
+   "note_time": 58.33
+  },
+  {
+   "text": "da",
+   "time": 59.91,
+   "weight": 0.99,
+   "note_time": 58.75
+  },
+  {
+   "text": "She",
+   "time": 60.38,
+   "weight": 0.25,
+   "note_time": 60.42
+  },
+  {
+   "text": "heard",
+   "time": 61.9,
+   "weight": 0.92,
+   "note_time": 60.83
+  },
+  {
+   "text": "his",
+   "time": 62.44,
+   "weight": 0.41,
+   "note_time": 61.25
+  },
+  {
+   "text": "voice",
+   "time": 62.96,
+   "weight": 1.0,
+   "note_time": 61.67
+  },
+  {
+   "text": "clear",
+   "time": 63.36,
+   "weight": 0.99,
+   "note_time": 62.5
+  },
+  {
+   "text": "She",
+   "time": 70.22,
+   "weight": 0.96,
+   "note_time": 70.0
+  },
+  {
+   "text": "was",
+   "time": 71.42,
+   "weight": 0.99,
+   "note_time": 70.83
+  },
+  {
+   "text": "over",
+   "time": 73.7,
+   "weight": 0.99,
+   "note_time": 71.67
+  },
+  {
+   "text": "jo",
+   "time": 74.05,
+   "weight": 0.99,
+   "note_time": 72.5
+  },
+  {
+   "text": "yed",
+   "time": 74.4,
+   "weight": 0.99,
+   "note_time": 72.92
+  },
+  {
+   "text": "She",
+   "time": 77.28,
+   "weight": 0.98,
+   "note_time": 77.08
+  },
+  {
+   "text": "did",
+   "time": 78.48,
+   "weight": 1.0,
+   "note_time": 77.5
+  },
+  {
+   "text": "not",
+   "time": 78.8,
+   "weight": 1.0,
+   "note_time": 77.92
+  },
+  {
+   "text": "o",
+   "time": 79.38,
+   "weight": 1.0,
+   "note_time": 78.33
+  },
+  {
+   "text": "pen",
+   "time": 79.68,
+   "weight": 1.0,
+   "note_time": 78.75
+  },
+  {
+   "text": "the",
+   "time": 79.98,
+   "weight": 1.0,
+   "note_time": 79.58
+  },
+  {
+   "text": "gate",
+   "time": 80.88,
+   "weight": 1.0,
+   "note_time": 79.79
+  },
+  {
+   "text": "She",
+   "time": 83.74,
+   "weight": 0.61,
+   "note_time": 83.96
+  },
+  {
+   "text": "ran",
+   "time": 85.14,
+   "weight": 0.98,
+   "note_time": 84.17
+  },
+  {
+   "text": "in",
+   "time": 85.56,
+   "weight": 0.99,
+   "note_time": 84.58
+  },
+  {
+   "text": "side",
+   "time": 85.9,
+   "weight": 0.99,
+   "note_time": 85.0
+  },
+  {
+   "text": "quick",
+   "time": 86.24,
+   "weight": 0.98,
+   "note_time": 85.62
+  },
+  {
+   "text": "ly",
+   "time": 86.59,
+   "weight": 0.98,
+   "note_time": 86.04
+  },
+  {
+   "text": "To",
+   "time": 86.96,
+   "weight": 0.26,
+   "note_time": 87.29
+  },
+  {
+   "text": "tell",
+   "time": 88.5,
+   "weight": 1.0,
+   "note_time": 87.5
+  },
+  {
+   "text": "them",
+   "time": 88.9,
+   "weight": 0.99,
+   "note_time": 87.92
+  },
+  {
+   "text": "all",
+   "time": 89.3,
+   "weight": 1.0,
+   "note_time": 88.33
+  },
+  {
+   "text": "true",
+   "time": 89.76,
+   "weight": 0.67,
+   "note_time": 89.17
+  },
+  {
+   "text": "Pe",
+   "time": 96.44,
+   "weight": 0.42,
+   "note_time": 96.67
+  },
+  {
+   "text": "ter",
+   "time": 96.79,
+   "weight": 0.42,
+   "note_time": 96.88
+  },
+  {
+   "text": "was",
+   "time": 97.84,
+   "weight": 0.99,
+   "note_time": 97.08
+  },
+  {
+   "text": "stan",
+   "time": 98.96,
+   "weight": 1.0,
+   "note_time": 98.33
+  },
+  {
+   "text": "ding",
+   "time": 99.28,
+   "weight": 1.0,
+   "note_time": 98.75
+  },
+  {
+   "text": "out",
+   "time": 99.6,
+   "weight": 1.0,
+   "note_time": 99.17
+  },
+  {
+   "text": "side",
+   "time": 99.95,
+   "weight": 1.0,
+   "note_time": 99.58
+  },
+  {
+   "text": "The",
+   "time": 102.52,
+   "weight": 0.75,
+   "note_time": 103.96
+  },
+  {
+   "text": "gate",
+   "time": 103.92,
+   "weight": 0.99,
+   "note_time": 104.17
+  },
+  {
+   "text": "re",
+   "time": 105.32,
+   "weight": 0.98,
+   "note_time": 104.58
+  },
+  {
+   "text": "mained",
+   "time": 105.61,
+   "weight": 0.98,
+   "note_time": 104.79
+  },
+  {
+   "text": "shut",
+   "time": 105.9,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "The",
+   "time": 110.18,
+   "weight": 0.73,
+   "note_time": 110.62
+  },
+  {
+   "text": "joy",
+   "time": 111.5,
+   "weight": 0.97,
+   "note_time": 110.83
+  },
+  {
+   "text": "was",
+   "time": 111.84,
+   "weight": 1.0,
+   "note_time": 111.25
+  },
+  {
+   "text": "too",
+   "time": 112.32,
+   "weight": 0.98,
+   "note_time": 111.67
+  },
+  {
+   "text": "great",
+   "time": 112.66,
+   "weight": 1.0,
+   "note_time": 112.29
+  },
+  {
+   "text": "To",
+   "time": 113.4,
+   "weight": 0.98,
+   "note_time": 112.92
+  },
+  {
+   "text": "stop",
+   "time": 113.86,
+   "weight": 0.98,
+   "note_time": 113.33
+  },
+  {
+   "text": "at",
+   "time": 114.4,
+   "weight": 1.0,
+   "note_time": 113.96
+  },
+  {
+   "text": "the",
+   "time": 115.04,
+   "weight": 1.0,
+   "note_time": 114.58
+  },
+  {
+   "text": "door",
+   "time": 115.42,
+   "weight": 1.0,
+   "note_time": 115.0
+  },
+  {
+   "text": "Ma",
+   "time": 120.74,
+   "weight": 0.87,
+   "note_time": 120.0
+  },
+  {
+   "text": "ry's",
+   "time": 121.09,
+   "weight": 0.87,
+   "note_time": 120.83
+  },
+  {
+   "text": "house",
+   "time": 122.06,
+   "weight": 0.97,
+   "note_time": 121.67
+  },
+  {
+   "text": "was",
+   "time": 122.62,
+   "weight": 1.0,
+   "note_time": 122.29
+  },
+  {
+   "text": "the",
+   "time": 123.3,
+   "weight": 1.0,
+   "note_time": 122.92
+  },
+  {
+   "text": "place",
+   "time": 123.78,
+   "weight": 1.0,
+   "note_time": 123.33
+  },
+  {
+   "text": "Where",
+   "time": 124.5,
+   "weight": 0.22,
+   "note_time": 126.25
+  },
+  {
+   "text": "prayer",
+   "time": 127.0,
+   "weight": 0.99,
+   "note_time": 126.67
+  },
+  {
+   "text": "did",
+   "time": 127.54,
+   "weight": 0.4,
+   "note_time": 128.33
+  },
+  {
+   "text": "not",
+   "time": 129.18,
+   "weight": 1.0,
+   "note_time": 129.58
+  },
+  {
+   "text": "end",
+   "time": 130.2,
+   "weight": 1.0,
+   "note_time": 130.42
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "13 of 18 lyric lines sit clearly on their notes; 5 are uncertain and printed in grey italics."
+}

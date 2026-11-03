@@ -1,0 +1,966 @@
+{
+ "id": "story-sankerib-krav-og-hiskias-betaling-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/story-sankerib-krav-og-hiskias-betaling-hymn",
+ "offset_seconds": -2.0400000000002123,
+ "words_heard": 99,
+ "words": 102,
+ "lines": [
+  {
+   "text": "In Hezekiah's fourteenth year,",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Assyrian king drew near.",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sennacherib attacked the land,",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He took the strongholds in his hand.",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From Lachish Hezekiah spoke,",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "\"I have sinned, my sins I broke.\"",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "\"Withdraw from me, I will pay,",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whatever you demand today.\"",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Three hundred talents of silver stood,",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Thirty talents of gold added to the wood.",
+   "heard": 7,
+   "words": 8,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He gave the silver found inside,",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The house of the Lord, side by side.",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From palace treasuries he drew,",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Every coin that he knew.",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The doors of the temple he stripped bare,",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The gold he gave him there.",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He gave the doors to the king of Assyria.",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "In",
+   "time": 27.84,
+   "weight": 0.44,
+   "note_time": 28.75
+  },
+  {
+   "text": "He",
+   "time": 29.24,
+   "weight": 0.99,
+   "note_time": 29.17
+  },
+  {
+   "text": "ze",
+   "time": 29.59,
+   "weight": 0.99,
+   "note_time": 29.58
+  },
+  {
+   "text": "kiah's",
+   "time": 29.94,
+   "weight": 0.99,
+   "note_time": 30.0
+  },
+  {
+   "text": "four",
+   "time": 32.02,
+   "weight": 0.77,
+   "note_time": 30.42
+  },
+  {
+   "text": "teenth",
+   "time": 32.17,
+   "weight": 0.77,
+   "note_time": 31.25
+  },
+  {
+   "text": "year,",
+   "time": 32.32,
+   "weight": 1.0,
+   "note_time": 32.5
+  },
+  {
+   "text": "The",
+   "time": 33.6,
+   "weight": 0.31,
+   "note_time": 33.33
+  },
+  {
+   "text": "As",
+   "time": 36.08,
+   "weight": 0.99,
+   "note_time": 36.25
+  },
+  {
+   "text": "syr",
+   "time": 36.37,
+   "weight": 0.99,
+   "note_time": 36.67
+  },
+  {
+   "text": "i",
+   "time": 36.65,
+   "weight": 0.99,
+   "note_time": 37.08
+  },
+  {
+   "text": "an",
+   "time": 36.94,
+   "weight": 0.99,
+   "note_time": 37.29
+  },
+  {
+   "text": "king",
+   "time": 37.22,
+   "weight": 0.88,
+   "note_time": 37.92
+  },
+  {
+   "text": "drew",
+   "time": 37.92,
+   "weight": 1.0,
+   "note_time": 39.17
+  },
+  {
+   "text": "near.",
+   "time": 39.12,
+   "weight": 1.0,
+   "note_time": 39.58
+  },
+  {
+   "text": "Sen",
+   "time": 42.66,
+   "weight": 0.95,
+   "note_time": 42.5
+  },
+  {
+   "text": "nac",
+   "time": 43.01,
+   "weight": 0.95,
+   "note_time": 42.92
+  },
+  {
+   "text": "he",
+   "time": 43.36,
+   "weight": 0.95,
+   "note_time": 43.33
+  },
+  {
+   "text": "rib",
+   "time": 43.71,
+   "weight": 0.95,
+   "note_time": 43.75
+  },
+  {
+   "text": "at",
+   "time": 44.06,
+   "weight": 0.96,
+   "note_time": 44.58
+  },
+  {
+   "text": "tacked",
+   "time": 44.41,
+   "weight": 0.96,
+   "note_time": 44.79
+  },
+  {
+   "text": "the",
+   "time": 44.92,
+   "weight": 1.0,
+   "note_time": 45.83
+  },
+  {
+   "text": "land,",
+   "time": 45.96,
+   "weight": 0.99,
+   "note_time": 46.25
+  },
+  {
+   "text": "He",
+   "time": 47.44,
+   "weight": 0.99,
+   "note_time": 48.75
+  },
+  {
+   "text": "took",
+   "time": 48.84,
+   "weight": 1.0,
+   "note_time": 49.17
+  },
+  {
+   "text": "the",
+   "time": 49.32,
+   "weight": 1.0,
+   "note_time": 49.58
+  },
+  {
+   "text": "stron",
+   "time": 49.68,
+   "weight": 0.39,
+   "note_time": 49.79
+  },
+  {
+   "text": "gholds",
+   "time": 50.03,
+   "weight": 0.39,
+   "note_time": 50.42
+  },
+  {
+   "text": "in",
+   "time": 51.78,
+   "weight": 1.0,
+   "note_time": 51.67
+  },
+  {
+   "text": "his",
+   "time": 51.8,
+   "weight": 0.97,
+   "note_time": 51.88
+  },
+  {
+   "text": "hand.",
+   "time": 52.26,
+   "weight": 0.87,
+   "note_time": 52.92
+  },
+  {
+   "text": "From",
+   "time": 55.08,
+   "weight": 0.73,
+   "note_time": 56.25
+  },
+  {
+   "text": "Lac",
+   "time": 56.48,
+   "weight": 0.49,
+   "note_time": 56.67
+  },
+  {
+   "text": "hish",
+   "time": 56.83,
+   "weight": 0.49,
+   "note_time": 57.08
+  },
+  {
+   "text": "He",
+   "time": 57.62,
+   "weight": 0.98,
+   "note_time": 57.5
+  },
+  {
+   "text": "ze",
+   "time": 57.91,
+   "weight": 0.98,
+   "note_time": 57.92
+  },
+  {
+   "text": "kiah",
+   "time": 58.21,
+   "weight": 0.98,
+   "note_time": 58.12
+  },
+  {
+   "text": "spoke,",
+   "time": 58.5,
+   "weight": 0.66,
+   "note_time": 59.17
+  },
+  {
+   "text": "\"I",
+   "time": 59.78,
+   "weight": 0.17,
+   "note_time": 62.5
+  },
+  {
+   "text": "have",
+   "time": 62.9,
+   "weight": 0.99,
+   "note_time": 62.71
+  },
+  {
+   "text": "sinned,",
+   "time": 63.22,
+   "weight": 1.0,
+   "note_time": 63.33
+  },
+  {
+   "text": "my",
+   "time": 64.22,
+   "weight": 0.95,
+   "note_time": 64.17
+  },
+  {
+   "text": "sins",
+   "time": 64.58,
+   "weight": 0.98,
+   "note_time": 64.58
+  },
+  {
+   "text": "I",
+   "time": 65.32,
+   "weight": 0.94,
+   "note_time": 65.83
+  },
+  {
+   "text": "broke.\"",
+   "time": 66.38,
+   "weight": 0.69,
+   "note_time": 66.25
+  },
+  {
+   "text": "\"With",
+   "time": 69.9,
+   "weight": 0.98,
+   "note_time": 69.58
+  },
+  {
+   "text": "draw",
+   "time": 70.25,
+   "weight": 0.98,
+   "note_time": 70.0
+  },
+  {
+   "text": "from",
+   "time": 70.6,
+   "weight": 0.99,
+   "note_time": 70.83
+  },
+  {
+   "text": "me,",
+   "time": 71.24,
+   "weight": 0.9,
+   "note_time": 71.25
+  },
+  {
+   "text": "I",
+   "time": 72.0,
+   "weight": 1.0,
+   "note_time": 72.08
+  },
+  {
+   "text": "will",
+   "time": 72.68,
+   "weight": 1.0,
+   "note_time": 72.5
+  },
+  {
+   "text": "pay,",
+   "time": 73.08,
+   "weight": 1.0,
+   "note_time": 72.92
+  },
+  {
+   "text": "What",
+   "time": 73.54,
+   "weight": 0.37,
+   "note_time": 76.46
+  },
+  {
+   "text": "ev",
+   "time": 73.89,
+   "weight": 0.37,
+   "note_time": 76.67
+  },
+  {
+   "text": "er",
+   "time": 74.24,
+   "weight": 0.37,
+   "note_time": 76.88
+  },
+  {
+   "text": "you",
+   "time": 77.24,
+   "weight": 0.89,
+   "note_time": 77.08
+  },
+  {
+   "text": "de",
+   "time": 77.76,
+   "weight": 1.0,
+   "note_time": 77.92
+  },
+  {
+   "text": "mand",
+   "time": 78.11,
+   "weight": 1.0,
+   "note_time": 78.12
+  },
+  {
+   "text": "to",
+   "time": 78.72,
+   "weight": 0.95,
+   "note_time": 79.17
+  },
+  {
+   "text": "day.\"",
+   "time": 79.07,
+   "weight": 0.95,
+   "note_time": 79.58
+  },
+  {
+   "text": "Three",
+   "time": 80.48,
+   "weight": 0.0,
+   "note_time": 83.75
+  },
+  {
+   "text": "hun",
+   "time": 81.9,
+   "weight": 0.0,
+   "note_time": 84.17
+  },
+  {
+   "text": "dred",
+   "time": 83.31,
+   "weight": 0.0,
+   "note_time": 84.58
+  },
+  {
+   "text": "tal",
+   "time": 84.72,
+   "weight": 0.99,
+   "note_time": 85.0
+  },
+  {
+   "text": "ents",
+   "time": 85.07,
+   "weight": 0.99,
+   "note_time": 85.21
+  },
+  {
+   "text": "of",
+   "time": 85.76,
+   "weight": 1.0,
+   "note_time": 86.25
+  },
+  {
+   "text": "sil",
+   "time": 87.02,
+   "weight": 0.99,
+   "note_time": 86.67
+  },
+  {
+   "text": "ver",
+   "time": 87.37,
+   "weight": 0.99,
+   "note_time": 87.29
+  },
+  {
+   "text": "stood,",
+   "time": 87.74,
+   "weight": 0.98,
+   "note_time": 87.92
+  },
+  {
+   "text": "Thir",
+   "time": 88.61,
+   "weight": 0.0,
+   "note_time": 89.58
+  },
+  {
+   "text": "ty",
+   "time": 89.49,
+   "weight": 0.0,
+   "note_time": 89.79
+  },
+  {
+   "text": "tal",
+   "time": 90.36,
+   "weight": 0.99,
+   "note_time": 90.0
+  },
+  {
+   "text": "ents",
+   "time": 90.68,
+   "weight": 0.99,
+   "note_time": 90.21
+  },
+  {
+   "text": "of",
+   "time": 91.0,
+   "weight": 1.0,
+   "note_time": 90.83
+  },
+  {
+   "text": "gold",
+   "time": 91.68,
+   "weight": 1.0,
+   "note_time": 91.25
+  },
+  {
+   "text": "ad",
+   "time": 92.24,
+   "weight": 0.99,
+   "note_time": 92.5
+  },
+  {
+   "text": "ded",
+   "time": 92.59,
+   "weight": 0.99,
+   "note_time": 92.92
+  },
+  {
+   "text": "to",
+   "time": 93.54,
+   "weight": 0.99,
+   "note_time": 93.33
+  },
+  {
+   "text": "the",
+   "time": 94.02,
+   "weight": 0.95,
+   "note_time": 94.17
+  },
+  {
+   "text": "wood.",
+   "time": 94.88,
+   "weight": 0.49,
+   "note_time": 94.58
+  },
+  {
+   "text": "He",
+   "time": 97.07,
+   "weight": 0.89,
+   "note_time": 97.08
+  },
+  {
+   "text": "gave",
+   "time": 97.76,
+   "weight": 1.0,
+   "note_time": 97.5
+  },
+  {
+   "text": "the",
+   "time": 98.34,
+   "weight": 1.0,
+   "note_time": 98.12
+  },
+  {
+   "text": "sil",
+   "time": 98.88,
+   "weight": 1.0,
+   "note_time": 98.33
+  },
+  {
+   "text": "ver",
+   "time": 99.14,
+   "weight": 1.0,
+   "note_time": 98.75
+  },
+  {
+   "text": "found",
+   "time": 99.4,
+   "weight": 1.0,
+   "note_time": 98.96
+  },
+  {
+   "text": "in",
+   "time": 99.86,
+   "weight": 0.98,
+   "note_time": 99.58
+  },
+  {
+   "text": "side,",
+   "time": 100.21,
+   "weight": 0.98,
+   "note_time": 100.0
+  },
+  {
+   "text": "The",
+   "time": 103.27,
+   "weight": 0.99,
+   "note_time": 103.12
+  },
+  {
+   "text": "house",
+   "time": 103.96,
+   "weight": 0.99,
+   "note_time": 104.17
+  },
+  {
+   "text": "of",
+   "time": 104.66,
+   "weight": 1.0,
+   "note_time": 104.58
+  },
+  {
+   "text": "the",
+   "time": 105.24,
+   "weight": 1.0,
+   "note_time": 104.79
+  },
+  {
+   "text": "Lord,",
+   "time": 105.38,
+   "weight": 0.74,
+   "note_time": 105.83
+  },
+  {
+   "text": "side",
+   "time": 105.84,
+   "weight": 1.0,
+   "note_time": 106.04
+  },
+  {
+   "text": "by",
+   "time": 106.64,
+   "weight": 1.0,
+   "note_time": 106.25
+  },
+  {
+   "text": "side.",
+   "time": 107.1,
+   "weight": 0.98,
+   "note_time": 106.46
+  },
+  {
+   "text": "From",
+   "time": 140.12,
+   "weight": 0.79,
+   "note_time": 140.42
+  },
+  {
+   "text": "pa",
+   "time": 141.3,
+   "weight": 0.92,
+   "note_time": 140.83
+  },
+  {
+   "text": "lace",
+   "time": 141.65,
+   "weight": 0.92,
+   "note_time": 141.04
+  },
+  {
+   "text": "trea",
+   "time": 142.0,
+   "weight": 0.96,
+   "note_time": 141.67
+  },
+  {
+   "text": "su",
+   "time": 142.35,
+   "weight": 0.96,
+   "note_time": 141.88
+  },
+  {
+   "text": "ries",
+   "time": 142.7,
+   "weight": 0.96,
+   "note_time": 142.08
+  },
+  {
+   "text": "he",
+   "time": 143.22,
+   "weight": 0.8,
+   "note_time": 142.92
+  },
+  {
+   "text": "drew,",
+   "time": 143.86,
+   "weight": 0.98,
+   "note_time": 143.33
+  },
+  {
+   "text": "Ev",
+   "time": 144.3,
+   "weight": 0.28,
+   "note_time": 147.5
+  },
+  {
+   "text": "ery",
+   "time": 144.65,
+   "weight": 0.28,
+   "note_time": 147.71
+  },
+  {
+   "text": "coin",
+   "time": 148.48,
+   "weight": 1.0,
+   "note_time": 148.12
+  },
+  {
+   "text": "that",
+   "time": 149.18,
+   "weight": 0.99,
+   "note_time": 149.17
+  },
+  {
+   "text": "he",
+   "time": 150.12,
+   "weight": 1.0,
+   "note_time": 149.38
+  },
+  {
+   "text": "knew.",
+   "time": 150.36,
+   "weight": 1.0,
+   "note_time": 149.79
+  },
+  {
+   "text": "The",
+   "time": 153.12,
+   "weight": 0.93,
+   "note_time": 153.12
+  },
+  {
+   "text": "doors",
+   "time": 153.96,
+   "weight": 0.99,
+   "note_time": 153.33
+  },
+  {
+   "text": "of",
+   "time": 154.68,
+   "weight": 1.0,
+   "note_time": 154.17
+  },
+  {
+   "text": "the",
+   "time": 155.18,
+   "weight": 0.98,
+   "note_time": 154.58
+  },
+  {
+   "text": "tem",
+   "time": 155.48,
+   "weight": 0.98,
+   "note_time": 154.79
+  },
+  {
+   "text": "ple",
+   "time": 155.78,
+   "weight": 0.98,
+   "note_time": 155.21
+  },
+  {
+   "text": "he",
+   "time": 156.08,
+   "weight": 0.96,
+   "note_time": 155.83
+  },
+  {
+   "text": "stripped",
+   "time": 156.8,
+   "weight": 0.99,
+   "note_time": 156.25
+  },
+  {
+   "text": "bare,",
+   "time": 157.14,
+   "weight": 0.99,
+   "note_time": 156.67
+  },
+  {
+   "text": "The",
+   "time": 157.78,
+   "weight": 0.39,
+   "note_time": 159.79
+  },
+  {
+   "text": "gold",
+   "time": 160.7,
+   "weight": 0.97,
+   "note_time": 160.0
+  },
+  {
+   "text": "he",
+   "time": 161.14,
+   "weight": 0.98,
+   "note_time": 161.25
+  },
+  {
+   "text": "gave",
+   "time": 162.16,
+   "weight": 1.0,
+   "note_time": 161.67
+  },
+  {
+   "text": "him",
+   "time": 162.7,
+   "weight": 0.91,
+   "note_time": 162.5
+  },
+  {
+   "text": "there.",
+   "time": 163.5,
+   "weight": 1.0,
+   "note_time": 162.92
+  },
+  {
+   "text": "He",
+   "time": 166.72,
+   "weight": 0.61,
+   "note_time": 167.08
+  },
+  {
+   "text": "gave",
+   "time": 167.92,
+   "weight": 0.98,
+   "note_time": 167.92
+  },
+  {
+   "text": "the",
+   "time": 168.44,
+   "weight": 0.99,
+   "note_time": 168.12
+  },
+  {
+   "text": "doors",
+   "time": 168.84,
+   "weight": 0.95,
+   "note_time": 168.33
+  },
+  {
+   "text": "to",
+   "time": 169.44,
+   "weight": 0.96,
+   "note_time": 169.58
+  },
+  {
+   "text": "the",
+   "time": 170.46,
+   "weight": 0.99,
+   "note_time": 170.0
+  },
+  {
+   "text": "king",
+   "time": 170.96,
+   "weight": 0.73,
+   "note_time": 170.83
+  },
+  {
+   "text": "of",
+   "time": 171.78,
+   "weight": 1.0,
+   "note_time": 171.25
+  },
+  {
+   "text": "As",
+   "time": 172.14,
+   "weight": 0.99,
+   "note_time": 171.67
+  },
+  {
+   "text": "syr",
+   "time": 172.48,
+   "weight": 0.99,
+   "note_time": 172.08
+  },
+  {
+   "text": "ia.",
+   "time": 172.82,
+   "weight": 0.99,
+   "note_time": 172.29
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "16 of 17 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

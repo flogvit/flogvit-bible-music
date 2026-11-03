@@ -1,0 +1,1317 @@
+{
+ "id": "verse-1-1-31-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-1-1-31-acoustic",
+ "offset_seconds": 0.9199999999997246,
+ "words_heard": 148,
+ "words": 153,
+ "lines": [
+  {
+   "text": "God blessed them and said to them",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.75,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Be fruitful and multiply",
+   "heard": 4,
+   "words": 4,
+   "error_s": 3.38,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Fill the earth and subdue it",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.27,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Rule over the sea and sky",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.13,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Every seed-bearing plant on earth",
+   "heard": 4,
+   "words": 5,
+   "error_s": 1.7,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Every tree with fruit and seed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They will be your food to eat",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "From the ground where you proceed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.26,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "God saw all that he had made",
+   "heard": 6,
+   "words": 7,
+   "error_s": 1.92,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And behold, it was very good",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.33,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The evening came, the morning rose",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sixth day stood as it should",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To wild animals of the earth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 4.05,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To birds that fly in high",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.74,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Green plants for their food to eat",
+   "heard": 6,
+   "words": 7,
+   "error_s": 1.81,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Under the open sky",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God saw all that he had made",
+   "heard": 5,
+   "words": 7,
+   "error_s": 1.71,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And behold, it was very good",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.31,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The evening came, the morning rose",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The sixth day stood as it should",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Everything that moves on ground",
+   "heard": 5,
+   "words": 5,
+   "error_s": 4.66,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Has life within its frame",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.5,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The garden and the field",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.68,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "All beauty in the name",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.71,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And behold, it was very good",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.55,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The sixth day was done",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.01,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "God",
+   "time": 9.76,
+   "weight": 0.41,
+   "note_time": 15.0
+  },
+  {
+   "text": "blessed",
+   "time": 11.16,
+   "weight": 0.15,
+   "note_time": 15.39
+  },
+  {
+   "text": "them",
+   "time": 12.06,
+   "weight": 0.99,
+   "note_time": 15.79
+  },
+  {
+   "text": "and",
+   "time": 12.92,
+   "weight": 0.98,
+   "note_time": 16.58
+  },
+  {
+   "text": "said",
+   "time": 13.22,
+   "weight": 1.0,
+   "note_time": 16.97
+  },
+  {
+   "text": "to",
+   "time": 13.62,
+   "weight": 1.0,
+   "note_time": 17.37
+  },
+  {
+   "text": "them",
+   "time": 14.32,
+   "weight": 1.0,
+   "note_time": 18.16
+  },
+  {
+   "text": "Be",
+   "time": 14.96,
+   "weight": 0.19,
+   "note_time": 18.55
+  },
+  {
+   "text": "fruit",
+   "time": 17.44,
+   "weight": 1.0,
+   "note_time": 18.95
+  },
+  {
+   "text": "ful",
+   "time": 17.79,
+   "weight": 1.0,
+   "note_time": 21.32
+  },
+  {
+   "text": "and",
+   "time": 18.38,
+   "weight": 0.99,
+   "note_time": 22.11
+  },
+  {
+   "text": "mul",
+   "time": 19.58,
+   "weight": 1.0,
+   "note_time": 22.89
+  },
+  {
+   "text": "ti",
+   "time": 19.93,
+   "weight": 1.0,
+   "note_time": 23.29
+  },
+  {
+   "text": "ply",
+   "time": 20.28,
+   "weight": 1.0,
+   "note_time": 23.68
+  },
+  {
+   "text": "Fill",
+   "time": 20.64,
+   "weight": 0.4,
+   "note_time": 24.47
+  },
+  {
+   "text": "the",
+   "time": 23.82,
+   "weight": 1.0,
+   "note_time": 24.87
+  },
+  {
+   "text": "earth",
+   "time": 24.22,
+   "weight": 0.96,
+   "note_time": 25.26
+  },
+  {
+   "text": "and",
+   "time": 24.74,
+   "weight": 0.99,
+   "note_time": 27.63
+  },
+  {
+   "text": "sub",
+   "time": 25.46,
+   "weight": 1.0,
+   "note_time": 28.03
+  },
+  {
+   "text": "due",
+   "time": 25.81,
+   "weight": 1.0,
+   "note_time": 28.22
+  },
+  {
+   "text": "it",
+   "time": 26.3,
+   "weight": 1.0,
+   "note_time": 28.42
+  },
+  {
+   "text": "Rule",
+   "time": 27.08,
+   "weight": 0.94,
+   "note_time": 29.21
+  },
+  {
+   "text": "o",
+   "time": 27.8,
+   "weight": 1.0,
+   "note_time": 29.61
+  },
+  {
+   "text": "ver",
+   "time": 28.15,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "the",
+   "time": 28.54,
+   "weight": 0.99,
+   "note_time": 30.79
+  },
+  {
+   "text": "sea",
+   "time": 28.96,
+   "weight": 0.15,
+   "note_time": 31.58
+  },
+  {
+   "text": "and",
+   "time": 29.06,
+   "weight": 0.67,
+   "note_time": 31.97
+  },
+  {
+   "text": "sky",
+   "time": 29.06,
+   "weight": 0.15,
+   "note_time": 32.37
+  },
+  {
+   "text": "Ev",
+   "time": 30.54,
+   "weight": 0.19,
+   "note_time": 32.76
+  },
+  {
+   "text": "ery",
+   "time": 30.89,
+   "weight": 0.19,
+   "note_time": 33.16
+  },
+  {
+   "text": "seed-",
+   "time": 31.91,
+   "weight": 0.0,
+   "note_time": 33.95
+  },
+  {
+   "text": "bear-",
+   "time": 32.93,
+   "weight": 0.0,
+   "note_time": 34.34
+  },
+  {
+   "text": "ing",
+   "time": 33.94,
+   "weight": 0.0,
+   "note_time": 34.74
+  },
+  {
+   "text": "plant",
+   "time": 34.96,
+   "weight": 0.79,
+   "note_time": 37.11
+  },
+  {
+   "text": "on",
+   "time": 35.8,
+   "weight": 0.92,
+   "note_time": 37.5
+  },
+  {
+   "text": "earth",
+   "time": 36.5,
+   "weight": 0.92,
+   "note_time": 37.89
+  },
+  {
+   "text": "Ev",
+   "time": 37.08,
+   "weight": 0.38,
+   "note_time": 38.68
+  },
+  {
+   "text": "ery",
+   "time": 37.43,
+   "weight": 0.38,
+   "note_time": 39.08
+  },
+  {
+   "text": "tree",
+   "time": 39.7,
+   "weight": 1.0,
+   "note_time": 39.47
+  },
+  {
+   "text": "with",
+   "time": 40.48,
+   "weight": 0.99,
+   "note_time": 40.26
+  },
+  {
+   "text": "fruit",
+   "time": 41.24,
+   "weight": 0.99,
+   "note_time": 40.66
+  },
+  {
+   "text": "and",
+   "time": 42.1,
+   "weight": 0.99,
+   "note_time": 43.42
+  },
+  {
+   "text": "seed",
+   "time": 42.8,
+   "weight": 0.92,
+   "note_time": 43.82
+  },
+  {
+   "text": "They",
+   "time": 45.26,
+   "weight": 0.95,
+   "note_time": 44.21
+  },
+  {
+   "text": "will",
+   "time": 45.96,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "be",
+   "time": 46.38,
+   "weight": 1.0,
+   "note_time": 45.79
+  },
+  {
+   "text": "your",
+   "time": 46.72,
+   "weight": 0.99,
+   "note_time": 46.58
+  },
+  {
+   "text": "food",
+   "time": 47.54,
+   "weight": 0.99,
+   "note_time": 46.97
+  },
+  {
+   "text": "to",
+   "time": 48.38,
+   "weight": 0.95,
+   "note_time": 47.37
+  },
+  {
+   "text": "eat",
+   "time": 49.12,
+   "weight": 0.92,
+   "note_time": 49.74
+  },
+  {
+   "text": "From",
+   "time": 49.54,
+   "weight": 0.39,
+   "note_time": 50.13
+  },
+  {
+   "text": "the",
+   "time": 52.16,
+   "weight": 1.0,
+   "note_time": 50.53
+  },
+  {
+   "text": "ground",
+   "time": 52.54,
+   "weight": 1.0,
+   "note_time": 51.32
+  },
+  {
+   "text": "where",
+   "time": 53.12,
+   "weight": 0.95,
+   "note_time": 52.11
+  },
+  {
+   "text": "you",
+   "time": 53.82,
+   "weight": 1.0,
+   "note_time": 52.89
+  },
+  {
+   "text": "pro",
+   "time": 54.62,
+   "weight": 0.95,
+   "note_time": 53.29
+  },
+  {
+   "text": "ceed",
+   "time": 54.97,
+   "weight": 0.95,
+   "note_time": 53.68
+  },
+  {
+   "text": "God",
+   "time": 56.98,
+   "weight": 0.26,
+   "note_time": 56.05
+  },
+  {
+   "text": "saw",
+   "time": 58.26,
+   "weight": 0.38,
+   "note_time": 56.45
+  },
+  {
+   "text": "all",
+   "time": 58.77,
+   "weight": 0.0,
+   "note_time": 56.64
+  },
+  {
+   "text": "that",
+   "time": 59.28,
+   "weight": 0.91,
+   "note_time": 57.63
+  },
+  {
+   "text": "he",
+   "time": 60.56,
+   "weight": 0.66,
+   "note_time": 58.42
+  },
+  {
+   "text": "had",
+   "time": 60.94,
+   "weight": 0.98,
+   "note_time": 59.21
+  },
+  {
+   "text": "made",
+   "time": 61.72,
+   "weight": 1.0,
+   "note_time": 59.61
+  },
+  {
+   "text": "And",
+   "time": 63.16,
+   "weight": 0.32,
+   "note_time": 62.37
+  },
+  {
+   "text": "be",
+   "time": 64.82,
+   "weight": 0.96,
+   "note_time": 63.16
+  },
+  {
+   "text": "hold,",
+   "time": 65.17,
+   "weight": 0.96,
+   "note_time": 63.95
+  },
+  {
+   "text": "it",
+   "time": 65.94,
+   "weight": 1.0,
+   "note_time": 64.34
+  },
+  {
+   "text": "was",
+   "time": 66.5,
+   "weight": 1.0,
+   "note_time": 64.74
+  },
+  {
+   "text": "ve",
+   "time": 66.86,
+   "weight": 1.0,
+   "note_time": 65.53
+  },
+  {
+   "text": "ry",
+   "time": 67.12,
+   "weight": 1.0,
+   "note_time": 65.92
+  },
+  {
+   "text": "good",
+   "time": 67.38,
+   "weight": 1.0,
+   "note_time": 66.32
+  },
+  {
+   "text": "The",
+   "time": 69.24,
+   "weight": 0.99,
+   "note_time": 68.68
+  },
+  {
+   "text": "eve",
+   "time": 70.1,
+   "weight": 1.0,
+   "note_time": 69.08
+  },
+  {
+   "text": "ning",
+   "time": 70.39,
+   "weight": 1.0,
+   "note_time": 69.47
+  },
+  {
+   "text": "came,",
+   "time": 70.68,
+   "weight": 1.0,
+   "note_time": 70.26
+  },
+  {
+   "text": "the",
+   "time": 71.32,
+   "weight": 1.0,
+   "note_time": 70.66
+  },
+  {
+   "text": "morn",
+   "time": 71.66,
+   "weight": 1.0,
+   "note_time": 71.05
+  },
+  {
+   "text": "ing",
+   "time": 72.01,
+   "weight": 1.0,
+   "note_time": 71.84
+  },
+  {
+   "text": "rose",
+   "time": 72.48,
+   "weight": 1.0,
+   "note_time": 72.24
+  },
+  {
+   "text": "The",
+   "time": 74.12,
+   "weight": 0.95,
+   "note_time": 74.01
+  },
+  {
+   "text": "sixth",
+   "time": 74.62,
+   "weight": 0.82,
+   "note_time": 74.61
+  },
+  {
+   "text": "day",
+   "time": 75.4,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "stood",
+   "time": 76.02,
+   "weight": 1.0,
+   "note_time": 75.39
+  },
+  {
+   "text": "as",
+   "time": 76.58,
+   "weight": 0.99,
+   "note_time": 75.79
+  },
+  {
+   "text": "it",
+   "time": 77.56,
+   "weight": 1.0,
+   "note_time": 76.58
+  },
+  {
+   "text": "should",
+   "time": 77.96,
+   "weight": 1.0,
+   "note_time": 76.97
+  },
+  {
+   "text": "To",
+   "time": 82.32,
+   "weight": 0.2,
+   "note_time": 78.55
+  },
+  {
+   "text": "wild",
+   "time": 83.72,
+   "weight": 0.99,
+   "note_time": 78.95
+  },
+  {
+   "text": "an",
+   "time": 84.32,
+   "weight": 1.0,
+   "note_time": 79.74
+  },
+  {
+   "text": "i",
+   "time": 84.57,
+   "weight": 1.0,
+   "note_time": 80.53
+  },
+  {
+   "text": "mals",
+   "time": 84.83,
+   "weight": 1.0,
+   "note_time": 81.32
+  },
+  {
+   "text": "of",
+   "time": 85.08,
+   "weight": 0.94,
+   "note_time": 81.71
+  },
+  {
+   "text": "the",
+   "time": 86.34,
+   "weight": 1.0,
+   "note_time": 82.11
+  },
+  {
+   "text": "earth",
+   "time": 86.9,
+   "weight": 0.96,
+   "note_time": 88.03
+  },
+  {
+   "text": "To",
+   "time": 88.36,
+   "weight": 0.34,
+   "note_time": 88.42
+  },
+  {
+   "text": "birds",
+   "time": 90.1,
+   "weight": 1.0,
+   "note_time": 88.82
+  },
+  {
+   "text": "that",
+   "time": 91.18,
+   "weight": 1.0,
+   "note_time": 89.01
+  },
+  {
+   "text": "fly",
+   "time": 91.74,
+   "weight": 0.97,
+   "note_time": 90.0
+  },
+  {
+   "text": "in",
+   "time": 92.46,
+   "weight": 0.62,
+   "note_time": 90.79
+  },
+  {
+   "text": "high",
+   "time": 93.26,
+   "weight": 0.76,
+   "note_time": 91.18
+  },
+  {
+   "text": "Green",
+   "time": 94.8,
+   "weight": 0.0,
+   "note_time": 93.95
+  },
+  {
+   "text": "plants",
+   "time": 96.34,
+   "weight": 0.99,
+   "note_time": 94.74
+  },
+  {
+   "text": "for",
+   "time": 97.12,
+   "weight": 1.0,
+   "note_time": 95.53
+  },
+  {
+   "text": "their",
+   "time": 97.98,
+   "weight": 1.0,
+   "note_time": 95.92
+  },
+  {
+   "text": "food",
+   "time": 98.4,
+   "weight": 1.0,
+   "note_time": 96.32
+  },
+  {
+   "text": "to",
+   "time": 98.88,
+   "weight": 1.0,
+   "note_time": 97.11
+  },
+  {
+   "text": "eat",
+   "time": 99.34,
+   "weight": 1.0,
+   "note_time": 97.5
+  },
+  {
+   "text": "Un",
+   "time": 99.7,
+   "weight": 0.89,
+   "note_time": 100.26
+  },
+  {
+   "text": "der",
+   "time": 100.05,
+   "weight": 0.89,
+   "note_time": 100.66
+  },
+  {
+   "text": "the",
+   "time": 100.6,
+   "weight": 1.0,
+   "note_time": 101.05
+  },
+  {
+   "text": "o",
+   "time": 101.46,
+   "weight": 1.0,
+   "note_time": 101.84
+  },
+  {
+   "text": "pen",
+   "time": 101.81,
+   "weight": 1.0,
+   "note_time": 102.24
+  },
+  {
+   "text": "sky",
+   "time": 102.3,
+   "weight": 0.99,
+   "note_time": 102.63
+  },
+  {
+   "text": "God",
+   "time": 103.66,
+   "weight": 0.14,
+   "note_time": 103.42
+  },
+  {
+   "text": "saw",
+   "time": 106.06,
+   "weight": 0.95,
+   "note_time": 104.21
+  },
+  {
+   "text": "all",
+   "time": 106.66,
+   "weight": 0.0,
+   "note_time": 104.8
+  },
+  {
+   "text": "that",
+   "time": 107.26,
+   "weight": 0.0,
+   "note_time": 105.39
+  },
+  {
+   "text": "he",
+   "time": 107.86,
+   "weight": 0.47,
+   "note_time": 105.79
+  },
+  {
+   "text": "had",
+   "time": 108.26,
+   "weight": 0.99,
+   "note_time": 106.58
+  },
+  {
+   "text": "made",
+   "time": 109.08,
+   "weight": 1.0,
+   "note_time": 107.37
+  },
+  {
+   "text": "And",
+   "time": 110.9,
+   "weight": 0.42,
+   "note_time": 109.74
+  },
+  {
+   "text": "be",
+   "time": 112.24,
+   "weight": 0.92,
+   "note_time": 110.53
+  },
+  {
+   "text": "hold,",
+   "time": 112.59,
+   "weight": 0.92,
+   "note_time": 111.32
+  },
+  {
+   "text": "it",
+   "time": 113.36,
+   "weight": 0.99,
+   "note_time": 111.71
+  },
+  {
+   "text": "was",
+   "time": 113.84,
+   "weight": 1.0,
+   "note_time": 112.11
+  },
+  {
+   "text": "ve",
+   "time": 114.2,
+   "weight": 1.0,
+   "note_time": 112.89
+  },
+  {
+   "text": "ry",
+   "time": 114.51,
+   "weight": 1.0,
+   "note_time": 113.29
+  },
+  {
+   "text": "good",
+   "time": 114.82,
+   "weight": 1.0,
+   "note_time": 113.68
+  },
+  {
+   "text": "The",
+   "time": 116.46,
+   "weight": 0.88,
+   "note_time": 116.05
+  },
+  {
+   "text": "eve",
+   "time": 117.54,
+   "weight": 0.99,
+   "note_time": 116.45
+  },
+  {
+   "text": "ning",
+   "time": 117.78,
+   "weight": 0.99,
+   "note_time": 116.84
+  },
+  {
+   "text": "came,",
+   "time": 118.02,
+   "weight": 1.0,
+   "note_time": 117.63
+  },
+  {
+   "text": "the",
+   "time": 118.66,
+   "weight": 1.0,
+   "note_time": 118.03
+  },
+  {
+   "text": "morn",
+   "time": 119.0,
+   "weight": 1.0,
+   "note_time": 118.42
+  },
+  {
+   "text": "ing",
+   "time": 119.35,
+   "weight": 1.0,
+   "note_time": 119.21
+  },
+  {
+   "text": "rose",
+   "time": 119.84,
+   "weight": 1.0,
+   "note_time": 119.61
+  },
+  {
+   "text": "The",
+   "time": 121.42,
+   "weight": 0.97,
+   "note_time": 121.38
+  },
+  {
+   "text": "sixth",
+   "time": 122.14,
+   "weight": 0.5,
+   "note_time": 121.97
+  },
+  {
+   "text": "day",
+   "time": 122.56,
+   "weight": 1.0,
+   "note_time": 122.37
+  },
+  {
+   "text": "stood",
+   "time": 123.36,
+   "weight": 1.0,
+   "note_time": 122.76
+  },
+  {
+   "text": "as",
+   "time": 123.88,
+   "weight": 0.99,
+   "note_time": 123.16
+  },
+  {
+   "text": "it",
+   "time": 125.0,
+   "weight": 0.99,
+   "note_time": 123.95
+  },
+  {
+   "text": "should",
+   "time": 125.26,
+   "weight": 0.99,
+   "note_time": 124.34
+  },
+  {
+   "text": "Ev",
+   "time": 130.94,
+   "weight": 0.54,
+   "note_time": 125.92
+  },
+  {
+   "text": "ery",
+   "time": 131.29,
+   "weight": 0.54,
+   "note_time": 126.32
+  },
+  {
+   "text": "thing",
+   "time": 131.64,
+   "weight": 0.54,
+   "note_time": 127.11
+  },
+  {
+   "text": "that",
+   "time": 132.34,
+   "weight": 0.99,
+   "note_time": 127.89
+  },
+  {
+   "text": "moves",
+   "time": 133.12,
+   "weight": 0.99,
+   "note_time": 128.68
+  },
+  {
+   "text": "on",
+   "time": 133.74,
+   "weight": 1.0,
+   "note_time": 129.08
+  },
+  {
+   "text": "ground",
+   "time": 134.32,
+   "weight": 0.98,
+   "note_time": 129.47
+  },
+  {
+   "text": "Has",
+   "time": 135.78,
+   "weight": 0.22,
+   "note_time": 135.79
+  },
+  {
+   "text": "life",
+   "time": 137.64,
+   "weight": 0.99,
+   "note_time": 136.38
+  },
+  {
+   "text": "with",
+   "time": 138.52,
+   "weight": 0.99,
+   "note_time": 136.97
+  },
+  {
+   "text": "in",
+   "time": 138.87,
+   "weight": 0.99,
+   "note_time": 137.37
+  },
+  {
+   "text": "its",
+   "time": 139.66,
+   "weight": 0.95,
+   "note_time": 138.16
+  },
+  {
+   "text": "frame",
+   "time": 140.54,
+   "weight": 0.99,
+   "note_time": 138.55
+  },
+  {
+   "text": "The",
+   "time": 142.94,
+   "weight": 0.95,
+   "note_time": 141.71
+  },
+  {
+   "text": "gar",
+   "time": 144.34,
+   "weight": 0.98,
+   "note_time": 142.11
+  },
+  {
+   "text": "den",
+   "time": 144.64,
+   "weight": 0.98,
+   "note_time": 143.29
+  },
+  {
+   "text": "and",
+   "time": 144.94,
+   "weight": 0.99,
+   "note_time": 143.68
+  },
+  {
+   "text": "the",
+   "time": 146.26,
+   "weight": 1.0,
+   "note_time": 144.08
+  },
+  {
+   "text": "field",
+   "time": 146.88,
+   "weight": 0.99,
+   "note_time": 144.87
+  },
+  {
+   "text": "All",
+   "time": 148.72,
+   "weight": 0.94,
+   "note_time": 148.22
+  },
+  {
+   "text": "beau",
+   "time": 150.18,
+   "weight": 0.98,
+   "note_time": 148.42
+  },
+  {
+   "text": "ty",
+   "time": 150.53,
+   "weight": 0.98,
+   "note_time": 148.82
+  },
+  {
+   "text": "in",
+   "time": 150.96,
+   "weight": 0.4,
+   "note_time": 150.0
+  },
+  {
+   "text": "the",
+   "time": 152.5,
+   "weight": 0.99,
+   "note_time": 150.79
+  },
+  {
+   "text": "name",
+   "time": 153.14,
+   "weight": 0.97,
+   "note_time": 151.18
+  },
+  {
+   "text": "And",
+   "time": 153.94,
+   "weight": 0.28,
+   "note_time": 153.95
+  },
+  {
+   "text": "be",
+   "time": 156.44,
+   "weight": 0.99,
+   "note_time": 154.74
+  },
+  {
+   "text": "hold,",
+   "time": 156.68,
+   "weight": 0.99,
+   "note_time": 155.13
+  },
+  {
+   "text": "it",
+   "time": 157.46,
+   "weight": 0.99,
+   "note_time": 156.32
+  },
+  {
+   "text": "was",
+   "time": 157.98,
+   "weight": 1.0,
+   "note_time": 157.11
+  },
+  {
+   "text": "ve",
+   "time": 158.4,
+   "weight": 1.0,
+   "note_time": 157.5
+  },
+  {
+   "text": "ry",
+   "time": 158.71,
+   "weight": 1.0,
+   "note_time": 160.66
+  },
+  {
+   "text": "good",
+   "time": 159.02,
+   "weight": 1.0,
+   "note_time": 161.05
+  },
+  {
+   "text": "The",
+   "time": 161.84,
+   "weight": 0.59,
+   "note_time": 161.84
+  },
+  {
+   "text": "sixth",
+   "time": 163.24,
+   "weight": 0.99,
+   "note_time": 162.24
+  },
+  {
+   "text": "day",
+   "time": 163.64,
+   "weight": 1.0,
+   "note_time": 162.63
+  },
+  {
+   "text": "was",
+   "time": 165.1,
+   "weight": 1.0,
+   "note_time": 163.42
+  },
+  {
+   "text": "done",
+   "time": 166.26,
+   "weight": 1.0,
+   "note_time": 163.82
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 1.1 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "8 of 26 lyric lines sit clearly on their notes; 18 are uncertain and printed in grey italics."
+}

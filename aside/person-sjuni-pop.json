@@ -1,0 +1,105 @@
+{
+ "id": "person-sjuni-pop",
+ "machine": "Home Mac (M1 Max, 64 GB)",
+ "date": "2026-11-03T04:21:23.623Z",
+ "attempts": [
+  {
+   "folder": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-sjuni-pop-rejected-1",
+   "seed": 31139,
+   "check": {
+    "model": "qwen3.8:27b",
+    "verdict": "wrong",
+    "problems": [
+     {
+      "time": "11.9–14.8",
+      "kind": "missing",
+      "detail": "Verse 1 lines 2–5 (\"Eri, Arodi, and Areli / Sons of Gad in the line of Seth / Gathering near the river / Sixty-six in the house of Jacob\") are not sung at all. The singer moves directly from line 1 (\"Ziphion, Haggi, Shuni, Ezbon\") into the Chorus at 13.9 s, with no gap in which those four lines could have been sung. This is several lines of a verse lost, not a single line dropped from a list."
+     },
+     {
+      "time": "28.6–37.8",
+      "kind": "missing",
+      "detail": "Verse 1 lines 6–8 (\"With Joseph's two sons, the count was right / Seventy souls moving toward Egypt / Walking through the famine's night\") are heard here, but they appear *after* the Chorus and the first four lines of Verse 2, splitting Verse 1 in two and breaking the requested order. Combined with the four missing lines above, the verse no longer reads as a coherent unit."
+     },
+     {
+      "time": "13.9–27.9",
+      "kind": "other",
+      "detail": "\"They stood before Moses' face\" is transcribed as \"They stood before Moses's name in the census book\" – Whisper has clearly bled the adjacent Chorus line into this one. Treated as a Whisper error (FINE), but it confirms the Chorus is being sung where Verse 1 lines 2–5 should be."
+     },
+     {
+      "time": "11.9–14.8",
+      "kind": "other",
+      "detail": "\"Ziphion\" heard as \"Sevin\" (low-confidence, ?). FINE – similar-sounding name in context."
+     },
+     {
+      "time": "60.8–73.2",
+      "kind": "other",
+      "detail": "\"Gadites\" → \"Gadads\"; \"Jazer\" → \"Jezer\". FINE – near-identical sounds."
+     },
+     {
+      "time": "74.0–85.4",
+      "kind": "other",
+      "detail": "\"Ataroth\" → \"Adaroth\"; \"Dibon\" → \"Debon\"; \"Nimrah\" → \"Nimrod\"; \"Elealeh\" → \"Delilah\" (all ?). FINE – similar-sounding place names, low confidence."
+     },
+     {
+      "time": "105.1–123.5",
+      "kind": "other",
+      "detail": "\"fathers'\" → \"father's\". FINE – plural/contraction."
+     },
+     {
+      "time": "142.7–146.6",
+      "kind": "other",
+      "detail": "\"Shunite\" → \"Shuny\". FINE – truncated similar sound."
+     },
+     {
+      "time": "164.7",
+      "kind": "other",
+      "detail": "\"Thank you\" in trailing silence. FINE – Whisper invention on quiet audio."
+     }
+    ],
+    "summary": "The song is broken. Four of the eight lines in Verse 1 (\"Eri, Arodi, and Areli / Sons of Gad in the line of Seth / Gathering near the river / Sixty-six in the house of Jacob\") are never sung; the singer jumps straight from line 1 into the Chorus. The remaining three lines of that verse (6–8) are heard later, wedged between the Chorus and Verse 2, so the verse is split and out of order. This is not a single line dropped from a list but half a verse lost plus a structural break, which meets the \"wrong\" threshold for content lost."
+   }
+  },
+  {
+   "folder": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-sjuni-pop-rejected-2",
+   "seed": 31140,
+   "check": {
+    "model": "qwen3.8:27b",
+    "verdict": "wrong",
+    "problems": [
+     {
+      "time": "12.5–51.3",
+      "kind": "unrequested repeat",
+      "detail": "Verse lines 5 and 6 (\"Sixty-six in the house of Jacob / With Joseph's two sons, the count was right\") are sung twice in a row, followed by a third partial echo of \"the count was right.\" The requested structure has each line only once; a verse line sung twice is an unintended repeat, not emphasis."
+     }
+    ],
+    "summary": "The verse lines \"Sixty-six in the house of Jacob\" and \"With Joseph's two sons, the count was right\" are clearly repeated (Whisper transcribes them twice, plus a trailing \"the count was right\"), which is an unintended repeat of verse lines. All other differences (\"Seventy-six\" for \"Sixty-six,\" missing \"flocks\" in the first chorus, name variants like Adaroth/Dibbon/Ninra/Elili, \"censor's\" for \"census,\" \"discourage\" for \"discouraged,\" and the garbled outro \"Should I cleanse hands in the land?\" for \"The Shunite clan stands in the land\") are within the range of Whisper transcription errors or sung-word mishearings. The gap at 0–15 s is long enough for the two name-list lines to have been sung but not transcribed. The repeat, however, is a structural error that makes the song wrong."
+   }
+  },
+  {
+   "folder": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-sjuni-pop-rejected-3",
+   "seed": 31141,
+   "check": {
+    "model": "qwen3.8:27b",
+    "verdict": "wrong",
+    "problems": [
+     {
+      "time": "72.7–84.1",
+      "kind": "unrequested repeat",
+      "detail": "Verse 2 lines 1–4 (\"Reubenites and Gadites saw / Jazer and Gilead's wide space / Ideal country for their herds / They stood before Moses' face\") are sung a second time here, after already being sung at roughly 20–30 s inside the [13.6–41.0] block. The requested structure has those four lines only once, so this is an unintended repeat of verse lines."
+     },
+     {
+      "time": "13.6–41.0 / 43.5–69.6",
+      "kind": "wrong words",
+      "detail": "Verse 1 lines 5–8 are split and interleaved with Verse 2: lines 5–6 (\"Sixty-six in the house of Jacob / With Joseph's two sons, the count was right\") appear at the end of the [13.6–41.0] block after Verse 2 lines 5–6, and lines 7–8 (\"Seventy souls moving toward Egypt / Walking through the famine's night\") appear at the start of [43.5–69.6]. The two verses are not sung as coherent blocks."
+     },
+     {
+      "time": "0.0–14.6",
+      "kind": "wrong words",
+      "detail": "Verse 1 lines are reordered: lines 3–4 (\"Sons of Gad in the line of Seth / Gathering near the river\") are sung first, then line 2 (\"Eri, Arodi, and Areli\") in the 5.6–12.6 s gap, then line 1 (\"Ziphion, Haggi, Shuni, Ezbon\") last at 12.6–14.6 s, rather than in the written 1-2-3-4 order."
+     }
+    ],
+    "summary": "The song is structurally broken: Verse 1 lines are reordered and split apart, Verse 1 and Verse 2 lines are interleaved, and Verse 2 lines 1–4 are sung twice (at ~20 s and again at 72.7 s), which is an unintended repeat of verse lines. The three choruses and the overall jumbled verse order make the performance not match the requested structure."
+   }
+  }
+ ]
+}

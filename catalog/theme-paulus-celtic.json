@@ -1,0 +1,45 @@
+{
+  "id": "theme-paulus-celtic",
+  "title": "Guard What Is Entrusted",
+  "kind": "theme",
+  "anchor": {
+    "theme": "paulus"
+  },
+  "references": [
+    {
+      "bookId": 55,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "paulus",
+      "guds-trofasthet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Solo female voice with ethereal choir, Celtic harp, bodhran, tin whistle, fiddle, uilleann pipes, contemplative and majestic, 85 BPM",
+    "lyrics": "[Verse]\nI suffer as I do\nFor the truth I hold so true\nNot ashamed in this trial\nMy spirit stands firm and still\n\n[Chorus]\nI know the one I trust\nHe will hold the sacred dust\nGuard what was given to me\nUntil the day we see\n\n[Verse]\nI know the one I trust\nHe will hold the sacred dust\nGuard what was given to me\nUntil the day we see\n\n[Chorus]\nI know the one I trust\nHe will hold the sacred dust\nGuard what was given to me\nUntil the day we see\n\n[Verse]\nI am convinced in my heart\nThat God will keep my part\nUntil that final day\nWhen the night turns to day\n\n[Chorus]\nI know the one I trust\nHe will hold the sacred dust\nGuard what was given to me\nUntil the day we see\n\n[Bridge]\nNot ashamed in the pain\nFor I know the Lord again\nHe guards what I hold dear\nUntil the time is near\n\n[Outro]\nGuard what has been entrusted\nUntil that day we trust",
+    "cot": "full",
+    "seed": 31198
+  }
+}

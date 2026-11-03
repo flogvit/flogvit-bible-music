@@ -1,0 +1,43 @@
+{
+  "id": "story-sytti-aars-eksil-og-kyros-edikt-rock",
+  "title": "Let Him Go Up",
+  "kind": "story",
+  "anchor": {
+    "story": "sytti-aars-eksil-og-kyros-edikt"
+  },
+  "references": [
+    {
+      "bookId": 14,
+      "chapter": 36,
+      "verseStart": 21,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [
+      "sytti-aars-eksil-og-kyros-edikt"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, electric guitar, acoustic guitar, drums, bass, organ, solemn and powerful, 90 BPM",
+    "lyrics": "[Verse]\nThe land lay desolate in silence\nSeventy years of sabbath kept\nThe word of Jeremiah fulfilled\nThe desert days were not forgotten\n\n[Chorus]\nThe God of heaven gave the earth\nHe appointed me to build a house\nIn Jerusalem which is in Judah\nMay the Lord his God be with him\nLet him go up\n\n[Verse]\nIn the first year of his reign\nCyrus king of Persia spoke\nHe stirred the spirit of the king\nA proclamation went throughout the land\n\n[Chorus]\nThe God of heaven gave the earth\nHe appointed me to build a house\nIn Jerusalem which is in Judah\nMay the Lord his God be with him\nLet him go up\n\n[Bridge]\nSo that the word might be accomplished\nThe Lord stirred up the spirit\nAnd he put it in writing\nAcross the kingdoms of the earth\n\n[Chorus]\nThe God of heaven gave the earth\nHe appointed me to build a house\nIn Jerusalem which is in Judah\nMay the Lord his God be with him\nLet him go up\n\n[Outro]\nAny of you who are of his people\nLet him go up",
+    "cot": "full",
+    "seed": 31194
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "story-samuels-dommerembede-og-reise-orchestral",
+  "title": "Samuel's Circuit",
+  "kind": "story",
+  "anchor": {
+    "story": "samuels-dommerembede-og-reise"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 7,
+      "verseStart": 15,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "samuels-dommerembede-og-reise"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, solo, cello, flute, harp, timpani, majestic and steady, 80 BPM",
+    "lyrics": "[Verse]\nSamuel judged Israel all the days of his life\nYear after year he traveled the circuit wide\nBethel, Gilgal, and Mizpah were the places he knew\nJudging the people in every place he drew\n\n[Chorus]\nHe returned to Ramah where his home was found\nThere he judged Israel on the sacred ground\nAnd he built an altar to the LORD there\nKeeping the promise with unceasing care\n\n[Verse]\nFrom the high places down to the valley floor\nHis voice raised the judgment to heaven's door\nIn Bethel he stood and in Gilgal he sat\nGiving the people the answer they sought\n\n[Chorus]\nHe returned to Ramah where his home was found\nThere he judged Israel on the sacred ground\nAnd he built an altar to the LORD there\nKeeping the promise with unceasing care\n\n[Verse]\nMizpah saw his face with the people nearby\nHe judged Israel with justice and supply\nThen back to Ramah his journey was done\nIn the house of his father, the work was begun\n\n[Chorus]\nHe returned to Ramah where his home was found\nThere he judged Israel on the sacred ground\nAnd he built an altar to the LORD there\nKeeping the promise with unceasing care\n\n[Outro]\nSamuel judged Israel all the days of his life",
+    "cot": "full",
+    "seed": 31193
+  }
+}

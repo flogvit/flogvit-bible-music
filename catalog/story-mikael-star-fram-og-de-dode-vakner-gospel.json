@@ -1,0 +1,41 @@
+{
+  "id": "story-mikael-star-fram-og-de-dode-vakner-gospel",
+  "title": "Shine Like the Stars",
+  "kind": "story",
+  "anchor": {
+    "story": "mikael-star-fram-og-de-dode-vakner"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "mikael-star-fram-og-de-dode-vakner"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with gospel choir, piano, drums, organ, bass, strings, hopeful and solemn, 90 BPM",
+    "lyrics": "[Verse]\nAt that time Michael shall arise\nThe great prince who stands guard\nOver your people in the dust\nIn a time of great distress\n\n[Chorus]\nSome to everlasting life\nSome to shame and contempt\nBut the wise shall shine\nLike the brightness of the firmament\n\n[Verse]\nThose whose names are in the book\nWill be delivered then\nSleeping in the dust of earth\nAwakening once again\n\n[Chorus]\nSome to everlasting life\nSome to shame and contempt\nBut the wise shall shine\nLike the brightness of the firmament\n\n[Bridge]\nLead many to righteousness\nLike the stars forever and ever\nShining bright in the sky\nYour reward is forever\n\n[Chorus]\nSome to everlasting life\nSome to shame and contempt\nBut the wise shall shine\nLike the brightness of the firmament\n\n[Outro]\nLike the stars forever and ever",
+    "cot": "full",
+    "seed": 31192
+  }
+}

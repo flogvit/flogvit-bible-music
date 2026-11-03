@@ -1,0 +1,43 @@
+{
+  "id": "story-jesus-forkyner-guds-rike-soul",
+  "title": "The Time Has Been Fulfilled",
+  "kind": "story",
+  "anchor": {
+    "story": "jesus-forkyner-guds-rike"
+  },
+  "references": [
+    {
+      "bookId": 41,
+      "chapter": 1,
+      "verseStart": 14,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [
+      "jesus-forkyner-guds-rike"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful female vocal, warm electric piano, soft bass guitar, gentle drums, subtle strings, deep and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nAfter John was arrested then\nJesus came into Galilee land\nProclaiming the gospel of God\nA message of grace so grand\n\n[Chorus]\nThe time has been fulfilled he said\nThe kingdom of God is near\nRepent and believe in the gospel\nLet your spirit draw close here\n\n[Verse]\nHe called out to the crowds\nRepent and believe in the good news\nThe kingdom is close at hand\nTrust in the words that are true\n\n[Chorus]\nThe time has been fulfilled he said\nThe kingdom of God is near\nRepent and believe in the gospel\nLet your spirit draw close here\n\n[Bridge]\nAfter John was handed over\nJesus walked the dusty road\nProclaiming the good news of God\nIn the fields of Galilee glow\n\n[Chorus]\nThe time has been fulfilled he said\nThe kingdom of God is near\nRepent and believe in the gospel\nLet your spirit draw close here\n\n[Outro]\nThe time has been fulfilled\nThe kingdom of God is near",
+    "cot": "full",
+    "seed": 31196
+  }
+}

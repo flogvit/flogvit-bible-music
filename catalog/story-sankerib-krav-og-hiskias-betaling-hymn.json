@@ -1,0 +1,48 @@
+{
+  "id": "story-sankerib-krav-og-hiskias-betaling-hymn",
+  "title": "Stripped of Gold",
+  "kind": "story",
+  "anchor": {
+    "story": "sankerib-krav-og-hiskias-betaling"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 18,
+      "verseStart": 13,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "ydmykhet",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "sankerib-krav-og-hiskias-betaling"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo, somber and reflective, solo voice, organ, cello, flute, soft percussion, 72 BPM",
+    "lyrics": "[Verse]\nIn Hezekiah's fourteenth year,\nThe Assyrian king drew near.\nSennacherib attacked the land,\nHe took the strongholds in his hand.\n\n[Verse]\nFrom Lachish Hezekiah spoke,\n\"I have sinned, my sins I broke.\"\n\"Withdraw from me, I will pay,\nWhatever you demand today.\"\n\n[Verse]\nThree hundred talents of silver stood,\nThirty talents of gold added to the wood.\nHe gave the silver found inside,\nThe house of the Lord, side by side.\n\n[Verse]\nFrom palace treasuries he drew,\nEvery coin that he knew.\nThe doors of the temple he stripped bare,\nThe gold he gave him there.\n\n[Outro]\nHe gave the doors to the king of Assyria.",
+    "cot": "full",
+    "seed": 31189
+  }
+}

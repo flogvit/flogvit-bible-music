@@ -1,0 +1,42 @@
+{
+  "id": "story-elia-ber-om-regn-children",
+  "title": "Elijah's Earnest Prayer",
+  "kind": "story",
+  "anchor": {
+    "story": "elia-ber-om-regn"
+  },
+  "references": [
+    {
+      "bookId": 59,
+      "chapter": 5,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [
+      "elia-ber-om-regn"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, children, female solo voice, piano, acoustic guitar, gentle percussion, warm and reverent, 80 BPM",
+    "lyrics": "[Verse]\nElijah was a man just like us\nHe prayed earnestly to the Lord\nThat it would not rain on the land\nNo rain fell for three and a half years\n\n[Chorus]\nHe prayed again with all his heart\nThe heavens opened wide and gave rain\nThe earth produced its harvest now\nPower of prayer is seen today\n\n[Verse]\nA human being just like us\nHe sought the Lord with deep desire\nThe drought held fast for long days\nUntil his words reached heaven high\n\n[Chorus]\nHe prayed again with all his heart\nThe heavens opened wide and gave rain\nThe earth produced its harvest now\nPower of prayer is seen today\n\n[Bridge]\nEarnest prayer moves the heavens\nIt stops the rain or brings it back\nLike Elijah standing in faith\nWe seek the Lord in every way\n\n[Outro]\nThe earth produced its harvest\nRain came down from the sky",
+    "cot": "full",
+    "seed": 31195
+  }
+}

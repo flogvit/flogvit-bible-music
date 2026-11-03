@@ -1,0 +1,53 @@
+{
+  "id": "theme-david-ballad",
+  "title": "Root and Offspring",
+  "kind": "theme",
+  "anchor": {
+    "theme": "david"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 66,
+      "chapter": 22,
+      "verseStart": 16,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "david",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, piano, cello, acoustic guitar, soft pad, hopeful, 72 BPM",
+    "lyrics": "[Verse]\nThis is the record of the genealogy\nJesus Christ the son of David\nThe son of Abraham stands revealed\nFrom the dust to the throne he is\n\n[Chorus]\nI am the Root and the Offspring of David\nThe bright Morning Star shines for you\nTestified to the churches by my angel\nGrace extends to the ones who turn back\n\n[Verse]\nA warrior poet who fell into sin\nYet God saw his heart and chose him\nA young shepherd under the watchful eye\nDefeated the giant with faith in God\n\n[Chorus]\nI am the Root and the Offspring of David\nThe bright Morning Star shines for you\nTestified to the churches by my angel\nGrace extends to the ones who turn back\n\n[Bridge]\nHis offspring shall sit on the throne forever\nThe promise fulfilled in the King of kings\nFrom the depths of sorrow to heights of praise\nThe record remains for all to see\n\n[Outro]\nI am the Root and the Offspring of David\nThe bright Morning Star",
+    "cot": "full",
+    "seed": 31197
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "story-dommen-over-basan-kyrene-choral",
+  "title": "Cows of Bashan",
+  "kind": "story",
+  "anchor": {
+    "story": "dommen-over-basan-kyrene"
+  },
+  "references": [
+    {
+      "bookId": 30,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "dommen-over-basan-kyrene"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn female soprano solo with low string quartet, harp, organ, and timpani, dark and foreboding mood, 72 BPM",
+    "lyrics": "[Verse]\nHear this word, you cows of Bashan\nLiving on Mount Samaria\nYou oppress the poor and crush the needy\nSaying, Bring us something to drink\n\n[Verse]\nThe Lord GOD has sworn by his holiness\nDays are coming upon you\nYou will be carried off with hooks\nThe last of you with fishhooks\n\n[Verse]\nYou will go out through breaches in the wall\nEach woman straight ahead of her\nYou will be cast out toward Harmon\nDeclares the LORD, the end is near",
+    "cot": "full",
+    "seed": 31190
+  }
+}

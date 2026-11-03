@@ -1,0 +1,44 @@
+{
+  "id": "story-kurven-med-sommerfrukt-folk",
+  "title": "The End Has Come",
+  "kind": "story",
+  "anchor": {
+    "story": "kurven-med-sommerfrukt"
+  },
+  "references": [
+    {
+      "bookId": 30,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frykt"
+    ],
+    "stories": [
+      "kurven-med-sommerfrukt"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, rustic and somber, acoustic guitar, cello, tambourine, 80 BPM",
+    "lyrics": "[Verse]\nThe Lord showed me a sight\nA basket of summer fruit\nHe asked what I see, Amos\nI answered the Lord's truth\n\n[Chorus]\nThe end has come for Israel\nI will never pass them by\nThe time of grace is finished\nUnder the open sky\n\n[Verse]\nOn that day the palace sings\nBut the song turns to wailing\nThe temple songs are broken\nThe joy is now failing\n\n[Chorus]\nThe end has come for Israel\nI will never pass them by\nThe time of grace is finished\nUnder the open sky\n\n[Bridge]\nCorpses everywhere are found\nFlung out in silence deep\nNo one hears the lament\nAs the secrets sleep\n\n[Outro]\nThe end has come for Israel\nThe basket holds the day",
+    "cot": "full",
+    "seed": 31191
+  }
+}

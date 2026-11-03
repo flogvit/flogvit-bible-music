@@ -1,0 +1,59 @@
+{
+  "id": "person-tafat-gospel",
+  "title": "Taphath of Dor",
+  "kind": "person",
+  "anchor": {
+    "person": "tafat"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 11,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "tafat",
+      "salomo",
+      "ben-abinadab",
+      "david",
+      "batseba"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female gospel solo, soft piano, warm strings, gentle drum, acoustic guitar, reverent and majestic mood, 80 BPM",
+    "lyrics": "[Verse]\nTwelve governors ruled over all Israel\nSupplying provisions for the king and house\nEach one held a month of the whole year\nBen-Hur in the hills of Ephraim\nBen-Deker in Makaz and Shaalbim\nBen-Hesed in Arubboth and Hepher\n\n[Pre-Chorus]\nIn all the region of Naphath Dor\nBen-Abinadab held his place\nA governor among the twelve names\nKeeping the household in good order\n\n[Chorus]\nHe had Solomon's daughter Taphath as his wife\nA bond of loyalty and royal grace\nIn the district of Naphath Dor\nHer name is remembered in that line\n\n[Verse]\nBaana son of Ahilud in Taanach\nMegiddo and Beth Shan by Zarethan\nFrom Beth Shan to Abel Meholah\nStretching out as far as Jokmeam\nSolomon had many wives of royal birth\nAnd three hundred concubines by his side\n\n[Chorus]\nHe had Solomon's daughter Taphath as his wife\nA bond of loyalty and royal grace\nIn the district of Naphath Dor\nHer name is remembered in that line\n\n[Chorus]\nHe had Solomon's daughter Taphath as his wife\nA bond of loyalty and royal grace\nIn the district of Naphath Dor\nHer name is remembered in that line",
+    "cot": "full",
+    "seed": 31144
+  }
+}

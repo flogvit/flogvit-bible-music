@@ -1,0 +1,46 @@
+{
+  "id": "story-dommen-over-blodbyen-jerusalem-rock",
+  "title": "City of Blood",
+  "kind": "story",
+  "anchor": {
+    "story": "dommen-over-blodbyen-jerusalem"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "synden",
+      "lidelse"
+    ],
+    "stories": [
+      "dommen-over-blodbyen-jerusalem"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male gritty rock vocal, electric guitar, bass guitar, drums, keyboard, dark aggressive mood, 110 BPM",
+    "lyrics": "[Verse]\nI will confront you with your detestable deeds\nCity that sheds blood in her midst\nYou have brought guilt upon yourself\nBy idols you have defiled yourself\n\n[Chorus]\nCity of blood, city of foul name\nA mockery to every land\nI will scatter you among the nations\nAnd disperse you through the lands\n\n[Verse]\nPrinces rely on the strength of their arm\nTreating father and mother with contempt\nOppressing the stranger, wronging the orphan\nDespising what is holy to me\n\n[Chorus]\nCity of blood, city of foul name\nA mockery to every land\nI will scatter you among the nations\nAnd disperse you through the lands\n\n[Verse]\nThe house of Israel has become dross to me\nCopper, tin, iron, and lead in the furnace\nI will gather you into the middle\nAnd put you in to melt you down\n\n[Chorus]\nCity of blood, city of foul name\nA mockery to every land\nI will scatter you among the nations\nAnd disperse you through the lands\n\n[Bridge]\nProphets conspire like roaring lions tearing prey\nPriests make no distinction between holy and common\nOfficials are like wolves destroying lives\nI searched for one to repair the wall\n\n[Outro]\nBut I found no one to stand in the breach\nSo I have poured out my indignation",
+    "cot": "full",
+    "seed": 31146
+  }
+}

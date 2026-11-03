@@ -1,0 +1,45 @@
+{
+  "id": "story-josef-og-potifars-hustru-country",
+  "title": "How Then Could I",
+  "kind": "story",
+  "anchor": {
+    "story": "josef-og-potifars-hustru"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 39,
+      "verseStart": 1,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "josef",
+      "synden",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "josef-og-potifars-hustru"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and narrative, acoustic guitar, pedal steel, fiddle, upright bass, soft drums, nostalgic and dramatic, 90 BPM",
+    "lyrics": "[Verse]\nJoseph came to Egypt's land\nBought from Ishmaelites' hand\nPotiphar put him in his house\nTrust in every single course\nThe Lord was near and he prospered\nSuccess in all that he did\nHis master saw the blessing\nAnd gave him every thing\n\n[Chorus]\nHow then could I do such a great evil\nAnd sin against God\nHe withheld nothing from me\nExcept her wife's love\n\n[Verse]\nShe saw him handsome and well built\nDay by day she spoke\n\"Come to bed with me\" she whispered\nHe refused the call\n\"My master trusts me fully\nIn this house I stand\nNo one is above me here\nExcept her in this land\n\n[Chorus]\nHow then could I do such a great evil\nAnd sin against God\nHe withheld nothing from me\nExcept her wife's love\n\n[Bridge]\nOne day alone in the house\nShe caught his cloak tight\nHe left it in her hand\nAnd ran into the night\nShe told the servants her story\nScreamed at the top of her voice\nAccused the Hebrew slave\nOf breaking her choice\n\n[Chorus]\nHow then could I do such a great evil\nAnd sin against God\nHe withheld nothing from me\nExcept her wife's love\n\n[Outro]\nBut the Lord was with him still\nIn prison's dark place\nShe showed him steadfast love\nAnd favor in his face",
+    "cot": "full",
+    "seed": 31151
+  }
+}

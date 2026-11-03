@@ -1,0 +1,42 @@
+{
+  "id": "story-saul-og-spaakvinnen-i-en-dor-acoustic",
+  "title": "Torn from your hand",
+  "kind": "story",
+  "anchor": {
+    "story": "saul-og-spaakvinnen-i-en-dor"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 28,
+      "verseStart": 3,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "saul-og-spaakvinnen-i-en-dor"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone, soulful and weary, solo voice, acoustic guitar, cello, piano, gentle percussion, minor key, 75 BPM",
+    "lyrics": "[Verse]\nSamuel was dead and buried in Ramah\nSaul had driven mediums from the land\nThe Philistines camped at Shunem\nSaul gathered Israel at Gilboa\nHe saw the army and his heart was gripped by terror\nHe inquired of the Lord for a sign\n\n[Chorus]\nThe Lord gave no answer by dreams\nNot by Urim nor by prophets\nSo find me a woman who is a medium\nTo consult a spirit in the night\n\n[Verse]\nThere is a woman at En-Dor\nSaul disguised himself in other clothes\nHe went with two men into the dark\nAnd asked her to bring up the one he named\nShe warned him of the trap he was setting\nBut he swore by the Lord she would not be punished\n\n[Chorus]\nThe Lord gave no answer by dreams\nNot by Urim nor by prophets\nSo find me a woman who is a medium\nTo consult a spirit in the night\n\n[Verse]\nI see a divine being coming up\nAn old man wrapped in a robe is rising\nSaul bowed low with his face to the ground\nAsking why he had disturbed the spirit\nHe spoke of his distress and God’s silence\nAnd called on Samuel to tell him what to do\n\n[Chorus]\nThe Lord gave no answer by dreams\nNot by Urim nor by prophets\nSo find me a woman who is a medium\nTo consult a spirit in the night\n\n[Bridge]\nWhy ask me now that the Lord has turned away\nHe has torn the kingdom out of your hand\nGiven it to your neighbor, to David\nBecause you did not obey the voice of the Lord\n\n[Outro]\nThe Lord will hand you and Israel over\nTomorrow you and your sons will be with me",
+    "cot": "full",
+    "seed": 31152
+  }
+}

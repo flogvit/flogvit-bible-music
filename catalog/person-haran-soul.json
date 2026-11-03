@@ -1,0 +1,60 @@
+{
+  "id": "person-haran-soul",
+  "title": "Haran in Ur",
+  "kind": "person",
+  "anchor": {
+    "person": "haran"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 27,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 28,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "hap",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "haran",
+      "abraham",
+      "lot",
+      "tarah",
+      "nahor"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male soul voice, solo with choir harmonies, warm piano, soft strings, gentle bass, light percussion, mournful and reflective, 70 BPM",
+    "lyrics": "[Verse]\nTerah lived seventy years in Ur\nHe became the father of three sons\nAbram and Nahor and Haran\nTheir story begins in the dust\n\n[Verse]\nHaran became the father of Lot\nAnd Milcah and Iscah as well\nIn the land where his roots were found\nBefore the long journey began\n\n[Chorus]\nHaran died in the land of his birth\nIn Ur of the Chaldeans he slept\nWhile his father Terah was still alive\nHis life ended before the move\n\n[Verse]\nAbram and Nahor took wives\nSarai for Abram and Milcah for Nahor\nThe daughter of Haran is named\nIn the record of Terah's house\n\n[Chorus]\nHaran died in the land of his birth\nIn Ur of the Chaldeans he slept\nWhile his father Terah was still alive\nHis life ended before the move\n\n[Bridge]\nThe account of Terah is clear\nHaran the father of Lot\nHe stayed behind in the city\nBefore the family moved to Canaan\n\n[Chorus]\nHaran died in the land of his birth\nIn Ur of the Chaldeans he slept\nWhile his father Terah was still alive\nHis life ended before the move\n\n[Outro]\nHaran died in the land of his birth\nIn Ur of the Chaldeans he slept",
+    "cot": "full",
+    "seed": 31148
+  }
+}

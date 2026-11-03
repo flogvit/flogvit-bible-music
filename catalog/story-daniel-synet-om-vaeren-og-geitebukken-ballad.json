@@ -1,0 +1,47 @@
+{
+  "id": "story-daniel-synet-om-vaeren-og-geitebukken-ballad",
+  "title": "The Ram and the Goat",
+  "kind": "story",
+  "anchor": {
+    "story": "daniel-synet-om-vaeren-og-geitebukken"
+  },
+  "references": [
+    {
+      "bookId": 27,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "lignelsene",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "daniel-synet-om-vaeren-og-geitebukken"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male vocal, solo with ethereal choir, piano, cello, flute, ambient pads, haunting and majestic, 80 BPM",
+    "lyrics": "[Verse]\nA vision came in the third year's reign\nBeside the Ulai canal I remained\nI saw a ram with two horns long\nOne longer than the other, strong\nIt charged west and north and south\nNo beast could stand its power, no doubt\nIt did as it pleased and grew\nGreat in the eyes of the few\n\n[Chorus]\nA goat came from the west, flying high\nCrossing the earth without touching the sky\nA horn between its eyes, conspicuous and bright\nIt struck the ram in furious might\nThe ram fell down and was trampled underfoot\nRescued from none, the ram was lost\n\n[Verse]\nThe goat grew great in power and might\nBut at the peak, the large horn broke and died\nFour horns rose up toward the winds of heaven\nReplacing the one that had been taken\nOut of one came a small horn, growing\nToward the south and east, forever flowing\nIt reached the host of heaven above\nThrowing stars down, trampled in love\n\n[Chorus]\nA goat came from the west, flying high\nCrossing the earth without touching the sky\nA horn between its eyes, conspicuous and bright\nIt struck the ram in furious might\nThe ram fell down and was trampled underfoot\nRescued from none, the ram was lost\n\n[Bridge]\nA holy one asked how long it would take\nFor the vision of the daily sacrifice to break\nHe answered with two thousand three hundred days\nThen the sanctuary will be restored in ways\nGabriel stood before me, I was afraid\nHe spoke of the time of the end, unswayed\nThe ram was Media and Persia's crown\nThe goat was Greece, the king found\n\n[Chorus]\nA goat came from the west, flying high\nCrossing the earth without touching the sky\nA horn between its eyes, conspicuous and bright\nIt struck the ram in furious might\nThe ram fell down and was trampled underfoot\nRescued from none, the ram was lost\n\n[Outro]\nThe vision is sealed for the distant future\nI was worn out and ill for a measure",
+    "cot": "full",
+    "seed": 31149
+  }
+}

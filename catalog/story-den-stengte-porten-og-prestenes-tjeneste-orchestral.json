@@ -1,0 +1,47 @@
+{
+  "id": "story-den-stengte-porten-og-prestenes-tjeneste-orchestral",
+  "title": "I Am Their Possession",
+  "kind": "story",
+  "anchor": {
+    "story": "den-stengte-porten-og-prestenes-tjeneste"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 44,
+      "verseStart": 1,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "covenant",
+      "obedience"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten",
+      "ydmykhet"
+    ],
+    "stories": [
+      "den-stengte-porten-og-prestenes-tjeneste"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, harp, cello, flute, timpani, solemn and majestic, 80 BPM",
+    "lyrics": "[Verse]\nA man brought me to the east gate\nThe door was shut and sealed tight\nThe Lord spoke from the place of glory\nNo one shall pass through this sight\nFor the God of Israel entered here\nHe stayed within the holy room\nOnly the prince may sit inside\nTo eat bread before the throne\n\n[Chorus]\nI am their inheritance\nI am their possession\nNo land in Israel given\nBut my own blessing\n\n[Verse]\nHe led me to the north gate\nThe temple filled with glory light\nI fell upon my face before him\nAnd heard the command in the night\nMark the entrances and exits\nThe laws of the house divine\nEnough of your abominations\nYou broke my covenant line\nForeigners entered the sanctuary\nProfaning my holy ground\nYou did not keep my holy things\nBut let others be found\n\n[Chorus]\nI am their inheritance\nI am their possession\nNo land in Israel given\nBut my own blessing\n\n[Verse]\nLevites who went far from me\nWandered after their idols\nBear your guilt and your disgrace\nServe at the gates and walls\nYou cannot come near to serve\nNor touch the holy things\nBut keep charge of the temple work\nAnd do all the necessary things\n\n[Bridge]\nSons of Zadok kept the charge\nWhen Israel went astray\nThey may come near to serve me\nAnd stand before my day\nLinen garments on their heads\nNo wool upon their skin\nThey shall teach my people well\nThe holy and the clean\n\n[Outro]\nI am their inheritance\nI am their possession",
+    "cot": "full",
+    "seed": 31145
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person-keran-folk",
+  "title": "Sons of Dishon",
+  "kind": "person",
+  "anchor": {
+    "person": "keran"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 20,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 41,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 5,
+      "chapter": 2,
+      "verseStart": 12,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro",
+      "abraham"
+    ],
+    "stories": [],
+    "persons": [
+      "keran",
+      "disjon",
+      "esau",
+      "seir"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with acoustic guitar, cello, and light percussion, mournful and ancient, 72 BPM",
+    "lyrics": "[Verse]\nIn the land of Seir the mountain stood tall\nLotan and Shobal and Zibeon dwell there\nAnah and Dishon and Ezer and Dishan\nChiefs of the Horites ruling the domain\n\n[Chorus]\nHemdan and Eshban and Ithran and Cheran\nSons of Dishon walking in the land\nOriginal people before the days were done\nRoots in the earth where the sun is set\n\n[Verse]\nThe descendants of Esau came with their power\nThey wiped them out and took their place\nJust as Israel took the promised land\nDispossessing those who stood in the way\n\n[Chorus]\nHemdan and Eshban and Ithran and Cheran\nSons of Dishon walking in the land\nOriginal people before the days were done\nRoots in the earth where the sun is set\n\n[Bridge]\nThirty-eight years the generation passed\nThe hand of the Lord against the camp\nThe fighting men perished from the earth\nUntil the last of the old had left\n\n[Outro]\nHemdan and Eshban and Ithran and Cheran\nSons of Dishon in the memory of man",
+    "cot": "full",
+    "seed": 31143
+  }
+}

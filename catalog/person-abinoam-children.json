@@ -1,0 +1,60 @@
+{
+  "id": "person-abinoam-children",
+  "title": "Son of Abinoam",
+  "kind": "person",
+  "anchor": {
+    "person": "abinoam"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "abinoam",
+      "barak",
+      "debora"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright folk, female solo voice with gentle choir, acoustic guitar, light percussion, flute, warm, 100 BPM",
+    "lyrics": "[Verse]\nShe sent for Barak son of Abinoam\nFrom Kedesh in Naphtali land\nGo to Mount Tabor she commanded\nTake ten thousand men at her hand\n\n[Chorus]\nRise up Barak and lead\nAway your captives it is said\nSon of Abinoam stand tall\nThe Lord will make the enemy fall\n\n[Verse]\nSisera heard the news arrive\nNine hundred iron chariots drive\nFrom Harosheth to Kishon stream\nThe battle drums began to scream\n\n[Chorus]\nRise up Barak and lead\nAway your captives it is said\nSon of Abinoam stand tall\nThe Lord will make the enemy fall\n\n[Bridge]\nThe LORD routed Sisera down\nBy the edge of the sword he fell\nBarak pursued the fleeing foe\nNot one man of the army left\n\n[Chorus]\nRise up Barak and lead\nAway your captives it is said\nSon of Abinoam stand tall\nThe Lord will make the enemy fall\n\n[Outro]\nAwake awake and break into song\nRise up Barak and lead along",
+    "cot": "full",
+    "seed": 31147
+  }
+}

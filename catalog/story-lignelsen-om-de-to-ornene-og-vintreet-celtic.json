@@ -1,0 +1,46 @@
+{
+  "id": "story-lignelsen-om-de-to-ornene-og-vintreet-celtic",
+  "title": "Majestic Cedar",
+  "kind": "story",
+  "anchor": {
+    "story": "lignelsen-om-de-to-ornene-og-vintreet"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [
+      "lignelsen-om-de-to-ornene-og-vintreet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo with atmospheric choir, Celtic harp, fiddle, bodhran, flute, soft piano, haunting and solemn mood, 70 BPM",
+    "lyrics": "[Verse]\nA great eagle with great wings\nCame to Lebanon in flight\nTook the top of the cedar\nCarried it to a trading land\nPlanted it in fertile soil\nBeside abundant water it grew\nIt became a spreading vine\nRoots beneath the eagle's wing\n\n[Chorus]\nBut the vine turned to another\nStretched its branches for water\nWill it thrive in the end\nOr wither in the east wind\nTorn up by the roots\nStripped of all its fruit\n\n[Verse]\nThe king of Babylon came\nTook the king and officials\nMade a covenant with them\nSwore an oath to keep them low\nBut he rebelled against him\nSent envoys to Egypt for help\nBroke the covenant he made\nDespised the oath he swore\n\n[Chorus]\nBut the vine turned to another\nStretched its branches for water\nWill it thrive in the end\nOr wither in the east wind\nTorn up by the roots\nStripped of all its fruit\n\n[Bridge]\nI will spread my net over him\nCatch him in my snare\nBring him to Babylon\nJudge his treachery there\nAll his troops shall fall by sword\nScattered to every wind\n\n[Chorus]\nBut the vine turned to another\nStretched its branches for water\nWill it thrive in the end\nOr wither in the east wind\nTorn up by the roots\nStripped of all its fruit\n\n[Outro]\nI will take a sprig from the cedar\nPlant it on the high mountain\nIt will become a majestic cedar\nBirds of every kind will nest",
+    "cot": "full",
+    "seed": 31150
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-68-19-gospel",
+  "title": "Blessed Be The Lord",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 68,
+    "verseStart": 19,
+    "verseEnd": 20
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 68,
+      "verseStart": 19,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone with full gospel choir, acoustic piano, electric organ, tambourine, bass guitar, steady drums, uplifting and majestic, 90 BPM",
+    "lyrics": "[Verse]\nThe chariots of God are twice ten thousand\nThousands upon thousands in the holy place\nThe Lord is among them in the sanctuary\nSinai stands firm in the sacred space\n\n[Pre-Chorus]\nYou ascended on high in your might\nYou led captives in your train\nYou received gifts among men\nEven from the rebellious\n\n[Chorus]\nBlessed be the Lord who daily bears our burdens\nThe God of our salvation is here\nBlessed be the Lord who daily bears our burdens\nThe God of our salvation is near\n\n[Verse]\nOur God is a God who saves us truly\nFrom the Lord God comes escape from death\nHe crushes the heads of his enemies\nThe hairy crown of those in guilt\n\n[Chorus]\nBlessed be the Lord who daily bears our burdens\nThe God of our salvation is here\nBlessed be the Lord who daily bears our burdens\nThe God of our salvation is near\n\n[Bridge]\nI will bring them back from Bashan high\nI will bring them back from the depths of the sea\nThe Lord speaks and the world is set free\n\n[Outro]\nBlessed be the Lord who daily bears our burdens\nThe God of our salvation",
+    "cot": "full",
+    "seed": 31224
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-66-1-folk",
+  "title": "Shout to God with joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 66,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 66,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "mercy"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, folk, male solo with choir, acoustic guitar, fiddle, hand drum, warm and celebratory, 110 BPM",
+    "lyrics": "[Verse]\nShout to God with joy, all the earth\nSing the glory of his name\nMake his praise glorious now\n\n[Chorus]\nHow awesome are your works indeed\nYour power is so great and true\nYour enemies cringe before you\n\n[Verse]\nAll the earth bows down to you\nThey sing to you in praise\nSinging praise to your name\n\n[Chorus]\nHow awesome are your works indeed\nYour power is so great and true\nYour enemies cringe before you\n\n[Bridge]\nCome and see what God has done\nAwesome deeds toward men\nLook upon the works of grace\n\n[Chorus]\nHow awesome are your works indeed\nYour power is so great and true\nYour enemies cringe before you",
+    "cot": "full",
+    "seed": 31223
+  }
+}

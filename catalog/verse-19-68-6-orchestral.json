@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-68-6-orchestral",
+  "title": "Father to the Fatherless",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 68,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 68,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, orchestral, warm female solo voice with gentle choir backing, piano, strings, soft percussion, majestic and comforting mood, 80 BPM",
+    "lyrics": "[Verse]\nAs smoke is driven away\nThe wicked perish in the fire\nBut let the righteous be glad\nExulting before Him higher\n\n[Chorus]\nA father to the fatherless\nA defender of widows\nGod in his holy dwelling\nSinging praises to his name\n\n[Verse]\nLift up a song for the Lord\nWho rides through the deserts\nRejoice before him always\nHis name is the Lord\n\n[Chorus]\nA father to the fatherless\nA defender of widows\nGod in his holy dwelling\nSinging praises to his name\n\n[Bridge]\nSettles the lonely in a home\nLeads prisoners to prosperity\nThe rebellious dwell in scorched land\nEarth shook and heavens poured rain\n\n[Outro]\nThe One of Sinai\nGod of Israel",
+    "cot": "full",
+    "seed": 31225
+  }
+}

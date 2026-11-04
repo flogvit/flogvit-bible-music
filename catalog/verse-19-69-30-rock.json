@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-69-30-rock",
+  "title": "Lift Me High",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 69,
+    "verseStart": 30,
+    "verseEnd": 31
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 69,
+      "verseStart": 30,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone voice, solo with backing choir, electric guitar, distorted bass, drums, 90 BPM, anthemic and uplifting rock",
+    "lyrics": "[Verse]\nI am afflicted in my pain\nMy spirit feels the weight\nBut your salvation O God\nWill lift me high today\n\n[Chorus]\nI will praise the name of God with song\nI will magnify him with thanksgiving\nThis will please the LORD more than an ox\nMore than a bull with horns and hooves\n\n[Verse]\nThe humble will see it and be glad\nYou who seek God let your hearts revive\nFor the LORD hears the needy truly\nAnd does not despise his own in chains\n\n[Chorus]\nI will praise the name of God with song\nI will magnify him with thanksgiving\nThis will please the LORD more than an ox\nMore than a bull with horns and hooves\n\n[Bridge]\nLift me high out of my pain\nYour praise is the sweetest sound\nMy soul will rejoice in your name\nIn this holy and sacred ground\n\n[Chorus]\nI will praise the name of God with song\nI will magnify him with thanksgiving\nThis will please the LORD more than an ox\nMore than a bull with horns and hooves\n\n[Outro]\nLift me high with your song\nMagnify him with thanksgiving",
+    "cot": "full",
+    "seed": 31226
+  }
+}

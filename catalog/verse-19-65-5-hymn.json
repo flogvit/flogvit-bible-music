@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-65-5-hymn",
+  "title": "Blessed Is The One",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 65,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 65,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female solo voice, organ, strings, piano, low brass, reverent and majestic mood, 72 BPM",
+    "lyrics": "[Verse]\nPraise awaits in silence O God\nIn Zion the vow shall be met\nYou hear the prayer of all flesh\nIniquity overwhelms the breast\n\n[Pre-Chorus]\nYou atone for our transgressions\nYour mercy covers our offenses\nWe dwell near you in your courts\nFilled with goodness and sweet sports\n\n[Chorus]\nBlessed is the one you choose\nBrought near to dwell with you\nFilled with the goodness of your house\nThe holiness of your temple too\n\n[Verse]\nAwesome deeds of righteousness\nAnswer us O our salvation\nHope of all ends of the earth\nAnd the farthest deep waters\n\n[Chorus]\nBlessed is the one you choose\nBrought near to dwell with you\nFilled with the goodness of your house\nThe holiness of your temple too\n\n[Bridge]\nYou set the mountains in place\nGirded with mighty power\nYou still the roaring of the seas\nAnd the tumult of the peoples\n\n[Chorus]\nBlessed is the one you choose\nBrought near to dwell with you\nFilled with the goodness of your house\nThe holiness of your temple too\n\n[Outro]\nBlessed is the one you choose\nBrought near to dwell with you",
+    "cot": "full",
+    "seed": 31221
+  }
+}

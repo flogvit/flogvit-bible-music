@@ -1,0 +1,44 @@
+{
+  "id": "verse-19-65-9-choral",
+  "title": "You crown the year",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 65,
+    "verseStart": 9,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 65,
+      "verseStart": 9,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with full choir, harp, strings, piano, timpani, majestic and reverent mood, 90 BPM",
+    "lyrics": "[Verse]\nWith awesome deeds of righteousness you answer us\nO God of our salvation, the hope of all\nYou set the mountains in place by your strength\nGirded with might, you hold the earth in place\n\n[Chorus]\nYou care for the land and water it\nYou enrich it abundantly, yes you do\nThe streams of God are filled with water\nTo provide the people with grain\n\n[Verse]\nYou drench its furrows and level its ridges\nYou soften it with showers and bless its growth\nYou crown the year with your bounty\nAnd your paths overflow with abundance\n\n[Chorus]\nYou care for the land and water it\nYou enrich it abundantly, yes you do\nThe streams of God are filled with water\nTo provide the people with grain\n\n[Bridge]\nThe pastures of the wilderness overflow\nThe hills are robed with joy, they sing\nThe meadows are clothed with flocks\nAnd the valleys are mantled with grain\n\n[Chorus]\nYou care for the land and water it\nYou enrich it abundantly, yes you do\nThe streams of God are filled with water\nTo provide the people with grain\n\n[Outro]\nThey shout for joy, they break into song\nThe hope of all the ends of the earth",
+    "cot": "full",
+    "seed": 31222
+  }
+}

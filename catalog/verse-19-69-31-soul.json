@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-69-31-soul",
+  "title": "More Than an Ox",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 69,
+    "verseStart": 31,
+    "verseEnd": 31
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 69,
+      "verseStart": 31,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, powerful female solo voice with gospel choir, piano, drums, bass guitar, organ, hopeful and triumphant, 90 BPM",
+    "lyrics": "[Verse]\nI am afflicted and in pain\nLet your salvation lift me high\nOut of the dust and out of shame\nI see your light in the sky\n\n[Chorus]\nI will praise the name of God with song\nI will magnify him with thanksgiving\nThis will please the LORD more than an ox\nMore than a bull with horns and hooves\n\n[Verse]\nYou who seek God let your hearts revive\nThe humble will see it and be glad\nFor the LORD hears the needy cry\nHe does not despise his own in chains\n\n[Chorus]\nI will praise the name of God with song\nI will magnify him with thanksgiving\nThis will please the LORD more than an ox\nMore than a bull with horns and hooves\n\n[Outro]\nI will praise the name of God with song\nThis will please the LORD more than an ox",
+    "cot": "full",
+    "seed": 31227
+  }
+}

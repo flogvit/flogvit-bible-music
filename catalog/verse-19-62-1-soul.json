@@ -1,0 +1,47 @@
+{
+  "id": "verse-19-62-1-soul",
+  "title": "My Soul Waits in Silence",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 62,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 62,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "ydmykhet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, upright bass, grand piano, soft strings, brushed drums, intimate soul mood, 85 BPM",
+    "lyrics": "[Verse]\nMy soul waits in silence for God alone\nFrom Him comes my salvation\nHe is my rock and my salvation\nMy stronghold in this world\n\n[Chorus]\nI will never be badly shaken\nMy soul waits in silence\nFrom Him comes my salvation\nMy soul waits in silence\n\n[Verse]\nYou all assail a man to break him down\nLike a leaning wall tottering\nLike a fence that cannot stand\nYou plot to bring him down\n\n[Chorus]\nI will never be badly shaken\nMy soul waits in silence\nFrom Him comes my salvation\nMy soul waits in silence\n\n[Bridge]\nThey take pleasure in falsehood\nWith their mouths they bless\nInwardly they curse\nMy soul rests in truth\n\n[Outro]\nFor He alone is my rock\nMy salvation my stronghold\nMy soul waits in silence",
+    "cot": "full",
+    "seed": 31219
+  }
+}

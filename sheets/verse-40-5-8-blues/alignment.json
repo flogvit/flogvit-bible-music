@@ -1,0 +1,1240 @@
+{
+ "id": "verse-40-5-8-blues",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-40-5-8-blues",
+ "offset_seconds": -3.460000000000182,
+ "words_heard": 142,
+ "words": 143,
+ "lines": [
+  {
+   "text": "Blessed are the meek, they inherit the earth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hunger for righteousness, their hearts are worth",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mercy flows to those who show it first",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Pure in heart, seeing the divine burst",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed are the pure in heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For they will see God apart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed are the pure in heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.15,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For they will see God apart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Peacemakers called sons of the divine",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Persecuted for us, the kingdom is thine",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Insults and lies, spoken against your name",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Rejoice in this truth, free from shame",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed are the pure in heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For they will see God apart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Blessed are the pure in heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.12,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For they will see God apart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The earth is theirs, the fill is given",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mercy received, the merciful are living",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Pure in heart, the vision is clear",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "God is seen, drawing near",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Blessed are the pure in heart",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "For they will see God apart",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.35,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Blessed",
+   "time": 23.96,
+   "weight": 0.32,
+   "note_time": 23.72
+  },
+  {
+   "text": "are",
+   "time": 25.0,
+   "weight": 0.99,
+   "note_time": 24.24
+  },
+  {
+   "text": "the",
+   "time": 25.36,
+   "weight": 0.99,
+   "note_time": 24.77
+  },
+  {
+   "text": "meek,",
+   "time": 25.82,
+   "weight": 0.97,
+   "note_time": 24.94
+  },
+  {
+   "text": "they",
+   "time": 26.64,
+   "weight": 0.95,
+   "note_time": 25.12
+  },
+  {
+   "text": "in",
+   "time": 27.88,
+   "weight": 1.0,
+   "note_time": 26.86
+  },
+  {
+   "text": "her",
+   "time": 28.03,
+   "weight": 1.0,
+   "note_time": 27.21
+  },
+  {
+   "text": "it",
+   "time": 28.19,
+   "weight": 1.0,
+   "note_time": 27.38
+  },
+  {
+   "text": "the",
+   "time": 28.34,
+   "weight": 1.0,
+   "note_time": 27.73
+  },
+  {
+   "text": "earth",
+   "time": 28.74,
+   "weight": 0.99,
+   "note_time": 27.91
+  },
+  {
+   "text": "Hun",
+   "time": 29.2,
+   "weight": 0.53,
+   "note_time": 29.3
+  },
+  {
+   "text": "ger",
+   "time": 29.55,
+   "weight": 0.53,
+   "note_time": 29.65
+  },
+  {
+   "text": "for",
+   "time": 30.48,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "right",
+   "time": 31.06,
+   "weight": 0.99,
+   "note_time": 30.35
+  },
+  {
+   "text": "eous",
+   "time": 31.39,
+   "weight": 0.99,
+   "note_time": 31.05
+  },
+  {
+   "text": "ness,",
+   "time": 31.71,
+   "weight": 0.99,
+   "note_time": 31.4
+  },
+  {
+   "text": "their",
+   "time": 32.04,
+   "weight": 0.15,
+   "note_time": 32.44
+  },
+  {
+   "text": "hearts",
+   "time": 33.46,
+   "weight": 0.98,
+   "note_time": 32.79
+  },
+  {
+   "text": "are",
+   "time": 34.0,
+   "weight": 0.8,
+   "note_time": 33.14
+  },
+  {
+   "text": "worth",
+   "time": 34.22,
+   "weight": 0.3,
+   "note_time": 33.49
+  },
+  {
+   "text": "Mer",
+   "time": 34.7,
+   "weight": 0.21,
+   "note_time": 34.88
+  },
+  {
+   "text": "cy",
+   "time": 35.05,
+   "weight": 0.21,
+   "note_time": 35.23
+  },
+  {
+   "text": "flows",
+   "time": 35.88,
+   "weight": 0.97,
+   "note_time": 35.93
+  },
+  {
+   "text": "to",
+   "time": 36.48,
+   "weight": 0.99,
+   "note_time": 36.45
+  },
+  {
+   "text": "those",
+   "time": 36.98,
+   "weight": 0.92,
+   "note_time": 36.63
+  },
+  {
+   "text": "who",
+   "time": 38.04,
+   "weight": 0.48,
+   "note_time": 38.02
+  },
+  {
+   "text": "show",
+   "time": 39.0,
+   "weight": 0.98,
+   "note_time": 38.37
+  },
+  {
+   "text": "it",
+   "time": 39.38,
+   "weight": 0.99,
+   "note_time": 38.55
+  },
+  {
+   "text": "first",
+   "time": 39.7,
+   "weight": 0.98,
+   "note_time": 39.07
+  },
+  {
+   "text": "Pure",
+   "time": 40.24,
+   "weight": 0.93,
+   "note_time": 40.47
+  },
+  {
+   "text": "in",
+   "time": 41.6,
+   "weight": 1.0,
+   "note_time": 41.51
+  },
+  {
+   "text": "heart,",
+   "time": 42.12,
+   "weight": 1.0,
+   "note_time": 41.69
+  },
+  {
+   "text": "see",
+   "time": 42.68,
+   "weight": 0.84,
+   "note_time": 42.91
+  },
+  {
+   "text": "ing",
+   "time": 43.03,
+   "weight": 0.84,
+   "note_time": 43.08
+  },
+  {
+   "text": "the",
+   "time": 43.92,
+   "weight": 0.69,
+   "note_time": 43.26
+  },
+  {
+   "text": "di",
+   "time": 44.24,
+   "weight": 0.93,
+   "note_time": 43.6
+  },
+  {
+   "text": "vine",
+   "time": 44.5,
+   "weight": 0.93,
+   "note_time": 43.78
+  },
+  {
+   "text": "burst",
+   "time": 44.76,
+   "weight": 0.69,
+   "note_time": 44.3
+  },
+  {
+   "text": "Blessed",
+   "time": 46.04,
+   "weight": 0.7,
+   "note_time": 46.05
+  },
+  {
+   "text": "are",
+   "time": 47.16,
+   "weight": 1.0,
+   "note_time": 47.09
+  },
+  {
+   "text": "the",
+   "time": 47.66,
+   "weight": 0.98,
+   "note_time": 47.44
+  },
+  {
+   "text": "pure",
+   "time": 48.08,
+   "weight": 0.98,
+   "note_time": 48.14
+  },
+  {
+   "text": "in",
+   "time": 48.52,
+   "weight": 0.98,
+   "note_time": 48.84
+  },
+  {
+   "text": "heart",
+   "time": 49.26,
+   "weight": 1.0,
+   "note_time": 49.01
+  },
+  {
+   "text": "For",
+   "time": 50.04,
+   "weight": 0.36,
+   "note_time": 51.45
+  },
+  {
+   "text": "they",
+   "time": 50.58,
+   "weight": 0.39,
+   "note_time": 51.63
+  },
+  {
+   "text": "will",
+   "time": 52.54,
+   "weight": 1.0,
+   "note_time": 51.98
+  },
+  {
+   "text": "see",
+   "time": 52.98,
+   "weight": 0.99,
+   "note_time": 52.33
+  },
+  {
+   "text": "God",
+   "time": 53.3,
+   "weight": 1.0,
+   "note_time": 52.67
+  },
+  {
+   "text": "a",
+   "time": 53.82,
+   "weight": 0.96,
+   "note_time": 54.07
+  },
+  {
+   "text": "part",
+   "time": 54.17,
+   "weight": 0.96,
+   "note_time": 54.24
+  },
+  {
+   "text": "Blessed",
+   "time": 57.24,
+   "weight": 1.0,
+   "note_time": 57.21
+  },
+  {
+   "text": "are",
+   "time": 58.32,
+   "weight": 1.0,
+   "note_time": 58.26
+  },
+  {
+   "text": "the",
+   "time": 58.78,
+   "weight": 1.0,
+   "note_time": 58.6
+  },
+  {
+   "text": "pure",
+   "time": 59.18,
+   "weight": 1.0,
+   "note_time": 59.3
+  },
+  {
+   "text": "in",
+   "time": 59.62,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "heart",
+   "time": 60.36,
+   "weight": 1.0,
+   "note_time": 60.17
+  },
+  {
+   "text": "For",
+   "time": 62.44,
+   "weight": 0.15,
+   "note_time": 62.62
+  },
+  {
+   "text": "they",
+   "time": 63.44,
+   "weight": 0.98,
+   "note_time": 62.79
+  },
+  {
+   "text": "will",
+   "time": 63.74,
+   "weight": 1.0,
+   "note_time": 63.14
+  },
+  {
+   "text": "see",
+   "time": 64.08,
+   "weight": 0.98,
+   "note_time": 63.49
+  },
+  {
+   "text": "God",
+   "time": 64.38,
+   "weight": 1.0,
+   "note_time": 63.84
+  },
+  {
+   "text": "a",
+   "time": 65.0,
+   "weight": 0.94,
+   "note_time": 65.23
+  },
+  {
+   "text": "part",
+   "time": 65.35,
+   "weight": 0.94,
+   "note_time": 65.41
+  },
+  {
+   "text": "Peace",
+   "time": 70.5,
+   "weight": 0.96,
+   "note_time": 70.12
+  },
+  {
+   "text": "mak",
+   "time": 70.83,
+   "weight": 0.96,
+   "note_time": 70.64
+  },
+  {
+   "text": "ers",
+   "time": 71.17,
+   "weight": 0.96,
+   "note_time": 70.99
+  },
+  {
+   "text": "called",
+   "time": 71.5,
+   "weight": 0.67,
+   "note_time": 71.16
+  },
+  {
+   "text": "sons",
+   "time": 72.24,
+   "weight": 0.88,
+   "note_time": 71.34
+  },
+  {
+   "text": "of",
+   "time": 73.34,
+   "weight": 1.0,
+   "note_time": 72.91
+  },
+  {
+   "text": "the",
+   "time": 73.76,
+   "weight": 1.0,
+   "note_time": 73.08
+  },
+  {
+   "text": "di",
+   "time": 73.92,
+   "weight": 0.74,
+   "note_time": 73.43
+  },
+  {
+   "text": "vine",
+   "time": 74.2,
+   "weight": 0.74,
+   "note_time": 73.6
+  },
+  {
+   "text": "Per",
+   "time": 76.0,
+   "weight": 0.99,
+   "note_time": 75.7
+  },
+  {
+   "text": "se",
+   "time": 76.25,
+   "weight": 0.99,
+   "note_time": 76.22
+  },
+  {
+   "text": "cut",
+   "time": 76.5,
+   "weight": 0.99,
+   "note_time": 76.4
+  },
+  {
+   "text": "ed",
+   "time": 76.75,
+   "weight": 0.99,
+   "note_time": 76.74
+  },
+  {
+   "text": "for",
+   "time": 77.0,
+   "weight": 0.96,
+   "note_time": 76.92
+  },
+  {
+   "text": "us,",
+   "time": 77.2,
+   "weight": 0.15,
+   "note_time": 77.09
+  },
+  {
+   "text": "the",
+   "time": 78.12,
+   "weight": 0.98,
+   "note_time": 77.79
+  },
+  {
+   "text": "kin",
+   "time": 78.54,
+   "weight": 0.84,
+   "note_time": 77.97
+  },
+  {
+   "text": "gdom",
+   "time": 78.85,
+   "weight": 0.84,
+   "note_time": 78.49
+  },
+  {
+   "text": "is",
+   "time": 79.16,
+   "weight": 1.0,
+   "note_time": 79.01
+  },
+  {
+   "text": "thine",
+   "time": 79.96,
+   "weight": 0.79,
+   "note_time": 79.53
+  },
+  {
+   "text": "In",
+   "time": 81.54,
+   "weight": 0.95,
+   "note_time": 81.28
+  },
+  {
+   "text": "sults",
+   "time": 81.89,
+   "weight": 0.95,
+   "note_time": 81.98
+  },
+  {
+   "text": "and",
+   "time": 82.54,
+   "weight": 1.0,
+   "note_time": 82.33
+  },
+  {
+   "text": "lies,",
+   "time": 82.7,
+   "weight": 0.98,
+   "note_time": 82.5
+  },
+  {
+   "text": "spo",
+   "time": 83.56,
+   "weight": 0.99,
+   "note_time": 83.72
+  },
+  {
+   "text": "ken",
+   "time": 83.91,
+   "weight": 0.99,
+   "note_time": 83.9
+  },
+  {
+   "text": "a",
+   "time": 84.42,
+   "weight": 1.0,
+   "note_time": 84.24
+  },
+  {
+   "text": "gainst",
+   "time": 84.73,
+   "weight": 1.0,
+   "note_time": 84.42
+  },
+  {
+   "text": "your",
+   "time": 85.04,
+   "weight": 0.55,
+   "note_time": 84.77
+  },
+  {
+   "text": "name",
+   "time": 85.48,
+   "weight": 1.0,
+   "note_time": 85.12
+  },
+  {
+   "text": "Re",
+   "time": 85.9,
+   "weight": 0.37,
+   "note_time": 86.34
+  },
+  {
+   "text": "joice",
+   "time": 86.25,
+   "weight": 0.37,
+   "note_time": 86.51
+  },
+  {
+   "text": "in",
+   "time": 87.52,
+   "weight": 1.0,
+   "note_time": 87.03
+  },
+  {
+   "text": "this",
+   "time": 87.74,
+   "weight": 0.99,
+   "note_time": 87.38
+  },
+  {
+   "text": "truth,",
+   "time": 88.12,
+   "weight": 0.99,
+   "note_time": 87.91
+  },
+  {
+   "text": "free",
+   "time": 88.82,
+   "weight": 0.98,
+   "note_time": 88.08
+  },
+  {
+   "text": "from",
+   "time": 89.88,
+   "weight": 1.0,
+   "note_time": 89.83
+  },
+  {
+   "text": "shame",
+   "time": 90.4,
+   "weight": 1.0,
+   "note_time": 90.35
+  },
+  {
+   "text": "Blessed",
+   "time": 93.22,
+   "weight": 0.6,
+   "note_time": 93.49
+  },
+  {
+   "text": "are",
+   "time": 94.26,
+   "weight": 1.0,
+   "note_time": 94.01
+  },
+  {
+   "text": "the",
+   "time": 94.66,
+   "weight": 1.0,
+   "note_time": 94.53
+  },
+  {
+   "text": "pure",
+   "time": 95.14,
+   "weight": 1.0,
+   "note_time": 94.88
+  },
+  {
+   "text": "in",
+   "time": 95.58,
+   "weight": 1.0,
+   "note_time": 95.58
+  },
+  {
+   "text": "heart",
+   "time": 96.32,
+   "weight": 1.0,
+   "note_time": 96.28
+  },
+  {
+   "text": "For",
+   "time": 97.08,
+   "weight": 0.68,
+   "note_time": 98.9
+  },
+  {
+   "text": "they",
+   "time": 97.88,
+   "weight": 0.4,
+   "note_time": 99.07
+  },
+  {
+   "text": "will",
+   "time": 99.66,
+   "weight": 1.0,
+   "note_time": 99.42
+  },
+  {
+   "text": "see",
+   "time": 100.02,
+   "weight": 0.99,
+   "note_time": 99.77
+  },
+  {
+   "text": "God",
+   "time": 100.36,
+   "weight": 1.0,
+   "note_time": 100.12
+  },
+  {
+   "text": "a",
+   "time": 100.86,
+   "weight": 0.93,
+   "note_time": 101.51
+  },
+  {
+   "text": "part",
+   "time": 101.21,
+   "weight": 0.93,
+   "note_time": 101.69
+  },
+  {
+   "text": "Blessed",
+   "time": 104.24,
+   "weight": 0.99,
+   "note_time": 104.65
+  },
+  {
+   "text": "are",
+   "time": 105.28,
+   "weight": 1.0,
+   "note_time": 105.17
+  },
+  {
+   "text": "the",
+   "time": 105.7,
+   "weight": 1.0,
+   "note_time": 105.7
+  },
+  {
+   "text": "pure",
+   "time": 106.22,
+   "weight": 1.0,
+   "note_time": 106.05
+  },
+  {
+   "text": "in",
+   "time": 106.6,
+   "weight": 1.0,
+   "note_time": 106.74
+  },
+  {
+   "text": "heart",
+   "time": 107.34,
+   "weight": 1.0,
+   "note_time": 107.44
+  },
+  {
+   "text": "For",
+   "time": 109.32,
+   "weight": 0.96,
+   "note_time": 110.06
+  },
+  {
+   "text": "they",
+   "time": 110.36,
+   "weight": 1.0,
+   "note_time": 110.23
+  },
+  {
+   "text": "will",
+   "time": 110.64,
+   "weight": 1.0,
+   "note_time": 110.58
+  },
+  {
+   "text": "see",
+   "time": 111.02,
+   "weight": 1.0,
+   "note_time": 110.93
+  },
+  {
+   "text": "God",
+   "time": 111.34,
+   "weight": 1.0,
+   "note_time": 111.28
+  },
+  {
+   "text": "a",
+   "time": 111.8,
+   "weight": 1.0,
+   "note_time": 112.67
+  },
+  {
+   "text": "part",
+   "time": 112.15,
+   "weight": 1.0,
+   "note_time": 112.85
+  },
+  {
+   "text": "The",
+   "time": 138.74,
+   "weight": 0.36,
+   "note_time": 140.06
+  },
+  {
+   "text": "earth",
+   "time": 139.66,
+   "weight": 0.84,
+   "note_time": 140.23
+  },
+  {
+   "text": "is",
+   "time": 140.06,
+   "weight": 0.99,
+   "note_time": 140.58
+  },
+  {
+   "text": "theirs,",
+   "time": 140.34,
+   "weight": 0.4,
+   "note_time": 140.93
+  },
+  {
+   "text": "the",
+   "time": 140.86,
+   "weight": 0.06,
+   "note_time": 141.1
+  },
+  {
+   "text": "fill",
+   "time": 142.38,
+   "weight": 0.18,
+   "note_time": 141.28
+  },
+  {
+   "text": "is",
+   "time": 142.76,
+   "weight": 0.99,
+   "note_time": 143.02
+  },
+  {
+   "text": "giv",
+   "time": 143.04,
+   "weight": 0.55,
+   "note_time": 143.37
+  },
+  {
+   "text": "en",
+   "time": 143.26,
+   "weight": 0.55,
+   "note_time": 143.72
+  },
+  {
+   "text": "Mer",
+   "time": 143.48,
+   "weight": 0.24,
+   "note_time": 145.47
+  },
+  {
+   "text": "cy",
+   "time": 143.83,
+   "weight": 0.24,
+   "note_time": 145.99
+  },
+  {
+   "text": "re",
+   "time": 145.18,
+   "weight": 0.98,
+   "note_time": 146.16
+  },
+  {
+   "text": "ceived,",
+   "time": 145.53,
+   "weight": 0.98,
+   "note_time": 146.51
+  },
+  {
+   "text": "the",
+   "time": 146.37,
+   "weight": 0.93,
+   "note_time": 146.69
+  },
+  {
+   "text": "mer",
+   "time": 146.96,
+   "weight": 1.0,
+   "note_time": 146.86
+  },
+  {
+   "text": "ci",
+   "time": 147.19,
+   "weight": 1.0,
+   "note_time": 147.56
+  },
+  {
+   "text": "ful",
+   "time": 147.43,
+   "weight": 1.0,
+   "note_time": 147.73
+  },
+  {
+   "text": "are",
+   "time": 147.66,
+   "weight": 1.0,
+   "note_time": 148.26
+  },
+  {
+   "text": "liv",
+   "time": 148.36,
+   "weight": 1.0,
+   "note_time": 148.43
+  },
+  {
+   "text": "ing",
+   "time": 148.6,
+   "weight": 1.0,
+   "note_time": 148.95
+  },
+  {
+   "text": "Pure",
+   "time": 148.84,
+   "weight": 0.39,
+   "note_time": 151.4
+  },
+  {
+   "text": "in",
+   "time": 150.82,
+   "weight": 1.0,
+   "note_time": 151.74
+  },
+  {
+   "text": "heart,",
+   "time": 151.14,
+   "weight": 1.0,
+   "note_time": 152.09
+  },
+  {
+   "text": "the",
+   "time": 151.56,
+   "weight": 0.94,
+   "note_time": 152.27
+  },
+  {
+   "text": "vi",
+   "time": 152.68,
+   "weight": 1.0,
+   "note_time": 152.44
+  },
+  {
+   "text": "sion",
+   "time": 153.03,
+   "weight": 1.0,
+   "note_time": 154.19
+  },
+  {
+   "text": "is",
+   "time": 153.54,
+   "weight": 1.0,
+   "note_time": 154.36
+  },
+  {
+   "text": "clear",
+   "time": 153.84,
+   "weight": 1.0,
+   "note_time": 154.53
+  },
+  {
+   "text": "God",
+   "time": 154.18,
+   "weight": 0.4,
+   "note_time": 156.98
+  },
+  {
+   "text": "is",
+   "time": 156.34,
+   "weight": 0.99,
+   "note_time": 157.33
+  },
+  {
+   "text": "seen,",
+   "time": 156.56,
+   "weight": 0.95,
+   "note_time": 157.67
+  },
+  {
+   "text": "draw",
+   "time": 158.3,
+   "weight": 0.97,
+   "note_time": 157.85
+  },
+  {
+   "text": "ing",
+   "time": 158.65,
+   "weight": 0.97,
+   "note_time": 158.02
+  },
+  {
+   "text": "near",
+   "time": 159.48,
+   "weight": 0.96,
+   "note_time": 159.77
+  },
+  {
+   "text": "Blessed",
+   "time": 161.44,
+   "weight": 1.0,
+   "note_time": 163.26
+  },
+  {
+   "text": "are",
+   "time": 162.62,
+   "weight": 1.0,
+   "note_time": 163.6
+  },
+  {
+   "text": "the",
+   "time": 163.0,
+   "weight": 0.98,
+   "note_time": 163.78
+  },
+  {
+   "text": "pure",
+   "time": 163.48,
+   "weight": 0.99,
+   "note_time": 164.3
+  },
+  {
+   "text": "in",
+   "time": 163.88,
+   "weight": 0.98,
+   "note_time": 164.65
+  },
+  {
+   "text": "heart",
+   "time": 164.64,
+   "weight": 1.0,
+   "note_time": 165.35
+  },
+  {
+   "text": "For",
+   "time": 165.71,
+   "weight": 0.0,
+   "note_time": 168.66
+  },
+  {
+   "text": "they",
+   "time": 166.78,
+   "weight": 0.3,
+   "note_time": 168.84
+  },
+  {
+   "text": "will",
+   "time": 167.84,
+   "weight": 0.96,
+   "note_time": 169.19
+  },
+  {
+   "text": "see",
+   "time": 168.24,
+   "weight": 0.86,
+   "note_time": 169.53
+  },
+  {
+   "text": "God",
+   "time": 168.52,
+   "weight": 0.77,
+   "note_time": 169.88
+  },
+  {
+   "text": "a",
+   "time": 169.1,
+   "weight": 0.16,
+   "note_time": 171.28
+  },
+  {
+   "text": "part",
+   "time": 169.45,
+   "weight": 0.16,
+   "note_time": 171.45
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 22 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

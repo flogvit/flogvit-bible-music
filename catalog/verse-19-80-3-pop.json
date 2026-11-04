@@ -1,0 +1,42 @@
+{
+  "id": "verse-19-80-3-pop",
+  "title": "Let Your Face Shine",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 80,
+    "verseStart": 3,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 80,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female soulful voice with soft choir backing, piano, acoustic guitar, strings, gentle drums, hopeful and pleading, 85 BPM",
+    "lyrics": "[Verse]\nShepherd of Israel, please hear us now\nYou lead Joseph like a flock\nEnthroned upon the cherubim\nShine forth from your holy ground\n\n[Verse]\nBefore Ephraim, Benjamin, Manasseh\nStir up your great might\nCome and save us from the deep\nRestore us in the light\n\n[Chorus]\nRestore us, O God\nLet your face shine on us\nThat we may be saved\nRestore us, O God\nLet your face shine on us\nThat we may be saved\n\n[Verse]\nLORD God of hosts, how long\nWill your anger smolder\nAgainst the prayer of your people\nWaiting for the word\n\n[Chorus]\nRestore us, O God\nLet your face shine on us\nThat we may be saved\nRestore us, O God\nLet your face shine on us\nThat we may be saved\n\n[Bridge]\nBread of tears and measure cups\nWe have drunk them all\nStrife among our neighbors\nEnemies laugh and call\n\n[Chorus]\nRestore us, O God\nLet your face shine on us\nThat we may be saved\nRestore us, O God\nLet your face shine on us\nThat we may be saved\n\n[Outro]\nLet your face shine on us\nThat we may be saved",
+    "cot": "full",
+    "seed": 31234
+  }
+}

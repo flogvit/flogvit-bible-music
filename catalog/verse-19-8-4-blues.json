@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-8-4-blues",
+  "title": "What is a Human Being",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 8,
+    "verseStart": 4,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 8,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "love"
+    ],
+    "themes": [
+      "skapelsen",
+      "guds-hellighet",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, soulful and contemplative, solo with gospel choir support, upright bass, electric guitar, piano, drums, warm and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nLORD our Lord how majestic is your name\nYou have set your splendor above the heavens high\nFrom the mouths of children and infants\nYou established strength to silence the enemy\n\n[Chorus]\nWhat is a human being that you remember him\nA son of man that you care for him\nWhat is a human being that you remember him\nA son of man that you care for him\n\n[Verse]\nWhen I look at your heavens the work of your fingers\nThe moon and the stars that you set in place\nWhat is a human being that you remember him\nA son of man that you care for him\n\n[Chorus]\nWhat is a human being that you remember him\nA son of man that you care for him\nWhat is a human being that you remember him\nA son of man that you care for him\n\n[Bridge]\nYou made him a little lower than God\nAnd crowned him with glory and honor\nYou gave him dominion over the works of your hands\nYou put everything under his feet\n\n[Outro]\nAll the flocks and herds and the beasts of the field\nYou remember him you care for him",
+    "cot": "full",
+    "seed": 31233
+  }
+}

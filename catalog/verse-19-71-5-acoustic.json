@@ -1,0 +1,49 @@
+{
+  "id": "verse-19-71-5-acoustic",
+  "title": "My Confidence From My Youth",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 71,
+    "verseStart": 5,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 71,
+      "verseStart": 5,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, soft cello, light percussion, reflective, 80 BPM",
+    "lyrics": "[Verse]\nIn your righteousness deliver me\nRescue me and save\nTurn your ear to me and hear\nBe my rock of refuge\nYou gave the command to save\nYou are my fortress\n\n[Chorus]\nFor you are my hope Lord GOD\nMy confidence from my youth\nOn you I have leaned since birth\nYou brought me from my mother's womb\n\n[Verse]\nMy praise is always of you\nA wonder to many\nBut you are my strong refuge\nMy mouth is filled with your praise\nYour splendor all day long\n\n[Chorus]\nFor you are my hope Lord GOD\nMy confidence from my youth\nOn you I have leaned since birth\nYou brought me from my mother's womb\n\n[Bridge]\nDo not cast me off in old age\nDo not forsake me when strength fails\nI have leaned on you since birth\nYou are my strength and my salvation\n\n[Chorus]\nFor you are my hope Lord GOD\nMy confidence from my youth\nOn you I have leaned since birth\nYou brought me from my mother's womb\n\n[Outro]\nMy confidence from my youth\nMy hope forever",
+    "cot": "full",
+    "seed": 31231
+  }
+}

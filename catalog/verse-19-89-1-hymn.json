@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-89-1-hymn",
+  "title": "Steadfast Love Forever",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 89,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 89,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with choir, piano, strings, organ, gentle mood, 70 BPM",
+    "lyrics": "[Verse]\nA maskil sung by Ethan the Ezrahite\nI will sing of the Lord's steadfast love\nWith my mouth I make faithfulness known\nTo every generation that shall come\n\n[Chorus]\nSteadfast love is built to last forever\nIn the heavens you establish truth\nI have said so with my whole heart\nGod's faithfulness remains with you\n\n[Verse]\nI have made a covenant with my chosen\nI have sworn to David my servant\nI will establish your offspring forever\nAnd build your throne for all generations\n\n[Chorus]\nSteadfast love is built to last forever\nIn the heavens you establish truth\nI have said so with my whole heart\nGod's faithfulness remains with you\n\n[Verse]\nThe promise stands firm through every age\nNo shadow falls upon this vow\nYour mercy endures beyond time\nA foundation strong and sure now\n\n[Chorus]\nSteadfast love is built to last forever\nIn the heavens you establish truth\nI have said so with my whole heart\nGod's faithfulness remains with you\n\n[Bridge]\nSing of the grace that never fades\nDeclare the truth to all who hear\nThe covenant holds through every storm\nFaithfulness beyond all fear\n\n[Outro]\nI will sing of the Lord's love\nForever and evermore\nSteadfast love is built to last\nIn the heavens and on the shore",
+    "cot": "full",
+    "seed": 31236
+  }
+}

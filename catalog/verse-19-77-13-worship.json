@@ -1,0 +1,42 @@
+{
+  "id": "verse-19-77-13-worship",
+  "title": "Your Way is Holy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 77,
+    "verseStart": 13,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 77,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, piano, strings, acoustic guitar, cello, hopeful and reverent, 75 BPM",
+    "lyrics": "[Verse]\nHas He forgotten to be gracious?\nHas He shut off His mercy in anger?\nI said this is what wounds me deeply\nThat the right hand of the Most High has changed\n\n[Pre-Chorus]\nBut I will remember the deeds of the Lord\nI will remember your wonders of old\nI will meditate on all your work\nAnd consider all your mighty deeds\n\n[Chorus]\nYour way, O God, is holy\nWhat god is as great as God?\nYou are the God who works wonders\nYou made your strength known among the peoples\n\n[Verse]\nWith your arm you redeemed your people\nThe descendants of Jacob and Joseph\nThe waters saw you, O God\nThe waters saw you and writhed\n\n[Pre-Chorus]\nThe very depths were shaken in awe\nI will remember your wonders of old\nI will meditate on all your work\nAnd consider all your mighty deeds\n\n[Chorus]\nYour way, O God, is holy\nWhat god is as great as God?\nYou are the God who works wonders\nYou made your strength known among the peoples\n\n[Bridge]\nYour way, O God, is holy\nWhat god is as great as God?\nYour way, O God, is holy\nWhat god is as great as God?\n\n[Chorus]\nYour way, O God, is holy\nWhat god is as great as God?\nYou are the God who works wonders\nYou made your strength known among the peoples\n\n[Outro]\nYour way is holy\nWhat god is as great as God",
+    "cot": "full",
+    "seed": 31232
+  }
+}

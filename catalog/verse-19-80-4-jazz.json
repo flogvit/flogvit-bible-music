@@ -1,0 +1,48 @@
+{
+  "id": "verse-19-80-4-jazz",
+  "title": "Let Your Face Shine",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 80,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 80,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo vocal, warm and soulful, upright piano, double bass, brushed drums, muted trumpet, saxophone, melancholic yet hopeful, 90 BPM",
+    "lyrics": "[Verse]\nShepherd of Israel listen to us now\nYou who lead Joseph like a flock\nEnthroned upon the cherubim\nShine forth with your holy might\n\n[Verse]\nBefore Ephraim and Benjamin\nManasseh stands in the light\nStir up your power and come\nSave us from this heavy night\n\n[Chorus]\nRestore us O God\nLet your face shine on us\nThat we may be saved\nIn your grace and trust\n\n[Verse]\nGod of hosts how long\nWill your anger smolder on\nAgainst the prayer of your people\nLet the tears be gone\n\n[Chorus]\nRestore us O God\nLet your face shine on us\nThat we may be saved\nIn your grace and trust\n\n[Bridge]\nFed with bread of tears\nDrinking sorrow by the measure\nCausing strife to neighbors\nEnemies laughing together\n\n[Chorus]\nRestore us O God\nLet your face shine on us\nThat we may be saved\nIn your grace and trust\n\n[Outro]\nLet your face shine\nLet your face shine",
+    "cot": "full",
+    "seed": 31235
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-70-5-country",
+  "title": "Let God Be Magnified",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 70,
+    "verseStart": 5,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 70,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female country voice, warm and earnest, acoustic guitar, piano, fiddle, steady 90 BPM, mood of urgent hope and praise",
+    "lyrics": "[Verse]\nGod come and rescue me\nLord hurry to my help\nLet those who seek my life\nBe shamed and humbled back\n\n[Pre-Chorus]\nLet those who delight in ruin\nBe driven back in shame\nLet those who say aha\nBe turned by their disgrace\n\n[Chorus]\nBut let all who seek you rejoice\nBe glad in you always\nLet those who love your salvation\nSay let God be magnified\n\n[Verse]\nI am poor and I am needy\nGod hurry to my side\nYou are my help and deliverer\nMy strength and my guide\n\n[Chorus]\nBut let all who seek you rejoice\nBe glad in you always\nLet those who love your salvation\nSay let God be magnified\n\n[Bridge]\nLORD do not delay\nYour hand is my stay\nYou are my help and my light\nIn the day of my fight\n\n[Chorus]\nBut let all who seek you rejoice\nBe glad in you always\nLet those who love your salvation\nSay let God be magnified\n\n[Outro]\nLet God be magnified\nLet God be magnified",
+    "cot": "full",
+    "seed": 31230
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "verse-19-70-4-celtic",
+  "title": "Let God Be Magnified",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 70,
+    "verseStart": 4,
+    "verseEnd": 5
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 70,
+      "verseStart": 4,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice with ethereal choir, Celtic harp, bodhran, fiddle, flute, soft piano, majestic and hopeful, 85 BPM",
+    "lyrics": "[Verse]\nFor the choir director this is set\nOf David, to bring remembrance\nGod, come and rescue me now\nLORD, hurry to my help\n\n[Chorus]\nLet all who seek you rejoice\nAnd be glad in you always\nLet those who love your salvation\nAlways say let God be magnified\n\n[Verse]\nThose who say aha aha\nWill be turned back by shame\nLet those who delight in ruin\nBe driven back in disgrace\n\n[Chorus]\nLet all who seek you rejoice\nAnd be glad in you always\nLet those who love your salvation\nAlways say let God be magnified\n\n[Bridge]\nI am poor and needy here\nGod, hurry to me now\nYou are my help and deliverer\nLORD, do not delay\n\n[Chorus]\nLet all who seek you rejoice\nAnd be glad in you always\nLet those who love your salvation\nAlways say let God be magnified\n\n[Outro]\nLet God be magnified\nHurry to my help",
+    "cot": "full",
+    "seed": 31229
+  }
+}

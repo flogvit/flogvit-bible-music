@@ -1,0 +1,45 @@
+{
+  "id": "verse-19-37-3-ballad",
+  "title": "Make Faithfulness Your Pasture",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 37,
+    "verseStart": 3,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 37,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, cello, gentle strings, hopeful and peaceful, 72 BPM",
+    "lyrics": "[Verse]\nDo not burn with anger over evildoers\nDo not envy those who do wrong\nFor like grass they will soon wither\nAnd fade like the green of new growth\n\n[Verse]\nTrust in the LORD and do good\nDwell in the land and make faithfulness your pasture\nTake your delight in the LORD\nAnd he will give you what your heart asks\n\n[Chorus]\nMake faithfulness your pasture\nTrust in the LORD and do good\nDwell in the land with steady heart\nAnd he will give you what your heart asks\n\n[Verse]\nCommit your way to the LORD\nTrust in him and he will act\nHe will bring out your righteousness\nLike the light and your justice like the noonday sun\n\n[Chorus]\nMake faithfulness your pasture\nTrust in the LORD and do good\nDwell in the land with steady heart\nAnd he will give you what your heart asks\n\n[Bridge]\nBe still before the LORD\nAnd wait patiently for him\nDo not burn with anger over the one\nWhose way prospers and carries out his schemes\n\n[Chorus]\nMake faithfulness your pasture\nTrust in the LORD and do good\nDwell in the land with steady heart\nAnd he will give you what your heart asks\n\n[Outro]\nTrust in the LORD and do good\nMake faithfulness your pasture",
+    "cot": "full",
+    "seed": 31228
+  }
+}

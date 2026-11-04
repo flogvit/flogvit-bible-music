@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-16-13-orchestral",
+  "title": "Into All The Truth",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 16,
+    "verseStart": 13,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 16,
+      "verseStart": 13,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gentle choir, piano, strings, harp, flute, hopeful and majestic, 75 BPM",
+    "lyrics": "[Verse]\nI still have much to tell you\nBut you cannot bear it now\nThe path is long and wide\nI am going to the Father now\n\n[Verse]\nWhen the Spirit of truth comes\nHe will guide you gently\nHe will not speak on his own\nBut speak whatever he hears\n\n[Chorus]\nHe will declare to you\nThe things that are coming\nInto all the truth he leads\nAnd your heart is humming\n\n[Verse]\nHe will glorify me\nTaking what is mine to speak\nAll that the Father has\nIs given to us to keep\n\n[Chorus]\nHe will declare to you\nThe things that are coming\nInto all the truth he leads\nAnd your heart is humming\n\n[Bridge]\nA little while and you will lose sight\nAnd again a little while\nYou will see me in the light\nNo longer hidden from the night\n\n[Outro]\nInto all the truth he guides\nThe Spirit of truth",
+    "cot": "full",
+    "seed": 31270
+  }
+}

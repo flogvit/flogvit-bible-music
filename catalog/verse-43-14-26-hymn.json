@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-14-26-hymn",
+  "title": "My Peace I Give to You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 26,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 26,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "guds-trofasthet",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice with soft choir, acoustic guitar, piano, strings, organ, gentle and reassuring, 80 BPM",
+    "lyrics": "[Verse]\nThe Advocate the Father sends\nIn Jesus' name to you\nHe will teach you all things\nAnd remind you of the way\n\n[Chorus]\nPeace I leave with you\nMy peace I give to you\nNot as the world gives\nDo not let your hearts be troubled\nDo not be afraid\n\n[Verse]\nI have told you these things\nWhile I am still with you\nThe word you hear is from the Father\nWho sent me to guide you\n\n[Chorus]\nPeace I leave with you\nMy peace I give to you\nNot as the world gives\nDo not let your hearts be troubled\nDo not be afraid\n\n[Bridge]\nHe will remind you of everything\nI have said to you\nYou will not be left alone\nIn the light of the Spirit\n\n[Chorus]\nPeace I leave with you\nMy peace I give to you\nNot as the world gives\nDo not let your hearts be troubled\nDo not be afraid\n\n[Outro]\nDo not be afraid\nMy peace I give to you",
+    "cot": "full",
+    "seed": 31266
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-15-9-gospel",
+  "title": "Remain in My Love",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 15,
+    "verseStart": 9,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 15,
+      "verseStart": 9,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "guds-trofasthet",
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soul voice, gospel choir, piano, organ, drums, bass, uplifting and warm, 84 BPM",
+    "lyrics": "[Verse]\nIf you remain in me and my words remain in you\nAsk whatever you wish and it will be done for you\nThis is how my Father is glorified in your life\nBear much fruit and prove you are my disciples\n\n[Pre-Chorus]\nAs the Father has loved me with a love so true\nSo I have loved you as well in every view\n\n[Chorus]\nRemain in my love and let your heart be still\nKeep my commandments and walk with me a while\nI have told you this so that my joy may be in you\nAnd your joy may be complete and new\n\n[Verse]\nIf you keep my commandments you will remain in my love\nJust as I have kept my Father's commandments above\nI remain in his love and he remains in me\nThis is the path that I freely give to see\n\n[Chorus]\nRemain in my love and let your heart be still\nKeep my commandments and walk with me a while\nI have told you this so that my joy may be in you\nAnd your joy may be complete and new\n\n[Chorus]\nRemain in my love and let your heart be still\nKeep my commandments and walk with me a while\nI have told you this so that my joy may be in you\nAnd your joy may be complete and new\n\n[Bridge]\nThis is my commandment that you love one another\nAs I have loved you without end or another\nNo one has greater love than to lay down his life\nFor his friends who are called to this holy life\n\n[Outro]\nYou are my friends if you do what I command\nRemain in my love and hold my loving hand",
+    "cot": "full",
+    "seed": 31269
+  }
+}

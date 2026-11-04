@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-7-37-celtic",
+  "title": "Rivers of Living Water",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 7,
+    "verseStart": 37,
+    "verseEnd": 38
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 7,
+      "verseStart": 37,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with ethereal choir, Celtic harp, tin whistle, bodhran, fiddle, ambient pads, contemplative and majestic mood, 85 BPM",
+    "lyrics": "[Verse]\nOn the last and greatest day of the festival\nJesus stood up and cried out to the crowd\nHe called to every soul that was weary\nTo come to him and drink from the source\n\n[Chorus]\nIf anyone is thirsty, let him come to me\nAnd drink from the well that never runs dry\nWhoever believes in me, as Scripture said\nOut of his heart shall flow rivers of living water\n\n[Verse]\nYou will look for me and will not find me\nWhere I am you cannot come, they said\nBut the promise breaks the silence now\nThe Spirit waits to be given to the faithful\n\n[Chorus]\nIf anyone is thirsty, let him come to me\nAnd drink from the well that never runs dry\nWhoever believes in me, as Scripture said\nOut of his heart shall flow rivers of living water\n\n[Bridge]\nSome said this really is the Prophet\nOthers claimed he is the Christ indeed\nBut the Spirit had not yet been given\nWaiting for the glory yet to come\n\n[Chorus]\nIf anyone is thirsty, let him come to me\nAnd drink from the well that never runs dry\nWhoever believes in me, as Scripture said\nOut of his heart shall flow rivers of living water\n\n[Outro]\nRivers of living water\nFlowing from the heart",
+    "cot": "full",
+    "seed": 31274
+  }
+}

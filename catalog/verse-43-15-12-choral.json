@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-15-12-choral",
+  "title": "Lay Down His Life",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 15,
+    "verseStart": 12,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 15,
+      "verseStart": 12,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with soft choir, piano, cello, strings, ambient pads, reverent and warm, 80 BPM",
+    "lyrics": "[Verse]\nAs the Father has loved me\nSo I have loved you\nRemain in my love\nKeep my commandments\nYou will remain in my love\nJust as I kept the Father's\nAnd remained in his love\n\n[Chorus]\nThis is my commandment\nLove one another as I have loved you\nNo one has greater love than this\nTo lay down his life for his friends\n\n[Verse]\nYou are my friends\nIf you do what I command you\nI no longer call you servants\nA servant does not know the master's work\nBut I have called you friends\nFor everything from the Father\nI have made known to you\n\n[Chorus]\nThis is my commandment\nLove one another as I have loved you\nNo one has greater love than this\nTo lay down his life for his friends\n\n[Bridge]\nYou did not choose me\nBut I chose you\nAppointed you to go\nAnd bear fruit that will last\nSo that whatever you ask\nIn my name he will give you\n\n[Chorus]\nThis is my commandment\nLove one another as I have loved you\nNo one has greater love than this\nTo lay down his life for his friends\n\n[Outro]\nLay down his life for his friends",
+    "cot": "full",
+    "seed": 31267
+  }
+}

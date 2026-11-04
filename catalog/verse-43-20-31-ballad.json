@@ -1,0 +1,47 @@
+{
+  "id": "verse-43-20-31-ballad",
+  "title": "Life in His Name",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 20,
+    "verseStart": 31,
+    "verseEnd": 31
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 20,
+      "verseStart": 31,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male solo voice, warm and intimate, piano, acoustic guitar, cello, strings, 72 BPM",
+    "lyrics": "[Verse]\nThomas fell to his knees in the room\nMy Lord and my God he cried out loud\nJesus spoke words of grace and truth\nBlessed are those who believe without sight\n\n[Chorus]\nThese things are written for you to see\nBelieve Jesus is the Christ, the Son of God\nBy believing you may have life\nFound in his name, in his name\n\n[Verse]\nMany other signs were done before\nIn the presence of his disciples then\nNot all are recorded in this book\nBut the purpose is clear and true\n\n[Chorus]\nThese things are written for you to see\nBelieve Jesus is the Christ, the Son of God\nBy believing you may have life\nFound in his name, in his name\n\n[Bridge]\nNot just for Thomas who touched the scars\nBut for all who trust without seeing\nThe record stands to guide your heart\nTo faith that lasts and never fades\n\n[Outro]\nBelieve that Jesus is the Christ\nAnd have life in his name",
+    "cot": "full",
+    "seed": 31273
+  }
+}

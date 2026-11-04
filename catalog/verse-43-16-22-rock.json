@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-16-22-rock",
+  "title": "No One Will Take Your Joy Away",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 16,
+    "verseStart": 22,
+    "verseEnd": 22
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 16,
+      "verseStart": 22,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frelsen",
+      "glede",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with backing choir, electric guitar, bass, drums, keys, hopeful and triumphant mood, 95 BPM",
+    "lyrics": "[Verse]\nAre you discussing among yourselves what I meant\nA little while and you will not see me\nAgain a little while and you will see me\nTruly truly I tell you this truth\n\n[Pre-Chorus]\nYou will weep and mourn while the world rejoices\nYou will grieve but your grief will turn to joy\n\n[Chorus]\nNow you have grief but I will see you again\nYour hearts will rejoice in the light\nNo one will take your joy away from you\nYour joy is complete and bright\n\n[Verse]\nWhen a woman is in labor she has pain\nBecause her hour has come at last\nBut when she has given birth to the child\nShe no longer remembers the anguish\n\n[Pre-Chorus]\nBecause of her joy that a child has been born\nInto the world with such light\nSo it is with you in this moment\nNow you have grief but I will see you again\n\n[Chorus]\nNow you have grief but I will see you again\nYour hearts will rejoice in the light\nNo one will take your joy away from you\nYour joy is complete and bright\n\n[Bridge]\nOn that day you will not ask me anything\nWhatever you ask the Father in my name\nHe will give you so your joy may be complete\nI will tell you plainly about the Father\n\n[Outro]\nNo one will take your joy away from you\nNo one will take your joy away",
+    "cot": "full",
+    "seed": 31271
+  }
+}

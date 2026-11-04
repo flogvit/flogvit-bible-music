@@ -1,0 +1,48 @@
+{
+  "id": "verse-43-15-16-folk",
+  "title": "Fruit That Will Last",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 15,
+    "verseStart": 16,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 15,
+      "verseStart": 16,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "covenant"
+    ],
+    "themes": [
+      "kjerlighet",
+      "pakten",
+      "nade"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, soft cello, gentle piano, light percussion, intimate and hopeful, 75 BPM",
+    "lyrics": "[Verse]\nYou did not pick me out of the crowd\nI chose no one, I was found\nYour voice reached down to lift me up\nA new and quiet purpose in my cup\n\n[Chorus]\nGo and bear fruit that will last\nA harvest built to stand the blast\nAsk the Father in my name\nHe will give, He will not shame\n\n[Verse]\nNo longer servants in the dark\nKnowing the master is far from the mark\nI have told you what I heard from Him\nA friendship deep, and close, and dim\n\n[Chorus]\nGo and bear fruit that will last\nA harvest built to stand the blast\nAsk the Father in my name\nHe will give, He will not shame\n\n[Bridge]\nLove one another is the command\nIn this world, hand in hand\nIf they hate you, they hated me first\nOut of the world, you have been placed\n\n[Chorus]\nGo and bear fruit that will last\nA harvest built to stand the blast\nAsk the Father in my name\nHe will give, He will not shame\n\n[Outro]\nI chose you out of the world\nYour fruit will last, it is unfurled",
+    "cot": "full",
+    "seed": 31268
+  }
+}

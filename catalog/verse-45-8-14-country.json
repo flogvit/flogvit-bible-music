@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-8-14-country",
+  "title": "Abba Father",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 14,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 14,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "den-hellige-and"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, piano, cello, gentle percussion, peaceful and hopeful, 85 BPM",
+    "lyrics": "[Verse]\nWe are not led by flesh or fear\nBut by the Spirit who lives near\nHe raised Jesus from the dead\nNow He gives our mortal bodies life ahead\n\n[Pre-Chorus]\nWe have an obligation to the Spirit\nNot to live in the flesh and its grip\n\n[Chorus]\nAll who are led by the Spirit are children\nNo more slaves to fear or hidden sins\nWe cry out Abba Father in the Spirit\nHe testifies we are God's own children\n\n[Verse]\nWe received a Spirit of adoption\nNot a spirit of slavery or dread\nIn Him we cry Abba Father loud\nThe Spirit testifies we are known\n\n[Chorus]\nAll who are led by the Spirit are children\nNo more slaves to fear or hidden sins\nWe cry out Abba Father in the Spirit\nHe testifies we are God's own children\n\n[Verse]\nIf we are children then we are heirs\nHeirs of God and with Christ we share\nSuffering with Him leads to glory\nPresent pain is not worth the story\n\n[Chorus]\nAll who are led by the Spirit are children\nNo more slaves to fear or hidden sins\nWe cry out Abba Father in the Spirit\nHe testifies we are God's own children\n\n[Outro]\nCreation waits for the revealing of the children\nWe are heirs of God and co-heirs with Christ",
+    "cot": "full",
+    "seed": 31290
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-8-26-worship",
+  "title": "Groanings Too Deep For Words",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 26,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 26,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, piano, cello, strings, soft drums, 80 BPM, majestic, tender",
+    "lyrics": "[Verse]\nWe groan inwardly in our weakness\nWaiting for redemption of our bodies\nWe do not know what to pray for\nAs we ought in this dark place\n\n[Pre-Chorus]\nBut the Spirit helps us in our frailty\nHe intercedes for the saints\n\n[Chorus]\nWith groanings too deep for words\nHe prays to the Father above\nThe Spirit intercedes for us\nAccording to God’s holy will\n\n[Verse]\nHe who searches our hearts knows\nThe mind of the Spirit is clear\nHe pleads on our behalf always\nFor those who are called by name\n\n[Chorus]\nWith groanings too deep for words\nHe prays to the Father above\nThe Spirit intercedes for us\nAccording to God’s holy will\n\n[Bridge]\nWe wait with patience for what we see not\nHope that is unseen sustains us\nThe firstfruits of the Spirit\nLead us to glory and light\n\n[Chorus]\nWith groanings too deep for words\nHe prays to the Father above\nThe Spirit intercedes for us\nAccording to God’s holy will\n\n[Outro]\nGroanings too deep for words\nHe intercedes for the saints",
+    "cot": "full",
+    "seed": 31292
+  }
+}

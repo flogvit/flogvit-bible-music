@@ -1,0 +1,47 @@
+{
+  "id": "verse-45-8-31-blues",
+  "title": "If God Is For Us",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 31,
+    "verseEnd": 32
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, solo, gravelly, acoustic guitar, upright bass, piano, brushed drums, soulful, melancholic yet hopeful, 80 BPM",
+    "lyrics": "[Verse]\nWe know in all things He works for our good\nFor those who love Him according to His purpose\nHe foreknew us and predestined our shape\nConformed to the image of His own Son\n\n[Pre-Chorus]\nHe predestined and He called us through\nThose He called He has also justified\nAnd those He justified He has glorified\n\n[Chorus]\nWhat then shall we say to all of this\nIf God is for us who can be against us\nHe did not spare His own Son for us all\nHow will He not freely give us everything\n\n[Verse]\nWho will bring a charge against the chosen\nIt is God who justifies the soul\nWho is there to condemn us in the end\nChrist Jesus died and was raised again\n\n[Pre-Chorus]\nHe is at God's right hand now\nInterceding for us in the holy place\nNo condemnation remains in our face\n\n[Chorus]\nWhat then shall we say to all of this\nIf God is for us who can be against us\nHe did not spare His own Son for us all\nHow will He not freely give us everything\n\n[Bridge]\nWho will separate us from the love of Christ\nHardship or distress or persecution here\nFamine and nakedness and danger near\nThe sword cannot break what He has sealed\n\n[Chorus]\nWhat then shall we say to all of this\nIf God is for us who can be against us\nHe did not spare His own Son for us all\nHow will He not freely give us everything\n\n[Outro]\nIf God is for us\nNo one can be against us",
+    "cot": "full",
+    "seed": 31293
+  }
+}

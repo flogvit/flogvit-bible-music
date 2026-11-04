@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-8-1-ballad",
+  "title": "No Condemnation",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 1,
+    "verseEnd": 2
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo vocal, warm and comforting, piano, acoustic guitar, strings, soft drums, hopeful and serene, 80 BPM",
+    "lyrics": "[Verse]\nSo there is now no condemnation\nFor those who are in Christ Jesus\nThe law of the Spirit of life\nHas set you free from sin\n\n[Chorus]\nNo condemnation, no condemnation\nIn Christ Jesus we are free\nThe Spirit brings the law of life\nAnd sets our souls at rest\n\n[Verse]\nWhat the law could not do weak\nGod did in his own Son\nSent in likeness of sinful flesh\nAs a sin offering\nHe condemned sin in the flesh\nSo the law is fulfilled in us\nWe walk not by the flesh\nBut according to the Spirit\n\n[Chorus]\nNo condemnation, no condemnation\nIn Christ Jesus we are free\nThe Spirit brings the law of life\nAnd sets our souls at rest\n\n[Bridge]\nThose who live by the flesh\nSet minds on what is flesh\nBut those who live by the Spirit\nSet minds on what is Spirit\n\n[Outro]\nSo there is now no condemnation\nFor those who are in Christ Jesus",
+    "cot": "full",
+    "seed": 31288
+  }
+}

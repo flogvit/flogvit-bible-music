@@ -1,0 +1,44 @@
+{
+  "id": "verse-45-13-11-gospel",
+  "title": "The Day Is At Hand",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 13,
+    "verseStart": 11,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 13,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel, powerful female solo voice with backing choir, piano, organ, drum kit, bass guitar, uplifting mood, 100 BPM",
+    "lyrics": "[Verse]\nOwe no one anything, except to love one another\nWhoever loves the other has fulfilled the law\nThe commandments are summed up in this simple word\nLove your neighbor as yourself, that is the road\n\n[Chorus]\nThe hour has already come for you to wake from sleep\nSalvation is nearer to us now than when we first believed\nThe night is nearly over, the day is at hand\nLet us cast off the works of darkness, put on the armor of light\n\n[Verse]\nLive decently, as in the daytime, not in carousing\nNot in drunkenness, not in sexual immorality\nNot in quarreling, not in jealousy or strife\nGive no thought to gratifying the desires of the flesh\n\n[Chorus]\nThe hour has already come for you to wake from sleep\nSalvation is nearer to us now than when we first believed\nThe night is nearly over, the day is at hand\nLet us cast off the works of darkness, put on the armor of light\n\n[Bridge]\nClothe yourselves with the Lord Jesus Christ\nWake from sleep, the time is near\nThe day is at hand, let us be ready\nCast off darkness, put on the light\n\n[Chorus]\nThe hour has already come for you to wake from sleep\nSalvation is nearer to us now than when we first believed\nThe night is nearly over, the day is at hand\nLet us cast off the works of darkness, put on the armor of light\n\n[Outro]\nThe day is at hand\nPut on the armor of light",
+    "cot": "full",
+    "seed": 31284
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "verse-45-8-18-acoustic",
+  "title": "Not Worth Comparing",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 18,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 18,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice, warm and resonant, acoustic guitar, cello, piano, light percussion, hopeful and contemplative mood, 80 BPM",
+    "lyrics": "[Verse]\nWe did not receive a spirit of slavery\nTo fall back into the old fear\nBut the Spirit of adoption is our guide\nCrying out in a new way\n\n[Verse]\nHe testifies with our own spirit\nThat we are God's dear children\nAnd if children then we are heirs\nCo-heirs with Christ the King\n\n[Chorus]\nSufferings of this present time\nAre not worth comparing\nWith the glory that is to be\nRevealed in us all\n\n[Verse]\nCreation waits with eager longing\nFor the revealing of sons and daughters\nSubjected to futility not by choice\nBut by the one who set it\n\n[Chorus]\nSufferings of this present time\nAre not worth comparing\nWith the glory that is to be\nRevealed in us all\n\n[Bridge]\nIn hope it was subjected\nSo that creation might be free\nSet free from its bondage to decay\nInto the freedom of glory\n\n[Outro]\nFreedom of the glory of God's children\nRevealed in us all",
+    "cot": "full",
+    "seed": 31291
+  }
+}

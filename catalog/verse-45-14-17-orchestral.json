@@ -1,0 +1,45 @@
+{
+  "id": "verse-45-14-17-orchestral",
+  "title": "Kingdom of Righteousness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 14,
+    "verseStart": 17,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 14,
+      "verseStart": 17,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "love",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with choir, strings, harp, organ, timpani, woodwinds, solemn, majestic, 80 BPM",
+    "lyrics": "[Verse]\nNothing is unclean in itself\nConvinced in the Lord Jesus\nBut if one regards it unclean\nThen for that person it is unclean\n\n[Pre-Chorus]\nDo not let your food destroy\nSomeone for whom Christ died\nYour good must not be spoken of\nAs evil in the eye\n\n[Chorus]\nFor the kingdom of God\nIs not eating and drinking\nBut righteousness and peace\nAnd joy in the Holy Spirit\n\n[Verse]\nWho serves Christ in this way\nIs pleasing to God\nApproved by the people\nWalking in the truth\n\n[Pre-Chorus]\nLet us pursue what makes\nFor peace and building up\nDo not tear down the work\nOf God for the sake of food\n\n[Chorus]\nFor the kingdom of God\nIs not eating and drinking\nBut righteousness and peace\nAnd joy in the Holy Spirit\n\n[Bridge]\nEverything is clean indeed\nBut stumbling others is wrong\nIt is good to refrain\nFrom meat and wine\n\n[Outro]\nRighteousness and peace\nJoy in the Spirit\nThe kingdom of God",
+    "cot": "full",
+    "seed": 31285
+  }
+}

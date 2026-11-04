@@ -1,0 +1,49 @@
+{
+  "id": "verse-45-8-11-celtic",
+  "title": "Mortal Bodies Live",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 11,
+    "verseEnd": 11
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "frelsen",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Celtic, female solo voice with warm choir, uilleann pipes, bodhran, fiddle, acoustic guitar, flute, hopeful and uplifting, 90 BPM",
+    "lyrics": "[Verse]\nThose who are in the flesh cannot please God\nBut you are not in the flesh, you are in the Spirit\nThe Spirit of Christ dwells deep within\nIf He is not in you, you do not belong to Him\n\n[Chorus]\nThe Spirit of Him who raised Jesus from the dead\nWill give life to your mortal bodies\nThrough His Spirit who dwells in you\nThe dead become alive, the grave cannot hold\n\n[Verse]\nThe body is dead because of sin\nBut the Spirit is life because of righteousness\nWe have an obligation to walk in a new way\nNot to the flesh, but to the Spirit's holy sway\n\n[Chorus]\nThe Spirit of Him who raised Jesus from the dead\nWill give life to your mortal bodies\nThrough His Spirit who dwells in you\nThe dead become alive, the grave cannot hold\n\n[Bridge]\nIf by the Spirit you put to death the deeds\nOf the body, you will live\nLed by the Spirit of God\nYou are children of God\n\n[Chorus]\nThe Spirit of Him who raised Jesus from the dead\nWill give life to your mortal bodies\nThrough His Spirit who dwells in you\nThe dead become alive, the grave cannot hold\n\n[Outro]\nYou are led by the Spirit\nChildren of God forevermore",
+    "cot": "full",
+    "seed": 31289
+  }
+}

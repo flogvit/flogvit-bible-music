@@ -1,0 +1,43 @@
+{
+  "id": "verse-40-11-29-soul",
+  "title": "Easy and Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 11,
+    "verseStart": 29,
+    "verseEnd": 29
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 11,
+      "verseStart": 29,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, warm female solo voice with soft choir, acoustic piano, upright bass, light drums, brushed cymbals, gentle, 78 BPM",
+    "lyrics": "[Verse]\nCome to me, all you who are weary\nAnd burdened by the weight of the day\nI will give you a deep, sweet rest\nFor the soul that is tired and heavy\n\n[Chorus]\nTake my yoke upon you and learn from me\nFor I am gentle and humble in heart\nYou will find rest for your souls\nIn this quiet and sacred place\n\n[Verse]\nMy yoke is easy and my burden is light\nNo one knows the Son except the Father\nNo one knows the Father except the Son\nAnd those to whom the Son chooses to reveal him\n\n[Chorus]\nTake my yoke upon you and learn from me\nFor I am gentle and humble in heart\nYou will find rest for your souls\nIn this quiet and sacred place\n\n[Bridge]\nAll things have been entrusted to me by my Father\nYes, Father, for this was your good pleasure\nCome to me, all you who are weary\nAnd I will give you rest\n\n[Chorus]\nTake my yoke upon you and learn from me\nFor I am gentle and humble in heart\nYou will find rest for your souls\nIn this quiet and sacred place\n\n[Outro]\nMy yoke is easy\nAnd my burden is light",
+    "cot": "full",
+    "seed": 31242
+  }
+}

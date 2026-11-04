@@ -1,0 +1,42 @@
+{
+  "id": "verse-23-41-10-orchestral",
+  "title": "Do Not Fear",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 23,
+    "chapter": 41,
+    "verseStart": 10,
+    "verseEnd": 10
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 41,
+      "verseStart": 10,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, orchestral, female solo voice with ethereal choir, harp, strings, flute, piano, cello, serene and majestic, 80 BPM",
+    "lyrics": "[Verse]\nThe craftsman speaks to the goldsmith\nThe hammer urges the striker\nHe says the solder is good\nAnd fastens the idol tight\nIt will not topple down\nBut you are my servant chosen\nJacob, offspring of Abraham\nMy friend in the ends of the earth\n\n[Pre-Chorus]\nI called you from farthest corners\nI said you are my servant\nI have chosen you now\nAnd have not rejected you\n\n[Chorus]\nDo not fear for I am with you\nDo not be dismayed I am your God\nI will strengthen you surely\nI will help you uphold you\nWith my righteous right hand\nI am holding you fast\n\n[Verse]\nAll who rage against you\nWill be put to shame and disgraced\nThose who oppose you now\nWill come to nothing perish\nLook for your quarreling foes\nAnd you will not find them\nThose who made war on you\nAre as nothing at all\n\n[Chorus]\nDo not fear for I am with you\nDo not be dismayed I am your God\nI will strengthen you surely\nI will help you uphold you\nWith my righteous right hand\nI am holding you fast\n\n[Bridge]\nI am the LORD your God\nWho takes hold of your right hand\nI say to you clearly\nDo not fear I am your help\n\n[Chorus]\nDo not fear for I am with you\nDo not be dismayed I am your God\nI will strengthen you surely\nI will help you uphold you\nWith my righteous right hand\nI am holding you fast\n\n[Outro]\nDo not fear\nI am with you",
+    "cot": "full",
+    "seed": 31240
+  }
+}

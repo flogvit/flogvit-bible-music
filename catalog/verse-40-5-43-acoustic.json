@@ -1,0 +1,51 @@
+{
+  "id": "verse-40-5-43-acoustic",
+  "title": "Sun on the Evil",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 43,
+    "verseEnd": 45
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 43,
+      "verseEnd": 45
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith",
+      "holiness",
+      "obedience",
+      "mercy"
+    ],
+    "themes": [
+      "kjerlighet",
+      "ydmykhet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, warm and gentle, solo with soft backing choir, acoustic guitar, piano, cello, light percussion, contemplative and serene, 72 BPM",
+    "lyrics": "[Verse]\nYou heard the old command given\nLove your neighbor, hate the foe\nBut I tell you something new now\nLove your enemies, go and show\nPray for those who persecute\nSeek the peace that they refuse\n\n[Chorus]\nSo that you may be sons of the Father\nIn the heaven above\nHe makes his sun rise on the evil\nAnd the good alike\nHe sends rain on the righteous\nAnd the unrighteous too\n\n[Verse]\nWhat reward do you have then\nLoving those who love you back\nEven tax collectors do the same\nSo your love is not unique\nIf you greet only your brothers\nWhat more are you doing now\nEven the Gentiles do the same\nSo stand apart in how\n\n[Chorus]\nSo that you may be sons of the Father\nIn the heaven above\nHe makes his sun rise on the evil\nAnd the good alike\nHe sends rain on the righteous\nAnd the unrighteous too\n\n[Bridge]\nYou therefore are to be perfect\nAs your heavenly Father is\nNot in sinless flawlessness\nBut in overflowing bliss\nLove that reaches out beyond\nWhere the heart is bound\n\n[Outro]\nRain on the unrighteous\nSun on the evil\nPerfect in this love",
+    "cot": "full",
+    "seed": 31246
+  }
+}

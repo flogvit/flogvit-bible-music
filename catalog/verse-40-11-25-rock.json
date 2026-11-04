@@ -1,0 +1,47 @@
+{
+  "id": "verse-40-11-25-rock",
+  "title": "Revealed to Little Children",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 11,
+    "verseStart": 25,
+    "verseEnd": 26
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 11,
+      "verseStart": 25,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "ydmykhet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male baritone with raw emotion, electric guitar, bass, drums, organ, powerful and reverent, 90 BPM",
+    "lyrics": "[Verse]\nI praise you Father Lord of heaven and earth\nBecause you have hidden these things from the wise\nAnd learned minds who think they hold the key\nYou have revealed them to little children\n\n[Chorus]\nYes Father for this was your good pleasure\nHidden from the wise and learned\nRevealed to the little ones\nThis is your good pleasure\n\n[Verse]\nAll things entrusted to me by my Father\nNo one knows the Son except the Father\nAnd no one knows the Father except the Son\nAnd those to whom the Son chooses to reveal him\n\n[Chorus]\nYes Father for this was your good pleasure\nHidden from the wise and learned\nRevealed to the little ones\nThis is your good pleasure\n\n[Bridge]\nCome to me all you who are weary and burdened\nAnd I will give you rest\nTake my yoke upon you and learn from me\nFor I am gentle and humble in heart\n\n[Chorus]\nYes Father for this was your good pleasure\nHidden from the wise and learned\nRevealed to the little ones\nThis is your good pleasure\n\n[Outro]\nYou will find rest for your souls\nIn your good pleasure",
+    "cot": "full",
+    "seed": 31241
+  }
+}

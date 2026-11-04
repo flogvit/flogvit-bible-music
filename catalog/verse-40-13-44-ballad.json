@@ -1,0 +1,48 @@
+{
+  "id": "verse-40-13-44-ballad",
+  "title": "Sold Everything He Had",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 13,
+    "verseStart": 44,
+    "verseEnd": 46
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 13,
+      "verseStart": 44,
+      "verseEnd": 46
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with soft backing choir, acoustic guitar, piano, cello, gentle strings, hopeful and urgent, 80 BPM",
+    "lyrics": "[Verse]\nThe kingdom is like treasure in the field\nA man found it and hid it again\nIn his joy he went and sold his all\nTo buy the field where the treasure lay\n\n[Chorus]\nHe sold everything he had\nFor the pearl of great value\nThe merchant found one precious stone\nAnd gave his life for it\n\n[Verse]\nA net let down into the deep sea\nCaught fish of every kind and sort\nThey hauled it up upon the shore\nAnd sat to sort the good from bad\n\n[Chorus]\nHe sold everything he had\nFor the pearl of great value\nThe merchant found one precious stone\nAnd gave his life for it\n\n[Bridge]\nAt the end of the age they come\nTo separate the wicked from the just\nThe righteous shine like the sun\nIn the kingdom of the Father\n\n[Chorus]\nHe sold everything he had\nFor the pearl of great value\nThe merchant found one precious stone\nAnd gave his life for it\n\n[Outro]\nWhoever has ears let him hear\nThe joy of finding the truth",
+    "cot": "full",
+    "seed": 31243
+  }
+}

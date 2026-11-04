@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-97-1-gospel",
+  "title": "The LORD Reigns",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 97,
+    "verseStart": 1,
+    "verseEnd": 1
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 97,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "promise",
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet",
+      "glede"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gospel, powerful male solo voice with full choir, organ, piano, drums, bass, strings, majestic and triumphant mood, 90 BPM",
+    "lyrics": "[Verse]\nCloud and thick darkness surround him\nRighteousness and justice are the foundation of his throne\nThe world holds its breath in awe\nSee the King upon the throne\n\n[Pre-Chorus]\nFire goes before him on every side\nConsumes his foes in the burning light\nNo power can stand against his might\nThe darkness flees before the King\n\n[Chorus]\nThe LORD reigns! Let the earth rejoice\nLet the many coastlands be glad\nHis lightning flashes light up the world\nThe earth sees and trembles in his hand\n\n[Verse]\nCoastlands lift their voices high\nLet the nations bow before him now\nJustice stands where chaos bowed\nHis throne is built on truth and love\n\n[Pre-Chorus]\nFire goes before him on every side\nConsumes his foes in the burning light\nNo power can stand against his might\nThe darkness flees before the King\n\n[Chorus]\nThe LORD reigns! Let the earth rejoice\nLet the many coastlands be glad\nHis lightning flashes light up the world\nThe earth sees and trembles in his hand\n\n[Bridge]\nRighteousness and justice hold him firm\nThe foundation of his eternal rule\nThe earth trembles at his coming\nAnd the coastlands sing his praise\n\n[Chorus]\nThe LORD reigns! Let the earth rejoice\nLet the many coastlands be glad\nHis lightning flashes light up the world\nThe earth sees and trembles in his hand\n\n[Outro]\nThe LORD reigns\nLet the earth rejoice",
+    "cot": "full",
+    "seed": 31239
+  }
+}

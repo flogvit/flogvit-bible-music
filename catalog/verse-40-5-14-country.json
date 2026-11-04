@@ -1,0 +1,50 @@
+{
+  "id": "verse-40-5-14-country",
+  "title": "Light of the World",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 14,
+    "verseEnd": 16
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 14,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and sincere, acoustic guitar, piano, fiddle, bass, drums, hopeful and steady, 90 BPM",
+    "lyrics": "[Verse]\nYou are the light of the world\nA city on a hill stands tall\nCannot be hidden from the view\nNo one puts a lamp away\nThey set it on a stand so high\nIt gives light to everyone\nInside the house of life\n\n[Chorus]\nLet your light shine before others\nSo they see your good works done\nAnd glorify your Father\nWho is seated in heaven\nLet your light shine before others\nSee the good works you do\nGlorify your Father above\nIn the bright and endless view\n\n[Verse]\nDo not hide beneath the basket\nNo one does this in the night\nSet it on the stand and stand firm\nLet the rays reach every soul\nIn the same way let it shine\nSo they see the truth of you\nAnd lift their eyes to heaven\nWhere your Father waits for you\n\n[Chorus]\nLet your light shine before others\nSo they see your good works done\nAnd glorify your Father\nWho is seated in heaven\nLet your light shine before others\nSee the good works you do\nGlorify your Father above\nIn the bright and endless view\n\n[Bridge]\nA city set on a hill\nCannot be hidden from sight\nYour light is the sign of grace\nThat leads us through the day\nLet it shine for all to see\nThe goodness God has given\nGlorify the Father in heaven\nWith a heart that is forgiven\n\n[Outro]\nLet your light shine before others\nGlorify your Father in heaven",
+    "cot": "full",
+    "seed": 31245
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-40-5-6-worship",
+  "title": "Filled With Righteousness",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm choir, piano, acoustic guitar, cello, soft drums, hopeful and building, 85 BPM",
+    "lyrics": "[Verse]\nPoor in spirit, the kingdom is yours\nMourning hearts will find comfort in store\nMeek in spirit, the earth is the prize\nHunger and thirst, with open wide eyes\n\n[Chorus]\nBlessed are those who hunger and thirst for righteousness\nFor they will be filled\nBlessed are those who hunger and thirst for righteousness\nFor they will be filled\n\n[Verse]\nMerciful spirits, mercy will flow\nPure in heart, you will see God’s glow\nPeacemakers rise, called God’s own sons\nThe beatitudes speak, the victory won\n\n[Chorus]\nBlessed are those who hunger and thirst for righteousness\nFor they will be filled\nBlessed are those who hunger and thirst for righteousness\nFor they will be filled\n\n[Bridge]\nNot by our own strength, but by grace\nThe hunger is met in a holy place\n\n[Chorus]\nBlessed are those who hunger and thirst for righteousness\nFor they will be filled\nBlessed are those who hunger and thirst for righteousness\nFor they will be filled\n\n[Outro]\nFilled with the promise, filled with the light\nHungering for what is right",
+    "cot": "full",
+    "seed": 31247
+  }
+}

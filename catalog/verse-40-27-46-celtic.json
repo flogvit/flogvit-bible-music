@@ -1,0 +1,48 @@
+{
+  "id": "verse-40-27-46-celtic",
+  "title": "Why Have You Forsaken Me",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 27,
+    "verseStart": 46,
+    "verseEnd": 46
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 27,
+      "verseStart": 46,
+      "verseEnd": 46
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "korset",
+      "lidelse",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female voice with celtic choir, bodhran, harp, fiddle, flute, low drone, dark and mournful mood, 70 BPM",
+    "lyrics": "[Verse]\nThe sixth hour broke the light of day\nDarkness wrapped the world in grey\nHe trusts in God to set him free\nLet God rescue him if He will be\n\n[Verse]\nThe rebels on the crosses near\nHeaped their insults without fear\nHe said, \"I am the Son of God\"\nThey mocked the words they did not know\n\n[Chorus]\nEli, Eli, lema sabachthani\nMy God, my God, why have you forsaken me\nA loud voice in the silent night\nWhy have you forsaken me\n\n[Verse]\nSome stood by and heard the cry\nSaid he calls for Elijah\nOne ran to bring a drink of sour wine\nOn a stick, held out in the dark\n\n[Chorus]\nEli, Eli, lema sabachthani\nMy God, my God, why have you forsaken me\nA loud voice in the silent night\nWhy have you forsaken me\n\n[Bridge]\nLeave him alone, they said with spite\nLet's see if Elijah saves his life\nThe ninth hour held the breath of earth\nIn the shadow of the cross\n\n[Chorus]\nEli, Eli, lema sabachthani\nMy God, my God, why have you forsaken me\nA loud voice in the silent night\nWhy have you forsaken me\n\n[Outro]\nWhy have you forsaken me\nMy God, why have you forsaken me",
+    "cot": "full",
+    "seed": 31244
+  }
+}

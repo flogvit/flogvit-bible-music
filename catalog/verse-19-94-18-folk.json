@@ -1,0 +1,50 @@
+{
+  "id": "verse-19-94-18-folk",
+  "title": "Your Consolations Bring Joy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 19,
+    "chapter": 94,
+    "verseStart": 18,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 19,
+      "chapter": 94,
+      "verseStart": 18,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, acoustic guitar, cello, soft piano, ambient pads, gentle and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nWho will rise up against the wicked\nWho will stand with me against evildoers\nIf the Lord had not been my help\nI would dwell in the land of silence\n\n[Chorus]\nWhen my foot was slipping\nYour steadfast love held me up\nWhen anxious thoughts filled my heart\nYour consolations brought joy to my soul\n\n[Verse]\nCan a throne of destruction ally with you\nOne that frames injustice into law\nThey band together against the righteous\nAnd condemn the innocent blood\n\n[Chorus]\nWhen my foot was slipping\nYour steadfast love held me up\nWhen anxious thoughts filled my heart\nYour consolations brought joy to my soul\n\n[Bridge]\nBut the Lord has become my stronghold\nAnd my God the rock of my refuge\n\n[Outro]\nYour comfort gladdens my soul\nYour love holds me up",
+    "cot": "full",
+    "seed": 31238
+  }
+}

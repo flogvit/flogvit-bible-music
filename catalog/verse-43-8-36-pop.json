@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-8-36-pop",
+  "title": "Free Indeed",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 8,
+    "verseStart": 36,
+    "verseEnd": 36
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 8,
+      "verseStart": 36,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female vocal, warm and hopeful, solo with light choir, piano, acoustic guitar, strings, cello, gentle and uplifting, 84 BPM",
+    "lyrics": "[Verse]\nWe claim the blood of Abraham runs deep\nWe say we have never been anyone's slave\nBut you ask how we could ever be truly free\nWhen the chains of sin are heavy and strong\n\n[Chorus]\nTruly, truly, I tell you today\nEveryone who commits sin is a slave\nA slave does not remain in the house\nBut a son stays forever in his place\n\n[Verse]\nIf the Son sets you free from the bond\nYou will be free indeed, truly free\nI know your lineage, I know your name\nBut my word finds no room in your heart\n\n[Chorus]\nTruly, truly, I tell you today\nEveryone who commits sin is a slave\nA slave does not remain in the house\nBut a son stays forever in his place\n\n[Bridge]\nI speak of what I have seen with my Father\nYou do what you have heard from your father\nIf you were children of Abraham then\nYou would do the works that he did\n\n[Outro]\nFree indeed, the son remains\nFree indeed, the chains are gone",
+    "cot": "full",
+    "seed": 31279
+  }
+}

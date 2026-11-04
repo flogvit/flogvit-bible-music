@@ -1,0 +1,46 @@
+{
+  "id": "verse-45-13-8-folk",
+  "title": "Owe No One Anything",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 13,
+    "verseStart": 8,
+    "verseEnd": 8
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 13,
+      "verseStart": 8,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [
+      "kjerlighet",
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Warm male solo voice with gentle choir backing, acoustic guitar, piano, cello, soft drum, hopeful and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nGive to whom taxes are due\nRespect and honor in view\nSubmit for conscience sake\nFor the commandments' sake\n\n[Chorus]\nOwe no one anything\nExcept to love one another\nWhoever loves the other\nHas fulfilled the law\n\n[Verse]\nDo not commit adultery\nDo not steal or murder\nDo not covet what is his\nLove your neighbor as yourself\n\n[Chorus]\nOwe no one anything\nExcept to love one another\nWhoever loves the other\nHas fulfilled the law\n\n[Bridge]\nLove does no harm to a neighbor\nTherefore love is the law's end\nWake from sleep, the hour is come\nSalvation is near now\n\n[Chorus]\nOwe no one anything\nExcept to love one another\nWhoever loves the other\nHas fulfilled the law\n\n[Outro]\nOwe no one anything\nExcept to love one another",
+    "cot": "full",
+    "seed": 31283
+  }
+}

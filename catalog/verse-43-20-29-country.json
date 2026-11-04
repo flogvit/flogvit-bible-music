@@ -1,0 +1,50 @@
+{
+  "id": "verse-43-20-29-country",
+  "title": "Blessed Are Those",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 20,
+    "verseStart": 29,
+    "verseEnd": 29
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 20,
+      "verseStart": 29,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male country voice, warm and storytelling, solo with acoustic guitar and piano, gentle fiddle, reflective mood, 75 BPM",
+    "lyrics": "[Verse]\nEight days passed and the doors were locked tight\nThe disciples gathered in the quiet night\nThomas stood among them, heart still afraid\nJesus came in and the peace he displayed\n\n[Pre-Chorus]\nHe said to Thomas, take a look around\nPut your finger in, feel where I was bound\nStop your doubting now, believe in my grace\nMy Lord and my God, Thomas said in that place\n\n[Chorus]\nBlessed are those who have not seen yet believed\nTheir hearts are open and their souls received\nNo need for sight to know the way it is\nFaith is the treasure, the quiet wish\n\n[Verse]\nMany signs were done in their presence that day\nNot all are written for us to say\nBut these are recorded so you might see\nJesus is the Christ, the Son who set us free\n\n[Chorus]\nBlessed are those who have not seen yet believed\nTheir hearts are open and their souls received\nNo need for sight to know the way it is\nFaith is the treasure, the quiet wish\n\n[Bridge]\nLife in his name is the gift we hold\nFaith is the story that must be told\nWithout the seeing, the heart still knows\nThe peace that flows from the love that glows\n\n[Chorus]\nBlessed are those who have not seen yet believed\nTheir hearts are open and their souls received\nNo need for sight to know the way it is\nFaith is the treasure, the quiet wish\n\n[Outro]\nBlessed are those who have not seen yet believed",
+    "cot": "full",
+    "seed": 31275
+  }
+}

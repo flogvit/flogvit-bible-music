@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-9-4-hymn",
+  "title": "While It Is Day",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 9,
+    "verseStart": 4,
+    "verseEnd": 4
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 9,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet",
+      "hap"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, hymn, solo male voice with warm choir backing, acoustic guitar, piano, strings, soft drums, reverent and urgent, 80 BPM",
+    "lyrics": "[Verse]\nHe passed by and saw a man\nBlind from his earliest days\nThe disciples stood and asked\nWho sinned to cause such pain\n\n[Verse]\nNeither this man nor his parents\nDid sin to bring this state\nIt happened so the works of God\nMight be revealed in his fate\n\n[Chorus]\nWe must do the works of him\nWho sent me while it is day\nNight is coming when no one\nCan work in the fading light\n\n[Verse]\nAs long as I am in the world\nI am the light of the world\nHe spat on the ground and made\nMud with his saliva poured\n\n[Chorus]\nWe must do the works of him\nWho sent me while it is day\nNight is coming when no one\nCan work in the fading light\n\n[Bridge]\nHe spread it on the man's eyes\nAnd told him to go and wash\nIn the pool of Siloam\nWhich means the one who was sent\n\n[Outro]\nSo the man went and washed\nAnd came back seeing the light\nWork while it is day\nBefore the night arrives",
+    "cot": "full",
+    "seed": 31281
+  }
+}

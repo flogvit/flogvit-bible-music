@@ -1,0 +1,46 @@
+{
+  "id": "verse-43-9-25-jazz",
+  "title": "One Thing I Do Know",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 9,
+    "verseStart": 25,
+    "verseEnd": 25
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 9,
+      "verseStart": 25,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soulful jazz vocal, solo with subtle choir harmonies, upright bass, brushed drums, piano, double bass, warm and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nThey asked me to give glory to God\nSaying the healer was a sinner\nI stood before them with no fear\nAnswering with steady and quiet spirit\n\n[Chorus]\nOne thing I do know\nI was blind and now I see\nOne thing I do know\nThe light has broken through\n\n[Verse]\nThey asked what he did to my eyes\nHow he opened them to the day\nI said I told you before\nWhy do you ask me to speak again\n\n[Chorus]\nOne thing I do know\nI was blind and now I see\nOne thing I do know\nThe light has broken through\n\n[Bridge]\nDo you want to become his disciples too\nOr stay where the darkness keeps its hold\nI will not hide the truth of this life\nThe vision that was given to me\n\n[Chorus]\nOne thing I do know\nI was blind and now I see\nOne thing I do know\nThe light has broken through\n\n[Outro]\nI was blind and now I see",
+    "cot": "full",
+    "seed": 31280
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-8-32-blues",
+  "title": "Truth Sets Free",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 8,
+    "verseStart": 32,
+    "verseEnd": 32
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 8,
+      "verseStart": 32,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gravelly male solo voice, upright bass, slide guitar, brushed snare, moody, 75 BPM",
+    "lyrics": "[Verse]\nHe who sent me is with me\nHe has not left me alone\nI always do what pleases him\nAnd many believed in the sign\n\n[Verse]\nSo Jesus said to those who believed\nIf you remain in my word\nYou are truly my disciples\nAnd you will know the truth\n\n[Chorus]\nAnd the truth will set you free\nThe truth will set you free\nIt breaks the chains of your mind\nThe truth will set you free\n\n[Verse]\nThey answered we are Abraham's seed\nWe have never been anyone's slave\nHow can you say we will be free\nWe have never bowed before anyone\n\n[Chorus]\nAnd the truth will set you free\nThe truth will set you free\nIt breaks the chains of your mind\nThe truth will set you free\n\n[Bridge]\nTruly truly I tell you this\nEveryone who commits sin\nIs a slave to that sin\nA slave does not stay forever\n\n[Outro]\nBut a son remains forever\nThe truth will set you free",
+    "cot": "full",
+    "seed": 31278
+  }
+}

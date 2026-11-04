@@ -1,0 +1,42 @@
+{
+  "id": "verse-43-8-31-worship",
+  "title": "Truth Sets You Free",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 8,
+    "verseStart": 31,
+    "verseEnd": 32
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and intimate, piano, acoustic guitar, strings, soft drums, mood of gentle revelation, 80 BPM",
+    "lyrics": "[Verse]\nJesus spoke to those who believed\nWho had gathered near the temple gate\nHe said if you remain in my word\nYou are truly my disciples then\n\n[Chorus]\nIf you abide in my word\nYou are truly my disciples then\nAnd you will know the truth\nAnd the truth will set you free\n\n[Verse]\nThey said we are Abraham’s seed\nWe have never been slaves at all\nHow can you say we will be free\nWhen we have stood so long in the hall\n\n[Chorus]\nIf you abide in my word\nYou are truly my disciples then\nAnd you will know the truth\nAnd the truth will set you free\n\n[Verse]\nHe answered truly truly I tell you\nEveryone who commits sin is a slave\nA slave does not remain in the house\nBut a son remains forever in grace\n\n[Chorus]\nIf you abide in my word\nYou are truly my disciples then\nAnd you will know the truth\nAnd the truth will set you free\n\n[Outro]\nRemain in my word\nThe truth will set you free",
+    "cot": "full",
+    "seed": 31277
+  }
+}

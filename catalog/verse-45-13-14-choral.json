@@ -1,0 +1,44 @@
+{
+  "id": "verse-45-13-14-choral",
+  "title": "Clothe Yourselves",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 13,
+    "verseStart": 14,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 13,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm choir, cello, piano, harp, timpani, solemn and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nThe hour has come to wake from sleep\nSalvation is near now\nWe cast off the works of darkness\nAnd put on the armor of light\n\n[Chorus]\nClothe yourselves with the Lord Jesus\nGive no thought to the flesh\nThe night is nearly over\nThe day is at hand\n\n[Verse]\nLive decently as in the daytime\nNot in carousing or drunkenness\nNo sexual immorality or debauchery\nNo quarreling or jealousy\n\n[Chorus]\nClothe yourselves with the Lord Jesus\nGive no thought to the flesh\nThe night is nearly over\nThe day is at hand\n\n[Bridge]\nWe know the time is here\nWake from your sleep tonight\nPut on the armor of light\nAnd let the day break\n\n[Chorus]\nClothe yourselves with the Lord Jesus\nGive no thought to the flesh\nThe night is nearly over\nThe day is at hand\n\n[Outro]\nClothe yourselves with the Lord Jesus\nGive no thought to the flesh",
+    "cot": "full",
+    "seed": 31282
+  }
+}

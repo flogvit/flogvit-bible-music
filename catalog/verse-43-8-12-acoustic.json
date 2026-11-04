@@ -1,0 +1,47 @@
+{
+  "id": "verse-43-8-12-acoustic",
+  "title": "The Light of the World",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 8,
+    "verseStart": 12,
+    "verseEnd": 12
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 8,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, soft strings, cello, hopeful and gentle mood, 72 BPM",
+    "lyrics": "[Verse]\nShe stood alone in the dust and sand\nThe crowd had gone, leaving her in hand\nJesus straightened up to see her face\nIn the quiet place where silence traces\n\n[Pre-Chorus]\nWhere are those who threw stones in the air\nHas no one found a reason to spare\nShe looked down low, trembling with fear\nKnowing that the end was near\n\n[Chorus]\nI am the light of the world\nWhoever follows me is not unfurled\nNever walk in the darkness deep\nBut hold the light of life in your sleep\n\n[Verse]\nThey said your own words are not true\nYou testify only of you alone\nBut I know where I came from and where I go\nYou do not know the way to know\n\n[Pre-Chorus]\nYou judge by the standards of men\nBut I judge not, for I am not in\nYour human measure is blind and small\nBefore the truth that stands tall\n\n[Chorus]\nI am the light of the world\nWhoever follows me is not unfurled\nNever walk in the darkness deep\nBut hold the light of life in your sleep\n\n[Bridge]\nNeither do I condemn you now\nGo from this place, make the light your vow\nSin no more, turn from the old way\nWalk in the day, let the shadows fade away\n\n[Outro]\nI am the light of the world\nThe light of life, the light of the world",
+    "cot": "full",
+    "seed": 31276
+  }
+}

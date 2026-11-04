@@ -1,0 +1,950 @@
+{
+ "id": "verse-19-66-1-folk",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-19-66-1-folk",
+ "offset_seconds": -3.600000000000179,
+ "words_heard": 108,
+ "words": 108,
+ "lines": [
+  {
+   "text": "Shout to God with joy, all the earth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sing the glory of his name",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Make his praise glorious now",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How awesome are your works indeed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your power is so great and true",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your enemies cringe before you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "All the earth bows down to you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They sing to you in praise",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Singing praise to your name",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How awesome are your works indeed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your power is so great and true",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your enemies cringe before you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Come and see what God has done",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Awesome deeds toward men",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Look upon the works of grace",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "How awesome are your works indeed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your power is so great and true",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Your enemies cringe before you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Shout",
+   "time": 14.64,
+   "weight": 0.81,
+   "note_time": 14.44
+  },
+  {
+   "text": "to",
+   "time": 16.04,
+   "weight": 0.99,
+   "note_time": 15.56
+  },
+  {
+   "text": "God",
+   "time": 16.64,
+   "weight": 1.0,
+   "note_time": 16.67
+  },
+  {
+   "text": "with",
+   "time": 17.4,
+   "weight": 0.98,
+   "note_time": 17.5
+  },
+  {
+   "text": "joy,",
+   "time": 18.34,
+   "weight": 0.99,
+   "note_time": 17.78
+  },
+  {
+   "text": "all",
+   "time": 19.44,
+   "weight": 0.17,
+   "note_time": 19.44
+  },
+  {
+   "text": "the",
+   "time": 20.58,
+   "weight": 1.0,
+   "note_time": 19.72
+  },
+  {
+   "text": "earth",
+   "time": 21.06,
+   "weight": 0.95,
+   "note_time": 20.0
+  },
+  {
+   "text": "Sing",
+   "time": 21.94,
+   "weight": 0.29,
+   "note_time": 23.33
+  },
+  {
+   "text": "the",
+   "time": 24.88,
+   "weight": 1.0,
+   "note_time": 24.44
+  },
+  {
+   "text": "glo",
+   "time": 25.44,
+   "weight": 0.98,
+   "note_time": 25.28
+  },
+  {
+   "text": "ry",
+   "time": 25.79,
+   "weight": 0.98,
+   "note_time": 25.56
+  },
+  {
+   "text": "of",
+   "time": 26.8,
+   "weight": 0.39,
+   "note_time": 26.67
+  },
+  {
+   "text": "his",
+   "time": 28.34,
+   "weight": 0.21,
+   "note_time": 27.78
+  },
+  {
+   "text": "name",
+   "time": 29.48,
+   "weight": 0.97,
+   "note_time": 28.89
+  },
+  {
+   "text": "Make",
+   "time": 32.34,
+   "weight": 0.56,
+   "note_time": 32.22
+  },
+  {
+   "text": "his",
+   "time": 33.74,
+   "weight": 0.77,
+   "note_time": 32.78
+  },
+  {
+   "text": "praise",
+   "time": 34.34,
+   "weight": 0.99,
+   "note_time": 33.33
+  },
+  {
+   "text": "glo",
+   "time": 35.3,
+   "weight": 0.99,
+   "note_time": 34.44
+  },
+  {
+   "text": "ri",
+   "time": 35.65,
+   "weight": 0.99,
+   "note_time": 35.56
+  },
+  {
+   "text": "ous",
+   "time": 36.0,
+   "weight": 0.99,
+   "note_time": 36.39
+  },
+  {
+   "text": "now",
+   "time": 36.74,
+   "weight": 0.4,
+   "note_time": 36.67
+  },
+  {
+   "text": "How",
+   "time": 41.7,
+   "weight": 0.68,
+   "note_time": 41.67
+  },
+  {
+   "text": "awe",
+   "time": 43.1,
+   "weight": 1.0,
+   "note_time": 43.06
+  },
+  {
+   "text": "some",
+   "time": 43.45,
+   "weight": 1.0,
+   "note_time": 43.33
+  },
+  {
+   "text": "are",
+   "time": 44.48,
+   "weight": 0.99,
+   "note_time": 43.89
+  },
+  {
+   "text": "your",
+   "time": 44.9,
+   "weight": 0.68,
+   "note_time": 44.44
+  },
+  {
+   "text": "works",
+   "time": 45.34,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "in",
+   "time": 46.22,
+   "weight": 0.96,
+   "note_time": 45.56
+  },
+  {
+   "text": "deed",
+   "time": 46.5,
+   "weight": 0.96,
+   "note_time": 46.11
+  },
+  {
+   "text": "Your",
+   "time": 46.78,
+   "weight": 0.74,
+   "note_time": 46.67
+  },
+  {
+   "text": "pow",
+   "time": 47.56,
+   "weight": 1.0,
+   "note_time": 47.5
+  },
+  {
+   "text": "er",
+   "time": 47.86,
+   "weight": 1.0,
+   "note_time": 47.78
+  },
+  {
+   "text": "is",
+   "time": 48.16,
+   "weight": 0.99,
+   "note_time": 48.33
+  },
+  {
+   "text": "so",
+   "time": 49.36,
+   "weight": 1.0,
+   "note_time": 48.89
+  },
+  {
+   "text": "great",
+   "time": 49.76,
+   "weight": 1.0,
+   "note_time": 49.44
+  },
+  {
+   "text": "and",
+   "time": 50.36,
+   "weight": 1.0,
+   "note_time": 49.72
+  },
+  {
+   "text": "true",
+   "time": 50.98,
+   "weight": 1.0,
+   "note_time": 50.0
+  },
+  {
+   "text": "Your",
+   "time": 51.42,
+   "weight": 0.98,
+   "note_time": 50.83
+  },
+  {
+   "text": "en",
+   "time": 52.34,
+   "weight": 1.0,
+   "note_time": 51.94
+  },
+  {
+   "text": "e",
+   "time": 52.69,
+   "weight": 1.0,
+   "note_time": 52.22
+  },
+  {
+   "text": "mies",
+   "time": 53.04,
+   "weight": 1.0,
+   "note_time": 53.33
+  },
+  {
+   "text": "cringe",
+   "time": 53.54,
+   "weight": 0.99,
+   "note_time": 54.17
+  },
+  {
+   "text": "be",
+   "time": 54.7,
+   "weight": 1.0,
+   "note_time": 54.44
+  },
+  {
+   "text": "fore",
+   "time": 55.05,
+   "weight": 1.0,
+   "note_time": 55.28
+  },
+  {
+   "text": "you",
+   "time": 55.7,
+   "weight": 0.96,
+   "note_time": 55.56
+  },
+  {
+   "text": "All",
+   "time": 58.78,
+   "weight": 0.55,
+   "note_time": 58.89
+  },
+  {
+   "text": "the",
+   "time": 60.18,
+   "weight": 0.99,
+   "note_time": 60.0
+  },
+  {
+   "text": "earth",
+   "time": 60.72,
+   "weight": 0.96,
+   "note_time": 61.11
+  },
+  {
+   "text": "bows",
+   "time": 61.54,
+   "weight": 0.98,
+   "note_time": 61.94
+  },
+  {
+   "text": "down",
+   "time": 62.4,
+   "weight": 1.0,
+   "note_time": 62.22
+  },
+  {
+   "text": "to",
+   "time": 63.56,
+   "weight": 1.0,
+   "note_time": 63.33
+  },
+  {
+   "text": "you",
+   "time": 64.58,
+   "weight": 0.42,
+   "note_time": 63.89
+  },
+  {
+   "text": "They",
+   "time": 66.78,
+   "weight": 0.26,
+   "note_time": 67.5
+  },
+  {
+   "text": "sing",
+   "time": 68.52,
+   "weight": 1.0,
+   "note_time": 68.33
+  },
+  {
+   "text": "to",
+   "time": 69.08,
+   "weight": 1.0,
+   "note_time": 68.89
+  },
+  {
+   "text": "you",
+   "time": 69.5,
+   "weight": 0.98,
+   "note_time": 69.72
+  },
+  {
+   "text": "in",
+   "time": 70.2,
+   "weight": 0.99,
+   "note_time": 70.0
+  },
+  {
+   "text": "praise",
+   "time": 71.34,
+   "weight": 1.0,
+   "note_time": 70.83
+  },
+  {
+   "text": "Sin",
+   "time": 72.92,
+   "weight": 0.36,
+   "note_time": 72.22
+  },
+  {
+   "text": "ging",
+   "time": 73.27,
+   "weight": 0.36,
+   "note_time": 72.5
+  },
+  {
+   "text": "praise",
+   "time": 73.62,
+   "weight": 0.98,
+   "note_time": 73.33
+  },
+  {
+   "text": "to",
+   "time": 74.46,
+   "weight": 1.0,
+   "note_time": 74.44
+  },
+  {
+   "text": "your",
+   "time": 75.52,
+   "weight": 0.95,
+   "note_time": 74.72
+  },
+  {
+   "text": "name",
+   "time": 75.92,
+   "weight": 0.94,
+   "note_time": 75.28
+  },
+  {
+   "text": "How",
+   "time": 77.56,
+   "weight": 0.96,
+   "note_time": 77.22
+  },
+  {
+   "text": "awe",
+   "time": 78.32,
+   "weight": 1.0,
+   "note_time": 78.61
+  },
+  {
+   "text": "some",
+   "time": 78.67,
+   "weight": 1.0,
+   "note_time": 78.89
+  },
+  {
+   "text": "are",
+   "time": 79.68,
+   "weight": 0.99,
+   "note_time": 79.44
+  },
+  {
+   "text": "your",
+   "time": 80.14,
+   "weight": 0.93,
+   "note_time": 80.0
+  },
+  {
+   "text": "works",
+   "time": 80.58,
+   "weight": 0.98,
+   "note_time": 80.56
+  },
+  {
+   "text": "in",
+   "time": 81.42,
+   "weight": 0.94,
+   "note_time": 80.83
+  },
+  {
+   "text": "deed",
+   "time": 81.69,
+   "weight": 0.94,
+   "note_time": 81.11
+  },
+  {
+   "text": "Your",
+   "time": 81.96,
+   "weight": 0.77,
+   "note_time": 81.67
+  },
+  {
+   "text": "pow",
+   "time": 82.76,
+   "weight": 0.99,
+   "note_time": 82.22
+  },
+  {
+   "text": "er",
+   "time": 83.07,
+   "weight": 0.99,
+   "note_time": 83.06
+  },
+  {
+   "text": "is",
+   "time": 83.38,
+   "weight": 0.99,
+   "note_time": 83.33
+  },
+  {
+   "text": "so",
+   "time": 84.5,
+   "weight": 0.99,
+   "note_time": 84.44
+  },
+  {
+   "text": "great",
+   "time": 84.94,
+   "weight": 1.0,
+   "note_time": 85.0
+  },
+  {
+   "text": "and",
+   "time": 85.6,
+   "weight": 1.0,
+   "note_time": 85.28
+  },
+  {
+   "text": "true",
+   "time": 86.2,
+   "weight": 1.0,
+   "note_time": 85.56
+  },
+  {
+   "text": "Your",
+   "time": 86.64,
+   "weight": 0.49,
+   "note_time": 86.39
+  },
+  {
+   "text": "en",
+   "time": 87.5,
+   "weight": 0.99,
+   "note_time": 86.67
+  },
+  {
+   "text": "e",
+   "time": 87.85,
+   "weight": 0.99,
+   "note_time": 87.5
+  },
+  {
+   "text": "mies",
+   "time": 88.2,
+   "weight": 0.99,
+   "note_time": 87.78
+  },
+  {
+   "text": "cringe",
+   "time": 88.78,
+   "weight": 0.98,
+   "note_time": 88.89
+  },
+  {
+   "text": "be",
+   "time": 89.94,
+   "weight": 1.0,
+   "note_time": 89.72
+  },
+  {
+   "text": "fore",
+   "time": 90.29,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "you",
+   "time": 90.98,
+   "weight": 0.45,
+   "note_time": 90.83
+  },
+  {
+   "text": "Come",
+   "time": 111.96,
+   "weight": 0.9,
+   "note_time": 112.22
+  },
+  {
+   "text": "and",
+   "time": 113.04,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "see",
+   "time": 113.48,
+   "weight": 1.0,
+   "note_time": 113.33
+  },
+  {
+   "text": "what",
+   "time": 114.12,
+   "weight": 1.0,
+   "note_time": 114.44
+  },
+  {
+   "text": "God",
+   "time": 115.26,
+   "weight": 1.0,
+   "note_time": 115.28
+  },
+  {
+   "text": "has",
+   "time": 116.48,
+   "weight": 1.0,
+   "note_time": 115.56
+  },
+  {
+   "text": "done",
+   "time": 117.52,
+   "weight": 1.0,
+   "note_time": 116.94
+  },
+  {
+   "text": "Awe",
+   "time": 120.72,
+   "weight": 0.45,
+   "note_time": 121.11
+  },
+  {
+   "text": "some",
+   "time": 121.07,
+   "weight": 0.45,
+   "note_time": 121.67
+  },
+  {
+   "text": "deeds",
+   "time": 122.12,
+   "weight": 1.0,
+   "note_time": 122.22
+  },
+  {
+   "text": "toward",
+   "time": 122.96,
+   "weight": 0.94,
+   "note_time": 123.06
+  },
+  {
+   "text": "men",
+   "time": 124.14,
+   "weight": 0.98,
+   "note_time": 123.33
+  },
+  {
+   "text": "Look",
+   "time": 125.14,
+   "weight": 0.74,
+   "note_time": 125.56
+  },
+  {
+   "text": "up",
+   "time": 126.26,
+   "weight": 0.98,
+   "note_time": 125.83
+  },
+  {
+   "text": "on",
+   "time": 126.61,
+   "weight": 0.98,
+   "note_time": 126.67
+  },
+  {
+   "text": "the",
+   "time": 126.96,
+   "weight": 1.0,
+   "note_time": 127.5
+  },
+  {
+   "text": "works",
+   "time": 128.16,
+   "weight": 1.0,
+   "note_time": 127.78
+  },
+  {
+   "text": "of",
+   "time": 128.64,
+   "weight": 1.0,
+   "note_time": 128.33
+  },
+  {
+   "text": "grace",
+   "time": 128.96,
+   "weight": 0.98,
+   "note_time": 128.89
+  },
+  {
+   "text": "How",
+   "time": 130.18,
+   "weight": 0.98,
+   "note_time": 130.56
+  },
+  {
+   "text": "awe",
+   "time": 131.26,
+   "weight": 1.0,
+   "note_time": 131.11
+  },
+  {
+   "text": "some",
+   "time": 131.61,
+   "weight": 1.0,
+   "note_time": 131.94
+  },
+  {
+   "text": "are",
+   "time": 132.48,
+   "weight": 1.0,
+   "note_time": 132.22
+  },
+  {
+   "text": "your",
+   "time": 132.96,
+   "weight": 0.59,
+   "note_time": 132.78
+  },
+  {
+   "text": "works",
+   "time": 133.4,
+   "weight": 1.0,
+   "note_time": 133.33
+  },
+  {
+   "text": "in",
+   "time": 134.24,
+   "weight": 0.98,
+   "note_time": 133.89
+  },
+  {
+   "text": "deed",
+   "time": 134.52,
+   "weight": 0.98,
+   "note_time": 134.17
+  },
+  {
+   "text": "Your",
+   "time": 134.8,
+   "weight": 0.84,
+   "note_time": 135.0
+  },
+  {
+   "text": "pow",
+   "time": 135.6,
+   "weight": 1.0,
+   "note_time": 135.56
+  },
+  {
+   "text": "er",
+   "time": 135.89,
+   "weight": 1.0,
+   "note_time": 136.39
+  },
+  {
+   "text": "is",
+   "time": 136.18,
+   "weight": 0.99,
+   "note_time": 136.67
+  },
+  {
+   "text": "so",
+   "time": 137.36,
+   "weight": 1.0,
+   "note_time": 137.22
+  },
+  {
+   "text": "great",
+   "time": 137.78,
+   "weight": 1.0,
+   "note_time": 137.78
+  },
+  {
+   "text": "and",
+   "time": 138.4,
+   "weight": 1.0,
+   "note_time": 138.33
+  },
+  {
+   "text": "true",
+   "time": 139.0,
+   "weight": 1.0,
+   "note_time": 138.61
+  },
+  {
+   "text": "Your",
+   "time": 139.46,
+   "weight": 0.77,
+   "note_time": 139.72
+  },
+  {
+   "text": "en",
+   "time": 140.34,
+   "weight": 0.99,
+   "note_time": 140.0
+  },
+  {
+   "text": "e",
+   "time": 140.69,
+   "weight": 0.99,
+   "note_time": 140.83
+  },
+  {
+   "text": "mies",
+   "time": 141.04,
+   "weight": 0.99,
+   "note_time": 141.11
+  },
+  {
+   "text": "cringe",
+   "time": 141.42,
+   "weight": 0.88,
+   "note_time": 142.22
+  },
+  {
+   "text": "be",
+   "time": 142.76,
+   "weight": 1.0,
+   "note_time": 143.06
+  },
+  {
+   "text": "fore",
+   "time": 143.11,
+   "weight": 1.0,
+   "note_time": 143.33
+  },
+  {
+   "text": "you",
+   "time": 143.76,
+   "weight": 0.64,
+   "note_time": 144.17
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 18 lyric lines sit on their notes."
+}

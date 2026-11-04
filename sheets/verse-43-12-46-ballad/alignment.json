@@ -1,0 +1,1409 @@
+{
+ "id": "verse-43-12-46-ballad",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-12-46-ballad",
+ "offset_seconds": -4.280000000000165,
+ "words_heard": 159,
+ "words": 159,
+ "lines": [
+  {
+   "text": "For they loved human glory more",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.58,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Than the glory of God",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Then Jesus cried out",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whoever believes in me",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Does not believe in me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.07,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But in him who sent me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I have come into the world as light",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So that no one who believes in me",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.85,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Should remain in darkness",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And if anyone hears my words",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And does not keep them",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I do not judge him",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For I did not come to judge the world",
+   "heard": 9,
+   "words": 9,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But to save the world",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I have come into the world as light",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So that no one who believes in me",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Should remain in darkness",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Whoever rejects me",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And does not receive my words",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Already has a judge",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The very word I have spoken",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Will judge him on the last day",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I have come into the world as light",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "So that no one who believes in me",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Should remain in darkness",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I have not spoken on my own authority",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.59,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "The Father has commanded me",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "For",
+   "time": 15.12,
+   "weight": 0.42,
+   "note_time": 15.43
+  },
+  {
+   "text": "they",
+   "time": 16.44,
+   "weight": 0.99,
+   "note_time": 15.86
+  },
+  {
+   "text": "loved",
+   "time": 16.76,
+   "weight": 1.0,
+   "note_time": 16.29
+  },
+  {
+   "text": "hu",
+   "time": 17.3,
+   "weight": 0.99,
+   "note_time": 16.71
+  },
+  {
+   "text": "man",
+   "time": 17.55,
+   "weight": 0.99,
+   "note_time": 17.14
+  },
+  {
+   "text": "glo",
+   "time": 17.8,
+   "weight": 1.0,
+   "note_time": 19.29
+  },
+  {
+   "text": "ry",
+   "time": 18.15,
+   "weight": 1.0,
+   "note_time": 20.14
+  },
+  {
+   "text": "more",
+   "time": 18.64,
+   "weight": 0.37,
+   "note_time": 20.57
+  },
+  {
+   "text": "Than",
+   "time": 21.48,
+   "weight": 0.07,
+   "note_time": 21.86
+  },
+  {
+   "text": "the",
+   "time": 23.08,
+   "weight": 1.0,
+   "note_time": 22.07
+  },
+  {
+   "text": "glo",
+   "time": 23.32,
+   "weight": 0.99,
+   "note_time": 22.29
+  },
+  {
+   "text": "ry",
+   "time": 23.57,
+   "weight": 0.99,
+   "note_time": 22.71
+  },
+  {
+   "text": "of",
+   "time": 23.82,
+   "weight": 1.0,
+   "note_time": 23.14
+  },
+  {
+   "text": "God",
+   "time": 24.5,
+   "weight": 1.0,
+   "note_time": 23.57
+  },
+  {
+   "text": "Then",
+   "time": 25.1,
+   "weight": 0.34,
+   "note_time": 27.21
+  },
+  {
+   "text": "Je",
+   "time": 28.48,
+   "weight": 0.99,
+   "note_time": 27.86
+  },
+  {
+   "text": "sus",
+   "time": 28.73,
+   "weight": 0.99,
+   "note_time": 28.07
+  },
+  {
+   "text": "cried",
+   "time": 28.98,
+   "weight": 1.0,
+   "note_time": 28.71
+  },
+  {
+   "text": "out",
+   "time": 29.5,
+   "weight": 1.0,
+   "note_time": 28.93
+  },
+  {
+   "text": "Who",
+   "time": 30.2,
+   "weight": 0.06,
+   "note_time": 30.64
+  },
+  {
+   "text": "ev",
+   "time": 30.55,
+   "weight": 0.06,
+   "note_time": 30.86
+  },
+  {
+   "text": "er",
+   "time": 30.9,
+   "weight": 0.06,
+   "note_time": 31.07
+  },
+  {
+   "text": "be",
+   "time": 31.94,
+   "weight": 1.0,
+   "note_time": 31.29
+  },
+  {
+   "text": "lieves",
+   "time": 32.29,
+   "weight": 1.0,
+   "note_time": 31.5
+  },
+  {
+   "text": "in",
+   "time": 32.82,
+   "weight": 1.0,
+   "note_time": 32.14
+  },
+  {
+   "text": "me",
+   "time": 33.48,
+   "weight": 0.66,
+   "note_time": 32.36
+  },
+  {
+   "text": "Does",
+   "time": 34.8,
+   "weight": 0.15,
+   "note_time": 34.5
+  },
+  {
+   "text": "not",
+   "time": 35.72,
+   "weight": 1.0,
+   "note_time": 34.71
+  },
+  {
+   "text": "be",
+   "time": 36.0,
+   "weight": 1.0,
+   "note_time": 34.93
+  },
+  {
+   "text": "lieve",
+   "time": 36.23,
+   "weight": 1.0,
+   "note_time": 35.14
+  },
+  {
+   "text": "in",
+   "time": 36.46,
+   "weight": 0.99,
+   "note_time": 35.57
+  },
+  {
+   "text": "me",
+   "time": 36.88,
+   "weight": 0.92,
+   "note_time": 35.79
+  },
+  {
+   "text": "But",
+   "time": 37.12,
+   "weight": 0.68,
+   "note_time": 37.29
+  },
+  {
+   "text": "in",
+   "time": 38.58,
+   "weight": 1.0,
+   "note_time": 37.5
+  },
+  {
+   "text": "him",
+   "time": 38.8,
+   "weight": 0.69,
+   "note_time": 37.71
+  },
+  {
+   "text": "who",
+   "time": 39.14,
+   "weight": 1.0,
+   "note_time": 38.57
+  },
+  {
+   "text": "sent",
+   "time": 39.82,
+   "weight": 1.0,
+   "note_time": 39.0
+  },
+  {
+   "text": "me",
+   "time": 40.26,
+   "weight": 1.0,
+   "note_time": 39.43
+  },
+  {
+   "text": "I",
+   "time": 40.8,
+   "weight": 0.17,
+   "note_time": 42.0
+  },
+  {
+   "text": "have",
+   "time": 43.2,
+   "weight": 0.91,
+   "note_time": 42.43
+  },
+  {
+   "text": "come",
+   "time": 43.76,
+   "weight": 0.99,
+   "note_time": 42.64
+  },
+  {
+   "text": "in",
+   "time": 44.1,
+   "weight": 0.25,
+   "note_time": 43.29
+  },
+  {
+   "text": "to",
+   "time": 44.39,
+   "weight": 0.25,
+   "note_time": 43.5
+  },
+  {
+   "text": "the",
+   "time": 44.68,
+   "weight": 0.96,
+   "note_time": 44.14
+  },
+  {
+   "text": "world",
+   "time": 45.42,
+   "weight": 1.0,
+   "note_time": 44.36
+  },
+  {
+   "text": "as",
+   "time": 46.08,
+   "weight": 0.96,
+   "note_time": 45.0
+  },
+  {
+   "text": "light",
+   "time": 46.9,
+   "weight": 0.97,
+   "note_time": 45.86
+  },
+  {
+   "text": "So",
+   "time": 47.36,
+   "weight": 0.38,
+   "note_time": 48.86
+  },
+  {
+   "text": "that",
+   "time": 50.14,
+   "weight": 0.97,
+   "note_time": 49.29
+  },
+  {
+   "text": "no",
+   "time": 50.82,
+   "weight": 0.15,
+   "note_time": 49.5
+  },
+  {
+   "text": "one",
+   "time": 50.82,
+   "weight": 0.99,
+   "note_time": 50.14
+  },
+  {
+   "text": "who",
+   "time": 51.44,
+   "weight": 0.99,
+   "note_time": 50.57
+  },
+  {
+   "text": "be",
+   "time": 51.88,
+   "weight": 1.0,
+   "note_time": 51.0
+  },
+  {
+   "text": "lieves",
+   "time": 52.23,
+   "weight": 1.0,
+   "note_time": 51.21
+  },
+  {
+   "text": "in",
+   "time": 52.62,
+   "weight": 1.0,
+   "note_time": 51.86
+  },
+  {
+   "text": "me",
+   "time": 53.32,
+   "weight": 0.91,
+   "note_time": 52.71
+  },
+  {
+   "text": "Should",
+   "time": 54.08,
+   "weight": 0.14,
+   "note_time": 55.71
+  },
+  {
+   "text": "re",
+   "time": 56.98,
+   "weight": 0.99,
+   "note_time": 56.14
+  },
+  {
+   "text": "main",
+   "time": 57.3,
+   "weight": 0.99,
+   "note_time": 56.36
+  },
+  {
+   "text": "in",
+   "time": 57.62,
+   "weight": 1.0,
+   "note_time": 57.43
+  },
+  {
+   "text": "dark",
+   "time": 58.84,
+   "weight": 1.0,
+   "note_time": 57.86
+  },
+  {
+   "text": "ness",
+   "time": 59.19,
+   "weight": 1.0,
+   "note_time": 58.71
+  },
+  {
+   "text": "And",
+   "time": 62.98,
+   "weight": 0.88,
+   "note_time": 63.0
+  },
+  {
+   "text": "if",
+   "time": 64.38,
+   "weight": 0.99,
+   "note_time": 63.21
+  },
+  {
+   "text": "a",
+   "time": 64.58,
+   "weight": 0.99,
+   "note_time": 63.43
+  },
+  {
+   "text": "ny",
+   "time": 64.74,
+   "weight": 0.99,
+   "note_time": 63.64
+  },
+  {
+   "text": "one",
+   "time": 64.9,
+   "weight": 0.99,
+   "note_time": 63.86
+  },
+  {
+   "text": "hears",
+   "time": 65.06,
+   "weight": 0.95,
+   "note_time": 64.71
+  },
+  {
+   "text": "my",
+   "time": 66.1,
+   "weight": 0.37,
+   "note_time": 67.29
+  },
+  {
+   "text": "words",
+   "time": 68.6,
+   "weight": 0.98,
+   "note_time": 68.14
+  },
+  {
+   "text": "And",
+   "time": 69.7,
+   "weight": 0.82,
+   "note_time": 70.07
+  },
+  {
+   "text": "does",
+   "time": 70.62,
+   "weight": 1.0,
+   "note_time": 70.29
+  },
+  {
+   "text": "not",
+   "time": 71.68,
+   "weight": 1.0,
+   "note_time": 70.71
+  },
+  {
+   "text": "keep",
+   "time": 72.1,
+   "weight": 1.0,
+   "note_time": 71.57
+  },
+  {
+   "text": "them",
+   "time": 72.94,
+   "weight": 0.99,
+   "note_time": 72.43
+  },
+  {
+   "text": "I",
+   "time": 75.46,
+   "weight": 0.32,
+   "note_time": 75.21
+  },
+  {
+   "text": "do",
+   "time": 76.42,
+   "weight": 0.82,
+   "note_time": 75.43
+  },
+  {
+   "text": "not",
+   "time": 76.66,
+   "weight": 1.0,
+   "note_time": 75.86
+  },
+  {
+   "text": "judge",
+   "time": 77.22,
+   "weight": 0.99,
+   "note_time": 76.71
+  },
+  {
+   "text": "him",
+   "time": 77.98,
+   "weight": 0.75,
+   "note_time": 77.14
+  },
+  {
+   "text": "For",
+   "time": 78.56,
+   "weight": 0.15,
+   "note_time": 78.43
+  },
+  {
+   "text": "I",
+   "time": 79.66,
+   "weight": 1.0,
+   "note_time": 78.64
+  },
+  {
+   "text": "did",
+   "time": 79.94,
+   "weight": 1.0,
+   "note_time": 78.86
+  },
+  {
+   "text": "not",
+   "time": 80.22,
+   "weight": 1.0,
+   "note_time": 79.07
+  },
+  {
+   "text": "come",
+   "time": 80.48,
+   "weight": 1.0,
+   "note_time": 79.5
+  },
+  {
+   "text": "to",
+   "time": 80.92,
+   "weight": 0.99,
+   "note_time": 80.14
+  },
+  {
+   "text": "judge",
+   "time": 81.4,
+   "weight": 1.0,
+   "note_time": 80.36
+  },
+  {
+   "text": "the",
+   "time": 81.76,
+   "weight": 1.0,
+   "note_time": 81.0
+  },
+  {
+   "text": "world",
+   "time": 82.34,
+   "weight": 1.0,
+   "note_time": 81.21
+  },
+  {
+   "text": "But",
+   "time": 82.72,
+   "weight": 0.92,
+   "note_time": 82.71
+  },
+  {
+   "text": "to",
+   "time": 83.98,
+   "weight": 1.0,
+   "note_time": 82.93
+  },
+  {
+   "text": "save",
+   "time": 84.12,
+   "weight": 1.0,
+   "note_time": 83.14
+  },
+  {
+   "text": "the",
+   "time": 84.6,
+   "weight": 1.0,
+   "note_time": 83.57
+  },
+  {
+   "text": "world",
+   "time": 84.88,
+   "weight": 1.0,
+   "note_time": 83.79
+  },
+  {
+   "text": "I",
+   "time": 87.02,
+   "weight": 0.99,
+   "note_time": 86.57
+  },
+  {
+   "text": "have",
+   "time": 87.98,
+   "weight": 0.98,
+   "note_time": 87.0
+  },
+  {
+   "text": "come",
+   "time": 88.3,
+   "weight": 1.0,
+   "note_time": 87.21
+  },
+  {
+   "text": "in",
+   "time": 88.68,
+   "weight": 1.0,
+   "note_time": 87.86
+  },
+  {
+   "text": "to",
+   "time": 88.97,
+   "weight": 1.0,
+   "note_time": 88.07
+  },
+  {
+   "text": "the",
+   "time": 89.26,
+   "weight": 1.0,
+   "note_time": 88.71
+  },
+  {
+   "text": "world",
+   "time": 89.98,
+   "weight": 1.0,
+   "note_time": 88.93
+  },
+  {
+   "text": "as",
+   "time": 90.5,
+   "weight": 0.97,
+   "note_time": 89.57
+  },
+  {
+   "text": "light",
+   "time": 91.5,
+   "weight": 0.99,
+   "note_time": 90.43
+  },
+  {
+   "text": "So",
+   "time": 93.72,
+   "weight": 0.99,
+   "note_time": 93.43
+  },
+  {
+   "text": "that",
+   "time": 94.68,
+   "weight": 1.0,
+   "note_time": 93.86
+  },
+  {
+   "text": "no",
+   "time": 95.12,
+   "weight": 1.0,
+   "note_time": 94.07
+  },
+  {
+   "text": "one",
+   "time": 95.38,
+   "weight": 1.0,
+   "note_time": 94.71
+  },
+  {
+   "text": "who",
+   "time": 96.04,
+   "weight": 1.0,
+   "note_time": 95.14
+  },
+  {
+   "text": "be",
+   "time": 96.44,
+   "weight": 1.0,
+   "note_time": 95.57
+  },
+  {
+   "text": "lieves",
+   "time": 96.79,
+   "weight": 1.0,
+   "note_time": 95.79
+  },
+  {
+   "text": "in",
+   "time": 97.16,
+   "weight": 1.0,
+   "note_time": 96.43
+  },
+  {
+   "text": "me",
+   "time": 97.82,
+   "weight": 1.0,
+   "note_time": 97.29
+  },
+  {
+   "text": "Should",
+   "time": 100.26,
+   "weight": 0.21,
+   "note_time": 100.29
+  },
+  {
+   "text": "re",
+   "time": 101.5,
+   "weight": 0.99,
+   "note_time": 100.71
+  },
+  {
+   "text": "main",
+   "time": 101.83,
+   "weight": 0.99,
+   "note_time": 100.93
+  },
+  {
+   "text": "in",
+   "time": 102.16,
+   "weight": 0.98,
+   "note_time": 102.0
+  },
+  {
+   "text": "dark",
+   "time": 103.42,
+   "weight": 0.99,
+   "note_time": 102.43
+  },
+  {
+   "text": "ness",
+   "time": 103.77,
+   "weight": 0.99,
+   "note_time": 103.29
+  },
+  {
+   "text": "Who",
+   "time": 110.4,
+   "weight": 0.79,
+   "note_time": 110.36
+  },
+  {
+   "text": "ev",
+   "time": 110.75,
+   "weight": 0.79,
+   "note_time": 110.57
+  },
+  {
+   "text": "er",
+   "time": 111.1,
+   "weight": 0.79,
+   "note_time": 110.79
+  },
+  {
+   "text": "re",
+   "time": 111.64,
+   "weight": 1.0,
+   "note_time": 111.0
+  },
+  {
+   "text": "jects",
+   "time": 111.99,
+   "weight": 1.0,
+   "note_time": 111.21
+  },
+  {
+   "text": "me",
+   "time": 112.84,
+   "weight": 0.91,
+   "note_time": 111.64
+  },
+  {
+   "text": "And",
+   "time": 113.02,
+   "weight": 0.38,
+   "note_time": 112.93
+  },
+  {
+   "text": "does",
+   "time": 114.14,
+   "weight": 1.0,
+   "note_time": 113.14
+  },
+  {
+   "text": "not",
+   "time": 114.46,
+   "weight": 1.0,
+   "note_time": 113.36
+  },
+  {
+   "text": "re",
+   "time": 114.74,
+   "weight": 1.0,
+   "note_time": 113.79
+  },
+  {
+   "text": "ceive",
+   "time": 114.99,
+   "weight": 1.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "my",
+   "time": 115.24,
+   "weight": 0.99,
+   "note_time": 114.43
+  },
+  {
+   "text": "words",
+   "time": 115.74,
+   "weight": 0.99,
+   "note_time": 114.86
+  },
+  {
+   "text": "Al",
+   "time": 116.32,
+   "weight": 0.96,
+   "note_time": 115.71
+  },
+  {
+   "text": "rea",
+   "time": 116.67,
+   "weight": 0.96,
+   "note_time": 116.14
+  },
+  {
+   "text": "dy",
+   "time": 117.02,
+   "weight": 0.96,
+   "note_time": 116.36
+  },
+  {
+   "text": "has",
+   "time": 117.38,
+   "weight": 1.0,
+   "note_time": 116.57
+  },
+  {
+   "text": "a",
+   "time": 117.96,
+   "weight": 1.0,
+   "note_time": 117.43
+  },
+  {
+   "text": "judge",
+   "time": 118.74,
+   "weight": 0.98,
+   "note_time": 117.86
+  },
+  {
+   "text": "The",
+   "time": 123.98,
+   "weight": 0.99,
+   "note_time": 124.07
+  },
+  {
+   "text": "ve",
+   "time": 125.22,
+   "weight": 1.0,
+   "note_time": 124.5
+  },
+  {
+   "text": "ry",
+   "time": 125.47,
+   "weight": 1.0,
+   "note_time": 124.93
+  },
+  {
+   "text": "word",
+   "time": 125.72,
+   "weight": 0.93,
+   "note_time": 125.57
+  },
+  {
+   "text": "I",
+   "time": 126.3,
+   "weight": 1.0,
+   "note_time": 126.0
+  },
+  {
+   "text": "have",
+   "time": 126.92,
+   "weight": 1.0,
+   "note_time": 126.43
+  },
+  {
+   "text": "spo",
+   "time": 127.36,
+   "weight": 1.0,
+   "note_time": 127.29
+  },
+  {
+   "text": "ken",
+   "time": 127.65,
+   "weight": 1.0,
+   "note_time": 127.5
+  },
+  {
+   "text": "Will",
+   "time": 130.14,
+   "weight": 0.6,
+   "note_time": 130.07
+  },
+  {
+   "text": "judge",
+   "time": 131.44,
+   "weight": 0.98,
+   "note_time": 130.29
+  },
+  {
+   "text": "him",
+   "time": 131.68,
+   "weight": 0.39,
+   "note_time": 130.71
+  },
+  {
+   "text": "on",
+   "time": 132.32,
+   "weight": 0.98,
+   "note_time": 131.57
+  },
+  {
+   "text": "the",
+   "time": 133.12,
+   "weight": 1.0,
+   "note_time": 132.86
+  },
+  {
+   "text": "last",
+   "time": 134.08,
+   "weight": 0.94,
+   "note_time": 133.29
+  },
+  {
+   "text": "day",
+   "time": 134.86,
+   "weight": 1.0,
+   "note_time": 134.14
+  },
+  {
+   "text": "I",
+   "time": 137.9,
+   "weight": 0.57,
+   "note_time": 138.0
+  },
+  {
+   "text": "have",
+   "time": 139.2,
+   "weight": 0.97,
+   "note_time": 138.43
+  },
+  {
+   "text": "come",
+   "time": 139.72,
+   "weight": 1.0,
+   "note_time": 138.64
+  },
+  {
+   "text": "in",
+   "time": 140.08,
+   "weight": 0.98,
+   "note_time": 139.29
+  },
+  {
+   "text": "to",
+   "time": 140.38,
+   "weight": 0.98,
+   "note_time": 139.5
+  },
+  {
+   "text": "the",
+   "time": 140.68,
+   "weight": 1.0,
+   "note_time": 140.14
+  },
+  {
+   "text": "world",
+   "time": 141.4,
+   "weight": 1.0,
+   "note_time": 140.36
+  },
+  {
+   "text": "as",
+   "time": 141.92,
+   "weight": 1.0,
+   "note_time": 141.0
+  },
+  {
+   "text": "light",
+   "time": 142.92,
+   "weight": 0.98,
+   "note_time": 141.86
+  },
+  {
+   "text": "So",
+   "time": 144.86,
+   "weight": 0.87,
+   "note_time": 144.86
+  },
+  {
+   "text": "that",
+   "time": 146.16,
+   "weight": 0.99,
+   "note_time": 145.29
+  },
+  {
+   "text": "no",
+   "time": 146.56,
+   "weight": 1.0,
+   "note_time": 145.5
+  },
+  {
+   "text": "one",
+   "time": 146.82,
+   "weight": 0.99,
+   "note_time": 146.14
+  },
+  {
+   "text": "who",
+   "time": 147.44,
+   "weight": 1.0,
+   "note_time": 146.57
+  },
+  {
+   "text": "be",
+   "time": 147.84,
+   "weight": 1.0,
+   "note_time": 147.0
+  },
+  {
+   "text": "lieves",
+   "time": 148.19,
+   "weight": 1.0,
+   "note_time": 147.21
+  },
+  {
+   "text": "in",
+   "time": 148.6,
+   "weight": 1.0,
+   "note_time": 147.86
+  },
+  {
+   "text": "me",
+   "time": 149.26,
+   "weight": 0.9,
+   "note_time": 148.71
+  },
+  {
+   "text": "Should",
+   "time": 151.58,
+   "weight": 0.15,
+   "note_time": 151.71
+  },
+  {
+   "text": "re",
+   "time": 152.94,
+   "weight": 0.99,
+   "note_time": 152.14
+  },
+  {
+   "text": "main",
+   "time": 153.27,
+   "weight": 0.99,
+   "note_time": 152.36
+  },
+  {
+   "text": "in",
+   "time": 153.6,
+   "weight": 0.99,
+   "note_time": 153.43
+  },
+  {
+   "text": "dark",
+   "time": 154.82,
+   "weight": 0.99,
+   "note_time": 153.86
+  },
+  {
+   "text": "ness",
+   "time": 155.17,
+   "weight": 0.99,
+   "note_time": 154.71
+  },
+  {
+   "text": "I",
+   "time": 161.76,
+   "weight": 0.83,
+   "note_time": 162.0
+  },
+  {
+   "text": "have",
+   "time": 163.12,
+   "weight": 0.94,
+   "note_time": 162.43
+  },
+  {
+   "text": "not",
+   "time": 163.5,
+   "weight": 1.0,
+   "note_time": 162.86
+  },
+  {
+   "text": "spo",
+   "time": 163.78,
+   "weight": 1.0,
+   "note_time": 163.29
+  },
+  {
+   "text": "ken",
+   "time": 164.0,
+   "weight": 1.0,
+   "note_time": 163.5
+  },
+  {
+   "text": "on",
+   "time": 164.22,
+   "weight": 0.98,
+   "note_time": 164.14
+  },
+  {
+   "text": "my",
+   "time": 164.9,
+   "weight": 0.98,
+   "note_time": 164.36
+  },
+  {
+   "text": "own",
+   "time": 165.5,
+   "weight": 1.0,
+   "note_time": 164.57
+  },
+  {
+   "text": "au",
+   "time": 165.88,
+   "weight": 1.0,
+   "note_time": 165.0
+  },
+  {
+   "text": "thor",
+   "time": 166.15,
+   "weight": 1.0,
+   "note_time": 165.21
+  },
+  {
+   "text": "i",
+   "time": 166.42,
+   "weight": 1.0,
+   "note_time": 165.86
+  },
+  {
+   "text": "ty",
+   "time": 166.69,
+   "weight": 1.0,
+   "note_time": 166.07
+  },
+  {
+   "text": "The",
+   "time": 169.38,
+   "weight": 0.94,
+   "note_time": 169.5
+  },
+  {
+   "text": "Fa",
+   "time": 170.74,
+   "weight": 0.96,
+   "note_time": 169.71
+  },
+  {
+   "text": "ther",
+   "time": 170.91,
+   "weight": 0.96,
+   "note_time": 170.14
+  },
+  {
+   "text": "has",
+   "time": 171.08,
+   "weight": 1.0,
+   "note_time": 170.36
+  },
+  {
+   "text": "com",
+   "time": 171.74,
+   "weight": 0.98,
+   "note_time": 171.0
+  },
+  {
+   "text": "mand",
+   "time": 172.05,
+   "weight": 0.98,
+   "note_time": 171.43
+  },
+  {
+   "text": "ed",
+   "time": 172.37,
+   "weight": 0.98,
+   "note_time": 171.86
+  },
+  {
+   "text": "me",
+   "time": 172.68,
+   "weight": 1.0,
+   "note_time": 172.07
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 0.3 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "All 27 lyric lines sit on their notes."
+}

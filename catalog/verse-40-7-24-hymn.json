@@ -1,0 +1,45 @@
+{
+  "id": "verse-40-7-24-hymn",
+  "title": "On the Rock",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 7,
+    "verseStart": 24,
+    "verseEnd": 25
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 7,
+      "verseStart": 24,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male choir, piano, strings, harp, organ, deep and solemn, 70 BPM",
+    "lyrics": "[Verse]\nNot everyone who speaks my name\nWill enter in the gate of grace\nBut only those who do my will\nFind a safe and steady place\n\n[Verse]\nA wise man built his house on rock\nHe heard the words and acted true\nHe did not let the voice go by\nHe made the solid foundation due\n\n[Chorus]\nWhen rain came down and rivers rose\nAnd winds beat hard against the wall\nThe house stood firm and did not fall\nBecause its base was on the rock\n\n[Verse]\nA foolish man built house on sand\nHe heard the words but did not act\nHe let the truth go out of sight\nAnd built his life on shifting track\n\n[Chorus]\nWhen rain came down and rivers rose\nAnd winds beat hard against the wall\nThe house stood firm and did not fall\nBecause its base was on the rock\n\n[Bridge]\nThe storm came with a heavy blow\nThe foolish house collapsed and broke\nIt fell with a great and loud crash\nUpon the sandy, shifting stone\n\n[Chorus]\nWhen rain came down and rivers rose\nAnd winds beat hard against the wall\nThe house stood firm and did not fall\nBecause its base was on the rock\n\n[Outro]\nHear the words and act on them\nBuild your life on the rock",
+    "cot": "full",
+    "seed": 31251
+  }
+}

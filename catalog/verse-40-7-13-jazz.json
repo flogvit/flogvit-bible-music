@@ -1,0 +1,44 @@
+{
+  "id": "verse-40-7-13-jazz",
+  "title": "Narrow Gate",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 7,
+    "verseStart": 13,
+    "verseEnd": 14
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 7,
+      "verseStart": 13,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, male baritone voice, solo with soft choir backing, upright bass, brushed drums, piano, double bass, smooth and contemplative mood, 75 BPM",
+    "lyrics": "[Verse]\nWide is the gate and broad is the road\nIt leads to destruction, many go through\nThe path is easy to follow\nBut the end brings only loss\n\n[Chorus]\nEnter through the narrow gate\nWhere the road is hard and steep\nFew find the way to life\nKeep your watch and stay alert\n\n[Verse]\nBeware of false prophets near\nSheep's clothing hides the wolf\nLook at the fruit they bear\nTo know if they are true\n\n[Chorus]\nEnter through the narrow gate\nWhere the road is hard and steep\nFew find the way to life\nKeep your watch and stay alert\n\n[Bridge]\nGood trees bring good fruit to see\nRotten trees give bad fruit\nRecognize them by their ways\nDo not be deceived by looks\n\n[Outro]\nThe narrow road leads to life\nFew find it, but it waits\nEnter through the narrow gate",
+    "cot": "full",
+    "seed": 31250
+  }
+}

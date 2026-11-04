@@ -1,0 +1,48 @@
+{
+  "id": "verse-42-1-30-choral",
+  "title": "His Kingdom Will Never End",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 1,
+    "verseStart": 30,
+    "verseEnd": 33
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 30,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with choral backing, piano, strings, harp, flute, majestic and hopeful mood, 72 BPM",
+    "lyrics": "[Verse]\nA virgin pledged to Joseph of David's line\nThe angel came to say a sacred sign\nShe was deeply troubled by the sudden light\nWondering what this greeting could be right\n\n[Pre-Chorus]\nBut the angel spoke with gentle grace\nDo not be afraid in this place\nYou have found favor with God\nA promise made to stand apart\n\n[Chorus]\nYou will conceive a son of might\nName him Jesus in the light\nHe will be called the Son of the Most High\nGreatness rising from the sky\n\n[Verse]\nThe Lord God gives the throne of David\nTo reign over the house of Jacob\nForever his kingdom shall remain\nNo shadow of doubt in the air\nHis rule will never end or cease\nA power beyond our reach\n\n[Chorus]\nYou will conceive a son of might\nName him Jesus in the light\nHe will be called the Son of the Most High\nGreatness rising from the sky\n\n[Bridge]\nHow will this be she asked with care\nSince I have not known a man\nThe Holy Spirit comes upon\nPower of the Most High span\n\n[Chorus]\nYou will conceive a son of might\nName him Jesus in the light\nHe will be called the Son of the Most High\nGreatness rising from the sky\n\n[Outro]\nHis kingdom will never end\nForever his reign begins",
+    "cot": "full",
+    "seed": 31252
+  }
+}

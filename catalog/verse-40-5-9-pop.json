@@ -1,0 +1,47 @@
+{
+  "id": "verse-40-5-9-pop",
+  "title": "Sons of God",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 9,
+    "verseEnd": 9
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 9,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with soft choir, acoustic guitar, piano, strings, 80 BPM, gentle, hopeful",
+    "lyrics": "[Verse]\nHunger and thirst for what is right\nThe empty soul finds light\nMercy flows to those who give\nGod’s grace will surely live\nPure in heart, they see the face\nOf the loving, holy place\n\n[Chorus]\nBlessed are the peacemakers\nThey bridge the broken gaps and scars\nFor they will be called\nSons of God, by all\n\n[Verse]\nPersecuted for the truth they keep\nTheir reward in heaven’s sleep\nInsults and lies may rain\nBut joy remains in every vein\nLike prophets long ago\nTheir burden is not so\n\n[Chorus]\nBlessed are the peacemakers\nThey bridge the broken gaps and scars\nFor they will be called\nSons of God, by all\n\n[Bridge]\nRejoice and be glad this day\nYour reward is here to stay\nGreat in heaven, clear and bright\nShining through the darkest night\n\n[Outro]\nBlessed are the peacemakers\nCalled Sons of God, they are",
+    "cot": "full",
+    "seed": 31249
+  }
+}

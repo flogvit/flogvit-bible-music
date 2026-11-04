@@ -1,0 +1,48 @@
+{
+  "id": "verse-43-12-24-gospel",
+  "title": "Bears Much Fruit",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 12,
+    "verseStart": 24,
+    "verseEnd": 24
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 12,
+      "verseStart": 24,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone with gospel choir, piano, organ, cello, snare drum, soaring gospel, 90 BPM",
+    "lyrics": "[Verse]\nThe hour has come for the Son of Man\nto be glorified in this place\nTruly, truly, I tell you now\nwhat the grain of wheat will face\n\n[Pre-Chorus]\nUnless it falls into the earth\nand dies within the dark\nit remains alone, a single seed\nwith no life to mark\n\n[Chorus]\nBut if it dies, it bears much fruit\nthe hidden life breaks through\nWhoever loves his life loses it\nwhile hate keeps it for you\n\n[Verse]\nWhoever hates his life in this world\nwill keep it for eternal life\nIf anyone serves me, follow close\nwhere I am, he will strive\n\n[Pre-Chorus]\nWhere I am, there my servant will be\nhonored by the Father’s hand\nNo servant stands alone in this\nthe Father’s love commands\n\n[Chorus]\nBut if it dies, it bears much fruit\nthe hidden life breaks through\nWhoever loves his life loses it\nwhile hate keeps it for you\n\n[Bridge]\nNow my soul is troubled deeply\nwhat shall I say to the sky\nFather, save me from this hour\nis the prayer that rises high\n\n[Outro]\nNo, for this purpose I came\nto stand in this hour\nThe grain falls, the fruit rises\nthe glory is ours",
+    "cot": "full",
+    "seed": 31254
+  }
+}

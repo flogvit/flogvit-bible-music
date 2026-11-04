@@ -1,0 +1,48 @@
+{
+  "id": "verse-43-12-26-orchestral",
+  "title": "Where I Am",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 12,
+    "verseStart": 26,
+    "verseEnd": 26
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 12,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "obedience",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with choir, piano, strings, harp, organ, solemn and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nThe hour has come for the Son of Man to be glorified\nA grain of wheat falls into the earth and dies\nIt remains alone if it does not break\nBut if it dies, it bears much fruit in the end\n\n[Pre-Chorus]\nWhoever loves his life loses it in this world\nWhoever hates his life keeps it for eternal life\n\n[Chorus]\nIf anyone serves me, he must follow me\nWhere I am, there my servant will be also\nThe Father will honor him who serves me here\n\n[Verse]\nMy soul is troubled now, what shall I say\nFather, save me from this hour of pain\nNo, for this purpose I came to this hour\n\n[Chorus]\nIf anyone serves me, he must follow me\nWhere I am, there my servant will be also\nThe Father will honor him who serves me here\n\n[Bridge]\nFather, glorify your name in this moment\nA voice came from heaven, I have glorified it\nAnd I will glorify it again, said the voice\n\n[Outro]\nWhere I am, there my servant will be",
+    "cot": "full",
+    "seed": 31255
+  }
+}

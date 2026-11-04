@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-12-35-rock",
+  "title": "Walk While You Have the Light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 12,
+    "verseStart": 35,
+    "verseEnd": 36
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 12,
+      "verseStart": 35,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "obedience"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, electric guitar, bass, drums, electric piano, powerful and urgent, 110 BPM",
+    "lyrics": "[Verse]\nThe light is among you a little while longer\nWalk while you have the light\nSo that darkness does not overtake you\nThe one who walks in the darkness\nDoes not know where he is going\n\n[Chorus]\nWhile you have the light\nBelieve in the light\nSo that you may become\nSons of light\n\n[Verse]\nHe said these things and then he went away\nAnd he hid from them\nThough he had done so many signs before them\nThey did not believe in him\n\n[Chorus]\nWhile you have the light\nBelieve in the light\nSo that you may become\nSons of light\n\n[Bridge]\nLord who has believed our message\nAnd to whom has the arm of the Lord been revealed\nFor this reason they could not believe\nBecause Isaiah said again\n\n[Chorus]\nWhile you have the light\nBelieve in the light\nSo that you may become\nSons of light\n\n[Outro]\nWalk while you have the light\nSo that you may become sons of light",
+    "cot": "full",
+    "seed": 31256
+  }
+}

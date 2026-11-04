@@ -1,0 +1,45 @@
+{
+  "id": "verse-42-1-78-folk",
+  "title": "Dawn from on high",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 42,
+    "chapter": 1,
+    "verseStart": 78,
+    "verseEnd": 79
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 78,
+      "verseEnd": 79
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male voice, warm and gentle, acoustic guitar, cello, piano, light percussion, folk, contemplative, 75 BPM",
+    "lyrics": "[Verse]\nIn holiness and righteousness we walk\nBefore him all our days we shall keep\nYou child will be called a prophet\nOf the Most High in your sacred sleep\n\n[Chorus]\nDawn from on high will visit us\nShine on those in darkness and the shadow of death\nGuide our feet into the way of peace\nWith the tender mercy of our God\n\n[Verse]\nPrepare his ways to go on ahead\nGive his people knowledge of salvation\nThrough the forgiveness of their sins\nIn the wilderness you grew strong in spirit\n\n[Chorus]\nDawn from on high will visit us\nShine on those in darkness and the shadow of death\nGuide our feet into the way of peace\nWith the tender mercy of our God\n\n[Bridge]\nUntil the day you appeared publicly\nTo Israel in the light of day\nStrong in spirit and guided by grace\nWalking the path of peace and truth\n\n[Chorus]\nDawn from on high will visit us\nShine on those in darkness and the shadow of death\nGuide our feet into the way of peace\nWith the tender mercy of our God\n\n[Outro]\nDawn from on high to shine on us\nIn the way of peace forevermore",
+    "cot": "full",
+    "seed": 31253
+  }
+}

@@ -1,0 +1,1272 @@
+{
+ "id": "verse-43-16-13-orchestral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/verse-43-16-13-orchestral",
+ "offset_seconds": -4.080000000000169,
+ "words_heard": 145,
+ "words": 148,
+ "lines": [
+  {
+   "text": "I still have much to tell you",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But you cannot bear it now",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The path is long and wide",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "I am going to the Father now",
+   "heard": 5,
+   "words": 7,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the Spirit of truth comes",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.37,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "He will guide you gently",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will not speak on his own",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.83,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "But speak whatever he hears",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will declare to you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The things that are coming",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Into all the truth he leads",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And your heart is humming",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.53,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will glorify me",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.32,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Taking what is mine to speak",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "All that the Father has",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.73,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is given to us to keep",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He will declare to you",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The things that are coming",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Into all the truth he leads",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And your heart is humming",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A little while and you will lose sight",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And again a little while",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "You will see me in the light",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "No longer hidden from the night",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Into all the truth he guides",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Spirit of truth",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "I",
+   "time": 16.8,
+   "weight": 0.58,
+   "note_time": 16.62
+  },
+  {
+   "text": "still",
+   "time": 17.8,
+   "weight": 0.97,
+   "note_time": 17.03
+  },
+  {
+   "text": "have",
+   "time": 18.3,
+   "weight": 1.0,
+   "note_time": 17.43
+  },
+  {
+   "text": "much",
+   "time": 18.78,
+   "weight": 1.0,
+   "note_time": 17.84
+  },
+  {
+   "text": "to",
+   "time": 19.32,
+   "weight": 0.99,
+   "note_time": 19.05
+  },
+  {
+   "text": "tell",
+   "time": 20.34,
+   "weight": 1.0,
+   "note_time": 19.46
+  },
+  {
+   "text": "you",
+   "time": 20.76,
+   "weight": 1.0,
+   "note_time": 19.86
+  },
+  {
+   "text": "But",
+   "time": 21.22,
+   "weight": 0.26,
+   "note_time": 23.51
+  },
+  {
+   "text": "you",
+   "time": 24.74,
+   "weight": 0.99,
+   "note_time": 23.72
+  },
+  {
+   "text": "can",
+   "time": 24.96,
+   "weight": 0.96,
+   "note_time": 24.32
+  },
+  {
+   "text": "not",
+   "time": 25.31,
+   "weight": 0.96,
+   "note_time": 24.53
+  },
+  {
+   "text": "bear",
+   "time": 25.72,
+   "weight": 0.99,
+   "note_time": 25.14
+  },
+  {
+   "text": "it",
+   "time": 26.3,
+   "weight": 0.99,
+   "note_time": 25.54
+  },
+  {
+   "text": "now",
+   "time": 26.8,
+   "weight": 1.0,
+   "note_time": 25.74
+  },
+  {
+   "text": "The",
+   "time": 29.48,
+   "weight": 0.15,
+   "note_time": 29.8
+  },
+  {
+   "text": "path",
+   "time": 30.88,
+   "weight": 0.95,
+   "note_time": 30.0
+  },
+  {
+   "text": "is",
+   "time": 31.24,
+   "weight": 0.99,
+   "note_time": 30.41
+  },
+  {
+   "text": "long",
+   "time": 31.72,
+   "weight": 0.93,
+   "note_time": 30.81
+  },
+  {
+   "text": "and",
+   "time": 32.0,
+   "weight": 0.94,
+   "note_time": 31.62
+  },
+  {
+   "text": "wide",
+   "time": 32.86,
+   "weight": 0.99,
+   "note_time": 32.43
+  },
+  {
+   "text": "I",
+   "time": 33.57,
+   "weight": 0.0,
+   "note_time": 33.65
+  },
+  {
+   "text": "am",
+   "time": 34.27,
+   "weight": 0.0,
+   "note_time": 34.05
+  },
+  {
+   "text": "go",
+   "time": 34.98,
+   "weight": 1.0,
+   "note_time": 34.46
+  },
+  {
+   "text": "ing",
+   "time": 35.23,
+   "weight": 1.0,
+   "note_time": 34.86
+  },
+  {
+   "text": "to",
+   "time": 35.48,
+   "weight": 1.0,
+   "note_time": 35.27
+  },
+  {
+   "text": "the",
+   "time": 35.98,
+   "weight": 0.99,
+   "note_time": 35.68
+  },
+  {
+   "text": "Fa",
+   "time": 36.48,
+   "weight": 0.96,
+   "note_time": 36.89
+  },
+  {
+   "text": "ther",
+   "time": 36.83,
+   "weight": 0.96,
+   "note_time": 38.11
+  },
+  {
+   "text": "now",
+   "time": 37.48,
+   "weight": 0.39,
+   "note_time": 42.97
+  },
+  {
+   "text": "When",
+   "time": 42.7,
+   "weight": 0.83,
+   "note_time": 43.38
+  },
+  {
+   "text": "the",
+   "time": 44.1,
+   "weight": 1.0,
+   "note_time": 43.78
+  },
+  {
+   "text": "Spir",
+   "time": 44.56,
+   "weight": 0.89,
+   "note_time": 44.19
+  },
+  {
+   "text": "it",
+   "time": 44.87,
+   "weight": 0.89,
+   "note_time": 44.59
+  },
+  {
+   "text": "of",
+   "time": 45.18,
+   "weight": 1.0,
+   "note_time": 45.0
+  },
+  {
+   "text": "truth",
+   "time": 45.88,
+   "weight": 0.62,
+   "note_time": 45.41
+  },
+  {
+   "text": "comes",
+   "time": 46.32,
+   "weight": 1.0,
+   "note_time": 45.81
+  },
+  {
+   "text": "He",
+   "time": 49.2,
+   "weight": 0.97,
+   "note_time": 49.46
+  },
+  {
+   "text": "will",
+   "time": 50.6,
+   "weight": 1.0,
+   "note_time": 49.86
+  },
+  {
+   "text": "guide",
+   "time": 51.1,
+   "weight": 1.0,
+   "note_time": 50.27
+  },
+  {
+   "text": "you",
+   "time": 51.68,
+   "weight": 1.0,
+   "note_time": 51.08
+  },
+  {
+   "text": "gen",
+   "time": 52.38,
+   "weight": 1.0,
+   "note_time": 51.49
+  },
+  {
+   "text": "tly",
+   "time": 52.73,
+   "weight": 1.0,
+   "note_time": 52.3
+  },
+  {
+   "text": "He",
+   "time": 55.74,
+   "weight": 0.55,
+   "note_time": 55.74
+  },
+  {
+   "text": "will",
+   "time": 56.88,
+   "weight": 0.98,
+   "note_time": 55.95
+  },
+  {
+   "text": "not",
+   "time": 57.14,
+   "weight": 0.96,
+   "note_time": 56.15
+  },
+  {
+   "text": "speak",
+   "time": 57.44,
+   "weight": 1.0,
+   "note_time": 56.76
+  },
+  {
+   "text": "on",
+   "time": 57.9,
+   "weight": 1.0,
+   "note_time": 57.16
+  },
+  {
+   "text": "his",
+   "time": 58.5,
+   "weight": 0.45,
+   "note_time": 57.57
+  },
+  {
+   "text": "own",
+   "time": 58.9,
+   "weight": 1.0,
+   "note_time": 57.97
+  },
+  {
+   "text": "But",
+   "time": 60.16,
+   "weight": 0.35,
+   "note_time": 59.59
+  },
+  {
+   "text": "speak",
+   "time": 60.78,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "what",
+   "time": 61.18,
+   "weight": 0.99,
+   "note_time": 60.61
+  },
+  {
+   "text": "ev",
+   "time": 61.46,
+   "weight": 0.99,
+   "note_time": 60.81
+  },
+  {
+   "text": "er",
+   "time": 61.74,
+   "weight": 0.99,
+   "note_time": 61.01
+  },
+  {
+   "text": "he",
+   "time": 62.02,
+   "weight": 0.99,
+   "note_time": 61.22
+  },
+  {
+   "text": "hears",
+   "time": 62.52,
+   "weight": 0.99,
+   "note_time": 62.03
+  },
+  {
+   "text": "He",
+   "time": 69.12,
+   "weight": 0.95,
+   "note_time": 68.92
+  },
+  {
+   "text": "will",
+   "time": 70.26,
+   "weight": 1.0,
+   "note_time": 69.32
+  },
+  {
+   "text": "de",
+   "time": 70.62,
+   "weight": 0.98,
+   "note_time": 70.14
+  },
+  {
+   "text": "clare",
+   "time": 70.97,
+   "weight": 0.98,
+   "note_time": 70.54
+  },
+  {
+   "text": "to",
+   "time": 71.66,
+   "weight": 1.0,
+   "note_time": 70.95
+  },
+  {
+   "text": "you",
+   "time": 72.14,
+   "weight": 1.0,
+   "note_time": 72.16
+  },
+  {
+   "text": "The",
+   "time": 75.78,
+   "weight": 0.98,
+   "note_time": 75.81
+  },
+  {
+   "text": "things",
+   "time": 76.92,
+   "weight": 1.0,
+   "note_time": 76.22
+  },
+  {
+   "text": "that",
+   "time": 77.5,
+   "weight": 1.0,
+   "note_time": 76.62
+  },
+  {
+   "text": "are",
+   "time": 77.84,
+   "weight": 1.0,
+   "note_time": 77.03
+  },
+  {
+   "text": "com",
+   "time": 78.24,
+   "weight": 0.98,
+   "note_time": 77.43
+  },
+  {
+   "text": "ing",
+   "time": 78.59,
+   "weight": 0.98,
+   "note_time": 78.65
+  },
+  {
+   "text": "In",
+   "time": 80.24,
+   "weight": 0.16,
+   "note_time": 81.89
+  },
+  {
+   "text": "to",
+   "time": 80.59,
+   "weight": 0.16,
+   "note_time": 82.3
+  },
+  {
+   "text": "all",
+   "time": 83.02,
+   "weight": 0.99,
+   "note_time": 82.7
+  },
+  {
+   "text": "the",
+   "time": 84.0,
+   "weight": 0.92,
+   "note_time": 83.11
+  },
+  {
+   "text": "truth",
+   "time": 84.32,
+   "weight": 0.99,
+   "note_time": 83.51
+  },
+  {
+   "text": "he",
+   "time": 84.76,
+   "weight": 0.64,
+   "note_time": 83.92
+  },
+  {
+   "text": "leads",
+   "time": 85.48,
+   "weight": 0.99,
+   "note_time": 85.14
+  },
+  {
+   "text": "And",
+   "time": 86.9,
+   "weight": 0.5,
+   "note_time": 86.35
+  },
+  {
+   "text": "your",
+   "time": 87.6,
+   "weight": 0.89,
+   "note_time": 86.76
+  },
+  {
+   "text": "heart",
+   "time": 88.02,
+   "weight": 0.94,
+   "note_time": 87.16
+  },
+  {
+   "text": "is",
+   "time": 88.66,
+   "weight": 0.99,
+   "note_time": 88.38
+  },
+  {
+   "text": "hum",
+   "time": 89.7,
+   "weight": 0.58,
+   "note_time": 89.19
+  },
+  {
+   "text": "ming",
+   "time": 90.05,
+   "weight": 0.58,
+   "note_time": 89.59
+  },
+  {
+   "text": "He",
+   "time": 94.54,
+   "weight": 0.91,
+   "note_time": 94.86
+  },
+  {
+   "text": "will",
+   "time": 95.94,
+   "weight": 1.0,
+   "note_time": 95.27
+  },
+  {
+   "text": "glo",
+   "time": 96.46,
+   "weight": 1.0,
+   "note_time": 95.68
+  },
+  {
+   "text": "ri",
+   "time": 96.81,
+   "weight": 1.0,
+   "note_time": 96.49
+  },
+  {
+   "text": "fy",
+   "time": 97.16,
+   "weight": 1.0,
+   "note_time": 96.89
+  },
+  {
+   "text": "me",
+   "time": 97.82,
+   "weight": 0.89,
+   "note_time": 97.7
+  },
+  {
+   "text": "Tak",
+   "time": 101.2,
+   "weight": 0.91,
+   "note_time": 101.35
+  },
+  {
+   "text": "ing",
+   "time": 101.55,
+   "weight": 0.91,
+   "note_time": 101.76
+  },
+  {
+   "text": "what",
+   "time": 102.6,
+   "weight": 1.0,
+   "note_time": 102.36
+  },
+  {
+   "text": "is",
+   "time": 103.34,
+   "weight": 1.0,
+   "note_time": 102.77
+  },
+  {
+   "text": "mine",
+   "time": 103.7,
+   "weight": 0.94,
+   "note_time": 102.97
+  },
+  {
+   "text": "to",
+   "time": 104.06,
+   "weight": 1.0,
+   "note_time": 103.38
+  },
+  {
+   "text": "speak",
+   "time": 104.54,
+   "weight": 0.99,
+   "note_time": 103.58
+  },
+  {
+   "text": "All",
+   "time": 107.94,
+   "weight": 0.51,
+   "note_time": 107.84
+  },
+  {
+   "text": "that",
+   "time": 108.98,
+   "weight": 0.98,
+   "note_time": 108.04
+  },
+  {
+   "text": "the",
+   "time": 109.28,
+   "weight": 0.99,
+   "note_time": 108.24
+  },
+  {
+   "text": "Fa",
+   "time": 109.42,
+   "weight": 0.89,
+   "note_time": 108.65
+  },
+  {
+   "text": "ther",
+   "time": 109.74,
+   "weight": 0.89,
+   "note_time": 109.05
+  },
+  {
+   "text": "has",
+   "time": 110.06,
+   "weight": 0.99,
+   "note_time": 109.86
+  },
+  {
+   "text": "Is",
+   "time": 112.04,
+   "weight": 0.17,
+   "note_time": 111.49
+  },
+  {
+   "text": "giv",
+   "time": 112.76,
+   "weight": 0.99,
+   "note_time": 111.89
+  },
+  {
+   "text": "en",
+   "time": 112.99,
+   "weight": 0.99,
+   "note_time": 112.09
+  },
+  {
+   "text": "to",
+   "time": 113.22,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "us",
+   "time": 113.6,
+   "weight": 1.0,
+   "note_time": 112.7
+  },
+  {
+   "text": "to",
+   "time": 114.0,
+   "weight": 1.0,
+   "note_time": 113.11
+  },
+  {
+   "text": "keep",
+   "time": 114.24,
+   "weight": 1.0,
+   "note_time": 113.31
+  },
+  {
+   "text": "He",
+   "time": 120.9,
+   "weight": 0.89,
+   "note_time": 120.81
+  },
+  {
+   "text": "will",
+   "time": 121.94,
+   "weight": 1.0,
+   "note_time": 121.22
+  },
+  {
+   "text": "de",
+   "time": 122.46,
+   "weight": 0.99,
+   "note_time": 122.03
+  },
+  {
+   "text": "clare",
+   "time": 122.81,
+   "weight": 0.99,
+   "note_time": 122.43
+  },
+  {
+   "text": "to",
+   "time": 123.48,
+   "weight": 1.0,
+   "note_time": 122.84
+  },
+  {
+   "text": "you",
+   "time": 124.0,
+   "weight": 1.0,
+   "note_time": 124.05
+  },
+  {
+   "text": "The",
+   "time": 127.82,
+   "weight": 0.98,
+   "note_time": 127.7
+  },
+  {
+   "text": "things",
+   "time": 128.86,
+   "weight": 1.0,
+   "note_time": 128.11
+  },
+  {
+   "text": "that",
+   "time": 129.36,
+   "weight": 1.0,
+   "note_time": 128.51
+  },
+  {
+   "text": "are",
+   "time": 129.7,
+   "weight": 1.0,
+   "note_time": 128.92
+  },
+  {
+   "text": "com",
+   "time": 130.06,
+   "weight": 0.4,
+   "note_time": 129.32
+  },
+  {
+   "text": "ing",
+   "time": 130.41,
+   "weight": 0.4,
+   "note_time": 130.54
+  },
+  {
+   "text": "In",
+   "time": 133.6,
+   "weight": 0.15,
+   "note_time": 133.78
+  },
+  {
+   "text": "to",
+   "time": 133.95,
+   "weight": 0.15,
+   "note_time": 134.19
+  },
+  {
+   "text": "all",
+   "time": 135.0,
+   "weight": 0.99,
+   "note_time": 134.59
+  },
+  {
+   "text": "the",
+   "time": 135.92,
+   "weight": 0.78,
+   "note_time": 135.0
+  },
+  {
+   "text": "truth",
+   "time": 136.22,
+   "weight": 0.91,
+   "note_time": 135.41
+  },
+  {
+   "text": "he",
+   "time": 136.58,
+   "weight": 0.38,
+   "note_time": 135.81
+  },
+  {
+   "text": "leads",
+   "time": 137.24,
+   "weight": 0.99,
+   "note_time": 137.03
+  },
+  {
+   "text": "And",
+   "time": 138.82,
+   "weight": 0.54,
+   "note_time": 138.24
+  },
+  {
+   "text": "your",
+   "time": 139.52,
+   "weight": 0.99,
+   "note_time": 138.65
+  },
+  {
+   "text": "heart",
+   "time": 139.88,
+   "weight": 0.99,
+   "note_time": 139.05
+  },
+  {
+   "text": "is",
+   "time": 140.82,
+   "weight": 0.99,
+   "note_time": 140.27
+  },
+  {
+   "text": "hum",
+   "time": 142.29,
+   "weight": 0.0,
+   "note_time": 141.08
+  },
+  {
+   "text": "ming",
+   "time": 143.77,
+   "weight": 0.0,
+   "note_time": 141.49
+  },
+  {
+   "text": "A",
+   "time": 145.24,
+   "weight": 0.86,
+   "note_time": 146.55
+  },
+  {
+   "text": "lit",
+   "time": 146.64,
+   "weight": 1.0,
+   "note_time": 146.76
+  },
+  {
+   "text": "tle",
+   "time": 146.99,
+   "weight": 1.0,
+   "note_time": 146.96
+  },
+  {
+   "text": "while",
+   "time": 148.04,
+   "weight": 1.0,
+   "note_time": 147.97
+  },
+  {
+   "text": "and",
+   "time": 148.44,
+   "weight": 0.91,
+   "note_time": 148.18
+  },
+  {
+   "text": "you",
+   "time": 149.18,
+   "weight": 1.0,
+   "note_time": 148.99
+  },
+  {
+   "text": "will",
+   "time": 149.42,
+   "weight": 1.0,
+   "note_time": 149.19
+  },
+  {
+   "text": "lose",
+   "time": 150.04,
+   "weight": 0.99,
+   "note_time": 149.8
+  },
+  {
+   "text": "sight",
+   "time": 150.48,
+   "weight": 1.0,
+   "note_time": 150.0
+  },
+  {
+   "text": "And",
+   "time": 152.0,
+   "weight": 0.99,
+   "note_time": 152.03
+  },
+  {
+   "text": "a",
+   "time": 153.3,
+   "weight": 1.0,
+   "note_time": 152.23
+  },
+  {
+   "text": "gain",
+   "time": 153.49,
+   "weight": 1.0,
+   "note_time": 152.43
+  },
+  {
+   "text": "a",
+   "time": 153.68,
+   "weight": 0.35,
+   "note_time": 154.86
+  },
+  {
+   "text": "lit",
+   "time": 155.66,
+   "weight": 1.0,
+   "note_time": 155.07
+  },
+  {
+   "text": "tle",
+   "time": 155.89,
+   "weight": 1.0,
+   "note_time": 155.27
+  },
+  {
+   "text": "while",
+   "time": 156.12,
+   "weight": 1.0,
+   "note_time": 155.47
+  },
+  {
+   "text": "You",
+   "time": 159.38,
+   "weight": 0.41,
+   "note_time": 159.73
+  },
+  {
+   "text": "will",
+   "time": 160.78,
+   "weight": 0.97,
+   "note_time": 160.54
+  },
+  {
+   "text": "see",
+   "time": 161.32,
+   "weight": 1.0,
+   "note_time": 160.95
+  },
+  {
+   "text": "me",
+   "time": 161.86,
+   "weight": 0.97,
+   "note_time": 161.15
+  },
+  {
+   "text": "in",
+   "time": 162.14,
+   "weight": 0.97,
+   "note_time": 161.76
+  },
+  {
+   "text": "the",
+   "time": 162.62,
+   "weight": 0.99,
+   "note_time": 161.96
+  },
+  {
+   "text": "light",
+   "time": 162.9,
+   "weight": 0.98,
+   "note_time": 162.57
+  },
+  {
+   "text": "No",
+   "time": 164.72,
+   "weight": 0.29,
+   "note_time": 165.0
+  },
+  {
+   "text": "lon",
+   "time": 166.24,
+   "weight": 1.0,
+   "note_time": 166.22
+  },
+  {
+   "text": "ger",
+   "time": 166.59,
+   "weight": 1.0,
+   "note_time": 166.62
+  },
+  {
+   "text": "hid",
+   "time": 167.4,
+   "weight": 0.98,
+   "note_time": 167.03
+  },
+  {
+   "text": "den",
+   "time": 167.75,
+   "weight": 0.98,
+   "note_time": 167.43
+  },
+  {
+   "text": "from",
+   "time": 168.5,
+   "weight": 0.28,
+   "note_time": 170.68
+  },
+  {
+   "text": "the",
+   "time": 171.44,
+   "weight": 0.98,
+   "note_time": 171.49
+  },
+  {
+   "text": "night",
+   "time": 172.68,
+   "weight": 1.0,
+   "note_time": 171.69
+  },
+  {
+   "text": "In",
+   "time": 179.2,
+   "weight": 0.92,
+   "note_time": 179.19
+  },
+  {
+   "text": "to",
+   "time": 179.55,
+   "weight": 0.92,
+   "note_time": 179.59
+  },
+  {
+   "text": "all",
+   "time": 180.6,
+   "weight": 1.0,
+   "note_time": 180.0
+  },
+  {
+   "text": "the",
+   "time": 181.32,
+   "weight": 0.98,
+   "note_time": 180.41
+  },
+  {
+   "text": "truth",
+   "time": 181.6,
+   "weight": 0.99,
+   "note_time": 180.81
+  },
+  {
+   "text": "he",
+   "time": 182.02,
+   "weight": 0.58,
+   "note_time": 181.22
+  },
+  {
+   "text": "guides",
+   "time": 182.44,
+   "weight": 0.92,
+   "note_time": 182.43
+  },
+  {
+   "text": "The",
+   "time": 186.02,
+   "weight": 0.72,
+   "note_time": 186.08
+  },
+  {
+   "text": "Spir",
+   "time": 187.3,
+   "weight": 0.56,
+   "note_time": 186.49
+  },
+  {
+   "text": "it",
+   "time": 187.54,
+   "weight": 0.56,
+   "note_time": 186.89
+  },
+  {
+   "text": "of",
+   "time": 187.78,
+   "weight": 0.99,
+   "note_time": 187.3
+  },
+  {
+   "text": "truth",
+   "time": 188.58,
+   "weight": 0.99,
+   "note_time": 187.7
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "25 of 26 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-14-19-worship",
+  "title": "Because I live, you also will live",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 19,
+    "verseEnd": 19
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "tro",
+      "kjerlighet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, ethereal and warm, piano, strings, soft drums, electric guitar, swelling choir, reverent and hopeful, 70 BPM",
+    "lyrics": "[Verse]\nThe Advocate comes to stay\nThe Spirit of truth remains\nHe dwells within your heart today\nThe world sees nothing but the faintest pain\n\n[Chorus]\nBecause I live, you also will live\nIn a little while the world looks away\nBut you will see me, alive\nYour life is bound to mine\n\n[Verse]\nI will not leave you as orphans\nI am coming to be near\nOn that day you will learn\nI am in the Father, clear\nYou are in me, I am in you\nA bond that no death can break\n\n[Chorus]\nBecause I live, you also will live\nIn a little while the world looks away\nBut you will see me, alive\nYour life is bound to mine\n\n[Bridge]\nHold to my commandments tight\nLove me with all your heart\nThe Father will love you back\nAnd I will show myself apart\n\n[Outro]\nBecause I live, you also will live\nForever in the light",
+    "cot": "full",
+    "seed": 31262
+  }
+}

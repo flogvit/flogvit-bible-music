@@ -1,0 +1,43 @@
+{
+  "id": "verse-43-14-16-acoustic",
+  "title": "Another Advocate",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 16,
+    "verseEnd": 17
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo with soft choir, acoustic guitar, piano, cello, strings, gentle, 80 BPM",
+    "lyrics": "[Verse]\nI will ask the Father now\nHe will give you another guide\nTo be with you forevermore\nIn the quiet of the night\n\n[Pre-Chorus]\nThe Spirit of truth comes near\nWho the world cannot receive\nIt neither sees nor knows his face\nBut you have him within\n\n[Chorus]\nAnother Advocate with you\nThe Spirit of truth remains\nHe is in you and with you\nThe truth that no one claims\n\n[Verse]\nHe will not leave you as orphans\nI am coming to return\nIn a little while you see\nThe Father in the Son\n\n[Pre-Chorus]\nThe world will see me no more\nBut you will see me live\nBecause I live you will live\nIn the Father and in me\n\n[Chorus]\nAnother Advocate with you\nThe Spirit of truth remains\nHe is in you and with you\nThe truth that no one claims\n\n[Bridge]\nYou know him for he stays\nHe remains with you always\nThe world does not know his name\nBut you are not alone\n\n[Outro]\nYou know him for he stays\nThe Spirit of truth\nHe remains with you",
+    "cot": "full",
+    "seed": 31261
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-14-15-country",
+  "title": "Keep My Commandments",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 15,
+    "verseEnd": 15
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 15,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "kjerlighet",
+      "den-hellige-and"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Warm female solo voice, acoustic guitar, piano, cello, light drums, gentle and comforting mood, 85 BPM",
+    "lyrics": "[Verse]\nWhoever believes in me will do the works\nAnd even greater things than these\nBecause I am going to the Father now\nWhatever you ask in my name\nI will do so the Father is glorified\nIn the Son, I promise you\nIf you ask me anything in my name\nI will do it, trust me now\n\n[Chorus]\nIf you love me you will keep my commandments\nAnd I will ask the Father for you\nHe will give you another Advocate\nTo be with you forever true\n\n[Verse]\nThe Spirit of truth whom the world cannot receive\nBecause it neither sees him nor knows him\nBut you know him for he remains with you\nAnd will be in you, deep within\n\n[Chorus]\nIf you love me you will keep my commandments\nAnd I will ask the Father for you\nHe will give you another Advocate\nTo be with you forever true\n\n[Outro]\nI will not leave you as orphans\nI am coming to you soon",
+    "cot": "full",
+    "seed": 31260
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-12-46-ballad",
+  "title": "I have come into the world as light",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 12,
+    "verseStart": 46,
+    "verseEnd": 46
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 12,
+      "verseStart": 46,
+      "verseEnd": 46
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, solo voice, acoustic piano, cello, soft strings, ambient pads, 70 BPM",
+    "lyrics": "[Verse]\nFor they loved human glory more\nThan the glory of God\nThen Jesus cried out\nWhoever believes in me\nDoes not believe in me\nBut in him who sent me\n\n[Chorus]\nI have come into the world as light\nSo that no one who believes in me\nShould remain in darkness\n\n[Verse]\nAnd if anyone hears my words\nAnd does not keep them\nI do not judge him\nFor I did not come to judge the world\nBut to save the world\n\n[Chorus]\nI have come into the world as light\nSo that no one who believes in me\nShould remain in darkness\n\n[Bridge]\nWhoever rejects me\nAnd does not receive my words\nAlready has a judge\nThe very word I have spoken\nWill judge him on the last day\n\n[Chorus]\nI have come into the world as light\nSo that no one who believes in me\nShould remain in darkness\n\n[Outro]\nI have not spoken on my own authority\nThe Father has commanded me",
+    "cot": "full",
+    "seed": 31258
+  }
+}

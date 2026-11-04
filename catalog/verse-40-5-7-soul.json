@@ -1,0 +1,49 @@
+{
+  "id": "verse-40-5-7-soul",
+  "title": "Receive Mercy",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 40,
+    "chapter": 5,
+    "verseStart": 7,
+    "verseEnd": 7
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 5,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "mercy"
+    ],
+    "themes": [
+      "kjerlighet",
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, gentle piano, soft strings, acoustic guitar, light percussion, soulful and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nBlessed are the merciful\nThey will receive mercy\nA gentle heart in this world\nGiving what is free\n\n[Chorus]\nBlessed are the merciful\nFor they will receive mercy\nThe hand that gives freely\nIs held by the Lord\n\n[Verse]\nBlessed are the pure in heart\nThey will see God\nClear eyes looking up\nTo the light above\n\n[Chorus]\nBlessed are the merciful\nFor they will receive mercy\nThe hand that gives freely\nIs held by the Lord\n\n[Bridge]\nBlessed are the peacemakers\nCalled sons of God\nBuilding bridges of peace\nWhere love is found\n\n[Outro]\nBlessed are the merciful\nThey will receive mercy",
+    "cot": "full",
+    "seed": 31257
+  }
+}

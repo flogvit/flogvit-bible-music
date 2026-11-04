@@ -1,0 +1,47 @@
+{
+  "id": "verse-43-14-27-pop",
+  "title": "My Peace I Give To You",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 27,
+    "verseEnd": 27
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soft voice solo, piano, strings, acoustic guitar, synth pad, gentle and reassuring mood, 80 BPM",
+    "lyrics": "[Verse]\nI have told you these things while I am still with you\nThe word you hear is not mine but the Father's who sent me\nIf you do not love me you do not keep my words\nBut the Advocate the Holy Spirit is near\n\n[Chorus]\nPeace I leave with you my peace I give to you\nI do not give to you as the world gives\nDo not let your hearts be troubled\nDo not be afraid in this moment\n\n[Verse]\nI am going away and I am coming back to you\nIf you loved me you would rejoice that I am going to the Father\nThe Father is greater than I\nI have told you now before it happens\n\n[Chorus]\nPeace I leave with you my peace I give to you\nI do not give to you as the world gives\nDo not let your hearts be troubled\nDo not be afraid in this moment\n\n[Bridge]\nSo that when it does happen you will believe\nThe ruler of this world is coming\nHe has no claim on me\n\n[Outro]\nMy peace I give to you\nDo not be afraid",
+    "cot": "full",
+    "seed": 31264
+  }
+}

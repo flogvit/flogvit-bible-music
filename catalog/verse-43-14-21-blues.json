@@ -1,0 +1,49 @@
+{
+  "id": "verse-43-14-21-blues",
+  "title": "Show Myself to Him",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 21,
+    "verseEnd": 21
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "obedience",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with deep gravel, upright bass, electric guitar, brushed snare, organ, melancholic and soulful mood, 75 BPM",
+    "lyrics": "[Verse]\nI will not leave you as orphans behind\nI am coming to you, the truth defined\nIn a little while the world will fade\nBut you will see me in the shade\nBecause I live, you also will live\nThis is the gift we must give\n\n[Chorus]\nWhoever holds to my commandments\nAnd keeps them with their own life\nIs the one who loves me truly\nAnd loves me with the truth\nLoved by my Father, I will love him\nAnd show myself to him\n\n[Verse]\nOn that day you will know it's true\nI am in my Father for you\nYou are in me, I am in you\nThis is the bond that stands so new\nJudas asked why not the world\nJesus spoke the word unfurled\nIf anyone loves me, keep the word\nMake our home with you, my lord\n\n[Chorus]\nWhoever holds to my commandments\nAnd keeps them with their own life\nIs the one who loves me truly\nAnd loves me with the truth\nLoved by my Father, I will love him\nAnd show myself to him\n\n[Bridge]\nWhoever does not love me\nDoes not keep my words to see\nThe word you hear is not my own\nBut the Father's who has sown\n\n[Outro]\nShow myself to him\nShow myself to him",
+    "cot": "full",
+    "seed": 31263
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "verse-43-14-6-jazz",
+  "title": "I Am The Way",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 43,
+    "chapter": 14,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 14,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soulful jazz voice, upright bass, brushed drums, piano, saxophone, warm nostalgic mood, 75 BPM",
+    "lyrics": "[Verse]\nThomas spoke up in the room of light\nLord we do not know where you go\nHow can we find the road tonight\nWhen the path is hidden and low\nYou know the place you will prepare\nA room for us to finally stay\nBut how can we find you there\nIf we do not know the way\n\n[Chorus]\nI am the way and the truth and the life\nNo one comes to the Father except through me\nI am the way and the truth and the life\nNo one comes to the Father except through me\n\n[Verse]\nPhilip asked to see the face of God\nShow us the Father that is enough\nJesus looked at him with a nod\nI have been with you in this rough\nWhoever has seen me has seen the Father\nHow can you ask to be shown\nYou have looked into my face so rather\nThan a stranger and alone\nIf you had known me you would know him\nFrom now on you do know him well\nYou have seen him in this moment\nAnd in my words you dwell\n\n[Chorus]\nI am the way and the truth and the life\nNo one comes to the Father except through me\nI am the way and the truth and the life\nNo one comes to the Father except through me\n\n[Bridge]\nWhere I am you may be also\nCome back and take you to myself\nThe place is ready in the bosom\nOf the Father in the shelf\nYou know the way to the place where I go\nThough you say you do not know\nI am the road you do not see\nOnly in my face you know\n\n[Chorus]\nI am the way and the truth and the life\nNo one comes to the Father except through me\nI am the way and the truth and the life\nNo one comes to the Father except through me\n\n[Outro]\nI am the way and the truth and the life\nNo one comes to the Father except through me",
+    "cot": "full",
+    "seed": 31265
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "story-demonbesatt-blind-og-stum-pop",
+  "title": "Kingdom of God",
+  "kind": "story",
+  "anchor": {
+    "story": "demonbesatt-blind-og-stum"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 12,
+      "verseStart": 22,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [
+      "demonbesatt-blind-og-stum"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and clear, acoustic guitar, piano, cello, gentle drums, hopeful and serene, 85 BPM",
+    "lyrics": "[Verse]\nA man who is blind and mute\nWas brought to the Lord\nHe healed the broken soul\nAnd opened up the door\n\n[Chorus]\nThe kingdom of God has come\nRight here in our sight\nBy the Spirit of God\nHe sets the people right\n\n[Verse]\nThe crowds were all amazed\nThey asked the crowd to see\nCould this be the Son of David\nThe one who sets us free\n\n[Chorus]\nThe kingdom of God has come\nRight here in our sight\nBy the Spirit of God\nHe sets the people right\n\n[Bridge]\nA divided house will fall\nA kingdom cannot stand\nIf Satan fights against himself\nThen how can he command\n\n[Outro]\nThe kingdom of God has come\nBy the Spirit of God",
+    "cot": "full",
+    "seed": 31171
+  }
+}

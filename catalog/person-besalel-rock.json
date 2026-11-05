@@ -1,0 +1,80 @@
+{
+  "id": "person-besalel-rock",
+  "title": "Filled With The Spirit",
+  "kind": "person",
+  "anchor": {
+    "person": "besalel"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 31,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 2,
+      "chapter": 31,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 2,
+      "chapter": 31,
+      "verseStart": 7,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 2,
+      "chapter": 35,
+      "verseStart": 30,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 2,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 2,
+      "chapter": 37,
+      "verseStart": 1,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten",
+      "visdom"
+    ],
+    "stories": [],
+    "persons": [
+      "besalel",
+      "moses",
+      "oholiab",
+      "hur"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone rock voice, electric guitar, acoustic guitar, bass, drums, organ, uplifting and reverent mood, 95 BPM",
+    "lyrics": "[Verse]\nI have called by name Bezalel son of Uri\nFrom the tribe of Judah he stands before me\nI have filled him with the Spirit of God\nWith skill and understanding to build His house\n\n[Chorus]\nDesigning works in gold and silver and bronze\nCutting stones and carving wood with grace\nIn every kind of craft the wisdom flows\nTo make the sanctuary as I command\n\n[Verse]\nI have appointed Oholiab to work with him\nFrom the tribe of Dan they share the call\nI have given skill to every craftsman\nSo they can make what I have commanded\n\n[Chorus]\nDesigning works in gold and silver and bronze\nCutting stones and carving wood with grace\nIn every kind of craft the wisdom flows\nTo make the sanctuary as I command\n\n[Verse]\nThe tent of meeting and the ark of testimony\nThe atonement cover on top of it all\nThe table and the lampstand and the altar\nWoven garments for Aaron to serve as priest\n\n[Chorus]\nDesigning works in gold and silver and bronze\nCutting stones and carving wood with grace\nIn every kind of craft the wisdom flows\nTo make the sanctuary as I command\n\n[Bridge]\nMoses told the people what the Lord had said\nBezalel was filled with skill and knowledge\nHe made the ark of acacia wood\nOverlaid with pure gold inside and out\n\n[Outro]\nMercy seat of gold with cherubim\nWings spread upward overshadowing the place\nFacing each other in the holy spot\nJust as the Lord had commanded them to make",
+    "cot": "full",
+    "seed": 31307
+  }
+}

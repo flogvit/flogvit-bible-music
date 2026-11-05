@@ -1,0 +1,78 @@
+{
+  "id": "person-beria-orchestral",
+  "title": "Sons of Beriah",
+  "kind": "person",
+  "anchor": {
+    "person": "beria"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 30,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 44,
+      "verseEnd": 45
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 20,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 13,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "beria",
+      "jakob-israel",
+      "asjer",
+      "heber",
+      "malkiel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with choir, harp, oboe, cello, timpani, warm and solemn mood, 80 BPM",
+    "lyrics": "[Verse]\nAsher's line in Goshen stands\nImnah and Ishvah in the land\nIshvi walks with sister Serah\nBeriah holds the father's care\nHeber and Malchiel are born\nTheir names are carried like a horn\n\n[Chorus]\nBeriah the head of families\nClans that multiply and stay\nFrom the plains of Moab to here\nThe Beriites stand without fear\n\n[Verse]\nEphraim weeps for days of grief\nHis brothers lost to sudden death\nHe goes in to his wife alone\nA son is born in sorrow's tone\nHe names him Beriah in pain\nBecause disaster marked the rain\n\n[Chorus]\nBeriah the head of families\nClans that multiply and stay\nFrom the plains of Moab to here\nThe Beriites stand without fear\n\n[Verse]\nIn Aijalon the leaders rise\nBeriah drives out Gath's surprise\nShema stands by his side strong\nHeads of families, not for long\nAhio and Shashak are named\nJeremoth is not to blame\nZebadiah and Arad follow\nEder walks through the hallow\n\n[Chorus]\nBeriah the head of families\nClans that multiply and stay\nFrom the plains of Moab to here\nThe Beriites stand without fear\n\n[Outro]\nThe names are written in the book\nOf the sons of Asher's hook",
+    "cot": "full",
+    "seed": 31306
+  }
+}

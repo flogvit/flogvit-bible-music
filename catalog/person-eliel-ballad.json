@@ -1,0 +1,76 @@
+{
+  "id": "person-eliel-ballad",
+  "title": "Mighty Warriors",
+  "kind": "person",
+  "anchor": {
+    "person": "eliel"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 11,
+      "verseStart": 46,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 13,
+      "chapter": 12,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 13,
+      "chapter": 15,
+      "verseStart": 9,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 13,
+      "chapter": 5,
+      "verseStart": 24,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "eliel",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and resonant, acoustic guitar, cello, flute, light drums, solemn and majestic mood, 80 BPM",
+    "lyrics": "[Verse]\nEliel the Mahavite stood tall\nBeside Jeribai and Joshaviah\nSons of Elnaam in the hall\nWith Ithmah the Moabite he stood\n\n[Verse]\nMishmannah the fourth in the line\nJeremiah the fifth by design\nHebron's son Eliel the chief\nEighty relatives stood to keep\n\n[Chorus]\nMighty warriors, men of renown\nHeads of their fathers' houses down\nServing David with faith and might\nIn the wilderness they took their flight\n\n[Verse]\nSummoned priests Zadok and Abiathar\nLevites Uriel, Asaiah, near\nJoel, Shemaiah, and Eliel\nAmminadab answered the call\n\n[Chorus]\nMighty warriors, men of renown\nHeads of their fathers' houses down\nServing David with faith and might\nIn the wilderness they took their flight\n\n[Bridge]\nSupervisors under Conaniah's hand\nAzariah in the holy land\nEliel oversaw the tithes\nIn the house of the Lord he strives\n\n[Outro]\nElienai, Zillethai, Eliel\nNames recorded for the world to see",
+    "cot": "full",
+    "seed": 31310
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "person-akitofel-children",
+  "title": "Turned to Folly",
+  "kind": "person",
+  "anchor": {
+    "person": "akitofel"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 16,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 10,
+      "chapter": 15,
+      "verseStart": 12,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 10,
+      "chapter": 16,
+      "verseStart": 20,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 10,
+      "chapter": 17,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 10,
+      "chapter": 17,
+      "verseStart": 5,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 10,
+      "chapter": 17,
+      "verseStart": 23,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "akitofel",
+      "david",
+      "absalom",
+      "batseba",
+      "husjai"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright female solo voice, piano, acoustic guitar, light drums, pizzicato strings, cello, curious and gentle mood, 90 BPM",
+    "lyrics": "[Verse]\nAhithophel the Gilonite left his home\nTo counsel the king who wore the crown\nHis words were weighed like the word of God\nEsteemed by both David and Absalom\n\n[Verse]\nWhen the rebellion grew strong and deep\nHe joined the side of the rebellious heir\nDavid fled on foot with his people\nPraying for the Lord to break the scheme\n\n[Chorus]\nTurn Ahithophel's counsel into folly\nLet the good advice be frustrated\nFor the Lord has ordained the outcome\nAnd the plans of the wicked are scattered\n\n[Verse]\nHe advised to take the concubines\nTo show the break was absolute and true\nThen to strike by night with twelve thousand men\nTo catch the weary king in his flight\n\n[Chorus]\nTurn Ahithophel's counsel into folly\nLet the good advice be frustrated\nFor the Lord has ordained the outcome\nAnd the plans of the wicked are scattered\n\n[Bridge]\nBut Hushai the Archite spoke with care\nSaying the advice was not good\nDavid is a warrior fierce and strong\nHe will not sleep with his troops\n\n[Chorus]\nTurn Ahithophel's counsel into folly\nLet the good advice be frustrated\nFor the Lord has ordained the outcome\nAnd the plans of the wicked are scattered\n\n[Outro]\nHe saw his advice was rejected\nAnd he returned to his home in Giloh\nHe set his house in order\nAnd took his own life",
+    "cot": "full",
+    "seed": 31303
+  }
+}

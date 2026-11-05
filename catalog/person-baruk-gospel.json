@@ -1,0 +1,81 @@
+{
+  "id": "person-baruk-gospel",
+  "title": "The Scribe's Life",
+  "kind": "person",
+  "anchor": {
+    "person": "baruk"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 24,
+      "chapter": 36,
+      "verseStart": 8,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 24,
+      "chapter": 36,
+      "verseStart": 23,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 24,
+      "chapter": 36,
+      "verseStart": 32,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 24,
+      "chapter": 45,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 24,
+      "chapter": 43,
+      "verseStart": 5,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "baruk",
+      "jeremia",
+      "jojakim",
+      "sidkia-josias-sonn",
+      "nebukadnesar"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gospel choir, acoustic guitar, piano, organ, cymbals, warm and solemn, 75 BPM",
+    "lyrics": "[Verse]\nIn the fourth year of King Jehoiakim\nThe word of the Lord came to Jeremiah\nHe called for Baruch son of Neriah\nTo write the words of the Lord on a scroll\n\n[Chorus]\nAs Jeremiah dictated the words of the Lord\nBaruch wrote them down with faithful hands\nThrough the fire and the fear of the king\nThe scribe remained by the prophet's side\n\n[Verse]\nIn the house of the Lord at the New Gate\nBaruch read the words in the hearing of all\nBut the king cut the scroll with a knife\nAnd threw the words into the fire\n\n[Chorus]\nAs Jeremiah dictated the words of the Lord\nBaruch wrote them down with faithful hands\nThrough the fire and the fear of the king\nThe scribe remained by the prophet's side\n\n[Bridge]\nYou are seeking great things for yourself\nDo not seek them for I will bring disaster\nBut wherever you go I will grant\nYour life as spoil in the whole land\n\n[Outro]\nThey went to the land of Egypt\nNot obeying the voice of the Lord",
+    "cot": "full",
+    "seed": 31305
+  }
+}

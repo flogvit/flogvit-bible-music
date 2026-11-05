@@ -1,0 +1,85 @@
+{
+  "id": "person-dareios-i-soul",
+  "title": "The Decree of Darius",
+  "kind": "person",
+  "anchor": {
+    "person": "dareios-i"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 4,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 15,
+      "chapter": 5,
+      "verseStart": 5,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 15,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 15,
+      "chapter": 6,
+      "verseStart": 6,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 15,
+      "chapter": 6,
+      "verseStart": 13,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 37,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "obedience",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [
+      "nade",
+      "tro",
+      "pakten",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "dareios-i",
+      "kyros",
+      "serubabel",
+      "haggai",
+      "sakarja-profet"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soul voice, deep and resonant solo with backing choir, upright bass, Hammond organ, electric guitar, drums, cymbals, reverent and triumphant mood, 72 BPM",
+    "lyrics": "[Verse]\nSo the work on the house of God in Jerusalem came to a halt\nIt stood still until the second year of the reign of Darius king of Persia\nThe eye of their God was on the elders of the Jews\nThey were not stopped until a report could go to Darius\n\n[Chorus]\nLet the house be rebuilt as a place for offering sacrifices\nLet its foundations be laid with sixty cubits of height and width\nThe cost is to be paid from the royal treasury\nI, Darius, have issued this decree\n\n[Verse]\nThen King Darius issued an order and a search was made\nIn the archives where the treasures were stored in Babylon\nAt Ecbatana in the fortress in Media a scroll was found\nKing Cyrus issued this order in his first year\n\n[Chorus]\nLet the house be rebuilt as a place for offering sacrifices\nLet its foundations be laid with sixty cubits of height and width\nThe cost is to be paid from the royal treasury\nI, Darius, have issued this decree\n\n[Bridge]\nKeep far away from there Tattenai and Shethar-bozenai\nLeave the work on this house of God alone\nLet the governor of the Jews and the elders rebuild this house\nThe cost is to be paid in full from the royal treasury\n\n[Outro]\nThis house was completed on the third day of the month of Adar\nIn the sixth year of the reign of King Darius",
+    "cot": "full",
+    "seed": 31309
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "person-baal-sebub-folk",
+  "title": "Is There No God in Israel",
+  "kind": "person",
+  "anchor": {
+    "person": "baal-sebub"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 12,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 12,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 40,
+      "chapter": 12,
+      "verseStart": 24,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 40,
+      "chapter": 10,
+      "verseStart": 25,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 42,
+      "chapter": 11,
+      "verseStart": 15,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "dapen",
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "baal-sebub",
+      "akasja-akabs-sonn-konge-av-israel",
+      "elia",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and narrative, acoustic guitar, cello, fiddle, light percussion, somber and tense mood, 80 BPM",
+    "lyrics": "[Verse]\nAhab is gone and Moab rebels against the throne\nAhaziah falls through the lattice in his upper room\nInjured and ill he sends word out to the coast\nGo ask Baal-Zebub the god of Ekron about the hope\n\n[Chorus]\nIs there no God in Israel that you must go ask\nThe god of Ekron for a sign and a task\nYou will not get up from the bed you are lying on\nYou will surely die as the Lord has spoken\n\n[Verse]\nThe angel of the Lord speaks to Elijah the Tishbite\nGo meet the messengers of the king of Samaria\nAsk them why they seek a foreign idol's word\nWhen the Lord of Hosts is right here in the land\n\n[Chorus]\nIs there no God in Israel that you must go ask\nThe god of Ekron for a sign and a task\nYou will not get up from the bed you are lying on\nYou will surely die as the Lord has spoken\n\n[Verse]\nThe first captain goes up the mountain with fifty men\nFire comes down from heaven and consumes them all\nThe second captain falls to his knees before the prophet\nPleading for his life and the lives of his men\n\n[Bridge]\nElijah goes down with the third to the king's bedside\nSaying because you sought a god in Ekron's land\nYou will not rise from the bed you lie upon\nThe word of the Lord is confirmed in the dust\n\n[Chorus]\nIs there no God in Israel that you must go ask\nThe god of Ekron for a sign and a task\nYou will not get up from the bed you are lying on\nYou will surely die as the Lord has spoken\n\n[Outro]\nEvery kingdom divided against itself falls\nSatan cannot drive out Satan\nHe is divided against himself",
+    "cot": "full",
+    "seed": 31304
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "person-birsja-children",
+  "title": "Not a Thread",
+  "kind": "person",
+  "anchor": {
+    "person": "birsja"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 8,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 11,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 17,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 22,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "birsja",
+      "abraham",
+      "lot",
+      "melkisedek",
+      "kedorlaomer"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice, acoustic guitar, soft piano, light percussion, warm strings, hopeful and steady, 90 BPM",
+    "lyrics": "[Verse]\nFour kings marched to war that day\nAgainst the five in the valley\nTwelve years they served Chedorlaomer\nBut in the thirteenth, they rebelled\nThe Valley of Siddim had pits\nWhere kings of Sodom fell\nThe goods of Sodom were seized\nAnd Lot was taken away\n\n[Chorus]\nI raised my hand to God Most High\nMaker of heaven and earth\nI will accept nothing from you\nNot a thread or sandal strap\nSo you can never say\nI made Abram rich\n\n[Verse]\nThree hundred eighteen men arose\nBorn in Abram’s household\nHe pursued the army to Dan\nAnd struck them by night\nHe recovered all the goods\nAnd brought back Lot his kinsman\nThe king of Sodom came out\nTo meet him in the King’s Valley\n\n[Chorus]\nI raised my hand to God Most High\nMaker of heaven and earth\nI will accept nothing from you\nNot a thread or sandal strap\nSo you can never say\nI made Abram rich\n\n[Bridge]\nAner, Eshcol, and Mamre\nShall take their share of food\nBut Abram takes nothing else\nFrom the king’s greedy hand\nHis oath is strong and true\nBefore the Maker of all\n\n[Chorus]\nI raised my hand to God Most High\nMaker of heaven and earth\nI will accept nothing from you\nNot a thread or sandal strap\nSo you can never say\nI made Abram rich\n\n[Outro]\nNot a thread\nNot a sandal strap",
+    "cot": "full",
+    "seed": 31308
+  }
+}

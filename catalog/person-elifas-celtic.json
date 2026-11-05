@@ -1,0 +1,78 @@
+{
+  "id": "person-elifas-celtic",
+  "title": "Seven Days Silent",
+  "kind": "person",
+  "anchor": {
+    "person": "elifas"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 2,
+      "verseStart": 11,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 18,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 18,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 18,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 18,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "elifas",
+      "job",
+      "bildad",
+      "sofar",
+      "elihu-barakels-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male solo voice with celtic choir, bodhran, uilleann pipes, harp, tin whistle, fiddle, somber and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nEliphaz the Temanite came from afar\nWith Bildad and Zophar to meet you there\nThey looked from a distance, could not recognize you\nWept aloud, tore robes, tossed dust to the sky\n\n[Verse]\nThey sat with you on the ground for seven days\nAnd seven nights, no word spoken in praise\nYour suffering was great, they saw your pain\nSilent witnesses to your deep distress\n\n[Chorus]\nSeven days silent, no word was said\nWatching the sorrow that you have spread\nYour friends are here, though their words may fail\nTo comfort the soul in the dark and cold\n\n[Verse]\nThen Eliphaz spoke, who can hold back\nWhen trouble strikes and the body is weak\nYou strengthened the weak, held up the stumbling\nBut now you are dismayed, your spirit crumbling\n\n[Verse]\nHe spoke of a vision, a spirit passed by\nA whisper in the dark, a voice from the sky\nWho ever perished being innocent\nWhere were the upright ever destroyed\n\n[Chorus]\nSeven days silent, no word was said\nWatching the sorrow that you have spread\nYour friends are here, though their words may fail\nTo comfort the soul in the dark and cold\n\n[Verse]\nHe accused you of sin, of taking pledges\nOf refusing water, of hiding treasures\nBut God spoke from the storm, rebuked them all\nFor not speaking rightly of His own will\n\n[Outro]\nOffer seven bulls, seven rams as well\nJob prays for you, God forgives your soul",
+    "cot": "full",
+    "seed": 31311
+  }
+}

@@ -1,0 +1,1512 @@
+{
+ "id": "person-musji-ballad",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-musji-ballad",
+ "offset_seconds": -0.1400000000002528,
+ "words_heard": 168,
+ "words": 169,
+ "lines": [
+  {
+   "text": "The sons of Merari are known by name",
+   "heard": 8,
+   "words": 8,
+   "error_s": 4.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Mahli and Mushi carry the load",
+   "heard": 6,
+   "words": 6,
+   "error_s": 3.61,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From the tribe of Levi\u2019s holy line",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.56,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the wilderness they stand",
+   "heard": 5,
+   "words": 5,
+   "error_s": 2.89,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Frames of the tabernacle heavy and strong",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Crossbars and posts in the dust",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bases and pegs and ropes all along",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The work of the tent they must trust",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Carry the frames and the crossbars too",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The posts and the bases of wood",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.6,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Assigned by name what each man must do",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the service of the Lord\u2019s house",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.67,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Thirty years old and up to fifty",
+   "heard": 7,
+   "words": 7,
+   "error_s": 4.7,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Fit for the work of the tent",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Under the oversight of Ithamar",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.39,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The priest\u2019s command is meant",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Carry the frames and the crossbars too",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The posts and the bases of wood",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.59,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Assigned by name what each man must do",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "For the service of the Lord\u2019s house",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mahli and Eder and Jeremoth",
+   "heard": 4,
+   "words": 5,
+   "error_s": 26.54,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Three sons in the record so clear",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The clan of Mushi serves with might",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.22,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Through the generations near",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Frames and bases in the dust",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The Levites\u2019 faithful trust",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "The",
+   "time": 11.3,
+   "weight": 0.49,
+   "note_time": 16.0
+  },
+  {
+   "text": "sons",
+   "time": 12.7,
+   "weight": 0.84,
+   "note_time": 16.6
+  },
+  {
+   "text": "of",
+   "time": 13.04,
+   "weight": 1.0,
+   "note_time": 17.2
+  },
+  {
+   "text": "Me",
+   "time": 13.78,
+   "weight": 0.89,
+   "note_time": 17.6
+  },
+  {
+   "text": "ra",
+   "time": 14.13,
+   "weight": 0.89,
+   "note_time": 18.2
+  },
+  {
+   "text": "ri",
+   "time": 14.48,
+   "weight": 0.89,
+   "note_time": 18.8
+  },
+  {
+   "text": "are",
+   "time": 14.94,
+   "weight": 0.97,
+   "note_time": 19.2
+  },
+  {
+   "text": "known",
+   "time": 15.76,
+   "weight": 0.99,
+   "note_time": 20.0
+  },
+  {
+   "text": "by",
+   "time": 16.2,
+   "weight": 1.0,
+   "note_time": 20.2
+  },
+  {
+   "text": "name",
+   "time": 16.92,
+   "weight": 1.0,
+   "note_time": 20.4
+  },
+  {
+   "text": "Mah",
+   "time": 17.44,
+   "weight": 0.24,
+   "note_time": 22.4
+  },
+  {
+   "text": "li",
+   "time": 17.79,
+   "weight": 0.24,
+   "note_time": 23.0
+  },
+  {
+   "text": "and",
+   "time": 19.74,
+   "weight": 0.98,
+   "note_time": 23.6
+  },
+  {
+   "text": "Mus",
+   "time": 20.46,
+   "weight": 0.72,
+   "note_time": 24.0
+  },
+  {
+   "text": "hi",
+   "time": 20.78,
+   "weight": 0.72,
+   "note_time": 24.4
+  },
+  {
+   "text": "car",
+   "time": 21.1,
+   "weight": 0.65,
+   "note_time": 24.8
+  },
+  {
+   "text": "ry",
+   "time": 21.39,
+   "weight": 0.65,
+   "note_time": 25.0
+  },
+  {
+   "text": "the",
+   "time": 21.68,
+   "weight": 1.0,
+   "note_time": 25.2
+  },
+  {
+   "text": "load",
+   "time": 22.04,
+   "weight": 0.93,
+   "note_time": 25.4
+  },
+  {
+   "text": "From",
+   "time": 22.38,
+   "weight": 0.35,
+   "note_time": 28.4
+  },
+  {
+   "text": "the",
+   "time": 25.18,
+   "weight": 1.0,
+   "note_time": 28.6
+  },
+  {
+   "text": "tribe",
+   "time": 25.36,
+   "weight": 0.96,
+   "note_time": 28.8
+  },
+  {
+   "text": "of",
+   "time": 26.04,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "Lev",
+   "time": 26.88,
+   "weight": 0.14,
+   "note_time": 30.4
+  },
+  {
+   "text": "i\u2019s",
+   "time": 27.23,
+   "weight": 0.14,
+   "note_time": 30.8
+  },
+  {
+   "text": "ho",
+   "time": 28.44,
+   "weight": 0.96,
+   "note_time": 32.0
+  },
+  {
+   "text": "ly",
+   "time": 28.64,
+   "weight": 0.96,
+   "note_time": 32.8
+  },
+  {
+   "text": "line",
+   "time": 28.84,
+   "weight": 0.41,
+   "note_time": 33.0
+  },
+  {
+   "text": "In",
+   "time": 30.02,
+   "weight": 0.15,
+   "note_time": 33.2
+  },
+  {
+   "text": "the",
+   "time": 30.94,
+   "weight": 0.98,
+   "note_time": 33.6
+  },
+  {
+   "text": "wil",
+   "time": 31.68,
+   "weight": 0.98,
+   "note_time": 34.8
+  },
+  {
+   "text": "der",
+   "time": 32.03,
+   "weight": 0.98,
+   "note_time": 35.0
+  },
+  {
+   "text": "ness",
+   "time": 32.38,
+   "weight": 0.98,
+   "note_time": 35.2
+  },
+  {
+   "text": "they",
+   "time": 32.82,
+   "weight": 0.91,
+   "note_time": 36.4
+  },
+  {
+   "text": "stand",
+   "time": 34.26,
+   "weight": 1.0,
+   "note_time": 36.6
+  },
+  {
+   "text": "Frames",
+   "time": 36.3,
+   "weight": 0.92,
+   "note_time": 36.8
+  },
+  {
+   "text": "of",
+   "time": 37.7,
+   "weight": 1.0,
+   "note_time": 37.6
+  },
+  {
+   "text": "the",
+   "time": 37.94,
+   "weight": 0.98,
+   "note_time": 38.0
+  },
+  {
+   "text": "ta",
+   "time": 38.02,
+   "weight": 0.37,
+   "note_time": 38.4
+  },
+  {
+   "text": "ber",
+   "time": 38.37,
+   "weight": 0.37,
+   "note_time": 40.8
+  },
+  {
+   "text": "nac",
+   "time": 38.72,
+   "weight": 0.37,
+   "note_time": 41.2
+  },
+  {
+   "text": "le",
+   "time": 39.07,
+   "weight": 0.37,
+   "note_time": 41.4
+  },
+  {
+   "text": "hea",
+   "time": 40.26,
+   "weight": 0.96,
+   "note_time": 41.6
+  },
+  {
+   "text": "vy",
+   "time": 40.61,
+   "weight": 0.96,
+   "note_time": 42.2
+  },
+  {
+   "text": "and",
+   "time": 41.58,
+   "weight": 1.0,
+   "note_time": 42.8
+  },
+  {
+   "text": "strong",
+   "time": 42.58,
+   "weight": 1.0,
+   "note_time": 43.2
+  },
+  {
+   "text": "Cross",
+   "time": 43.08,
+   "weight": 0.29,
+   "note_time": 43.6
+  },
+  {
+   "text": "bars",
+   "time": 43.43,
+   "weight": 0.29,
+   "note_time": 44.8
+  },
+  {
+   "text": "and",
+   "time": 45.12,
+   "weight": 0.99,
+   "note_time": 45.4
+  },
+  {
+   "text": "posts",
+   "time": 45.8,
+   "weight": 0.99,
+   "note_time": 46.0
+  },
+  {
+   "text": "in",
+   "time": 46.3,
+   "weight": 0.99,
+   "note_time": 46.4
+  },
+  {
+   "text": "the",
+   "time": 47.04,
+   "weight": 1.0,
+   "note_time": 48.0
+  },
+  {
+   "text": "dust",
+   "time": 47.26,
+   "weight": 0.99,
+   "note_time": 48.6
+  },
+  {
+   "text": "Ba",
+   "time": 47.86,
+   "weight": 0.35,
+   "note_time": 49.2
+  },
+  {
+   "text": "ses",
+   "time": 48.21,
+   "weight": 0.35,
+   "note_time": 49.6
+  },
+  {
+   "text": "and",
+   "time": 50.3,
+   "weight": 0.99,
+   "note_time": 50.4
+  },
+  {
+   "text": "pegs",
+   "time": 50.66,
+   "weight": 1.0,
+   "note_time": 50.8
+  },
+  {
+   "text": "and",
+   "time": 52.04,
+   "weight": 0.96,
+   "note_time": 51.0
+  },
+  {
+   "text": "ropes",
+   "time": 52.08,
+   "weight": 1.0,
+   "note_time": 53.6
+  },
+  {
+   "text": "all",
+   "time": 52.6,
+   "weight": 0.99,
+   "note_time": 54.0
+  },
+  {
+   "text": "a",
+   "time": 53.36,
+   "weight": 0.96,
+   "note_time": 54.2
+  },
+  {
+   "text": "long",
+   "time": 53.65,
+   "weight": 0.96,
+   "note_time": 54.4
+  },
+  {
+   "text": "The",
+   "time": 55.74,
+   "weight": 0.15,
+   "note_time": 55.6
+  },
+  {
+   "text": "work",
+   "time": 56.92,
+   "weight": 0.93,
+   "note_time": 56.0
+  },
+  {
+   "text": "of",
+   "time": 57.34,
+   "weight": 0.99,
+   "note_time": 56.8
+  },
+  {
+   "text": "the",
+   "time": 57.86,
+   "weight": 0.99,
+   "note_time": 57.2
+  },
+  {
+   "text": "tent",
+   "time": 58.34,
+   "weight": 0.42,
+   "note_time": 57.4
+  },
+  {
+   "text": "they",
+   "time": 58.78,
+   "weight": 0.89,
+   "note_time": 60.6
+  },
+  {
+   "text": "must",
+   "time": 59.38,
+   "weight": 1.0,
+   "note_time": 60.8
+  },
+  {
+   "text": "trust",
+   "time": 59.82,
+   "weight": 0.99,
+   "note_time": 61.4
+  },
+  {
+   "text": "Car",
+   "time": 60.46,
+   "weight": 0.2,
+   "note_time": 62.0
+  },
+  {
+   "text": "ry",
+   "time": 60.81,
+   "weight": 0.2,
+   "note_time": 62.2
+  },
+  {
+   "text": "the",
+   "time": 62.64,
+   "weight": 1.0,
+   "note_time": 63.0
+  },
+  {
+   "text": "frames",
+   "time": 63.1,
+   "weight": 0.96,
+   "note_time": 63.4
+  },
+  {
+   "text": "and",
+   "time": 63.86,
+   "weight": 0.38,
+   "note_time": 64.0
+  },
+  {
+   "text": "the",
+   "time": 65.48,
+   "weight": 0.98,
+   "note_time": 66.6
+  },
+  {
+   "text": "cross",
+   "time": 65.64,
+   "weight": 0.93,
+   "note_time": 66.8
+  },
+  {
+   "text": "bars",
+   "time": 65.99,
+   "weight": 0.93,
+   "note_time": 67.0
+  },
+  {
+   "text": "too",
+   "time": 66.48,
+   "weight": 0.8,
+   "note_time": 67.2
+  },
+  {
+   "text": "The",
+   "time": 68.42,
+   "weight": 0.96,
+   "note_time": 69.2
+  },
+  {
+   "text": "posts",
+   "time": 69.6,
+   "weight": 0.99,
+   "note_time": 69.4
+  },
+  {
+   "text": "and",
+   "time": 70.06,
+   "weight": 1.0,
+   "note_time": 69.6
+  },
+  {
+   "text": "the",
+   "time": 70.64,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "ba",
+   "time": 70.96,
+   "weight": 0.99,
+   "note_time": 70.4
+  },
+  {
+   "text": "ses",
+   "time": 71.31,
+   "weight": 0.99,
+   "note_time": 70.8
+  },
+  {
+   "text": "of",
+   "time": 71.9,
+   "weight": 1.0,
+   "note_time": 73.4
+  },
+  {
+   "text": "wood",
+   "time": 72.44,
+   "weight": 0.99,
+   "note_time": 73.6
+  },
+  {
+   "text": "As",
+   "time": 73.7,
+   "weight": 0.35,
+   "note_time": 74.4
+  },
+  {
+   "text": "signed",
+   "time": 74.05,
+   "weight": 0.35,
+   "note_time": 74.8
+  },
+  {
+   "text": "by",
+   "time": 75.46,
+   "weight": 1.0,
+   "note_time": 75.0
+  },
+  {
+   "text": "name",
+   "time": 75.7,
+   "weight": 1.0,
+   "note_time": 75.8
+  },
+  {
+   "text": "what",
+   "time": 76.24,
+   "weight": 0.98,
+   "note_time": 76.2
+  },
+  {
+   "text": "each",
+   "time": 77.3,
+   "weight": 1.0,
+   "note_time": 76.8
+  },
+  {
+   "text": "man",
+   "time": 77.88,
+   "weight": 1.0,
+   "note_time": 79.0
+  },
+  {
+   "text": "must",
+   "time": 78.32,
+   "weight": 1.0,
+   "note_time": 79.2
+  },
+  {
+   "text": "do",
+   "time": 79.12,
+   "weight": 1.0,
+   "note_time": 79.6
+  },
+  {
+   "text": "For",
+   "time": 79.78,
+   "weight": 0.14,
+   "note_time": 80.0
+  },
+  {
+   "text": "the",
+   "time": 81.94,
+   "weight": 0.99,
+   "note_time": 81.2
+  },
+  {
+   "text": "ser",
+   "time": 82.2,
+   "weight": 0.97,
+   "note_time": 81.6
+  },
+  {
+   "text": "vice",
+   "time": 82.53,
+   "weight": 0.97,
+   "note_time": 82.2
+  },
+  {
+   "text": "of",
+   "time": 82.86,
+   "weight": 0.94,
+   "note_time": 82.8
+  },
+  {
+   "text": "the",
+   "time": 84.12,
+   "weight": 0.98,
+   "note_time": 83.2
+  },
+  {
+   "text": "Lord\u2019s",
+   "time": 84.58,
+   "weight": 0.96,
+   "note_time": 83.6
+  },
+  {
+   "text": "house",
+   "time": 85.38,
+   "weight": 0.47,
+   "note_time": 86.0
+  },
+  {
+   "text": "Thir",
+   "time": 90.58,
+   "weight": 0.56,
+   "note_time": 86.2
+  },
+  {
+   "text": "ty",
+   "time": 90.93,
+   "weight": 0.56,
+   "note_time": 86.4
+  },
+  {
+   "text": "years",
+   "time": 91.96,
+   "weight": 0.99,
+   "note_time": 86.8
+  },
+  {
+   "text": "old",
+   "time": 93.1,
+   "weight": 1.0,
+   "note_time": 88.4
+  },
+  {
+   "text": "and",
+   "time": 93.82,
+   "weight": 0.94,
+   "note_time": 88.6
+  },
+  {
+   "text": "up",
+   "time": 94.74,
+   "weight": 1.0,
+   "note_time": 88.8
+  },
+  {
+   "text": "to",
+   "time": 95.24,
+   "weight": 1.0,
+   "note_time": 89.6
+  },
+  {
+   "text": "fif",
+   "time": 95.76,
+   "weight": 0.97,
+   "note_time": 96.0
+  },
+  {
+   "text": "ty",
+   "time": 96.11,
+   "weight": 0.97,
+   "note_time": 96.6
+  },
+  {
+   "text": "Fit",
+   "time": 96.48,
+   "weight": 0.37,
+   "note_time": 97.2
+  },
+  {
+   "text": "for",
+   "time": 98.2,
+   "weight": 1.0,
+   "note_time": 97.6
+  },
+  {
+   "text": "the",
+   "time": 98.82,
+   "weight": 1.0,
+   "note_time": 98.8
+  },
+  {
+   "text": "work",
+   "time": 99.38,
+   "weight": 0.99,
+   "note_time": 99.2
+  },
+  {
+   "text": "of",
+   "time": 99.96,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "the",
+   "time": 100.5,
+   "weight": 0.99,
+   "note_time": 100.4
+  },
+  {
+   "text": "tent",
+   "time": 100.96,
+   "weight": 0.7,
+   "note_time": 100.8
+  },
+  {
+   "text": "Un",
+   "time": 101.3,
+   "weight": 0.39,
+   "note_time": 102.4
+  },
+  {
+   "text": "der",
+   "time": 101.65,
+   "weight": 0.39,
+   "note_time": 103.0
+  },
+  {
+   "text": "the",
+   "time": 103.94,
+   "weight": 1.0,
+   "note_time": 103.6
+  },
+  {
+   "text": "o",
+   "time": 104.28,
+   "weight": 0.39,
+   "note_time": 104.0
+  },
+  {
+   "text": "ver",
+   "time": 104.63,
+   "weight": 0.39,
+   "note_time": 104.6
+  },
+  {
+   "text": "sight",
+   "time": 104.98,
+   "weight": 0.39,
+   "note_time": 105.2
+  },
+  {
+   "text": "of",
+   "time": 105.84,
+   "weight": 1.0,
+   "note_time": 105.4
+  },
+  {
+   "text": "It",
+   "time": 106.98,
+   "weight": 0.31,
+   "note_time": 108.4
+  },
+  {
+   "text": "ha",
+   "time": 107.33,
+   "weight": 0.31,
+   "note_time": 108.6
+  },
+  {
+   "text": "mar",
+   "time": 107.68,
+   "weight": 0.31,
+   "note_time": 108.8
+  },
+  {
+   "text": "The",
+   "time": 108.74,
+   "weight": 0.15,
+   "note_time": 110.0
+  },
+  {
+   "text": "priest\u2019s",
+   "time": 110.04,
+   "weight": 0.56,
+   "note_time": 110.4
+  },
+  {
+   "text": "com",
+   "time": 111.62,
+   "weight": 0.99,
+   "note_time": 111.2
+  },
+  {
+   "text": "mand",
+   "time": 111.86,
+   "weight": 0.99,
+   "note_time": 112.0
+  },
+  {
+   "text": "is",
+   "time": 112.1,
+   "weight": 0.99,
+   "note_time": 112.8
+  },
+  {
+   "text": "meant",
+   "time": 113.3,
+   "weight": 0.94,
+   "note_time": 113.0
+  },
+  {
+   "text": "Car",
+   "time": 113.72,
+   "weight": 0.18,
+   "note_time": 115.0
+  },
+  {
+   "text": "ry",
+   "time": 114.07,
+   "weight": 0.18,
+   "note_time": 115.2
+  },
+  {
+   "text": "the",
+   "time": 116.32,
+   "weight": 1.0,
+   "note_time": 116.4
+  },
+  {
+   "text": "frames",
+   "time": 116.78,
+   "weight": 0.99,
+   "note_time": 116.6
+  },
+  {
+   "text": "and",
+   "time": 117.56,
+   "weight": 0.38,
+   "note_time": 117.6
+  },
+  {
+   "text": "the",
+   "time": 119.16,
+   "weight": 0.97,
+   "note_time": 118.0
+  },
+  {
+   "text": "cross",
+   "time": 119.32,
+   "weight": 0.91,
+   "note_time": 120.8
+  },
+  {
+   "text": "bars",
+   "time": 119.67,
+   "weight": 0.91,
+   "note_time": 121.0
+  },
+  {
+   "text": "too",
+   "time": 120.18,
+   "weight": 0.8,
+   "note_time": 121.2
+  },
+  {
+   "text": "The",
+   "time": 120.8,
+   "weight": 0.38,
+   "note_time": 121.4
+  },
+  {
+   "text": "posts",
+   "time": 123.28,
+   "weight": 0.99,
+   "note_time": 121.6
+  },
+  {
+   "text": "and",
+   "time": 123.8,
+   "weight": 1.0,
+   "note_time": 123.6
+  },
+  {
+   "text": "the",
+   "time": 124.32,
+   "weight": 0.99,
+   "note_time": 123.8
+  },
+  {
+   "text": "ba",
+   "time": 124.64,
+   "weight": 0.99,
+   "note_time": 124.0
+  },
+  {
+   "text": "ses",
+   "time": 124.99,
+   "weight": 0.99,
+   "note_time": 124.4
+  },
+  {
+   "text": "of",
+   "time": 125.36,
+   "weight": 1.0,
+   "note_time": 124.8
+  },
+  {
+   "text": "wood",
+   "time": 126.1,
+   "weight": 0.99,
+   "note_time": 125.2
+  },
+  {
+   "text": "As",
+   "time": 126.76,
+   "weight": 0.36,
+   "note_time": 127.8
+  },
+  {
+   "text": "signed",
+   "time": 127.11,
+   "weight": 0.36,
+   "note_time": 128.0
+  },
+  {
+   "text": "by",
+   "time": 129.12,
+   "weight": 1.0,
+   "note_time": 128.8
+  },
+  {
+   "text": "name",
+   "time": 129.4,
+   "weight": 0.99,
+   "note_time": 129.2
+  },
+  {
+   "text": "what",
+   "time": 129.94,
+   "weight": 0.98,
+   "note_time": 129.4
+  },
+  {
+   "text": "each",
+   "time": 131.0,
+   "weight": 1.0,
+   "note_time": 130.2
+  },
+  {
+   "text": "man",
+   "time": 131.56,
+   "weight": 1.0,
+   "note_time": 130.6
+  },
+  {
+   "text": "must",
+   "time": 132.02,
+   "weight": 1.0,
+   "note_time": 131.2
+  },
+  {
+   "text": "do",
+   "time": 132.8,
+   "weight": 1.0,
+   "note_time": 133.4
+  },
+  {
+   "text": "For",
+   "time": 133.48,
+   "weight": 0.17,
+   "note_time": 133.6
+  },
+  {
+   "text": "the",
+   "time": 135.6,
+   "weight": 0.99,
+   "note_time": 134.0
+  },
+  {
+   "text": "ser",
+   "time": 135.88,
+   "weight": 0.99,
+   "note_time": 134.4
+  },
+  {
+   "text": "vice",
+   "time": 136.21,
+   "weight": 0.99,
+   "note_time": 135.6
+  },
+  {
+   "text": "of",
+   "time": 136.54,
+   "weight": 0.97,
+   "note_time": 136.0
+  },
+  {
+   "text": "the",
+   "time": 137.98,
+   "weight": 0.99,
+   "note_time": 136.6
+  },
+  {
+   "text": "Lord\u2019s",
+   "time": 138.28,
+   "weight": 0.97,
+   "note_time": 137.2
+  },
+  {
+   "text": "house",
+   "time": 139.06,
+   "weight": 0.57,
+   "note_time": 138.0
+  },
+  {
+   "text": "Mah",
+   "time": 166.76,
+   "weight": 0.51,
+   "note_time": 140.4
+  },
+  {
+   "text": "li",
+   "time": 167.11,
+   "weight": 0.51,
+   "note_time": 140.6
+  },
+  {
+   "text": "and",
+   "time": 168.16,
+   "weight": 0.9,
+   "note_time": 140.8
+  },
+  {
+   "text": "Ed",
+   "time": 168.92,
+   "weight": 0.67,
+   "note_time": 141.2
+  },
+  {
+   "text": "er",
+   "time": 169.24,
+   "weight": 0.67,
+   "note_time": 142.8
+  },
+  {
+   "text": "and",
+   "time": 169.56,
+   "weight": 0.97,
+   "note_time": 143.0
+  },
+  {
+   "text": "Jer",
+   "time": 169.97,
+   "weight": 0.0,
+   "note_time": 143.2
+  },
+  {
+   "text": "e",
+   "time": 170.38,
+   "weight": 0.0,
+   "note_time": 144.0
+  },
+  {
+   "text": "moth",
+   "time": 170.79,
+   "weight": 0.0,
+   "note_time": 172.8
+  },
+  {
+   "text": "Three",
+   "time": 171.2,
+   "weight": 0.28,
+   "note_time": 173.4
+  },
+  {
+   "text": "sons",
+   "time": 173.58,
+   "weight": 0.73,
+   "note_time": 174.0
+  },
+  {
+   "text": "in",
+   "time": 174.74,
+   "weight": 0.99,
+   "note_time": 174.4
+  },
+  {
+   "text": "the",
+   "time": 174.8,
+   "weight": 0.96,
+   "note_time": 174.6
+  },
+  {
+   "text": "re",
+   "time": 175.16,
+   "weight": 0.95,
+   "note_time": 175.2
+  },
+  {
+   "text": "cord",
+   "time": 175.41,
+   "weight": 0.95,
+   "note_time": 175.6
+  },
+  {
+   "text": "so",
+   "time": 175.66,
+   "weight": 0.77,
+   "note_time": 175.8
+  },
+  {
+   "text": "clear",
+   "time": 176.72,
+   "weight": 0.99,
+   "note_time": 176.2
+  },
+  {
+   "text": "The",
+   "time": 177.6,
+   "weight": 0.38,
+   "note_time": 178.8
+  },
+  {
+   "text": "clan",
+   "time": 180.12,
+   "weight": 0.89,
+   "note_time": 179.2
+  },
+  {
+   "text": "of",
+   "time": 180.44,
+   "weight": 1.0,
+   "note_time": 180.0
+  },
+  {
+   "text": "Mus",
+   "time": 181.62,
+   "weight": 0.77,
+   "note_time": 180.4
+  },
+  {
+   "text": "hi",
+   "time": 181.88,
+   "weight": 0.77,
+   "note_time": 180.6
+  },
+  {
+   "text": "serves",
+   "time": 182.14,
+   "weight": 0.96,
+   "note_time": 181.0
+  },
+  {
+   "text": "with",
+   "time": 183.48,
+   "weight": 1.0,
+   "note_time": 182.0
+  },
+  {
+   "text": "might",
+   "time": 184.32,
+   "weight": 0.98,
+   "note_time": 182.8
+  },
+  {
+   "text": "Through",
+   "time": 184.8,
+   "weight": 0.36,
+   "note_time": 185.4
+  },
+  {
+   "text": "the",
+   "time": 186.62,
+   "weight": 1.0,
+   "note_time": 185.6
+  },
+  {
+   "text": "gen",
+   "time": 187.2,
+   "weight": 0.99,
+   "note_time": 186.8
+  },
+  {
+   "text": "er",
+   "time": 187.41,
+   "weight": 0.99,
+   "note_time": 187.2
+  },
+  {
+   "text": "a",
+   "time": 187.62,
+   "weight": 0.99,
+   "note_time": 187.6
+  },
+  {
+   "text": "tions",
+   "time": 187.83,
+   "weight": 0.99,
+   "note_time": 188.8
+  },
+  {
+   "text": "near",
+   "time": 188.04,
+   "weight": 0.99,
+   "note_time": 189.6
+  },
+  {
+   "text": "Frames",
+   "time": 192.26,
+   "weight": 0.7,
+   "note_time": 192.0
+  },
+  {
+   "text": "and",
+   "time": 193.54,
+   "weight": 1.0,
+   "note_time": 192.6
+  },
+  {
+   "text": "ba",
+   "time": 193.8,
+   "weight": 0.98,
+   "note_time": 192.8
+  },
+  {
+   "text": "ses",
+   "time": 194.15,
+   "weight": 0.98,
+   "note_time": 193.2
+  },
+  {
+   "text": "in",
+   "time": 194.7,
+   "weight": 0.99,
+   "note_time": 193.4
+  },
+  {
+   "text": "the",
+   "time": 195.28,
+   "weight": 1.0,
+   "note_time": 194.4
+  },
+  {
+   "text": "dust",
+   "time": 195.66,
+   "weight": 1.0,
+   "note_time": 194.8
+  },
+  {
+   "text": "The",
+   "time": 197.94,
+   "weight": 0.76,
+   "note_time": 198.4
+  },
+  {
+   "text": "Le",
+   "time": 199.22,
+   "weight": 0.92,
+   "note_time": 199.2
+  },
+  {
+   "text": "vites\u2019",
+   "time": 199.57,
+   "weight": 0.92,
+   "note_time": 200.0
+  },
+  {
+   "text": "faith",
+   "time": 200.58,
+   "weight": 1.0,
+   "note_time": 200.4
+  },
+  {
+   "text": "ful",
+   "time": 200.9,
+   "weight": 1.0,
+   "note_time": 200.6
+  },
+  {
+   "text": "trust",
+   "time": 201.22,
+   "weight": 0.99,
+   "note_time": 201.2
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 26 lyric lines sit clearly on their notes; 7 are uncertain and printed in grey italics."
+}

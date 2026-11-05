@@ -1,0 +1,49 @@
+{
+  "id": "verse-50-1-6-hymn",
+  "title": "Bring It To Completion",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 50,
+    "chapter": 1,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 50,
+      "chapter": 1,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female soprano solo with gentle choir backing, harp, strings, piano, soft flute, reverent and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nI thank my God each time\nThat you come to my mind\nIn every prayer I lift\nFor all of you combined\n\n[Verse]\nWith joy I do remember\nYour partnership in grace\nFrom the first day until now\nYou share this holy place\n\n[Chorus]\nHe who began a good work in you\nWill bring it to completion\nUntil the day of Christ Jesus\nHis faithful preservation\n\n[Verse]\nIt is right for me to think\nOf all of you with care\nI hold you in my heart\nBeyond comparison there\n\n[Chorus]\nHe who began a good work in you\nWill bring it to completion\nUntil the day of Christ Jesus\nHis faithful preservation\n\n[Bridge]\nWhether in chains or defending\nConfirming the gospel way\nYou share with me in this grace\nThat I can never sway\n\n[Outro]\nGod is my witness how I long\nWith the affection of Christ\nYour love will overflow\nIn knowledge and in light",
+    "cot": "full",
+    "seed": 31296
+  }
+}

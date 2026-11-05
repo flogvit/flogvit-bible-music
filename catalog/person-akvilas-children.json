@@ -1,0 +1,76 @@
+{
+  "id": "person-akvilas-children",
+  "title": "Tentmakers in the Lord",
+  "kind": "person",
+  "anchor": {
+    "person": "akvilas"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 18,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 44,
+      "chapter": 18,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 44,
+      "chapter": 18,
+      "verseStart": 18,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 44,
+      "chapter": 18,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 46,
+      "chapter": 16,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 45,
+      "chapter": 16,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "akvilas",
+      "priskilla",
+      "paulus",
+      "apollos"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Warm female solo voice with a children's choir, acoustic guitar, piano, cello, soft percussion, gentle and friendly mood, 100 BPM",
+    "lyrics": "[Verse]\nFrom Pontus they came, Aquila and wife\nLeaving Rome behind, obeying life\nClaudius sent the Jews away\nTo Corinth they traveled that day\n\n[Verse]\nPaul found a trade they all could share\nTentmaking work was in the air\nHe stayed with them, they worked as one\nA fellowship under the sun\n\n[Chorus]\nPriscilla and Aquila\nGuiding us to see\nThe way of God is clear\nIn their home for free\n\n[Verse]\nTo Ephesus they sailed along\nPaul went on, they stayed among\nThey heard Apollos speak in bold\nAnd took him aside, calm and old\n\n[Pre-Chorus]\nThey explained the path more true\nWith wisdom and with love anew\nThe church met in their house today\nServing God in his own way\n\n[Chorus]\nPriscilla and Aquila\nGuiding us to see\nThe way of God is clear\nIn their home for free\n\n[Verse]\nThey risked their lives for Paul’s sake\nFor Christ’s love they never break\nThe Gentile churches owe them thanks\nFaithful servants, kind and ranks\n\n[Chorus]\nPriscilla and Aquila\nGuiding us to see\nThe way of God is clear\nIn their home for free\n\n[Outro]\nGreet them warmly in the Lord\nTheir story is our word",
+    "cot": "full",
+    "seed": 31298
+  }
+}

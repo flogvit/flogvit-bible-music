@@ -1,0 +1,79 @@
+{
+  "id": "person-anak-children",
+  "title": "We Seemed Like Grasshoppers",
+  "kind": "person",
+  "anchor": {
+    "person": "anak"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 22,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 5,
+      "chapter": 1,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 4,
+      "chapter": 14,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 6,
+      "chapter": 14,
+      "verseStart": 12,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 6,
+      "chapter": 11,
+      "verseStart": 21,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "anak",
+      "josva",
+      "kaleb",
+      "moses",
+      "arba"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with soft choir, acoustic guitar, piano, harp, light percussion, warm and hopeful, 90 BPM",
+    "lyrics": "[Verse]\nThrough the Negev they climbed to the land\nWhere the giants of Hebron stood tall\nAhiman Sheshai and Talmai\nThe descendants of Anak remained there\nA single cluster of grapes\nCarried on a pole by two\nForty days they scouted the place\nAnd brought back the fruit of the land\n\n[Pre-Chorus]\nIt flows with milk and honey indeed\nBut the cities are strong and the people great\nThe walls rise up to the sky\nAnd our hearts have melted in fear\n\n[Chorus]\nWe saw the descendants of Anak\nThe Nephilim from whom they came\nIn our own eyes we seemed like grasshoppers\nSo we seemed to them we said\n\n[Verse]\nThe whole congregation wept that night\nGrumbling against Moses and Aaron\nWhy bring us here to fall by the sword\nOur wives and children become plunder\nIf only we had died in the wilderness\nOr back in Egypt we wished\nBut one man stood with a different spirit\nCaleb who followed wholeheartedly\n\n[Chorus]\nWe saw the descendants of Anak\nThe Nephilim from whom they came\nIn our own eyes we seemed like grasshoppers\nSo we seemed to them we said\n\n[Bridge]\nJoshua cut off the Anakim\nFrom Hebron Debir and Anab\nDevoting them to destruction\nSo none remained in the hill country\nOnly in Gaza Gath and Ashdod\nDid any of them survive\n\n[Outro]\nBut Caleb drove out the three\nSheshai Ahiman and Talmai\nHebron was called Kiriath-arba\nAfter the greatest among them",
+    "cot": "full",
+    "seed": 31302
+  }
+}

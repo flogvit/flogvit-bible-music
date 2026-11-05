@@ -1,0 +1,79 @@
+{
+  "id": "person-akimelek-children",
+  "title": "Bread of the Presence",
+  "kind": "person",
+  "anchor": {
+    "person": "akimelek"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 21,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 9,
+      "chapter": 21,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 9,
+      "chapter": 22,
+      "verseStart": 9,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 9,
+      "chapter": 22,
+      "verseStart": 11,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 9,
+      "chapter": 22,
+      "verseStart": 16,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 40,
+      "chapter": 12,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "nade",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "akimelek",
+      "david",
+      "saul",
+      "doeg",
+      "ebjatar"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice, acoustic guitar, piano, cello, soft drums, warm and solemn, 70 BPM",
+    "lyrics": "[Verse]\nDavid fled to Nob that day\nThe priest met him in fear\nWhy are you alone he asked\nWith no one else near\n\n[Chorus]\nI have no ordinary bread\nOnly holy loaves remain\nSince the LORD took them away\nFresh warm bread takes their place\n\n[Verse]\nGive me five loaves if you have\nOr whatever you can find\nThe men have kept from women\nAs always on my mind\n\n[Chorus]\nI have no ordinary bread\nOnly holy loaves remain\nSince the LORD took them away\nFresh warm bread takes their place\n\n[Bridge]\nDoeg the Edomite stood there\nWatching with Saul’s men\nHe saw the son of Jesse\nAnd knew the priest again\n\n[Outro]\nYou shall surely die Ahimelech\nWith your father’s whole house\nDoeg turned to strike them down\nEighty-five in this course",
+    "cot": "full",
+    "seed": 31300
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "verse-52-5-16-choral",
+  "title": "Rejoice Always",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 52,
+    "chapter": 5,
+    "verseStart": 16,
+    "verseEnd": 18
+  },
+  "references": [
+    {
+      "bookId": 52,
+      "chapter": 5,
+      "verseStart": 16,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "love"
+    ],
+    "themes": [
+      "den-hellige-and",
+      "kjerlighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female soprano solo with harmonizing choir, acoustic guitar, piano, cello, strings, warm and uplifting mood, 85 BPM",
+    "lyrics": "[Verse]\nHold each other in the highest love\nBecause of the work they do\nLive in peace with one another\nAdmonish the idle and few\n\n[Verse]\nComfort the discouraged hearts\nHelp the weak along the way\nBe patient with everyone\nNever repay evil\n\n[Chorus]\nRejoice always in your day\nPray without ceasing now\nGive thanks in all circumstances\nThis is God's will for you\n\n[Verse]\nIn Christ Jesus this is true\nDo not quench the Spirit's fire\nDo not treat prophecies with contempt\nTest everything carefully\n\n[Chorus]\nRejoice always in your day\nPray without ceasing now\nGive thanks in all circumstances\nThis is God's will for you\n\n[Bridge]\nHold on to what is good\nTest all things with care\nLet the Spirit guide your soul\nIn every moment there\n\n[Outro]\nGive thanks in all circumstances\nThis is God's will for you",
+    "cot": "full",
+    "seed": 31297
+  }
+}

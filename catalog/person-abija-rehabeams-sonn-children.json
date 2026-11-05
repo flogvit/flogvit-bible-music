@@ -1,0 +1,78 @@
+{
+  "id": "person-abija-rehabeams-sonn-children",
+  "title": "Covenant of Salt",
+  "kind": "person",
+  "anchor": {
+    "person": "abija-rehabeams-sonn"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 14,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 14,
+      "chapter": 13,
+      "verseStart": 4,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 14,
+      "chapter": 13,
+      "verseStart": 3,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 14,
+      "chapter": 13,
+      "verseStart": 19,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 14,
+      "chapter": 13,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "david",
+      "pakten",
+      "frykt"
+    ],
+    "stories": [],
+    "persons": [
+      "abija-rehabeams-sonn",
+      "salomo",
+      "jeroboam-i",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, young male voice, solo with choir, acoustic guitar, drums, cello, trumpet, majestic and hopeful, 90 BPM",
+    "lyrics": "[Verse]\nIn the eighteenth year, Jeroboam reigned\nAbijah became king over Judah\nThree years he ruled from Jerusalem\nHis mother was Maacah of Gibeah\nWar broke out between the divided lands\nJeroboam rose up in rebellion\n\n[Chorus]\nThe LORD gave kingship to David\nForever, by a covenant of salt\nDo not fight against the God of Israel\nYou cannot succeed in this battle\n\n[Verse]\nAbijah stood on Mount Zemaraim\nIn the hill country of Ephraim\nHe called out to all Israel\nHear me, Jeroboam and the tribes\nYou have golden calves for gods\nYou drove out the priests of Aaron\n\n[Chorus]\nThe LORD gave kingship to David\nForever, by a covenant of salt\nDo not fight against the God of Israel\nYou cannot succeed in this battle\n\n[Verse]\nWe keep the charge of the LORD our God\nBurnt offerings morning and evening\nThe priests serve with trumpets ready\nSound the battle cry against you\nFour hundred thousand chosen men\nAgainst eight hundred mighty warriors\n\n[Bridge]\nJudah cried out to the LORD\nThe priests blew the trumpets loud\nGod struck down Jeroboam\nFive hundred thousand men fell slain\n\n[Chorus]\nThe LORD gave kingship to David\nForever, by a covenant of salt\nDo not fight against the God of Israel\nYou cannot succeed in this battle\n\n[Outro]\nAbijah captured Bethel and Jeshanah\nHe took fourteen wives and twenty-two sons",
+    "cot": "full",
+    "seed": 31299
+  }
+}

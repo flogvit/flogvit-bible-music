@@ -1,0 +1,45 @@
+{
+  "id": "verse-46-10-13-jazz",
+  "title": "A Way Out",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 46,
+    "chapter": 10,
+    "verseStart": 13,
+    "verseEnd": 13
+  },
+  "references": [
+    {
+      "bookId": 46,
+      "chapter": 10,
+      "verseStart": 13,
+      "verseEnd": 13
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female vocal, upright bass, brushed drums, piano, saxophone, gentle and reassuring mood, 80 BPM",
+    "lyrics": "[Verse]\nDo not grumble like they did\nThey were destroyed by the destroyer\nWritten down for us to see\nExamples for the present day\n\n[Chorus]\nNo temptation has overtaken you\nExcept what is common to humanity\nGod is faithful in his word\nHe will not let you be tempted beyond what you can bear\n\n[Verse]\nWhoever thinks he is standing firm\nShould watch out that he does not fall\nWe are on whom the end has come\nBut he provides a way out\n\n[Chorus]\nNo temptation has overtaken you\nExcept what is common to humanity\nGod is faithful in his word\nHe will not let you be tempted beyond what you can bear\n\n[Bridge]\nWith the temptation he provides\nA path so that you can endure\nFlee from idolatry today\nJudge for yourselves what I say\n\n[Chorus]\nNo temptation has overtaken you\nExcept what is common to humanity\nGod is faithful in his word\nHe will not let you be tempted beyond what you can bear\n\n[Outro]\nSo that you can endure it\nHe will not let you be tempted beyond what you can bear",
+    "cot": "full",
+    "seed": 31295
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "verse-45-8-6-pop",
+  "title": "Life and Peace",
+  "kind": "verse",
+  "anchor": {
+    "bookId": 45,
+    "chapter": 8,
+    "verseStart": 6,
+    "verseEnd": 6
+  },
+  "references": [
+    {
+      "bookId": 45,
+      "chapter": 8,
+      "verseStart": 6,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo, warm and uplifting, piano, strings, soft drums, bass, gentle mood, 90 BPM",
+    "lyrics": "[Verse]\nThe law was weak within the flesh\nGod sent his own Son to set us free\nIn the likeness of sinful nature\nHe offered up the sacrifice\nSo the righteous requirement would be met\nIn us who walk by the Spirit now\nNot by the desires of the body\nBut by the breath of the Holy One\n\n[Chorus]\nThe mind set on the Spirit is life and peace\nA gentle hope that no darkness can erase\nThe mind set on the Spirit is life and peace\nA quiet joy for the weary soul to release\n\n[Verse]\nThose who live according to the flesh\nSet their minds on what the body wants\nBut those who live in the Spirit\nSet their minds on what the Spirit brings\nHostile thoughts cannot submit to God\nThey cannot follow his holy law\nThose who stay in the flesh\nCannot please the Lord in any way\n\n[Chorus]\nThe mind set on the Spirit is life and peace\nA gentle hope that no darkness can erase\nThe mind set on the Spirit is life and peace\nA quiet joy for the weary soul to release\n\n[Bridge]\nBut you are not in the flesh today\nThe Spirit of Christ dwells in you\nIf you have not the Spirit of Christ\nYou do not belong to him at all\n\n[Chorus]\nThe mind set on the Spirit is life and peace\nA gentle hope that no darkness can erase\nThe mind set on the Spirit is life and peace\nA quiet joy for the weary soul to release\n\n[Outro]\nThe mind set on the Spirit is life and peace\nResting in the truth of his love",
+    "cot": "full",
+    "seed": 31294
+  }
+}

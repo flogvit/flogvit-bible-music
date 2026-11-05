@@ -1,0 +1,79 @@
+{
+  "id": "person-amalek-children",
+  "title": "Blot Out the Name",
+  "kind": "person",
+  "anchor": {
+    "person": "amalek"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 2,
+      "chapter": 17,
+      "verseStart": 8,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 2,
+      "chapter": 17,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 5,
+      "chapter": 25,
+      "verseStart": 17,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 9,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "amalek",
+      "esau",
+      "jakob-israel",
+      "moses",
+      "josva"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright female solo voice, acoustic guitar, piano, hand percussion, celesta, warm, 110 BPM",
+    "lyrics": "[Verse]\nTimna bore a son to Eliphaz\nIn the land of Edom he became chief\nDescended from Esau and Adah\nAmalek rose in the desert wild\nA tribal leader of the old line\nRooted in the history of the soil\n\n[Chorus]\nBlot out the memory from under heaven\nThe LORD declared a war for ages\nRemember what was done along the way\nTheir name shall fade in God’s judgment\n\n[Verse]\nAt Rephidim they attacked from behind\nStriking the weary and the worn out\nMoses stood on the hill with the staff\nJoshua fought with the edge of the sword\nAaron and Hur held his hands up\nUntil the sunset brought the victory\n\n[Chorus]\nBlot out the memory from under heaven\nThe LORD declared a war for ages\nRemember what was done along the way\nTheir name shall fade in God’s judgment\n\n[Verse]\nSamuel spoke to Saul the king\nStrike them down and spare nothing at all\nMan and woman and child and beast\nBut Saul kept Agag and the best\nHe turned away from the command\nAnd the LORD regretted making him king\n\n[Chorus]\nBlot out the memory from under heaven\nThe LORD declared a war for ages\nRemember what was done along the way\nTheir name shall fade in God’s judgment\n\n[Outro]\nDo not forget this ancient warning\nThe hand upon the throne of God\nAmalek’s line is judged in history\nThe banner stands for the faithful",
+    "cot": "full",
+    "seed": 31301
+  }
+}

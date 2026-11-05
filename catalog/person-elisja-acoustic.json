@@ -1,0 +1,80 @@
+{
+  "id": "person-elisja-acoustic",
+  "title": "Double Portion",
+  "kind": "person",
+  "anchor": {
+    "person": "elisja"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 19,
+      "verseStart": 19,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 12,
+      "chapter": 2,
+      "verseStart": 9,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 12,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 12,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 12,
+      "chapter": 4,
+      "verseStart": 32,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 12,
+      "chapter": 6,
+      "verseStart": 13,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "elisja",
+      "elia",
+      "naaman",
+      "gehasi",
+      "joram-juda"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male acoustic voice, solo, warm and storytelling tone, acoustic guitar, cello, piano, soft drums, mood hopeful and reverent, 85 BPM",
+    "lyrics": "[Verse]\nElijah found him plowing deep\nTwelve yoke of oxen by his feet\nHe threw his cloak across the boy\nElisha left the team to go\nHe killed the oxen and ate with all\nThen followed on to serve them all\n\n[Chorus]\nA double portion of the spirit\nGiven to the prophet's heir\nThe chariot of fire rose above\nAnd he received the power\nto cross\n\n[Verse]\nNaaman came with silver and gold\nA mighty man with leprosy told\nWash seven times in the Jordan stream\nHis flesh returned like a young boy's dream\nThe widow's jar of oil was full\nShe sold the oil to keep them whole\n\n[Chorus]\nA double portion of the spirit\nGiven to the prophet's heir\nThe chariot of fire rose above\nAnd he received the power\nto cross\n\n[Verse]\nThe Shunammite's son lay on the bed\nElisha prayed inside the shed\nHe lay on him and breathed his life\nThe boy sneezed seven times and opened eyes\nThe Syrian army was struck with blind\nLed to Samaria for a feast of kind\n\n[Chorus]\nA double portion of the spirit\nGiven to the prophet's heir\nThe chariot of fire rose above\nAnd he received the power\nto cross\n\n[Outro]\nWhere is the God of Elijah\nThe waters divide to the right and left",
+    "cot": "full",
+    "seed": 31313
+  }
+}

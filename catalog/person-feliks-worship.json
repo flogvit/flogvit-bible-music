@@ -1,0 +1,79 @@
+{
+  "id": "person-feliks-worship",
+  "title": "Faith in Christ Jesus",
+  "kind": "person",
+  "anchor": {
+    "person": "feliks"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 23,
+      "verseStart": 23,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 44,
+      "chapter": 24,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 44,
+      "chapter": 24,
+      "verseStart": 10,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 44,
+      "chapter": 24,
+      "verseStart": 22,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 44,
+      "chapter": 24,
+      "verseStart": 24,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 44,
+      "chapter": 24,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "paulus",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "feliks",
+      "paulus",
+      "drusilla",
+      "festus",
+      "ananias-oversteprest"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with soft choir, acoustic guitar, piano, cello, strings, reverent and tense, 75 BPM",
+    "lyrics": "[Verse]\nTwo hundred soldiers march to Caesarea\nLysias writes the letter with care\nBrought safely to Felix the governor\nHe asks what province Paul endures\n\n[Chorus]\nFaith in Christ Jesus he speaks\nRighteousness and self control\nJudgment to come makes Felix afraid\nThat is enough for now he says\n\n[Verse]\nFive days later Ananias comes\nTertullus lays the charges down\nPaul defends himself with cheer\nI worship God according to the Way\n\n[Chorus]\nFaith in Christ Jesus he speaks\nRighteousness and self control\nJudgment to come makes Felix afraid\nThat is enough for now he says\n\n[Verse]\nFelix was informed about the Way\nHe adjourned the hearing that day\nWait for Lysias to come down\nThen I will decide your case\n\n[Chorus]\nFaith in Christ Jesus he speaks\nRighteousness and self control\nJudgment to come makes Felix afraid\nThat is enough for now he says\n\n[Bridge]\nDays later Felix and Drusilla\nCame to hear what Paul would say\nHe listened to the faith in Christ\nAnd grew afraid in that place\n\n[Outro]\nHoping for money he sent for him\nLeft Paul in prison two years more",
+    "cot": "full",
+    "seed": 31314
+  }
+}

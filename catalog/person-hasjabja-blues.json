@@ -1,0 +1,72 @@
+{
+  "id": "person-hasjabja-blues",
+  "title": "Watch Answering Watch",
+  "kind": "person",
+  "anchor": {
+    "person": "hasjabja"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 16,
+      "chapter": 11,
+      "verseStart": 15,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 24,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "hasjabja",
+      "esra",
+      "nehemja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with choir, acoustic guitar, upright bass, piano, brushed drums, mournful and steady, 80 BPM",
+    "lyrics": "[Verse]\nAt the Ahava canal we stood\nTwelve leaders set apart by hand\nSilver and gold in our care\nFor the house of the living God\nWe carried the vessels of praise\nTo restore the broken altar\n\n[Chorus]\nWatch answering watch we stay\nPraise and thanks in day and night\nFollowing David the man of God\nKeeping the covenant tight\nHashabiah leads the song\nIn the rhythm of the Lord\n\n[Verse]\nBeside Rehum we made repairs\nRuler of half the district\nBuilding the wall stone by stone\nIn the service of His spirit\nWe sealed the covenant with God\nUnder Nehemiah's care\nOur names are written in the dust\nBound to the holy air\n\n[Chorus]\nWatch answering watch we stay\nPraise and thanks in day and night\nFollowing David the man of God\nKeeping the covenant tight\nHashabiah leads the song\nIn the rhythm of the Lord\n\n[Bridge]\nIn the days of Joiakim\nAnd the priest and scribe Ezra\nWe kept the gates and the store\nWith no pause in our labor\nServing in the work of God\nFrom the morning to the eve\n\n[Outro]\nWatch answering watch we stay\nIn the house of the Lord",
+    "cot": "full",
+    "seed": 31315
+  }
+}

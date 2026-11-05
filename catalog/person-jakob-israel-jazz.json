@@ -1,0 +1,82 @@
+{
+  "id": "person-jakob-israel-jazz",
+  "title": "The Gate of Heaven",
+  "kind": "person",
+  "anchor": {
+    "person": "jakob-israel"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 29,
+      "verseEnd": 34
+    },
+    {
+      "bookId": 1,
+      "chapter": 27,
+      "verseStart": 18,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 1,
+      "chapter": 28,
+      "verseStart": 12,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 1,
+      "chapter": 32,
+      "verseStart": 24,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 1,
+      "chapter": 33,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 1,
+      "chapter": 49,
+      "verseStart": 1,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "tro",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "jakob-israel",
+      "isak",
+      "rebekka",
+      "esau",
+      "rakel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, solo female contralto voice, upright bass, piano, brushed drums, double bass, moody and reflective, 85 BPM",
+    "lyrics": "[Verse]\nOne day Jacob was cooking stew\nEsau came in exhausted from the field\nQuick let me gulp down that red stuff\nSo he was called Edom in the heat\nSell me your birthright Jacob said\nLook I am about to die he replied\nSwear it to me here and now\nSo he sold his birthright away\n\n[Chorus]\nThis is nothing less than the house of God\nThis is the gate of heaven open wide\nAngels go up and down on the stair\nThe Lord stands above in the night\n\n[Verse]\nI am Esau your firstborn he lied\nThe voice is Jacob but hands are Esau\nBring me wine and eat my son\nMay God give you dew of heaven\nAbundance of grain and new wine\nPeoples will serve you nations bow\nCursed be those who curse you\nBlessed be those who bless you now\n\n[Chorus]\nThis is nothing less than the house of God\nThis is the gate of heaven open wide\nAngels go up and down on the stair\nThe Lord stands above in the night\n\n[Verse]\nJacob woke up and said surely\nThe Lord is in this place I did not know\nHow awesome is this holy ground\nThis is the gate of heaven\nI will not let you go unless\nYou bless me before the daybreak comes\nWhat is your name the man asked\nJacob answered and the name changed\n\n[Chorus]\nThis is nothing less than the house of God\nThis is the gate of heaven open wide\nAngels go up and down on the stair\nThe Lord stands above in the night\n\n[Outro]\nGather around and listen sons\nI will tell you what will come\nIsrael your father speaks\nIn the days to come",
+    "cot": "full",
+    "seed": 31317
+  }
+}

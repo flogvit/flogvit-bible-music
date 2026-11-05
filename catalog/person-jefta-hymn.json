@@ -1,0 +1,77 @@
+{
+  "id": "person-jefta-hymn",
+  "title": "The Vow at Mizpah",
+  "kind": "person",
+  "anchor": {
+    "person": "jefta"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 4,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 12,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 30,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 32,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 34,
+      "verseEnd": 40
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jefta",
+      "gideon",
+      "samson",
+      "ammon-lots-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo with gentle choir support, acoustic guitar, cello, flute, soft percussion, somber and reflective mood, 72 BPM",
+    "lyrics": "[Verse]\nJephthah the Gileadite was a mighty warrior\nBut the son of a prostitute in that land\nHis brothers drove him out of the father's house\nSaying you are the son of another woman\n\n[Verse]\nHe fled to the land of Tob among outcasts\nWhere worthless men gathered around him\nWhen Ammon made war upon Israel\nThe elders of Gilead sought him out\n\n[Verse]\nThey said come be our commander in battle\nAnd Jephthah asked why now in trouble\nIf the Lord gives the enemy into my hand\nThen I shall be your head in Gilead\n\n[Verse]\nHe sent messengers to the king of Ammon\nArguing for the land of Israel\nBut the king paid no heed to the message\nSo Jephthah made a vow to the Lord\n\n[Verse]\nIf you give the Ammonites into my hand\nWhoever comes out shall belong to God\nHe struck down twenty towns in the valley\nA crushing blow that subdued the enemy\n\n[Verse]\nWhen he came home to Mizpah in triumph\nHis daughter met him with tambourines and dance\nShe was his only child in this world\nAnd he tore his clothes in deep sorrow\n\n[Verse]\nOh my daughter you have brought me to my knees\nI have opened my mouth to the Lord\nShe said do to me as you have vowed\nGrant me two months to weep on the hills\n\n[Outro]\nAnd so it became a custom in Israel",
+    "cot": "full",
+    "seed": 31318
+  }
+}

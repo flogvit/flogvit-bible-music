@@ -1,0 +1,82 @@
+{
+  "id": "person-jitran-folk",
+  "title": "The Priest of Midian",
+  "kind": "person",
+  "anchor": {
+    "person": "jitran"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 15,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 2,
+      "chapter": 4,
+      "verseStart": 18,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 2,
+      "chapter": 18,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 2,
+      "chapter": 18,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 2,
+      "chapter": 18,
+      "verseStart": 13,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 2,
+      "chapter": 18,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "nade",
+      "tro",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "jitran",
+      "moses",
+      "sippora",
+      "gersjon",
+      "elieser-moses-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male folk voice, solo with warm acoustic guitar, soft hand percussion, gentle cello, flute, mellow mood, 90 BPM",
+    "lyrics": "[Verse]\nHe sat by the well in the land of Midian\nSeven daughters came to fill the troughs\nShepherds drove them away in the heat\nMoses rose up to water their flock\nReuel asked why they returned so soon\nAn Egyptian had rescued their day\nInvite him to eat, said the father\nZipporah became his wife that way\n\n[Chorus]\nBlessed be the LORD who rescued you\nFrom the hand of Pharaoh and Egypt\nNow I know the LORD is greater\nThan all gods who rule the earth\n\n[Verse]\nGo in peace, Jethro said to Moses\nReturn to your relatives in Egypt\nBut he came back to the mountain of God\nWith Zipporah and their two sons\nGershom, a stranger in a foreign land\nEliezer, the God of his father\nJethro rejoiced over the good of God\nHe saw the rescue from the Egyptians\n\n[Chorus]\nBlessed be the LORD who rescued you\nFrom the hand of Pharaoh and Egypt\nNow I know the LORD is greater\nThan all gods who rule the earth\n\n[Bridge]\nYou judge the people from morning till evening\nThis task is too heavy for you alone\nLook out for capable men who fear God\nTrustworthy men who hate a bribe\nAppoint them over thousands and hundreds\nFifties and tens to judge the people\nLighten your load and let them carry it\nAnd all these people will go home in peace\n\n[Chorus]\nBlessed be the LORD who rescued you\nFrom the hand of Pharaoh and Egypt\nNow I know the LORD is greater\nThan all gods who rule the earth\n\n[Outro]\nMoses listened and did everything he said\nThen he sent his father-in-law home",
+    "cot": "full",
+    "seed": 31320
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "person-jishar-choral",
+  "title": "Izhar's Line",
+  "kind": "person",
+  "anchor": {
+    "person": "jishar"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 4,
+      "chapter": 3,
+      "verseStart": 19,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 13,
+      "chapter": 26,
+      "verseStart": 23,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 4,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 2,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "jishar",
+      "levi-leas-sonn",
+      "moses",
+      "aron",
+      "korah-levitt"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo voice with choir, harp, organ, cello, drums, solemn, 70 BPM",
+    "lyrics": "[Verse]\nThe sons of Kohath are named in truth\nAmram and Izhar stand together\nHebron and Uzziel follow suit\nOne hundred thirty three years lived here\n\n[Verse]\nThe sons of Izhar are counted clear\nKorah and Nepheg and Zichri too\nDescendants serving the tabernacle\nTheir duties fixed for Levitical view\n\n[Verse]\nIn David's time the Izharites stood\nAs officials and judges over Israel\nIn charge of treasuries and gifts\nDedicated for the house of God\n\n[Verse]\nKorah rose up against Moses there\nWith Dathan and Abiram from Reuben\nTwo hundred and fifty men opposed\nChallenging the holy Levite men\n\n[Verse]\nTake censers and lay incense on fire\nPresent it before the LORD tomorrow\nThe man he chooses will be holy\nThe Levites have gone too far\n\n[Outro]\nThe earth opened and swallowed them down",
+    "cot": "full",
+    "seed": 31319
+  }
+}

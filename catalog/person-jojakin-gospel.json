@@ -1,0 +1,82 @@
+{
+  "id": "person-jojakin-gospel",
+  "title": "Release in Babylon",
+  "kind": "person",
+  "anchor": {
+    "person": "jojakin"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 24,
+      "verseStart": 8,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 12,
+      "chapter": 24,
+      "verseStart": 10,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 12,
+      "chapter": 24,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 24,
+      "chapter": 22,
+      "verseStart": 24,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 27,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 11,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "jojakin",
+      "nebukadnesar",
+      "sidkia-josias-sonn",
+      "josia",
+      "evil-merodak"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soulful male solo voice with gospel choir, piano, organ, drums, bass, strings, hopeful yet solemn mood, 75 BPM",
+    "lyrics": "[Verse]\nEighteen years old when he sat the throne\nReigned in Jerusalem for just three months\nHis mother Nehushta from the city gates\nHe did evil in the Lord's own sight\n\n[Verse]\nNebuchadnezzar marched against the city wall\nOfficers laid siege to hold the land tight\nThe king of Babylon came to press the siege\nJehoiachin surrendered with his mother there\n\n[Chorus]\nTaken to Babylon with the gold\nTen thousand captives left the city old\nTreasures stripped from Solomon's house of God\nRecorded as childless by the word of God\n\n[Verse]\nThirty-seven years in prison dark\nEvil-merodach spoke to him with care\nA seat of honor among kings in Babylon\nHe ate at the king's table each day\n\n[Chorus]\nTaken to Babylon with the gold\nTen thousand captives left the city old\nTreasures stripped from Solomon's house of God\nRecorded as childless by the word of God\n\n[Bridge]\nYet in Matthew's genealogy he appears\nJechoniah father of Shealtiel there\nA line of descendants through the exile long\nGod's covenant holds firm and endures strong\n\n[Chorus]\nTaken to Babylon with the gold\nTen thousand captives left the city old\nTreasures stripped from Solomon's house of God\nRecorded as childless by the word of God\n\n[Outro]\nFrom prison cell to the royal table\nFaithfulness remains in the valley",
+    "cot": "full",
+    "seed": 31321
+  }
+}

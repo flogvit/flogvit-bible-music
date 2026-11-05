@@ -1,0 +1,79 @@
+{
+  "id": "person-immer-pop",
+  "title": "Terror on Every Side",
+  "kind": "person",
+  "anchor": {
+    "person": "immer"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 24,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 37,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 24,
+      "chapter": 20,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": [
+      "immer",
+      "pashur-prest",
+      "esra",
+      "nehemja",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and resonant, acoustic guitar, piano, strings, soft percussion, solemn and reflective, 80 BPM",
+    "lyrics": "[Verse]\nDavid sorted the priests in order\nThe sixteenth line was given to Immer\nIn the temple they kept the watch\nServing the God of the house\n\n[Chorus]\nPashhur son of the priest\nHeard the prophet speak the words\nBeaten and bound in the stocks\nAt the Upper Benjamin Gate\n\n[Verse]\nExile ended and they came home\nA thousand and fifty-two returned\nThe sons of Immer walked back\nTo the city of the Lord\n\n[Chorus]\nPashhur son of the priest\nHeard the prophet speak the words\nBeaten and bound in the stocks\nAt the Upper Benjamin Gate\n\n[Bridge]\nMorning light broke the silence\nJeremiah spoke his truth\nThe name meant terror he said\nOn every single side\n\n[Outro]\nThe line endured through the years\nFaithful to the temple ground",
+    "cot": "full",
+    "seed": 31316
+  }
+}

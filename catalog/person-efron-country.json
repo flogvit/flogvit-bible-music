@@ -1,0 +1,80 @@
+{
+  "id": "person-efron-country",
+  "title": "Four Hundred Shekels",
+  "kind": "person",
+  "anchor": {
+    "person": "efron"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verseStart": 10,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verseStart": 17,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 1,
+      "chapter": 49,
+      "verseStart": 29,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "pakten",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "efron",
+      "abraham",
+      "sara"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male narrative voice, solo acoustic guitar, soft fiddle, warm piano, gentle percussion, mournful yet dignified mood, 80 BPM",
+    "lyrics": "[Verse]\nSarah died in Hebron land\nA hundred twenty-seven years she stayed\nAbrose up to speak the word\nA stranger in the foreign world\n\n[Verse]\nI am a sojourner among you\nGive me a burial site to view\nThe Hittites spoke with gentle voice\nYou are a prince before God's choice\n\n[Chorus]\nEphron sat in the city gate\nSaid I give you field and cave\nNo, my lord, hear me please\nI will pay the price with ease\n\n[Verse]\nAbraham bowed before the crowd\nAnd told them all what they should\nPlead with Ephron son of Zohar\nTo sell the cave and open door\n\n[Chorus]\nEphron sat in the city gate\nSaid I give you field and cave\nNo, my lord, hear me please\nI will pay the price with ease\n\n[Bridge]\nFour hundred shekels silver weighed\nIn the hearing of the people\nAbraham agreed to terms\nAnd bought the land with his arms\n\n[Verse]\nThe field of Machpelah passed\nInto the hand of the father\nAll trees within the border\nNow belong to him forever\n\n[Chorus]\nEphron sat in the city gate\nSaid I give you field and cave\nNo, my lord, hear me please\nI will pay the price with ease\n\n[Outro]\nBuried Sarah in the cave\nIn the land of Canaan",
+    "cot": "full",
+    "seed": 31312
+  }
+}

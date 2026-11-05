@@ -219,6 +219,12 @@ launchctl enable gui/$(id -u)/com.flogvit.music-generate && launchctl bootstrap 
 Started from a terminal or
 an agent session instead, `run` dies with that terminal or session.
 
+The agent runs at low priority, so other work on the Mac always gets it first: `Nice` 15 and `ProcessType`
+`Background` in its plist, which every process it starts inherits (YuE2 under `taskpolicy -b`, Whisper, ffmpeg,
+the sheets). The judge and the catalog writer run inside Ollama's own process and keep Ollama's priority. Set
+`MUSIC_AGENT_NICE` or `MUSIC_PROCESS_TYPE=Standard` when installing to change it; leave `MUSIC_NICE` unset with the
+default, since `nice -n` adds to the agent's 15. The pictures agent (`install-pictures.sh`) runs the same way.
+
 ### Lyrics check
 
 YuE sometimes sings a line twice where the lyrics ask for two different lines, drops or merges a line, or

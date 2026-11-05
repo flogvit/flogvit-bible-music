@@ -10,6 +10,9 @@
 # pushes the sheets to main and follows main's code (README, Generate). Logs go to
 # ~/Library/Logs/music-generate.log. --uninstall stops it, and the song it was making is given back at once.
 set -eu
+# It runs at low priority, so other work on the Mac always comes first: nice 15 and launchd's Background process
+# type, which every process it starts inherits (YuE, Whisper, ffmpeg). MUSIC_AGENT_NICE and MUSIC_PROCESS_TYPE
+# (Standard, Background) change that; README, Generate, has the measurements.
 label=com.flogvit.music-generate
 plist=$HOME/Library/LaunchAgents/$label.plist
 domain=gui/$(id -u)
@@ -48,6 +51,8 @@ cat > $plist <<EOF
     <key>MUSIC_MACHINE</key><string>$MUSIC_MACHINE</string>$extra
     <key>PATH</key><string>${bun:h}:${python:h}:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
   </dict>
+  <key>Nice</key><integer>${MUSIC_AGENT_NICE:-15}</integer>
+  <key>ProcessType</key><string>${MUSIC_PROCESS_TYPE:-Background}</string>
   <key>RunAtLoad</key><true/>
   <key>KeepAlive</key><true/>
   <key>ThrottleInterval</key><integer>60</integer>

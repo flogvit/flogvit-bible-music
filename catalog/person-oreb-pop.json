@@ -1,0 +1,80 @@
+{
+  "id": "person-oreb-pop",
+  "title": "Rock of Oreb",
+  "kind": "person",
+  "anchor": {
+    "person": "oreb"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 7,
+      "chapter": 7,
+      "verseStart": 19,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 7,
+      "chapter": 7,
+      "verseStart": 24,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 19,
+      "chapter": 83,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 23,
+      "chapter": 10,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 23,
+      "chapter": 9,
+      "verseStart": 4,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "oreb",
+      "gideon",
+      "seeb"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with backing choir, acoustic guitar, drums, cello, electric guitar, uplifting pop anthem, 120 BPM",
+    "lyrics": "[Verse]\nIsrael did evil in the sight of the Lord\nHanded over to Midian for seven long years\nThey hid in caves and strongholds in the mountains\nCrops destroyed and livestock taken away\n\n[Pre-Chorus]\nCrying out to the Lord in their distress\nGideon heard the call to fight\n\n[Chorus]\nA sword for the Lord and for Gideon\nThree hundred men with trumpets sounding\nSmashing the jars and lighting the torches\nThe army fled in panic and fear\n\n[Verse]\nMessengers sent to the hill country of Ephraim\nSeize the waters ahead of the enemy\nCapture the two commanders Oreb and Zeeb\nKilled at the rock that bears his name\n\n[Chorus]\nA sword for the Lord and for Gideon\nThree hundred men with trumpets sounding\nSmashing the jars and lighting the torches\nThe army fled in panic and fear\n\n[Bridge]\nMake their nobles like Oreb and Zeeb\nA reminder of God’s mighty judgment\nAs he struck Midian at the rock of Oreb\nDeliverance for the people of the Lord\n\n[Outro]\nFuel for the fire of their destruction\nThe Lord of hosts raises his whip",
+    "cot": "full",
+    "seed": 31332
+  }
+}

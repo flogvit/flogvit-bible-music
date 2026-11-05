@@ -1,0 +1,76 @@
+{
+  "id": "person-jokebed-worship",
+  "title": "Faithful Mother of Levi",
+  "kind": "person",
+  "anchor": {
+    "person": "jokebed"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 59,
+      "verseEnd": 59
+    },
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 5,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jokebed",
+      "amram",
+      "moses",
+      "aron",
+      "miriam"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice, warm and narrative, piano, cello, soft drums, strings, ambient pad, reverent and hopeful mood, 72 BPM",
+    "lyrics": "[Verse]\nA daughter of Levi in Egypt lived\nAmram married her, the covenant kept\nShe bore Aaron and Miriam too\nMoses came when the decree stood\nThe king commanded to kill the boys\nBut she saw the beauty of the child's face\n\n[Pre-Chorus]\nShe hid him for three full months\nNot afraid of the king's heavy command\nFaith stood strong in the land\nWhen she could hide him no longer\n\n[Chorus]\nShe made a basket of papyrus\nCoated with tar and pitch\nLaid the child in it gently\nSet it among the reeds on the Nile\n\n[Verse]\nHis sister stood at a distance\nWatching to see what would be\nPharaoh's daughter came to the river\nTo bathe by the water's edge\nShe saw the basket in the reeds\nSent her slave girl to fetch it\n\n[Chorus]\nShe made a basket of papyrus\nCoated with tar and pitch\nLaid the child in it gently\nSet it among the reeds on the Nile\n\n[Bridge]\nShe opened it and saw the boy\nCrying, a baby boy\nShe felt sorry for him\nSaid this is one of the Hebrew children\n\n[Verse]\nHis sister asked to find a nurse\nA Hebrew woman to help\nPharaoh's daughter agreed and said\nGo, find her and bring her here\nJochebed came and took the child\nNursed him for wages paid\n\n[Chorus]\nShe made a basket of papyrus\nCoated with tar and pitch\nLaid the child in it gently\nSet it among the reeds on the Nile\n\n[Outro]\nBy faith his parents hid him\nNot afraid of the king's edict\nA faithful mother of Levi\nSaw the beauty of God's plan",
+    "cot": "full",
+    "seed": 31330
+  }
+}

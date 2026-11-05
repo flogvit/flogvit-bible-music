@@ -1,0 +1,75 @@
+{
+  "id": "person-sisera-orchestral",
+  "title": "The Peg Through His Temple",
+  "kind": "person",
+  "anchor": {
+    "person": "sisera"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 2,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 15,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 17,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 24,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sisera",
+      "debora",
+      "barak",
+      "jael",
+      "jabin"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn female solo voice with low choir, harp, oboe, cello, timpani, tragic orchestral, 80 BPM",
+    "lyrics": "[Verse]\nNine hundred iron chariots rolled\nCruel oppression lasted twenty years\nIsrael cried out to the Lord\nJabin reigned in Hazor with fear\nSisera commanded the army\nHarosheth-hagoyim was his home\n\n[Chorus]\nHe asked for water she gave him milk\nIn a bowl fit for a prince\nHer hand reached for the tent peg\nHer right hand for the hammer\nShe struck Sisera crushed his head\nShattered and pierced his temple\n\n[Verse]\nBarak went up Mount Tabor\nSisera summoned his troops\nFrom Kishon River to the battle\nThe Lord routed his forces\nSisera fled on foot\nLeft his chariot behind in dust\n\n[Chorus]\nHe asked for water she gave him milk\nIn a bowl fit for a prince\nHer hand reached for the tent peg\nHer right hand for the hammer\nShe struck Sisera crushed his head\nShattered and pierced his temple\n\n[Bridge]\nJael covered him with a blanket\nHe lay fast asleep and exhausted\nShe drove the peg into the ground\nSo he died in the tent\nBarak came and found him there\nDead with the peg through his head\n\n[Outro]\nMost blessed of women be Jael\nMost blessed of women in tents\nSisera's mother looked out the window\nWailing for the spoil and the cloth",
+    "cot": "full",
+    "seed": 31338
+  }
+}

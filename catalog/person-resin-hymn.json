@@ -1,0 +1,82 @@
+{
+  "id": "person-resin-hymn",
+  "title": "Two Smoldering Stubs",
+  "kind": "person",
+  "anchor": {
+    "person": "resin"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 16,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 23,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 23,
+      "chapter": 7,
+      "verseStart": 3,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 23,
+      "chapter": 7,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 12,
+      "chapter": 16,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 12,
+      "chapter": 16,
+      "verseStart": 7,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "resin",
+      "pekah",
+      "ahas",
+      "jesaja",
+      "pul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone, solo with choir, organ, flute, harp, cello, somber, 80 BPM",
+    "lyrics": "[Verse]\nIn days of Ahaz son of Jotham,\nRezin and Pekah marched to war,\nAgainst Jerusalem they came to fight,\nYet they could not prevail then.\n\n[Verse]\nWhen word came to the house of David,\nThe heart of the king shook in fear,\nLike trees of the forest before the wind,\nThe people trembled with dread then.\n\n[Verse]\nGo out to meet Ahaz at the pool,\nAt the end of the Upper Pool,\nOn the road to the Launderer's Field,\nBe careful and keep calm now.\n\n[Verse]\nDo not lose heart over two stubs,\nOf firewood that smolder and burn,\nThe fierce anger of Aram and Ephraim,\nWill not succeed in their plan.\n\n[Verse]\nThey plotted to tear Judah apart,\nAnd set the son of Tabeel,\nBut the Lord GOD says it will not happen,\nIt will not take place then.\n\n[Outro]\nIf you do not stand firm in faith",
+    "cot": "full",
+    "seed": 31334
+  }
+}

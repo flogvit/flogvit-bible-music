@@ -1,0 +1,81 @@
+{
+  "id": "person-sisa-gospel",
+  "title": "The Tent Peg and the Sword",
+  "kind": "person",
+  "anchor": {
+    "person": "sisa"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 2,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 7,
+      "chapter": 4,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 7,
+      "chapter": 5,
+      "verseStart": 24,
+      "verseEnd": 28
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "frelsen",
+      "guds-trofasthet",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "sisa",
+      "jabin",
+      "debora",
+      "barak",
+      "jael"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice with gospel choir, acoustic guitar, piano, strings, timpani, solemn and powerful mood, 80 BPM",
+    "lyrics": "[Verse]\nIsrael cried out to the Lord in distress\nOppressed for twenty years by iron chariots\nSisera commanded the army of Jabin\nCruelty ruled from Hazor to the plain\n\n[Pre-Chorus]\nDeborah called Barak to Mount Tabor\nTen thousand men from Zebulun and Naphtali\nThe Lord would draw Sisera to Kishon\nAnd give the enemy into their hand\n\n[Chorus]\nSisera fled on foot in the night\nTo the tent of Jael the Kenite\nShe said turn aside and do not fear\nAnd covered him with a blanket\n\n[Verse]\nHe asked for water but got milk\nIn a bowl fit for a prince\nBut her hand reached for the tent peg\nAnd her right hand for the hammer\n\n[Chorus]\nSisera fled on foot in the night\nTo the tent of Jael the Kenite\nShe said turn aside and do not fear\nAnd covered him with a blanket\n\n[Bridge]\nShe struck Sisera and crushed his head\nShattered and pierced his temple\nAt her feet he sank and fell\nAnd there he lay dead\n\n[Chorus]\nSisera fled on foot in the night\nTo the tent of Jael the Kenite\nShe said turn aside and do not fear\nAnd covered him with a blanket\n\n[Outro]\nHis mother looked through the window\nWailing why the chariot is late",
+    "cot": "full",
+    "seed": 31337
+  }
+}

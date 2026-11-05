@@ -1,0 +1,76 @@
+{
+  "id": "person-sidkia-josias-sonn-folk",
+  "title": "The Broken Oath",
+  "kind": "person",
+  "anchor": {
+    "person": "sidkia-josias-sonn"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 24,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 14,
+      "chapter": 36,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 24,
+      "chapter": 38,
+      "verseStart": 14,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 26,
+      "chapter": 17,
+      "verseStart": 15,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 4,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 24,
+      "chapter": 52,
+      "verseStart": 10,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sidkia-josias-sonn",
+      "jeremia",
+      "nebukadnesar",
+      "jojakin",
+      "gedalja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, upright bass, mournful violin, soft percussion, solemn and tragic mood, 72 BPM",
+    "lyrics": "[Verse]\nA twenty-one year old sat on the throne\nIn Jerusalem, his mother was Hamutal\nHe reigned for eleven years in that place\nBut he did what was evil in the Lord's sight\nHe did not humble himself before Jeremiah\nWho spoke from the mouth of the Lord\n\n[Chorus]\nHe rebelled against King Nebuchadnezzar\nWho had made him swear an oath by God\nHe stiffened his neck and hardened his heart\nAgainst turning back to the Lord God of Israel\n\n[Verse]\nZedekiah sent for the prophet in secret\nAsked him to hide nothing from his eyes\nBut Jeremiah said if I tell you\nYou will surely put me to death\nThe king swore in private as the Lord lives\nWho gave us breath, I will not kill you\n\n[Chorus]\nHe rebelled against King Nebuchadnezzar\nWho had made him swear an oath by God\nHe stiffened his neck and hardened his heart\nAgainst turning back to the Lord God of Israel\n\n[Verse]\nIf you surrender to the officers of Babylon\nYour life will be spared and this city will stand\nBut if you do not surrender to them\nThis city will be burned down by the Chaldeans\nYou yourself will not escape from their hands\nHe sent envoys to Egypt for horses\nBroke the covenant and gave his hand in pledge\n\n[Chorus]\nHe rebelled against King Nebuchadnezzar\nWho had made him swear an oath by God\nHe stiffened his neck and hardened his heart\nAgainst turning back to the Lord God of Israel\n\n[Outro]\nThe Chaldeans pursued him in the plains of Jericho\nThey captured the king and brought him to Riblah\nThey slaughtered his sons before his eyes\nPut out his eyes and bound him in bronze shackles\nHe kept him in prison until the day of his death",
+    "cot": "full",
+    "seed": 31336
+  }
+}

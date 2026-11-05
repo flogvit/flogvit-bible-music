@@ -1,0 +1,83 @@
+{
+  "id": "person-reuel-choral",
+  "title": "Father-in-Law of Midian",
+  "kind": "person",
+  "anchor": {
+    "person": "reuel"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 15,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 2,
+      "chapter": 2,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 2,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 2,
+      "chapter": 18,
+      "verseStart": 1,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 2,
+      "chapter": 18,
+      "verseStart": 13,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 4,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "reuel",
+      "moses",
+      "sippora",
+      "gersjon",
+      "elieser-moses-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo with soft choir, acoustic guitar, flute, cello, harp, warm and reflective, 80 BPM",
+    "lyrics": "[Verse]\nMoses fled from Pharaoh's hand\nTo Midian where the flocks are kept\nHe sat beside the well and saw\nSeven daughters drawing water up\n\n[Verse]\nReuel the priest of Midian\nAsked why they came so early today\nAn Egyptian rescued them he said\nAnd watered their flock that day\n\n[Verse]\nMoses agreed to stay with him\nWho gave his daughter Zipporah\nShe bore a son named Gershom\nIn a foreign land far away\n\n[Verse]\nJethro heard of God's great work\nOf Israel led out of Egypt\nHe came to Moses in the wild\nWith Zipporah and their sons\n\n[Verse]\nBlessed be the Lord he cried\nWho rescued them from Pharaoh's sword\nNow I know the Lord is greater\nThan all the gods of the world\n\n[Verse]\nMoses judged the people all day\nFrom morning light to evening dark\nHis father-in-law said to him\nYou will wear yourself out in this task\n\n[Verse]\nLook for men who fear the Lord\nTrustworthy men who hate a bribe\nAppoint them over thousands and hundreds\nTo judge the people in their right\n\n[Verse]\nMoses listened to his counsel\nAnd chose capable men from Israel\nThey judged the cases every day\nAnd went home in peace and silence\n\n[Outro]\nBlessed be the Lord our God",
+    "cot": "full",
+    "seed": 31335
+  }
+}

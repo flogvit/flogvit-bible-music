@@ -1,0 +1,79 @@
+{
+  "id": "person-parosj-jazz",
+  "title": "The Sons of Parosh",
+  "kind": "person",
+  "anchor": {
+    "person": "parosj"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 25,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 8,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 25,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "parosj",
+      "serubabel",
+      "esra",
+      "nehemja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smooth female jazz vocal, upright bass, brushed drums, piano, muted trumpet, warm and nostalgic mood, 85 BPM",
+    "lyrics": "[Verse]\nFrom Babylon the dust has cleared\nThe list of names is finally near\nTwo thousand one hundred seventy-two\nThe sons of Parosh start anew\n\n[Chorus]\nWe came back with Zerubbabel\nTo build the temple, to stand\nThe genealogy is written clear\nIn the shadow of the land\n\n[Verse]\nZechariah leads the group\nOne hundred fifty men to prove\nThe lineage held through time and tide\nWith Ezra we have arrived\n\n[Chorus]\nWe came back with Zerubbabel\nTo build the temple, to stand\nThe genealogy is written clear\nIn the shadow of the land\n\n[Verse]\nRamiah and Izziah stand\nMalchijah and Eleazar\nMijamin and Benaiah too\nNames called out in view\n\n[Bridge]\nPedaiah the son of Parosh\nRepairs the wall with care\nBeside the court of the guard\nThe tower rising high there\n\n[Chorus]\nWe came back with Zerubbabel\nTo build the temple, to stand\nThe genealogy is written clear\nIn the shadow of the land\n\n[Outro]\nThe covenant is sealed once more\nThe sons of Parosh forever",
+    "cot": "full",
+    "seed": 31333
+  }
+}

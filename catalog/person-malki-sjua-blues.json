@@ -1,0 +1,75 @@
+{
+  "id": "person-malki-sjua-blues",
+  "title": "How the Mighty Have Fallen",
+  "kind": "person",
+  "anchor": {
+    "person": "malki-sjua"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 14,
+      "verseStart": 49,
+      "verseEnd": 49
+    },
+    {
+      "bookId": 9,
+      "chapter": 31,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 10,
+      "chapter": 1,
+      "verseStart": 17,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 9,
+      "chapter": 31,
+      "verseStart": 8,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 9,
+      "chapter": 31,
+      "verseStart": 11,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 33,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "malki-sjua",
+      "saul",
+      "jonatan",
+      "abinadab-sauls-sonn",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soulful voice with deep choir, acoustic guitar, upright bass, brushed drums, piano, cello, mournful and heavy, 70 BPM",
+    "lyrics": "[Verse]\nNer fathered Kish, and Kish fathered Saul\nSaul fathered Jonathan, Malchishua, Abinadab\nThe genealogy stands in the book of Chronicles\nListing the sons who served in the land\n\n[Chorus]\nHow the mighty have fallen\nYour glory lies slain on your heights\nThe shield of the mighty is defiled\nNo longer anointed with oil\n\n[Verse]\nThe Philistines closed in on the king\nThey struck down Jonathan and Abinadab\nMalchi-shua fell with his father\nOn the slopes of Mount Gilboa\nMany fell slain as the Israelites fled\nBefore the closing in of the enemy\n\n[Chorus]\nHow the mighty have fallen\nYour glory lies slain on your heights\nThe shield of the mighty is defiled\nNo longer anointed with oil\n\n[Pre-Chorus]\nThey cut off his head and stripped his armor\nSent word to the temples of idols\nThey put his armor in the house of Ashtoreth\nFastened his body to the wall of Beth-shan\n\n[Verse]\nBut the people of Jabesh-gilead heard\nAll their fighting men set out by night\nThey took the bodies down from the wall\nBrought them to Jabesh and burned them there\nThey took the bones and buried them\nUnder the tamarisk tree at Jabesh\n\n[Chorus]\nHow the mighty have fallen\nYour glory lies slain on your heights\nThe shield of the mighty is defiled\nNo longer anointed with oil\n\n[Outro]\nThey fasted seven days for Saul\nAnd for his sons who did not return",
+    "cot": "full",
+    "seed": 31331
+  }
+}

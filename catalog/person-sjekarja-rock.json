@@ -1,0 +1,82 @@
+{
+  "id": "person-sjekarja-rock",
+  "title": "The Measuring Line",
+  "kind": "person",
+  "anchor": {
+    "person": "sjekarja"
+  },
+  "references": [
+    {
+      "bookId": 38,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 38,
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 38,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 38,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 38,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 38,
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "sjekarja",
+      "iddo",
+      "serubabel",
+      "jesjua-josva",
+      "haggai"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice with backing choir, electric guitar, bass, drums, organ, dark and hopeful mood, 90 BPM",
+    "lyrics": "[Verse]\nThe eighth month in the second year\nThe word of the Lord came near\nTo Zechariah son of Iddo\nHe heard the spirit's quiet load\nThe Lord was furious with your fathers\nThey did not listen to the prophets\nBut my words overtook your fathers\nThey repented in their own disasters\n\n[Pre-Chorus]\nReturn to me declares the Lord\nAnd I will return to you once more\nDo not be like your fathers now\nTurn from your evil ways and vow\n\n[Chorus]\nThe measuring line will be stretched out\nOver Jerusalem in this hour\nMy house will be rebuilt there\nThe Lord of hosts declares it fair\nMy cities will overflow with prosperity\nThe Lord will comfort Zion freely\n\n[Verse]\nIn the night I had a vision\nA man on a red horse's mission\nStanding among the myrtle trees\nThe angel spoke to me with ease\nPatrolling the earth at rest and peace\nSeventy years of anger cease\nThe Lord answered with kind words\nComfort for the broken and blurred\n\n[Pre-Chorus]\nJealous for Jerusalem with burning fire\nAngry with the nations that are near\nI have returned with mercy to the land\nMy people shall be safe and stand\n\n[Chorus]\nThe measuring line will be stretched out\nOver Jerusalem in this hour\nMy house will be rebuilt there\nThe Lord of hosts declares it fair\nMy cities will overflow with prosperity\nThe Lord will comfort Zion freely\n\n[Bridge]\nFour horns that scattered Judah fell\nFour craftsmen came to break them\nJoshua stood in filthy clothes\nThe angel spoke of holy hopes\nTake the guilt away from you\nClothe you in fine robes anew\nI am going to bring the Branch\nA sign for your strength\n\n[Outro]\nThe plumb line in the hand of Zerubbabel\nGrace grace to the capstone\nThe eyes of the Lord range through the earth\nHe sees the heart of the man",
+    "cot": "full",
+    "seed": 31339
+  }
+}

@@ -1,0 +1,1518 @@
+{
+ "id": "person-haran-soul",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-haran-soul",
+ "offset_seconds": -3.8600000000001735,
+ "words_heard": 146,
+ "words": 159,
+ "lines": [
+  {
+   "text": "Terah lived in Ur of Chaldees",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.42,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Seventy years he walked the dust",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He became the father of three sons",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.56,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Abram, Nahor, and Haran he trusted",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Haran became the father of Lot",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Milcah and Iscah came from him",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.56,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "He died in the land of his birth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.34,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "While his father Terah still lived",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Haran in Ur, where the family stayed",
+   "heard": 4,
+   "words": 7,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before the journey to Canaan",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His early death, a turning point",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the history of the patriarchs",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Abram and Nahor took wives",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sarai was the wife of Abram",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Milcah was the daughter of Haran",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who was the father of Milcah",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Haran in Ur, where the family stayed",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before the journey to Canaan",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His early death, a turning point",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the history of the patriarchs",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The account of Terah is told",
+   "heard": 4,
+   "words": 6,
+   "error_s": 0.55,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Haran became the father of Lot",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He died in the land of his birth",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In Ur of the Chaldeans",
+   "heard": 3,
+   "words": 5,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Haran in Ur, where the family stayed",
+   "heard": 5,
+   "words": 7,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before the journey to Canaan",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Ter",
+   "time": 31.44,
+   "weight": 0.53,
+   "note_time": 29.15
+  },
+  {
+   "text": "ah",
+   "time": 31.79,
+   "weight": 0.53,
+   "note_time": 29.37
+  },
+  {
+   "text": "lived",
+   "time": 32.52,
+   "weight": 0.99,
+   "note_time": 29.58
+  },
+  {
+   "text": "in",
+   "time": 32.52,
+   "weight": 1.0,
+   "note_time": 30.0
+  },
+  {
+   "text": "Ur",
+   "time": 32.52,
+   "weight": 0.96,
+   "note_time": 30.42
+  },
+  {
+   "text": "of",
+   "time": 32.52,
+   "weight": 0.13,
+   "note_time": 32.96
+  },
+  {
+   "text": "Chal",
+   "time": 34.02,
+   "weight": 0.15,
+   "note_time": 33.38
+  },
+  {
+   "text": "dees",
+   "time": 34.33,
+   "weight": 0.15,
+   "note_time": 33.8
+  },
+  {
+   "text": "Sev",
+   "time": 35.11,
+   "weight": 0.0,
+   "note_time": 36.34
+  },
+  {
+   "text": "en",
+   "time": 35.9,
+   "weight": 0.0,
+   "note_time": 36.55
+  },
+  {
+   "text": "ty",
+   "time": 36.68,
+   "weight": 0.0,
+   "note_time": 36.76
+  },
+  {
+   "text": "years",
+   "time": 37.46,
+   "weight": 0.96,
+   "note_time": 37.18
+  },
+  {
+   "text": "he",
+   "time": 38.38,
+   "weight": 0.83,
+   "note_time": 38.45
+  },
+  {
+   "text": "walked",
+   "time": 39.14,
+   "weight": 0.0,
+   "note_time": 38.87
+  },
+  {
+   "text": "the",
+   "time": 39.9,
+   "weight": 0.95,
+   "note_time": 40.14
+  },
+  {
+   "text": "dust",
+   "time": 41.16,
+   "weight": 0.97,
+   "note_time": 40.35
+  },
+  {
+   "text": "He",
+   "time": 41.46,
+   "weight": 0.24,
+   "note_time": 42.68
+  },
+  {
+   "text": "be",
+   "time": 43.56,
+   "weight": 1.0,
+   "note_time": 42.89
+  },
+  {
+   "text": "came",
+   "time": 43.82,
+   "weight": 1.0,
+   "note_time": 43.1
+  },
+  {
+   "text": "the",
+   "time": 44.08,
+   "weight": 1.0,
+   "note_time": 43.52
+  },
+  {
+   "text": "fa",
+   "time": 44.48,
+   "weight": 0.99,
+   "note_time": 43.73
+  },
+  {
+   "text": "ther",
+   "time": 44.78,
+   "weight": 0.99,
+   "note_time": 44.37
+  },
+  {
+   "text": "of",
+   "time": 45.08,
+   "weight": 0.4,
+   "note_time": 46.48
+  },
+  {
+   "text": "three",
+   "time": 47.22,
+   "weight": 0.96,
+   "note_time": 46.9
+  },
+  {
+   "text": "sons",
+   "time": 47.88,
+   "weight": 0.98,
+   "note_time": 47.32
+  },
+  {
+   "text": "Ab",
+   "time": 48.48,
+   "weight": 0.31,
+   "note_time": 49.86
+  },
+  {
+   "text": "ram,",
+   "time": 48.83,
+   "weight": 0.31,
+   "note_time": 50.28
+  },
+  {
+   "text": "Na",
+   "time": 51.46,
+   "weight": 0.43,
+   "note_time": 50.7
+  },
+  {
+   "text": "hor,",
+   "time": 51.74,
+   "weight": 0.43,
+   "note_time": 50.92
+  },
+  {
+   "text": "and",
+   "time": 52.02,
+   "weight": 0.73,
+   "note_time": 52.18
+  },
+  {
+   "text": "Ha",
+   "time": 53.04,
+   "weight": 0.83,
+   "note_time": 52.39
+  },
+  {
+   "text": "ran",
+   "time": 53.36,
+   "weight": 0.83,
+   "note_time": 52.61
+  },
+  {
+   "text": "he",
+   "time": 53.68,
+   "weight": 0.85,
+   "note_time": 53.66
+  },
+  {
+   "text": "trust",
+   "time": 54.54,
+   "weight": 1.0,
+   "note_time": 53.87
+  },
+  {
+   "text": "ed",
+   "time": 54.88,
+   "weight": 1.0,
+   "note_time": 54.3
+  },
+  {
+   "text": "Ha",
+   "time": 57.24,
+   "weight": 0.99,
+   "note_time": 56.62
+  },
+  {
+   "text": "ran",
+   "time": 57.54,
+   "weight": 0.99,
+   "note_time": 56.83
+  },
+  {
+   "text": "be",
+   "time": 57.84,
+   "weight": 0.99,
+   "note_time": 57.04
+  },
+  {
+   "text": "came",
+   "time": 58.03,
+   "weight": 0.99,
+   "note_time": 57.25
+  },
+  {
+   "text": "the",
+   "time": 58.22,
+   "weight": 1.0,
+   "note_time": 58.73
+  },
+  {
+   "text": "fa",
+   "time": 59.7,
+   "weight": 0.98,
+   "note_time": 59.15
+  },
+  {
+   "text": "ther",
+   "time": 60.05,
+   "weight": 0.98,
+   "note_time": 59.58
+  },
+  {
+   "text": "of",
+   "time": 60.56,
+   "weight": 1.0,
+   "note_time": 60.42
+  },
+  {
+   "text": "Lot",
+   "time": 61.5,
+   "weight": 0.93,
+   "note_time": 60.63
+  },
+  {
+   "text": "Milc",
+   "time": 64.2,
+   "weight": 0.48,
+   "note_time": 63.38
+  },
+  {
+   "text": "ah",
+   "time": 64.5,
+   "weight": 0.48,
+   "note_time": 63.8
+  },
+  {
+   "text": "and",
+   "time": 64.8,
+   "weight": 0.95,
+   "note_time": 64.23
+  },
+  {
+   "text": "Isc",
+   "time": 64.96,
+   "weight": 0.25,
+   "note_time": 65.49
+  },
+  {
+   "text": "ah",
+   "time": 65.31,
+   "weight": 0.25,
+   "note_time": 65.92
+  },
+  {
+   "text": "came",
+   "time": 66.46,
+   "weight": 0.99,
+   "note_time": 67.18
+  },
+  {
+   "text": "from",
+   "time": 67.06,
+   "weight": 1.0,
+   "note_time": 67.39
+  },
+  {
+   "text": "him",
+   "time": 68.16,
+   "weight": 0.97,
+   "note_time": 67.61
+  },
+  {
+   "text": "He",
+   "time": 71.08,
+   "weight": 0.99,
+   "note_time": 70.77
+  },
+  {
+   "text": "died",
+   "time": 71.68,
+   "weight": 1.0,
+   "note_time": 71.83
+  },
+  {
+   "text": "in",
+   "time": 72.06,
+   "weight": 1.0,
+   "note_time": 72.25
+  },
+  {
+   "text": "the",
+   "time": 72.92,
+   "weight": 1.0,
+   "note_time": 72.46
+  },
+  {
+   "text": "land",
+   "time": 73.14,
+   "weight": 0.98,
+   "note_time": 73.52
+  },
+  {
+   "text": "of",
+   "time": 73.72,
+   "weight": 1.0,
+   "note_time": 73.73
+  },
+  {
+   "text": "his",
+   "time": 74.6,
+   "weight": 0.99,
+   "note_time": 74.15
+  },
+  {
+   "text": "birth",
+   "time": 74.84,
+   "weight": 1.0,
+   "note_time": 74.37
+  },
+  {
+   "text": "While",
+   "time": 75.3,
+   "weight": 0.06,
+   "note_time": 76.9
+  },
+  {
+   "text": "his",
+   "time": 77.76,
+   "weight": 0.88,
+   "note_time": 77.32
+  },
+  {
+   "text": "fa",
+   "time": 78.32,
+   "weight": 0.98,
+   "note_time": 77.75
+  },
+  {
+   "text": "ther",
+   "time": 78.66,
+   "weight": 0.98,
+   "note_time": 77.96
+  },
+  {
+   "text": "Ter",
+   "time": 79.2,
+   "weight": 0.83,
+   "note_time": 79.44
+  },
+  {
+   "text": "ah",
+   "time": 79.55,
+   "weight": 0.83,
+   "note_time": 79.65
+  },
+  {
+   "text": "still",
+   "time": 80.78,
+   "weight": 1.0,
+   "note_time": 80.7
+  },
+  {
+   "text": "lived",
+   "time": 81.68,
+   "weight": 1.0,
+   "note_time": 81.13
+  },
+  {
+   "text": "Ha",
+   "time": 82.45,
+   "weight": 0.0,
+   "note_time": 83.24
+  },
+  {
+   "text": "ran",
+   "time": 83.22,
+   "weight": 0.0,
+   "note_time": 83.66
+  },
+  {
+   "text": "in",
+   "time": 84.0,
+   "weight": 0.0,
+   "note_time": 84.08
+  },
+  {
+   "text": "Ur,",
+   "time": 84.77,
+   "weight": 0.0,
+   "note_time": 84.3
+  },
+  {
+   "text": "where",
+   "time": 85.54,
+   "weight": 0.19,
+   "note_time": 86.62
+  },
+  {
+   "text": "the",
+   "time": 87.6,
+   "weight": 0.99,
+   "note_time": 86.83
+  },
+  {
+   "text": "fami",
+   "time": 87.76,
+   "weight": 0.86,
+   "note_time": 87.04
+  },
+  {
+   "text": "ly",
+   "time": 88.04,
+   "weight": 0.86,
+   "note_time": 87.46
+  },
+  {
+   "text": "stayed",
+   "time": 88.32,
+   "weight": 0.98,
+   "note_time": 87.89
+  },
+  {
+   "text": "Be",
+   "time": 90.3,
+   "weight": 0.97,
+   "note_time": 90.63
+  },
+  {
+   "text": "fore",
+   "time": 90.65,
+   "weight": 0.97,
+   "note_time": 90.85
+  },
+  {
+   "text": "the",
+   "time": 91.7,
+   "weight": 0.98,
+   "note_time": 91.06
+  },
+  {
+   "text": "jour",
+   "time": 91.98,
+   "weight": 0.4,
+   "note_time": 91.27
+  },
+  {
+   "text": "ney",
+   "time": 92.33,
+   "weight": 0.4,
+   "note_time": 92.96
+  },
+  {
+   "text": "to",
+   "time": 93.5,
+   "weight": 0.39,
+   "note_time": 94.23
+  },
+  {
+   "text": "Ca",
+   "time": 95.16,
+   "weight": 0.99,
+   "note_time": 94.44
+  },
+  {
+   "text": "naan",
+   "time": 95.51,
+   "weight": 0.99,
+   "note_time": 95.07
+  },
+  {
+   "text": "His",
+   "time": 96.04,
+   "weight": 0.39,
+   "note_time": 96.76
+  },
+  {
+   "text": "ear",
+   "time": 97.82,
+   "weight": 1.0,
+   "note_time": 97.18
+  },
+  {
+   "text": "ly",
+   "time": 98.12,
+   "weight": 1.0,
+   "note_time": 97.61
+  },
+  {
+   "text": "death,",
+   "time": 98.42,
+   "weight": 1.0,
+   "note_time": 97.82
+  },
+  {
+   "text": "a",
+   "time": 99.86,
+   "weight": 0.0,
+   "note_time": 100.35
+  },
+  {
+   "text": "turn",
+   "time": 101.3,
+   "weight": 1.0,
+   "note_time": 100.56
+  },
+  {
+   "text": "ing",
+   "time": 101.59,
+   "weight": 1.0,
+   "note_time": 100.99
+  },
+  {
+   "text": "point",
+   "time": 101.88,
+   "weight": 1.0,
+   "note_time": 101.41
+  },
+  {
+   "text": "In",
+   "time": 102.66,
+   "weight": 0.15,
+   "note_time": 104.37
+  },
+  {
+   "text": "the",
+   "time": 103.78,
+   "weight": 0.4,
+   "note_time": 104.58
+  },
+  {
+   "text": "his",
+   "time": 105.5,
+   "weight": 0.98,
+   "note_time": 104.79
+  },
+  {
+   "text": "tory",
+   "time": 105.8,
+   "weight": 0.98,
+   "note_time": 105.21
+  },
+  {
+   "text": "of",
+   "time": 106.1,
+   "weight": 0.97,
+   "note_time": 105.42
+  },
+  {
+   "text": "the",
+   "time": 107.54,
+   "weight": 1.0,
+   "note_time": 107.11
+  },
+  {
+   "text": "pa",
+   "time": 108.04,
+   "weight": 0.36,
+   "note_time": 107.32
+  },
+  {
+   "text": "tri",
+   "time": 108.39,
+   "weight": 0.36,
+   "note_time": 107.96
+  },
+  {
+   "text": "archs",
+   "time": 108.74,
+   "weight": 0.36,
+   "note_time": 108.17
+  },
+  {
+   "text": "Ab",
+   "time": 115.3,
+   "weight": 0.9,
+   "note_time": 114.93
+  },
+  {
+   "text": "ram",
+   "time": 115.65,
+   "weight": 0.9,
+   "note_time": 115.35
+  },
+  {
+   "text": "and",
+   "time": 116.7,
+   "weight": 0.99,
+   "note_time": 116.2
+  },
+  {
+   "text": "Na",
+   "time": 117.24,
+   "weight": 0.0,
+   "note_time": 116.62
+  },
+  {
+   "text": "hor",
+   "time": 117.78,
+   "weight": 0.0,
+   "note_time": 117.04
+  },
+  {
+   "text": "took",
+   "time": 118.32,
+   "weight": 0.99,
+   "note_time": 117.68
+  },
+  {
+   "text": "wives",
+   "time": 118.72,
+   "weight": 0.99,
+   "note_time": 117.89
+  },
+  {
+   "text": "Sa",
+   "time": 121.44,
+   "weight": 0.98,
+   "note_time": 121.48
+  },
+  {
+   "text": "rai",
+   "time": 121.79,
+   "weight": 0.98,
+   "note_time": 121.69
+  },
+  {
+   "text": "was",
+   "time": 122.84,
+   "weight": 0.99,
+   "note_time": 122.96
+  },
+  {
+   "text": "the",
+   "time": 123.86,
+   "weight": 1.0,
+   "note_time": 123.38
+  },
+  {
+   "text": "wife",
+   "time": 124.1,
+   "weight": 1.0,
+   "note_time": 123.8
+  },
+  {
+   "text": "of",
+   "time": 124.6,
+   "weight": 1.0,
+   "note_time": 124.65
+  },
+  {
+   "text": "Ab",
+   "time": 125.68,
+   "weight": 0.99,
+   "note_time": 124.86
+  },
+  {
+   "text": "ram",
+   "time": 126.03,
+   "weight": 0.99,
+   "note_time": 125.49
+  },
+  {
+   "text": "Milc",
+   "time": 128.72,
+   "weight": 0.53,
+   "note_time": 128.45
+  },
+  {
+   "text": "ah",
+   "time": 129.07,
+   "weight": 0.53,
+   "note_time": 128.87
+  },
+  {
+   "text": "was",
+   "time": 129.94,
+   "weight": 0.98,
+   "note_time": 129.93
+  },
+  {
+   "text": "the",
+   "time": 130.62,
+   "weight": 1.0,
+   "note_time": 130.14
+  },
+  {
+   "text": "daugh",
+   "time": 130.86,
+   "weight": 0.99,
+   "note_time": 130.56
+  },
+  {
+   "text": "ter",
+   "time": 131.17,
+   "weight": 0.99,
+   "note_time": 130.77
+  },
+  {
+   "text": "of",
+   "time": 131.48,
+   "weight": 1.0,
+   "note_time": 131.41
+  },
+  {
+   "text": "Ha",
+   "time": 131.94,
+   "weight": 0.97,
+   "note_time": 131.62
+  },
+  {
+   "text": "ran",
+   "time": 132.29,
+   "weight": 0.97,
+   "note_time": 131.83
+  },
+  {
+   "text": "Who",
+   "time": 133.02,
+   "weight": 0.31,
+   "note_time": 134.79
+  },
+  {
+   "text": "was",
+   "time": 135.66,
+   "weight": 1.0,
+   "note_time": 135.21
+  },
+  {
+   "text": "the",
+   "time": 136.26,
+   "weight": 0.99,
+   "note_time": 136.69
+  },
+  {
+   "text": "fa",
+   "time": 137.56,
+   "weight": 0.99,
+   "note_time": 136.9
+  },
+  {
+   "text": "ther",
+   "time": 137.8,
+   "weight": 0.99,
+   "note_time": 137.32
+  },
+  {
+   "text": "of",
+   "time": 138.04,
+   "weight": 1.0,
+   "note_time": 137.54
+  },
+  {
+   "text": "Milc",
+   "time": 138.64,
+   "weight": 0.4,
+   "note_time": 138.17
+  },
+  {
+   "text": "ah",
+   "time": 138.99,
+   "weight": 0.4,
+   "note_time": 138.59
+  },
+  {
+   "text": "Ha",
+   "time": 140.84,
+   "weight": 0.66,
+   "note_time": 140.7
+  },
+  {
+   "text": "ran",
+   "time": 141.19,
+   "weight": 0.66,
+   "note_time": 141.13
+  },
+  {
+   "text": "in",
+   "time": 142.26,
+   "weight": 0.53,
+   "note_time": 141.55
+  },
+  {
+   "text": "Ur,",
+   "time": 142.6,
+   "weight": 0.85,
+   "note_time": 141.76
+  },
+  {
+   "text": "where",
+   "time": 143.36,
+   "weight": 0.4,
+   "note_time": 144.08
+  },
+  {
+   "text": "the",
+   "time": 145.08,
+   "weight": 0.99,
+   "note_time": 144.3
+  },
+  {
+   "text": "fami",
+   "time": 145.24,
+   "weight": 0.9,
+   "note_time": 144.51
+  },
+  {
+   "text": "ly",
+   "time": 145.53,
+   "weight": 0.9,
+   "note_time": 144.93
+  },
+  {
+   "text": "stayed",
+   "time": 145.82,
+   "weight": 0.93,
+   "note_time": 145.35
+  },
+  {
+   "text": "Be",
+   "time": 146.32,
+   "weight": 0.24,
+   "note_time": 148.1
+  },
+  {
+   "text": "fore",
+   "time": 146.67,
+   "weight": 0.24,
+   "note_time": 148.31
+  },
+  {
+   "text": "the",
+   "time": 149.14,
+   "weight": 0.96,
+   "note_time": 148.52
+  },
+  {
+   "text": "jour",
+   "time": 149.46,
+   "weight": 0.99,
+   "note_time": 148.73
+  },
+  {
+   "text": "ney",
+   "time": 149.81,
+   "weight": 0.99,
+   "note_time": 150.42
+  },
+  {
+   "text": "to",
+   "time": 150.72,
+   "weight": 0.4,
+   "note_time": 151.69
+  },
+  {
+   "text": "Ca",
+   "time": 152.62,
+   "weight": 0.96,
+   "note_time": 151.9
+  },
+  {
+   "text": "naan",
+   "time": 152.97,
+   "weight": 0.96,
+   "note_time": 152.54
+  },
+  {
+   "text": "His",
+   "time": 153.52,
+   "weight": 0.3,
+   "note_time": 154.23
+  },
+  {
+   "text": "ear",
+   "time": 155.1,
+   "weight": 1.0,
+   "note_time": 154.65
+  },
+  {
+   "text": "ly",
+   "time": 155.45,
+   "weight": 1.0,
+   "note_time": 155.07
+  },
+  {
+   "text": "death,",
+   "time": 155.92,
+   "weight": 1.0,
+   "note_time": 155.28
+  },
+  {
+   "text": "a",
+   "time": 156.88,
+   "weight": 0.38,
+   "note_time": 157.82
+  },
+  {
+   "text": "turn",
+   "time": 158.7,
+   "weight": 1.0,
+   "note_time": 158.03
+  },
+  {
+   "text": "ing",
+   "time": 159.01,
+   "weight": 1.0,
+   "note_time": 158.45
+  },
+  {
+   "text": "point",
+   "time": 159.32,
+   "weight": 1.0,
+   "note_time": 158.87
+  },
+  {
+   "text": "In",
+   "time": 159.88,
+   "weight": 0.24,
+   "note_time": 161.83
+  },
+  {
+   "text": "the",
+   "time": 162.82,
+   "weight": 1.0,
+   "note_time": 162.04
+  },
+  {
+   "text": "his",
+   "time": 162.94,
+   "weight": 1.0,
+   "note_time": 162.25
+  },
+  {
+   "text": "tory",
+   "time": 163.28,
+   "weight": 1.0,
+   "note_time": 162.68
+  },
+  {
+   "text": "of",
+   "time": 163.62,
+   "weight": 0.4,
+   "note_time": 162.89
+  },
+  {
+   "text": "the",
+   "time": 165.24,
+   "weight": 1.0,
+   "note_time": 164.58
+  },
+  {
+   "text": "pa",
+   "time": 165.5,
+   "weight": 0.38,
+   "note_time": 164.79
+  },
+  {
+   "text": "tri",
+   "time": 165.85,
+   "weight": 0.38,
+   "note_time": 165.42
+  },
+  {
+   "text": "archs",
+   "time": 166.2,
+   "weight": 0.38,
+   "note_time": 165.63
+  },
+  {
+   "text": "The",
+   "time": 173.48,
+   "weight": 0.71,
+   "note_time": 173.66
+  },
+  {
+   "text": "ac",
+   "time": 174.56,
+   "weight": 0.97,
+   "note_time": 173.87
+  },
+  {
+   "text": "count",
+   "time": 174.81,
+   "weight": 0.97,
+   "note_time": 174.08
+  },
+  {
+   "text": "of",
+   "time": 175.06,
+   "weight": 1.0,
+   "note_time": 174.51
+  },
+  {
+   "text": "Ter",
+   "time": 175.4,
+   "weight": 0.0,
+   "note_time": 174.93
+  },
+  {
+   "text": "ah",
+   "time": 175.73,
+   "weight": 0.0,
+   "note_time": 175.14
+  },
+  {
+   "text": "is",
+   "time": 176.07,
+   "weight": 0.0,
+   "note_time": 175.77
+  },
+  {
+   "text": "told",
+   "time": 176.4,
+   "weight": 0.97,
+   "note_time": 176.2
+  },
+  {
+   "text": "Ha",
+   "time": 179.32,
+   "weight": 0.82,
+   "note_time": 179.15
+  },
+  {
+   "text": "ran",
+   "time": 179.67,
+   "weight": 0.82,
+   "note_time": 179.37
+  },
+  {
+   "text": "be",
+   "time": 180.4,
+   "weight": 0.99,
+   "note_time": 179.79
+  },
+  {
+   "text": "came",
+   "time": 180.62,
+   "weight": 0.99,
+   "note_time": 180.0
+  },
+  {
+   "text": "the",
+   "time": 180.84,
+   "weight": 1.0,
+   "note_time": 180.63
+  },
+  {
+   "text": "fa",
+   "time": 181.56,
+   "weight": 0.99,
+   "note_time": 180.85
+  },
+  {
+   "text": "ther",
+   "time": 181.91,
+   "weight": 0.99,
+   "note_time": 181.27
+  },
+  {
+   "text": "of",
+   "time": 182.26,
+   "weight": 1.0,
+   "note_time": 182.11
+  },
+  {
+   "text": "Lot",
+   "time": 183.14,
+   "weight": 0.99,
+   "note_time": 182.54
+  },
+  {
+   "text": "He",
+   "time": 185.6,
+   "weight": 0.93,
+   "note_time": 185.7
+  },
+  {
+   "text": "died",
+   "time": 186.68,
+   "weight": 1.0,
+   "note_time": 186.76
+  },
+  {
+   "text": "in",
+   "time": 186.96,
+   "weight": 0.99,
+   "note_time": 187.18
+  },
+  {
+   "text": "the",
+   "time": 187.8,
+   "weight": 1.0,
+   "note_time": 187.39
+  },
+  {
+   "text": "land",
+   "time": 188.06,
+   "weight": 0.98,
+   "note_time": 188.45
+  },
+  {
+   "text": "of",
+   "time": 188.54,
+   "weight": 1.0,
+   "note_time": 188.66
+  },
+  {
+   "text": "his",
+   "time": 189.5,
+   "weight": 0.96,
+   "note_time": 189.08
+  },
+  {
+   "text": "birth",
+   "time": 189.74,
+   "weight": 1.0,
+   "note_time": 189.3
+  },
+  {
+   "text": "In",
+   "time": 192.24,
+   "weight": 0.71,
+   "note_time": 192.25
+  },
+  {
+   "text": "Ur",
+   "time": 193.06,
+   "weight": 0.0,
+   "note_time": 192.68
+  },
+  {
+   "text": "of",
+   "time": 193.88,
+   "weight": 0.3,
+   "note_time": 195.0
+  },
+  {
+   "text": "the",
+   "time": 195.8,
+   "weight": 0.99,
+   "note_time": 195.21
+  },
+  {
+   "text": "Chal",
+   "time": 196.56,
+   "weight": 0.0,
+   "note_time": 195.63
+  },
+  {
+   "text": "deans",
+   "time": 197.31,
+   "weight": 0.0,
+   "note_time": 195.85
+  },
+  {
+   "text": "Ha",
+   "time": 198.07,
+   "weight": 0.0,
+   "note_time": 198.17
+  },
+  {
+   "text": "ran",
+   "time": 198.82,
+   "weight": 0.0,
+   "note_time": 198.59
+  },
+  {
+   "text": "in",
+   "time": 199.58,
+   "weight": 0.87,
+   "note_time": 199.01
+  },
+  {
+   "text": "Ur,",
+   "time": 200.22,
+   "weight": 0.0,
+   "note_time": 199.23
+  },
+  {
+   "text": "where",
+   "time": 200.86,
+   "weight": 0.39,
+   "note_time": 201.55
+  },
+  {
+   "text": "the",
+   "time": 202.5,
+   "weight": 1.0,
+   "note_time": 201.76
+  },
+  {
+   "text": "fami",
+   "time": 202.7,
+   "weight": 0.4,
+   "note_time": 201.97
+  },
+  {
+   "text": "ly",
+   "time": 203.04,
+   "weight": 0.4,
+   "note_time": 202.39
+  },
+  {
+   "text": "stayed",
+   "time": 203.38,
+   "weight": 0.73,
+   "note_time": 202.82
+  },
+  {
+   "text": "Be",
+   "time": 203.82,
+   "weight": 0.33,
+   "note_time": 205.56
+  },
+  {
+   "text": "fore",
+   "time": 204.17,
+   "weight": 0.33,
+   "note_time": 205.77
+  },
+  {
+   "text": "the",
+   "time": 206.62,
+   "weight": 0.99,
+   "note_time": 205.99
+  },
+  {
+   "text": "jour",
+   "time": 206.92,
+   "weight": 0.99,
+   "note_time": 206.2
+  },
+  {
+   "text": "ney",
+   "time": 207.27,
+   "weight": 0.99,
+   "note_time": 207.89
+  },
+  {
+   "text": "to",
+   "time": 208.02,
+   "weight": 0.4,
+   "note_time": 209.15
+  },
+  {
+   "text": "Ca",
+   "time": 210.06,
+   "weight": 0.98,
+   "note_time": 209.37
+  },
+  {
+   "text": "naan",
+   "time": 210.41,
+   "weight": 0.98,
+   "note_time": 210.0
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "25 of 26 lyric lines sit clearly on their notes; 1 are uncertain and printed in grey italics."
+}

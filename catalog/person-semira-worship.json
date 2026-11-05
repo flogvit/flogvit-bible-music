@@ -1,0 +1,55 @@
+{
+  "id": "person-semira-worship",
+  "title": "Daughter of Asher",
+  "kind": "person",
+  "anchor": {
+    "person": "semira"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 44,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 30,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "semira",
+      "jakob-israel",
+      "asjer",
+      "beria"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo with choir, piano, strings, flute, cello, warm, 80 BPM",
+    "lyrics": "[Verse]\nJacob's children gathered round\nAsher stood among the sons\nImnah first and Ishvah there\nIshvi named in ancient lands\nBeriah walked with them all\nAnd his sister Serah too\nHer name was kept in holy text\nPart of Jacob's house of two\n\n[Chorus]\nThe sons of Asher by their clans\nFrom Imnah the Imnite line\nFrom Ishvi the Ishvite name\nFrom Beriah the Beriite shine\nSerah was the daughter's name\nRecorded in the census plain\nSeventy souls went down to stay\nIn the land of Egypt's grain\n\n[Verse]\nChronicles tell the family tree\nAsher's sons are listed clear\nImnah Ishvah Ishvi and Beriah\nSerah stands beside them near\nHeber son of Beriah too\nMalchiel his brother's name\nFather of Birzaith they say\nIn the book of life's own frame\n\n[Chorus]\nThe sons of Asher by their clans\nFrom Imnah the Imnite line\nFrom Ishvi the Ishvite name\nFrom Beriah the Beriite shine\nSerah was the daughter's name\nRecorded in the census plain\nSeventy souls went down to stay\nIn the land of Egypt's grain\n\n[Bridge]\nNames preserved in holy scroll\nNot forgotten in the tale\nDaughter Serah stands apart\nIn the genealogy's veil\n\n[Outro]\nSerah's name is spoken still\nIn the records old and new",
+    "cot": "full",
+    "seed": 31137
+  }
+}

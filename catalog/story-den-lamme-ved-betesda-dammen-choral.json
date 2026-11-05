@@ -1,0 +1,40 @@
+{
+  "id": "story-den-lamme-ved-betesda-dammen-choral",
+  "title": "Get up and walk",
+  "kind": "story",
+  "anchor": {
+    "story": "den-lamme-ved-betesda-dammen"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "den-lamme-ved-betesda-dammen"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, Male solo voice, solemn choir, harp, organ, flute, cello, reverent, 80 BPM",
+    "lyrics": "[Verse]\nBy the Sheep Gate in Jerusalem stands a pool\nCalled Bethesda where the sick all are\nFive covered colonnades hold the crowd\nBlind and lame and paralyzed remain\nWaiting for the water to be stirred\nAn angel comes to stir the waves\nThe first to step in after the stir\nIs healed of whatever illness held him\n\n[Verse]\nOne man there had been an invalid\nFor thirty-eight long years he lay\nJesus saw him lying there below\nAnd asked if he desired to be well\nThe sick man answered with a sigh\nI have no one to help me in\nWhile I am on my way to the pool\nSomeone else goes down ahead of me\n\n[Verse]\nJesus said to him in that hour\nGet up and pick up your mat\nAnd walk with me this very day\nAt once the man was made well\nHe picked up his mat and began to walk\nNow that day was a Sabbath\nThe Jews said it is not permitted\nTo carry your mat on this holy day\n\n[Verse]\nBut he answered the man who made me well\nTold me to pick it up and walk\nWho is the man who told you so\nThey asked him in the crowd\nBut the man who had been healed did not know\nJesus had slipped away from the place\nLater Jesus found him in the temple\nAnd spoke to him with gentle care\n\n[Outro]\nSin no more or something worse may happen",
+    "cot": "full",
+    "seed": 31158
+  }
+}

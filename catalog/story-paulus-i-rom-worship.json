@@ -1,0 +1,45 @@
+{
+  "id": "story-paulus-i-rom-worship",
+  "title": "Kingdom of God",
+  "kind": "story",
+  "anchor": {
+    "story": "paulus-i-rom"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 28,
+      "verseStart": 11,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "paulus"
+    ],
+    "stories": [
+      "paulus-i-rom"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with soft choir, acoustic guitar, piano, cello, gentle drums, warm and hopeful, 90 BPM",
+    "lyrics": "[Verse]\nThree months at sea on Alexandrian ship\nAt Syracuse we stayed three days\nTo Rhegium we went and Puteoli too\nBrothers invited us to stay a week\n\n[Verse]\nWe came to Rome and met the elders\nPaul said I did no wrong to my people\nThey wanted to release me from my chains\nBut I appealed to Caesar for hope\n\n[Chorus]\nProclaiming the kingdom of God\nTeaching about the Lord Jesus Christ\nWith complete boldness and full assurance\nWithout any hindrance at all\n\n[Verse]\nFrom morning until evening he spoke\nTestifying about Jesus from the Law\nSome were convinced by his words\nOthers would not believe his message\n\n[Chorus]\nProclaiming the kingdom of God\nTeaching about the Lord Jesus Christ\nWith complete boldness and full assurance\nWithout any hindrance at all\n\n[Chorus]\nProclaiming the kingdom of God\nTeaching about the Lord Jesus Christ\nWith complete boldness and full assurance\nWithout any hindrance at all",
+    "cot": "full",
+    "seed": 31153
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "story-elias-opprykkelse-og-elisjas-doble-del-folk",
+  "title": "Double Portion",
+  "kind": "story",
+  "anchor": {
+    "story": "elias-opprykkelse-og-elisjas-doble-del"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "tro",
+      "frykt"
+    ],
+    "stories": [
+      "elias-opprykkelse-og-elisjas-doble-del"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and earnest, acoustic guitar, cello, soft percussion, handpan, gentle folk ballad, 85 BPM",
+    "lyrics": "[Verse]\nFrom Gilgal we walked side by side\nElijah said stay here, I must go\nBut I swore I would not leave his side\nAs surely as the Lord lives, no\n\n[Chorus]\nGive me a double portion of your spirit\nBefore you are taken from my sight\nIf I see you go, it shall be given\nIf not, then let me be in the night\n\n[Verse]\nAt Bethel the prophets asked me then\nDo you know he is being taken away?\nI said yes, I know, be still, my friend\nAnd we kept walking through the day\n\n[Chorus]\nGive me a double portion of your spirit\nBefore you are taken from my sight\nIf I see you go, it shall be given\nIf not, then let me be in the night\n\n[Pre-Chorus]\nAt the Jordan river bank we stood\nFifty prophets watched us from afar\nHe rolled up his cloak, striking the flood\nThe water parted on the dry ground star\n\n[Chorus]\nGive me a double portion of your spirit\nBefore you are taken from my sight\nIf I see you go, it shall be given\nIf not, then let me be in the night\n\n[Bridge]\nA chariot of fire split the sky\nHorses of flame and a whirlwind sound\nElijah rose up, I cried and I sighed\nMy father, the chariots of this ground\n\n[Outro]\nI took his cloak and struck the water\nThe Jordan split to the right and left\nThe spirit of Elijah is the answer\nThe God of Elijah is what I sought",
+    "cot": "full",
+    "seed": 31159
+  }
+}

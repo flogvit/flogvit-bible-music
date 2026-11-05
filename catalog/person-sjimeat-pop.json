@@ -1,0 +1,78 @@
+{
+  "id": "person-sjimeat-pop",
+  "title": "Lived Near Their Kinsmen",
+  "kind": "person",
+  "anchor": {
+    "person": "sjimeat"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 32,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 38,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 29,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 35,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 10,
+      "chapter": 13,
+      "verseStart": 3,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 10,
+      "chapter": 21,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy"
+    ],
+    "themes": [
+      "abraham",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "sjimeat",
+      "david",
+      "saul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and clear, piano, acoustic guitar, cello, light percussion, reflective and gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nMikloth fathered Shimeah\nLiving opposite their kin\nIn the city of Jerusalem\nWith relatives nearby then\n\n[Chorus]\nLived near their kinsmen\nIn the holy city\nWith their relatives\nIn the land\n\n[Verse]\nJeiel lived in Gibeon\nWife Maacah by his side\nAbdon was the firstborn son\nZur and Kish in that line\n\n[Chorus]\nLived near their kinsmen\nIn the holy city\nWith their relatives\nIn the land\n\n[Bridge]\nNer fathered Kish the king\nSaul was born of that line\nJonathan and Malchishua\nAbinadab and Eshbaal\n\n[Outro]\nMikloth was the father\nOf Shimeam in the genealogy",
+    "cot": "full",
+    "seed": 31139
+  }
+}

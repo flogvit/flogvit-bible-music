@@ -18,18 +18,17 @@
       "celtic"
     ],
     "sentiment": [
-      "promise",
-      "praise"
+      "comfort"
     ],
-    "liturgy": [],
+    "liturgy": [
+      "epiphany"
+    ],
     "theme": [
-      "covenant"
+      "mercy",
+      "covenant",
+      "faith"
     ],
-    "themes": [
-      "pakten",
-      "guds-trofasthet",
-      "frelsen"
-    ],
+    "themes": [],
     "stories": [
       "lignelsen-om-de-to-ornene-og-vintreet"
     ],
@@ -38,8 +37,8 @@
   "lyricsMode": "mixed",
   "textSource": "osen",
   "request": {
-    "style": "English, female solo with atmospheric choir, Celtic harp, fiddle, bodhran, flute, soft piano, haunting and solemn mood, 70 BPM",
-    "lyrics": "[Verse]\nA great eagle with great wings\nCame to Lebanon in flight\nTook the top of the cedar\nCarried it to a trading land\nPlanted it in fertile soil\nBeside abundant water it grew\nIt became a spreading vine\nRoots beneath the eagle's wing\n\n[Chorus]\nBut the vine turned to another\nStretched its branches for water\nWill it thrive in the end\nOr wither in the east wind\nTorn up by the roots\nStripped of all its fruit\n\n[Verse]\nThe king of Babylon came\nTook the king and officials\nMade a covenant with them\nSwore an oath to keep them low\nBut he rebelled against him\nSent envoys to Egypt for help\nBroke the covenant he made\nDespised the oath he swore\n\n[Chorus]\nBut the vine turned to another\nStretched its branches for water\nWill it thrive in the end\nOr wither in the east wind\nTorn up by the roots\nStripped of all its fruit\n\n[Bridge]\nI will spread my net over him\nCatch him in my snare\nBring him to Babylon\nJudge his treachery there\nAll his troops shall fall by sword\nScattered to every wind\n\n[Chorus]\nBut the vine turned to another\nStretched its branches for water\nWill it thrive in the end\nOr wither in the east wind\nTorn up by the roots\nStripped of all its fruit\n\n[Outro]\nI will take a sprig from the cedar\nPlant it on the high mountain\nIt will become a majestic cedar\nBirds of every kind will nest",
+    "style": "English, ethereal female solo voice, ancient celtic choir, hammered dulcimer, bodhran, acoustic guitar, harp, mysterious and epic, 80 BPM",
+    "lyrics": "[Verse]\nA great eagle with wings so wide\nCame down to Lebanon's pride\nTook the top of the cedar tree\nCarried it to a foreign see\nPlanted it in merchant soil\nBeside the water, low and toil\nIt grew a vine with branches spread\nIts roots reached out as it fed\n\n[Verse]\nBut another eagle stood nearby\nWith thick and heavy plumage dry\nThe vine bent its roots toward him\nSeeking water in his rim\nIt had good soil and rain\nTo bear fruit without vain strain\nBut it turned to a second king\nAnd broke the sacred, holy thing\n\n[Chorus]\nI will take a sprig from the top\nFrom the lofty cedar's crop\nAnd plant it on a high mountain\nWhere the birds in shade are wanting\nIt will become a majestic tree\nWhere all the birds shall be\n\n[Verse]\nThe king of Babylon came strong\nTook the crown and led it along\nMade a covenant with the prince\nSwore an oath for the defense\nBut he rebelled and sent envoys\nTo Egypt for horses and toys\nHe broke the oath and despised the vow\nIn Babylon he shall now bow\n\n[Chorus]\nI will take a sprig from the top\nFrom the lofty cedar's crop\nAnd plant it on a high mountain\nWhere the birds in shade are wanting\nIt will become a majestic tree\nWhere all the birds shall be\n\n[Bridge]\nI bring down the high and lift the low\nI make the dry and dead tree grow\nAll the trees of the field will know\nThat I, the Lord, am the power\n\n[Outro]\nI, the Lord, have spoken and will do\nOn the height of the land, it is true",
     "cot": "full",
     "seed": 31150
   }

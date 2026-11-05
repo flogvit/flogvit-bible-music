@@ -1,0 +1,65 @@
+{
+  "id": "person-zimran-folk",
+  "title": "Sent Eastward",
+  "kind": "person",
+  "anchor": {
+    "person": "zimran"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 7,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 32,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "zimran",
+      "abraham",
+      "ketura",
+      "isak",
+      "ismael"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, solo, acoustic guitar, flute, soft percussion, warm and reflective, 85 BPM",
+    "lyrics": "[Verse]\nAbraham took another wife\nHer name was Keturah\nShe bore him Zimran first\nWith five other sons named\nJokshan Medan and Midian\nIshbak and Shuah\n\n[Chorus]\nEverything to Isaac\nBut gifts to the rest\nSent away eastward\nAway from the west\n\n[Verse]\nWhile he was still alive\nHe sent them to the land\nWhere the sun rises early\nFar from Isaac's hand\n\n[Chorus]\nEverything to Isaac\nBut gifts to the rest\nSent away eastward\nAway from the west\n\n[Bridge]\nAbraham breathed his last\nOld and satisfied with life\nGathered to his people\nHis days were done\n\n[Outro]\nIsaac and Ishmael\nBuried him in the cave\nIn the field of Ephron\nFacing Mamre",
+    "cot": "full",
+    "seed": 31143
+  }
+}

@@ -1,6 +1,6 @@
 {
   "id": "story-josef-og-potifars-hustru-country",
-  "title": "How Then Could I",
+  "title": "Steadfast Love",
   "kind": "story",
   "anchor": {
     "story": "josef-og-potifars-hustru"
@@ -18,17 +18,16 @@
       "country"
     ],
     "sentiment": [
+      "promise",
       "comfort"
     ],
     "liturgy": [],
     "theme": [
-      "faith"
+      "faith",
+      "holiness",
+      "salvation"
     ],
-    "themes": [
-      "josef",
-      "synden",
-      "guds-trofasthet"
-    ],
+    "themes": [],
     "stories": [
       "josef-og-potifars-hustru"
     ],
@@ -37,8 +36,8 @@
   "lyricsMode": "mixed",
   "textSource": "osen",
   "request": {
-    "style": "English, male solo voice, warm and narrative, acoustic guitar, pedal steel, fiddle, upright bass, soft drums, nostalgic and dramatic, 90 BPM",
-    "lyrics": "[Verse]\nJoseph came to Egypt's land\nBought from Ishmaelites' hand\nPotiphar put him in his house\nTrust in every single course\nThe Lord was near and he prospered\nSuccess in all that he did\nHis master saw the blessing\nAnd gave him every thing\n\n[Chorus]\nHow then could I do such a great evil\nAnd sin against God\nHe withheld nothing from me\nExcept her wife's love\n\n[Verse]\nShe saw him handsome and well built\nDay by day she spoke\n\"Come to bed with me\" she whispered\nHe refused the call\n\"My master trusts me fully\nIn this house I stand\nNo one is above me here\nExcept her in this land\n\n[Chorus]\nHow then could I do such a great evil\nAnd sin against God\nHe withheld nothing from me\nExcept her wife's love\n\n[Bridge]\nOne day alone in the house\nShe caught his cloak tight\nHe left it in her hand\nAnd ran into the night\nShe told the servants her story\nScreamed at the top of her voice\nAccused the Hebrew slave\nOf breaking her choice\n\n[Chorus]\nHow then could I do such a great evil\nAnd sin against God\nHe withheld nothing from me\nExcept her wife's love\n\n[Outro]\nBut the Lord was with him still\nIn prison's dark place\nShe showed him steadfast love\nAnd favor in his face",
+    "style": "English, warm male baritone solo, acoustic guitar, banjo, fiddle, piano, upright bass, reflective and hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nJoseph was taken down to Egypt land\nPotiphar bought him from the Ishmaelites\nThe Lord was with him and he prospered\nHis master saw the favor of the Lord\n\n[Verse]\nHe put Joseph in charge of the house\nAnd entrusted all his wealth to care\nThe Lord blessed the field and the home\nAnd Joseph was handsome and well built\n\n[Pre-Chorus]\nAfter some time his master’s wife\nTook notice of him and spoke\nCome to bed with me she said\nBut he refused her with a voice\n\n[Chorus]\nHow could I do such a great evil\nAnd sin against God in this place\nThe Lord was with him in the prison\nAnd showed him steadfast love\n\n[Verse]\nDay after day she kept at him\nBut he would not listen or lie\nOne day he came to do his work\nShe caught his cloak and screamed aloud\n\n[Verse]\nShe told the men of the household\nThat he came to make sport of us\nShe kept his cloak until his master\nCame home and heard her story\n\n[Chorus]\nHow could I do such a great evil\nAnd sin against God in this place\nThe Lord was with him in the prison\nAnd showed him steadfast love\n\n[Bridge]\nHis master burned with anger then\nAnd took him to the prison cell\nWhere the king’s prisoners were held\nAnd there he remained alone\n\n[Outro]\nThe warden paid no attention\nTo anything under his care\nBecause the Lord was with him\nAnd gave him success in all",
     "cot": "full",
     "seed": 31151
   }

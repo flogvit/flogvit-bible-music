@@ -1,0 +1,68 @@
+{
+  "id": "person-naaman-celtic",
+  "title": "Wash And Be Clean",
+  "kind": "person",
+  "anchor": {
+    "person": "naaman"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 12,
+      "chapter": 5,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 12,
+      "chapter": 5,
+      "verseStart": 13,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 12,
+      "chapter": 5,
+      "verseStart": 15,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 42,
+      "chapter": 4,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "naaman",
+      "elisja",
+      "gehasi"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with backing choir, Celtic harp, bodhran, fiddle, low strings, haunting and hopeful mood, 72 BPM",
+    "lyrics": "[Verse]\nNaaman stood in power and pride\nCommander of Aram's army wide\nThrough him the Lord gave victory\nBut leprosy marked his body\nA young girl from Israel's land\nServed in Naaman's wife's hand\nShe spoke of a prophet in Samaria\nWho could heal his skin so badly\n\n[Chorus]\nGo wash seven times in the Jordan\nLet your flesh be clean and restored\nThe simple word is God's way\nGrace that cannot be bought or paid\n\n[Verse]\nHe came with horses and chariots\nTo the door of Elisha's house\nBut the prophet sent a messenger\nWith words that made Naaman frown\nHe thought the man would come out\nWave his hand and cure the doubt\nInstead he was told to dip\nIn waters he deemed too small to fix\n\n[Chorus]\nGo wash seven times in the Jordan\nLet your flesh be clean and restored\nThe simple word is God's way\nGrace that cannot be bought or paid\n\n[Verse]\nHis servants spoke with gentle care\nWhy did you turn away in rage\nIf the prophet asked for greatness\nWould you not have done his bidding\nSo he went down to the river\nDipped himself seven times in the water\nHis flesh was like a young boy's skin\nHe was clean and he came back in\n\n[Chorus]\nGo wash seven times in the Jordan\nLet your flesh be clean and restored\nThe simple word is God's way\nGrace that cannot be bought or paid\n\n[Bridge]\nNow I know there is no God in all the earth\nExcept in Israel's land\nSo please accept a gift from your servant\nFor I have found the promise and the plan\nBut Elisha refused the silver\nSaying I will accept nothing\nNaaman asked for earth to carry\nSo he could serve the Lord forever\n\n[Outro]\nOnly Naaman the Syrian was cleansed\nWhile many lepers went unhealed\nGrace found the outsider in the end",
+    "cot": "full",
+    "seed": 31327
+  }
+}

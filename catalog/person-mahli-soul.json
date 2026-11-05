@@ -1,0 +1,81 @@
+{
+  "id": "person-mahli-soul",
+  "title": "Frames of the Tabernacle",
+  "kind": "person",
+  "anchor": {
+    "person": "mahli"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 4,
+      "chapter": 3,
+      "verseStart": 20,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 4,
+      "verseStart": 29,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 58,
+      "verseEnd": 58
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 19,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 13,
+      "chapter": 23,
+      "verseStart": 21,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise",
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "mahli",
+      "merari-levis-sonn",
+      "levi-leas-sonn",
+      "musji",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Soul, male baritone solo with gospel choir, Hammond organ, acoustic guitar, bass, drums, warm and reverent, 85 BPM",
+    "lyrics": "[Verse]\nThe sons of Merari, Mahli and Mushi stood\nFounders of the clan, by the Lord understood\nIn the wilderness camp, behind the holy tent\nThe Mahlites prepared where the covenant went\n\n[Chorus]\nCarrying the frames, the posts and the bases too\nThe ropes and the pegs, the work assigned to you\nFrom thirty to fifty, strong for the task\nServing the sanctuary, the sacred place\n\n[Verse]\nThe census was taken, every male named\nRecorded in Numbers, in history claimed\nEleazar and Kish, the lineage flowed on\nIn David's temple, the service was done\n\n[Chorus]\nCarrying the frames, the posts and the bases too\nThe ropes and the pegs, the work assigned to you\nFrom thirty to fifty, strong for the task\nServing the sanctuary, the sacred place\n\n[Bridge]\nNo sons remained, but cousins took hold\nMarried the daughters, the story is told\nThe Mashites joined, the line kept intact\nFaithful in service, standing firm\n\n[Chorus]\nCarrying the frames, the posts and the bases too\nThe ropes and the pegs, the work assigned to you\nFrom thirty to fifty, strong for the task\nServing the sanctuary, the sacred place\n\n[Outro]\nMahli, son of Merari, Levi's line\nPreserved the tabernacle, holy and divine",
+    "cot": "full",
+    "seed": 31325
+  }
+}

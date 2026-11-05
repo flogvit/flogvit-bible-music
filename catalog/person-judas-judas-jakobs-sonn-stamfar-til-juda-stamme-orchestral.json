@@ -1,0 +1,78 @@
+{
+  "id": "person-judas-judas-jakobs-sonn-stamfar-til-juda-stamme-orchestral",
+  "title": "The Scepter of Judah",
+  "kind": "person",
+  "anchor": {
+    "person": "judas-judas-jakobs-sonn-stamfar-til-juda-stamme"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 29,
+      "verseStart": 35,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 1,
+      "chapter": 37,
+      "verseStart": 26,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 1,
+      "chapter": 38,
+      "verseStart": 1,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 1,
+      "chapter": 44,
+      "verseStart": 18,
+      "verseEnd": 34
+    },
+    {
+      "bookId": 1,
+      "chapter": 49,
+      "verseStart": 8,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 2,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "judas-judas-jakobs-sonn-stamfar-til-juda-stamme",
+      "jakob-israel",
+      "lea",
+      "josef-gt",
+      "benjamin"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female contralto solo with male choir, cello, harp, French horn, timpani, solemn and majestic, 72 BPM",
+    "lyrics": "[Verse]\nLeah praised the Lord at last\nShe named the boy Judah\nFourth son of Jacob\nBorn in the house of Jacob\n\n[Verse]\nHe spoke to his brothers\nWhat do we gain by killing him\nCome let us sell him\nTo the Ishmaelites\n\n[Chorus]\nThe scepter shall not depart\nFrom Judah nor his staff\nThe lion of the tribe\nShall rule in his strength\n\n[Verse]\nTamar waited in grief\nHer rights were denied\nShe sat on the road\nUntil she was denied\n\n[Chorus]\nThe scepter shall not depart\nFrom Judah nor his staff\nThe lion of the tribe\nShall rule in his strength\n\n[Bridge]\nJudah saw the pledge\nSeal and cord and staff\nShe is more righteous than I\nHe did not sleep with her again\n\n[Outro]\nFrom Perez to the throne\nThe line of the lion",
+    "cot": "full",
+    "seed": 31322
+  }
+}

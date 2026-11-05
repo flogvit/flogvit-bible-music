@@ -1,0 +1,76 @@
+{
+  "id": "person-musji-ballad",
+  "title": "Frames and Bases",
+  "kind": "person",
+  "anchor": {
+    "person": "musji"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 4,
+      "chapter": 3,
+      "verseStart": 20,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 4,
+      "verseStart": 29,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 19,
+      "verseEnd": 47
+    },
+    {
+      "bookId": 13,
+      "chapter": 23,
+      "verseStart": 21,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 13,
+      "chapter": 24,
+      "verseStart": 26,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "musji",
+      "levi-leas-sonn",
+      "merari-levis-sonn",
+      "mahli",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male baritone voice, warm and steady, acoustic guitar, cello, light percussion, harp, solemn and reverent mood, 75 BPM",
+    "lyrics": "[Verse]\nThe sons of Merari are known by name\nMahli and Mushi carry the load\nFrom the tribe of Levi’s holy line\nIn the wilderness they stand\n\n[Verse]\nFrames of the tabernacle heavy and strong\nCrossbars and posts in the dust\nBases and pegs and ropes all along\nThe work of the tent they must trust\n\n[Chorus]\nCarry the frames and the crossbars too\nThe posts and the bases of wood\nAssigned by name what each man must do\nFor the service of the Lord’s house\n\n[Verse]\nThirty years old and up to fifty\nFit for the work of the tent\nUnder the oversight of Ithamar\nThe priest’s command is meant\n\n[Chorus]\nCarry the frames and the crossbars too\nThe posts and the bases of wood\nAssigned by name what each man must do\nFor the service of the Lord’s house\n\n[Bridge]\nMahli and Eder and Jeremoth\nThree sons in the record so clear\nThe clan of Mushi serves with might\nThrough the generations near\n\n[Outro]\nFrames and bases in the dust\nThe Levites’ faithful trust",
+    "cot": "full",
+    "seed": 31326
+  }
+}

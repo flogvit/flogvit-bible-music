@@ -1,0 +1,74 @@
+{
+  "id": "person-onesiforus-acoustic",
+  "title": "Not Ashamed of My Chains",
+  "kind": "person",
+  "anchor": {
+    "person": "onesiforus"
+  },
+  "references": [
+    {
+      "bookId": 55,
+      "chapter": 1,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 55,
+      "chapter": 1,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 55,
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 55,
+      "chapter": 4,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 55,
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "kjerlighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "onesiforus",
+      "paulus",
+      "timoteus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male warm baritone solo with soft acoustic guitar, fingerpicked acoustic guitar, gentle cello, light piano, atmospheric pads, hopeful and tender mood, 72 BPM",
+    "lyrics": "[Verse]\nEveryone in Asia turned away\nPhygelus and Hermogenes did flee\nBut he searched hard until he found me\nIn the prison where I was to be\n\n[Chorus]\nMay the Lord show mercy to his house\nFor he often refreshed me somehow\nHe was not ashamed of my chains\nFaithful in the wind and in the rains\n\n[Verse]\nYou know well his service in Ephesus\nA devotion that no one can refuse\nHe came to Rome to seek me out\nAnd brought comfort and quiet about\n\n[Chorus]\nMay the Lord show mercy to his house\nFor he often refreshed me somehow\nHe was not ashamed of my chains\nFaithful in the wind and in the rains\n\n[Bridge]\nMay the Lord grant him mercy on that Day\nFor the faithfulness he chose to pay\nGreet Prisca and Aquila too\nAnd the household standing firm and true\n\n[Chorus]\nMay the Lord show mercy to his house\nFor he often refreshed me somehow\nHe was not ashamed of my chains\nFaithful in the wind and in the rains",
+    "cot": "full",
+    "seed": 31329
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "person-noka-country",
+  "title": "The Dove Did Not Return",
+  "kind": "person",
+  "anchor": {
+    "person": "noka"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verseStart": 8,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verseStart": 13,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verseStart": 20,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verseStart": 8,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "promise",
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "obedience"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "noka",
+      "adam",
+      "metusalem",
+      "lamek-metusalems-sonn",
+      "sem"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, weathered male solo voice with sparse backing choir, acoustic guitar, cello, piano, light percussion, somber and majestic mood, 75 BPM",
+    "lyrics": "[Verse]\nNoah found favor in the eyes of the Lord\nA righteous man, blameless among the crowd\nHe walked with God in the dark and the storm\nShem and Ham and Japheth by his side stood\n\n[Pre-Chorus]\nThe earth was filled with violence and sin\nGod said the end of all flesh had come in\nMake yourself an ark of cypress wood\nCoat it with pitch, keep the family good\n\n[Chorus]\nTwo of every living creature, male and female\nBirds of every kind, kept alive and stable\nRain on the earth for forty days and nights\nWiping out every living being from the sights\n\n[Verse]\nNoah was six hundred years old that day\nWent into the ark to keep the family safe\nThe springs of the deep burst open wide\nThe floodgates of heaven opened their eyes\n\n[Pre-Chorus]\nThe waters rose and lifted the ark high\nDrifting on the surface, under the sky\nFifteen cubits above the mountains' peak\nOnly Noah was left, for the world to seek\n\n[Chorus]\nTwo of every living creature, male and female\nBirds of every kind, kept alive and stable\nRain on the earth for forty days and nights\nWiping out every living being from the sights\n\n[Verse]\nGod remembered Noah and sent a wind\nThe waters began to subside, leaving behind\nOn the seventeenth day of the seventh month\nThe ark came to rest, calm and strong\n\n[Pre-Chorus]\nHe opened the window and sent out a raven\nFlying back and forth, watching the haven\nThen he sent a dove to see if the ground was dry\nWaiting in the ark, watching the sky\n\n[Chorus]\nTwo of every living creature, male and female\nBirds of every kind, kept alive and stable\nRain on the earth for forty days and nights\nWiping out every living being from the sights\n\n[Bridge]\nToward evening the dove came back to him\nWith a freshly plucked olive leaf in its rim\nHe knew the waters had gone down from the earth\nNoah’s faith was the hidden birth\n\n[Outro]\nHe waited seven more days and sent the dove again\nBut this time it did not return\nThe ground was dry, the covenant was made\nIn the rainbow, God’s promise is played",
+    "cot": "full",
+    "seed": 31328
+  }
+}

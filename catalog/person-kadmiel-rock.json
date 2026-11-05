@@ -1,0 +1,78 @@
+{
+  "id": "person-kadmiel-rock",
+  "title": "Blessed Be Your Glorious Name",
+  "kind": "person",
+  "anchor": {
+    "person": "kadmiel"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 43,
+      "verseEnd": 43
+    },
+    {
+      "bookId": 15,
+      "chapter": 3,
+      "verseStart": 9,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 16,
+      "chapter": 9,
+      "verseStart": 4,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 16,
+      "chapter": 9,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 9,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "kadmiel",
+      "serubabel",
+      "jesjua-josva",
+      "esra",
+      "nehemja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with backing choir, electric guitar, bass, drums, cymbals, deep and reverent mood, 85 BPM",
+    "lyrics": "[Verse]\nSeventy-four of the sons of Hodaviah\nReturned from Babylon under the sky\nWith Zerubbabel and Joshua we came\nTo rebuild the house of the Lord\n\n[Pre-Chorus]\nKadmiel with his sons stood together\nTo oversee those working on the holy place\nThe foundation laid with care and reverence\nPriests in vestments with trumpets raised\n\n[Chorus]\nStand up and bless the LORD your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nWhich is exalted above every praise\n\n[Verse]\nOn the platform of the Levites\nKadmiel cried out with a loud voice\nWe recalled the sins of our fathers\nAnd the history of our days\nYou chose Abram from Ur of the Chaldeans\nAnd gave him a new name\n\n[Chorus]\nStand up and bless the LORD your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nWhich is exalted above every praise\n\n[Bridge]\nWe placed our seal upon the covenant\nTo follow the law and commandments\nThe wall is finished and the praise is sung\nOur descendants join in the song\n\n[Chorus]\nStand up and bless the LORD your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nWhich is exalted above every praise\n\n[Outro]\nBlessed be your glorious name\nAbove every blessing and praise",
+    "cot": "full",
+    "seed": 31323
+  }
+}

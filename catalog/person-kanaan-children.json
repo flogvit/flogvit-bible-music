@@ -1,0 +1,75 @@
+{
+  "id": "person-kanaan-children",
+  "title": "Lowest of Slaves",
+  "kind": "person",
+  "anchor": {
+    "person": "kanaan"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 6,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verseStart": 20,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 15,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "kanaan",
+      "noah",
+      "kam",
+      "kusj",
+      "sem"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, piano, light drums, gentle strings, tender and slow, 80 BPM",
+    "lyrics": "[Verse]\nShem and Japheth came out of the ark\nHam the father of Canaan\nNoah planted a vineyard first\nHe drank wine and lay uncovered\n\n[Chorus]\nCursed be Canaan he says\nLowest of slaves to his brothers\nBlessed be the God of Shem\nMay Canaan be his slave\n\n[Verse]\nHam saw his father's nakedness\nTold his two brothers outside\nShem and Japheth took a garment\nWalked in backward to cover him\n\n[Chorus]\nCursed be Canaan he says\nLowest of slaves to his brothers\nBlessed be the God of Shem\nMay Canaan be his slave\n\n[Verse]\nSidon his firstborn and Heth\nJebusites and Amorites\nGirgashites and Hivites\nClans scattered across the land\n\n[Chorus]\nCursed be Canaan he says\nLowest of slaves to his brothers\nBlessed be the God of Shem\nMay Canaan be his slave\n\n[Outro]\nFrom Sidon toward Gerar\nAs far as Gaza and Lasha",
+    "cot": "full",
+    "seed": 31324
+  }
+}

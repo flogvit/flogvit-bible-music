@@ -1,0 +1,37 @@
+\version "2.24.0"
+\header {
+  title = "Blessed Be Your Glorious Name"
+  subtitle = "Ezra 2:40; Nehemiah 7:43; Ezra 3:9–10; Nehemiah 9:4–5; 9:5–7; 10:9–10"
+  tagline = ##f
+  copyright = \markup \small \wordwrap { "Melody" "and" "chords" "from" "the" "score" "YuE2" "generated" "the" "song" "from" "(score.abc)." "Lyrics" "placed" "syllable" "by" "syllable" "against" "the" "recording" "with" "Whisper," "which" "heard" "194" "of" "199" "words." "31" "of" "32" "lyric" "lines" "sit" "clearly" "on" "their" "notes;" "1" "are" "uncertain" "and" "printed" "in" "grey" "italics." }
+}
+\paper {
+  #(set-paper-size "a4")
+  top-margin = 12\mm
+  bottom-margin = 12\mm
+  left-margin = 14\mm
+  right-margin = 14\mm
+  system-system-spacing.basic-distance = #14
+  markup-system-spacing.basic-distance = #8
+}
+melody = {
+  \clef treble \key dis \minor \tempo 4 = 85
+  \time 4/4 \sectionLabel "Intro" R1*1 | R1*1 | R1*1 | R1*1 | R1*1 | \sectionLabel "Verse 1" ais'16 ais'16 ais'4 ais'4 gis'8 fis'8 gis'8 ~ | gis'8 gis'8 gis'8 fis'16 gis'8. ais'8 r8. dis'16 | gis'8. gis'16 gis'16 fis'16 gis'4 ais'8 gis'8 fis'16 fis'16 | dis'4 r2 r8. dis'16 | ais'8 ais'4 dis''4 ais'8 fis'8 gis'8 ~ | gis'8 gis'8 fis'8 ais'4 r4 r16 fis'16 | fis'8 fis'4 fis'16 gis'16 ~ gis'8. r16 fis'16 eis'16 eis'16 eis'16 | dis'4 r2. | R1*1 | R1*1 | R1*1 | \sectionLabel "Pre-Chorus" r8 ais'8 ais'8 ais'4 gis'8 fis'8 gis'8 ~ | gis'4 gis'8 fis'16 gis'8. ais'8 r8. fis'16 | gis'8 fis'16 gis'8. fis'8 gis'16 fis'16 gis'16 fis'16 ais'8 fis'16 fis'16 | dis'4 r2 r8. dis'16 | ais'8 ais'8 ais'8 dis''4. fis''8 eis''8 ~ | eis''4 dis''8 dis''16 cis''16 cis''4 r4 | dis''8 dis''4 fis''8 ~ fis''16 eis''16 eis''8 fis''8 eis''16 eis''16 | dis''2 r2 | \sectionLabel "Chorus" r8 fis''8 fis''8 fis''8 fis''4 ais'8 cis''8 ~ | cis''4 dis''8 cis''4 r4 ais'8 | b'4 b'8 ais'4 gis'4 fis'8 | ais'4 ais'8 gis'4 fis'4 r8 | fis''8 fis''16 fis''8. fis''8 fis''4 ais'8 cis''8 ~ | cis''4. r4 ais'8 ais'8 ais'8 | b'8. b'8. b'8 ais'8. gis'8. fis'8 | fis'16 dis'4. r2 r16 | R1*1 | \sectionLabel "Verse 2" r8 ais'16 ais'16 ais'8 ais'4 gis'8 fis'8 gis'8 ~ | gis'8 ais'4 r2 r8 | gis'16 gis'16 gis'4 gis'4 ais'8 gis'16 fis'8. | fis'16 dis'4 r2 r8. | r8 dis''16 dis''16 dis''8 dis''16 dis''4 r16 dis''16 fis''8 eis''16 ~ | eis''8 dis''16 cis''4. r16 cis''4 cis''8 | dis''8 dis''4 cis''8 ~ cis''4 dis''8 ais'8 ~ | ais'4 r2 ais'8 cis''8 | dis''8. dis''8. dis''8 eis''4 eis''8 eis''16 fis''16 ~ | fis''8 eis''16 dis''4. r4 r16 ais'8 | dis''4. eis''8 ~ eis''4 eis''16 fis''8. | eis''1 | \sectionLabel "Chorus" r8 fis''8 fis''8 fis''8 fis''4 ais'8 cis''8 ~ | cis''4 dis''8 cis''4 r4 ais'8 | b'4 b'8 ais'4 gis'4 fis'8 | ais'4 ais'8 gis'4 fis'4 r8 | fis''8 fis''16 fis''8. fis''8 fis''4 ais'8 cis''8 ~ | cis''4. r4 ais'8 ais'8 ais'8 | b'8. b'8. b'8 ais'8. gis'8. fis'8 | fis'16 dis'16 dis'16 r2. r16 | R1*1 | \sectionLabel "Bridge" r8. dis'16 ais'8 ais'8 ais'8 gis'16 gis'8. fis'16 gis'16 | gis'8 ais'8 r2 r8. fis'16 | fis'16 gis'4 r16 fis'16 gis'4 r16 ais'8 fis'16 fis'16 | dis'8 dis'8 r2. | r8. dis'16 ais'8 ais'8 ais'16 gis'8. gis'8 fis'16 gis'16 ~ | gis'8. r16 fis'8 ais'4 r4 dis'16 eis'16 | fis'8 fis'4 gis'8 ~ gis'4 fis'16 eis'16 eis'16 eis'16 | dis'2 r2 | R1*1 | \sectionLabel "Chorus" r8 fis''8 fis''8 fis''8 fis''4 ais'8 cis''8 ~ | cis''4 dis''8 cis''4 r4 ais'8 | b'4 b'8 ais'4 gis'4 fis'8 | ais'4 ais'8 gis'4 fis'4 r8 | fis''8 fis''16 fis''8. fis''8 fis''4 ais'8 cis''8 ~ | cis''4. r4 ais'8 ais'8 ais'8 | b'8. b'8. b'8 ais'8. gis'8. fis'8 | fis'16 dis'16 dis'16 r2. r16 | R1*1 | \sectionLabel "Outro" fis''8 fis''16 fis''8. fis''8 fis''4 ais'8 cis''8 ~ | cis''4. r2 ais'8 | b'4. cis''4. b'8 ais'8 | ais'8 gis'2 r8 fis'4 | \sectionLabel "Outro" fis'16 eis'16 dis'2. ~ dis'8 ~ | dis'2 ~ dis'8 r4. | R1*1 | R1*1 | R1*1 | R1*1 |
+  \bar "|."
+}
+harmony = \chordmode { s1*7/8 dis1*33/8:m dis1:m cis1 gis1:m dis1*2:m cis1 b1*1/2 cis1*1/2 dis1*4:m dis1:m cis1 gis1:m dis1*2:m cis1 b1*1/2 cis1*1/2 dis1:m dis1:m cis1 gis1:m dis1*2:m cis1 gis1*1/2:m ais1*1/2 dis1*2:m dis1:m cis1 gis1:m dis1*2:m cis1 b1*1/2 cis1*1/2 dis1:m b1*1/2 cis1*1/2 dis1:m b1*1/2 cis1*1/2 ais1 dis1:m cis1 gis1:m dis1*2:m cis1 gis1*1/2:m ais1*1/2:m dis1*2:m dis1:m cis1 gis1:m dis1*2:m cis1 b1*1/2 cis1*1/2 dis1*2:m dis1:m cis1 gis1:m dis1*2:m cis1 gis1*1/2:m ais1*1/2:m dis1*2:m dis1:m cis1 gis1:m ais1:m dis1*6:m }
+words = \lyricmode { "Sev-" -- _ "en-" -- "ty-" -- "four" "of" "the" "sons" "of" "Ho" -- "davi" -- "ah" "Re" -- _ "turned" "from" "Ba" -- "by" -- "lon" "un" -- "der" "the" "sky" "With" _ "Ze" -- "rub" -- "ba" -- "bel" "and" "Joshua" "we" "came" "To" "re" -- "build" "the" "house" "of" "the" "Lord" _ _ "Kad" -- "miel" _ "with" "his" "sons" "stood" "to" -- "geth" -- "er" "To" _ "o" -- "ver" -- "see" "those" "work" -- "ing" "on" "the" "ho" -- "ly" "place" "The" "foun" -- "da" -- "tion" "laid" "with" "care" "and" "rev" -- "er" -- "ence" "Priests" _ "in" "vest" -- "ments" "with" "trum" -- "pets" "raised" "Stand" "up" "and" "bless" "the" "LORD" "your" "God" "From" "ev" -- "er" -- "last" -- "ing" "to" "ev" -- "er" -- "last" -- "ing" "Blessed" "be" "your" "glo" -- "ri" -- "ous" "name" "Which" _ "is" "ex" -- "alt" -- "ed" "a" -- "bove" "ev" -- "ery" "praise" "On" "the" "plat" -- "form" "of" "the" "Le" -- "vites" "Kad" -- _ "miel" "cried" "out" "with" "a" "loud" "voice" "We" _ "re" -- "called" "the" "sins" "of" "our" "fa" -- "thers" "And" "the" "his" -- "tory" "of" "our" "days" "You" _ "chose" "Ab" -- "ram" "from" "Ur" "of" "the" "Chal" -- "deans" "And" "gave" "him" "a" "new" "name" "Stand" "up" "and" "bless" "the" "LORD" "your" "God" "From" "ev" -- "er" -- "last" -- "ing" "to" "ev" -- "er" -- "last" -- "ing" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "Blessed" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "be" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "your" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "glo" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "ri" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "ous" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "name" "Which" _ "is" "ex" -- "alt" -- "ed" "a" -- "bove" "ev" -- "ery" "praise" _ "We" "placed" "our" "seal" "up" -- "on" "the" "co" -- "ve" -- "nant" "To" _ "fol" -- "low" "the" "law" "and" "com" -- "mand" -- "ments" "The" "wall" "is" "fin" -- "ished" "and" "the" "praise" "is" "sung" "Our" "de" -- "scen" -- "dants" "join" "in" "the" "song" _ _ "Stand" "up" "and" "bless" "the" "LORD" "your" "God" "From" "ev" -- "er" -- "last" -- "ing" "to" "ev" -- "er" -- "last" -- "ing" "Blessed" "be" "your" "glo" -- "ri" -- "ous" "name" "Which" _ "is" "ex" -- "alt" -- "ed" "a" -- "bove" "ev" -- "ery" "praise" _ "Blessed" "be" "your" "glo" -- "ri" -- "ous" "name" "A" -- "bove" "ev" -- "ery" "bles" -- "sing" "and" "praise" _ _ _ }
+\score {
+  <<
+    \new ChordNames \with { majorSevenSymbol = \markup { "maj7" } } \harmony
+    \new Staff \new Voice = "melody" \melody
+    \new Lyrics \lyricsto "melody" \words
+  >>
+  \layout {
+    indent = 0
+    \context { \Lyrics
+      \override LyricSpace.minimum-distance = #1.6
+      \override LyricHyphen.minimum-distance = #1.4
+    }
+  }
+}

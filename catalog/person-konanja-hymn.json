@@ -1,0 +1,63 @@
+{
+  "id": "person-konanja-hymn",
+  "title": "Faithfully Brought In",
+  "kind": "person",
+  "anchor": {
+    "person": "konanja"
+  },
+  "references": [
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 13,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 20,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "ydmykhet",
+      "nattverden"
+    ],
+    "stories": [],
+    "persons": [
+      "konanja",
+      "hiskia",
+      "sjimei",
+      "asarja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, warm male baritone solo, soft acoustic guitar, gentle piano, light strings, hopeful and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nThey faithfully brought in the contributions\nThe tithes and the dedicated gifts\nConaniah the Levite was in charge\nManaging every holy thing\nHis brother Shimei was second in command\nServing under the King\n\n[Verse]\nJehiel and Azaziah served as supervisors\nNahath and Asahel too\nBy appointment of King Hezekiah\nAnd Azariah the official\nThey distributed the gifts fairly\nTo the priests and Levites\n\n[Verse]\nKore son of Imnah was the gatekeeper\nAt the East Gate he stood\nIn charge of freewill offerings\nFor God and for the LORD\nHe distributed the consecrated gifts\nWith a faithful heart\n\n[Verse]\nEden and Miniamin helped him out\nJeshua and Shemaiah\nIn the towns of the priests they worked\nDividing by their turns\nTo old and young alike they gave\nWith steady hands\n\n[Outro]\nHe sought his God and worked wholeheartedly",
+    "cot": "full",
+    "seed": 31378
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person-josva-blues",
+  "title": "Be Strong and Courageous",
+  "kind": "person",
+  "anchor": {
+    "person": "josva"
+  },
+  "references": [
+    {
+      "bookId": 6,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 4,
+      "chapter": 14,
+      "verseStart": 6,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 6,
+      "chapter": 3,
+      "verseStart": 14,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 6,
+      "chapter": 6,
+      "verseStart": 2,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 6,
+      "chapter": 24,
+      "verseStart": 14,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "moses",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "josva",
+      "moses",
+      "kaleb"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soulful voice, solo with gospel choir, acoustic guitar, upright bass, brushed drums, tambourine, mournful yet hopeful, 85 BPM",
+    "lyrics": "[Verse]\nMoses the servant of the Lord is dead\nNow get up and cross this Jordan\nEvery place where the sole of your foot treads\nI have given you just as promised\nFrom the wilderness to the great sea\nAll this shall be your territory\nNo one will be able to stand against you\nAs I was with Moses so I will be with you\n\n[Chorus]\nBe strong and courageous\nFor you will give this people possession\nDo not be terrified or dismayed\nThe Lord your God is with you\n\n[Verse]\nJoshua and Caleb tore their clothes\nSaying the land is exceedingly good\nIf the Lord delights in us\nHe will bring us into this land\nFlowing with milk and honey\nTheir protection is gone and the Lord is with us\nDo not fear them\n\n[Chorus]\nBe strong and courageous\nFor you will give this people possession\nDo not be terrified or dismayed\nThe Lord your God is with you\n\n[Verse]\nThe Jordan was overflowing its banks\nAs it does all through the harvest season\nThe feet of the priests touched the water's edge\nThe water standing in a single heap\nSo the people crossed over opposite Jericho\nThe priests stood firm on dry ground\nIn the middle of the Jordan\nAll Israel crossed on dry ground\n\n[Chorus]\nBe strong and courageous\nFor you will give this people possession\nDo not be terrified or dismayed\nThe Lord your God is with you\n\n[Bridge]\nMarch around the city with all your soldiers\nCircling it once for six days\nSeven priests carry seven ram's-horn trumpets\nOn the seventh day march seven times\nThe walls will fall at the sound of the trumpets\nAs for me and my house\nWe will serve the Lord\n\n[Outro]\nBe strong and courageous\nDo not be terrified or dismayed\nThe Lord your God is with you\nWherever you go",
+    "cot": "full",
+    "seed": 31375
+  }
+}

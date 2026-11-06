@@ -1,0 +1,63 @@
+{
+  "id": "person-kesia-jazz",
+  "title": "Full of Days",
+  "kind": "person",
+  "anchor": {
+    "person": "kesia"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 10,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "kesia",
+      "job",
+      "jemima",
+      "keren-happuk"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and soulful, upright bass, piano, brush drums, saxophone, light jazz mood, 90 BPM",
+    "lyrics": "[Verse]\nHe prayed for friends who spoke of blame\nThe Lord restored his lost estate\nTwice as much as he had known\nA blessing greater than before\n\n[Verse]\nShepherds counted flocks in rows\nCamels and oxen under sun\nHe saw his children grow\nAnd lived to see the fourth\n\n[Chorus]\nKeziah was his second girl\nA name like spice that fills the air\nNo women matched their beauty there\nHis daughters shared the land and care\n\n[Verse]\nJemimah led the line\nKeren-happuch brought the close\nThree sisters in his house of joy\nWith silver rings and peace\n\n[Chorus]\nKeziah was his second girl\nA name like spice that fills the air\nNo women matched their beauty there\nHis daughters shared the land and care\n\n[Bridge]\nOne hundred forty years\nHe watched his family tree\nOld and full of days\nHe finally found his rest\n\n[Outro]\nOld and full of days\nKeziah in the light",
+    "cot": "full",
+    "seed": 31377
+  }
+}

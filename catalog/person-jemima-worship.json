@@ -1,0 +1,63 @@
+{
+  "id": "person-jemima-worship",
+  "title": "Twice as Much as Before",
+  "kind": "person",
+  "anchor": {
+    "person": "jemima"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 10,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jemima",
+      "job",
+      "kesia",
+      "keren-happuk"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and gentle, acoustic guitar, piano, cello, soft strings, hopeful and serene, 75 BPM",
+    "lyrics": "[Verse]\nWhen Job prayed for his friends he stood\nThe Lord restored his fortunes to his hand\nHe gave him twice as much as before\nA new beginning after the war\n\n[Verse]\nHis brothers and sisters came to his door\nThey ate in his house and felt the floor\nThey consoled him over the trouble he saw\nGiving pieces of silver and gold rings to draw\n\n[Chorus]\nHe named the first Jemimah\nThe second Keziah\nAnd the third Keren-happuch\nA beauty that is much\n\n[Verse]\nNowhere in all the land were they found\nWomen as beautiful without a sound\nIn Job's daughters the light did break\nWith an inheritance for their sake\n\n[Chorus]\nHe named the first Jemimah\nThe second Keziah\nAnd the third Keren-happuch\nA beauty that is much\n\n[Bridge]\nThey received an inheritance among their brothers\nA gift of justice and gentle glories\nThe latter part of his life was blessed\nMore than the first and never less\n\n[Chorus]\nHe named the first Jemimah\nThe second Keziah\nAnd the third Keren-happuch\nA beauty that is much\n\n[Outro]\nHe saw his children to the fourth generation\nAnd died old and full of days",
+    "cot": "full",
+    "seed": 31374
+  }
+}

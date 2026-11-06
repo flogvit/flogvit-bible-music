@@ -1,0 +1,72 @@
+{
+  "id": "person-levi-leas-sonn-folk",
+  "title": "Divide and Scatter",
+  "kind": "person",
+  "anchor": {
+    "person": "levi-leas-sonn"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 29,
+      "verseStart": 34,
+      "verseEnd": 34
+    },
+    {
+      "bookId": 1,
+      "chapter": 34,
+      "verseStart": 25,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 1,
+      "chapter": 49,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 16,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "levi-leas-sonn",
+      "jakob-israel",
+      "lea",
+      "simeon-leas-sonn",
+      "dina"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, folk, deep male baritone solo, acoustic guitar, cello, wooden flute, hand drum, somber and reflective, 75 BPM",
+    "lyrics": "[Verse]\nShe bore three sons to join her heart\nNow at last my husband stays\nNamed Levi for the bond they share\nThe third son of Jacob's days\n\n[Pre-Chorus]\nSimeon and Levi took their swords\nAgainst the unsuspecting city\nKilling every male in the crowd\nTaking Dinah from the pit\n\n[Chorus]\nCursed be their anger so fierce\nAnd their fury is cruel\nI will divide them in Jacob\nAnd scatter them in Israel\n\n[Verse]\nJacob warned of the stench they bring\nTo the Canaanites and Perizzites\nMy men are few and few are friends\nIf they attack our households' sites\nThey seized the flocks and the herds\nAnd the donkeys in the field\nTook the children and the wives\nAnd the wealth of every shield\n\n[Chorus]\nCursed be their anger so fierce\nAnd their fury is cruel\nI will divide them in Jacob\nAnd scatter them in Israel\n\n[Bridge]\nSons of Levi are Gershon\nKohath and Merari\nLevi lived one hundred thirty-seven\nYears in the land that was dry\nAmram took his sister Jochebed\nBearing Aaron and Moses\nKohath lived one hundred thirty-three\nIn this strange and foreign house\n\n[Chorus]\nCursed be their anger so fierce\nAnd their fury is cruel\nI will divide them in Jacob\nAnd scatter them in Israel\n\n[Outro]\nScattered in Jacob\nDivided in Israel",
+    "cot": "full",
+    "seed": 31380
+  }
+}

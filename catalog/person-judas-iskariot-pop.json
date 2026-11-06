@@ -1,0 +1,67 @@
+{
+  "id": "person-judas-iskariot-pop",
+  "title": "Friend, Do What You Came For",
+  "kind": "person",
+  "anchor": {
+    "person": "judas-iskariot"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 10,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 43,
+      "chapter": 12,
+      "verseStart": 4,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 40,
+      "chapter": 26,
+      "verseStart": 47,
+      "verseEnd": 50
+    },
+    {
+      "bookId": 40,
+      "chapter": 27,
+      "verseStart": 3,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "judas-iskariot",
+      "jesus",
+      "kaifas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo with subtle choir, piano, cello, acoustic guitar, light percussion, somber and reflective, 70 BPM",
+    "lyrics": "[Verse]\nTwelve names written down in the book\nSimon, James, and John, and the crowd\nPhilip and Bartholomew, Thomas too\nMatthew the tax collector, the view\nJames of Alphaeus, Thaddaeus stands\nSimon the Cananaean, in the hands\nAnd Judas Iscariot, last in the list\nThe one who betrayed him, missing the gift\n\n[Chorus]\nFriend, do what you came for\nThey laid their hands on him\nThe kiss on his face\nWas the very last grace\n\n[Verse]\nHe kept the money box in his hand\nTook what was put in, not as planned\nSaid why sell perfume for the poor\nThree hundred denarii, that is the score\nBut he did not care for the needy\nHe was a thief, as the text is ready\nWent to the chief priests with a plan\nAsked what they would give him for the man\n\n[Chorus]\nFriend, do what you came for\nThey laid their hands on him\nThe kiss on his face\nWas the very last grace\n\n[Verse]\nThirty pieces of silver paid\nHe watched for a time, to be weighed\nIn the garden, a crowd with swords\nArrived with clubs, among the lords\nHe gave them a sign to find\nThe one I kiss, you will find\nHe went straight up and kissed his face\nGreetings, Rabbi, in that place\n\n[Chorus]\nFriend, do what you came for\nThey laid their hands on him\nThe kiss on his face\nWas the very last grace\n\n[Bridge]\nSeeing Jesus condemned in the court\nSeized with remorse, torn apart\nBrought back the silver to the priests\nI sinned, I betrayed innocent beasts\nThey said, What is that to us\nSee to it yourself, do as you must\nHe flung the silver in the temple ground\nAnd left the crowd, in the silence found\n\n[Outro]\nHe went away and hanged himself\nThe end of the betrayal, no self",
+    "cot": "full",
+    "seed": 31376
+  }
+}

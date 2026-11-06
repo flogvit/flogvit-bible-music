@@ -1,0 +1,75 @@
+{
+  "id": "person-habasinja-acoustic",
+  "title": "Live in Tents All Your Days",
+  "kind": "person",
+  "anchor": {
+    "person": "habasinja"
+  },
+  "references": [
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 6,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 13,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 24,
+      "chapter": 35,
+      "verseStart": 18,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "habasinja",
+      "jeremia",
+      "jonadab",
+      "jaasanja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male solo voice, warm and reverent, acoustic guitar, cello, gentle percussion, soft piano, choir backing, solemn and hopeful mood, 80 BPM",
+    "lyrics": "[Verse]\nGo to the house of the Rechabites now\nBring them into the chamber here\nSet before them bowls full of wine\nAnd say to them, drink some\n\n[Pre-Chorus]\nWe drink no wine, our father said\nYou and your children never will\nNo houses built, no seed sown down\nNo vineyards planted or owned\n\n[Chorus]\nLive in tents all your days\nSo that you may live long\nObeying the voice of the father\nKeeping the command strong\n\n[Verse]\nWe have obeyed the voice of Jonadab\nIn everything he commanded us\nTo drink no wine all our days\nNeither wives nor sons nor daughters\n\n[Chorus]\nLive in tents all your days\nSo that you may live long\nObeying the voice of the father\nKeeping the command strong\n\n[Bridge]\nBut I have spoken to you again\nAnd you have not listened to me\nYou would not incline your ear\nTo the words I sent down\n\n[Outro]\nJonadab son of Rechab\nWill never lack a descendant\nTo stand before me forever\nFaithful to the end",
+    "cot": "full",
+    "seed": 31373
+  }
+}

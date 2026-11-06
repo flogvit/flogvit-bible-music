@@ -1,0 +1,62 @@
+{
+  "id": "person-gadi-country",
+  "title": "Son of Gadi in Samaria",
+  "kind": "person",
+  "anchor": {
+    "person": "gadi"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 19,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "gadi",
+      "menakem",
+      "sjallum",
+      "sakarja-jeroboams-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, storytelling, solo, acoustic guitar, fiddle, upright bass, piano, somber mood, 75 BPM",
+    "lyrics": "[Verse]\nFrom Tirzah he went up the road\nTo Samaria, with a heavy load\nHe struck down Shallum, son of Jabesh\nAnd took the throne for himself, the least\n\n[Chorus]\nMenahem son of Gadi reigned\nIn the thirty-ninth year, unchanged\nHe did what was evil in the Lord's sight\nHolding power by might and rite\n\n[Verse]\nTiphsah refused to open its gate\nSo he attacked, sealing its fate\nHe ripped open all the pregnant women\nA brutal end for their broken homes\n\n[Chorus]\nMenahem son of Gadi reigned\nIn the thirty-ninth year, unchanged\nHe did what was evil in the Lord's sight\nHolding power by might and rite\n\n[Verse]\nPul king of Assyria came to the land\nMenahem paid the silver demand\nA thousand talents, heavy and cold\nTo keep the Assyrian forces held\n\n[Chorus]\nMenahem son of Gadi reigned\nIn the thirty-ninth year, unchanged\nHe did what was evil in the Lord's sight\nHolding power by might and rite\n\n[Outro]\nFifty shekels from every wealthy man\nThe king of Assyria withdrew then\nTen years in Samaria passed\nIn the shadow of the past",
+    "cot": "full",
+    "seed": 31372
+  }
+}

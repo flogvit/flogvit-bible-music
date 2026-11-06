@@ -1,0 +1,71 @@
+{
+  "id": "person-kyros-choral",
+  "title": "The Lord's Shepherd",
+  "kind": "person",
+  "anchor": {
+    "person": "kyros"
+  },
+  "references": [
+    {
+      "bookId": 23,
+      "chapter": 44,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 23,
+      "chapter": 45,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 15,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 15,
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 15,
+      "chapter": 6,
+      "verseStart": 3,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "kyros",
+      "daniel",
+      "serubabel",
+      "jesaja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, choral, male solo with SATB choir, pipe organ, harp, timpani, French horn, solemn and majestic, 80 BPM",
+    "lyrics": "[Verse]\nWho says of Cyrus, He is my shepherd\nHe will accomplish all that I please\nWho says of Jerusalem, It shall be rebuilt\nAnd of the temple, Its foundation shall be laid\n\n[Verse]\nThis is what the LORD says to his anointed\nTo Cyrus, whose right hand I have grasped\nTo subdue nations before him and strip kings\nOf their armor, to open doors before him\n\n[Verse]\nI will go before you and level the mountains\nI will shatter doors of bronze and cut through bars\nI will give you treasures of darkness hidden\nSo that you may know that I am the LORD\n\n[Verse]\nFor the sake of my servant Jacob\nOf Israel my chosen, I have called you by name\nI have given you a title of honor\nThough you do not know me, I am the LORD\n\n[Verse]\nIn the first year of Cyrus king of Persia\nThe LORD stirred up the spirit of Cyrus\nHe sent a proclamation throughout his kingdom\nTo build the house of the LORD in Jerusalem\n\n[Outro]\nI am the LORD, and there is no other",
+    "cot": "full",
+    "seed": 31379
+  }
+}

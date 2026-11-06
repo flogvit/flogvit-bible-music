@@ -1,0 +1,75 @@
+{
+  "id": "person-maas-gospel",
+  "title": "The Lord's Work",
+  "kind": "person",
+  "anchor": {
+    "person": "maas"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 18,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 16,
+      "chapter": 8,
+      "verseStart": 4,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 41,
+      "verseEnd": 42
+    },
+    {
+      "bookId": 16,
+      "chapter": 11,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 25,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "frelsen",
+      "tro",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "maas",
+      "esra",
+      "nehemja",
+      "sefanja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm choir backing, acoustic guitar, soft piano, cello, hand drum, uplifting and reverent, 80 BPM",
+    "lyrics": "[Verse]\nAmong the priests a name is found\nFrom the sons of Jeshua known\nMaaseiah stood with them\nTo face the weight of sin\n\n[Chorus]\nThey pledged to send the wives away\nAnd being guilty stood in day\nA ram from flock was offered up\nTo cleanse the heart and wash the cup\n\n[Verse]\nOn a wooden platform high\nEzra opened up the eye\nBeside him Maaseiah stood\nWith others in the crowd\n\n[Chorus]\nThey pledged to send the wives away\nAnd being guilty stood in day\nA ram from flock was offered up\nTo cleanse the heart and wash the cup\n\n[Verse]\nThe Levites explained the Law\nWhile the people stood in awe\nMaaseiah spoke with clear sound\nGuiding the minds that were bound\n\n[Chorus]\nThey pledged to send the wives away\nAnd being guilty stood in day\nA ram from flock was offered up\nTo cleanse the heart and wash the cup\n\n[Outro]\nThe Lord's work is done with grace\nIn the restored holy place",
+    "cot": "full",
+    "seed": 31381
+  }
+}

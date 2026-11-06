@@ -1,0 +1,78 @@
+{
+  "id": "person-sjilki-children",
+  "title": "Two Years in Jerusalem",
+  "kind": "person",
+  "anchor": {
+    "person": "sjilki"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 12,
+      "chapter": 21,
+      "verseStart": 19,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 12,
+      "chapter": 21,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 12,
+      "chapter": 21,
+      "verseStart": 23,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 12,
+      "chapter": 21,
+      "verseStart": 24,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 14,
+      "chapter": 33,
+      "verseStart": 21,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "synden",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "sjilki",
+      "manasse-josefs-sonn",
+      "josjia",
+      "hiskia"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle male child voice, solo with warm choir backing, acoustic guitar, piano, light percussion, cello, hopeful but somber mood, 80 BPM",
+    "lyrics": "[Verse]\nAmon was twenty-two when he began to rule\nHe reigned two years in the city of Jerusalem\nHis mother was Meshullemeth from the town of Jotbah\nHe did what was evil in the eyes of the Lord\n\n[Chorus]\nTwo years in Jerusalem, a short and dark time\nHe walked in the ways of his father’s sin\nBowing down to idols, leaving the Lord behind\nTwo years in Jerusalem, a heavy, heavy crown\n\n[Verse]\nHe served the idols that Manasseh made\nHe forsook the God who had led his fathers\nHe did not humble himself before the Lord\nInstead he multiplied his guilt and shame\n\n[Chorus]\nTwo years in Jerusalem, a short and dark time\nHe walked in the ways of his father’s sin\nBowing down to idols, leaving the Lord behind\nTwo years in Jerusalem, a heavy, heavy crown\n\n[Bridge]\nHis officials conspired against him in his house\nThey killed the king and ended his brief reign\nThe people struck down all who plotted against him\nAnd they made his son Josiah king\n\n[Outro]\nBuried in the garden of Uzza’s tomb\nHis son Josiah succeeded him on the throne\nThe annals record the acts of Amon\nA link in the line of the kings of Judah",
+    "cot": "full",
+    "seed": 31340
+  }
+}

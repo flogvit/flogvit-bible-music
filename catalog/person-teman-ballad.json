@@ -1,0 +1,75 @@
+{
+  "id": "person-teman-ballad",
+  "title": "Is There No Longer Wisdom in Teman",
+  "kind": "person",
+  "anchor": {
+    "person": "teman"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 15,
+      "verseEnd": 42
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 36,
+      "verseEnd": 53
+    },
+    {
+      "bookId": 24,
+      "chapter": 49,
+      "verseStart": 7,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 30,
+      "chapter": 1,
+      "verseStart": 11,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 35,
+      "chapter": 3,
+      "verseStart": 3,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "teman",
+      "esau",
+      "elifas",
+      "jakob-israel",
+      "ismael"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with sparse choir, acoustic guitar, cello, harp, ambient pads, somber and reflective, 72 BPM",
+    "lyrics": "[Verse]\nEliphaz son of Esau had a firstborn son\nHis name was Teman among the many listed there\nOmar Zepho Gatam and Kenaz followed him\nChiefs descended from the mother Adah in the land\n\n[Chorus]\nIs there no longer wisdom in Teman\nCounsel has perished from the prudent\nTheir wisdom has decayed in the dust\n\n[Verse]\nHe founded a clan in the land of Edom\nA chief among the people known by name\nHusham ruled from the land of the Temanites\nBefore the kings of Israel reigned upon the throne\n\n[Chorus]\nIs there no longer wisdom in Teman\nCounsel has perished from the prudent\nTheir wisdom has decayed in the dust\n\n[Bridge]\nBozrah will become a horror and a disgrace\nA ruin and a curse forevermore\nThe pride of the heart has deceived the eagle\nWho builds his nest as high as the sky\n\n[Outro]\nLeave your orphans I will keep them alive\nLet your widows trust in me\nIs there no longer wisdom in Teman",
+    "cot": "full",
+    "seed": 31342
+  }
+}

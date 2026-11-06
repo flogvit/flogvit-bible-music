@@ -1,0 +1,76 @@
+{
+  "id": "person-akiman-children",
+  "title": "We seemed like grasshoppers",
+  "kind": "person",
+  "anchor": {
+    "person": "akiman"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 28,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 6,
+      "chapter": 14,
+      "verseStart": 12,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 6,
+      "chapter": 15,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 7,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "tro",
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "akiman",
+      "kaleb",
+      "josva",
+      "moses",
+      "anak"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright children's choir, ukulele, piano, handclaps, gentle percussion, joyful and adventurous mood, 110 BPM",
+    "lyrics": "[Verse]\nTwelve spies went up through the Negev land\nThey came to Hebron, a fortified town\nThey saw Ahiman, Sheshai, and Talmai\nDescendants of Anak, giants in the place\n\n[Chorus]\nWe seemed like grasshoppers in our own eyes\nAnd so we seemed to them, they said\nThe people were strong, the cities so large\nFear filled the hearts of Israel's band\n\n[Verse]\nCaleb quieted the people before Moses\nWe should go up and take possession now\nFor we are well able to do it, he declared\nThough the men with him said, no, we cannot fight\n\n[Chorus]\nWe seemed like grasshoppers in our own eyes\nAnd so we seemed to them, they said\nThe people were strong, the cities so large\nFear filled the hearts of Israel's band\n\n[Bridge]\nBut Joshua blessed Caleb and gave him the hill\nHe followed the Lord wholeheartedly, they say\nSo Hebron belongs to Caleb to this day\nBecause he trusted in God's promise\n\n[Verse]\nCaleb drove out the three sons of Anak\nSheshai, Ahiman, and Talmai fell\nJudah marched against the Canaanites there\nAnd defeated the giants in the valley\n\n[Chorus]\nWe seemed like grasshoppers in our own eyes\nAnd so we seemed to them, they said\nThe people were strong, the cities so large\nFear filled the hearts of Israel's band\n\n[Outro]\nThe land was given, the promise kept\nGod is faithful to the end",
+    "cot": "full",
+    "seed": 31345
+  }
+}

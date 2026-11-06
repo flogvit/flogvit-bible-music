@@ -1,0 +1,73 @@
+{
+  "id": "person-ammihud-soul",
+  "title": "Elishama Son of Ammihud",
+  "kind": "person",
+  "anchor": {
+    "person": "ammihud"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 4,
+      "chapter": 2,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 4,
+      "chapter": 7,
+      "verseStart": 48,
+      "verseEnd": 53
+    },
+    {
+      "bookId": 4,
+      "chapter": 10,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 26,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "ammihud",
+      "elisjama",
+      "moses",
+      "josva"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, male baritone solo with gospel choir, piano, upright bass, drums, saxophone, organ, reverent and majestic, 85 BPM",
+    "lyrics": "[Verse]\nFrom the sons of Joseph came a line\nEphraim stood with heart and mind\nAmmihud named, his father was\nElishama led the chosen class\n\n[Chorus]\nElishama son of Ammihud\nLeader of the tribe that stood\nOn the west side under flag\nGuiding Israel through the track\n\n[Verse]\nWhen the camp was set in order\nStandard raised to find the border\nElishama led the people through\nWith the census count to view\n\n[Chorus]\nElishama son of Ammihud\nLeader of the tribe that stood\nOn the west side under flag\nGuiding Israel through the track\n\n[Bridge]\nSeventh day his offering came\nSilver plate and basin frame\nFine flour mixed with oil so sweet\nGold dish filled, the altar kept\n\n[Outro]\nNun his son, then Joshua came\nLineage recorded, never the same",
+    "cot": "full",
+    "seed": 31346
+  }
+}

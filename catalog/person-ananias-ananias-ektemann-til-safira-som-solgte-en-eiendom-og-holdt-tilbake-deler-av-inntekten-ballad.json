@@ -1,0 +1,71 @@
+{
+  "id": "person-ananias-ananias-ektemann-til-safira-som-solgte-en-eiendom-og-holdt-tilbake-deler-av-inntekten-ballad",
+  "title": "Lied to the Holy Spirit",
+  "kind": "person",
+  "anchor": {
+    "person": "ananias-ananias-ektemann-til-safira-som-solgte-en-eiendom-og-holdt-tilbake-deler-av-inntekten"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 44,
+      "chapter": 5,
+      "verseStart": 3,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 44,
+      "chapter": 5,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 44,
+      "chapter": 5,
+      "verseStart": 7,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 44,
+      "chapter": 5,
+      "verseStart": 11,
+      "verseEnd": 11
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "ananias-ananias-ektemann-til-safira-som-solgte-en-eiendom-og-holdt-tilbake-deler-av-inntekten",
+      "safira",
+      "peter"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo, somber and reverent, acoustic guitar, cello, soft piano, 70 BPM, ballad",
+    "lyrics": "[Verse]\nA man named Ananias stood with his wife\nThey sold a piece of property to the church\nWith Sapphira's knowledge he held back the price\nLaying only a portion at the apostles' feet\n\n[Chorus]\nYou have not lied to men but to God\nSatan filled your heart with a deadly lie\nThe money was yours before the sale was made\nWhy contrive this thing in your heart so deep\n\n[Verse]\nPeter spoke the truth with a Spirit's eye\nWhy lie to the Holy Spirit's presence here\nWhile it remained unsold it was your own\nAfter it was sold the cash was yours to keep\n\n[Chorus]\nYou have not lied to men but to God\nSatan filled your heart with a deadly lie\nThe money was yours before the sale was made\nWhy contrive this thing in your heart so deep\n\n[Verse]\nWhen Ananias heard these words he fell down and died\nGreat fear seized all who heard the tragic tale\nThe young men rose and wrapped the body tight\nCarrying him out to bury him in the ground\n\n[Bridge]\nAbout three hours later Sapphira came in\nNot knowing what had befallen her husband\nPeter asked the price she said it was true\nBut the feet of the mourners stood at the door\n\n[Verse]\nAt once she fell down at his feet and died\nFound dead by the young men who carried her out\nThey buried her beside her husband in the earth\nGreat fear came over the whole church of faith\n\n[Chorus]\nYou have not lied to men but to God\nSatan filled your heart with a deadly lie\nThe money was yours before the sale was made\nWhy contrive this thing in your heart so deep\n\n[Outro]\nGreat fear came over all who heard of it\nA warning for the new community of faith",
+    "cot": "full",
+    "seed": 31347
+  }
+}

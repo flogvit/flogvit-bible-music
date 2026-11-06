@@ -1,0 +1,80 @@
+{
+  "id": "person-sjobak-soul",
+  "title": "Struck Down at Helam",
+  "kind": "person",
+  "anchor": {
+    "person": "sjobak"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 10,
+      "verseStart": 15,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 10,
+      "chapter": 10,
+      "verseStart": 16,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 10,
+      "chapter": 10,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 10,
+      "chapter": 10,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 10,
+      "chapter": 10,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 13,
+      "chapter": 19,
+      "verseStart": 16,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "salvation"
+    ],
+    "themes": [
+      "david",
+      "frykt",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "sjobak",
+      "david",
+      "hadadeser"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soul voice, deep and resonant, electric piano, upright bass, brushed drums, saxophone, choir pads, mournful and powerful, 80 BPM",
+    "lyrics": "[Verse]\nThe Arameans saw they had been defeated\nThey regrouped in the shadow of the field\nHadadezer sent out his messengers\nTo pull the soldiers from beyond the river\nThey came to Helam in a heavy line\nWith Shobach leading them, commander of the fight\n\n[Pre-Chorus]\nWhen David was told of this new threat\nHe gathered all Israel, strong and set\nCrossed the Jordan to meet them face to face\nThe Arameans drew up their lines in place\n\n[Chorus]\nShobach fell where the battle raged\nStruck down by the hand of David's might\nHe died there in the dust and the blood\nThe commander of their army, no more stood\nThe Arameans fled before Israel's power\nAnd the vassal kings bowed to the hour\n\n[Verse]\nSeven hundred charioteers were slain\nForty thousand horsemen gone in vain\nThe resistance broke, the fear was deep\nThe kings who served Hadadezer had to sleep\nThey made peace with the people of the land\nSubject now to a foreign hand\n\n[Pre-Chorus]\nThe fear took hold, they dared not stand\nTo help the Ammonites across the land\nThe alliance broke, the war was done\nUnder the rule of the chosen son\n\n[Chorus]\nShobach fell where the battle raged\nStruck down by the hand of David's might\nHe died there in the dust and the blood\nThe commander of their army, no more stood\nThe Arameans fled before Israel's power\nAnd the vassal kings bowed to the hour\n\n[Outro]\nNo longer willing to help the foe\nThe army of Hadadezer is low\nShobach is gone, the battle is past\nOnly the truth of this day will last",
+    "cot": "full",
+    "seed": 31341
+  }
+}

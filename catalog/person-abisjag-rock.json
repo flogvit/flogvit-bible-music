@@ -1,0 +1,72 @@
+{
+  "id": "person-abisjag-rock",
+  "title": "The Request For Abishag",
+  "kind": "person",
+  "anchor": {
+    "person": "abisjag"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 11,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 11,
+      "chapter": 1,
+      "verseStart": 32,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 11,
+      "chapter": 2,
+      "verseStart": 13,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 11,
+      "chapter": 2,
+      "verseStart": 19,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "abisjag",
+      "david",
+      "salomo",
+      "adonja",
+      "batseba"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, raw and urgent, electric guitar, bass, drums, moody and tense, 110 BPM",
+    "lyrics": "[Verse]\nOld King David could not get warm\nServants searched for a young girl\nThey found Abishag of Shunem\nShe served him with gentle care\n\n[Pre-Chorus]\nAdonijah claimed he would be king\nHe took chariots and horsemen\nFifty men ran ahead of him\nBut the kingdom was not his\n\n[Chorus]\nAsk for Abishag as your wife\nThis request hides a deadly claim\nSolomon sees through the veil of lies\nThe throne is not yours to claim\n\n[Verse]\nZadok and Nathan anoint the heir\nAt Gihon the trumpet sounds\nLong live King Solomon they shout\nThe succession is now secure\n\n[Pre-Chorus]\nAdonijah goes to Bathsheba\nHe speaks with a humble face\nBut his heart desires the crown\nHe tests the new King's grace\n\n[Chorus]\nAsk for Abishag as your wife\nThis request hides a deadly claim\nSolomon sees through the veil of lies\nThe throne is not yours to claim\n\n[Bridge]\nWhy do you ask for her as wife\nAsk for the kingdom as well\nFor Joab and Abiathar too\nThis word will cost your life\n\n[Outro]\nBenaiah strikes Adonijah down\nHe dies for his greed\nThe old King's care becomes a trap\nIn the court's dark deed",
+    "cot": "full",
+    "seed": 31344
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "person-abiasaf-celtic",
+  "title": "The Sons Spared",
+  "kind": "person",
+  "anchor": {
+    "person": "abiasaf"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 4,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 22,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 33,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "abiasaf",
+      "moses",
+      "aron",
+      "korah-levitt",
+      "samuel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Solo female voice, ethereal and resonant, harp, bodhran, low strings, cello, atmospheric pads, solemn and reflective, 72 BPM",
+    "lyrics": "[Verse]\nThe sons of Korah stand in the line\nAssir and Elkanah and Abiasaph\nDescendants of Levi in the clan\nHolding the history in their hand\n\n[Chorus]\nThe earth opened its mouth wide\nSwallowing the rebels with pride\nBut the sons of Korah did not die\nSparing the lineage from the sky\n\n[Verse]\nKorah rose up against Moses\nWith two hundred and fifty men\nThey grumbled against God’s choice\nSaying we are all holy then\nMoses fell facedown in the dust\nAs the fire from the Lord burst\nConsuming the incense and the proud\nWhile the faithful were not allowed\n\n[Chorus]\nThe earth opened its mouth wide\nSwallowing the rebels with pride\nBut the sons of Korah did not die\nSparing the lineage from the sky\n\n[Verse]\nAbiasaph became a father\nTo Tahath in the Levitical way\nHis brother Asaph stood right hand\nSinging praise for the holy day\nThe Korahites kept the gates\nServing where their souls were made\nThrough Abiasaph’s line descended\nHeman, whose voice was blessed\n\n[Chorus]\nThe earth opened its mouth wide\nSwallowing the rebels with pride\nBut the sons of Korah did not die\nSparing the lineage from the sky\n\n[Bridge]\nNot all who rebel are lost\nNot all who serve are crossed\nThe judgment fell on the sin\nBut the seed remained within\n\n[Outro]\nThe sons of Korah did not die\nThe sons of Korah did not die",
+    "cot": "full",
+    "seed": 31343
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "person-evil-merodak-gospel",
+  "title": "A Seat of Honor",
+  "kind": "person",
+  "anchor": {
+    "person": "evil-merodak"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 27,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 24,
+      "chapter": 52,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 24,
+      "chapter": 52,
+      "verseStart": 32,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 24,
+      "chapter": 52,
+      "verseStart": 33,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "evil-merodak",
+      "nebukadnesar",
+      "jojakin"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gospel choir, piano, strings, drums, organ, hopeful and reverent, 80 BPM",
+    "lyrics": "[Verse]\nThe thirty-seventh year of exile passed\nIn the twelfth month when hope arrived\nEvil-Merodach became king of Babylon\nAnd the heavy chains were lifted high\nHe showed favor to the captive king\nWho sat in darkness for so long\n\n[Chorus]\nHe spoke kindly to him with grace\nGave a seat of honor in that place\nAbove the thrones of other kings\nJehoiachin heard the sweet things\n\n[Verse]\nThe prison clothes were taken away\nRestored to his dignity that day\nHe ate regularly at the royal table\nFor the rest of his life\nThe daily allowance was provided\nIn the land where he was exiled\n\n[Chorus]\nHe spoke kindly to him with grace\nGave a seat of honor in that place\nAbove the thrones of other kings\nJehoiachin heard the sweet things\n\n[Bridge]\nFrom the shadows of the cell\nTo the light where the honor dwell\nA glimmer of hope remains\nIn the memories of old days\n\n[Outro]\nReleased from prison in the end\nWith kindness that we cannot mend",
+    "cot": "full",
+    "seed": 31365
+  }
+}

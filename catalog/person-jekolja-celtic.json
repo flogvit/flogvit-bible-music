@@ -1,0 +1,76 @@
+{
+  "id": "person-jekolja-celtic",
+  "title": "Jecoliah of Jerusalem",
+  "kind": "person",
+  "anchor": {
+    "person": "jekolja"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 14,
+      "chapter": 26,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 12,
+      "chapter": 14,
+      "verseStart": 17,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 14,
+      "chapter": 26,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 14,
+      "chapter": 26,
+      "verseStart": 5,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jekolja",
+      "amasja-joas-sonn",
+      "ussia-asarja",
+      "joas-akasjas-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice solo, Celtic harp, bodhran, tin whistle, fiddle, mood solemn and majestic, 90 BPM",
+    "lyrics": "[Verse]\nA conspiracy formed in the city gate\nAmaziah fled to Lachish in fear\nThey sent men after him to that place\nKilling the king who had reigned so long\n\nThey brought him back on horses home\nBuried in the City of David\nAmong his fathers in the sacred ground\nThe people gathered in the streets\n\n[Pre-Chorus]\nTook the young prince from the royal house\nSixteen years old upon the throne\nIn place of his father who is gone\nAzariah rules the land of Judah\n\n[Chorus]\nHis mother's name was Jecoliah\nA woman of Jerusalem\nShe stood in the shadow of kings\nHer name recorded in the chronicles\n\n[Verse]\nUzziah was sixteen years old\nWhen he became king in Jerusalem\nHe reigned fifty-two years there\nSeeking the Lord with all his heart\n\nHe rebuilt Eloth for Judah\nAfter the king rested with fathers\nHe did what was right in God's eyes\nJust as his father Amaziah did\n\n[Chorus]\nHis mother's name was Jecoliah\nA woman of Jerusalem\nShe stood in the shadow of kings\nHer name recorded in the chronicles\n\n[Bridge]\nHe set himself to seek God\nIn the days of Zechariah's visions\nAs long as he sought the Lord\nGod gave him success and strength\n\n[Outro]\nJecoliah of Jerusalem\nMother of the faithful king\nHer name lives in the scripture\nIn the history of Judah",
+    "cot": "full",
+    "seed": 31371
+  }
+}

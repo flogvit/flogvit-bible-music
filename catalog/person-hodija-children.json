@@ -1,0 +1,70 @@
+{
+  "id": "person-hodija-children",
+  "title": "Sealed in Praise",
+  "kind": "person",
+  "anchor": {
+    "person": "hodija"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 8,
+      "verseStart": 7,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 16,
+      "chapter": 9,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 10,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 28,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "glede"
+    ],
+    "stories": [],
+    "persons": [
+      "hodija",
+      "nehemja",
+      "esra",
+      "josva",
+      "bani"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright female solo voice, acoustic guitar, flute, light percussion, warm strings, hopeful and gentle mood, 90 BPM",
+    "lyrics": "[Verse]\nJehdeiah stood among the Levites\nExplaining the Law to the assembly\nReading from the book of God\nMaking the words clear and true\nThe people listened in their places\nUnderstanding the divine command\nA time of renewal in Jerusalem\nAfter the long exile was done\n\n[Chorus]\nStand up and bless the Lord your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nExalted above all praise\nThe covenant is sealed in faith\nWe follow the Lord's commands\n\n[Verse]\nNehemiah and Ezra spoke\nTo the weeping crowd that day\nThis day is holy to the Lord\nDo not mourn or weep\nThe joy of the Lord was our strength\nAs we heard the words of law\nJehdeiah led us in prayer\nLifting our hearts in praise\n\n[Chorus]\nStand up and bless the Lord your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nExalted above all praise\nThe covenant is sealed in faith\nWe follow the Lord's commands\n\n[Verse]\nWe pledged to follow Moses' law\nTo keep the Sabbath holy\nTo separate from foreign ways\nAnd love the Lord with all\nJehdeiah signed the agreement\nWith the priests and leaders\nA community rebuilt in grace\nLiving under God's protection\n\n[Chorus]\nStand up and bless the Lord your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nExalted above all praise\nThe covenant is sealed in faith\nWe follow the Lord's commands",
+    "cot": "full",
+    "seed": 31368
+  }
+}

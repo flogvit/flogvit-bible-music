@@ -1,0 +1,73 @@
+{
+  "id": "person-hasjabnja-rock",
+  "title": "Sealed in Stone and Sky",
+  "kind": "person",
+  "anchor": {
+    "person": "hasjabnja"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 9,
+      "verseStart": 4,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 16,
+      "chapter": 9,
+      "verseStart": 5,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 10,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 24,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "hasjabnja",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, driving electric guitar, thundering drums, warm organ, cello, powerful choir backing, solemn and triumphant mood, 90 BPM",
+    "lyrics": "[Verse]\nOn the platform stood the men of old\nJeshua, Bani, and Kadmiel\nHashabneiah cried out with a loud voice\nTo the Lord their God in the holy place\n\n[Chorus]\nStand up and bless the Lord your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nExalted above every blessing and praise\n\n[Verse]\nYou made the highest heavens and all their host\nThe earth and everything on it\nThe seas and everything in them\nYou give life to them all\n\n[Pre-Chorus]\nYou chose Abram and brought him out\nFrom Ur of the Chaldeans\nYou found his heart faithful before you\nAnd made a covenant with him\n\n[Chorus]\nStand up and bless the Lord your God\nFrom everlasting to everlasting\nBlessed be your glorious name\nExalted above every blessing and praise\n\n[Verse]\nWe are entering a binding agreement\nPut in writing by our hands\nNehemiah the governor seals it\nWith our priests and our Levites\n\n[Bridge]\nHattush son of Hashabniah repaired\nNext to Jedaiah in the wall\nOur names are written on the sealed document\nWe keep your word for you are righteous\n\n[Outro]\nFrom everlasting to everlasting\nBlessed be your glorious name",
+    "cot": "full",
+    "seed": 31367
+  }
+}

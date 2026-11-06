@@ -1,0 +1,68 @@
+{
+  "id": "person-ebed-far-til-gaal-som-utfordret-abimelek-i-sikem-folk",
+  "title": "Who is Abimelech",
+  "kind": "person",
+  "anchor": {
+    "person": "ebed-far-til-gaal-som-utfordret-abimelek-i-sikem"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 9,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 7,
+      "chapter": 9,
+      "verseStart": 28,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 7,
+      "chapter": 9,
+      "verseStart": 30,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 7,
+      "chapter": 9,
+      "verseStart": 35,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 7,
+      "chapter": 9,
+      "verseStart": 39,
+      "verseEnd": 41
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "ebed-far-til-gaal-som-utfordret-abimelek-i-sikem",
+      "gaal",
+      "abimelech-gideons-sonn",
+      "sebul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male voice with warm baritone, acoustic guitar, fiddle, upright bass, light percussion, mournful folk mood, 90 BPM",
+    "lyrics": "[Verse]\nGaal son of Ebed came with his brothers\nMoved into Shechem and stayed\nThe leaders put their trust in him\nIn the shadow of the city gate\n\n[Chorus]\nWho is Abimelech and who is Shechem\nThat we should serve him as our king\nIs he not the son of Jerubbaal\nWith Zebul as his deputy to bring\n\n[Verse]\nAt the temple of the god of Shechem\nGaal spoke his words of open defiance\nServe the men of Hamor he said\nThe father of the city and its alliance\n\n[Chorus]\nWho is Abimelech and who is Shechem\nThat we should serve him as our king\nIs he not the son of Jerubbaal\nWith Zebul as his deputy to bring\n\n[Bridge]\nZebul heard the words and anger burned\nHe sent messengers in the night\nLie in wait in the fields he whispered\nStrike at sunrise with your might\n\n[Verse]\nGaal stood at the gate and saw the troops\nComing down from the mountaintops\nZebul mocked his vision of shadows\nSaying you see men where the earth is a stop\n\n[Chorus]\nWho is Abimelech and who is Shechem\nThat we should serve him as our king\nIs he not the son of Jerubbaal\nWith Zebul as his deputy to bring\n\n[Outro]\nGaal fled before the chasing hand\nDriven out from the place he had claimed",
+    "cot": "full",
+    "seed": 31364
+  }
+}

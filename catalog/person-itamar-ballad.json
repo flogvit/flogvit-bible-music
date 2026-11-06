@@ -1,0 +1,75 @@
+{
+  "id": "person-itamar-ballad",
+  "title": "The Priestly Line",
+  "kind": "person",
+  "anchor": {
+    "person": "itamar"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 28,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 3,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 2,
+      "chapter": 38,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 4,
+      "chapter": 4,
+      "verseStart": 28,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 13,
+      "chapter": 24,
+      "verseStart": 4,
+      "verseEnd": 6
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "pakten",
+      "guds-hellighet",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "itamar",
+      "moses",
+      "aron",
+      "eleasar-arons-sonn",
+      "eli"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, deep and reverent, solo with choir, acoustic guitar, piano, cello, flute, soft drums, solemn and majestic, 70 BPM",
+    "lyrics": "[Verse]\nBring near Aaron and his sons\nTo serve me as priests among the people\nNadab and Abihu Eleazar Ithamar\nChosen for the holy task\n\n[Verse]\nFire went out from before the Lord\nConsumed two who offered unauthorized fire\nAaron was silent in the shock\nMoses spoke with weight and grace\n\n[Pre-Chorus]\nDo not let your hair hang loose\nDo not tear your garments in despair\nStay at the entrance of the tent\nFor the anointing oil is upon you\n\n[Chorus]\nIthamar stands beside his brother\nContinuing the sacred service\nOverseeing the Levite clans\nKeeping the tabernacle whole\n\n[Verse]\nUnder the direction of the priest\nThe Gershonites carry their part\nThe Merarites lift the frames\nHeavy loads for the tent of meeting\n\n[Chorus]\nIthamar stands beside his brother\nContinuing the sacred service\nOverseeing the Levite clans\nKeeping the tabernacle whole\n\n[Bridge]\nEight heads of ancestral houses\nDrawn by lot in the king's presence\nA line of priests for God\nDescending from the chosen son\n\n[Outro]\nOne lineage serves the sanctuary\nFaithful through the generations",
+    "cot": "full",
+    "seed": 31370
+  }
+}

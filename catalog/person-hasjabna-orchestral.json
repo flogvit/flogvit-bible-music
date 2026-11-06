@@ -1,0 +1,68 @@
+{
+  "id": "person-hasjabna-orchestral",
+  "title": "Blessed Be Your Glorious Name",
+  "kind": "person",
+  "anchor": {
+    "person": "hasjabna"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 9,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 28,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 16,
+      "chapter": 11,
+      "verseStart": 22,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "bonn"
+    ],
+    "stories": [],
+    "persons": [
+      "hasjabna",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, orchestral, female solo voice with choir, harp, organ, cello, strings, reverent and solemn, 72 BPM",
+    "lyrics": "[Verse]\nThe Levites stood in the court that day\nJeshua and Kadmiel led the way\nBani and Hashabneiah stood tall\nSherebiah and Hodiah heard the call\nShebaniah and Pethahiah joined in\nTo bless the Lord from past to present\n\n[Chorus]\nBlessed be your glorious name\nWhich is exalted above all fame\nAbove every blessing and praise\nWe lift our voices in the haze\n\n[Verse]\nThey bound themselves with a curse and an oath\nTo walk in the Law of God\nGiven through Moses the servant true\nTo keep and carry out all that is due\nWith judgments and statutes of the Lord\nBound to the covenant, a solid word\n\n[Chorus]\nBlessed be your glorious name\nWhich is exalted above all fame\nAbove every blessing and praise\nWe lift our voices in the haze\n\n[Bridge]\nIn Jerusalem the work continued\nLevites served as it was intended\nUzzi son of Bani served there\nDescendants of Asaph in the prayer\nSingers in the house of God\nKeeping the faith of the old road\n\n[Chorus]\nBlessed be your glorious name\nWhich is exalted above all fame\nAbove every blessing and praise\nWe lift our voices in the haze\n\n[Outro]\nBlessed be your glorious name\nExalted above every fame",
+    "cot": "full",
+    "seed": 31366
+  }
+}

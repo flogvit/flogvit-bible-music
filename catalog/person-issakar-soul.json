@@ -1,0 +1,76 @@
+{
+  "id": "person-issakar-soul",
+  "title": "Strong-boned Donkey",
+  "kind": "person",
+  "anchor": {
+    "person": "issakar"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 30,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 1,
+      "chapter": 49,
+      "verseStart": 14,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 4,
+      "chapter": 1,
+      "verseStart": 28,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 5,
+      "chapter": 33,
+      "verseStart": 18,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "issakar",
+      "jakob-israel",
+      "lea",
+      "josef-gt",
+      "esau"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, deep male baritone solo with gospel choir, Hammond organ, upright bass, acoustic guitar, tambourine, warm and reflective mood, 85 BPM",
+    "lyrics": "[Verse]\nGod listened to Leah\nShe conceived a fifth son\nHe said my wages are given\nBecause I gave my servant\nSo she named him Issachar\nThe name means reward\n\n[Chorus]\nIssachar is a strong-boned donkey\nLying down between the saddlebags\nHe saw that his resting place was good\nAnd that the land was pleasant\n\n[Verse]\nHe bent his shoulder to the load\nAnd became a slave at forced labor\nThe sons are Tola and Puvah\nIob and Shimron are there\nWith Jacob they went to Egypt\nTo live with Joseph in the famine\n\n[Chorus]\nIssachar is a strong-boned donkey\nLying down between the saddlebags\nHe saw that his resting place was good\nAnd that the land was pleasant\n\n[Verse]\nIn the wilderness they counted them\nMen twenty years old and up\nFit for service in the army\nListed by name and clan\nThe number from the tribe\nWas fifty-four thousand four hundred\n\n[Chorus]\nIssachar is a strong-boned donkey\nLying down between the saddlebags\nHe saw that his resting place was good\nAnd that the land was pleasant\n\n[Bridge]\nMoses spoke a blessing\nRejoice in your going out\nAnd rejoice in your tents\nSummon peoples to the mountain\nOffer sacrifices of righteousness\nFeast on the abundance of the seas\n\n[Outro]\nTreasures hidden in the sand\nThe wages of God",
+    "cot": "full",
+    "seed": 31369
+  }
+}

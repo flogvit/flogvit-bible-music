@@ -1,0 +1,37 @@
+\version "2.24.0"
+\header {
+  title = "Faithful Mother of Levi"
+  subtitle = "Exodus 6:20; Numbers 26:59; Exodus 2:1–2; Hebrews 11:23; Exodus 2:3–4; 2:5–9"
+  tagline = ##f
+  copyright = \markup \small \wordwrap { "Melody" "and" "chords" "from" "the" "score" "YuE2" "generated" "the" "song" "from" "(score.abc)." "Lyrics" "placed" "syllable" "by" "syllable" "against" "the" "recording" "with" "Whisper," "which" "heard" "261" "of" "263" "words." "41" "of" "42" "lyric" "lines" "sit" "clearly" "on" "their" "notes;" "1" "are" "uncertain" "and" "printed" "in" "grey" "italics." }
+}
+\paper {
+  #(set-paper-size "a4")
+  top-margin = 12\mm
+  bottom-margin = 12\mm
+  left-margin = 14\mm
+  right-margin = 14\mm
+  system-system-spacing.basic-distance = #14
+  markup-system-spacing.basic-distance = #8
+}
+melody = {
+  \clef treble \key bes \major \tempo 4 = 72
+  \time 4/4 R1*1 | R1*1 | R1*1 | R1*1 | \sectionLabel "Verse 1" r2 r8. bes'16 d''8 c''16 bes'16 | c''8 d''8 r8. bes'16 c''8 d''4 d''8 | r2 r8 d''8 d''8 c''16 bes'16 | bes'8 r4 r16 bes'16 bes'16 c''16 d''4 c''8 | r2. r16 bes'16 bes'8 | f''16 f''16 f''8 f''16 d''16 d''8 c''8 r8 c''8 bes'16 f''16 ~ | f''8 f''8 f''16 d''16 d''16 c''16 c''16 bes'8 r8 bes'16 c''16 bes'16 | c''8 d''8 r8. bes'16 c''8 bes'16 c''8. r8 | r16 bes'16 d''8 d''8. d''16 d''8 c''16 c''8 bes'16 bes'8 ~ | \sectionLabel "Pre-Chorus" bes'8 bes'4 r2 r16 bes'16 | a''16 bes''16 bes''8 bes''8 d''8 f''4 f''8 f''16 a''16 ~ | a''16 bes''16 bes''16 bes''16 bes''16 d''16 d''16 f''8. r4. | bes''8 bes''8 bes''8 d''16 d''16 f''8. f''16 f''8 d''8 | d''8 c''8 c''8 d''4 c''4 r8 | \time 2/4 \sectionLabel "Chorus" r4 r16 bes'16 bes'16 bes'16 | \time 4/4 c'''8 d'''16 d'''8. bes''16 c'''8. d'''8 r4 | c'''16 c'''16 d'''8 d'''8 bes''8 c'''8 r4. | c'''8 d'''16 d'''8 bes''16 bes''8 c'''8 d'''8 r4 | bes''16 c'''16 c'''16 c'''8. bes''16 a''4 a''8. f''16 f''16 | d''4 r2. | \sectionLabel "Verse 2" r2 r8. bes'16 d''8 c''16 d''16 ~ | d''8 r8. c''16 bes'16 c''8 d''8. d''16 c''8 bes'16 | d''8. f''8 d''8 c''8. r8 d''8 c''8 | c''16 bes'8 c''8. c''16 bes'16 c''16 d''8 r4 bes'16 | c''8 c''16 bes'16 c''16 d''8 f''4 f''16 f''8 f''16 g''16 ~ | g''8 bes''16 bes''8. d''16 f''8. r8 d''16 f''8 g''16 ~ | g''8 bes''4 bes''16 d'''8. c'''4. ~ | \time 2/4 \sectionLabel "Chorus" c'''8 r8. bes'16 bes'16 bes'16 | \time 4/4 c'''8 d'''16 d'''8. bes''16 c'''8. d'''8 r4 | c'''16 c'''16 d'''8 d'''8 bes''8 c'''8 r4. | c'''8 d'''16 d'''8 bes''16 bes''8 c'''8 d'''8 r4 | bes''16 c'''16 c'''16 c'''8. bes''16 a''4 a''8. f''16 f''16 | \sectionLabel "Bridge" d''4 r2 r8. bes'16 | a''16 bes''16 bes''16 bes''16 bes''8 d''16 f''2 a''16 ~ | a''16 bes''8 bes''16 bes''8 d''16 f''8. r8 d''16 f''8. | g''8 f''8 d''8 c''8 r8. bes'16 c''16 d''8. | d''16 c''16 c''16 c''8 bes'8 d''8. c''4. | \sectionLabel "Verse 3" r2 r8. bes'16 d''8 c''16 d''16 ~ | d''8. bes'16 c''8 bes'16 d''8. r16 bes'16 d''8 c''8 | c''16 d''4 r16 c''16 d''8. r8 d''8 c''8 | c''8 bes'8 r8 bes'16 c''8. bes'8 c''8 d''8 | d''8 c''16 bes'16 c''16 d''8 f''8. r8 f''8 f''16 g''16 ~ | g''8 bes''8. bes''16 d''16 d''16 f''4 f''8 f''8 | r8 f''16 g''8 bes''8. c'''2 | \sectionLabel "Chorus" c'''2 r4 r16 bes'16 bes'16 bes'16 | c'''8 d'''16 d'''8. bes''16 c'''8. d'''8 r4 | c'''16 c'''16 d'''8 d'''8 bes''8 c'''8 r4. | c'''8 d'''16 d'''8 bes''16 bes''8 c'''8 d'''8 r4 | bes''16 c'''16 c'''16 c'''8. bes''16 a''4 a''8. f''16 f''16 | \sectionLabel "Outro" d''4 r2 r8 bes'8 | bes''8 bes''8 bes''8 d''8 d''16 f''8. f''8 f''16 a''16 ~ | a''16 bes''8 bes''16 bes''8. d''8 f''8 r4 bes'16 | c''8 d''16 d''8 c''16 bes'8 c''16 d''8. r4 | r4 c''8 bes'16 d''8. c''16 c''8 bes'8. | bes'4 r2. | R1*1 | R1*1 | \time 9/8 R1*9/8 |
+  \bar "|."
+}
+harmony = \chordmode { s1*3/4 bes1*5/4 g1:m7 es1 f1 bes1 g1:m es1 f1 bes1 g1:m es1 f1 bes1 es1 g1:m es1 f1 f1*1/2 bes1 g1:m es1 f1 bes1 bes1*2 g1:m es1 f1 g1:m es1 es1*1/2 bes1 g1:m es1 f1 bes1 es1 g1:m es1 f1 f1 bes1 g1:m es1 f1 g1:m es1 es1 bes1 g1:m es1 f1 bes1 es1 g1:m es1 f1 bes1 g1:m7 es1 f1*9/8 }
+words = \lyricmode { "A" "daugh" -- "ter" "of" "Le" -- "vi" "in" "E" -- "gypt" "lived" "Am" -- "ram" "mar" -- "ried" "her," "the" "co" -- "ve" -- "nant" "kept" "She" "bore" _ "Aa" -- "ron" "and" "Miri" -- "am" "too" "Mo" -- "ses" "came" "when" "the" "de" -- "cree" "stood" _ _ "The" "king" "com" -- "mand" -- "ed" "to" "kill" "the" "boys" "But" "she" "saw" "the" "beau" -- "ty" "of" "the" "child's" "face" "She" "hid" "him" "for" "three" "full" "months" "Not" "af" -- "raid" "of" "the" "king's" "hea" -- "vy" "com" -- "mand" "Faith" "stood" "strong" "in" "the" "land" "When" "she" "could" "hide" "him" "no" "lon" -- "ger" "She" "made" "a" "bas" -- "ket" "of" "pa" -- "py" -- "rus" "Coat" -- "ed" "with" "tar" "and" "pitch" "Laid" "the" "child" "in" "it" "gen" -- "tly" "Set" _ "it" "a" -- "mong" "the" "reeds" "on" "the" "Nile" "His" "sis" -- "ter" "stood" "at" "a" "dis" -- "tance" "Watch" -- "ing" "to" "see" "what" "would" "be" "Pharao" -- "h's" "daugh" -- "ter" "came" "to" "the" "riv" -- "er" "To" "bathe" "by" "the" "wa" -- "ter's" "edge" "She" "saw" "the" "bas" -- "ket" "in" "the" "reeds" "Sent" "her" "slave" "girl" "to" "fetch" "it" "She" "made" "a" "bas" -- "ket" "of" "pa" -- "py" -- "rus" "Coat" -- "ed" "with" "tar" "and" "pitch" "Laid" "the" "child" "in" "it" "gen" -- "tly" "Set" _ "it" "a" -- "mong" "the" "reeds" "on" "the" "Nile" "She" "ope" -- "ned" "it" "and" "saw" "the" "boy" "Cry" -- "ing," "a" "ba" -- "by" "boy" "She" "felt" "sor" -- "ry" "for" "him" "Said" "this" "is" "one" "of" "the" "He" -- "brew" "chil" -- "dren" "His" _ "sis" -- "ter" "asked" "to" "find" "a" "nurse" "A" "He" -- "brew" "wom" -- "an" "to" "help" "Pharao" -- "h's" "daugh" -- "ter" "a" -- "greed" "and" "said" "Go," "find" "her" "and" "bring" "her" "here" "Joc" -- "he" -- "bed" "came" "and" "took" "the" "child" "Nursed" "him" "for" "wa" -- "ges" "paid" "She" "made" "a" "bas" -- "ket" "of" "pa" -- "py" -- "rus" "Coat" -- "ed" "with" "tar" "and" "pitch" "Laid" "the" "child" "in" "it" "gen" -- "tly" "Set" _ "it" "a" -- "mong" "the" "reeds" "on" "the" "Nile" "By" "faith" "his" "par" -- "ents" "hid" "him" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "Not" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "af" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "raid" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "of" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "the" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "king's" \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "e" -- \once \override LyricText.color = #(rgb-color 0.5 0.5 0.5) \once \override LyricText.font-shape = #'italic "dict" "A" "faith" -- "ful" "moth" -- "er" "of" "Le" -- "vi" "Saw" "the" "beau" -- "ty" "of" "God's" "plan" }
+\score {
+  <<
+    \new ChordNames \with { majorSevenSymbol = \markup { "maj7" } } \harmony
+    \new Staff \new Voice = "melody" \melody
+    \new Lyrics \lyricsto "melody" \words
+  >>
+  \layout {
+    indent = 0
+    \context { \Lyrics
+      \override LyricSpace.minimum-distance = #1.6
+      \override LyricHyphen.minimum-distance = #1.4
+    }
+  }
+}

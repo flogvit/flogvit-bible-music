@@ -10,9 +10,9 @@
 # where Dux's sweep removes idle worktrees. library/ and .venv-images are found in the main checkout.
 # Logs go to ~/Library/Logs/music-pictures.log.
 set -eu
-# It runs at low priority, so other work on the Mac always comes first: nice 15 and launchd's Background process
-# type, which every process it starts inherits (mflux, ffmpeg). MUSIC_AGENT_NICE and MUSIC_PROCESS_TYPE
-# (Standard, Background) change that; README, Generate, has the measurements.
+# It runs at low priority, so other work on the Mac always comes first: nice 15, which every process it starts
+# inherits (mflux, ffmpeg). MUSIC_AGENT_NICE and MUSIC_PROCESS_TYPE
+# (Standard, Background) change that. Background made songs take 4 times as long (README, Generate).
 label=com.flogvit.music-pictures
 plist=$HOME/Library/LaunchAgents/$label.plist
 domain=gui/$(id -u)
@@ -49,7 +49,7 @@ cat > $plist <<EOF
     <key>PATH</key><string>${bun:h}:${python:h}:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>$extra
   </dict>
   <key>Nice</key><integer>${MUSIC_AGENT_NICE:-15}</integer>
-  <key>ProcessType</key><string>${MUSIC_PROCESS_TYPE:-Background}</string>
+  <key>ProcessType</key><string>${MUSIC_PROCESS_TYPE:-Standard}</string>
   <key>RunAtLoad</key><true/>
   <key>KeepAlive</key><true/>
   <key>ThrottleInterval</key><integer>60</integer>

@@ -10,9 +10,9 @@
 # pushes the sheets to main and follows main's code (README, Generate). Logs go to
 # ~/Library/Logs/music-generate.log. --uninstall stops it, and the song it was making is given back at once.
 set -eu
-# It runs at low priority, so other work on the Mac always comes first: nice 15 and launchd's Background process
-# type, which every process it starts inherits (YuE, Whisper, ffmpeg). MUSIC_AGENT_NICE and MUSIC_PROCESS_TYPE
-# (Standard, Background) change that; README, Generate, has the measurements.
+# It runs at low priority, so other work on the Mac always comes first: nice 15, which every process it starts
+# inherits (YuE, Whisper, ffmpeg). MUSIC_AGENT_NICE and MUSIC_PROCESS_TYPE
+# (Standard, Background) change that. Background made songs take 4 times as long (README, Generate).
 label=com.flogvit.music-generate
 plist=$HOME/Library/LaunchAgents/$label.plist
 domain=gui/$(id -u)
@@ -31,6 +31,9 @@ python=$(command -v python3) || { echo "python3 not found" >&2; exit 1; }
 args=${1:+<string>$1</string>}
 # The lyrics check's and the pictures' settings (README), passed on when set here.
 extra=
+# YuE runs under `nice -n $MUSIC_NICE` instead of `taskpolicy -b` (background) when it is set: 0 keeps it at the
+# agent's nice 15 in the normal class.
+: ${MUSIC_NICE:=0}
 for key in MUSIC_MAX_ATTEMPTS MUSIC_JUDGE_MODEL MUSIC_NICE MUSIC_SCENES_MODEL MUSIC_LOOK_MODEL; do
   [[ -n ${(P)key:-} ]] && extra+="
     <key>$key</key><string>${(P)key}</string>"
@@ -52,7 +55,7 @@ cat > $plist <<EOF
     <key>PATH</key><string>${bun:h}:${python:h}:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
   </dict>
   <key>Nice</key><integer>${MUSIC_AGENT_NICE:-15}</integer>
-  <key>ProcessType</key><string>${MUSIC_PROCESS_TYPE:-Background}</string>
+  <key>ProcessType</key><string>${MUSIC_PROCESS_TYPE:-Standard}</string>
   <key>RunAtLoad</key><true/>
   <key>KeepAlive</key><true/>
   <key>ThrottleInterval</key><integer>60</integer>

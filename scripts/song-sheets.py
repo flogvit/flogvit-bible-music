@@ -407,14 +407,32 @@ class Listener:
             offset = start or 0.0
             clip = self.audio[int(offset * SAMPLE_RATE): int(end * SAMPLE_RATE) if end else None]
             print(f"  listening {offset:.1f}-{end or len(self.audio) / SAMPLE_RATE:.1f} s", flush=True)
-            segments, _ = self.model.transcribe(clip, language="en", word_timestamps=True, initial_prompt=prompt,
-                                                condition_on_previous_text=False, beam_size=5)
-            # plain floats: Whisper hands back numpy numbers, which json cannot write further on
-            self.cache[key] = [dict(w=w.word.strip(), s=round(float(w.start) + offset, 3),
-                                    e=round(float(w.end) + offset, 3), p=round(float(w.probability), 3))
-                               for seg in segments for w in seg.words]
+            try:
+                self.cache[key] = self._transcribe(clip, offset, prompt)
+            except IndexError as exc:
+                # faster-whisper's word alignment fails on a segment of a single token ("boolean index did not
+                # match", find_alignment). Listen again in 30 s pieces; a piece that fails again stays unheard,
+                # so its lines come out uncertain instead of the whole song failing.
+                print(f"  word alignment failed ({exc}); listening again in 30 s pieces", flush=True)
+                words = []
+                piece = 30 * SAMPLE_RATE
+                for i in range(0, len(clip), piece):
+                    try:
+                        words += self._transcribe(clip[i:i + piece], offset + i / SAMPLE_RATE, prompt)
+                    except IndexError:
+                        print(f"  {offset + i / SAMPLE_RATE:.0f}-{offset + (i + piece) / SAMPLE_RATE:.0f} s left unheard",
+                              flush=True)
+                self.cache[key] = words
             self.cache_path.write_text(json.dumps(self.cache, indent=1))
         return self.cache[key]
+
+    def _transcribe(self, clip, offset: float, prompt: str) -> list[dict]:
+        segments, _ = self.model.transcribe(clip, language="en", word_timestamps=True, initial_prompt=prompt,
+                                            condition_on_previous_text=False, beam_size=5)
+        # plain floats: Whisper hands back numpy numbers, which json cannot write further on
+        return [dict(w=w.word.strip(), s=round(float(w.start) + offset, 3),
+                     e=round(float(w.end) + offset, 3), p=round(float(w.probability), 3))
+                for seg in segments for w in seg.words]
 
     def language(self) -> dict:
         """What Whisper hears in the first 60 s of singing with no lyrics to go by and no language given: the words

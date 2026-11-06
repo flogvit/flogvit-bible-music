@@ -224,6 +224,7 @@ process it starts inherits (YuE2, Whisper, ffmpeg, the sheets), and `MUSIC_NICE=
 in the normal class instead of under `taskpolicy -b`. launchd's `Background` process type was tried on the Home
 Mac on 2026-11-05 and dropped: three songs took 6.6, 25 and 20 minutes per minute of audio, against 4.7 before
 (median of the ten songs before it), so 4 times as long; it holds YuE2's GPU work back as well as its CPU work.
+At nice 15 in the normal class, the next three songs took 4.8, 5.7 and 3.5 minutes per minute of audio, as before.
 The judge and the catalog writer run inside Ollama's own process and keep Ollama's priority. `MUSIC_AGENT_NICE`
 and `MUSIC_PROCESS_TYPE` change the plist when installing. The pictures agent (`install-pictures.sh`) runs the
 same way.

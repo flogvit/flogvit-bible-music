@@ -1,0 +1,1198 @@
+{
+ "id": "person-ammihud-soul",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-ammihud-soul",
+ "offset_seconds": -2.6200000000002,
+ "words_heard": 117,
+ "words": 124,
+ "lines": [
+  {
+   "text": "From the sons of Joseph came a line",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ephraim stood with heart and mind",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ammihud named, his father was",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Elishama led the chosen class",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.24,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Elishama son of Ammihud",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.64,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leader of the tribe that stood",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "On the west side under flag",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Guiding Israel through the track",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "When the camp was set in order",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Standard raised to find the border",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Elishama led the people through",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.86,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With the census count to view",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Elishama son of Ammihud",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leader of the tribe that stood",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.27,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "On the west side under flag",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Guiding Israel through the track",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.21,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Seventh day his offering came",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.95,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Silver plate and basin frame",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.28,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Fine flour mixed with oil so sweet",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Gold dish filled, the altar kept",
+   "heard": 2,
+   "words": 6,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Nun his son, then Joshua came",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Lineage recorded, never the same",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.58,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "From",
+   "time": 18.24,
+   "weight": 0.5,
+   "note_time": 17.93
+  },
+  {
+   "text": "the",
+   "time": 19.2,
+   "weight": 1.0,
+   "note_time": 18.28
+  },
+  {
+   "text": "sons",
+   "time": 19.62,
+   "weight": 0.98,
+   "note_time": 18.62
+  },
+  {
+   "text": "of",
+   "time": 20.08,
+   "weight": 1.0,
+   "note_time": 19.31
+  },
+  {
+   "text": "Jo",
+   "time": 20.8,
+   "weight": 0.97,
+   "note_time": 19.66
+  },
+  {
+   "text": "seph",
+   "time": 21.15,
+   "weight": 0.97,
+   "note_time": 20.34
+  },
+  {
+   "text": "came",
+   "time": 21.5,
+   "weight": 0.96,
+   "note_time": 20.69
+  },
+  {
+   "text": "a",
+   "time": 22.08,
+   "weight": 0.95,
+   "note_time": 20.86
+  },
+  {
+   "text": "line",
+   "time": 22.24,
+   "weight": 0.17,
+   "note_time": 21.03
+  },
+  {
+   "text": "Ep",
+   "time": 22.66,
+   "weight": 0.39,
+   "note_time": 22.76
+  },
+  {
+   "text": "hraim",
+   "time": 23.01,
+   "weight": 0.39,
+   "note_time": 22.93
+  },
+  {
+   "text": "stood",
+   "time": 24.5,
+   "weight": 0.97,
+   "note_time": 24.48
+  },
+  {
+   "text": "with",
+   "time": 24.98,
+   "weight": 0.98,
+   "note_time": 24.83
+  },
+  {
+   "text": "heart",
+   "time": 25.84,
+   "weight": 0.99,
+   "note_time": 25.17
+  },
+  {
+   "text": "and",
+   "time": 26.26,
+   "weight": 0.98,
+   "note_time": 25.52
+  },
+  {
+   "text": "mind",
+   "time": 26.58,
+   "weight": 0.98,
+   "note_time": 25.69
+  },
+  {
+   "text": "Am",
+   "time": 27.06,
+   "weight": 0.25,
+   "note_time": 26.9
+  },
+  {
+   "text": "mi",
+   "time": 27.41,
+   "weight": 0.25,
+   "note_time": 27.41
+  },
+  {
+   "text": "hud",
+   "time": 27.76,
+   "weight": 0.25,
+   "note_time": 27.93
+  },
+  {
+   "text": "named,",
+   "time": 28.86,
+   "weight": 0.73,
+   "note_time": 28.1
+  },
+  {
+   "text": "his",
+   "time": 29.32,
+   "weight": 0.97,
+   "note_time": 28.28
+  },
+  {
+   "text": "fa",
+   "time": 29.96,
+   "weight": 0.99,
+   "note_time": 28.62
+  },
+  {
+   "text": "ther",
+   "time": 30.17,
+   "weight": 0.99,
+   "note_time": 28.97
+  },
+  {
+   "text": "was",
+   "time": 30.38,
+   "weight": 0.97,
+   "note_time": 29.31
+  },
+  {
+   "text": "E",
+   "time": 31.1,
+   "weight": 0.19,
+   "note_time": 29.66
+  },
+  {
+   "text": "lis",
+   "time": 31.45,
+   "weight": 0.19,
+   "note_time": 30.69
+  },
+  {
+   "text": "ha",
+   "time": 31.8,
+   "weight": 0.19,
+   "note_time": 30.86
+  },
+  {
+   "text": "ma",
+   "time": 32.15,
+   "weight": 0.19,
+   "note_time": 31.03
+  },
+  {
+   "text": "led",
+   "time": 32.78,
+   "weight": 0.92,
+   "note_time": 31.38
+  },
+  {
+   "text": "the",
+   "time": 33.4,
+   "weight": 1.0,
+   "note_time": 32.07
+  },
+  {
+   "text": "cho",
+   "time": 34.0,
+   "weight": 0.97,
+   "note_time": 32.76
+  },
+  {
+   "text": "sen",
+   "time": 34.23,
+   "weight": 0.97,
+   "note_time": 33.1
+  },
+  {
+   "text": "class",
+   "time": 34.46,
+   "weight": 0.96,
+   "note_time": 33.45
+  },
+  {
+   "text": "E",
+   "time": 35.24,
+   "weight": 0.31,
+   "note_time": 33.79
+  },
+  {
+   "text": "lis",
+   "time": 35.59,
+   "weight": 0.31,
+   "note_time": 34.83
+  },
+  {
+   "text": "ha",
+   "time": 35.94,
+   "weight": 0.31,
+   "note_time": 35.17
+  },
+  {
+   "text": "ma",
+   "time": 36.29,
+   "weight": 0.31,
+   "note_time": 35.52
+  },
+  {
+   "text": "son",
+   "time": 36.94,
+   "weight": 0.89,
+   "note_time": 36.21
+  },
+  {
+   "text": "of",
+   "time": 37.44,
+   "weight": 1.0,
+   "note_time": 36.9
+  },
+  {
+   "text": "Am",
+   "time": 37.91,
+   "weight": 0.0,
+   "note_time": 37.24
+  },
+  {
+   "text": "mi",
+   "time": 38.38,
+   "weight": 0.0,
+   "note_time": 37.59
+  },
+  {
+   "text": "hud",
+   "time": 38.85,
+   "weight": 0.0,
+   "note_time": 37.93
+  },
+  {
+   "text": "Lead",
+   "time": 39.32,
+   "weight": 0.84,
+   "note_time": 39.31
+  },
+  {
+   "text": "er",
+   "time": 39.67,
+   "weight": 0.84,
+   "note_time": 39.66
+  },
+  {
+   "text": "of",
+   "time": 40.56,
+   "weight": 1.0,
+   "note_time": 40.34
+  },
+  {
+   "text": "the",
+   "time": 41.54,
+   "weight": 0.99,
+   "note_time": 41.03
+  },
+  {
+   "text": "tribe",
+   "time": 42.24,
+   "weight": 0.98,
+   "note_time": 41.38
+  },
+  {
+   "text": "that",
+   "time": 42.7,
+   "weight": 0.99,
+   "note_time": 41.72
+  },
+  {
+   "text": "stood",
+   "time": 42.98,
+   "weight": 1.0,
+   "note_time": 42.07
+  },
+  {
+   "text": "On",
+   "time": 43.3,
+   "weight": 0.9,
+   "note_time": 43.1
+  },
+  {
+   "text": "the",
+   "time": 44.24,
+   "weight": 1.0,
+   "note_time": 43.28
+  },
+  {
+   "text": "west",
+   "time": 44.46,
+   "weight": 0.72,
+   "note_time": 43.45
+  },
+  {
+   "text": "side",
+   "time": 44.94,
+   "weight": 0.97,
+   "note_time": 44.14
+  },
+  {
+   "text": "un",
+   "time": 45.58,
+   "weight": 0.87,
+   "note_time": 44.83
+  },
+  {
+   "text": "der",
+   "time": 45.93,
+   "weight": 0.87,
+   "note_time": 45.17
+  },
+  {
+   "text": "flag",
+   "time": 46.32,
+   "weight": 0.6,
+   "note_time": 45.52
+  },
+  {
+   "text": "Guid",
+   "time": 46.72,
+   "weight": 0.38,
+   "note_time": 46.9
+  },
+  {
+   "text": "ing",
+   "time": 47.07,
+   "weight": 0.38,
+   "note_time": 47.24
+  },
+  {
+   "text": "Is",
+   "time": 48.42,
+   "weight": 0.98,
+   "note_time": 47.59
+  },
+  {
+   "text": "rael",
+   "time": 48.77,
+   "weight": 0.98,
+   "note_time": 48.28
+  },
+  {
+   "text": "through",
+   "time": 49.18,
+   "weight": 0.98,
+   "note_time": 48.97
+  },
+  {
+   "text": "the",
+   "time": 50.14,
+   "weight": 1.0,
+   "note_time": 49.31
+  },
+  {
+   "text": "track",
+   "time": 50.48,
+   "weight": 0.59,
+   "note_time": 49.66
+  },
+  {
+   "text": "When",
+   "time": 53.04,
+   "weight": 0.97,
+   "note_time": 53.1
+  },
+  {
+   "text": "the",
+   "time": 54.24,
+   "weight": 1.0,
+   "note_time": 53.79
+  },
+  {
+   "text": "camp",
+   "time": 54.58,
+   "weight": 1.0,
+   "note_time": 54.48
+  },
+  {
+   "text": "was",
+   "time": 55.18,
+   "weight": 1.0,
+   "note_time": 54.83
+  },
+  {
+   "text": "set",
+   "time": 55.7,
+   "weight": 0.99,
+   "note_time": 55.52
+  },
+  {
+   "text": "in",
+   "time": 56.08,
+   "weight": 0.99,
+   "note_time": 55.86
+  },
+  {
+   "text": "or",
+   "time": 56.66,
+   "weight": 0.99,
+   "note_time": 56.03
+  },
+  {
+   "text": "der",
+   "time": 57.01,
+   "weight": 0.99,
+   "note_time": 56.21
+  },
+  {
+   "text": "Stan",
+   "time": 57.36,
+   "weight": 0.09,
+   "note_time": 57.93
+  },
+  {
+   "text": "dard",
+   "time": 57.71,
+   "weight": 0.09,
+   "note_time": 58.28
+  },
+  {
+   "text": "raised",
+   "time": 59.14,
+   "weight": 0.79,
+   "note_time": 58.62
+  },
+  {
+   "text": "to",
+   "time": 59.9,
+   "weight": 0.95,
+   "note_time": 59.66
+  },
+  {
+   "text": "find",
+   "time": 60.72,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "the",
+   "time": 61.24,
+   "weight": 0.99,
+   "note_time": 60.34
+  },
+  {
+   "text": "bor",
+   "time": 61.48,
+   "weight": 0.97,
+   "note_time": 60.69
+  },
+  {
+   "text": "der",
+   "time": 61.79,
+   "weight": 0.97,
+   "note_time": 61.03
+  },
+  {
+   "text": "E",
+   "time": 62.1,
+   "weight": 0.27,
+   "note_time": 61.72
+  },
+  {
+   "text": "lis",
+   "time": 62.45,
+   "weight": 0.27,
+   "note_time": 62.07
+  },
+  {
+   "text": "ha",
+   "time": 62.8,
+   "weight": 0.27,
+   "note_time": 62.41
+  },
+  {
+   "text": "ma",
+   "time": 63.15,
+   "weight": 0.27,
+   "note_time": 63.45
+  },
+  {
+   "text": "led",
+   "time": 63.74,
+   "weight": 1.0,
+   "note_time": 63.79
+  },
+  {
+   "text": "the",
+   "time": 64.4,
+   "weight": 1.0,
+   "note_time": 63.97
+  },
+  {
+   "text": "peo",
+   "time": 65.0,
+   "weight": 1.0,
+   "note_time": 64.14
+  },
+  {
+   "text": "ple",
+   "time": 65.17,
+   "weight": 1.0,
+   "note_time": 64.31
+  },
+  {
+   "text": "through",
+   "time": 65.34,
+   "weight": 1.0,
+   "note_time": 64.48
+  },
+  {
+   "text": "With",
+   "time": 65.7,
+   "weight": 0.37,
+   "note_time": 66.55
+  },
+  {
+   "text": "the",
+   "time": 67.64,
+   "weight": 0.92,
+   "note_time": 66.9
+  },
+  {
+   "text": "cen",
+   "time": 67.94,
+   "weight": 0.91,
+   "note_time": 67.24
+  },
+  {
+   "text": "sus",
+   "time": 68.25,
+   "weight": 0.91,
+   "note_time": 67.59
+  },
+  {
+   "text": "count",
+   "time": 68.56,
+   "weight": 0.92,
+   "note_time": 68.28
+  },
+  {
+   "text": "to",
+   "time": 69.4,
+   "weight": 0.96,
+   "note_time": 68.62
+  },
+  {
+   "text": "view",
+   "time": 69.66,
+   "weight": 0.8,
+   "note_time": 68.97
+  },
+  {
+   "text": "E",
+   "time": 70.1,
+   "weight": 0.4,
+   "note_time": 70.0
+  },
+  {
+   "text": "lis",
+   "time": 70.45,
+   "weight": 0.4,
+   "note_time": 70.17
+  },
+  {
+   "text": "ha",
+   "time": 70.8,
+   "weight": 0.4,
+   "note_time": 70.34
+  },
+  {
+   "text": "ma",
+   "time": 71.15,
+   "weight": 0.4,
+   "note_time": 70.69
+  },
+  {
+   "text": "son",
+   "time": 71.9,
+   "weight": 0.9,
+   "note_time": 71.38
+  },
+  {
+   "text": "of",
+   "time": 72.38,
+   "weight": 1.0,
+   "note_time": 72.07
+  },
+  {
+   "text": "Am",
+   "time": 73.24,
+   "weight": 0.58,
+   "note_time": 72.41
+  },
+  {
+   "text": "mi",
+   "time": 73.58,
+   "weight": 0.58,
+   "note_time": 72.76
+  },
+  {
+   "text": "hud",
+   "time": 73.92,
+   "weight": 0.58,
+   "note_time": 73.1
+  },
+  {
+   "text": "Lead",
+   "time": 74.26,
+   "weight": 0.95,
+   "note_time": 74.48
+  },
+  {
+   "text": "er",
+   "time": 74.61,
+   "weight": 0.95,
+   "note_time": 74.83
+  },
+  {
+   "text": "of",
+   "time": 75.54,
+   "weight": 1.0,
+   "note_time": 75.52
+  },
+  {
+   "text": "the",
+   "time": 76.48,
+   "weight": 1.0,
+   "note_time": 76.21
+  },
+  {
+   "text": "tribe",
+   "time": 77.18,
+   "weight": 0.99,
+   "note_time": 76.55
+  },
+  {
+   "text": "that",
+   "time": 77.66,
+   "weight": 1.0,
+   "note_time": 76.9
+  },
+  {
+   "text": "stood",
+   "time": 77.94,
+   "weight": 1.0,
+   "note_time": 77.24
+  },
+  {
+   "text": "On",
+   "time": 78.28,
+   "weight": 0.97,
+   "note_time": 78.28
+  },
+  {
+   "text": "the",
+   "time": 79.28,
+   "weight": 1.0,
+   "note_time": 78.45
+  },
+  {
+   "text": "west",
+   "time": 79.42,
+   "weight": 0.84,
+   "note_time": 78.62
+  },
+  {
+   "text": "side",
+   "time": 79.86,
+   "weight": 1.0,
+   "note_time": 79.31
+  },
+  {
+   "text": "un",
+   "time": 80.46,
+   "weight": 0.91,
+   "note_time": 80.0
+  },
+  {
+   "text": "der",
+   "time": 80.81,
+   "weight": 0.91,
+   "note_time": 80.34
+  },
+  {
+   "text": "flag",
+   "time": 81.44,
+   "weight": 1.0,
+   "note_time": 80.69
+  },
+  {
+   "text": "Guid",
+   "time": 82.02,
+   "weight": 0.99,
+   "note_time": 82.07
+  },
+  {
+   "text": "ing",
+   "time": 82.37,
+   "weight": 0.99,
+   "note_time": 82.41
+  },
+  {
+   "text": "Is",
+   "time": 83.38,
+   "weight": 0.96,
+   "note_time": 82.76
+  },
+  {
+   "text": "rael",
+   "time": 83.73,
+   "weight": 0.96,
+   "note_time": 83.45
+  },
+  {
+   "text": "through",
+   "time": 84.28,
+   "weight": 0.99,
+   "note_time": 84.14
+  },
+  {
+   "text": "the",
+   "time": 85.12,
+   "weight": 1.0,
+   "note_time": 84.48
+  },
+  {
+   "text": "track",
+   "time": 85.42,
+   "weight": 0.37,
+   "note_time": 84.83
+  },
+  {
+   "text": "Sev",
+   "time": 89.0,
+   "weight": 0.35,
+   "note_time": 88.97
+  },
+  {
+   "text": "enth",
+   "time": 89.35,
+   "weight": 0.35,
+   "note_time": 89.31
+  },
+  {
+   "text": "day",
+   "time": 90.12,
+   "weight": 0.66,
+   "note_time": 90.0
+  },
+  {
+   "text": "his",
+   "time": 91.08,
+   "weight": 0.3,
+   "note_time": 90.34
+  },
+  {
+   "text": "of",
+   "time": 91.84,
+   "weight": 0.96,
+   "note_time": 90.69
+  },
+  {
+   "text": "fering",
+   "time": 92.05,
+   "weight": 0.96,
+   "note_time": 91.03
+  },
+  {
+   "text": "came",
+   "time": 92.26,
+   "weight": 1.0,
+   "note_time": 91.38
+  },
+  {
+   "text": "Sil",
+   "time": 92.82,
+   "weight": 0.8,
+   "note_time": 93.1
+  },
+  {
+   "text": "ver",
+   "time": 93.17,
+   "weight": 0.8,
+   "note_time": 93.45
+  },
+  {
+   "text": "plate",
+   "time": 94.16,
+   "weight": 0.88,
+   "note_time": 94.14
+  },
+  {
+   "text": "and",
+   "time": 94.98,
+   "weight": 0.95,
+   "note_time": 94.83
+  },
+  {
+   "text": "ba",
+   "time": 95.78,
+   "weight": 0.91,
+   "note_time": 95.17
+  },
+  {
+   "text": "sin",
+   "time": 96.05,
+   "weight": 0.91,
+   "note_time": 95.52
+  },
+  {
+   "text": "frame",
+   "time": 96.32,
+   "weight": 0.57,
+   "note_time": 95.86
+  },
+  {
+   "text": "Fine",
+   "time": 97.42,
+   "weight": 0.92,
+   "note_time": 97.59
+  },
+  {
+   "text": "flour",
+   "time": 98.6,
+   "weight": 0.99,
+   "note_time": 98.28
+  },
+  {
+   "text": "mixed",
+   "time": 99.16,
+   "weight": 0.93,
+   "note_time": 98.62
+  },
+  {
+   "text": "with",
+   "time": 99.6,
+   "weight": 1.0,
+   "note_time": 98.97
+  },
+  {
+   "text": "oil",
+   "time": 99.92,
+   "weight": 0.98,
+   "note_time": 99.31
+  },
+  {
+   "text": "so",
+   "time": 100.26,
+   "weight": 0.93,
+   "note_time": 99.66
+  },
+  {
+   "text": "sweet",
+   "time": 100.52,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "Gold",
+   "time": 101.26,
+   "weight": 0.0,
+   "note_time": 101.72
+  },
+  {
+   "text": "dish",
+   "time": 101.99,
+   "weight": 0.0,
+   "note_time": 102.07
+  },
+  {
+   "text": "filled,",
+   "time": 102.73,
+   "weight": 0.0,
+   "note_time": 102.41
+  },
+  {
+   "text": "the",
+   "time": 103.46,
+   "weight": 0.65,
+   "note_time": 103.1
+  },
+  {
+   "text": "al",
+   "time": 104.12,
+   "weight": 0.99,
+   "note_time": 103.28
+  },
+  {
+   "text": "tar",
+   "time": 104.3,
+   "weight": 0.99,
+   "note_time": 103.45
+  },
+  {
+   "text": "kept",
+   "time": 105.17,
+   "weight": 0.0,
+   "note_time": 103.79
+  },
+  {
+   "text": "Nun",
+   "time": 106.03,
+   "weight": 0.0,
+   "note_time": 105.52
+  },
+  {
+   "text": "his",
+   "time": 106.9,
+   "weight": 0.77,
+   "note_time": 106.55
+  },
+  {
+   "text": "son,",
+   "time": 107.54,
+   "weight": 0.79,
+   "note_time": 107.59
+  },
+  {
+   "text": "then",
+   "time": 109.34,
+   "weight": 0.93,
+   "note_time": 109.31
+  },
+  {
+   "text": "Joshua",
+   "time": 110.12,
+   "weight": 0.98,
+   "note_time": 109.66
+  },
+  {
+   "text": "came",
+   "time": 111.38,
+   "weight": 0.99,
+   "note_time": 110.69
+  },
+  {
+   "text": "Lin",
+   "time": 112.87,
+   "weight": 0.0,
+   "note_time": 113.79
+  },
+  {
+   "text": "eage",
+   "time": 114.37,
+   "weight": 0.0,
+   "note_time": 114.14
+  },
+  {
+   "text": "re",
+   "time": 115.86,
+   "weight": 0.86,
+   "note_time": 114.83
+  },
+  {
+   "text": "cor",
+   "time": 116.1,
+   "weight": 0.86,
+   "note_time": 115.52
+  },
+  {
+   "text": "ded,",
+   "time": 116.34,
+   "weight": 0.86,
+   "note_time": 115.86
+  },
+  {
+   "text": "ne",
+   "time": 119.58,
+   "weight": 0.18,
+   "note_time": 116.55
+  },
+  {
+   "text": "ver",
+   "time": 119.93,
+   "weight": 0.18,
+   "note_time": 121.03
+  },
+  {
+   "text": "the",
+   "time": 120.98,
+   "weight": 1.0,
+   "note_time": 121.72
+  },
+  {
+   "text": "same",
+   "time": 122.38,
+   "weight": 0.99,
+   "note_time": 122.07
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "19 of 22 lyric lines sit clearly on their notes; 3 are uncertain and printed in grey italics."
+}

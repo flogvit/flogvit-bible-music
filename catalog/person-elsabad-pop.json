@@ -1,0 +1,71 @@
+{
+  "id": "person-elsabad-pop",
+  "title": "Faces Like Lions",
+  "kind": "person",
+  "anchor": {
+    "person": "elsabad"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 13,
+      "chapter": 12,
+      "verseStart": 8,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 13,
+      "chapter": 12,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 13,
+      "chapter": 12,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 13,
+      "chapter": 12,
+      "verseStart": 16,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "elsabad",
+      "david",
+      "eser",
+      "obadja",
+      "jeremia"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo with light choir, acoustic guitar, piano, cello, soft drums, uplifting and heroic, 90 BPM",
+    "lyrics": "[Verse]\nDavid at Ziklag in the wild\nSaul the king kept him confined\nMen with bows and slings came near\nFrom Benjamin they joined the field\nAhiezer and Joash lead\nShemaah's sons from Gibeon\nArmed with shield and spear in hand\nFacing the battle ground\n\n[Chorus]\nTheir faces like the faces of lions\nSwift as gazelles on the mountains\nMighty warriors in the fight\nWith shields and spears held tight\nThe Gadite men so brave\nCrossed the Jordan in the wave\n\n[Verse]\nEzer the chief Obadiah two\nEliab third in the crew\nMishmannah four Jeremiah five\nAttai six with Eliel's drive\nJohanan eight and Elzabad ninth\nJeremiah tenth in the depth\nMachbannai the eleventh man\nStrongest of the Gadite clan\nThe least for a hundred men\nThe greatest for a thousand then\n\n[Chorus]\nTheir faces like the faces of lions\nSwift as gazelles on the mountains\nMighty warriors in the fight\nWith shields and spears held tight\nThe Gadite men so brave\nCrossed the Jordan in the wave\n\n[Bridge]\nFirst month the river overflowed\nDriving out the valley road\nThey crossed the Jordan stream\nTo help David with his dream\nPeace to you son of Jesse\nWe are with you in distress\n\n[Chorus]\nTheir faces like the faces of lions\nSwift as gazelles on the mountains\nMighty warriors in the fight\nWith shields and spears held tight\nThe Gadite men so brave\nCrossed the Jordan in the wave\n\n[Outro]\nElzabad ninth among the brave\nA name in David's army grave",
+    "cot": "full",
+    "seed": 31360
+  }
+}

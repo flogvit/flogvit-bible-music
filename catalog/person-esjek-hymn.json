@@ -1,0 +1,70 @@
+{
+  "id": "person-esjek-hymn",
+  "title": "Mighty Warriors",
+  "kind": "person",
+  "anchor": {
+    "person": "esjek"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 39,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 33,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "esjek",
+      "saul",
+      "benjamin",
+      "elek-benjaminitt",
+      "ulam"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solo male baritone voice, warm and dignified, solo with choir, organ, acoustic guitar, strings, timpani, solemn, 80 BPM",
+    "lyrics": "[Verse]\nNer fathered Kish, Kish fathered Saul\nSaul fathered Jonathan and Malchishua\nAbinadab and Eshbaal came\nThe line of kings in Benjamin's name\n\n[Verse]\nJonathan brought forth Merib-baal\nMicah was born to Merib-baal\nPithon, Melech, Tarea, Ahaz\nAhaz fathered Jehoaddah's gaze\n\n[Verse]\nJehoaddah had Alemeth there\nAzmaveth and Zimri were fair\nZimri fathered Moza, it is said\nMoza fathered Binea, so laid\n\n[Verse]\nRaphah was his son, Eleasah\nAzel his son, the days that pass\nAzel had six sons, names we know\nAzrikam, Bocheru, in the flow\n\n[Verse]\nIshmael, Sheariah, Obadiah\nHanan completed the family's tie\nThe sons of Eshek his brother stood\nUlam his firstborn, Jeush understood\n\n[Verse]\nJeush the second, Eliphelet third\nThe sons of Ulam, mighty and firm\nArchers who drew the bow with might\nMany sons and grandsons, day and night\n\n[Verse]\nOne hundred and fifty in all\nAmong the sons of Benjamin they dwell\nThe register keeps their names alive\nIn the tribal history, they thrive\n\n[Outro]\nAll these were among the sons of Benjamin",
+    "cot": "full",
+    "seed": 31362
+  }
+}

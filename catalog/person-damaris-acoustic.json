@@ -1,0 +1,67 @@
+{
+  "id": "person-damaris-acoustic",
+  "title": "To an Unknown God",
+  "kind": "person",
+  "anchor": {
+    "person": "damaris"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 19,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 30,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 34,
+      "verseEnd": 34
+    },
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 15,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 44,
+      "chapter": 17,
+      "verseStart": 33,
+      "verseEnd": 34
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "damaris",
+      "paulus",
+      "dionysios"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, acoustic guitar, cello, soft piano, warm and reflective, 80 BPM",
+    "lyrics": "[Verse]\nPaul stood in the middle of the Areopagus\nSaw the city full of idols all around\nHe looked at the objects of their worship\nAnd found an altar with a hidden sound\nTo an unknown god it was inscribed\nWhat you worship in ignorance I will explain\nThe God who made the world and everything in it\nDoes not live in temples made by human hands\n\n[Pre-Chorus]\nHe gives everyone life and breath and all things\nFrom one man he made every nation\nTo seek God and perhaps reach out for him\nThough he is not far from any one of us\n\n[Chorus]\nIn him we live and move and have our being\nWe are his offspring as the poets say\nSo we ought not to think that the divine being\nIs like gold or silver shaped by human skill\n\n[Verse]\nGod overlooked the times of ignorance past\nBut now he commands all people to repent\nHe has set a day to judge the world with justice\nBy the man he has appointed for the end\nHe has given proof of this to everyone\nBy raising him from the dead in glory's light\n\n[Chorus]\nIn him we live and move and have our being\nWe are his offspring as the poets say\nSo we ought not to think that the divine being\nIs like gold or silver shaped by human skill\n\n[Bridge]\nSome began to mock when they heard of the resurrection\nBut others said we will hear you again\nDamaris joined him and came to believe\nA woman from Athens in the center of the plan\n\n[Outro]\nAnd others with them believed in the risen Lord\nThe gospel reached the mind and the heart of man",
+    "cot": "full",
+    "seed": 31358
+  }
+}

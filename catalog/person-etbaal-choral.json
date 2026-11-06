@@ -1,0 +1,65 @@
+{
+  "id": "person-etbaal-choral",
+  "title": "King of the Sidonians",
+  "kind": "person",
+  "anchor": {
+    "person": "etbaal"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 32,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 11,
+      "chapter": 18,
+      "verseStart": 4,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 11,
+      "chapter": 18,
+      "verseStart": 19,
+      "verseEnd": 40
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "etbaal",
+      "akab",
+      "jesabel",
+      "elia"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn male tenor solo with deep choir, organ, harp, timpani, 80 BPM",
+    "lyrics": "[Verse]\nAhab walked in Jeroboam's sins\nHe took as his wife Jezebel\nDaughter of Ethbaal, king of Sidonians\nHe went and served Baal\n\n[Verse]\nAn altar for Baal in Samaria\nBuilt within the temple walls\nAhab also made an Asherah pole\nTo provoke the Lord's anger\n\n[Verse]\nJezebel was killing off the prophets\nObadiah hid them in a cave\nFifty in a cave with bread and water\nPreserved by faithful hands\n\n[Verse]\nGather Israel to Mount Carmel\nProphets of Baal and Asherah\nFour hundred fifty shout and dance\nBut there is no sound or answer\n\n[Verse]\nElijah repaired the altar\nTwelve stones for Jacob's tribes\nFour jars of water poured around\nThe trench ran full with water\n\n[Verse]\nFire of the Lord fell from heaven\nConsumed the wood and stones\nThe people fell facedown and cried\nThe Lord is God indeed\n\n[Outro]\nSeize the prophets of Baal",
+    "cot": "full",
+    "seed": 31363
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person-elymas-bar-jesus-jazz",
+  "title": "Blind in the Light",
+  "kind": "person",
+  "anchor": {
+    "person": "elymas-bar-jesus"
+  },
+  "references": [
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 6,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 7,
+      "verseEnd": 8
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 9,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 44,
+      "chapter": 13,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "synden",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "elymas-bar-jesus",
+      "paulus",
+      "barnabas",
+      "sergius-paulus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice with smooth jazz phrasing, upright bass, brushed drums, muted trumpet, piano, brushed cymbals, mysterious and dramatic mood, 72 BPM",
+    "lyrics": "[Verse]\nThey traveled through the island to Paphos\nFound a Jewish magician and false prophet\nNamed Bar-Jesus with the proconsul\nSergius Paulus an intelligent man\nThe proconsul sent for Barnabas and Saul\nEager to hear the word of God\n\n[Chorus]\nYou are full of every kind of deceit\nYou son of the devil and fraud\nEnemy of all that is right\nTwisting the straight paths of the Lord\n\n[Verse]\nBut Elymas the magician opposed them\nTrying to turn the proconsul away\nFrom the faith he sought to find\nSaul looked straight at him with power\nFilled with the Holy Spirit in that moment\n\n[Chorus]\nYou are full of every kind of deceit\nYou son of the devil and fraud\nEnemy of all that is right\nTwisting the straight paths of the Lord\n\n[Bridge]\nThe hand of the Lord is against you\nYou will be blind and unable to see\nA mist and darkness came over him\nHe groped about seeking a hand to lead\n\n[Outro]\nWhen the proconsul saw what had happened\nHe believed astounded at the teaching",
+    "cot": "full",
+    "seed": 31361
+  }
+}

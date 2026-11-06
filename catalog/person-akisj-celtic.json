@@ -1,0 +1,74 @@
+{
+  "id": "person-akisj-celtic",
+  "title": "King of Gath",
+  "kind": "person",
+  "anchor": {
+    "person": "akisj"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 21,
+      "verseStart": 10,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 9,
+      "chapter": 27,
+      "verseStart": 1,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 9,
+      "chapter": 27,
+      "verseStart": 8,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 9,
+      "chapter": 28,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 9,
+      "chapter": 29,
+      "verseStart": 1,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 11,
+      "chapter": 2,
+      "verseStart": 39,
+      "verseEnd": 40
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "akisj",
+      "david",
+      "saul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, deep and melancholic, acoustic guitar, bodhran, fiddle, uilleann pipes, slow waltz 70 BPM",
+    "lyrics": "[Verse]\nDavid fled the king of Israel\nCrossed the border to Gath's gate\nAchish sat upon his throne\nBut the servants knew his name\nThey sang of David's fame\nSaul struck thousands, David ten\nDavid's heart was filled with fear\nHe knew his days were done\n\n[Chorus]\nMadman make marks on the door\nSpittle runs down your beard\nWhy bring such a fool to me\nLook at him, he is mad\n\n[Verse]\nSix hundred men with him came\nTwo wives in his household\nZiklag was given that day\nSaul stopped his search\nDavid raided the south\nGeshurites and Amalekites\nHe told the king it was Judah\nDeception in his eyes\n\n[Chorus]\nMadman make marks on the door\nSpittle runs down your beard\nWhy bring such a fool to me\nLook at him, he is mad\n\n[Bridge]\nBodyguard for life he said\nMarch with me against Israel\nBut the rulers said no\nSend the Hebrew back away\nTrust was broken in the court\nDavid left with heavy heart\n\n[Outro]\nTwo slaves ran to Gath\nShimei broke his oath to Solomon\nAchish son of Maacah\nKing of Gath, the end",
+    "cot": "full",
+    "seed": 31356
+  }
+}

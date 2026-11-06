@@ -1,0 +1,69 @@
+{
+  "id": "person-berekja-country",
+  "title": "Zechariah Son of Berechiah",
+  "kind": "person",
+  "anchor": {
+    "person": "berekja"
+  },
+  "references": [
+    {
+      "bookId": 38,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 15,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 4,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 40,
+      "chapter": 23,
+      "verseStart": 35,
+      "verseEnd": 35
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "salvation"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "berekja",
+      "iddo",
+      "sakarja-profet",
+      "serubabel",
+      "jesjua-josva"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, fiddle, upright bass, light percussion, warm and reverent mood, 90 BPM",
+    "lyrics": "[Verse]\nIn the eighth month of the second year of Darius\nThe word of the LORD came to the prophet Zechariah\nHe was the son of Berechiah and Iddo\nA man of Levitical clan in the ancient land\n\n[Pre-Chorus]\nProphesying to the Jews in Judah and Jerusalem\nIn the name of the God of Israel who was over them\n\n[Chorus]\nZechariah son of Berechiah\nA link in the lineage of the prophets\nBetween the sanctuary and the altar\nHis story is told in the scriptures\n\n[Verse]\nHe belongs to a Levitical clan\nLiving after the Babylonian exile\nHis role is a link in the prophetic lineage\nConnecting Zechariah to his grandfather Iddo\n\n[Chorus]\nZechariah son of Berechiah\nA link in the lineage of the prophets\nBetween the sanctuary and the altar\nHis story is told in the scriptures\n\n[Bridge]\nJesus refers to Zechariah son of Barachiah\nWhom you murdered between the sanctuary and the altar\nAll the righteous blood shed on the earth\nFrom Abel to this prophet in the biblical tradition\n\n[Outro]\nZechariah son of Berechiah\nRemembered in the book of Zechariah",
+    "cot": "full",
+    "seed": 31357
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person-elisabet-blues",
+  "title": "Blessed Are You Among Women",
+  "kind": "person",
+  "anchor": {
+    "person": "elisabet"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 11,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 39,
+      "verseEnd": 45
+    },
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 57,
+      "verseEnd": 58
+    },
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 59,
+      "verseEnd": 63
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "tro",
+      "nade"
+    ],
+    "stories": [],
+    "persons": [
+      "elisabet",
+      "johannes-doperen",
+      "sakarja-far-til-johannes",
+      "maria-jesu-mor"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soul voice, solo, acoustic guitar, upright bass, brushed drums, piano, warm and reverent, 85 BPM",
+    "lyrics": "[Verse]\nA priest named Zechariah served the Lord\nHis wife Elizabeth from Aaron's line\nRighteous and blameless in all their ways\nYet barren and advanced in years\nNo child came to fill their home\nWaiting on God in silent prayer\n\n[Chorus]\nBlessed are you among women\nBlessed is the fruit of your womb\nThe child leaped for joy inside\nFilled with the Holy Spirit now\nBlessed is she who believed\nThat what the Lord said would be true\n\n[Verse]\nThe angel stood by the altar side\nSaying do not be afraid Zechariah\nYour prayer has been heard at last\nYour wife will bear a son to you\nName him John and he will be great\nFilled with the Spirit from his birth\n\n[Chorus]\nBlessed are you among women\nBlessed is the fruit of your womb\nThe child leaped for joy inside\nFilled with the Holy Spirit now\nBlessed is she who believed\nThat what the Lord said would be true\n\n[Bridge]\nWhen Mary came to the hill country\nThe baby leaped in Elizabeth's womb\nShe cried out with a loud voice\nWhy am I favored so today\nThe mother of my Lord is here\nHer faith made my soul rejoice\n\n[Verse]\nThe time came for her to give birth\nShe bore a son and neighbors rejoiced\nThey heard of the Lord's great mercy\nAnd they rejoiced with her that day\nBut when they came to name the child\nHer mother spoke up with strength\n\n[Chorus]\nBlessed are you among women\nBlessed is the fruit of your womb\nThe child leaped for joy inside\nFilled with the Holy Spirit now\nBlessed is she who believed\nThat what the Lord said would be true\n\n[Outro]\nNo one among relatives had that name\nBut his mother insisted he be John\nAnd everyone was amazed at last",
+    "cot": "full",
+    "seed": 31359
+  }
+}

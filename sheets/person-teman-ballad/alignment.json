@@ -1,0 +1,1496 @@
+{
+ "id": "person-teman-ballad",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-teman-ballad",
+ "offset_seconds": -4.98000000000015,
+ "words_heard": 153,
+ "words": 160,
+ "lines": [
+  {
+   "text": "Eliphaz son of Esau had a firstborn son",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "His name was Teman among the many listed there",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Omar Zepho Gatam and Kenaz followed him",
+   "heard": 5,
+   "words": 7,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Chiefs descended from the mother Adah in the land",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.38,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is there no longer wisdom in Teman",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.54,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Counsel has perished from the prudent",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.6,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Their wisdom has decayed in the dust",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.83,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "He founded a clan in the land of Edom",
+   "heard": 8,
+   "words": 9,
+   "error_s": 0.69,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "A chief among the people known by name",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Husham ruled from the land of the Temanites",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.07,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Before the kings of Israel reigned upon the throne",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.94,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is there no longer wisdom in Teman",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Counsel has perished from the prudent",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.72,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Their wisdom has decayed in the dust",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Bozrah will become a horror and a disgrace",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A ruin and a curse forevermore",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The pride of the heart has deceived the eagle",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.17,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Who builds his nest as high as the sky",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Leave your orphans I will keep them alive",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Let your widows trust in me",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Is there no longer wisdom in Teman",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.31,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "E",
+   "time": 31.46,
+   "weight": 0.48,
+   "note_time": 30.83
+  },
+  {
+   "text": "lip",
+   "time": 31.77,
+   "weight": 0.48,
+   "note_time": 31.25
+  },
+  {
+   "text": "haz",
+   "time": 32.07,
+   "weight": 0.48,
+   "note_time": 31.46
+  },
+  {
+   "text": "son",
+   "time": 32.38,
+   "weight": 0.58,
+   "note_time": 31.88
+  },
+  {
+   "text": "of",
+   "time": 32.84,
+   "weight": 1.0,
+   "note_time": 32.08
+  },
+  {
+   "text": "E",
+   "time": 33.18,
+   "weight": 0.84,
+   "note_time": 32.5
+  },
+  {
+   "text": "sau",
+   "time": 33.53,
+   "weight": 0.84,
+   "note_time": 32.71
+  },
+  {
+   "text": "had",
+   "time": 33.9,
+   "weight": 0.67,
+   "note_time": 33.33
+  },
+  {
+   "text": "a",
+   "time": 34.58,
+   "weight": 0.96,
+   "note_time": 34.17
+  },
+  {
+   "text": "first",
+   "time": 34.76,
+   "weight": 0.15,
+   "note_time": 35.0
+  },
+  {
+   "text": "born",
+   "time": 34.86,
+   "weight": 0.15,
+   "note_time": 36.46
+  },
+  {
+   "text": "son",
+   "time": 34.96,
+   "weight": 0.28,
+   "note_time": 36.67
+  },
+  {
+   "text": "His",
+   "time": 37.28,
+   "weight": 0.99,
+   "note_time": 37.5
+  },
+  {
+   "text": "name",
+   "time": 38.34,
+   "weight": 1.0,
+   "note_time": 37.92
+  },
+  {
+   "text": "was",
+   "time": 38.86,
+   "weight": 1.0,
+   "note_time": 38.12
+  },
+  {
+   "text": "Te",
+   "time": 39.5,
+   "weight": 0.76,
+   "note_time": 38.75
+  },
+  {
+   "text": "man",
+   "time": 39.76,
+   "weight": 0.76,
+   "note_time": 38.96
+  },
+  {
+   "text": "a",
+   "time": 40.02,
+   "weight": 0.65,
+   "note_time": 39.58
+  },
+  {
+   "text": "mong",
+   "time": 40.37,
+   "weight": 0.65,
+   "note_time": 40.0
+  },
+  {
+   "text": "the",
+   "time": 40.8,
+   "weight": 0.99,
+   "note_time": 40.21
+  },
+  {
+   "text": "ma",
+   "time": 41.52,
+   "weight": 0.98,
+   "note_time": 40.62
+  },
+  {
+   "text": "ny",
+   "time": 41.81,
+   "weight": 0.98,
+   "note_time": 41.04
+  },
+  {
+   "text": "list",
+   "time": 42.1,
+   "weight": 0.99,
+   "note_time": 41.46
+  },
+  {
+   "text": "ed",
+   "time": 42.45,
+   "weight": 0.99,
+   "note_time": 43.33
+  },
+  {
+   "text": "there",
+   "time": 42.92,
+   "weight": 0.99,
+   "note_time": 43.75
+  },
+  {
+   "text": "O",
+   "time": 44.36,
+   "weight": 0.76,
+   "note_time": 44.17
+  },
+  {
+   "text": "mar",
+   "time": 44.71,
+   "weight": 0.76,
+   "note_time": 44.38
+  },
+  {
+   "text": "Zep",
+   "time": 45.24,
+   "weight": 0.0,
+   "note_time": 44.79
+  },
+  {
+   "text": "ho",
+   "time": 45.76,
+   "weight": 0.0,
+   "note_time": 45.21
+  },
+  {
+   "text": "Ga",
+   "time": 46.29,
+   "weight": 0.0,
+   "note_time": 46.25
+  },
+  {
+   "text": "tam",
+   "time": 46.81,
+   "weight": 0.0,
+   "note_time": 46.67
+  },
+  {
+   "text": "and",
+   "time": 47.34,
+   "weight": 0.96,
+   "note_time": 46.88
+  },
+  {
+   "text": "Ke",
+   "time": 48.26,
+   "weight": 0.7,
+   "note_time": 47.5
+  },
+  {
+   "text": "naz",
+   "time": 48.55,
+   "weight": 0.7,
+   "note_time": 47.71
+  },
+  {
+   "text": "fol",
+   "time": 48.84,
+   "weight": 1.0,
+   "note_time": 48.12
+  },
+  {
+   "text": "lowed",
+   "time": 49.15,
+   "weight": 1.0,
+   "note_time": 49.17
+  },
+  {
+   "text": "him",
+   "time": 49.46,
+   "weight": 1.0,
+   "note_time": 49.79
+  },
+  {
+   "text": "Chiefs",
+   "time": 50.38,
+   "weight": 0.98,
+   "note_time": 50.0
+  },
+  {
+   "text": "de",
+   "time": 51.52,
+   "weight": 1.0,
+   "note_time": 50.42
+  },
+  {
+   "text": "scend",
+   "time": 51.66,
+   "weight": 1.0,
+   "note_time": 50.83
+  },
+  {
+   "text": "ed",
+   "time": 51.8,
+   "weight": 1.0,
+   "note_time": 51.46
+  },
+  {
+   "text": "from",
+   "time": 51.94,
+   "weight": 1.0,
+   "note_time": 51.67
+  },
+  {
+   "text": "the",
+   "time": 52.74,
+   "weight": 0.99,
+   "note_time": 51.88
+  },
+  {
+   "text": "moth",
+   "time": 53.28,
+   "weight": 0.94,
+   "note_time": 53.33
+  },
+  {
+   "text": "er",
+   "time": 53.55,
+   "weight": 0.94,
+   "note_time": 53.54
+  },
+  {
+   "text": "A",
+   "time": 54.08,
+   "weight": 0.57,
+   "note_time": 54.17
+  },
+  {
+   "text": "dah",
+   "time": 54.43,
+   "weight": 0.57,
+   "note_time": 54.58
+  },
+  {
+   "text": "in",
+   "time": 55.48,
+   "weight": 0.68,
+   "note_time": 54.79
+  },
+  {
+   "text": "the",
+   "time": 56.08,
+   "weight": 1.0,
+   "note_time": 57.08
+  },
+  {
+   "text": "land",
+   "time": 56.38,
+   "weight": 0.98,
+   "note_time": 57.5
+  },
+  {
+   "text": "Is",
+   "time": 57.8,
+   "weight": 0.99,
+   "note_time": 57.92
+  },
+  {
+   "text": "there",
+   "time": 59.0,
+   "weight": 1.0,
+   "note_time": 58.33
+  },
+  {
+   "text": "no",
+   "time": 59.38,
+   "weight": 1.0,
+   "note_time": 58.75
+  },
+  {
+   "text": "lon",
+   "time": 59.76,
+   "weight": 1.0,
+   "note_time": 58.96
+  },
+  {
+   "text": "ger",
+   "time": 60.11,
+   "weight": 1.0,
+   "note_time": 59.58
+  },
+  {
+   "text": "wis",
+   "time": 60.56,
+   "weight": 0.98,
+   "note_time": 60.0
+  },
+  {
+   "text": "dom",
+   "time": 60.91,
+   "weight": 0.98,
+   "note_time": 60.83
+  },
+  {
+   "text": "in",
+   "time": 61.4,
+   "weight": 1.0,
+   "note_time": 61.67
+  },
+  {
+   "text": "Te",
+   "time": 62.72,
+   "weight": 0.0,
+   "note_time": 63.75
+  },
+  {
+   "text": "man",
+   "time": 64.04,
+   "weight": 0.0,
+   "note_time": 64.17
+  },
+  {
+   "text": "Coun",
+   "time": 65.36,
+   "weight": 0.15,
+   "note_time": 64.58
+  },
+  {
+   "text": "sel",
+   "time": 65.42,
+   "weight": 0.15,
+   "note_time": 65.0
+  },
+  {
+   "text": "has",
+   "time": 65.48,
+   "weight": 0.91,
+   "note_time": 65.21
+  },
+  {
+   "text": "per",
+   "time": 66.42,
+   "weight": 0.97,
+   "note_time": 65.83
+  },
+  {
+   "text": "ished",
+   "time": 66.77,
+   "weight": 0.97,
+   "note_time": 66.25
+  },
+  {
+   "text": "from",
+   "time": 67.36,
+   "weight": 0.99,
+   "note_time": 66.46
+  },
+  {
+   "text": "the",
+   "time": 67.68,
+   "weight": 0.97,
+   "note_time": 67.08
+  },
+  {
+   "text": "pru",
+   "time": 68.0,
+   "weight": 0.9,
+   "note_time": 69.58
+  },
+  {
+   "text": "dent",
+   "time": 68.35,
+   "weight": 0.9,
+   "note_time": 70.0
+  },
+  {
+   "text": "Their",
+   "time": 68.84,
+   "weight": 0.17,
+   "note_time": 70.42
+  },
+  {
+   "text": "wis",
+   "time": 71.4,
+   "weight": 0.99,
+   "note_time": 70.83
+  },
+  {
+   "text": "dom",
+   "time": 71.75,
+   "weight": 0.99,
+   "note_time": 71.25
+  },
+  {
+   "text": "has",
+   "time": 72.1,
+   "weight": 0.96,
+   "note_time": 71.46
+  },
+  {
+   "text": "de",
+   "time": 72.7,
+   "weight": 1.0,
+   "note_time": 71.67
+  },
+  {
+   "text": "cayed",
+   "time": 73.05,
+   "weight": 1.0,
+   "note_time": 72.5
+  },
+  {
+   "text": "in",
+   "time": 73.94,
+   "weight": 0.99,
+   "note_time": 72.92
+  },
+  {
+   "text": "the",
+   "time": 74.36,
+   "weight": 1.0,
+   "note_time": 73.12
+  },
+  {
+   "text": "dust",
+   "time": 74.64,
+   "weight": 1.0,
+   "note_time": 73.33
+  },
+  {
+   "text": "He",
+   "time": 80.18,
+   "weight": 0.77,
+   "note_time": 80.0
+  },
+  {
+   "text": "found",
+   "time": 81.38,
+   "weight": 0.99,
+   "note_time": 80.83
+  },
+  {
+   "text": "ed",
+   "time": 81.73,
+   "weight": 0.99,
+   "note_time": 81.04
+  },
+  {
+   "text": "a",
+   "time": 82.26,
+   "weight": 0.99,
+   "note_time": 81.46
+  },
+  {
+   "text": "clan",
+   "time": 82.72,
+   "weight": 0.99,
+   "note_time": 82.5
+  },
+  {
+   "text": "in",
+   "time": 83.28,
+   "weight": 0.96,
+   "note_time": 82.92
+  },
+  {
+   "text": "the",
+   "time": 84.22,
+   "weight": 1.0,
+   "note_time": 83.12
+  },
+  {
+   "text": "land",
+   "time": 84.46,
+   "weight": 0.96,
+   "note_time": 83.33
+  },
+  {
+   "text": "of",
+   "time": 85.2,
+   "weight": 1.0,
+   "note_time": 84.17
+  },
+  {
+   "text": "E",
+   "time": 85.63,
+   "weight": 0.0,
+   "note_time": 84.38
+  },
+  {
+   "text": "dom",
+   "time": 86.05,
+   "weight": 0.0,
+   "note_time": 84.79
+  },
+  {
+   "text": "A",
+   "time": 86.48,
+   "weight": 0.33,
+   "note_time": 86.46
+  },
+  {
+   "text": "chief",
+   "time": 87.92,
+   "weight": 0.99,
+   "note_time": 86.67
+  },
+  {
+   "text": "a",
+   "time": 88.28,
+   "weight": 1.0,
+   "note_time": 87.08
+  },
+  {
+   "text": "mong",
+   "time": 88.53,
+   "weight": 1.0,
+   "note_time": 87.29
+  },
+  {
+   "text": "the",
+   "time": 88.78,
+   "weight": 1.0,
+   "note_time": 87.92
+  },
+  {
+   "text": "peo",
+   "time": 89.42,
+   "weight": 1.0,
+   "note_time": 88.12
+  },
+  {
+   "text": "ple",
+   "time": 89.7,
+   "weight": 1.0,
+   "note_time": 88.54
+  },
+  {
+   "text": "known",
+   "time": 89.98,
+   "weight": 0.96,
+   "note_time": 88.96
+  },
+  {
+   "text": "by",
+   "time": 90.46,
+   "weight": 1.0,
+   "note_time": 89.58
+  },
+  {
+   "text": "name",
+   "time": 91.12,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "Hus",
+   "time": 93.9,
+   "weight": 0.84,
+   "note_time": 93.33
+  },
+  {
+   "text": "ham",
+   "time": 94.25,
+   "weight": 0.84,
+   "note_time": 93.54
+  },
+  {
+   "text": "ruled",
+   "time": 95.1,
+   "weight": 1.0,
+   "note_time": 94.17
+  },
+  {
+   "text": "from",
+   "time": 95.64,
+   "weight": 1.0,
+   "note_time": 95.0
+  },
+  {
+   "text": "the",
+   "time": 96.4,
+   "weight": 1.0,
+   "note_time": 95.42
+  },
+  {
+   "text": "land",
+   "time": 96.82,
+   "weight": 0.99,
+   "note_time": 95.62
+  },
+  {
+   "text": "of",
+   "time": 97.32,
+   "weight": 1.0,
+   "note_time": 96.25
+  },
+  {
+   "text": "the",
+   "time": 97.72,
+   "weight": 1.0,
+   "note_time": 96.46
+  },
+  {
+   "text": "Te",
+   "time": 97.9,
+   "weight": 0.96,
+   "note_time": 96.67
+  },
+  {
+   "text": "man",
+   "time": 98.25,
+   "weight": 0.96,
+   "note_time": 96.88
+  },
+  {
+   "text": "ites",
+   "time": 98.6,
+   "weight": 0.96,
+   "note_time": 97.29
+  },
+  {
+   "text": "Be",
+   "time": 99.6,
+   "weight": 0.98,
+   "note_time": 98.75
+  },
+  {
+   "text": "fore",
+   "time": 99.92,
+   "weight": 0.98,
+   "note_time": 99.17
+  },
+  {
+   "text": "the",
+   "time": 100.24,
+   "weight": 1.0,
+   "note_time": 99.58
+  },
+  {
+   "text": "kings",
+   "time": 100.9,
+   "weight": 0.97,
+   "note_time": 99.79
+  },
+  {
+   "text": "of",
+   "time": 101.24,
+   "weight": 1.0,
+   "note_time": 100.42
+  },
+  {
+   "text": "Is",
+   "time": 101.78,
+   "weight": 0.99,
+   "note_time": 100.62
+  },
+  {
+   "text": "rael",
+   "time": 102.08,
+   "weight": 0.99,
+   "note_time": 101.04
+  },
+  {
+   "text": "reigned",
+   "time": 102.38,
+   "weight": 1.0,
+   "note_time": 101.67
+  },
+  {
+   "text": "up",
+   "time": 103.28,
+   "weight": 1.0,
+   "note_time": 102.08
+  },
+  {
+   "text": "on",
+   "time": 103.4,
+   "weight": 1.0,
+   "note_time": 102.29
+  },
+  {
+   "text": "the",
+   "time": 103.52,
+   "weight": 1.0,
+   "note_time": 102.92
+  },
+  {
+   "text": "throne",
+   "time": 104.16,
+   "weight": 0.99,
+   "note_time": 103.12
+  },
+  {
+   "text": "Is",
+   "time": 106.96,
+   "weight": 0.52,
+   "note_time": 107.08
+  },
+  {
+   "text": "there",
+   "time": 108.28,
+   "weight": 0.99,
+   "note_time": 107.5
+  },
+  {
+   "text": "no",
+   "time": 108.74,
+   "weight": 0.99,
+   "note_time": 107.92
+  },
+  {
+   "text": "lon",
+   "time": 109.12,
+   "weight": 0.99,
+   "note_time": 108.33
+  },
+  {
+   "text": "ger",
+   "time": 109.47,
+   "weight": 0.99,
+   "note_time": 108.75
+  },
+  {
+   "text": "wis",
+   "time": 109.94,
+   "weight": 0.96,
+   "note_time": 108.96
+  },
+  {
+   "text": "dom",
+   "time": 110.29,
+   "weight": 0.96,
+   "note_time": 109.58
+  },
+  {
+   "text": "in",
+   "time": 110.76,
+   "weight": 0.98,
+   "note_time": 110.0
+  },
+  {
+   "text": "Te",
+   "time": 111.75,
+   "weight": 0.0,
+   "note_time": 110.83
+  },
+  {
+   "text": "man",
+   "time": 112.75,
+   "weight": 0.0,
+   "note_time": 111.67
+  },
+  {
+   "text": "Coun",
+   "time": 113.74,
+   "weight": 0.44,
+   "note_time": 113.75
+  },
+  {
+   "text": "sel",
+   "time": 114.09,
+   "weight": 0.44,
+   "note_time": 114.17
+  },
+  {
+   "text": "has",
+   "time": 115.06,
+   "weight": 0.98,
+   "note_time": 114.58
+  },
+  {
+   "text": "per",
+   "time": 115.72,
+   "weight": 1.0,
+   "note_time": 115.0
+  },
+  {
+   "text": "ished",
+   "time": 116.07,
+   "weight": 1.0,
+   "note_time": 115.21
+  },
+  {
+   "text": "from",
+   "time": 116.64,
+   "weight": 0.99,
+   "note_time": 115.83
+  },
+  {
+   "text": "the",
+   "time": 116.96,
+   "weight": 1.0,
+   "note_time": 116.25
+  },
+  {
+   "text": "pru",
+   "time": 117.3,
+   "weight": 0.98,
+   "note_time": 116.46
+  },
+  {
+   "text": "dent",
+   "time": 117.65,
+   "weight": 0.98,
+   "note_time": 117.08
+  },
+  {
+   "text": "Their",
+   "time": 118.12,
+   "weight": 0.32,
+   "note_time": 119.58
+  },
+  {
+   "text": "wis",
+   "time": 120.54,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "dom",
+   "time": 120.89,
+   "weight": 1.0,
+   "note_time": 120.42
+  },
+  {
+   "text": "has",
+   "time": 121.36,
+   "weight": 0.99,
+   "note_time": 120.83
+  },
+  {
+   "text": "de",
+   "time": 121.96,
+   "weight": 1.0,
+   "note_time": 121.25
+  },
+  {
+   "text": "cayed",
+   "time": 122.31,
+   "weight": 1.0,
+   "note_time": 121.46
+  },
+  {
+   "text": "in",
+   "time": 123.1,
+   "weight": 1.0,
+   "note_time": 122.5
+  },
+  {
+   "text": "the",
+   "time": 123.56,
+   "weight": 1.0,
+   "note_time": 122.92
+  },
+  {
+   "text": "dust",
+   "time": 123.86,
+   "weight": 0.95,
+   "note_time": 123.12
+  },
+  {
+   "text": "Boz",
+   "time": 126.64,
+   "weight": 0.4,
+   "note_time": 126.67
+  },
+  {
+   "text": "rah",
+   "time": 126.99,
+   "weight": 0.4,
+   "note_time": 127.08
+  },
+  {
+   "text": "will",
+   "time": 127.96,
+   "weight": 0.98,
+   "note_time": 127.5
+  },
+  {
+   "text": "be",
+   "time": 128.32,
+   "weight": 1.0,
+   "note_time": 127.92
+  },
+  {
+   "text": "come",
+   "time": 128.67,
+   "weight": 1.0,
+   "note_time": 128.12
+  },
+  {
+   "text": "a",
+   "time": 129.02,
+   "weight": 0.99,
+   "note_time": 128.75
+  },
+  {
+   "text": "hor",
+   "time": 129.64,
+   "weight": 1.0,
+   "note_time": 128.96
+  },
+  {
+   "text": "ror",
+   "time": 129.99,
+   "weight": 1.0,
+   "note_time": 129.58
+  },
+  {
+   "text": "and",
+   "time": 130.4,
+   "weight": 0.99,
+   "note_time": 130.0
+  },
+  {
+   "text": "a",
+   "time": 131.0,
+   "weight": 1.0,
+   "note_time": 130.83
+  },
+  {
+   "text": "dis",
+   "time": 131.68,
+   "weight": 0.96,
+   "note_time": 131.04
+  },
+  {
+   "text": "grace",
+   "time": 132.01,
+   "weight": 0.96,
+   "note_time": 131.46
+  },
+  {
+   "text": "A",
+   "time": 132.34,
+   "weight": 0.15,
+   "note_time": 133.12
+  },
+  {
+   "text": "ru",
+   "time": 133.42,
+   "weight": 0.91,
+   "note_time": 133.33
+  },
+  {
+   "text": "in",
+   "time": 133.77,
+   "weight": 0.91,
+   "note_time": 133.54
+  },
+  {
+   "text": "and",
+   "time": 134.2,
+   "weight": 0.99,
+   "note_time": 134.17
+  },
+  {
+   "text": "a",
+   "time": 135.0,
+   "weight": 0.99,
+   "note_time": 134.58
+  },
+  {
+   "text": "curse",
+   "time": 135.34,
+   "weight": 1.0,
+   "note_time": 134.79
+  },
+  {
+   "text": "fo",
+   "time": 136.04,
+   "weight": 0.0,
+   "note_time": 135.42
+  },
+  {
+   "text": "re",
+   "time": 136.74,
+   "weight": 0.0,
+   "note_time": 135.83
+  },
+  {
+   "text": "ver",
+   "time": 137.44,
+   "weight": 0.0,
+   "note_time": 136.04
+  },
+  {
+   "text": "more",
+   "time": 138.14,
+   "weight": 0.0,
+   "note_time": 136.25
+  },
+  {
+   "text": "The",
+   "time": 138.84,
+   "weight": 0.83,
+   "note_time": 139.58
+  },
+  {
+   "text": "pride",
+   "time": 140.12,
+   "weight": 0.98,
+   "note_time": 140.0
+  },
+  {
+   "text": "of",
+   "time": 140.78,
+   "weight": 1.0,
+   "note_time": 140.83
+  },
+  {
+   "text": "the",
+   "time": 141.58,
+   "weight": 1.0,
+   "note_time": 141.25
+  },
+  {
+   "text": "heart",
+   "time": 141.86,
+   "weight": 0.91,
+   "note_time": 141.46
+  },
+  {
+   "text": "has",
+   "time": 142.36,
+   "weight": 0.9,
+   "note_time": 142.5
+  },
+  {
+   "text": "de",
+   "time": 143.2,
+   "weight": 1.0,
+   "note_time": 142.92
+  },
+  {
+   "text": "ceived",
+   "time": 143.55,
+   "weight": 1.0,
+   "note_time": 143.33
+  },
+  {
+   "text": "the",
+   "time": 144.0,
+   "weight": 0.96,
+   "note_time": 144.17
+  },
+  {
+   "text": "ea",
+   "time": 144.78,
+   "weight": 0.88,
+   "note_time": 144.79
+  },
+  {
+   "text": "gle",
+   "time": 145.13,
+   "weight": 0.88,
+   "note_time": 145.21
+  },
+  {
+   "text": "Who",
+   "time": 145.54,
+   "weight": 0.93,
+   "note_time": 146.25
+  },
+  {
+   "text": "builds",
+   "time": 146.76,
+   "weight": 0.99,
+   "note_time": 146.67
+  },
+  {
+   "text": "his",
+   "time": 147.22,
+   "weight": 0.93,
+   "note_time": 147.08
+  },
+  {
+   "text": "nest",
+   "time": 147.64,
+   "weight": 1.0,
+   "note_time": 147.5
+  },
+  {
+   "text": "as",
+   "time": 148.16,
+   "weight": 0.99,
+   "note_time": 147.92
+  },
+  {
+   "text": "high",
+   "time": 148.6,
+   "weight": 1.0,
+   "note_time": 148.33
+  },
+  {
+   "text": "as",
+   "time": 149.04,
+   "weight": 1.0,
+   "note_time": 149.17
+  },
+  {
+   "text": "the",
+   "time": 149.72,
+   "weight": 1.0,
+   "note_time": 149.58
+  },
+  {
+   "text": "sky",
+   "time": 150.04,
+   "weight": 0.99,
+   "note_time": 150.0
+  },
+  {
+   "text": "Leave",
+   "time": 153.42,
+   "weight": 0.85,
+   "note_time": 154.17
+  },
+  {
+   "text": "your",
+   "time": 154.7,
+   "weight": 0.96,
+   "note_time": 154.58
+  },
+  {
+   "text": "or",
+   "time": 155.0,
+   "weight": 1.0,
+   "note_time": 154.79
+  },
+  {
+   "text": "phans",
+   "time": 155.35,
+   "weight": 1.0,
+   "note_time": 155.21
+  },
+  {
+   "text": "I",
+   "time": 155.98,
+   "weight": 0.99,
+   "note_time": 155.83
+  },
+  {
+   "text": "will",
+   "time": 156.28,
+   "weight": 1.0,
+   "note_time": 156.25
+  },
+  {
+   "text": "keep",
+   "time": 156.64,
+   "weight": 1.0,
+   "note_time": 156.67
+  },
+  {
+   "text": "them",
+   "time": 157.02,
+   "weight": 1.0,
+   "note_time": 157.5
+  },
+  {
+   "text": "a",
+   "time": 157.88,
+   "weight": 1.0,
+   "note_time": 157.92
+  },
+  {
+   "text": "live",
+   "time": 158.19,
+   "weight": 1.0,
+   "note_time": 158.12
+  },
+  {
+   "text": "Let",
+   "time": 158.5,
+   "weight": 0.25,
+   "note_time": 160.83
+  },
+  {
+   "text": "your",
+   "time": 161.06,
+   "weight": 0.67,
+   "note_time": 161.25
+  },
+  {
+   "text": "wid",
+   "time": 161.46,
+   "weight": 0.97,
+   "note_time": 161.46
+  },
+  {
+   "text": "ows",
+   "time": 161.81,
+   "weight": 0.97,
+   "note_time": 161.88
+  },
+  {
+   "text": "trust",
+   "time": 162.38,
+   "weight": 0.98,
+   "note_time": 162.5
+  },
+  {
+   "text": "in",
+   "time": 162.74,
+   "weight": 1.0,
+   "note_time": 162.92
+  },
+  {
+   "text": "me",
+   "time": 163.24,
+   "weight": 0.76,
+   "note_time": 163.33
+  },
+  {
+   "text": "Is",
+   "time": 163.62,
+   "weight": 0.34,
+   "note_time": 167.08
+  },
+  {
+   "text": "there",
+   "time": 167.3,
+   "weight": 1.0,
+   "note_time": 167.5
+  },
+  {
+   "text": "no",
+   "time": 167.66,
+   "weight": 1.0,
+   "note_time": 167.92
+  },
+  {
+   "text": "lon",
+   "time": 168.02,
+   "weight": 1.0,
+   "note_time": 168.33
+  },
+  {
+   "text": "ger",
+   "time": 168.37,
+   "weight": 1.0,
+   "note_time": 168.75
+  },
+  {
+   "text": "wis",
+   "time": 168.82,
+   "weight": 0.99,
+   "note_time": 168.96
+  },
+  {
+   "text": "dom",
+   "time": 169.17,
+   "weight": 0.99,
+   "note_time": 169.58
+  },
+  {
+   "text": "in",
+   "time": 169.68,
+   "weight": 0.96,
+   "note_time": 170.0
+  },
+  {
+   "text": "Te",
+   "time": 170.08,
+   "weight": 0.0,
+   "note_time": 170.83
+  },
+  {
+   "text": "man",
+   "time": 170.48,
+   "weight": 0.0,
+   "note_time": 171.67
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 21 lyric lines sit on their notes."
+}

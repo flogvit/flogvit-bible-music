@@ -1,0 +1,70 @@
+{
+  "id": "person-bartolomeus-rock",
+  "title": "A True Israelite",
+  "kind": "person",
+  "anchor": {
+    "person": "bartolomeus"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 45,
+      "verseEnd": 45
+    },
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 46,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 47,
+      "verseEnd": 47
+    },
+    {
+      "bookId": 43,
+      "chapter": 1,
+      "verseStart": 48,
+      "verseEnd": 49
+    },
+    {
+      "bookId": 43,
+      "chapter": 21,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "bartolomeus",
+      "jesus",
+      "filip"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male lead vocal with gritty edge, electric guitar, bass guitar, drums, piano, organ, intense and reflective mood, 90 BPM",
+    "lyrics": "[Verse]\nPhilip found Nathanael in the light\nTold him of Jesus from Nazareth\nWe found the one Moses wrote about\nIn the law and the prophets\n\n[Pre-Chorus]\nCan anything good come from there\nNathanael asked with a frown\nCome and see said Philip\nThen the journey began\n\n[Chorus]\nSee here is a true Israelite\nIn whom there is no deceit\nNo deceit in his heart\nA true Israelite\n\n[Verse]\nI saw you under the fig tree\nBefore Philip called you\nNathanael asked how he knew\nJesus spoke the truth\n\n[Chorus]\nSee here is a true Israelite\nIn whom there is no deceit\nNo deceit in his heart\nA true Israelite\n\n[Bridge]\nRabbi you are the Son of God\nKing of Israel is your name\nThe fig tree witness remains\nFaith begins in the light\n\n[Outro]\nBy the Sea of Tiberias\nHe revealed himself again\nNathanael from Cana\nWitness to the risen Lord",
+    "cot": "full",
+    "seed": 31352
+  }
+}

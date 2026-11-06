@@ -1,0 +1,68 @@
+{
+  "id": "person-baal-hanan-orchestral",
+  "title": "When Shaul Died",
+  "kind": "person",
+  "anchor": {
+    "person": "baal-hanan"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 38,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 49,
+      "verseEnd": 50
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 37,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 39,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "baal-hanan",
+      "esau",
+      "hadad"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with choir, harp, cello, flute, timpani, solemn and ancient, 80 BPM",
+    "lyrics": "[Verse]\nThis is the family history of Esau\nHe is Edom in the hill country of Seir\nEsau took his wives from the daughters of Canaan\nAdah and Oholibamah and Basemath came\nTheir possessions were too great to live together\nThe land could not support their livestock there\nSo Esau moved away from his brother Jacob\nAnd settled in the land that bears his name\n\n[Chorus]\nWhen Shaul died, Baal-Hanan son of Achbor succeeded him as king\nWhen Baal-Hanan died, Hadar succeeded him as king\nHis city was named Pau, his wife Mehetabel\nDaughter of Matred, daughter of Me-Zahab\n\n[Verse]\nBefore any king reigned over the Israelites\nThere were kings who reigned in the land of Edom\nShaul from Rehoboth on the River succeeded Samlah\nThen Baal-Hanan took the throne in his place\nThe list continues in the books of Chronicles\nHadar reigned in his place, his city was named Pai\nMehetabel was his wife, daughter of Matred\nThe line of Esau grew in the hill country of Seir\n\n[Chorus]\nWhen Shaul died, Baal-Hanan son of Achbor succeeded him as king\nWhen Baal-Hanan died, Hadar succeeded him as king\nHis city was named Pau, his wife Mehetabel\nDaughter of Matred, daughter of Me-Zahab\n\n[Outro]\nThis is the family history of Esau\nThat is, Edom, in the land of Seir",
+    "cot": "full",
+    "seed": 31351
+  }
+}

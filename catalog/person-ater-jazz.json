@@ -1,0 +1,70 @@
+{
+  "id": "person-ater-jazz",
+  "title": "Ninety-Eight Souls",
+  "kind": "person",
+  "anchor": {
+    "person": "ater"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 42,
+      "verseEnd": 42
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 45,
+      "verseEnd": 45
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 17,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "ater",
+      "serubabel",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, warm and steady, solo with soft brush drums, upright bass, piano, double bass, smooth jazz mood, 90 BPM",
+    "lyrics": "[Verse]\nFrom Babylon we walk away\nFollowing Zerubbabel's call\nNinety-eight of Ater's line\nFrom Hezekiah we stand tall\n\n[Chorus]\nNinety-eight souls come home\nTo the gate where we belong\nGuarding the temple door\nThe covenant seal is strong\n\n[Verse]\nAmong the gatekeepers we stand\nShallum and Ater side by side\nTalmon and Akkub keep watch\nHatita and Shobai abide\n\n[Chorus]\nNinety-eight souls come home\nTo the gate where we belong\nGuarding the temple door\nThe covenant seal is strong\n\n[Bridge]\nAdonijah and Bigvai sign\nAdin joins the holy line\nWe pledge to follow God's law\nIn this restored and sacred place\n\n[Outro]\nNinety-eight names in the list\nFaithful in the quiet dust",
+    "cot": "full",
+    "seed": 31350
+  }
+}

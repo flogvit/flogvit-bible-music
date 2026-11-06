@@ -1,0 +1,69 @@
+{
+  "id": "person-bukki-ballad",
+  "title": "The Son of Abishua",
+  "kind": "person",
+  "anchor": {
+    "person": "bukki"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 5,
+      "verseEnd": 51
+    },
+    {
+      "bookId": 15,
+      "chapter": 7,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 4,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 50,
+      "verseEnd": 52
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "bukki",
+      "aron",
+      "eleasar-arons-sonn",
+      "pinhas",
+      "abisjua"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and reverent, acoustic guitar, piano, cello, soft strings, gentle and solemn, 80 BPM",
+    "lyrics": "[Verse]\nFrom the line of Aaron’s house\nEleazar lived in holy trust\nPhinehas burned with zeal for God\nAbishua walked the sacred road\n\n[Chorus]\nBukki, son of Abishua\nHolding the priesthood through\nUzzi followed in his line\nA holy order, divine\n\n[Verse]\nIn Chronicles the names are kept\nA chain of fathers, never slept\nZerahiah came after him\nCarrying the sacred rim\n\n[Chorus]\nBukki, son of Abishua\nHolding the priesthood through\nUzzi followed in his line\nA holy order, divine\n\n[Bridge]\nFrom Aaron down to Ezra’s day\nThe priestly line held steady sway\nNo break in the chain of faith\nKeeping the covenant safe\n\n[Outro]\nBukki, son of Abishua\nA name in the holy book\nThe line of Aaron stands\nFaithful to the Lord’s commands",
+    "cot": "full",
+    "seed": 31355
+  }
+}

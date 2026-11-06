@@ -1,0 +1,73 @@
+{
+  "id": "person-sjiftan-celtic",
+  "title": "The Vow at the Door",
+  "kind": "person",
+  "anchor": {
+    "person": "sjiftan"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 4,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 12,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 29,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 7,
+      "chapter": 11,
+      "verseStart": 34,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 58,
+      "chapter": 11,
+      "verseStart": 32,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjiftan",
+      "gilead",
+      "gideon",
+      "samuel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, celtic, male solo voice with deep resonance, solo, bodhran, tin whistle, harp, fiddle, cello, somber and reflective, 70 BPM",
+    "lyrics": "[Verse]\nJephthah the Gileadite was a mighty warrior\nSon of a prostitute, Gilead his father\nHis half-brothers drove him out of the house\nYou will inherit nothing, they told him in anger\n\n[Verse]\nHe fled to the land of Tob in exile\nWorthless men gathered around him there\nWhen Ammonites made war against Israel\nThe elders came back to him with care\n\n[Chorus]\nIf you give the Ammonites into my hand\nWhoever comes out of my door shall stand\nBelonging to the Lord in sight\nI will offer him up in the light\n\n[Verse]\nSpirit of the Lord came upon Jephthah\nHe crossed Gilead, advanced against them\nThe Ammonites were subdued in defeat\nTwenty towns struck down, a crushing weight\n\n[Chorus]\nIf you give the Ammonites into my hand\nWhoever comes out of my door shall stand\nBelonging to the Lord in sight\nI will offer him up in the light\n\n[Bridge]\nHis daughter met him with tambourines and dancing\nHer only child, no son or daughter\nHe tore his clothes and cried in pain\nI opened my mouth to the Lord, in vain\n\n[Outro]\nShe wept in the hills for two months\nA custom in Israel, year after year\nThe daughter of Jephthah, remembered in grief\nA hero of faith, a sorrowful fear",
+    "cot": "full",
+    "seed": 31348
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "person-bebai-children",
+  "title": "The Sons of Bebai",
+  "kind": "person",
+  "anchor": {
+    "person": "bebai"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 15,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "tro",
+      "menigheten"
+    ],
+    "stories": [],
+    "persons": [
+      "bebai",
+      "esra",
+      "serubabel",
+      "nehemja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright male solo voice with warm choir backing, acoustic guitar, piano, strings, light percussion, hopeful and gentle mood, 90 BPM",
+    "lyrics": "[Verse]\nThe sons of Bebai counted clear,\nSix hundred twenty-three are here,\nReturning home to Zion's street,\nWhere ancient memories beat,\nUnder Zerubbabel's care,\nA family gathered there.\n\n[Chorus]\nWe seal the covenant again,\nWith heads of all the people's men,\nFollowing God's holy way,\nIn Jerusalem every day,\nThe sons of Bebai stand and sign,\nThe truth that is forever thine.\n\n[Verse]\nSix hundred twenty-eight are listed,\nIn Nehemiah's book that's witnessed,\nOf Bebai's line they came to stay,\nIn the city of God's clay,\nA new group follows Ezra's lead,\nWith Zechariah and his seed,\nTwenty-eight men with Jahaziel's son,\nThe journey is not yet done.\n\n[Chorus]\nWe seal the covenant again,\nWith heads of all the people's men,\nFollowing God's holy way,\nIn Jerusalem every day,\nThe sons of Bebai stand and sign,\nThe truth that is forever thine.\n\n[Verse]\nJehohanan and Hananiah too,\nZabbai and Athlai in view,\nForeign wives they had to send,\nTo keep the people pure and sound,\nEzra led the cleansing task,\nIn Jerusalem's sacred space,\nThe heads of families stood in line,\nTo keep the law divine.\n\n[Chorus]\nWe seal the covenant again,\nWith heads of all the people's men,\nFollowing God's holy way,\nIn Jerusalem every day,\nThe sons of Bebai stand and sign,\nThe truth that is forever thine.\n\n[Outro]\nThe sons of Bebai, sealed in truth,\nIn Jerusalem, God's eternal youth.",
+    "cot": "full",
+    "seed": 31353
+  }
+}

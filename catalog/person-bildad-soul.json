@@ -1,0 +1,69 @@
+{
+  "id": "person-bildad-soul",
+  "title": "How long will you go on talking",
+  "kind": "person",
+  "anchor": {
+    "person": "bildad"
+  },
+  "references": [
+    {
+      "bookId": 18,
+      "chapter": 2,
+      "verseStart": 11,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 18,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 18,
+      "chapter": 18,
+      "verseStart": 1,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 18,
+      "chapter": 25,
+      "verseStart": 1,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 18,
+      "chapter": 42,
+      "verseStart": 7,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "bildad",
+      "job",
+      "elifas",
+      "sofar"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soul vocal, deep and reflective, solo with choir support, acoustic piano, cello, upright bass, light percussion, gentle and solemn mood, 75 BPM",
+    "lyrics": "[Verse]\nThree friends came from far away\nEliphaz, Bildad, and Zophar too\nThey saw his pain from a distance away\nCould not recognize the man he knew\n\n[Chorus]\nHow long will you go on talking like this\nYour words are a driving wind\nDoes God pervert justice in his design\nDoes the Almighty let what is right be blind\n\n[Verse]\nThey wept aloud and tore their robes\nTossed dust into the air above\nSat with him for seven days and nights\nNo words were spoken, suffering in sight\n\n[Chorus]\nHow long will you go on talking like this\nYour words are a driving wind\nDoes God pervert justice in his design\nDoes the Almighty let what is right be blind\n\n[Bridge]\nCan papyrus grow where there is no marsh\nCan reeds flourish without water\nThe hope of the godless perishes\nTheir trust is a spider's web\n\n[Chorus]\nHow long will you go on talking like this\nYour words are a driving wind\nDoes God pervert justice in his design\nDoes the Almighty let what is right be blind\n\n[Outro]\nTake seven bulls and seven rams\nGo to my servant Job\nHe will pray for you\nAnd the LORD will accept his prayer",
+    "cot": "full",
+    "seed": 31354
+  }
+}

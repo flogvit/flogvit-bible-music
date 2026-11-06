@@ -1,0 +1,68 @@
+{
+  "id": "person-asenat-country",
+  "title": "Like Ephraim and Manasseh",
+  "kind": "person",
+  "anchor": {
+    "person": "asenat"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 41,
+      "verseStart": 45,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 1,
+      "chapter": 41,
+      "verseStart": 50,
+      "verseEnd": 51
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 1,
+      "chapter": 48,
+      "verseStart": 1,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "holiness",
+      "salvation",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "asenat",
+      "josef-gt",
+      "farao-exodus",
+      "jakob-israel",
+      "potifera"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice with warm character, acoustic guitar, fiddle, upright bass, piano, soft strings, nostalgic and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nPharaoh named him Zaphenath-paneah\nGave him Asenath, daughter of Potiphera\nPriest of On, a wife of grace\nJoseph stood before the king\nThirty years old in that land\nHe left the palace, traveled on\n\n[Chorus]\nMay God make you like Ephraim and Manasseh\nBlessed with names that carry on\nInheritance equal, sons of Israel\nAdopted in the covenant home\n\n[Verse]\nBefore the famine came to pass\nTwo sons were born in the land\nManasseh, the firstborn son\nGod made him forget his hardship\nEphraim, the fruitful boy\nBorn where he had suffered long\nAsenath, mother of these two\nSecured their place in the genealogy\n\n[Chorus]\nMay God make you like Ephraim and Manasseh\nBlessed with names that carry on\nInheritance equal, sons of Israel\nAdopted in the covenant home\n\n[Bridge]\nJacob sat up on his bed\nSaw his face again at last\nTook the boys to his heart\nCrossed his hands in blessing\nRight hand on the younger head\nLeft hand on the firstborn son\nI know, my son, I know\nThe younger will be greater\n\n[Chorus]\nMay God make you like Ephraim and Manasseh\nBlessed with names that carry on\nInheritance equal, sons of Israel\nAdopted in the covenant home\n\n[Outro]\nSo he put Ephraim ahead\nOf Manasseh, the firstborn",
+    "cot": "full",
+    "seed": 31349
+  }
+}

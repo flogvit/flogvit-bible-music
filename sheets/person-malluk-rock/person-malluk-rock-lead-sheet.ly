@@ -1,0 +1,37 @@
+\version "2.24.0"
+\header {
+  title = "Sealing the Covenant"
+  subtitle = "Nehemiah 12:2; 10:4; Ezra 10:29; 1 Chronicles 6:29; Nehemiah 12:14"
+  tagline = ##f
+  copyright = \markup \small \wordwrap { "Melody" "and" "chords" "from" "the" "score" "YuE2" "generated" "the" "song" "from" "(score.abc)." "Lyrics" "placed" "syllable" "by" "syllable" "against" "the" "recording" "with" "Whisper," "which" "heard" "201" "of" "205" "words." "All" "30" "lyric" "lines" "sit" "on" "their" "notes." }
+}
+\paper {
+  #(set-paper-size "a4")
+  top-margin = 12\mm
+  bottom-margin = 12\mm
+  left-margin = 14\mm
+  right-margin = 14\mm
+  system-system-spacing.basic-distance = #14
+  markup-system-spacing.basic-distance = #8
+}
+melody = {
+  \clef treble \key dis \minor \tempo 4 = 75
+  \time 2/4 R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | \sectionLabel "Verse 1" r4. ais'8 | ais'8 dis''16 dis''8. dis''8 | cis''4 ais'16 gis'16 gis'16 ais'16 ~ | ais'8. r4 r16 | r4. ais'16 ais'16 | ais'8 dis''8 dis''8 dis''16 cis''16 ~ | cis''8 cis''8 ais'16 gis'16 gis'16 ais'16 ~ | ais'8. r4 r16 | R1*1/2 | dis''16 dis''4 r16 dis''16 dis''16 | cis''4 cis''8 ais'16 ais'16 ~ | ais'8. r16 gis'8 fis'8 ~ | fis'8 r4 dis'8 | dis'8. fis'8. ais'16 gis'16 ~ | gis'16 fis'8. r8. dis'16 | eis'4 cis'8 cis'8 ~ | cis'8 dis'4. | R1*1/2 | \sectionLabel "Chorus" r8 fis''8 fis''8 fis''16 eis''16 ~ | eis''16 eis''16 eis''8 eis''16 cis''16 dis''16 dis''16 ~ | dis''8 r4. | r4. r16 ais'16 | dis''16 dis''4 r16 dis''16 dis''16 | cis''4 cis''8 ais'8 | gis'8. gis'8. fis'16 gis'16 ~ | gis'8 r4. | fis''8 fis''8 fis''8 fis''16 eis''16 ~ | eis''8. r16 eis''16 cis''8 dis''16 ~ | dis''8. r4 r16 | R1*1/2 | dis'4 fis'8 ais'16 gis'16 ~ | gis'8 fis'8 eis'8 cis'16 dis'16 | dis'4 r4 | R1*1/2 | R1*1/2 | \sectionLabel "Verse 2" r4. ais'16 ais'16 | ais'8 dis''8 dis''8 dis''8 | cis''8 cis''16 ais'8. gis'16 ais'16 ~ | ais'8 r4. | r4. ais'8 | ais'16 dis''8. dis''8 dis''16 cis''16 ~ | cis''8 cis''8 ais'8 gis'16 ais'16 ~ | ais'8. r4 r16 | r4. r16 ais'16 | dis''8 dis''4 dis''8 | dis''16 cis''8. r4 | ais'4 gis'8 ais'16 fis'16 ~ | fis'8 r4. | dis'8. fis'8. ais'16 gis'16 ~ | gis'8. r16 fis'16 eis'8. | eis'8 cis'16 cis'8 ais16 dis'8 ~ | dis'8 r4. | R1*1/2 | \sectionLabel "Chorus" r8 fis''8 fis''8 fis''16 eis''16 ~ | eis''16 eis''16 eis''8 eis''16 cis''16 dis''16 dis''16 ~ | dis''8 r4. | r4. r16 ais'16 | dis''16 dis''4 r16 dis''16 dis''16 | cis''4 cis''8 ais'8 | gis'8. gis'8. fis'16 gis'16 ~ | gis'8 r4. | fis''8 fis''8 fis''8 fis''16 eis''16 ~ | eis''8. r16 eis''16 cis''16 dis''16 dis''16 ~ | dis''8. r4 r16 | R1*1/2 | dis'4 fis'8 ais'16 gis'16 ~ | gis'8 fis'8 eis'8 cis'16 dis'16 | dis'4 r4 | \sectionLabel "Pre-Chorus" r4. dis''16 dis''16 | dis''4 dis''8 dis''16 eis''16 ~ | eis''16 eis''8 eis''8. r8 | fis''16 fis''16 fis''16 fis''8. gis''8 | fis''16 cis''8 cis''8. r8 | dis''16 dis''16 dis''16 dis''8. dis''8 | eis''16 eis''8 eis''8. r8 | eis''16 eis''16 eis''16 eis''8. eis''16 eis''16 | eis''4 cis''8 dis''8 ~ | dis''2 ~ | dis''2 ~ | dis''4. r8 | \sectionLabel "Verse 3" r4. ais'8 | ais'16 dis''8 dis''8. dis''8 | cis''16 ais'8 ais'8. r8 | R1*1/2 | r4. ais'8 | ais'16 dis''8 dis''8. dis''8 | cis''8 cis''8 ais'8 gis'16 ais'16 ~ | ais'8. r4 r16 | R1*1/2 | dis''16 dis''8. dis''8 dis''16 dis''16 ~ | dis''16 cis''8. r4 | ais'4 gis'16 ais'8 fis'16 ~ | fis'8. r4 r16 | r8. dis'16 dis'8. gis'16 ~ | gis'16 fis'8. r8. fis'16 | eis'4 cis'8 dis'8 ~ | dis'4 r4 | R1*1/2 | \sectionLabel "Chorus" r8 fis''8 fis''8 fis''16 eis''16 ~ | eis''16 eis''16 eis''8 eis''16 cis''16 dis''16 dis''16 ~ | dis''8 r4. | r4. r16 ais'16 | dis''16 dis''4 r16 dis''16 dis''16 | cis''4 cis''8 ais'8 | gis'8. gis'8. fis'16 gis'16 ~ | gis'8 r4. | fis''8 fis''8 fis''8 fis''16 eis''16 ~ | eis''8. r16 eis''16 cis''16 dis''16 dis''16 ~ | dis''8. r4 r16 | R1*1/2 | dis'4 fis'8 ais'16 gis'16 ~ | gis'8 fis'8 eis'8 cis'16 dis'16 | dis'4 r4 | R1*1/2 | \sectionLabel "Outro" dis''4. dis''8 | cis''16 cis''8. cis''8 ais'16 ais'16 ~ | ais'8. r16 gis'8 fis'8 ~ | fis'4 r4 | r4. dis'8 | dis'4 r4 | gis'8 fis'8 fis'8 eis'8 | eis'8 cis'8 cis'8 dis'8 ~ | dis'4. r8 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 | R1*1/2 |
+  \bar "|."
+}
+harmony = \chordmode { dis1*17:m dis1:m cis1*1/2 dis1*3/2:m cis1*1/2 dis1:m b1*1/2 cis1*1/2 fis1*1/2 dis1*1/2:m b1*1/2 cis1 dis1:m dis1*1/2:m cis1*1/2 dis1:m b1*1/2 fis1*1/2 cis1 dis1*1/2:m cis1*1/2 dis1:m b1*1/2 cis1*1/2 dis1*3/2:m dis1:m cis1*1/2 dis1*3/2:m cis1*1/2 dis1:m b1*1/2 cis1*1/2 fis1*1/4 cis1*1/4/eis dis1*1/2:m b1*1/2 cis1*1/2 ais1*1/2:m dis1:m dis1*1/2:m cis1*1/2 dis1:m b1*1/2 fis1*1/2 cis1 dis1*1/2:m cis1*1/2 dis1:m b1*1/2 cis1*1/2 dis1*1/2:m dis1*1/2:m b1*1/2 cis1*1/2 dis1*1/2:m fis1*1/2 b1*1/2 cis1*1/2 ais1:m dis1*3/2:m dis1:m cis1*1/2 dis1*3/2:m cis1*1/2 dis1:m b1*1/2 cis1*1/2 fis1*1/4 cis1*1/4/eis dis1*1/2:m b1*1/2 cis1*1/2 ais1*1/2:m dis1:m dis1*1/2:m cis1*1/2 dis1:m b1*1/2 fis1*1/2 cis1 dis1*1/2:m cis1*1/2 dis1:m b1*1/2 cis1*1/2 dis1:m b1*1/2 cis1*1/2 fis1*1/4 cis1*1/4/eis dis1:m b1*1/2 cis1 dis1*4:m }
+words = \lyricmode { "From" _ "Ba" -- "by" -- "lon" "we" "came" "to" "the" "wall" "A" -- _ _ "mari" -- "ah" "and" "Mal" -- "luch" "stand" "in" "the" "hall" "Hat" -- _ "tush" "is" "named" "in" "the" "an" -- "cient" "list" "Res" -- "to" -- "ring" "the" "tem" -- "ple," "the" "faith" "is" "test" -- "ed" "We" "seal" _ "the" "co" -- "ve" -- "nant" "with" "our" "hand" "To" _ "fol" -- "low" "the" "Lord" "with" "a" "stea" -- "dy" "com" -- "mand" "Faith" -- "ful" "to" "the" "law" "we" "have" "found" "Bound" _ "to" "the" "Lord" "on" "ho" -- "ly" "ground" "From" _ "the" "sons" "of" "Ba" -- "ni" "the" "names" "are" "read" "Mes" -- "hul" -- "lam" "and" "Mal" -- "luch," "no" "lon" -- "ger" "dead" "Ada" -- _ "iah" "and" "Jas" -- "hub," "Sheal" "and" "Ra" -- "moth" "Send" -- "ing" "a" -- "way" "what" "is" "for" -- "eign" "and" "re" -- "mote" "We" _ "seal" "the" "co" -- "ve" -- "nant" "with" "our" "hand" "To" "fol" -- "low" "the" _ "Lord" "with" "a" "stea" -- "dy" "com" -- "mand" "Faith" -- _ "ful" "to" "the" "law" "we" "have" "found" "Bound" _ "to" "the" "Lord" "on" "ho" -- "ly" "ground" "On" "the" "left" "stood" "the" "kins" -- "men" "near" "Et" -- "han" "the" "son" "of" "K" -- "ishi," "clear" "Ab" -- "di" "the" "son" "of" "Mal" -- "luch," "true" "Serv" -- "ing" "the" "Lord" "in" "the" "tem" -- "ple" "view" "Of" "Mal" -- "luch" "there" "was" "Jo" -- "nat" -- "han" "Of" _ "She" -- "ba" -- "niah," "Jo" -- "seph" "is" "the" "man" "Pash" -- "hur" "and" "A" -- "mari" -- "ah," "Mal" -- "chi" -- "jah" "too" "Le" -- "vites" "serv" -- "ing," "the" "work" "to" "do" "We" _ "seal" "the" "co" -- "ve" -- "nant" "with" "our" "hand" "To" "fol" -- "low" "the" _ "Lord" "with" "a" "stea" -- "dy" "com" -- "mand" "Faith" -- "ful" _ "to" "the" "law" "we" "have" "found" "Bound" _ "to" "the" "Lord" "on" "ho" -- "ly" "ground" "Names" "are" "writ" -- "ten" "in" "the" "book" "of" "days" \skip 1 \skip 1 "Mal" -- "luch" "stands" "in" "the" "ho" -- "ly" "ways" }
+\score {
+  <<
+    \new ChordNames \with { majorSevenSymbol = \markup { "maj7" } } \harmony
+    \new Staff \new Voice = "melody" \melody
+    \new Lyrics \lyricsto "melody" \words
+  >>
+  \layout {
+    indent = 0
+    \context { \Lyrics
+      \override LyricSpace.minimum-distance = #1.6
+      \override LyricHyphen.minimum-distance = #1.4
+    }
+  }
+}

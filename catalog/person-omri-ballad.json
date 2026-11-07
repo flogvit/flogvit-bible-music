@@ -1,0 +1,71 @@
+{
+  "id": "person-omri-ballad",
+  "title": "The Hill of Samaria",
+  "kind": "person",
+  "anchor": {
+    "person": "omri"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 15,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 21,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 23,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 25,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 11,
+      "chapter": 16,
+      "verseStart": 28,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "omri",
+      "tibni",
+      "ela-basjas-sonn",
+      "simri",
+      "akab"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, warm and solemn, solo voice, acoustic guitar, cello, soft piano, strings, low drums, melancholic, 80 BPM",
+    "lyrics": "[Verse]\nThe troops were encamped against Gibbethon\nThey heard that Zimri had struck down the king\nAll Israel in the camp that very day\nProclaimed the commander Omri their new king\n\n[Chorus]\nHe bought the hill of Samaria from Shemer\nBuilt up the city with two talents of silver\nHe named it after the owner of the ground\nA capital that would not be unbound\n\n[Verse]\nThe people were split into two distinct sides\nHalf followed Tibni son of Ginath to reign\nHalf followed Omri in the battle lines\nBut Omri proved stronger than Tibni again\nTibni died and the war was done\nOmri became king in the thirty-first year of Asa\nHe reigned twelve years in the northern land\nSix years in Tirzah before he could rest\n\n[Chorus]\nHe bought the hill of Samaria from Shemer\nBuilt up the city with two talents of silver\nHe named it after the owner of the ground\nA capital that would not be unbound\n\n[Bridge]\nHe did evil in the eyes of the Lord\nActing more wickedly than all before him\nHe followed the sin of Jeroboam son of Nebat\nProvoking the God of Israel to anger\nWith worthless idols that brought them shame\n\n[Outro]\nOmri rested with his fathers\nBuried in Samaria\nHis son Ahab took the throne\nContinuing the ways of the old\n\n[Chorus]\nHe bought the hill of Samaria from Shemer\nBuilt up the city with two talents of silver\nHe named it after the owner of the ground\nA capital that would not be unbound",
+    "cot": "full",
+    "seed": 31386
+  }
+}

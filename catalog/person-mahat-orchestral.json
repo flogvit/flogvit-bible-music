@@ -1,0 +1,69 @@
+{
+  "id": "person-mahat-orchestral",
+  "title": "Storerooms in the House of the Lord",
+  "kind": "person",
+  "anchor": {
+    "person": "mahat"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 35,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 14,
+      "chapter": 29,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 11,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 14,
+      "chapter": 31,
+      "verseStart": 15,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "mahat",
+      "hiskia",
+      "asarja",
+      "konanja",
+      "sjimi"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm choir backing, harp, flute, strings, timpani, solemn and reverent mood, 85 BPM",
+    "lyrics": "[Verse]\nKing Hezekiah gave the order\nPrepare the storerooms in the house\nThe Lord received their faithful work\nThey brought the contributions in the dust\n\n[Verse]\nMahath son of Amasai stepped forward\nWith Joel son of Azariah there\nFrom the Kohathites they came in light\nTo serve the Lord without a fear\n\n[Chorus]\nStorerooms in the house of the Lord\nFaithfully they brought the tithes\nDedicated gifts and holy things\nServed under Conaniah and Shimei\n\n[Verse]\nJehiel and Azaziah served\nNahath and Asahel stood strong\nJerimoth and Jozabad kept watch\nEliel and Ismachiah belonged\n\n[Chorus]\nStorerooms in the house of the Lord\nFaithfully they brought the tithes\nDedicated gifts and holy things\nServed under Conaniah and Shimei\n\n[Bridge]\nBy appointment of King Hezekiah\nAnd Azariah the official named\nIn charge of the house of God\nThe faithful service was not blamed\n\n[Chorus]\nStorerooms in the house of the Lord\nFaithfully they brought the tithes\nDedicated gifts and holy things\nServed under Conaniah and Shimei\n\n[Outro]\nDistributing to priests and Levites\nAccording to their duties there\nThe work of the house was done\nWith faithfulness beyond compare",
+    "cot": "full",
+    "seed": 31382
+  }
+}

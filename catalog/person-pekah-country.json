@@ -1,0 +1,74 @@
+{
+  "id": "person-pekah-country",
+  "title": "Smoldering Stubs of Firewood",
+  "kind": "person",
+  "anchor": {
+    "person": "pekah"
+  },
+  "references": [
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 25,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 23,
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 12,
+      "chapter": 16,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 12,
+      "chapter": 15,
+      "verseStart": 30,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "frelsen",
+      "lidelse"
+    ],
+    "stories": [],
+    "persons": [
+      "pekah",
+      "pekahja",
+      "hosea-konge",
+      "resin",
+      "akas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male country voice, solo with harmony, acoustic guitar, fiddle, upright bass, piano, slow mournful mood, 75 BPM",
+    "lyrics": "[Verse]\nPekah son of Remaliah rose\nFifty men of Gilead close\nIn Samaria’s royal seat\nThe king of Israel’s defeat\nHe killed the man he served\nTo take the crown he deserved\nReigned for twenty years long\nIn the days of Israel’s song\n\n[Chorus]\nBe careful, keep calm, do not be afraid\nDo not lose heart over the anger displayed\nTwo smoldering stubs of firewood burn\nWhile the kings of the north and south turn\n\n[Verse]\nRezin of Aram marched up\nAgainst Jerusalem’s cup\nThey laid siege but could not prevail\nThe heart shook like a tree in the gale\nWord came to David’s house\nAram joined the northern cause\nAhaz sent messengers away\nTo Tiglath-Pileser’s day\n\n[Chorus]\nBe careful, keep calm, do not be afraid\nDo not lose heart over the anger displayed\nTwo smoldering stubs of firewood burn\nWhile the kings of the north and south turn\n\n[Bridge]\nTiglath-Pileser came strong\nCapturing Ijon and Abel Beth Maacah along\nDeporting the people far away\nTo Assyria’s end of day\n\n[Outro]\nHoshea son of Elah conspired\nKilled the king who aspired\nBecame king in his place\nIn the twenty year’s grace",
+    "cot": "full",
+    "seed": 31388
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person-neri-soul",
+  "title": "The Son of Neri",
+  "kind": "person",
+  "anchor": {
+    "person": "neri"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 27,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 23,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 15,
+      "chapter": 3,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "neri",
+      "jesus",
+      "david",
+      "serubabel",
+      "melki"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, deep male baritone solo with background choir, upright bass, piano, brushed drums, soft strings, warm and reverent mood, 72 BPM",
+    "lyrics": "[Verse]\nHe was about thirty when the work began\nAs it was supposed, he carried the name\nSon of Heli, son of Matthat, son of Levi\nWalking the path that the ancestors knew\nFrom Melchi to Jannai, the line is drawn\nThrough Joseph and Mattathias, the story grows\nAmos and Nahum, Esli and Naggai\nMaath and Mattathias, names in the snow\n\n[Chorus]\nThe son of Joanan, the son of Rhesa\nThe son of Zerubbabel, the son of Shealtiel\nThe son of Neri, the link in the chain\nFrom David's throne to the Messiah's name\n\n[Verse]\nZerubbabel led the people home\nFrom Babylon's shadow, from exile and grief\nHe rebuilt the altar for the God of Israel\nOffering burnt offerings, keeping the belief\nJeshua and the priests stood side by side\nFollowing the Law of Moses, the man of God\nShealtiel stood with his kinsmen in the work\nPreserving the hope of the ancient cord\n\n[Chorus]\nThe son of Joanan, the son of Rhesa\nThe son of Zerubbabel, the son of Shealtiel\nThe son of Neri, the link in the chain\nFrom David's throne to the Messiah's name\n\n[Bridge]\nAfter the exile, Jechoniah is named\nHe fathered Shealtiel, who raised Zerubbabel\nA thread unbroken through the darkened days\nGod's faithfulness holds the royal ways\n\n[Chorus]\nThe son of Joanan, the son of Rhesa\nThe son of Zerubbabel, the son of Shealtiel\nThe son of Neri, the link in the chain\nFrom David's throne to the Messiah's name\n\n[Outro]\nThe son of Neri, written in the book\nA witness to the promise, never to break",
+    "cot": "full",
+    "seed": 31385
+  }
+}

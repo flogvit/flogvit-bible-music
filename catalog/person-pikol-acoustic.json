@@ -1,0 +1,75 @@
+{
+  "id": "person-pikol-acoustic",
+  "title": "Commander of the Army",
+  "kind": "person",
+  "anchor": {
+    "person": "pikol"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verseStart": 22,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verseStart": 32,
+      "verseEnd": 32
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verseStart": 26,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verseStart": 29,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verseStart": 31,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet",
+      "kjerlighet"
+    ],
+    "stories": [],
+    "persons": [
+      "pikol",
+      "abimelek",
+      "abraham",
+      "isak"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, warm and steady, solo voice with gentle backing choir, acoustic guitar, cello, harp, soft percussion, 80 BPM, solemn and narrative",
+    "lyrics": "[Verse]\nFrom Gerar the king rides out to the field\nWith Phicol, the commander, standing by\nHe speaks to the patriarch, voice low and mild\nGod is with you in everything you do, he said\nSwear to me here by the God of high heaven\nThat you will not deal falsely with my line\nI will show you kindness, as you have shown me\nIn the land where you have stayed as a stranger\n\n[Chorus]\nPhicol the commander of the army stands\nWitness to the oath, the covenant in hands\nSeven ewe lambs set apart from the flock\nAccept these as my witness that I dug this well\n\n[Verse]\nAbraham takes sheep and cattle to give\nThe two of them make a covenant of peace\nHe sets apart seven ewe lambs to live\nAs proof that he dug the well in this place\nThe place is called Beersheba, they swear\nWhen they had made the covenant at Beersheba\nAbimelech and Phicol the commander set out\nReturned to the land of the Philistines, true\n\n[Chorus]\nPhicol the commander of the army stands\nWitness to the oath, the covenant in hands\nSeven ewe lambs set apart from the flock\nAccept these as my witness that I dug this well\n\n[Verse]\nYears pass and Isaac lives in the same land\nAbimelech comes again from the city gate\nWith Ahuzzath the adviser, and Phicol in hand\nThey saw clearly that the Lord was with you, said they\nIsaac asks why they have come to his door\nSince they hated him and sent him away from you\nThey seek a sworn agreement, peace between us\nJust as we did you nothing but good and sent you away\n\n[Chorus]\nPhicol the commander of the army stands\nWitness to the oath, the covenant in hands\nSeven ewe lambs set apart from the flock\nAccept these as my witness that I dug this well\n\n[Bridge]\nHe makes them a feast, they eat and drink\nEarly in the morning they rise and swear\nExchanging oaths with one another, plain\nThen Isaac sends them off, they leave him in peace\n\n[Outro]\nPhicol the commander of the army stands\nWitness to the oath, the covenant in hands",
+    "cot": "full",
+    "seed": 31389
+  }
+}

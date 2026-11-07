@@ -1,0 +1,72 @@
+{
+  "id": "person-pedaja-celtic",
+  "title": "Seat of Honor",
+  "kind": "person",
+  "anchor": {
+    "person": "pedaja"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 12,
+      "chapter": 25,
+      "verseStart": 27,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 15,
+      "chapter": 3,
+      "verseStart": 2,
+      "verseEnd": 8
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "pedaja",
+      "jojakin",
+      "serubabel",
+      "sjealtiel",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, celtic, female solo voice with warm alto tone, solo with distant choir, acoustic guitar, bodhran, flute, cello, harp, reverent and steady mood, 80 BPM",
+    "lyrics": "[Verse]\nJeconiah the captive lived in Babylon\nHis sons were listed in the royal line\nPedaiah stands among the names recorded\nMalchiram, Shenazzar, and Hoshama too\n\n[Chorus]\nA seat of honor above the other kings\nHe spoke kindly and the prison clothes were gone\nHe ate at the king's table for his life\nThe Davidic promise kept within the line\n\n[Verse]\nZerubbabel was Pedaiah's son\nHe led the exiles back to Jerusalem\nThey set the altar on its foundations\nTo offer burnt offerings to the Lord\n\n[Chorus]\nA seat of honor above the other kings\nHe spoke kindly and the prison clothes were gone\nHe ate at the king's table for his life\nThe Davidic promise kept within the line\n\n[Verse]\nThey began the work of the house of God\nWith masons and carpenters from Sidon\nCedar logs shipped from Lebanon by sea\nThe temple rising in the second year\n\n[Chorus]\nA seat of honor above the other kings\nHe spoke kindly and the prison clothes were gone\nHe ate at the king's table for his life\nThe Davidic promise kept within the line\n\n[Outro]\nFrom the exile to the temple stone\nThe lineage holds the promise known",
+    "cot": "full",
+    "seed": 31387
+  }
+}

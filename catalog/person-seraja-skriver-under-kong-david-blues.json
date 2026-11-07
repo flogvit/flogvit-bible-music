@@ -1,0 +1,65 @@
+{
+  "id": "person-seraja-skriver-under-kong-david-blues",
+  "title": "Seraiah Was Secretary",
+  "kind": "person",
+  "anchor": {
+    "person": "seraja-skriver-under-kong-david"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 8,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 10,
+      "chapter": 8,
+      "verseStart": 15,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 13,
+      "chapter": 18,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 10,
+      "chapter": 8,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "seraja-skriver-under-kong-david",
+      "david",
+      "joab",
+      "josafat",
+      "sadok"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male solo voice, gritty and soulful, electric guitar, upright bass, Hammond organ, brushed drums, melancholic and reverent, 75 BPM",
+    "lyrics": "[Verse]\nDavid reigned over all the land\nJustice and righteousness in his hand\nHe secured the kingdom's peace\nAnd placed his servants in their place\n\n[Verse]\nJoab over the army stood\nJehoshaphat recorded the word\nZadok and Ahimelech served\nPriests to the Lord they preserved\n\n[Chorus]\nSeraiah was secretary\nWriting the king's decree\nIn the register of the great\nHis name is set in the text\n\n[Verse]\nBenaiah over the Kerethites\nAnd David's sons were priests\nAn organized house of rule\nWhere every duty is fulfilled\n\n[Chorus]\nSeraiah was secretary\nWriting the king's decree\nIn the register of the great\nHis name is set in the text\n\n[Bridge]\nShavsha in Chronicles appears\nThe same scribe, different name\nDocumenting the royal word\nIn the stability of the Lord\n\n[Outro]\nSeraiah was secretary\nFaithful in his station",
+    "cot": "full",
+    "seed": 31391
+  }
+}

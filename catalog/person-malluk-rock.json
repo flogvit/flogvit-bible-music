@@ -1,0 +1,76 @@
+{
+  "id": "person-malluk-rock",
+  "title": "Sealing the Covenant",
+  "kind": "person",
+  "anchor": {
+    "person": "malluk"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 14,
+      "verseEnd": 14
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "pakten",
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "malluk",
+      "nehemja",
+      "esra",
+      "sjerebja",
+      "hasjabja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, electric guitar, bass guitar, drums, organ, solemn and reverent mood, 75 BPM",
+    "lyrics": "[Verse]\nFrom Babylon we came to the wall\nAmariah and Malluch stand in the hall\nHattush is named in the ancient list\nRestoring the temple, the faith is tested\n\n[Chorus]\nWe seal the covenant with our hand\nTo follow the Lord with a steady command\nFaithful to the law we have found\nBound to the Lord on holy ground\n\n[Verse]\nFrom the sons of Bani the names are read\nMeshullam and Malluch, no longer dead\nAdaiah and Jashub, Sheal and Ramoth\nSending away what is foreign and remote\n\n[Chorus]\nWe seal the covenant with our hand\nTo follow the Lord with a steady command\nFaithful to the law we have found\nBound to the Lord on holy ground\n\n[Pre-Chorus]\nOn the left stood the kinsmen near\nEthan the son of Kishi, clear\nAbdi the son of Malluch, true\nServing the Lord in the temple view\n\n[Verse]\nOf Malluch there was Jonathan\nOf Shebaniah, Joseph is the man\nPashhur and Amariah, Malchijah too\nLevites serving, the work to do\n\n[Chorus]\nWe seal the covenant with our hand\nTo follow the Lord with a steady command\nFaithful to the law we have found\nBound to the Lord on holy ground\n\n[Outro]\nNames are written in the book of days\nMalluch stands in the holy ways",
+    "cot": "full",
+    "seed": 31383
+  }
+}

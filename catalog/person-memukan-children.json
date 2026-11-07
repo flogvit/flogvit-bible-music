@@ -1,0 +1,71 @@
+{
+  "id": "person-memukan-children",
+  "title": "The King's Decree",
+  "kind": "person",
+  "anchor": {
+    "person": "memukan"
+  },
+  "references": [
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 19,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 21,
+      "verseEnd": 22
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "obedience"
+    ],
+    "themes": [
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "memukan",
+      "ahasverus",
+      "vasjti",
+      "ester"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright female solo voice with soft choir, acoustic guitar, piano, gentle percussion, warm mood, 90 BPM",
+    "lyrics": "[Verse]\nSeven princes sat beside the throne\nPersia and Media all their own\nMemucan stood among the wise\nTo judge the matter in their eyes\n\n[Pre-Chorus]\nThe king was merry with wine\nVashti refused to come\nAnger burned within his soul\nWho shall decide what shall be done\n\n[Chorus]\nLet the decree go out to all\nWritten in the laws of the land\nVashti shall not come before the king\nAnother shall take her place instead\n\n[Verse]\nShe wronged the king and all the peoples\nIn every province far and near\nThe women will hear of her refusal\nAnd despise their husbands here\n\n[Pre-Chorus]\nFrom the greatest to the least they go\nHonor their husbands from now on\nThe law is set and cannot change\nThe king's command is the law\n\n[Chorus]\nLet the decree go out to all\nWritten in the laws of the land\nVashti shall not come before the king\nAnother shall take her place instead\n\n[Bridge]\nLetters sent to every land\nIn each script and every tongue\nEvery man shall be master of his house\nThe kingdom's order is sung\n\n[Chorus]\nLet the decree go out to all\nWritten in the laws of the land\nVashti shall not come before the king\nAnother shall take her place instead\n\n[Outro]\nMemucan's advice pleased the king\nThe royal decree was signed",
+    "cot": "full",
+    "seed": 31384
+  }
+}

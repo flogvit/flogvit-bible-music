@@ -1,0 +1,1274 @@
+{
+ "id": "person-iri-orchestral",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-iri-orchestral",
+ "offset_seconds": -1.4600000000002247,
+ "words_heard": 109,
+ "words": 120,
+ "lines": [
+  {
+   "text": "Bela son of Benjamin stands",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With Becher and Jediael three",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.53,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From Jacob youngest son came forth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "The tribe of Benjamin we see",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ezbon Uzzi Uzziel too",
+   "heard": 3,
+   "words": 4,
+   "error_s": 1.04,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jerimoth and Iri five",
+   "heard": 2,
+   "words": 4,
+   "error_s": 1.03,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heads of fathers houses they were",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Counted in the record given",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.12,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Mighty warriors strong and true",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.8,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Twenty-two thousand thirty-four",
+   "heard": 0,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Registered in the line of men",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From the family of Bela",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Iri stands among the five",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A son of Bela by name",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Part of the twelve tribes list",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "His place in history remains",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mighty warriors strong and true",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.5,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Twenty-two thousand thirty-four",
+   "heard": 0,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Registered in the line of men",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.3,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From the family of Bela",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Heads of their fathers houses",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mighty warriors named Iri",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.46,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Counted in the genealogy",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of Benjamin the tribe of God",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.47,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Be",
+   "time": 26.42,
+   "weight": 0.64,
+   "note_time": 26.12
+  },
+  {
+   "text": "la",
+   "time": 26.77,
+   "weight": 0.64,
+   "note_time": 26.47
+  },
+  {
+   "text": "son",
+   "time": 27.82,
+   "weight": 0.15,
+   "note_time": 26.82
+  },
+  {
+   "text": "of",
+   "time": 28.22,
+   "weight": 0.98,
+   "note_time": 27.53
+  },
+  {
+   "text": "Ben",
+   "time": 29.04,
+   "weight": 0.84,
+   "note_time": 28.24
+  },
+  {
+   "text": "ja",
+   "time": 29.39,
+   "weight": 0.84,
+   "note_time": 28.94
+  },
+  {
+   "text": "min",
+   "time": 29.74,
+   "weight": 0.84,
+   "note_time": 29.29
+  },
+  {
+   "text": "stands",
+   "time": 30.5,
+   "weight": 0.15,
+   "note_time": 29.65
+  },
+  {
+   "text": "With",
+   "time": 31.1,
+   "weight": 0.15,
+   "note_time": 31.59
+  },
+  {
+   "text": "Bech",
+   "time": 31.44,
+   "weight": 0.15,
+   "note_time": 31.76
+  },
+  {
+   "text": "er",
+   "time": 31.44,
+   "weight": 0.15,
+   "note_time": 32.12
+  },
+  {
+   "text": "and",
+   "time": 31.44,
+   "weight": 0.15,
+   "note_time": 32.47
+  },
+  {
+   "text": "Je",
+   "time": 31.44,
+   "weight": 0.15,
+   "note_time": 32.82
+  },
+  {
+   "text": "diael",
+   "time": 31.44,
+   "weight": 0.15,
+   "note_time": 33.18
+  },
+  {
+   "text": "three",
+   "time": 35.06,
+   "weight": 0.99,
+   "note_time": 33.53
+  },
+  {
+   "text": "From",
+   "time": 37.18,
+   "weight": 0.89,
+   "note_time": 37.06
+  },
+  {
+   "text": "Ja",
+   "time": 38.46,
+   "weight": 0.98,
+   "note_time": 37.41
+  },
+  {
+   "text": "cob",
+   "time": 38.81,
+   "weight": 0.98,
+   "note_time": 37.76
+  },
+  {
+   "text": "y",
+   "time": 39.22,
+   "weight": 0.81,
+   "note_time": 38.12
+  },
+  {
+   "text": "oungest",
+   "time": 39.55,
+   "weight": 0.81,
+   "note_time": 38.47
+  },
+  {
+   "text": "son",
+   "time": 39.88,
+   "weight": 1.0,
+   "note_time": 38.82
+  },
+  {
+   "text": "came",
+   "time": 40.36,
+   "weight": 1.0,
+   "note_time": 39.18
+  },
+  {
+   "text": "forth",
+   "time": 40.68,
+   "weight": 0.99,
+   "note_time": 39.88
+  },
+  {
+   "text": "The",
+   "time": 41.42,
+   "weight": 0.38,
+   "note_time": 42.18
+  },
+  {
+   "text": "tribe",
+   "time": 43.6,
+   "weight": 0.62,
+   "note_time": 42.35
+  },
+  {
+   "text": "of",
+   "time": 43.94,
+   "weight": 0.99,
+   "note_time": 43.76
+  },
+  {
+   "text": "Ben",
+   "time": 45.0,
+   "weight": 0.98,
+   "note_time": 44.12
+  },
+  {
+   "text": "ja",
+   "time": 45.17,
+   "weight": 0.98,
+   "note_time": 44.29
+  },
+  {
+   "text": "min",
+   "time": 45.35,
+   "weight": 0.98,
+   "note_time": 44.47
+  },
+  {
+   "text": "we",
+   "time": 45.52,
+   "weight": 0.85,
+   "note_time": 44.82
+  },
+  {
+   "text": "see",
+   "time": 46.26,
+   "weight": 0.99,
+   "note_time": 45.18
+  },
+  {
+   "text": "Ez",
+   "time": 47.75,
+   "weight": 0.0,
+   "note_time": 48.71
+  },
+  {
+   "text": "bon",
+   "time": 49.23,
+   "weight": 0.0,
+   "note_time": 49.06
+  },
+  {
+   "text": "Uz",
+   "time": 50.72,
+   "weight": 0.85,
+   "note_time": 49.41
+  },
+  {
+   "text": "zi",
+   "time": 51.07,
+   "weight": 0.85,
+   "note_time": 50.12
+  },
+  {
+   "text": "Uz",
+   "time": 51.76,
+   "weight": 0.29,
+   "note_time": 50.82
+  },
+  {
+   "text": "ziel",
+   "time": 52.11,
+   "weight": 0.29,
+   "note_time": 51.88
+  },
+  {
+   "text": "too",
+   "time": 53.28,
+   "weight": 0.75,
+   "note_time": 52.24
+  },
+  {
+   "text": "Je",
+   "time": 55.38,
+   "weight": 0.74,
+   "note_time": 54.35
+  },
+  {
+   "text": "ri",
+   "time": 55.73,
+   "weight": 0.74,
+   "note_time": 54.71
+  },
+  {
+   "text": "moth",
+   "time": 56.08,
+   "weight": 0.74,
+   "note_time": 55.06
+  },
+  {
+   "text": "and",
+   "time": 56.66,
+   "weight": 0.93,
+   "note_time": 55.41
+  },
+  {
+   "text": "I",
+   "time": 57.59,
+   "weight": 0.0,
+   "note_time": 55.76
+  },
+  {
+   "text": "ri",
+   "time": 58.51,
+   "weight": 0.0,
+   "note_time": 56.12
+  },
+  {
+   "text": "five",
+   "time": 59.44,
+   "weight": 0.0,
+   "note_time": 56.82
+  },
+  {
+   "text": "Heads",
+   "time": 60.36,
+   "weight": 0.62,
+   "note_time": 60.0
+  },
+  {
+   "text": "of",
+   "time": 61.7,
+   "weight": 1.0,
+   "note_time": 60.35
+  },
+  {
+   "text": "fa",
+   "time": 61.82,
+   "weight": 0.84,
+   "note_time": 60.71
+  },
+  {
+   "text": "thers",
+   "time": 62.16,
+   "weight": 0.84,
+   "note_time": 61.06
+  },
+  {
+   "text": "hous",
+   "time": 62.66,
+   "weight": 0.99,
+   "note_time": 61.41
+  },
+  {
+   "text": "es",
+   "time": 62.9,
+   "weight": 0.99,
+   "note_time": 61.76
+  },
+  {
+   "text": "they",
+   "time": 63.14,
+   "weight": 0.89,
+   "note_time": 62.12
+  },
+  {
+   "text": "were",
+   "time": 63.68,
+   "weight": 0.99,
+   "note_time": 62.82
+  },
+  {
+   "text": "Count",
+   "time": 64.96,
+   "weight": 0.32,
+   "note_time": 64.94
+  },
+  {
+   "text": "ed",
+   "time": 65.31,
+   "weight": 0.32,
+   "note_time": 65.29
+  },
+  {
+   "text": "in",
+   "time": 66.94,
+   "weight": 0.96,
+   "note_time": 65.65
+  },
+  {
+   "text": "the",
+   "time": 67.18,
+   "weight": 1.0,
+   "note_time": 66.0
+  },
+  {
+   "text": "re",
+   "time": 67.42,
+   "weight": 0.99,
+   "note_time": 66.35
+  },
+  {
+   "text": "cord",
+   "time": 67.77,
+   "weight": 0.99,
+   "note_time": 67.06
+  },
+  {
+   "text": "giv",
+   "time": 68.14,
+   "weight": 0.39,
+   "note_time": 67.76
+  },
+  {
+   "text": "en",
+   "time": 68.49,
+   "weight": 0.39,
+   "note_time": 68.47
+  },
+  {
+   "text": "Mig",
+   "time": 69.86,
+   "weight": 0.39,
+   "note_time": 69.88
+  },
+  {
+   "text": "hty",
+   "time": 70.21,
+   "weight": 0.39,
+   "note_time": 70.24
+  },
+  {
+   "text": "war",
+   "time": 71.5,
+   "weight": 0.78,
+   "note_time": 70.94
+  },
+  {
+   "text": "riors",
+   "time": 71.85,
+   "weight": 0.78,
+   "note_time": 71.29
+  },
+  {
+   "text": "strong",
+   "time": 72.8,
+   "weight": 0.99,
+   "note_time": 72.0
+  },
+  {
+   "text": "and",
+   "time": 73.6,
+   "weight": 1.0,
+   "note_time": 72.71
+  },
+  {
+   "text": "true",
+   "time": 74.3,
+   "weight": 1.0,
+   "note_time": 73.41
+  },
+  {
+   "text": "Twen-",
+   "time": 75.23,
+   "weight": 0.0,
+   "note_time": 75.53
+  },
+  {
+   "text": "ty-",
+   "time": 76.17,
+   "weight": 0.0,
+   "note_time": 75.88
+  },
+  {
+   "text": "two",
+   "time": 77.1,
+   "weight": 0.0,
+   "note_time": 76.24
+  },
+  {
+   "text": "thou",
+   "time": 78.03,
+   "weight": 0.0,
+   "note_time": 76.94
+  },
+  {
+   "text": "sand",
+   "time": 78.97,
+   "weight": 0.0,
+   "note_time": 77.29
+  },
+  {
+   "text": "thir-",
+   "time": 79.9,
+   "weight": 0.0,
+   "note_time": 77.65
+  },
+  {
+   "text": "ty-",
+   "time": 80.83,
+   "weight": 0.0,
+   "note_time": 78.35
+  },
+  {
+   "text": "four",
+   "time": 81.77,
+   "weight": 0.0,
+   "note_time": 79.06
+  },
+  {
+   "text": "Reg",
+   "time": 82.7,
+   "weight": 0.98,
+   "note_time": 81.18
+  },
+  {
+   "text": "is",
+   "time": 83.05,
+   "weight": 0.98,
+   "note_time": 81.53
+  },
+  {
+   "text": "tered",
+   "time": 83.4,
+   "weight": 0.98,
+   "note_time": 81.88
+  },
+  {
+   "text": "in",
+   "time": 84.04,
+   "weight": 1.0,
+   "note_time": 82.59
+  },
+  {
+   "text": "the",
+   "time": 84.12,
+   "weight": 1.0,
+   "note_time": 82.94
+  },
+  {
+   "text": "line",
+   "time": 84.32,
+   "weight": 1.0,
+   "note_time": 83.29
+  },
+  {
+   "text": "of",
+   "time": 84.98,
+   "weight": 1.0,
+   "note_time": 84.0
+  },
+  {
+   "text": "men",
+   "time": 85.52,
+   "weight": 1.0,
+   "note_time": 84.71
+  },
+  {
+   "text": "From",
+   "time": 86.28,
+   "weight": 0.22,
+   "note_time": 86.82
+  },
+  {
+   "text": "the",
+   "time": 88.16,
+   "weight": 0.99,
+   "note_time": 87.53
+  },
+  {
+   "text": "fami",
+   "time": 88.6,
+   "weight": 0.97,
+   "note_time": 88.59
+  },
+  {
+   "text": "ly",
+   "time": 88.95,
+   "weight": 0.97,
+   "note_time": 88.94
+  },
+  {
+   "text": "of",
+   "time": 89.7,
+   "weight": 1.0,
+   "note_time": 89.65
+  },
+  {
+   "text": "Be",
+   "time": 90.58,
+   "weight": 0.76,
+   "note_time": 90.35
+  },
+  {
+   "text": "la",
+   "time": 90.93,
+   "weight": 0.76,
+   "note_time": 91.06
+  },
+  {
+   "text": "I",
+   "time": 93.45,
+   "weight": 0.0,
+   "note_time": 96.71
+  },
+  {
+   "text": "ri",
+   "time": 95.96,
+   "weight": 0.0,
+   "note_time": 97.06
+  },
+  {
+   "text": "stands",
+   "time": 98.48,
+   "weight": 1.0,
+   "note_time": 97.41
+  },
+  {
+   "text": "a",
+   "time": 99.04,
+   "weight": 0.94,
+   "note_time": 98.47
+  },
+  {
+   "text": "mong",
+   "time": 99.39,
+   "weight": 0.94,
+   "note_time": 98.82
+  },
+  {
+   "text": "the",
+   "time": 100.08,
+   "weight": 1.0,
+   "note_time": 99.88
+  },
+  {
+   "text": "five",
+   "time": 101.36,
+   "weight": 0.88,
+   "note_time": 100.24
+  },
+  {
+   "text": "A",
+   "time": 102.28,
+   "weight": 0.77,
+   "note_time": 102.18
+  },
+  {
+   "text": "son",
+   "time": 103.32,
+   "weight": 0.99,
+   "note_time": 102.35
+  },
+  {
+   "text": "of",
+   "time": 103.84,
+   "weight": 1.0,
+   "note_time": 102.71
+  },
+  {
+   "text": "Be",
+   "time": 104.26,
+   "weight": 0.99,
+   "note_time": 103.06
+  },
+  {
+   "text": "la",
+   "time": 104.57,
+   "weight": 0.99,
+   "note_time": 103.59
+  },
+  {
+   "text": "by",
+   "time": 104.88,
+   "weight": 0.96,
+   "note_time": 104.12
+  },
+  {
+   "text": "name",
+   "time": 105.5,
+   "weight": 1.0,
+   "note_time": 104.82
+  },
+  {
+   "text": "Part",
+   "time": 107.28,
+   "weight": 0.39,
+   "note_time": 107.65
+  },
+  {
+   "text": "of",
+   "time": 109.1,
+   "weight": 1.0,
+   "note_time": 108.0
+  },
+  {
+   "text": "the",
+   "time": 109.5,
+   "weight": 1.0,
+   "note_time": 108.35
+  },
+  {
+   "text": "twelve",
+   "time": 109.78,
+   "weight": 0.61,
+   "note_time": 108.71
+  },
+  {
+   "text": "tribes",
+   "time": 110.16,
+   "weight": 0.94,
+   "note_time": 109.41
+  },
+  {
+   "text": "list",
+   "time": 110.92,
+   "weight": 0.96,
+   "note_time": 110.12
+  },
+  {
+   "text": "His",
+   "time": 111.7,
+   "weight": 0.29,
+   "note_time": 112.59
+  },
+  {
+   "text": "place",
+   "time": 113.98,
+   "weight": 0.99,
+   "note_time": 114.0
+  },
+  {
+   "text": "in",
+   "time": 114.6,
+   "weight": 0.99,
+   "note_time": 114.35
+  },
+  {
+   "text": "his",
+   "time": 115.5,
+   "weight": 0.99,
+   "note_time": 114.71
+  },
+  {
+   "text": "tory",
+   "time": 115.8,
+   "weight": 0.99,
+   "note_time": 115.06
+  },
+  {
+   "text": "re",
+   "time": 116.1,
+   "weight": 0.99,
+   "note_time": 115.41
+  },
+  {
+   "text": "mains",
+   "time": 116.45,
+   "weight": 0.99,
+   "note_time": 115.76
+  },
+  {
+   "text": "Mig",
+   "time": 118.54,
+   "weight": 0.88,
+   "note_time": 117.88
+  },
+  {
+   "text": "hty",
+   "time": 118.89,
+   "weight": 0.88,
+   "note_time": 118.59
+  },
+  {
+   "text": "war",
+   "time": 119.44,
+   "weight": 0.65,
+   "note_time": 118.94
+  },
+  {
+   "text": "riors",
+   "time": 119.79,
+   "weight": 0.65,
+   "note_time": 119.29
+  },
+  {
+   "text": "strong",
+   "time": 120.46,
+   "weight": 0.99,
+   "note_time": 120.0
+  },
+  {
+   "text": "and",
+   "time": 121.4,
+   "weight": 0.99,
+   "note_time": 120.71
+  },
+  {
+   "text": "true",
+   "time": 122.32,
+   "weight": 1.0,
+   "note_time": 121.41
+  },
+  {
+   "text": "Twen-",
+   "time": 123.24,
+   "weight": 0.0,
+   "note_time": 123.53
+  },
+  {
+   "text": "ty-",
+   "time": 124.16,
+   "weight": 0.0,
+   "note_time": 123.88
+  },
+  {
+   "text": "two",
+   "time": 125.08,
+   "weight": 0.0,
+   "note_time": 124.24
+  },
+  {
+   "text": "thou",
+   "time": 126.0,
+   "weight": 0.0,
+   "note_time": 124.94
+  },
+  {
+   "text": "sand",
+   "time": 126.92,
+   "weight": 0.0,
+   "note_time": 125.29
+  },
+  {
+   "text": "thir-",
+   "time": 127.84,
+   "weight": 0.0,
+   "note_time": 125.65
+  },
+  {
+   "text": "ty-",
+   "time": 128.76,
+   "weight": 0.0,
+   "note_time": 126.35
+  },
+  {
+   "text": "four",
+   "time": 129.68,
+   "weight": 0.0,
+   "note_time": 127.06
+  },
+  {
+   "text": "Reg",
+   "time": 130.6,
+   "weight": 0.97,
+   "note_time": 129.18
+  },
+  {
+   "text": "is",
+   "time": 130.95,
+   "weight": 0.97,
+   "note_time": 129.53
+  },
+  {
+   "text": "tered",
+   "time": 131.3,
+   "weight": 0.97,
+   "note_time": 129.88
+  },
+  {
+   "text": "in",
+   "time": 132.0,
+   "weight": 1.0,
+   "note_time": 130.59
+  },
+  {
+   "text": "the",
+   "time": 132.12,
+   "weight": 1.0,
+   "note_time": 130.94
+  },
+  {
+   "text": "line",
+   "time": 132.32,
+   "weight": 1.0,
+   "note_time": 131.29
+  },
+  {
+   "text": "of",
+   "time": 132.94,
+   "weight": 1.0,
+   "note_time": 132.0
+  },
+  {
+   "text": "men",
+   "time": 133.52,
+   "weight": 1.0,
+   "note_time": 132.71
+  },
+  {
+   "text": "From",
+   "time": 134.72,
+   "weight": 0.39,
+   "note_time": 134.82
+  },
+  {
+   "text": "the",
+   "time": 136.28,
+   "weight": 1.0,
+   "note_time": 135.53
+  },
+  {
+   "text": "fami",
+   "time": 136.62,
+   "weight": 0.97,
+   "note_time": 136.59
+  },
+  {
+   "text": "ly",
+   "time": 136.97,
+   "weight": 0.97,
+   "note_time": 136.94
+  },
+  {
+   "text": "of",
+   "time": 137.86,
+   "weight": 1.0,
+   "note_time": 137.65
+  },
+  {
+   "text": "Be",
+   "time": 138.54,
+   "weight": 0.81,
+   "note_time": 138.35
+  },
+  {
+   "text": "la",
+   "time": 138.89,
+   "weight": 0.81,
+   "note_time": 139.06
+  },
+  {
+   "text": "Heads",
+   "time": 141.88,
+   "weight": 0.88,
+   "note_time": 141.53
+  },
+  {
+   "text": "of",
+   "time": 143.28,
+   "weight": 1.0,
+   "note_time": 142.24
+  },
+  {
+   "text": "their",
+   "time": 143.36,
+   "weight": 0.99,
+   "note_time": 142.59
+  },
+  {
+   "text": "fa",
+   "time": 143.72,
+   "weight": 0.8,
+   "note_time": 143.65
+  },
+  {
+   "text": "thers",
+   "time": 144.07,
+   "weight": 0.8,
+   "note_time": 144.0
+  },
+  {
+   "text": "hous",
+   "time": 145.26,
+   "weight": 0.99,
+   "note_time": 144.35
+  },
+  {
+   "text": "es",
+   "time": 145.55,
+   "weight": 0.99,
+   "note_time": 144.71
+  },
+  {
+   "text": "Mig",
+   "time": 146.6,
+   "weight": 0.23,
+   "note_time": 147.53
+  },
+  {
+   "text": "hty",
+   "time": 146.95,
+   "weight": 0.23,
+   "note_time": 147.88
+  },
+  {
+   "text": "war",
+   "time": 149.06,
+   "weight": 0.99,
+   "note_time": 148.59
+  },
+  {
+   "text": "riors",
+   "time": 149.4,
+   "weight": 0.99,
+   "note_time": 148.94
+  },
+  {
+   "text": "named",
+   "time": 149.74,
+   "weight": 0.95,
+   "note_time": 149.29
+  },
+  {
+   "text": "I",
+   "time": 150.88,
+   "weight": 0.0,
+   "note_time": 149.65
+  },
+  {
+   "text": "ri",
+   "time": 152.02,
+   "weight": 0.0,
+   "note_time": 150.35
+  },
+  {
+   "text": "Count",
+   "time": 153.16,
+   "weight": 0.71,
+   "note_time": 152.47
+  },
+  {
+   "text": "ed",
+   "time": 153.51,
+   "weight": 0.71,
+   "note_time": 153.18
+  },
+  {
+   "text": "in",
+   "time": 154.56,
+   "weight": 1.0,
+   "note_time": 153.53
+  },
+  {
+   "text": "the",
+   "time": 154.76,
+   "weight": 1.0,
+   "note_time": 153.88
+  },
+  {
+   "text": "ge",
+   "time": 154.94,
+   "weight": 0.4,
+   "note_time": 154.94
+  },
+  {
+   "text": "neal",
+   "time": 155.29,
+   "weight": 0.4,
+   "note_time": 155.29
+  },
+  {
+   "text": "o",
+   "time": 155.64,
+   "weight": 0.4,
+   "note_time": 155.65
+  },
+  {
+   "text": "gy",
+   "time": 155.99,
+   "weight": 0.4,
+   "note_time": 156.0
+  },
+  {
+   "text": "Of",
+   "time": 157.4,
+   "weight": 0.37,
+   "note_time": 157.76
+  },
+  {
+   "text": "Ben",
+   "time": 159.04,
+   "weight": 0.39,
+   "note_time": 158.12
+  },
+  {
+   "text": "ja",
+   "time": 159.39,
+   "weight": 0.39,
+   "note_time": 159.18
+  },
+  {
+   "text": "min",
+   "time": 159.74,
+   "weight": 0.39,
+   "note_time": 159.53
+  },
+  {
+   "text": "the",
+   "time": 161.28,
+   "weight": 0.39,
+   "note_time": 162.35
+  },
+  {
+   "text": "tribe",
+   "time": 163.32,
+   "weight": 0.89,
+   "note_time": 163.06
+  },
+  {
+   "text": "of",
+   "time": 163.88,
+   "weight": 1.0,
+   "note_time": 163.41
+  },
+  {
+   "text": "God",
+   "time": 164.74,
+   "weight": 0.99,
+   "note_time": 163.76
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "16 of 24 lyric lines sit clearly on their notes; 8 are uncertain and printed in grey italics."
+}

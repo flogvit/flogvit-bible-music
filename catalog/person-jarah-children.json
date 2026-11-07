@@ -1,0 +1,57 @@
+{
+  "id": "person-jarah-children",
+  "title": "Jarah and His Sons",
+  "kind": "person",
+  "anchor": {
+    "person": "jarah"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 42,
+      "verseEnd": 42
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 36,
+      "verseEnd": 36
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "jarah",
+      "saul",
+      "jonatan",
+      "mefiboset",
+      "mika"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, warm and gentle, acoustic guitar, piano, cello, soft percussion, lullaby mood, 80 BPM",
+    "lyrics": "[Verse]\nAhaz was the father of Jarah\nJarah was the father of Alemeth\nAzmaveth, and Zimri his child\nZimri was the father of Moza\n\n[Chorus]\nFrom the line of Saul they came\nDescendants in the genealogy\nNames recorded in the book\nJarah and his sons are named\n\n[Verse]\nJehoaddah is another name\nIn the chapter eight account\nSame sons listed in the text\nAlemeth, Azmaveth, and Zimri\n\n[Chorus]\nFrom the line of Saul they came\nDescendants in the genealogy\nNames recorded in the book\nJarah and his sons are named\n\n[Outro]\nAhaz fathered him in the list\nA line of Benjamin remains",
+    "cot": "full",
+    "seed": 31432
+  }
+}

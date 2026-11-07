@@ -1,0 +1,59 @@
+{
+  "id": "person-jiska-ballad",
+  "title": "Daughter of Haran",
+  "kind": "person",
+  "anchor": {
+    "person": "jiska"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 29,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 27,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jiska",
+      "abraham",
+      "nakor",
+      "milka-nakors-kone",
+      "lot"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and gentle, acoustic guitar, piano, cello, soft strings, reflective and narrative mood, 72 BPM",
+    "lyrics": "[Verse]\nTerah lived in Ur of the Chaldeans\nFather of Abram, Nahor, and Haran\nHaran died in the land of his birth\nWhile his father Terah was still alive on earth\n\n[Verse]\nAbram and Nahor both took wives\nSarai was the name that Abram lives\nNahor's wife was named Milcah\nDaughter of Haran, born in that place\n\n[Chorus]\nShe is the daughter of Haran\nIscah, named in the ancient clan\nSister to Lot and Milcah\nLiving in Ur, waiting to go\n\n[Verse]\nSarai was barren, she had no child\nTerah packed the family for a wild ride\nTook his son Abram, grandson Lot\nAnd Sarai, the wife, to go forth\n\n[Chorus]\nShe is the daughter of Haran\nIscah, named in the ancient clan\nSister to Lot and Milcah\nLiving in Ur, waiting to go\n\n[Bridge]\nThey left Ur of the Chaldeans behind\nHeading for Canaan, a land to find\nBut when they came to Haran\nThey settled there, as the story began\n\n[Chorus]\nShe is the daughter of Haran\nIscah, named in the ancient clan\nSister to Lot and Milcah\nLiving in Ur, waiting to go\n\n[Outro]\nRemains in the text, brief and clear\nIscah, daughter of Haran, appears",
+    "cot": "full",
+    "seed": 31434
+  }
+}

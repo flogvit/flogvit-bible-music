@@ -1,0 +1,64 @@
+{
+  "id": "person-jekamja-soul",
+  "title": "Shallum Fathered Jekamiah",
+  "kind": "person",
+  "anchor": {
+    "person": "jekamja"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 41,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 38,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 40,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 25,
+      "verseEnd": 41
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "jekamja",
+      "david",
+      "jekamja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, male solo voice, deep and warm, upright bass, piano, soft drums, cello, organ, reverent and steady, 72 BPM",
+    "lyrics": "[Verse]\nThe sons of Jerahmeel are told\nFrom Hezron’s firstborn line\nRam, Bunah, Oren, Ozem\nAnd Ahijah shine\nAnother wife was Atarah\nShe bore the son Onam\nShammai and Jada followed\nThrough the years to come\n\n[Verse]\nSheshan had no sons, only daughters\nHe gave his child away\nTo Jarha, his Egyptian servant\nIn that simple day\nAttai came from that union\nNathan, then Zabad\nEphlal and Obed followed\nIn the written record\n\n[Chorus]\nEleasah fathered Sismai\nSismai fathered Shallum\nShallum fathered Jekamiah\nJekamiah fathered Elishama\n\n[Verse]\nObed fathered Jehu, sure\nJehu fathered Azariah\nAzariah fathered Helez\nHelez fathered Eleasah\nThe names are kept in the book\nFor Israel’s memory\nTribal identity preserved\nIn the family tree\n\n[Chorus]\nEleasah fathered Sismai\nSismai fathered Shallum\nShallum fathered Jekamiah\nJekamiah fathered Elishama\n\n[Bridge]\nGod’s faithfulness holds the line\nThrough generations of men\nThe royal blood of Judah\nEndures until the end\n\n[Chorus]\nEleasah fathered Sismai\nSismai fathered Shallum\nShallum fathered Jekamiah\nJekamiah fathered Elishama\n\n[Outro]\nShallum fathered Jekamiah\nJekamiah fathered Elishama",
+    "cot": "full",
+    "seed": 31433
+  }
+}

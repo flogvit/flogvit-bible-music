@@ -1,0 +1,59 @@
+{
+  "id": "person-maok-blues",
+  "title": "Ziklag",
+  "kind": "person",
+  "anchor": {
+    "person": "maok"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 27,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 9,
+      "chapter": 27,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 9,
+      "chapter": 27,
+      "verseStart": 7,
+      "verseEnd": 12
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "maok",
+      "akisj",
+      "david",
+      "saul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with deep blues tone, electric guitar, piano, upright bass, drums, mournful and slow, 72 BPM",
+    "lyrics": "[Verse]\nHe crossed the border with six hundred men\nTo Achish son of Maoch, king of Gath\nDavid asked for favor in the eyes\nA place in one of the outlying towns\nWhy live in the royal city with you?\nYour servant asks for a small place to stay\n\n[Chorus]\nThat day Achish gave him Ziklag\nZiklag belongs to the kings of Judah\nA year and four months in Philistine land\nLiving in the shadow of a foreign crown\n\n[Verse]\nDavid and his men went up to raid\nThe Geshurites, the Girzites, Amalekites\nThey took sheep, cattle, donkeys, camels\nNo man or woman left alive behind\nHe returned to Achish with the spoils\nSaying he raided the Negev of Judah\n\n[Chorus]\nThat day Achish gave him Ziklag\nZiklag belongs to the kings of Judah\nA year and four months in Philistine land\nLiving in the shadow of a foreign crown\n\n[Bridge]\nAchish trusted him, thinking he was detestable\nMade himself utterly loathsome to Israel\nHe thought David would be his servant for life\nDeceiving the king with every report\n\n[Verse]\nDavid left no one to report his deeds\nSuch was his practice the whole time he lived\nIn the territory of the son of Maacah\nHiding his true path from the eyes of Gath\n\n[Chorus]\nThat day Achish gave him Ziklag\nZiklag belongs to the kings of Judah\nA year and four months in Philistine land\nLiving in the shadow of a foreign crown\n\n[Outro]\nZiklag has belonged to the kings of Judah\nTo this day",
+    "cot": "full",
+    "seed": 31439
+  }
+}

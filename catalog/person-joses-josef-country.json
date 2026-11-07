@@ -1,0 +1,67 @@
+{
+  "id": "person-joses-josef-country",
+  "title": "Carpenter's Son",
+  "kind": "person",
+  "anchor": {
+    "person": "joses-josef"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 13,
+      "verseStart": 55,
+      "verseEnd": 56
+    },
+    {
+      "bookId": 41,
+      "chapter": 6,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 40,
+      "chapter": 27,
+      "verseStart": 56,
+      "verseEnd": 56
+    },
+    {
+      "bookId": 41,
+      "chapter": 15,
+      "verseStart": 47,
+      "verseEnd": 47
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "kjerlighet",
+      "tro",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "joses-josef",
+      "jesus",
+      "jakob-jesu-bror"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Male solo voice, warm and storytelling, acoustic guitar, fiddle, piano, upright bass, steady rhythm, 90 BPM",
+    "lyrics": "[Verse]\nStanding in the synagogue hall\nThey ask who he really is\nIsn't he the carpenter\nWorking with his hands and skills\n\n[Verse]\nHis mother is named Mary\nBrothers James and Simon too\nJoseph and Judas are there\nSisters watching as he grew\n\n[Chorus]\nWhere did this man get all these things\nThe carpenter's son they say\nIsn't this the son of Mary\nWalking in our everyday\n\n[Verse]\nAt the cross she stood nearby\nMother of James and Joseph\nWatching from a distance\nHolding her grief in her scope\n\n[Chorus]\nWhere did this man get all these things\nThe carpenter's son they say\nIsn't this the son of Mary\nWalking in our everyday\n\n[Outro]\nShe saw where he was laid\nIn the tomb of the silent grave",
+    "cot": "full",
+    "seed": 31436
+  }
+}

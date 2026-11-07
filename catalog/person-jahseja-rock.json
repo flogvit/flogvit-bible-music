@@ -1,0 +1,68 @@
+{
+  "id": "person-jahseja-rock",
+  "title": "Opposed This",
+  "kind": "person",
+  "anchor": {
+    "person": "jahseja"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 7,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "jahseja",
+      "esra",
+      "jonatan",
+      "mesjullam",
+      "sjabbetai"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male gritty rock voice with backing choir, electric guitar, acoustic guitar, bass, drums, cymbals, somber and tense mood, 90 BPM",
+    "lyrics": "[Verse]\nA very large assembly gathered around\nMen women and children all in the crowd\nWeeping bitterly before the house of God\nConfessing our sins as the tears did flow\n\n[Verse]\nShecaniah spoke up from the Elam line\nWe have been unfaithful to God divine\nYet now there is hope for Israel still\nSend away all these women as we will\n\n[Chorus]\nOnly Jonathan and Jahzeiah opposed this\nMeshullam and Shabbethai stood with his\nThey trembled at the command of our Lord\nAccording to the Law it was recorded\n\n[Verse]\nA proclamation went out to Judah and Ben\nGather in Jerusalem within three days\nOr forfeit your property and be excluded\nThe leaders and elders made this decree\n\n[Chorus]\nOnly Jonathan and Jahzeiah opposed this\nMeshullam and Shabbethai stood with his\nThey trembled at the command of our Lord\nAccording to the Law it was recorded\n\n[Bridge]\nOn the twentieth of the ninth month we sat\nIn the open square in the heavy rain\nTrembling because of this matter so grave\nThe weight of the covenant was on us\n\n[Outro]\nFrom the first of the tenth to the first of the first\nWe finished dealing with all the men\nWho had married foreign women in the land\nThe work of the commission was done",
+    "cot": "full",
+    "seed": 31431
+  }
+}

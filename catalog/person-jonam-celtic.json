@@ -1,0 +1,68 @@
+{
+  "id": "person-jonam-celtic",
+  "title": "Jonam in the Line",
+  "kind": "person",
+  "anchor": {
+    "person": "jonam"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 30,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 23,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 31,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 10,
+      "chapter": 7,
+      "verseStart": 12,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "jonam",
+      "jesus",
+      "david",
+      "eljakim",
+      "josef-lukas-slekt"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, fiddle, bodhran, harp, flute, celtic folk, serene, 80 BPM",
+    "lyrics": "[Verse]\nThe book of Luke lists the names in a row\nJesus began his work, about thirty years old\nAs was supposed, he was the son of Joseph\nSon of Heli, and son of Matthat\nLevi followed, and Melchi, and Jannai\nThe list goes on, through Joseph and Mattathias\nAmos and Nahum, and Esli, and Naggai\nMaath and Mattathias, and Semein, and Josech\n\n[Chorus]\nJonam is the link, the son of Eliakim\nBetween the fathers and the sons yet to come\nA name in the register, a part of the whole\nIn the line of David, faithful and true\n\n[Verse]\nJoanan and Rhesa, Zerubbabel and Shealtiel\nNeri and Melchi, Addi, Cosam, Elmadam\nEr and Joshua, Eliezer, Jorim, Matthat\nLevi and Simeon, Judah, Joseph, and Jonam\n\n[Chorus]\nJonam is the link, the son of Eliakim\nBetween the fathers and the sons yet to come\nA name in the register, a part of the whole\nIn the line of David, faithful and true\n\n[Verse]\nMelea and Menna, Mattatha and Nathan\nThe son of David, the son of Jesse, Obed\nBoaz and Sala, Nahshon and Amminadab\nAdmin and Arni, Hezron, Perez, Judah\n\n[Chorus]\nJonam is the link, the son of Eliakim\nBetween the fathers and the sons yet to come\nA name in the register, a part of the whole\nIn the line of David, faithful and true\n\n[Bridge]\nWhen days are done, and you rest with your fathers\nI will raise up your offspring, establish his kingdom\nHe will build a house for my name\nAnd I will establish his throne forever\n\n[Outro]\nFrom Adam to Jesus, the promise stands\nJonam in the genealogy, in God's own hands",
+    "cot": "full",
+    "seed": 31435
+  }
+}

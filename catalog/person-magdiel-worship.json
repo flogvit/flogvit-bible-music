@@ -1,0 +1,64 @@
+{
+  "id": "person-magdiel-worship",
+  "title": "Chiefs of Edom",
+  "kind": "person",
+  "anchor": {
+    "person": "magdiel"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 43,
+      "verseEnd": 43
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 54,
+      "verseEnd": 54
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 40,
+      "verseEnd": 43
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "magdiel",
+      "esau",
+      "jakob-israel",
+      "isak",
+      "rebekka"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, solemn and clear, cello, piano, harp, organ, gentle choir, 85 BPM",
+    "lyrics": "[Verse]\nIn the hill country of Seir he settled\nAway from his brother Jacob\nHis possessions were too great to stay\nThe land could not support them\nSo Esau is Edom the father\nOf the people in the mountains\n\n[Chorus]\nChief Magdiel Chief Iram\nThese were the chiefs of Edom\nAccording to their settlements\nIn the land they possessed\n\n[Verse]\nFrom the daughters of Canaan he took wives\nAdah and Oholibamah\nBasemath the sister of Nebaioth\nBorn in the land of Canaan\nEliphaz and Reuel were born\nTo his children in the hills\n\n[Chorus]\nChief Magdiel Chief Iram\nThese were the chiefs of Edom\nAccording to their settlements\nIn the land they possessed\n\n[Verse]\nTimna Alvah and Jetheth\nOholibamah Elah Pinon\nKenaz Teman Mibzar\nNamed in the family history\nBefore Israel had kings\nEdom had its chiefs\n\n[Chorus]\nChief Magdiel Chief Iram\nThese were the chiefs of Edom\nAccording to their settlements\nIn the land they possessed\n\n[Outro]\nThis was Esau\nThe father of the Edomites",
+    "cot": "full",
+    "seed": 31438
+  }
+}

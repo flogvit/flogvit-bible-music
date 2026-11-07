@@ -1,0 +1,64 @@
+{
+  "id": "person-kilon-acoustic",
+  "title": "Left Without Her Husband",
+  "kind": "person",
+  "anchor": {
+    "person": "kilon"
+  },
+  "references": [
+    {
+      "bookId": 8,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 8,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 8,
+      "chapter": 1,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 8,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "lidelse",
+      "tro",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "kilon",
+      "rut",
+      "boas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, clear and gentle, acoustic guitar, cello, piano, light percussion, somber and reflective mood, 70 BPM",
+    "lyrics": "[Verse]\nIn days when the judges ruled the land\nA famine emptied out the grain\nA man left Bethlehem in Judah\nSeeking bread in foreign plain\nElimelech took his wife Naomi\nAnd two sons they called by name\nMahlon and Chilion went with him\nEphrathites from the holy place\nThey crossed into the country Moab\nAnd settled down in alien space\n\n[Chorus]\nShe was left without her husband\nShe was left without her two sons\nThe ten years passed in silence\nThe family bonds are undone\n\n[Verse]\nElimelech died in Moab\nNaomi stood alone that day\nHer two sons remained beside her\nIn a land far from away\nThey married Moabite women\nOrpah and Ruth by name\nLiving out their ten years there\nIn a strange and distant place\n\n[Chorus]\nShe was left without her husband\nShe was left without her two sons\nThe ten years passed in silence\nThe family bonds are undone\n\n[Bridge]\nThen Mahlon and Chilion died\nLeaving widows in the land\nNaomi lost her children\nIn a moment, hand in hand\n\n[Chorus]\nShe was left without her husband\nShe was left without her two sons\nThe ten years passed in silence\nThe family bonds are undone\n\n[Outro]\nLeft without her husband\nLeft without her sons",
+    "cot": "full",
+    "seed": 31437
+  }
+}

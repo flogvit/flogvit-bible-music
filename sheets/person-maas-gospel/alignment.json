@@ -1,0 +1,1359 @@
+{
+ "id": "person-maas-gospel",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-maas-gospel",
+ "offset_seconds": -4.380000000000162,
+ "words_heard": 152,
+ "words": 160,
+ "lines": [
+  {
+   "text": "Among the priests a name is found",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the sons of Jeshua known",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Maaseiah stood with them",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.2,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To face the weight of sin",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.93,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "They pledged to send the wives away",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.41,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And being guilty stood in day",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.43,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A ram from flock was offered up",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.58,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "To cleanse the heart and wash the cup",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "On a wooden platform high",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.16,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ezra opened up the eye",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Beside him Maaseiah stood",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.92,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With others in the crowd",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.6,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "They pledged to send the wives away",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.04,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "And being guilty stood in day",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.39,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A ram from flock was offered up",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.53,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "To cleanse the heart and wash the cup",
+   "heard": 8,
+   "words": 8,
+   "error_s": 3.01,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "The Levites explained the Law",
+   "heard": 5,
+   "words": 5,
+   "error_s": 16.28,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "While the people stood in awe",
+   "heard": 6,
+   "words": 6,
+   "error_s": 3.31,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Maaseiah spoke with clear sound",
+   "heard": 4,
+   "words": 5,
+   "error_s": 4.57,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Guiding the minds that were bound",
+   "heard": 6,
+   "words": 6,
+   "error_s": 4.35,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "They pledged to send the wives away",
+   "heard": 7,
+   "words": 7,
+   "error_s": 5.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And being guilty stood in day",
+   "heard": 6,
+   "words": 6,
+   "error_s": 4.89,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "A ram from flock was offered up",
+   "heard": 7,
+   "words": 7,
+   "error_s": 5.44,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "To cleanse the heart and wash the cup",
+   "heard": 8,
+   "words": 8,
+   "error_s": 5.5,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "The Lord's work is done with grace",
+   "heard": 6,
+   "words": 7,
+   "error_s": null,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "In the restored holy place",
+   "heard": 0,
+   "words": 5,
+   "error_s": null,
+   "tie_split": true,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "A",
+   "time": 15.96,
+   "weight": 0.62,
+   "note_time": 15.62
+  },
+  {
+   "text": "mong",
+   "time": 16.31,
+   "weight": 0.62,
+   "note_time": 16.25
+  },
+  {
+   "text": "the",
+   "time": 16.88,
+   "weight": 1.0,
+   "note_time": 16.46
+  },
+  {
+   "text": "priests",
+   "time": 17.42,
+   "weight": 0.99,
+   "note_time": 17.08
+  },
+  {
+   "text": "a",
+   "time": 17.88,
+   "weight": 0.83,
+   "note_time": 17.29
+  },
+  {
+   "text": "name",
+   "time": 18.34,
+   "weight": 0.99,
+   "note_time": 17.71
+  },
+  {
+   "text": "is",
+   "time": 18.74,
+   "weight": 0.99,
+   "note_time": 17.92
+  },
+  {
+   "text": "found",
+   "time": 19.0,
+   "weight": 1.0,
+   "note_time": 18.12
+  },
+  {
+   "text": "From",
+   "time": 19.48,
+   "weight": 0.76,
+   "note_time": 19.58
+  },
+  {
+   "text": "the",
+   "time": 20.78,
+   "weight": 1.0,
+   "note_time": 20.0
+  },
+  {
+   "text": "sons",
+   "time": 20.96,
+   "weight": 1.0,
+   "note_time": 20.42
+  },
+  {
+   "text": "of",
+   "time": 21.3,
+   "weight": 1.0,
+   "note_time": 20.62
+  },
+  {
+   "text": "Jes",
+   "time": 21.72,
+   "weight": 0.84,
+   "note_time": 21.04
+  },
+  {
+   "text": "hua",
+   "time": 22.05,
+   "weight": 0.84,
+   "note_time": 21.25
+  },
+  {
+   "text": "known",
+   "time": 22.38,
+   "weight": 0.9,
+   "note_time": 21.46
+  },
+  {
+   "text": "Maa",
+   "time": 22.82,
+   "weight": 0.14,
+   "note_time": 22.92
+  },
+  {
+   "text": "seiah",
+   "time": 23.17,
+   "weight": 0.14,
+   "note_time": 23.33
+  },
+  {
+   "text": "stood",
+   "time": 24.74,
+   "weight": 0.99,
+   "note_time": 23.54
+  },
+  {
+   "text": "with",
+   "time": 25.08,
+   "weight": 1.0,
+   "note_time": 23.96
+  },
+  {
+   "text": "them",
+   "time": 25.58,
+   "weight": 1.0,
+   "note_time": 24.38
+  },
+  {
+   "text": "To",
+   "time": 25.98,
+   "weight": 0.34,
+   "note_time": 26.46
+  },
+  {
+   "text": "face",
+   "time": 27.62,
+   "weight": 1.0,
+   "note_time": 26.67
+  },
+  {
+   "text": "the",
+   "time": 27.98,
+   "weight": 1.0,
+   "note_time": 27.08
+  },
+  {
+   "text": "weight",
+   "time": 28.32,
+   "weight": 1.0,
+   "note_time": 27.29
+  },
+  {
+   "text": "of",
+   "time": 28.64,
+   "weight": 1.0,
+   "note_time": 27.71
+  },
+  {
+   "text": "sin",
+   "time": 28.98,
+   "weight": 1.0,
+   "note_time": 28.33
+  },
+  {
+   "text": "They",
+   "time": 29.58,
+   "weight": 0.97,
+   "note_time": 29.58
+  },
+  {
+   "text": "pledged",
+   "time": 30.8,
+   "weight": 0.94,
+   "note_time": 30.42
+  },
+  {
+   "text": "to",
+   "time": 31.5,
+   "weight": 1.0,
+   "note_time": 30.62
+  },
+  {
+   "text": "send",
+   "time": 31.66,
+   "weight": 0.95,
+   "note_time": 31.25
+  },
+  {
+   "text": "the",
+   "time": 31.94,
+   "weight": 0.96,
+   "note_time": 31.46
+  },
+  {
+   "text": "wives",
+   "time": 32.5,
+   "weight": 0.98,
+   "note_time": 32.08
+  },
+  {
+   "text": "a",
+   "time": 33.0,
+   "weight": 1.0,
+   "note_time": 32.29
+  },
+  {
+   "text": "way",
+   "time": 33.26,
+   "weight": 1.0,
+   "note_time": 33.12
+  },
+  {
+   "text": "And",
+   "time": 33.52,
+   "weight": 0.25,
+   "note_time": 33.33
+  },
+  {
+   "text": "be",
+   "time": 34.28,
+   "weight": 0.97,
+   "note_time": 33.54
+  },
+  {
+   "text": "ing",
+   "time": 34.5,
+   "weight": 0.97,
+   "note_time": 33.96
+  },
+  {
+   "text": "guil",
+   "time": 34.72,
+   "weight": 1.0,
+   "note_time": 34.38
+  },
+  {
+   "text": "ty",
+   "time": 35.07,
+   "weight": 1.0,
+   "note_time": 35.0
+  },
+  {
+   "text": "stood",
+   "time": 35.64,
+   "weight": 0.88,
+   "note_time": 35.21
+  },
+  {
+   "text": "in",
+   "time": 36.08,
+   "weight": 0.98,
+   "note_time": 35.62
+  },
+  {
+   "text": "day",
+   "time": 36.56,
+   "weight": 0.98,
+   "note_time": 36.46
+  },
+  {
+   "text": "A",
+   "time": 36.92,
+   "weight": 0.78,
+   "note_time": 36.67
+  },
+  {
+   "text": "ram",
+   "time": 37.6,
+   "weight": 0.51,
+   "note_time": 37.08
+  },
+  {
+   "text": "from",
+   "time": 37.96,
+   "weight": 0.99,
+   "note_time": 37.5
+  },
+  {
+   "text": "flock",
+   "time": 38.24,
+   "weight": 0.62,
+   "note_time": 37.92
+  },
+  {
+   "text": "was",
+   "time": 38.76,
+   "weight": 0.99,
+   "note_time": 38.12
+  },
+  {
+   "text": "of",
+   "time": 39.12,
+   "weight": 1.0,
+   "note_time": 38.33
+  },
+  {
+   "text": "fered",
+   "time": 39.43,
+   "weight": 1.0,
+   "note_time": 38.54
+  },
+  {
+   "text": "up",
+   "time": 39.74,
+   "weight": 0.99,
+   "note_time": 38.96
+  },
+  {
+   "text": "To",
+   "time": 40.38,
+   "weight": 0.96,
+   "note_time": 39.79
+  },
+  {
+   "text": "cleanse",
+   "time": 40.92,
+   "weight": 1.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "the",
+   "time": 41.34,
+   "weight": 1.0,
+   "note_time": 40.42
+  },
+  {
+   "text": "heart",
+   "time": 41.64,
+   "weight": 0.99,
+   "note_time": 40.62
+  },
+  {
+   "text": "and",
+   "time": 42.06,
+   "weight": 0.96,
+   "note_time": 41.25
+  },
+  {
+   "text": "wash",
+   "time": 42.56,
+   "weight": 1.0,
+   "note_time": 41.67
+  },
+  {
+   "text": "the",
+   "time": 43.04,
+   "weight": 1.0,
+   "note_time": 42.92
+  },
+  {
+   "text": "cup",
+   "time": 44.14,
+   "weight": 0.99,
+   "note_time": 43.12
+  },
+  {
+   "text": "On",
+   "time": 50.16,
+   "weight": 0.95,
+   "note_time": 50.0
+  },
+  {
+   "text": "a",
+   "time": 51.12,
+   "weight": 1.0,
+   "note_time": 50.62
+  },
+  {
+   "text": "wood",
+   "time": 51.48,
+   "weight": 0.99,
+   "note_time": 51.04
+  },
+  {
+   "text": "en",
+   "time": 51.74,
+   "weight": 0.99,
+   "note_time": 51.46
+  },
+  {
+   "text": "plat",
+   "time": 52.0,
+   "weight": 1.0,
+   "note_time": 51.88
+  },
+  {
+   "text": "form",
+   "time": 52.35,
+   "weight": 1.0,
+   "note_time": 52.29
+  },
+  {
+   "text": "high",
+   "time": 52.84,
+   "weight": 0.99,
+   "note_time": 52.92
+  },
+  {
+   "text": "Ez",
+   "time": 53.52,
+   "weight": 0.8,
+   "note_time": 53.12
+  },
+  {
+   "text": "ra",
+   "time": 53.87,
+   "weight": 0.8,
+   "note_time": 53.33
+  },
+  {
+   "text": "ope",
+   "time": 54.32,
+   "weight": 1.0,
+   "note_time": 53.75
+  },
+  {
+   "text": "ned",
+   "time": 54.55,
+   "weight": 1.0,
+   "note_time": 53.96
+  },
+  {
+   "text": "up",
+   "time": 54.78,
+   "weight": 1.0,
+   "note_time": 54.38
+  },
+  {
+   "text": "the",
+   "time": 55.38,
+   "weight": 1.0,
+   "note_time": 54.58
+  },
+  {
+   "text": "eye",
+   "time": 55.58,
+   "weight": 0.99,
+   "note_time": 54.79
+  },
+  {
+   "text": "Be",
+   "time": 56.16,
+   "weight": 0.4,
+   "note_time": 56.25
+  },
+  {
+   "text": "side",
+   "time": 56.51,
+   "weight": 0.4,
+   "note_time": 56.46
+  },
+  {
+   "text": "him",
+   "time": 57.8,
+   "weight": 0.93,
+   "note_time": 56.88
+  },
+  {
+   "text": "Maa",
+   "time": 58.07,
+   "weight": 0.0,
+   "note_time": 57.29
+  },
+  {
+   "text": "seiah",
+   "time": 58.35,
+   "weight": 0.0,
+   "note_time": 57.5
+  },
+  {
+   "text": "stood",
+   "time": 58.62,
+   "weight": 1.0,
+   "note_time": 57.71
+  },
+  {
+   "text": "With",
+   "time": 59.32,
+   "weight": 0.37,
+   "note_time": 57.92
+  },
+  {
+   "text": "oth",
+   "time": 61.02,
+   "weight": 1.0,
+   "note_time": 58.12
+  },
+  {
+   "text": "ers",
+   "time": 61.23,
+   "weight": 1.0,
+   "note_time": 59.79
+  },
+  {
+   "text": "in",
+   "time": 61.44,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "the",
+   "time": 61.92,
+   "weight": 1.0,
+   "note_time": 60.21
+  },
+  {
+   "text": "crowd",
+   "time": 62.22,
+   "weight": 1.0,
+   "note_time": 60.62
+  },
+  {
+   "text": "They",
+   "time": 62.82,
+   "weight": 0.75,
+   "note_time": 61.04
+  },
+  {
+   "text": "pledged",
+   "time": 64.12,
+   "weight": 0.99,
+   "note_time": 61.46
+  },
+  {
+   "text": "to",
+   "time": 64.82,
+   "weight": 1.0,
+   "note_time": 61.67
+  },
+  {
+   "text": "send",
+   "time": 64.94,
+   "weight": 1.0,
+   "note_time": 62.92
+  },
+  {
+   "text": "the",
+   "time": 65.3,
+   "weight": 0.94,
+   "note_time": 63.33
+  },
+  {
+   "text": "wives",
+   "time": 65.8,
+   "weight": 0.99,
+   "note_time": 63.75
+  },
+  {
+   "text": "a",
+   "time": 66.32,
+   "weight": 1.0,
+   "note_time": 63.96
+  },
+  {
+   "text": "way",
+   "time": 66.58,
+   "weight": 1.0,
+   "note_time": 64.58
+  },
+  {
+   "text": "And",
+   "time": 66.84,
+   "weight": 0.51,
+   "note_time": 64.79
+  },
+  {
+   "text": "be",
+   "time": 67.48,
+   "weight": 0.98,
+   "note_time": 65.0
+  },
+  {
+   "text": "ing",
+   "time": 67.77,
+   "weight": 0.98,
+   "note_time": 65.42
+  },
+  {
+   "text": "guil",
+   "time": 68.06,
+   "weight": 1.0,
+   "note_time": 65.62
+  },
+  {
+   "text": "ty",
+   "time": 68.41,
+   "weight": 1.0,
+   "note_time": 66.46
+  },
+  {
+   "text": "stood",
+   "time": 68.8,
+   "weight": 0.8,
+   "note_time": 66.67
+  },
+  {
+   "text": "in",
+   "time": 69.44,
+   "weight": 0.98,
+   "note_time": 66.88
+  },
+  {
+   "text": "day",
+   "time": 69.92,
+   "weight": 0.96,
+   "note_time": 67.29
+  },
+  {
+   "text": "A",
+   "time": 70.26,
+   "weight": 0.98,
+   "note_time": 67.71
+  },
+  {
+   "text": "ram",
+   "time": 70.96,
+   "weight": 0.9,
+   "note_time": 68.33
+  },
+  {
+   "text": "from",
+   "time": 71.3,
+   "weight": 0.99,
+   "note_time": 68.54
+  },
+  {
+   "text": "flock",
+   "time": 71.58,
+   "weight": 0.99,
+   "note_time": 68.96
+  },
+  {
+   "text": "was",
+   "time": 72.08,
+   "weight": 1.0,
+   "note_time": 69.79
+  },
+  {
+   "text": "of",
+   "time": 72.5,
+   "weight": 1.0,
+   "note_time": 70.0
+  },
+  {
+   "text": "fered",
+   "time": 72.76,
+   "weight": 1.0,
+   "note_time": 70.42
+  },
+  {
+   "text": "up",
+   "time": 73.02,
+   "weight": 0.98,
+   "note_time": 70.83
+  },
+  {
+   "text": "To",
+   "time": 73.66,
+   "weight": 0.99,
+   "note_time": 71.25
+  },
+  {
+   "text": "cleanse",
+   "time": 74.3,
+   "weight": 1.0,
+   "note_time": 71.46
+  },
+  {
+   "text": "the",
+   "time": 74.68,
+   "weight": 1.0,
+   "note_time": 71.67
+  },
+  {
+   "text": "heart",
+   "time": 74.98,
+   "weight": 0.99,
+   "note_time": 71.88
+  },
+  {
+   "text": "and",
+   "time": 75.34,
+   "weight": 0.99,
+   "note_time": 72.29
+  },
+  {
+   "text": "wash",
+   "time": 75.9,
+   "weight": 1.0,
+   "note_time": 73.12
+  },
+  {
+   "text": "the",
+   "time": 76.34,
+   "weight": 1.0,
+   "note_time": 73.33
+  },
+  {
+   "text": "cup",
+   "time": 77.48,
+   "weight": 0.99,
+   "note_time": 73.75
+  },
+  {
+   "text": "The",
+   "time": 90.32,
+   "weight": 0.49,
+   "note_time": 73.96
+  },
+  {
+   "text": "Le",
+   "time": 91.3,
+   "weight": 0.99,
+   "note_time": 74.58
+  },
+  {
+   "text": "vites",
+   "time": 91.65,
+   "weight": 0.99,
+   "note_time": 75.0
+  },
+  {
+   "text": "ex",
+   "time": 92.28,
+   "weight": 0.97,
+   "note_time": 76.25
+  },
+  {
+   "text": "plained",
+   "time": 92.63,
+   "weight": 0.97,
+   "note_time": 76.46
+  },
+  {
+   "text": "the",
+   "time": 93.06,
+   "weight": 1.0,
+   "note_time": 76.67
+  },
+  {
+   "text": "Law",
+   "time": 93.52,
+   "weight": 0.87,
+   "note_time": 77.92
+  },
+  {
+   "text": "While",
+   "time": 93.8,
+   "weight": 0.61,
+   "note_time": 90.0
+  },
+  {
+   "text": "the",
+   "time": 94.16,
+   "weight": 0.99,
+   "note_time": 90.21
+  },
+  {
+   "text": "peo",
+   "time": 94.34,
+   "weight": 0.97,
+   "note_time": 90.83
+  },
+  {
+   "text": "ple",
+   "time": 94.56,
+   "weight": 0.97,
+   "note_time": 91.25
+  },
+  {
+   "text": "stood",
+   "time": 94.78,
+   "weight": 1.0,
+   "note_time": 92.08
+  },
+  {
+   "text": "in",
+   "time": 95.3,
+   "weight": 1.0,
+   "note_time": 92.29
+  },
+  {
+   "text": "awe",
+   "time": 95.82,
+   "weight": 1.0,
+   "note_time": 92.92
+  },
+  {
+   "text": "Maa",
+   "time": 96.57,
+   "weight": 0.0,
+   "note_time": 93.12
+  },
+  {
+   "text": "seiah",
+   "time": 97.31,
+   "weight": 0.0,
+   "note_time": 93.33
+  },
+  {
+   "text": "spoke",
+   "time": 98.06,
+   "weight": 1.0,
+   "note_time": 93.54
+  },
+  {
+   "text": "with",
+   "time": 98.44,
+   "weight": 1.0,
+   "note_time": 94.17
+  },
+  {
+   "text": "clear",
+   "time": 99.0,
+   "weight": 1.0,
+   "note_time": 94.38
+  },
+  {
+   "text": "sound",
+   "time": 99.38,
+   "weight": 0.99,
+   "note_time": 94.58
+  },
+  {
+   "text": "Guid",
+   "time": 100.18,
+   "weight": 0.98,
+   "note_time": 94.79
+  },
+  {
+   "text": "ing",
+   "time": 100.53,
+   "weight": 0.98,
+   "note_time": 96.25
+  },
+  {
+   "text": "the",
+   "time": 100.88,
+   "weight": 1.0,
+   "note_time": 96.67
+  },
+  {
+   "text": "minds",
+   "time": 101.2,
+   "weight": 0.99,
+   "note_time": 96.88
+  },
+  {
+   "text": "that",
+   "time": 101.72,
+   "weight": 1.0,
+   "note_time": 97.29
+  },
+  {
+   "text": "were",
+   "time": 102.06,
+   "weight": 1.0,
+   "note_time": 97.71
+  },
+  {
+   "text": "bound",
+   "time": 102.34,
+   "weight": 1.0,
+   "note_time": 97.92
+  },
+  {
+   "text": "They",
+   "time": 102.9,
+   "weight": 0.83,
+   "note_time": 98.12
+  },
+  {
+   "text": "pledged",
+   "time": 104.1,
+   "weight": 1.0,
+   "note_time": 98.75
+  },
+  {
+   "text": "to",
+   "time": 104.8,
+   "weight": 1.0,
+   "note_time": 99.58
+  },
+  {
+   "text": "send",
+   "time": 104.96,
+   "weight": 0.99,
+   "note_time": 99.79
+  },
+  {
+   "text": "the",
+   "time": 105.3,
+   "weight": 0.97,
+   "note_time": 100.0
+  },
+  {
+   "text": "wives",
+   "time": 105.84,
+   "weight": 1.0,
+   "note_time": 100.21
+  },
+  {
+   "text": "a",
+   "time": 106.32,
+   "weight": 1.0,
+   "note_time": 100.83
+  },
+  {
+   "text": "way",
+   "time": 106.58,
+   "weight": 1.0,
+   "note_time": 101.04
+  },
+  {
+   "text": "And",
+   "time": 106.84,
+   "weight": 0.61,
+   "note_time": 101.46
+  },
+  {
+   "text": "be",
+   "time": 107.62,
+   "weight": 0.98,
+   "note_time": 101.67
+  },
+  {
+   "text": "ing",
+   "time": 107.83,
+   "weight": 0.98,
+   "note_time": 102.92
+  },
+  {
+   "text": "guil",
+   "time": 108.04,
+   "weight": 1.0,
+   "note_time": 103.33
+  },
+  {
+   "text": "ty",
+   "time": 108.39,
+   "weight": 1.0,
+   "note_time": 103.75
+  },
+  {
+   "text": "stood",
+   "time": 108.76,
+   "weight": 0.74,
+   "note_time": 103.96
+  },
+  {
+   "text": "in",
+   "time": 109.44,
+   "weight": 0.99,
+   "note_time": 104.58
+  },
+  {
+   "text": "day",
+   "time": 109.9,
+   "weight": 0.98,
+   "note_time": 104.79
+  },
+  {
+   "text": "A",
+   "time": 110.28,
+   "weight": 0.95,
+   "note_time": 105.0
+  },
+  {
+   "text": "ram",
+   "time": 110.94,
+   "weight": 0.68,
+   "note_time": 105.42
+  },
+  {
+   "text": "from",
+   "time": 111.3,
+   "weight": 0.98,
+   "note_time": 105.62
+  },
+  {
+   "text": "flock",
+   "time": 111.58,
+   "weight": 0.98,
+   "note_time": 106.46
+  },
+  {
+   "text": "was",
+   "time": 112.06,
+   "weight": 1.0,
+   "note_time": 106.67
+  },
+  {
+   "text": "of",
+   "time": 112.5,
+   "weight": 1.0,
+   "note_time": 106.88
+  },
+  {
+   "text": "fered",
+   "time": 112.78,
+   "weight": 1.0,
+   "note_time": 107.29
+  },
+  {
+   "text": "up",
+   "time": 113.06,
+   "weight": 1.0,
+   "note_time": 107.71
+  },
+  {
+   "text": "To",
+   "time": 113.68,
+   "weight": 0.99,
+   "note_time": 108.33
+  },
+  {
+   "text": "cleanse",
+   "time": 114.28,
+   "weight": 1.0,
+   "note_time": 108.54
+  },
+  {
+   "text": "the",
+   "time": 114.66,
+   "weight": 1.0,
+   "note_time": 108.96
+  },
+  {
+   "text": "heart",
+   "time": 114.98,
+   "weight": 0.99,
+   "note_time": 109.79
+  },
+  {
+   "text": "and",
+   "time": 115.4,
+   "weight": 0.98,
+   "note_time": 110.0
+  },
+  {
+   "text": "wash",
+   "time": 115.9,
+   "weight": 1.0,
+   "note_time": 110.42
+  },
+  {
+   "text": "the",
+   "time": 116.34,
+   "weight": 1.0,
+   "note_time": 110.83
+  },
+  {
+   "text": "cup",
+   "time": 117.48,
+   "weight": 0.98,
+   "note_time": 111.25
+  },
+  {
+   "text": "The",
+   "time": 117.18,
+   "weight": 0.0,
+   "note_time": 111.46
+  },
+  {
+   "text": "Lord's",
+   "time": 116.88,
+   "weight": 0.15,
+   "note_time": 111.67
+  },
+  {
+   "text": "work",
+   "time": 117.18,
+   "weight": 0.15,
+   "note_time": 111.88
+  },
+  {
+   "text": "is",
+   "time": 117.44,
+   "weight": 0.17,
+   "note_time": 112.29
+  },
+  {
+   "text": "done",
+   "time": 118.1,
+   "weight": 0.22,
+   "note_time": 113.12
+  },
+  {
+   "text": "with",
+   "time": 118.8,
+   "weight": 0.15,
+   "note_time": 113.33
+  },
+  {
+   "text": "grace",
+   "time": 118.82,
+   "weight": 0.06,
+   "note_time": 113.75
+  },
+  {
+   "text": "In",
+   "time": 119.22,
+   "weight": 0.0,
+   "note_time": 113.96
+  },
+  {
+   "text": "the",
+   "time": 119.62,
+   "weight": 0.0,
+   "note_time": 114.58
+  },
+  {
+   "text": "re",
+   "time": 120.02,
+   "weight": 0.0,
+   "note_time": 115.0
+  },
+  {
+   "text": "stored",
+   "time": 120.42,
+   "weight": 0.0,
+   "note_time": 116.25
+  },
+  {
+   "text": "ho",
+   "time": 120.82,
+   "weight": 0.0,
+   "note_time": 116.46
+  },
+  {
+   "text": "ly",
+   "time": 121.22,
+   "weight": 0.0,
+   "note_time": 116.67
+  },
+  {
+   "text": "place",
+   "time": 121.62,
+   "weight": 0.0,
+   "note_time": 118.33
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [
+  "warning: compressing over-full page by 4.4 staff-spaces",
+  "warning: page 1 has been compressed"
+ ],
+ "quality": "11 of 26 lyric lines sit clearly on their notes; 15 are uncertain and printed in grey italics."
+}

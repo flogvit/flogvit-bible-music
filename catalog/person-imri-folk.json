@@ -1,0 +1,61 @@
+{
+  "id": "person-imri-folk",
+  "title": "Son of Bani",
+  "kind": "person",
+  "anchor": {
+    "person": "imri"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 3,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "imri",
+      "nehemja",
+      "bani",
+      "sakkur"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male folk voice, acoustic guitar, cello, soft percussion, warm and contemplative, 80 BPM",
+    "lyrics": "[Verse]\nUthai son of Ammihud stands tall\nSon of Omri in the ancient hall\nFrom the line of Imri he came\nSon of Bani bearing the name\n\n[Chorus]\nRoots in Judah deep and true\nPart of Perez family tree\nIn Jerusalem they lived with care\nFrom the days of old to now\n\n[Verse]\nNext to Jericho the men built\nZaccur son of Imri stood\nHe raised the wall with steady hands\nRestoring what the exile planned\n\n[Chorus]\nRoots in Judah deep and true\nPart of Perez family tree\nIn Jerusalem they lived with care\nFrom the days of old to now\n\n[Bridge]\nDescendants of Perez son of Judah\nLiving in the city’s heart\nTogether with Benjamin and Ephraim\nRebuilding the broken wall\n\n[Chorus]\nRoots in Judah deep and true\nPart of Perez family tree\nIn Jerusalem they lived with care\nFrom the days of old to now\n\n[Outro]\nSon of Bani name remembered\nIn the genealogy’s song",
+    "cot": "full",
+    "seed": 31428
+  }
+}

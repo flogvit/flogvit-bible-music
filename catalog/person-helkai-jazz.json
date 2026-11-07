@@ -1,0 +1,62 @@
+{
+  "id": "person-helkai-jazz",
+  "title": "Head of Meraioth",
+  "kind": "person",
+  "anchor": {
+    "person": "helkai"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 12,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 16,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 15
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "helkai",
+      "nehemja",
+      "jojakim"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocalist, warm and smooth, piano, upright bass, brushed drums, double bass, mellow mood, 85 BPM",
+    "lyrics": "[Verse]\nIn the days of Joiakim the high priest stood\nHeads of the fathers houses in the city found\nFrom the exile we returned to the rebuilt place\nTo keep the order of the sacred grace\n\n[Chorus]\nOf Harim Adna is named in the list\nOf Meraioth Helkai is the priest\nOf the line of Merajot he leads the way\nIn the days of Joiakim each day\n\n[Verse]\nJeshua fathered Joiakim in the record clear\nEliashib then Joiada through the years\nJonathan and Jaddua follow in line\nServing the temple in Jerusalem's shrine\n\n[Chorus]\nOf Harim Adna is named in the list\nOf Meraioth Helkai is the priest\nOf the line of Merajot he leads the way\nIn the days of Joiakim each day\n\n[Bridge]\nSeraiah and Jeremiah had their own heads\nMeraiah and Hananiah standing in steads\nEzra had Meshullam Amariah had his own\nJehohanan serving in the holy throne\n\n[Verse]\nMalluch had Jonathan Shebaniah had Joseph\nHarim had Adna keeping the promise\nMeraioth had Helkai in the book of Nehemiah\nPreserving the priestly line for the family\n\n[Chorus]\nOf Harim Adna is named in the list\nOf Meraioth Helkai is the priest\nOf the line of Merajot he leads the way\nIn the days of Joiakim each day\n\n[Outro]\nOf Meraioth Helkai is the priest\nHead of the fathers houses in the light",
+    "cot": "full",
+    "seed": 31425
+  }
+}

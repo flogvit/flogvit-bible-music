@@ -1,0 +1,77 @@
+{
+  "id": "person-habakkuk-worship",
+  "title": "The Righteous Shall Live",
+  "kind": "person",
+  "anchor": {
+    "person": "habakkuk"
+  },
+  "references": [
+    {
+      "bookId": 35,
+      "chapter": 1,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 35,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 35,
+      "chapter": 2,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 45,
+      "chapter": 1,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 48,
+      "chapter": 3,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 35,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "frelsen",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "habakkuk",
+      "jeremia"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, gentle choir support, acoustic guitar, piano, cello, soft drums, contemplative and hopeful, 72 BPM",
+    "lyrics": "[Verse]\nHow long, LORD, must I call for help\nI cry out to you, Violence!\nWhy do you make me see wrongdoing?\nDestruction and violence are before me\n\n[Pre-Chorus]\nThe law goes numb, justice never comes forth\nThe wicked hem in the righteous\n\n[Chorus]\nBut the righteous shall live by his faith\nThe vision awaits its appointed time\nLook at the proud one, his soul is not upright\nThe righteous shall live by his faith\n\n[Verse]\nLook among the nations and watch\nBe astonished, be astounded\nI am doing a work in your days\nYou would not believe if it were told\n\n[Chorus]\nBut the righteous shall live by his faith\nThe vision awaits its appointed time\nLook at the proud one, his soul is not upright\nThe righteous shall live by his faith\n\n[Bridge]\nThough the fig tree does not blossom\nAnd the vines bear no fruit\nYet I will exult in the LORD\nI will rejoice in the God of my salvation\n\n[Outro]\nThe LORD God is my strength\nHe makes my feet like the feet of a deer\nSets me upon the heights",
+    "cot": "full",
+    "seed": 31422
+  }
+}

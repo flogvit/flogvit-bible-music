@@ -1,0 +1,65 @@
+{
+  "id": "person-hobaja-choral",
+  "title": "Until a Priest Should Arise",
+  "kind": "person",
+  "anchor": {
+    "person": "hobaja"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 61,
+      "verseEnd": 63
+    },
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 62,
+      "verseEnd": 62
+    },
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 63,
+      "verseEnd": 63
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 63,
+      "verseEnd": 65
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "hobaja",
+      "serubabel",
+      "nehemja",
+      "barkos",
+      "barsillai"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn male solo voice with low choir, harp, cello, flute, timpani, organ, reverent and expectant mood, 72 BPM",
+    "lyrics": "[Verse]\nWe came from exile to the city gate\nWith Zerubbabel and the faithful band\nSeeking our place in the holy estate\nBut the records of our names were scant\n\n[Verse]\nSons of Hobaiah and Hakkoz too\nAnd Barzillai who took the Gileadite name\nWe sought the entry in the book anew\nBut the trace was lost in history's flame\n\n[Verse]\nThey searched for our name in the registers\nBut it could not be found by the eye\nExcluded from the priesthood as unclean we stand\nDenied the holy service to rely\n\n[Verse]\nThe governor spoke with a firm decree\nDo not eat of the most holy food\nUntil a priest should arise in the day\nTo consult the Urim and Thummim in the cloud\n\n[Outro]\nWe wait for the sign that we are clean",
+    "cot": "full",
+    "seed": 31427
+  }
+}

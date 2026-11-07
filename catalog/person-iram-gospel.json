@@ -1,0 +1,61 @@
+{
+  "id": "person-iram-gospel",
+  "title": "Chief Iram",
+  "kind": "person",
+  "anchor": {
+    "person": "iram"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 43,
+      "verseEnd": 43
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 54,
+      "verseEnd": 54
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 40,
+      "verseEnd": 43
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "iram",
+      "esau",
+      "magdiel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with gospel choir, upright bass, acoustic guitar, tambourine, piano, organ, solemn and majestic, 90 BPM",
+    "lyrics": "[Verse]\nThis is the family history of Esau\nThat is Edom in the hill country of Seir\nHe took his wives from the daughters of Canaan\nAdah and Oholibamah and Basemath came\nTheir possessions were too great to live together\nThe land could not support their livestock\nSo Esau settled in the hill country of Seir\nEsau is Edom the father of the Edomites\n\n[Chorus]\nChief Iram stands in the list of the chiefs\nThese were the chiefs of Edom\nAccording to their settlements in the land they possessed\nThis was Esau the father of the Edomites\n\n[Verse]\nBy their clans and their regions name by name\nChief Timna and Chief Alvah are known\nChief Oholibamah and Chief Elah too\nChief Pinon and Chief Kenaz appear\nThese are the chiefs descended from Esau\nIn the land they possessed and held\nThe genealogy confirms his position there\nAmong the tribal chiefs of the land\n\n[Chorus]\nChief Iram stands in the list of the chiefs\nThese were the chiefs of Edom\nAccording to their settlements in the land they possessed\nThis was Esau the father of the Edomites\n\n[Bridge]\nIn the book of Chronicles the name is repeated\nChief Magdiel and Chief Iram are listed\nConfirming his place in the tribal structure\nThe spread of Esau’s descendants is seen\n\n[Outro]\nChief Iram in the land of Edom\nThis was Esau the father of the Edomites",
+    "cot": "full",
+    "seed": 31429
+  }
+}

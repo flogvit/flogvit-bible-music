@@ -1,0 +1,67 @@
+{
+  "id": "person-hagaba-blues",
+  "title": "Sons of Hagabah",
+  "kind": "person",
+  "anchor": {
+    "person": "hagaba"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 45,
+      "verseEnd": 45
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 48,
+      "verseEnd": 48
+    },
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 43,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 16,
+      "chapter": 11,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "hagaba",
+      "serubabel",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone voice, solo, acoustic guitar, upright bass, harmonica, soft percussion, mournful and reflective, 80 BPM",
+    "lyrics": "[Verse]\nFrom Babylon we came back home\nWalking down the dusty road\nZerubbabel led the way\nWe carried light to break the night\n\n[Chorus]\nSons of Lebanah and Sons of Hagabah\nNames written in the holy book\nSons of Akkub walking through\nRestoring what was torn and lost\n\n[Verse]\nTemple servants with no name\nSons of Ziha and Hasupha\nServing God in humble way\nRebuilding faith that stayed with us\n\n[Chorus]\nSons of Lebanah and Sons of Hagabah\nNames written in the holy book\nSons of Akkub walking through\nRestoring what was torn and lost\n\n[Bridge]\nNehemiah counted every soul\nLebana and Hagaba there\nShalmai standing shoulder to shoulder\nDuties assigned in ancient air\n\n[Outro]\nLived on Ophel serving God\nZiha and Gishpa in charge\nOur names remain in the book\nForever in the sacred page",
+    "cot": "full",
+    "seed": 31423
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person-hesrai-hymn",
+  "title": "The Carmelite",
+  "kind": "person",
+  "anchor": {
+    "person": "hesrai"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 23,
+      "verseStart": 35,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 13,
+      "chapter": 11,
+      "verseStart": 37,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 10,
+      "chapter": 23,
+      "verseStart": 24,
+      "verseEnd": 39
+    },
+    {
+      "bookId": 10,
+      "chapter": 23,
+      "verseStart": 8,
+      "verseEnd": 9
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "hesrai",
+      "david"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solo male baritone voice, warm and dignified, acoustic guitar, piano, cello, light percussion, majestic and reverent mood, 75 BPM",
+    "lyrics": "[Verse]\nAmong the thirty brave men stood\nA name recorded in the book\nHezro the Carmelite was found\nIn David's mighty company\n\n[Verse]\nNo spear or battle is named for him\nNo kill is written in the text\nHe stands among the heroes then\nIn the list of those who served\n\n[Verse]\nChronicled again we see\nThe same name in the scroll\nHezro the Carmelite appears\nIn the record of the bold\n\n[Verse]\nPart of the elite group they were\nLoyal to the king of old\nServing in the army days\nWhen the kingdom grew strong\n\n[Outro]\nHezro the Carmelite is named",
+    "cot": "full",
+    "seed": 31426
+  }
+}

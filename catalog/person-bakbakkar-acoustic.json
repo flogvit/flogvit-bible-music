@@ -1,0 +1,70 @@
+{
+  "id": "person-bakbakkar-acoustic",
+  "title": "Levites in Jerusalem",
+  "kind": "person",
+  "anchor": {
+    "person": "bakbakkar"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 14,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 17,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "menigheten",
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "bakbakkar",
+      "heresj",
+      "galal",
+      "mattanja-hemans-sonn",
+      "sjemaja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and steady, acoustic guitar, fingerpicked banjo, soft cello, subtle shaker, gentle flute, reflective and solemn mood, 75 BPM",
+    "lyrics": "[Verse]\nThe book lists the names of the returning\nIsraelites who settled on their land\nJudah went into exile in Babylon\nBut now the first return to their towns\n\n[Verse]\nFrom the Levites came Shemaiah\nSon of Hasshub of the line of Merari\nAnd Bakbakkar stood with Heresh and Galal\nMattaniah son of Mica was there\n\n[Chorus]\nBakbakkar Heresh Galal and Mattaniah\nSons of Mica son of Zichri son of Asaph\nServing the temple in Jerusalem\nKeeping the faith of the old days\n\n[Verse]\nObadiah son of Shemaiah followed\nFrom the line of Galal and Jeduthun\nAnd Berechiah son of Asa lived\nAmong the villages of Netophah\n\n[Chorus]\nBakbakkar Heresh Galal and Mattaniah\nSons of Mica son of Zichri son of Asaph\nServing the temple in Jerusalem\nKeeping the faith of the old days\n\n[Bridge]\nGatekeepers Shallum Akkub and Talmon\nStationed at the King's Gate east side\nGuarding the thresholds just as fathers\nKept the entrance of the LORD's camp\n\n[Outro]\nRecorded in the book of the kings\nThe Levites serve in the city\nBakbakkar stands in the list\nFaithful after the exile.",
+    "cot": "full",
+    "seed": 31421
+  }
+}

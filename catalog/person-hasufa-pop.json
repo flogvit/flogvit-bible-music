@@ -1,0 +1,68 @@
+{
+  "id": "person-hasufa-pop",
+  "title": "Sons of Hasupha",
+  "kind": "person",
+  "anchor": {
+    "person": "hasufa"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 43,
+      "verseEnd": 43
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 46,
+      "verseEnd": 46
+    },
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 16,
+      "chapter": 11,
+      "verseStart": 21,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "nade",
+      "tro",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "hasufa",
+      "serubabel",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and reverent, acoustic guitar, piano, cello, soft percussion, hopeful mood, 85 BPM",
+    "lyrics": "[Verse]\nOut of Babylon we came\nTo Jerusalem and Judah\nWalking back to our own town\nEach man to his own place\n\n[Verse]\nUnder Zerubbabel's lead\nWith Jeshua and Nehemiah\nWe climbed up from the exile\nRestoring what was lost\n\n[Chorus]\nThe sons of Hasupha\nTemple servants faithful\nServing at the house\nKeeping the sacred trust\n\n[Verse]\nAlongside Ziha and Tabbaoth\nIn the list of the returned\nWe settled near the temple\nTo carry out our part\n\n[Chorus]\nThe sons of Hasupha\nTemple servants faithful\nServing at the house\nKeeping the sacred trust\n\n[Bridge]\nLived on Ophel high\nServing God's holy place\nDuties assigned to us\nIn this restored time\n\n[Outro]\nThe sons of Hasupha\nFaithful to the end",
+    "cot": "full",
+    "seed": 31424
+  }
+}

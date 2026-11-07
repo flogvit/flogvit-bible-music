@@ -1,0 +1,48 @@
+{
+  "id": "person-iri-orchestral",
+  "title": "Mighty Warriors",
+  "kind": "person",
+  "anchor": {
+    "person": "iri"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 7,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 13,
+      "chapter": 7,
+      "verseStart": 6,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "iri",
+      "benjamin",
+      "bela"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male choir, deep and resonant, solo tenor, harp, cello, timpani, solemn and majestic, 80 BPM",
+    "lyrics": "[Verse]\nBela son of Benjamin stands\nWith Becher and Jediael three\nFrom Jacob youngest son came forth\nThe tribe of Benjamin we see\n\n[Verse]\nEzbon Uzzi Uzziel too\nJerimoth and Iri five\nHeads of fathers houses they were\nCounted in the record given\n\n[Chorus]\nMighty warriors strong and true\nTwenty-two thousand thirty-four\nRegistered in the line of men\nFrom the family of Bela\n\n[Verse]\nIri stands among the five\nA son of Bela by name\nPart of the twelve tribes list\nHis place in history remains\n\n[Chorus]\nMighty warriors strong and true\nTwenty-two thousand thirty-four\nRegistered in the line of men\nFrom the family of Bela\n\n[Outro]\nHeads of their fathers houses\nMighty warriors named Iri\nCounted in the genealogy\nOf Benjamin the tribe of God",
+    "cot": "full",
+    "seed": 31430
+  }
+}

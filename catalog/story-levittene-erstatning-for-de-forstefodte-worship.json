@@ -1,0 +1,44 @@
+{
+  "id": "story-levittene-erstatning-for-de-forstefodte-worship",
+  "title": "The Levites Shall Be Mine",
+  "kind": "story",
+  "anchor": {
+    "story": "levittene-erstatning-for-de-forstefodte"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 51
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [
+      "levittene-erstatning-for-de-forstefodte"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn male baritone solo with choir, acoustic piano, strings, harp, organ, majestic and reverent mood, 72 BPM",
+    "lyrics": "[Verse]\nThese are the names of Aaron's sons\nNadab the firstborn and Abihu\nEleazar and Ithamar serve\nAnointed priests ordained to minister\nBut Nadab and Abihu died\nOffering unauthorized fire before the Lord\nSo Eleazar and Ithamar remained\nServing as priests during Aaron's lifetime\n\n[Pre-Chorus]\nThe Lord said to Moses bring forward\nThe tribe of Levi to present them\nTo Aaron the priest to assist him\nCarrying out duties for the whole congregation\n\n[Chorus]\nI myself have taken the Levites\nIn place of every firstborn who opens the womb\nThe Levites shall be mine I am the Lord\nFor every firstborn is mine from the land of Egypt\n\n[Verse]\nRegister the sons of Levi by name\nGershon Kohath and Merari their clans\nCount every male a month old and older\nMoses registered them at the command of the Lord\nTo Gershon belonged Libni and Shimei\nTheir enrollment came to seven thousand five hundred\nThey camped behind the tabernacle west\nCaring for the tent and its covering\n\n[Chorus]\nI myself have taken the Levites\nIn place of every firstborn who opens the womb\nThe Levites shall be mine I am the Lord\nFor every firstborn is mine from the land of Egypt\n\n[Verse]\nTo Kohath belonged Amram and Izhar\nHebron and Uzziel their clans also\nEight thousand six hundred cared for the sanctuary\nGuarding the ark and the table and lampstand\nTo Merari belonged Mahli and Mushi\nSix thousand two hundred cared for the frames\nThey camped on the north side of the tent\nWith crossbars and posts and all the equipment\n\n[Bridge]\nThe total number of Levites was twenty-two thousand\nMoses and Aaron registered them at the Lord's command\nRegister every firstborn male of Israel\nAnd record their names as the Lord had commanded\n\n[Chorus]\nI myself have taken the Levites\nIn place of every firstborn who opens the womb\nThe Levites shall be mine I am the Lord\nFor every firstborn is mine from the land of Egypt\n\n[Outro]\nCollect five shekels for each person\nGive the silver to Aaron and his sons\nThe redemption price for those who exceed\nThe Levites shall be mine I am the Lord",
+    "cot": "full",
+    "seed": 31406
+  }
+}

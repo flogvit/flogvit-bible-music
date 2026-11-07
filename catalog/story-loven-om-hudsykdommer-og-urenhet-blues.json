@@ -1,0 +1,42 @@
+{
+  "id": "story-loven-om-hudsykdommer-og-urenhet-blues",
+  "title": "Unclean Unclean",
+  "kind": "story",
+  "anchor": {
+    "story": "loven-om-hudsykdommer-og-urenhet"
+  },
+  "references": [
+    {
+      "bookId": 3,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 46
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "mercy"
+    ],
+    "themes": [],
+    "stories": [
+      "loven-om-hudsykdommer-og-urenhet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gravelly male solo voice, acoustic guitar, upright bass, muted trumpet, slow blues, 75 BPM",
+    "lyrics": "[Verse]\nThe LORD spoke to Moses and Aaron\nBring the swelling, rash, or bright spot to the priest\nThe hair has turned white, the sore is deep\nHe examines the skin, declares him unclean\n\n[Verse]\nIf it looks shallow, the hair is not white\nIsolate the person for seven days\nCheck again on the seventh day\nIf it has faded, he is clean\n\n[Chorus]\nWear torn clothes, let the hair hang down\nCover the upper lip, stand alone\nCry out loud, \"Unclean! Unclean!\"\nLive outside the camp, in the dust and the sun\n\n[Verse]\nIf the disease covers head to foot\nAnd it has all turned white, he is clean\nBut if raw flesh appears on the skin\nThe priest sees it, declares him unclean\n\n[Chorus]\nWear torn clothes, let the hair hang down\nCover the upper lip, stand alone\nCry out loud, \"Unclean! Unclean!\"\nLive outside the camp, in the dust and the sun\n\n[Bridge]\nA boil or a burn, a spot in the flesh\nThe priest examines, waits for the sign\nIf it spreads, it is a defiling disease\nIf it fades, he is clean\n\n[Outro]\nUnclean! Unclean!\nLive alone outside the camp",
+    "cot": "full",
+    "seed": 31407
+  }
+}

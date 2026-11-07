@@ -1,0 +1,47 @@
+{
+  "id": "story-sendelse-av-de-tolv-apostlene-jazz",
+  "title": "The Kingdom Has Come Near",
+  "kind": "story",
+  "anchor": {
+    "story": "sendelse-av-de-tolv-apostlene"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 42
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "holiness"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [
+      "sendelse-av-de-tolv-apostlene"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, jazz, female soulful solo voice, upright bass, piano, brushed snare, saxophone, warm and contemplative, 85 BPM",
+    "lyrics": "[Verse]\nHe called the twelve to stand before him\nGave power over spirits, sickness gone\nSimon and Andrew, James and John\nPhilip and Thomas, Matthew, Thaddaeus\nSent to the lost sheep of Israel\nProclaim the Kingdom is come near\n\n[Pre-Chorus]\nNo gold in belts, no second tunic\nNo staff to carry, no bag for road\nFreely received it, freely give it\nThe worker gets his daily bread\n\n[Chorus]\nThe Kingdom of heaven has come near\nHeal the sick, cleanse the leper\nDrive out the demons, raise the dead\nFreely you have received, freely give\n\n[Verse]\nEnter the house, give peace a greeting\nIf worthy let it rest on them\nIf not, let peace return to you\nShake the dust off your feet\nBe shrewd like serpents, innocent as doves\nThey will hand you over to councils\n\n[Chorus]\nThe Kingdom of heaven has come near\nHeal the sick, cleanse the leper\nDrive out the demons, raise the dead\nFreely you have received, freely give\n\n[Bridge]\nDo not fear those who kill the body\nBut fear the one who can destroy both\nTwo sparrows sold for a single penny\nNot one falls without his care\nYour head hairs are all numbered\nYou are worth more than many sparrows\n\n[Outro]\nTake up your cross and follow me\nLose your life for my sake, find it",
+    "cot": "full",
+    "seed": 31409
+  }
+}

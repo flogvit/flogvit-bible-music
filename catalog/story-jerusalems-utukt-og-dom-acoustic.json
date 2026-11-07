@@ -1,0 +1,45 @@
+{
+  "id": "story-jerusalems-utukt-og-dom-acoustic",
+  "title": "Bear Your Disgrace",
+  "kind": "story",
+  "anchor": {
+    "story": "jerusalems-utukt-og-dom"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 16,
+      "verseStart": 15,
+      "verseEnd": 63
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "synden",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "jerusalems-utukt-og-dom"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Female solo voice, melancholic and haunting, acoustic guitar, cello, piano, soft percussion, minor key, 70 BPM",
+    "lyrics": "[Verse]\nYou trusted in your beauty and played the whore\nLavished your favors on every passerby\nTook garments and made gaudy shrines for them\nUsed my gold and silver to make male images\nSet my oil and incense before these idols\nSacrificed your sons and daughters to the fire\nDid not remember the days of your youth\nWhen you were naked and kicking in your blood\n\n[Chorus]\nHear the word of the Lord regarding you\nI will gather all your lovers against you\nStrip you naked before them in the square\nThey will tear down your mound and lofty shrines\nStone you and cut you with their swords\nI will spend my wrath and my jealousy\nThen I will be calm and no longer angry\n\n[Verse]\nYou built a mound at the head of every street\nDegraded your beauty for every passerby\nPlayed the whore with the Egyptians and Assyria\nMultiplied your whorings with Chaldea too\nYou scorned payment like a brazen prostitute\nOpposite of women who solicited love\nYou are truly your mother's daughter indeed\nWho despised her husband and her children\n\n[Chorus]\nHear the word of the Lord regarding you\nI will gather all your lovers against you\nStrip you naked before them in the square\nThey will tear down your mound and lofty shrines\nStone you and cut you with their swords\nI will spend my wrath and my jealousy\nThen I will be calm and no longer angry\n\n[Bridge]\nYour older sister Samaria lived to the north\nYour younger sister Sodom lived to the south\nYou copied their abominations and ways\nBecame more corrupt in all your deeds\nSodom was arrogant and overfed with ease\nDid not help the poor and the needy\nSamaria did not commit half your sins\nYou made your sisters look righteous by contrast\n\n[Outro]\nI will restore the fortunes of them all\nSo you may bear your disgrace and be ashamed\nThey will return to their former state\nAnd you will be a consolation to them",
+    "cot": "full",
+    "seed": 31405
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "person-adoni-besek-hymn",
+  "title": "As I Have Done",
+  "kind": "person",
+  "anchor": {
+    "person": "adoni-besek"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 7,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 7,
+      "chapter": 1,
+      "verseStart": 6,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 7,
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 7
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "adoni-besek"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo voice, solemn baritone, organ, harp, flute, strings, somber and reflective mood, 70 BPM",
+    "lyrics": "[Verse]\nAfter Joshua died and went away\nThe people asked the Lord what to say\nWhich tribe should go up first to fight\nAgainst the Canaanites in the light\nThe Lord said Judah is the one\nHe gave them power to be done\nJudah spoke to Simeon his kin\nLet us go and let them win\n\n[Verse]\nJudah went up as the Lord had said\nHe and Simeon marched ahead\nThey struck down ten thousand men\nIn the land where the enemies wend\nAt Bezek they found the ruler there\nAnd fought with violence and care\nThey defeated Canaanites and Perizzites\nAnd made the battlefields their sites\n\n[Verse]\nAdoni-Besek tried to flee\nBut they pursued him to be free\nThey captured him and cut off his thumbs\nAnd big toes from his limbs\nHe said as he looked around\nSeventy kings with no sound\nUsed to pick up scraps under my table\nA grim and terrible fable\n\n[Verse]\nAs I have done so God has repaid me\nMy justice now comes to be\nHe brought him to Jerusalem’s gate\nWhere his life came to a date\nThere he died in the holy city\nHis story written in history\nA warning of God’s righteous hand\nOver wickedness in the land",
+    "cot": "full",
+    "seed": 31410
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "story-david-fester-arken-i-teltet-ballad",
+  "title": "Give Thanks to the LORD",
+  "kind": "story",
+  "anchor": {
+    "story": "david-fester-arken-i-teltet"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 43
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "love",
+      "covenant",
+      "holiness"
+    ],
+    "themes": [
+      "david",
+      "pakten",
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [
+      "david-fester-arken-i-teltet"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with warm choir backing, acoustic piano, acoustic guitar, cymbals, strings, gentle drum, reverent and joyful, 85 BPM",
+    "lyrics": "[Verse]\nThey brought the ark of God inside the tent\nDavid had pitched it for the covenant\nBefore God they offered burnt offerings\nAnd peace offerings for the nation\n\n[Verse]\nWhen the work was done he blessed the people\nIn the name of the Lord most high\nTo every man and woman in Israel\nHe gave bread meat and raisin cake\n\n[Chorus]\nGive thanks to the LORD call on his name\nMake known among the nations what he has done\nSing to him sing praise to him\nTell of all his wonderful works\n\n[Verse]\nHe appointed Asaph and the Levites\nTo minister before the ark of God\nWith harps and lyres they played the music\nWhile trumpets sounded out his word\n\n[Chorus]\nGive thanks to the LORD call on his name\nMake known among the nations what he has done\nSing to him sing praise to him\nTell of all his wonderful works\n\n[Bridge]\nRemember his covenant forever\nThe word he commanded for a thousand generations\nHe is the LORD our God\nHis judgments fill the whole earth\n\n[Outro]\nDavid returned home to bless his household\nAnd all the people said amen praise the Lord",
+    "cot": "full",
+    "seed": 31402
+  }
+}

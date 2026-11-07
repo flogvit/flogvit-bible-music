@@ -1,0 +1,41 @@
+{
+  "id": "story-esaus-slektshistorie-og-tilflytting-til-seir-country",
+  "title": "The Hill Country of Seir",
+  "kind": "story",
+  "anchor": {
+    "story": "esaus-slektshistorie-og-tilflytting-til-seir"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 1,
+      "verseEnd": 43
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "esaus-slektshistorie-og-tilflytting-til-seir"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and storytelling, acoustic guitar, banjo, fiddle, upright bass, mandolin, gentle folk mood, 90 BPM",
+    "lyrics": "[Verse]\nThis is the family history of Esau, that is, Edom\nHe took his wives from the daughters of Canaan\nAdah daughter of Elon, and Oholibamah\nAnd Basemath daughter of Ishmael\n\n[Verse]\nAdah bore Eliphaz to Esau in the land\nAnd Basemath bore Reuel, sons born in Canaan\nOholibamah bore Jeush, Jalam, and Korah\nTheir possessions were too great for them to live together\n\n[Pre-Chorus]\nThe land where they were staying could not support them\nBecause of their livestock, they had to move away\n\n[Chorus]\nSo Esau settled in the hill country of Seir\nHe moved to another land, away from his brother Jacob\nThis is the family history of Esau, the father of the Edomites\n\n[Verse]\nEliphaz son of Adah, Reuel son of Basemath\nChiefs descended from them in the land of Edom\nTeman, Omar, Zepho, Kenaz, and Amalek\nThese were the chiefs among Esau's descendants\n\n[Chorus]\nSo Esau settled in the hill country of Seir\nHe moved to another land, away from his brother Jacob\nThis is the family history of Esau, the father of the Edomites\n\n[Bridge]\nLotan, Shobal, Zibeon, Anah, Dishon\nEzer, and Dishan, the Horite chiefs in the land\nSeir the Horite lived there before the kings came\n\n[Chorus]\nSo Esau settled in the hill country of Seir\nHe moved to another land, away from his brother Jacob\nThis is the family history of Esau, the father of the Edomites\n\n[Outro]\nThese were the chiefs of Edom, according to their settlements\nThis was Esau, the father of the Edomites",
+    "cot": "full",
+    "seed": 31404
+  }
+}

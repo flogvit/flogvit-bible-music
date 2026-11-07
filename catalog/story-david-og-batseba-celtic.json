@@ -1,0 +1,50 @@
+{
+  "id": "story-david-og-batseba-celtic",
+  "title": "You Are the Man",
+  "kind": "story",
+  "anchor": {
+    "story": "david-og-batseba"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 11,
+      "verseStart": 1,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 10,
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 25
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet"
+    ],
+    "stories": [
+      "david-og-batseba"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo female voice, mournful, celtic harp, bodhran, low strings, flute, 70 BPM",
+    "lyrics": "[Verse]\nIn spring the kings march out to war\nDavid stayed in Jerusalem\nHe walked the roof of the king's house\nSaw a woman bathing there\nShe was Bathsheba daughter of Eliam\nWife of Uriah the Hittite\nDavid sent messengers for her\nAnd slept with her that night\n\n[Chorus]\nYou are the man Nathan said\nAs the Lord lives the man must die\nRepays four times for the little ewe\nWho had no pity in his eye\n\n[Verse]\nDavid sent word to Joab\nSend me Uriah the Hittite\nUriah slept at the gate of the house\nHe did not go to his own door\nDavid wrote a letter in the morning\nPut him where the fighting is fiercest\nPull back so he is struck down\nJoab obeyed the king's command\n\n[Chorus]\nYou are the man Nathan said\nAs the Lord lives the man must die\nRepays four times for the little ewe\nWho had no pity in his eye\n\n[Verse]\nBathsheba heard her husband died\nShe mourned for him in grief\nWhen the mourning was over\nDavid sent for her again\nShe became his wife and bore a son\nBut the child did not live\nNathan spoke of disaster rising\nFrom within the king's own house\n\n[Chorus]\nYou are the man Nathan said\nAs the Lord lives the man must die\nRepays four times for the little ewe\nWho had no pity in his eye\n\n[Bridge]\nThe sword will never depart\nFrom your house because you despised me\nI gave you your master's house\nAnd if it was too little I would add more\n\n[Outro]\nYou are the man Nathan said\nYou are the man",
+    "cot": "full",
+    "seed": 31403
+  }
+}

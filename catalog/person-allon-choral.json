@@ -1,0 +1,68 @@
+{
+  "id": "person-allon-choral",
+  "title": "Recorded by Name",
+  "kind": "person",
+  "anchor": {
+    "person": "allon"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 37,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 28,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 38,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 41,
+      "verseEnd": 43
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "salvation",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "allon",
+      "jedaja",
+      "sjifi",
+      "sjimei"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo, deep choir, cello, organ, harp, warm and reverent, 72 BPM",
+    "lyrics": "[Verse]\nAllon, son of Jedajah, stands in the line\nFather of Shiphji, his name is divine\nNo deed of his hand is written in stone\nBut in the genealogy he is known\n\n[Verse]\nThey lived in Beersheba, Moladah, Hazar-shual\nIn Bilhah, Ezem, Tolad, without fail\nBethuel, Hormah, Ziklag, the towns\nWhere they dwelt until David, the king, was found\n\n[Verse]\nTheir villages Etam, Ain, Rimmon, and Tochen\nWith Ashan, five towns, the record is spoken\nAround these towns as far as Baal\nThey kept a genealogical record in the hall\n\n[Verse]\nThey went to the entrance of Gedor, east side of the valley\nTo look for pasture for their flocks, steadily\nThey found rich, good pasture, the land was broad\nQuiet and peaceful, where the Hamites had trod\n\n[Verse]\nIn the days of Hezekiah, they came with might\nAttacked the tents, put the Meunites to flight\nDestroyed them completely, so it remains\nThey settled in their place, answering the chains\n\n[Outro]\nRecorded by name, in the covenant kept",
+    "cot": "full",
+    "seed": 31411
+  }
+}

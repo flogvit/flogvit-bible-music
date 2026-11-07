@@ -1,0 +1,41 @@
+{
+  "id": "story-ohola-og-oholiba-samaria-og-jerusalem-pop",
+  "title": "A Cup of Horror",
+  "kind": "story",
+  "anchor": {
+    "story": "ohola-og-oholiba-samaria-og-jerusalem"
+  },
+  "references": [
+    {
+      "bookId": 26,
+      "chapter": 23,
+      "verseStart": 1,
+      "verseEnd": 49
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [
+      "ohola-og-oholiba-samaria-og-jerusalem"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, solo with choir, piano, cello, drums, strings, dark and intense, 90 BPM",
+    "lyrics": "[Verse]\nTwo women daughters of one mother\nPlayed the whore in Egypt\nOholah and Oholibah\nBore sons and daughters\n\n[Verse]\nShe burned with lust for Assyrians\nHandsome young men on horses\nShe defiled herself with idols\nStripped naked by the sword\n\n[Chorus]\nI am about to rouse your lovers\nBring them against you\nThey will judge you by their laws\nCut off your nose and ears\n\n[Verse]\nHer sister saw and lusted more\nAfter the Chaldeans\nFigures carved in vermilion\nBelts around their waists\n\n[Chorus]\nI am about to rouse your lovers\nBring them against you\nThey will judge you by their laws\nCut off your nose and ears\n\n[Bridge]\nBlood is on their hands\nOffered children to idols\nDefiled my sanctuary\nProfaned my Sabbaths\n\n[Chorus]\nI am about to rouse your lovers\nBring them against you\nThey will judge you by their laws\nCut off your nose and ears\n\n[Outro]\nDrink the cup of horror\nGnaw its broken pieces",
+    "cot": "full",
+    "seed": 31408
+  }
+}

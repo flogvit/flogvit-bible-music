@@ -1,0 +1,55 @@
+{
+  "id": "person-tola-children",
+  "title": "In the Hill Country",
+  "kind": "person",
+  "anchor": {
+    "person": "tola"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "ydmykhet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "tola",
+      "abimelek",
+      "jair"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice, gentle acoustic guitar, soft piano, light harp, mellow cello, peaceful and steady mood, 80 BPM",
+    "lyrics": "[Verse]\nAfter Abimelech's time was done\nTola son of Puah rose up\nSon of Dodo in the sun\nA man of Issachar he was\n\n[Verse]\nHe lived in Shamir it is true\nIn the hill country of Ephraim\nHe brought the peace back to the view\nAnd saved the people from their whim\n\n[Chorus]\nHe judged Israel for twenty-three\nYears of quiet and stability\nHe served the land with gentle care\nA judge who lived without a scare\n\n[Verse]\nHis lineage from Dodo came\nFrom the tribe that knew his name\nHe exercised his office well\nIn the hill where the shadows fell\n\n[Chorus]\nHe judged Israel for twenty-three\nYears of quiet and stability\nHe served the land with gentle care\nA judge who lived without a scare\n\n[Outro]\nThen he died and found his rest\nBuried in Shamir where he blessed",
+    "cot": "full",
+    "seed": 31400
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person-sjealtiel-choral",
+  "title": "The Governor's Line",
+  "kind": "person",
+  "anchor": {
+    "person": "sjealtiel"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 17,
+      "verseEnd": 17
+    },
+    {
+      "bookId": 15,
+      "chapter": 3,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 37,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 40,
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjealtiel",
+      "jekamja",
+      "serubabel",
+      "david",
+      "jesjua-josva"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo, choral backing, harp, organ, strings, solemn, 80 BPM",
+    "lyrics": "[Verse]\nSon of Jeconiah the captive\nHeir of the royal blood\nShealtiel his name was given\nIn the darkened time of God\n\n[Verse]\nFather of the governor\nLeading Judah's returning\nZerubbabel his name was known\nIn the exile's ending\n\n[Verse]\nHaggai spoke the Lord's command\nTo the house that lay in ruin\nTimber bring to hill and field\nLet the temple be rebuilt\n\n[Verse]\nStirred the spirit of the man\nAnd the priest beside him standing\nWork begun upon the house\nOf the hosts of Israel's land\n\n[Verse]\nMatthew traced the royal line\nFrom David's throne to Jesus\nShealtiel stands in the record\nKing and prophet's measure\n\n[Verse]\nLuke also named the son\nOf Zerubbabel's father\nShealtiel the link is clear\nIn the Messiah's path we measure\n\n[Outro]\nGod's promise holds the line",
+    "cot": "full",
+    "seed": 31395
+  }
+}

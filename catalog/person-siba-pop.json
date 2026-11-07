@@ -1,0 +1,74 @@
+{
+  "id": "person-siba-pop",
+  "title": "The Donkeys And The Bread",
+  "kind": "person",
+  "anchor": {
+    "person": "siba"
+  },
+  "references": [
+    {
+      "bookId": 10,
+      "chapter": 9,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 10,
+      "chapter": 9,
+      "verseStart": 9,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 10,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 10,
+      "chapter": 16,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 10,
+      "chapter": 19,
+      "verseStart": 24,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "siba",
+      "david",
+      "mefiboset",
+      "saul",
+      "jonatan"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female voice, warm and narrative, solo with acoustic guitar, piano, cello, soft drums, hopeful and dramatic, 90 BPM",
+    "lyrics": "[Verse]\nA servant came from Saul's old house\nNamed Ziba standing in the dust\nThe king asked if any kin remained\nOf Jonathan's line in this land\nA son with feet that could not walk\nLiving far away from the ark\n\n[Chorus]\nThe donkeys loaded with the bread\nTwo hundred loaves are spread\nRaisins and fruit for the men\nWine for the faint in the wilderness then\nEverything that belongs to Mephibosheth\nIs now yours to claim and to possess\n\n[Verse]\nDavid fled when Absalom rose\nZiba met him with a show\nHe said the master stayed behind\nTo take the kingdom from the mind\nSo the king gave all the estate\nTo Ziba who bowed before the great\n\n[Chorus]\nThe donkeys loaded with the bread\nTwo hundred loaves are spread\nRaisins and fruit for the men\nWine for the faint in the wilderness then\nEverything that belongs to Mephibosheth\nIs now yours to claim and to possess\n\n[Bridge]\nBut Mephibosheth came down low\nHis feet untrimmed and clothes worn\nHe said my servant lied to you\nHe left me lame and without a clue\nI am like an angel's friend\nDo whatever seems good in the end\n\n[Chorus]\nThe donkeys loaded with the bread\nTwo hundred loaves are spread\nRaisins and fruit for the men\nWine for the faint in the wilderness then\nEverything that belongs to Mephibosheth\nIs now yours to claim and to possess\n\n[Outro]\nSo you and Ziba shall divide\nThe land that they are to abide\nDivide the land and be done\nThe story of the servant son",
+    "cot": "full",
+    "seed": 31392
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person-sifjon-jazz",
+  "title": "Clan of Zephon",
+  "kind": "person",
+  "anchor": {
+    "person": "sifjon"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 16,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 1,
+      "chapter": 47,
+      "verseStart": 27,
+      "verseEnd": 27
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sifjon",
+      "jakob-israel",
+      "silpa",
+      "gad-silpas-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, smoky female jazz vocal, solo, upright bass, brushed drums, piano, saxophone, warm nostalgic mood, 72 BPM",
+    "lyrics": "[Verse]\nSons of Gad are named in the list\nZephon and Haggi hold the thread\nShuni and Ezbon join the line\nEri and Arodi stand the test\nAreli completes the seven names\nA family bound by blood and bone\n\n[Verse]\nSeventy souls went down to Egypt\nJacob’s house escaped the famine’s grip\nJoseph held power in that land\nBut the family kept their ancient trust\nSixty-six direct descendants came\nWith wives excluded from the count\n\n[Chorus]\nClan of Zephon in the census\nCounted on the plains of Moab\nClan of Zephon in the record\nPart of Gad’s enduring name\n\n[Verse]\nIsrael settled in the land of Goshen\nAcquired property and grew\nFruitful and increased in number\nA great nation from the seed\nZephonite clan within the tribe\nA memory kept in the book\n\n[Chorus]\nClan of Zephon in the census\nCounted on the plains of Moab\nClan of Zephon in the record\nPart of Gad’s enduring name\n\n[Bridge]\nFrom Jacob’s sons to the desert\nThe lineage flows like a river\nZephon and Haggi and Shuni\nTheir names remain in the scripture\n\n[Outro]\nSeventy persons came to Egypt\nThe story lives in the text",
+    "cot": "full",
+    "seed": 31393
+  }
+}

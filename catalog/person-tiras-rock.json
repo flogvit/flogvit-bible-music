@@ -1,0 +1,69 @@
+{
+  "id": "person-tiras-rock",
+  "title": "Coastland Peoples",
+  "kind": "person",
+  "anchor": {
+    "person": "tiras"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 2,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 5,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "tiras",
+      "noah",
+      "jafet",
+      "sem",
+      "kam"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone, powerful rock band, distorted electric guitar, heavy bass, driving drums, atmospheric synths, epic and solemn mood, 85 BPM",
+    "lyrics": "[Verse]\nSons born after the flood to Noah's line\nShem and Ham and Japheth stand in time\nThe sons of Japheth are named in the text\nGomer Magog Madai Javan next\nTubal Meshech and Tiras last of the seven\nThe youngest son in the genealogy given\n[Chorus]\nFrom these the coastland peoples spread out into their lands\nEach with its own language by their clans within their nations\nBe fruitful multiply and fill the earth\nThe fear and dread of you rest on the beast\n[Verse]\nThe sons of Gomer Ashkenaz Riphath Togarmah\nThe sons of Javan Elishah Tarshish\nKittim and Dodanim in the list\nTiras remains in the record of the coast\n[Chorus]\nFrom these the coastland peoples spread out into their lands\nEach with its own language by their clans within their nations\nBe fruitful multiply and fill the earth\nThe fear and dread of you rest on the beast\n[Bridge]\nOne Chronicles repeats the names of Japheth\nGomer Magog Madai Javan Tubal\nMeshech and Tiras in the memory kept\nThe table of nations in the book\n[Outro]\nFrom them the whole earth was populated\nTiras part of the scattered nations",
+    "cot": "full",
+    "seed": 31399
+  }
+}

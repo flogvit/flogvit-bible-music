@@ -1,0 +1,80 @@
+{
+  "id": "person-sjesjai-folk",
+  "title": "We seemed like grasshoppers",
+  "kind": "person",
+  "anchor": {
+    "person": "sjesjai"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 22,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 5,
+      "chapter": 1,
+      "verseStart": 36,
+      "verseEnd": 36
+    },
+    {
+      "bookId": 6,
+      "chapter": 14,
+      "verseStart": 12,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 6,
+      "chapter": 15,
+      "verseStart": 13,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 7,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "sjesjai",
+      "kaleb",
+      "josva",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male solo voice, acoustic guitar, cello, hand drum, atmospheric synth, melancholic, 80 BPM",
+    "lyrics": "[Verse]\nThey went up through the Negev and came to Hebron\nWhere Ahiman and Sheshai lived with Talmai\nDescendants of Anak in the ancient land\nThe cities were fortified and very large\n\n[Pre-Chorus]\nIn the Valley of Eshcol they cut a branch\nA single cluster of grapes on a pole between them\nForty days they spent in the scouting\nThen they returned to the Wilderness of Paran\n\n[Chorus]\nWe even saw the descendants of Anak there\nIn our own eyes we seemed like grasshoppers\nThe land we traveled through devours the living\nAnd all the people we saw are of enormous size\n\n[Verse]\nThe whole congregation broke out in a loud cry\nThe people wept through that dark and fearful night\nThey grumbled against Moses and Aaron\nSaying if only we had died in Egypt\n\n[Pre-Chorus]\nWhy is the LORD bringing us to this land\nOnly to fall by the sword and be plundered\nOur wives and children would become the spoils\nSo let us choose a leader and go back\n\n[Chorus]\nWe even saw the descendants of Anak there\nIn our own eyes we seemed like grasshoppers\nThe land we traveled through devours the living\nAnd all the people we saw are of enormous size\n\n[Bridge]\nBut Caleb quieted the people before Moses\nSaying we should go up and take possession\nFor we are well able to do it\nThough the men with him said we cannot attack them\n\n[Chorus]\nWe even saw the descendants of Anak there\nIn our own eyes we seemed like grasshoppers\nThe land we traveled through devours the living\nAnd all the people we saw are of enormous size\n\n[Outro]\nCaleb drove out Sheshai, Ahiman, and Talmai\nHebron belonged to him as an inheritance\nBecause he followed the LORD wholeheartedly",
+    "cot": "full",
+    "seed": 31396
+  }
+}

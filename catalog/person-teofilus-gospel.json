@@ -1,0 +1,74 @@
+{
+  "id": "person-teofilus-gospel",
+  "title": "Certain Words",
+  "kind": "person",
+  "anchor": {
+    "person": "teofilus"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 9
+    },
+    {
+      "bookId": 44,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 44,
+      "chapter": 28,
+      "verseStart": 30,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-hellighet",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "teofilus",
+      "lukas",
+      "paulus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice with soft choir, acoustic guitar, piano, cello, light drums, hopeful and reflective, 80 BPM",
+    "lyrics": "[Verse]\nMany drew accounts of fulfilled things\nHeld by eyes that saw from the start\nI searched deep for truth and proof\nTo write an orderly report\n\n[Chorus]\nMost excellent Theophilus hear\nKnow the certainty of what you learned\nFrom the start to the finish clear\nThe word is sure and firmly stirred\n\n[Verse]\nMy first book told what He began\nTo do and teach in the land\nThen He gave instructions by the Spirit\nTo chosen ones who waited\n\n[Chorus]\nMost excellent Theophilus hear\nKnow the certainty of what you learned\nFrom the start to the finish clear\nThe word is sure and firmly stirred\n\n[Bridge]\nA sound from heaven filled the room\nTongues of fire upon each one\nFilled with the Spirit they spoke\nBoldly proclaiming the Lord's hope\n\n[Outro]\nTwo years in Rome he stayed\nTeaching with complete boldness displayed",
+    "cot": "full",
+    "seed": 31397
+  }
+}

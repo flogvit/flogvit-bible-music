@@ -1,0 +1,68 @@
+{
+  "id": "person-simon-seloten-hymn",
+  "title": "Simon the Cananaean",
+  "kind": "person",
+  "anchor": {
+    "person": "simon-seloten"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 10,
+      "verseStart": 2,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 41,
+      "chapter": 3,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 42,
+      "chapter": 6,
+      "verseStart": 13,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 13,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 42,
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "simon-seloten",
+      "jesus",
+      "matteus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, piano, strings, soft drums, reverent, 72 BPM",
+    "lyrics": "[Verse]\nWhen day came he called his disciples near\nHe chose twelve of them to draw him near\nSimon whom he named the Cananaean\nStood within the list of those chosen\n\n[Verse]\nGave them power over all demons there\nAnd authority to heal the pain\nSent them out to proclaim the kingdom\nOf God and heal the sick again\n\n[Verse]\nIn the upper room they gathered close\nWith one mind they devoted themselves to prayer\nPeter John and James and Andrew\nPhilip Thomas Bartholomew and more\n\n[Verse]\nMatthew James and Simon the Zealot\nAnd Judas son of James were there\nMary the mother of Jesus too\nAnd his brothers joined in prayer\n\n[Outro]\nSimon the Cananaean stands in the list",
+    "cot": "full",
+    "seed": 31394
+  }
+}

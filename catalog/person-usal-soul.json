@@ -1,0 +1,68 @@
+{
+  "id": "person-usal-soul",
+  "title": "From Mesha Toward Sephar",
+  "kind": "person",
+  "anchor": {
+    "person": "usal"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 27,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 28,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 21,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 26,
+      "chapter": 27,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "usal",
+      "sem",
+      "eber",
+      "peleg",
+      "joktan"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male soul voice, warm and grounded, solo with subtle choir harmonies, upright bass, piano, brushed drums, saxophone, gentle mood, 80 BPM",
+    "lyrics": "[Verse]\nSons of Shem rose after the flood\nElam and Asshur stood in the wood\nArpachshad led his children along\nShelah and Eber carried the song\n\nEber had two sons in that day\nPeleg when earth was divided away\nHis brother Joktan took the east\nSettling the lands from north to the least\n\n[Chorus]\nFrom Mesha toward Sephar we go\nHill country of the east, steady and slow\nHadoram and Uzal walk beside\nDiklah and Obal sharing the tide\n\n[Verse]\nAbimael and Sheba follow in line\nOphir and Havilah crossed the design\nJobab stands firm with the sons of the land\nThirteen names written across the land\n\nAll these were the sons of Joktan\nSettled in the eastern mountain plain\nChronicled again in the scroll\nConfirming the line as faithful and whole\n\n[Chorus]\nFrom Mesha toward Sephar we go\nHill country of the east, steady and slow\nHadoram and Uzal walk beside\nDiklah and Obal sharing the tide\n\n[Bridge]\nEzekiel speaks of the trade of Tyre\nVedan and Javan from Uzal by\nWrought iron and cassia in hand\nCane in the market, a foreign land\n\n[Outro]\nFrom Mesha toward Sephar we go\nHill country of the east, steady and slow",
+    "cot": "full",
+    "seed": 31401
+  }
+}

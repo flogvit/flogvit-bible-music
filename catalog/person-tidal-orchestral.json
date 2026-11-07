@@ -1,0 +1,64 @@
+{
+  "id": "person-tidal-orchestral",
+  "title": "Tar Pits and Treasures",
+  "kind": "person",
+  "anchor": {
+    "person": "tidal"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 8,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 11,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verseStart": 14,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "tidal",
+      "kedorlaomer",
+      "amrafel",
+      "arjok",
+      "abraham"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with choir, harp, cello, flute, timpani, solemn and epic, 75 BPM",
+    "lyrics": "[Verse]\nIn days of Amraphel king of Shinar\nArioch ruled in Ellasar\nChedorlaomer of Elam stood\nTidal king of Goiim led\n\n[Verse]\nFour kings formed a powerful band\nAgainst the five in the land\nSodom and Gomorrah marched out\nAdmah and Zeboiim fought\n\n[Chorus]\nValley of Siddim full of pits\nTar rose up as the dust\nKings of Sodom fell inside\nGomorrah kings could not hide\n\n[Verse]\nThe victors seized goods and food\nProvisions taken from the wood\nLot was taken from his home\nAbram heard the sorrowing tone\n\n[Pre-Chorus]\nThree hundred eighteen men\nBorn in his household when\nHe pursued to Dan and far\nNorth of Damascus at war\n\n[Chorus]\nValley of Siddim full of pits\nTar rose up as the dust\nKings of Sodom fell inside\nGomorrah kings could not hide\n\n[Bridge]\nHe divided his forces at night\nAttacked in the fading light\nRecovered all the goods\nBrought Lot back from the crowds\n\n[Outro]\nWomen and people restored\nAbram’s story is recorded",
+    "cot": "full",
+    "seed": 31398
+  }
+}

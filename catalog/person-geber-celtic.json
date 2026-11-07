@@ -1,0 +1,54 @@
+{
+  "id": "person-geber-celtic",
+  "title": "Governor Over That Land",
+  "kind": "person",
+  "anchor": {
+    "person": "geber"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 11,
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith",
+      "obedience"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "geber",
+      "salomo",
+      "uri"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with deep resonance, harp, tin whistle, bodhran, fiddle, cello, solemn and majestic, 80 BPM",
+    "lyrics": "[Verse]\nSolomon had twelve district governors over all Israel\nWho supplied provisions for the king and his household\nEach one was responsible for one month of the year\nIn the hill country of Ephraim Ben-Hur stood\nBen-Deker in Makaz and Shaalbim\nBen-Hesed in Arubboth and the land of Hepher\nBen-Abinadab in all of Naphath Dor\nBaana son of Ahilud in Taanach and Megiddo\n\n[Chorus]\nGeber son of Uri in the land of Gilead\nThe country of Sihon king of the Amorites\nAnd of Og king of Bashan\nHe was the one governor over that land\n\n[Verse]\nBen-Geber in Ramoth Gilead with Jair's settlements\nThe region of Argob in Bashan sixty large cities\nWith walls and bronze bars on their gates\nAhinadab son of Iddo in Mahanaim\nAhimaaz in Naphtali married a daughter of Solomon\nBaana son of Hushai in Asher and Bealoth\nJehoshafat son of Paruah in Issachar\nShimei son of Ela in Benjamin\n\n[Chorus]\nGeber son of Uri in the land of Gilead\nThe country of Sihon king of the Amorites\nAnd of Og king of Bashan\nHe was the one governor over that land\n\n[Chorus]\nGeber son of Uri in the land of Gilead\nThe country of Sihon king of the Amorites\nAnd of Og king of Bashan\nHe was the one governor over that land",
+    "cot": "full",
+    "seed": 31419
+  }
+}

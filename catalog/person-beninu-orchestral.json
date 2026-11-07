@@ -1,0 +1,58 @@
+{
+  "id": "person-beninu-orchestral",
+  "title": "Sealed in Covenant",
+  "kind": "person",
+  "anchor": {
+    "person": "beninu"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 28,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "obedience"
+    ],
+    "themes": [
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "beninu",
+      "nehemja",
+      "esra"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male tenor solo with ethereal choir, harp, cello, flute, timpani, solemn and reverent, 72 BPM",
+    "lyrics": "[Verse]\nIn view of all this great thing\nWe enter into a binding agreement\nPut in writing with solemn intent\nThe names are written on the sealed document\n\n[Verse]\nNehemiah the governor stands first\nSon of Hacaliah with his own name\nZedekiah Seraiah Azariah\nJeremiah Pashhur Amariah\n\n[Verse]\nMalchijah Hattush Shebaniah Malluch\nHarim Meremoth Obadiah Daniel\nGinnethon Baruch Meshullam Abijah\nMijamin Maaziah Bilgai and Shemaiah\n\n[Chorus]\nOn the sealed document our names are found\nThe Levites stand with their feet on the ground\nBinnui of the sons of Henadad\nKadmiel Shebaniah Hodiah\n\n[Verse]\nKelita Pelaiah Hanan Mica\nRehob Hashabiah Zaccur Sherebiah\nShebaniah Hodiah Bani Beninu\nThese are the Levites who sealed the line\n\n[Chorus]\nOn the sealed document our names are found\nThe Levites stand with their feet on the ground\nBinnui of the sons of Henadad\nKadmiel Shebaniah Hodiah\n\n[Bridge]\nThe rest of the people joined their brothers\nBound themselves with a curse and an oath\nTo walk in the Law of God given\nThrough Moses the servant of God\n\n[Chorus]\nOn the sealed document our names are found\nThe Levites stand with their feet on the ground\nTo keep and carry out His command\nWith judgments and statutes of the Lord\n\n[Outro]\nSeparate from the peoples of the lands\nTo follow the Law of God in our hands",
+    "cot": "full",
+    "seed": 31414
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person-bariah-gospel",
+  "title": "Six Sons of Shemaiah",
+  "kind": "person",
+  "anchor": {
+    "person": "bariah"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 13,
+      "chapter": 3,
+      "verseStart": 21,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "bariah",
+      "david",
+      "sjekanja",
+      "sjemaja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male baritone with gospel choir, acoustic guitar, piano, organ, cello, warm and reverent, 85 BPM",
+    "lyrics": "[Verse]\nThe line of David stands\nThrough Hananiah and Rephaiah\nObadiah and Shecaniah\nNames recorded in the book\n\n[Chorus]\nHattush Igal Bariah\nNeariah and Shaphat too\nSix sons of Shemaiah\nCounted in the ancient scroll\n\n[Verse]\nAfter the exile deep\nThe royal line was kept alive\nShemaiah had six sons\nTheir names were written down\n\n[Chorus]\nHattush Igal Bariah\nNeariah and Shaphat too\nSix sons of Shemaiah\nCounted in the ancient scroll\n\n[Bridge]\nFrom Shecaniah to Shemaiah\nThe bloodline holds its ground\nPreserved through the years of waiting\nIn the land and far away\n\n[Outro]\nHattush Igal Bariah\nNeariah Shaphat six",
+    "cot": "full",
+    "seed": 31413
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "person-diblaim-rock",
+  "title": "Daughter of Diblaim",
+  "kind": "person",
+  "anchor": {
+    "person": "diblaim"
+  },
+  "references": [
+    {
+      "bookId": 28,
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 28,
+      "chapter": 1,
+      "verseStart": 2,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "covenant",
+      "faith"
+    ],
+    "themes": [
+      "pakten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "diblaim",
+      "hosea",
+      "gomer",
+      "jisreel-hoseas-sonn",
+      "lo-ruhama"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male rock voice, gritty and intense, electric guitar, bass, drums, moody, 85 BPM",
+    "lyrics": "[Verse]\nWhen the Lord first spoke through Hosea\nGo take a wife of prostitution\nFor the land turns away from the Lord\nGreat infidelity is their foundation\n\n[Chorus]\nHe went and took Gomer daughter of Diblaim\nAnd she conceived and bore him a son\nA sign of the covenant broken and torn\nThe daughter of Diblaim in the sun\n\n[Verse]\nThe command came down from the holy one\nTo marry the woman who strays\nA living sign of the people's ways\nWho turn their faces from the sun\n\n[Chorus]\nHe went and took Gomer daughter of Diblaim\nAnd she conceived and bore him a son\nA sign of the covenant broken and torn\nThe daughter of Diblaim in the sun\n\n[Bridge]\nHer father is named in the ancient scroll\nDiblaim is the source of the line\nA single verse to make it known\nThe prophet walked on a path divine\n\n[Outro]\nGomer daughter of Diblaim\nBore the son as the word said\nThe story begins where the heart is led",
+    "cot": "full",
+    "seed": 31415
+  }
+}

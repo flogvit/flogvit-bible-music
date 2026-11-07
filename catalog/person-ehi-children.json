@@ -1,0 +1,64 @@
+{
+  "id": "person-ehi-children",
+  "title": "Best Part of the Land",
+  "kind": "person",
+  "anchor": {
+    "person": "ehi"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 1,
+      "chapter": 47,
+      "verseStart": 11,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 38,
+      "verseEnd": 39
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "ehi",
+      "jakob-israel",
+      "benjamin",
+      "josef-gt"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, bright female solo voice, acoustic guitar, ukulele, celesta, light percussion, warm and inviting, 90 BPM",
+    "lyrics": "[Verse]\nTen sons of Benjamin stand in the list\nBela and Becher and Ashbel too\nGera and Naaman follow the line\nEhi is named among the few\nRosh and Muppim and Huppim and Ard\nNames written in the sacred scroll\nJacob's family gathering tight\nReady to follow Joseph's call\n\n[Chorus]\nSettled in the best part of the land\nFood provided for every child\nPharaoh commanded the dwelling place\nPeace found in the Goshen field\n\n[Verse]\nSixty-six souls came with Jacob\nPlus two born to Joseph in Egypt\nSeventy persons in total count\nGoing down where the famine was\nJoseph gave property to his kin\nIn the district of Rameses they stayed\nClans of Benjamin recorded well\nAhiramite clan stands apart\n\n[Chorus]\nSettled in the best part of the land\nFood provided for every child\nPharaoh commanded the dwelling place\nPeace found in the Goshen field\n\n[Bridge]\nFrom Bela to Ashbel to Ahiram\nThe census counts the men again\nShupham and Hupham keep their names\nA legacy for future days\n\n[Outro]\nEhi son of Benjamin\nRemembered in the genealogy",
+    "cot": "full",
+    "seed": 31416
+  }
+}

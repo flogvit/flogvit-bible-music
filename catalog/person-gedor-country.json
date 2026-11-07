@@ -1,0 +1,74 @@
+{
+  "id": "person-gedor-country",
+  "title": "Quiet and Peaceful",
+  "kind": "person",
+  "anchor": {
+    "person": "gedor"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 37,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 6,
+      "chapter": 15,
+      "verseStart": 58,
+      "verseEnd": 58
+    },
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 39,
+      "verseEnd": 40
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "gedor",
+      "penuel",
+      "jeiel",
+      "jered"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male baritone voice, acoustic guitar, steel guitar, fiddle, upright bass, warm and nostalgic mood, 80 BPM",
+    "lyrics": "[Verse]\nPenuel was the father of Gedor\nEzer the father of Hushah\nSons of Hur the firstborn\nOf Ephrathah the father of Bethlehem\n\n[Chorus]\nGedor in the hill country\nA name in the line of Judah\nA place in the ancient land\nWhere the genealogies are drawn\n\n[Verse]\nMered's wife bore Jered\nThe father of Gedor\nSon of Bithiah Pharaoh's daughter\nIn the lineage of the tribe\n\n[Chorus]\nGedor in the hill country\nA name in the line of Judah\nA place in the ancient land\nWhere the genealogies are drawn\n\n[Bridge]\nThey went to the entrance of Gedor\nTo the east side of the valley\nLooking for pasture for their flocks\nIn the quiet of the hill\n\n[Chorus]\nGedor in the hill country\nA name in the line of Judah\nA place in the ancient land\nWhere the genealogies are drawn\n\n[Outro]\nThe land was broad and quiet\nAnd peaceful for their sheep",
+    "cot": "full",
+    "seed": 31420
+  }
+}

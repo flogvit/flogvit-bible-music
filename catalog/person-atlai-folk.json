@@ -1,0 +1,64 @@
+{
+  "id": "person-atlai-folk",
+  "title": "It Is Our Duty",
+  "kind": "person",
+  "anchor": {
+    "person": "atlai"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 28,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 10,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 16,
+      "verseEnd": 17
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "love"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "atlai",
+      "esra",
+      "bebai"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo, acoustic guitar, cello, soft percussion, mournful and solemn, 80 BPM",
+    "lyrics": "[Verse]\nEzra wept before the house of God\nA large assembly gathered around\nMen and women weeping bitterly\nSin had filled the holy ground\n\n[Pre-Chorus]\nShecaniah spoke up to Ezra's ear\nWe have been unfaithful to God\nYet hope remains for Israel now\nLet us follow the covenant\n\n[Chorus]\nSend away all these foreign wives\nAlong with their children too\nDo it according to the Law\nIt is our duty to do\n\n[Verse]\nEzra stood up and spoke aloud\nYou have added to Israel's guilt\nMake confession to the Lord your God\nDo his will and separate\n\n[Chorus]\nSend away all these foreign wives\nAlong with their children too\nDo it according to the Law\nIt is our duty to do\n\n[Verse]\nHeads of families sat to judge\nExamining each case with care\nFrom the sons of Bebai's line\nAthlai agreed to leave\n\n[Chorus]\nSend away all these foreign wives\nAlong with their children too\nDo it according to the Law\nIt is our duty to do\n\n[Outro]\nThe matter was dealt with\nThe law was kept",
+    "cot": "full",
+    "seed": 31412
+  }
+}

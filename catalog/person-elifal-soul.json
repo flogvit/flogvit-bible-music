@@ -1,0 +1,58 @@
+{
+  "id": "person-elifal-soul",
+  "title": "Strong Support for Kingship",
+  "kind": "person",
+  "anchor": {
+    "person": "elifal"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 11,
+      "verseStart": 35,
+      "verseEnd": 35
+    },
+    {
+      "bookId": 13,
+      "chapter": 11,
+      "verseStart": 10,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 10,
+      "chapter": 23,
+      "verseStart": 33,
+      "verseEnd": 37
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "elifal",
+      "david",
+      "benaja-davids-helt-fra-piraton",
+      "joab"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, soul, deep male solo with warm choir, piano, electric bass, drums, guitar, horn section, reverent and powerful, 85 BPM",
+    "lyrics": "[Verse]\nThese are the chiefs of David's mighty men\nTogether with all Israel they stood\nGiving his kingship strong support\nTo make him king as the LORD had promised\n\n[Chorus]\nEliphal son of Ur is in the list\nOne of the mighty men who served\nLoyal warriors in the royal court\nStrengthening the kingdom of the Lord\n\n[Verse]\nAhiam son of Sachar the Hararite\nStood beside the heroes of the land\nThe brave men who answered the call\nTo guard the throne with steady hands\n\n[Chorus]\nEliphal son of Ur is in the list\nOne of the mighty men who served\nLoyal warriors in the royal court\nStrengthening the kingdom of the Lord\n\n[Bridge]\nJashobeam chief of the officers\nWielded his spear against three hundred\nEleazar son of Dodo the Ahohite\nOne of the three mighty men who stood\n\n[Chorus]\nEliphal son of Ur is in the list\nOne of the mighty men who served\nLoyal warriors in the royal court\nStrengthening the kingdom of the Lord\n\n[Outro]\nRemembered in the record of the days\nEliphal son of Ur in holy praise",
+    "cot": "full",
+    "seed": 31417
+  }
+}

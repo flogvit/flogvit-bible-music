@@ -1,0 +1,63 @@
+{
+  "id": "person-eubulus-ballad",
+  "title": "Eubulus Sends You Greetings",
+  "kind": "person",
+  "anchor": {
+    "person": "eubulus"
+  },
+  "references": [
+    {
+      "bookId": 55,
+      "chapter": 4,
+      "verseStart": 21,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 55,
+      "chapter": 4,
+      "verseStart": 6,
+      "verseEnd": 21
+    },
+    {
+      "bookId": 55,
+      "chapter": 4,
+      "verseStart": 10,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [
+      "paulus",
+      "menigheten",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "eubulus",
+      "paulus",
+      "timoteus",
+      "pudens",
+      "linus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and intimate, piano, acoustic guitar, cello, soft strings, 80 BPM",
+    "lyrics": "[Verse]\nIn the cold Roman cell I wait\nWinter comes before the day is done\nThe world has turned its face away\nBut I have kept the faith\n\n[Chorus]\nEubulus sends you greetings\nAnd so do Pudens and Linus\nClaudia and all the brothers\nGreeting you from Rome\n\n[Verse]\nDemas has gone to Thessalonica\nCrescens has gone to Galatia\nOnly Luke remains with me\nBring Mark for service\n\n[Chorus]\nEubulus sends you greetings\nAnd so do Pudens and Linus\nClaudia and all the brothers\nGreeting you from Rome\n\n[Bridge]\nAt my first defense no one stood by me\nEveryone abandoned me\nBut the Lord stood by me\nAnd gave me strength to speak\n\n[Outro]\nDo your best to come before winter\nEubulus sends you greetings",
+    "cot": "full",
+    "seed": 31418
+  }
+}

@@ -1,0 +1,1234 @@
+{
+ "id": "person-tola-children",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-tola-children",
+ "offset_seconds": -3.08000000000019,
+ "words_heard": 131,
+ "words": 136,
+ "lines": [
+  {
+   "text": "After Abimelech's time was done",
+   "heard": 5,
+   "words": 5,
+   "error_s": 2.67,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Tola son of Puah rose up",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.03,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Son of Dodo in the sun",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.28,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A man of Issachar he was",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.36,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He lived in Shamir it is true",
+   "heard": 7,
+   "words": 7,
+   "error_s": 2.25,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the hill country of Ephraim",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.98,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He brought the peace back to the view",
+   "heard": 8,
+   "words": 8,
+   "error_s": 1.87,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And saved the people from their whim",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.69,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He judged Israel for twenty-three",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Years of quiet and stability",
+   "heard": 3,
+   "words": 5,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He served the land with gentle care",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.35,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A judge who lived without a scare",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.46,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "His lineage from Dodo came",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.27,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From the tribe that knew his name",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.29,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "He exercised his office well",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.33,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the hill where the shadows fell",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.65,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He judged Israel for twenty-three",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.53,
+   "tie_split": true,
+   "uncertain": false
+  },
+  {
+   "text": "Years of quiet and stability",
+   "heard": 3,
+   "words": 5,
+   "error_s": 0.13,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He served the land with gentle care",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A judge who lived without a scare",
+   "heard": 6,
+   "words": 7,
+   "error_s": 0.67,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Then he died and found his rest",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Buried in Shamir where he blessed",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.49,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Af",
+   "time": 14.66,
+   "weight": 0.69,
+   "note_time": 12.33
+  },
+  {
+   "text": "ter",
+   "time": 15.01,
+   "weight": 0.69,
+   "note_time": 12.74
+  },
+  {
+   "text": "A",
+   "time": 16.06,
+   "weight": 0.92,
+   "note_time": 13.15
+  },
+  {
+   "text": "bi",
+   "time": 16.41,
+   "weight": 0.92,
+   "note_time": 13.56
+  },
+  {
+   "text": "me",
+   "time": 16.76,
+   "weight": 0.92,
+   "note_time": 13.77
+  },
+  {
+   "text": "lech's",
+   "time": 17.11,
+   "weight": 0.92,
+   "note_time": 14.18
+  },
+  {
+   "text": "time",
+   "time": 17.46,
+   "weight": 1.0,
+   "note_time": 14.79
+  },
+  {
+   "text": "was",
+   "time": 17.82,
+   "weight": 1.0,
+   "note_time": 15.62
+  },
+  {
+   "text": "done",
+   "time": 18.52,
+   "weight": 1.0,
+   "note_time": 16.03
+  },
+  {
+   "text": "To",
+   "time": 19.02,
+   "weight": 0.09,
+   "note_time": 19.73
+  },
+  {
+   "text": "la",
+   "time": 19.37,
+   "weight": 0.09,
+   "note_time": 19.93
+  },
+  {
+   "text": "son",
+   "time": 22.64,
+   "weight": 0.51,
+   "note_time": 20.96
+  },
+  {
+   "text": "of",
+   "time": 23.04,
+   "weight": 1.0,
+   "note_time": 21.16
+  },
+  {
+   "text": "Puah",
+   "time": 23.74,
+   "weight": 0.68,
+   "note_time": 21.58
+  },
+  {
+   "text": "rose",
+   "time": 24.22,
+   "weight": 0.97,
+   "note_time": 22.19
+  },
+  {
+   "text": "up",
+   "time": 25.04,
+   "weight": 1.0,
+   "note_time": 22.6
+  },
+  {
+   "text": "Son",
+   "time": 28.34,
+   "weight": 0.15,
+   "note_time": 27.12
+  },
+  {
+   "text": "of",
+   "time": 29.66,
+   "weight": 1.0,
+   "note_time": 27.33
+  },
+  {
+   "text": "Do",
+   "time": 30.12,
+   "weight": 0.92,
+   "note_time": 27.74
+  },
+  {
+   "text": "do",
+   "time": 30.45,
+   "weight": 0.92,
+   "note_time": 28.15
+  },
+  {
+   "text": "in",
+   "time": 30.78,
+   "weight": 0.88,
+   "note_time": 28.77
+  },
+  {
+   "text": "the",
+   "time": 31.44,
+   "weight": 1.0,
+   "note_time": 29.18
+  },
+  {
+   "text": "sun",
+   "time": 31.72,
+   "weight": 0.84,
+   "note_time": 30.0
+  },
+  {
+   "text": "A",
+   "time": 32.7,
+   "weight": 0.31,
+   "note_time": 32.67
+  },
+  {
+   "text": "man",
+   "time": 35.24,
+   "weight": 0.98,
+   "note_time": 32.88
+  },
+  {
+   "text": "of",
+   "time": 35.58,
+   "weight": 1.0,
+   "note_time": 33.29
+  },
+  {
+   "text": "Is",
+   "time": 35.94,
+   "weight": 0.97,
+   "note_time": 33.49
+  },
+  {
+   "text": "sac",
+   "time": 36.29,
+   "weight": 0.97,
+   "note_time": 33.9
+  },
+  {
+   "text": "har",
+   "time": 36.64,
+   "weight": 0.97,
+   "note_time": 34.11
+  },
+  {
+   "text": "he",
+   "time": 37.0,
+   "weight": 0.66,
+   "note_time": 35.34
+  },
+  {
+   "text": "was",
+   "time": 37.84,
+   "weight": 1.0,
+   "note_time": 35.75
+  },
+  {
+   "text": "He",
+   "time": 41.26,
+   "weight": 0.96,
+   "note_time": 40.07
+  },
+  {
+   "text": "lived",
+   "time": 42.58,
+   "weight": 1.0,
+   "note_time": 40.27
+  },
+  {
+   "text": "in",
+   "time": 42.86,
+   "weight": 1.0,
+   "note_time": 40.48
+  },
+  {
+   "text": "Sha",
+   "time": 43.28,
+   "weight": 0.94,
+   "note_time": 41.1
+  },
+  {
+   "text": "mir",
+   "time": 43.63,
+   "weight": 0.94,
+   "note_time": 41.3
+  },
+  {
+   "text": "it",
+   "time": 44.08,
+   "weight": 0.99,
+   "note_time": 41.92
+  },
+  {
+   "text": "is",
+   "time": 44.5,
+   "weight": 0.99,
+   "note_time": 42.12
+  },
+  {
+   "text": "true",
+   "time": 44.7,
+   "weight": 1.0,
+   "note_time": 42.74
+  },
+  {
+   "text": "In",
+   "time": 48.0,
+   "weight": 0.97,
+   "note_time": 46.85
+  },
+  {
+   "text": "the",
+   "time": 49.32,
+   "weight": 1.0,
+   "note_time": 47.26
+  },
+  {
+   "text": "hill",
+   "time": 49.56,
+   "weight": 0.99,
+   "note_time": 47.47
+  },
+  {
+   "text": "coun",
+   "time": 49.98,
+   "weight": 0.96,
+   "note_time": 48.08
+  },
+  {
+   "text": "try",
+   "time": 50.33,
+   "weight": 0.96,
+   "note_time": 48.49
+  },
+  {
+   "text": "of",
+   "time": 50.74,
+   "weight": 1.0,
+   "note_time": 48.9
+  },
+  {
+   "text": "Ep",
+   "time": 51.38,
+   "weight": 0.99,
+   "note_time": 49.11
+  },
+  {
+   "text": "hraim",
+   "time": 51.73,
+   "weight": 0.99,
+   "note_time": 49.52
+  },
+  {
+   "text": "He",
+   "time": 54.1,
+   "weight": 0.58,
+   "note_time": 53.22
+  },
+  {
+   "text": "brought",
+   "time": 55.4,
+   "weight": 0.95,
+   "note_time": 53.42
+  },
+  {
+   "text": "the",
+   "time": 55.74,
+   "weight": 0.97,
+   "note_time": 53.84
+  },
+  {
+   "text": "peace",
+   "time": 56.08,
+   "weight": 0.99,
+   "note_time": 54.04
+  },
+  {
+   "text": "back",
+   "time": 56.5,
+   "weight": 1.0,
+   "note_time": 54.66
+  },
+  {
+   "text": "to",
+   "time": 57.02,
+   "weight": 1.0,
+   "note_time": 55.07
+  },
+  {
+   "text": "the",
+   "time": 57.32,
+   "weight": 0.99,
+   "note_time": 55.48
+  },
+  {
+   "text": "view",
+   "time": 57.72,
+   "weight": 0.59,
+   "note_time": 56.3
+  },
+  {
+   "text": "And",
+   "time": 58.56,
+   "weight": 0.71,
+   "note_time": 58.97
+  },
+  {
+   "text": "saved",
+   "time": 59.6,
+   "weight": 0.39,
+   "note_time": 59.18
+  },
+  {
+   "text": "the",
+   "time": 61.54,
+   "weight": 1.0,
+   "note_time": 59.59
+  },
+  {
+   "text": "peo",
+   "time": 61.84,
+   "weight": 1.0,
+   "note_time": 59.79
+  },
+  {
+   "text": "ple",
+   "time": 62.1,
+   "weight": 1.0,
+   "note_time": 60.21
+  },
+  {
+   "text": "from",
+   "time": 62.36,
+   "weight": 1.0,
+   "note_time": 60.82
+  },
+  {
+   "text": "their",
+   "time": 63.04,
+   "weight": 1.0,
+   "note_time": 61.44
+  },
+  {
+   "text": "whim",
+   "time": 63.74,
+   "weight": 0.97,
+   "note_time": 62.05
+  },
+  {
+   "text": "He",
+   "time": 65.84,
+   "weight": 0.96,
+   "note_time": 64.93
+  },
+  {
+   "text": "judged",
+   "time": 67.14,
+   "weight": 0.99,
+   "note_time": 65.75
+  },
+  {
+   "text": "Is",
+   "time": 67.6,
+   "weight": 1.0,
+   "note_time": 66.58
+  },
+  {
+   "text": "rael",
+   "time": 67.95,
+   "weight": 1.0,
+   "note_time": 67.4
+  },
+  {
+   "text": "for",
+   "time": 68.74,
+   "weight": 0.96,
+   "note_time": 68.22
+  },
+  {
+   "text": "twen-",
+   "time": 69.52,
+   "weight": 0.89,
+   "note_time": 68.63
+  },
+  {
+   "text": "ty-",
+   "time": 69.87,
+   "weight": 0.89,
+   "note_time": 71.51
+  },
+  {
+   "text": "three",
+   "time": 70.22,
+   "weight": 0.89,
+   "note_time": 71.92
+  },
+  {
+   "text": "Years",
+   "time": 70.64,
+   "weight": 0.39,
+   "note_time": 72.12
+  },
+  {
+   "text": "of",
+   "time": 73.62,
+   "weight": 1.0,
+   "note_time": 72.74
+  },
+  {
+   "text": "qui",
+   "time": 74.02,
+   "weight": 1.0,
+   "note_time": 72.95
+  },
+  {
+   "text": "et",
+   "time": 74.21,
+   "weight": 1.0,
+   "note_time": 73.56
+  },
+  {
+   "text": "and",
+   "time": 74.43,
+   "weight": 0.0,
+   "note_time": 73.97
+  },
+  {
+   "text": "sta",
+   "time": 74.64,
+   "weight": 0.0,
+   "note_time": 74.79
+  },
+  {
+   "text": "bil",
+   "time": 74.86,
+   "weight": 0.0,
+   "note_time": 75.21
+  },
+  {
+   "text": "i",
+   "time": 75.07,
+   "weight": 0.0,
+   "note_time": 75.82
+  },
+  {
+   "text": "ty",
+   "time": 75.29,
+   "weight": 0.0,
+   "note_time": 76.03
+  },
+  {
+   "text": "He",
+   "time": 75.5,
+   "weight": 0.06,
+   "note_time": 77.88
+  },
+  {
+   "text": "served",
+   "time": 77.32,
+   "weight": 0.36,
+   "note_time": 78.08
+  },
+  {
+   "text": "the",
+   "time": 80.08,
+   "weight": 0.99,
+   "note_time": 78.7
+  },
+  {
+   "text": "land",
+   "time": 80.5,
+   "weight": 0.99,
+   "note_time": 78.9
+  },
+  {
+   "text": "with",
+   "time": 80.96,
+   "weight": 0.98,
+   "note_time": 80.14
+  },
+  {
+   "text": "gen",
+   "time": 82.14,
+   "weight": 0.99,
+   "note_time": 80.55
+  },
+  {
+   "text": "tle",
+   "time": 82.48,
+   "weight": 0.99,
+   "note_time": 81.16
+  },
+  {
+   "text": "care",
+   "time": 82.82,
+   "weight": 1.0,
+   "note_time": 81.78
+  },
+  {
+   "text": "A",
+   "time": 83.74,
+   "weight": 0.24,
+   "note_time": 84.45
+  },
+  {
+   "text": "judge",
+   "time": 85.56,
+   "weight": 0.79,
+   "note_time": 84.66
+  },
+  {
+   "text": "who",
+   "time": 86.6,
+   "weight": 1.0,
+   "note_time": 85.07
+  },
+  {
+   "text": "lived",
+   "time": 86.98,
+   "weight": 1.0,
+   "note_time": 85.48
+  },
+  {
+   "text": "with",
+   "time": 87.48,
+   "weight": 0.4,
+   "note_time": 86.92
+  },
+  {
+   "text": "out",
+   "time": 87.83,
+   "weight": 0.4,
+   "note_time": 87.12
+  },
+  {
+   "text": "a",
+   "time": 89.14,
+   "weight": 0.99,
+   "note_time": 87.95
+  },
+  {
+   "text": "scare",
+   "time": 89.82,
+   "weight": 1.0,
+   "note_time": 88.36
+  },
+  {
+   "text": "His",
+   "time": 96.56,
+   "weight": 0.15,
+   "note_time": 95.96
+  },
+  {
+   "text": "lin",
+   "time": 97.6,
+   "weight": 0.99,
+   "note_time": 96.37
+  },
+  {
+   "text": "eage",
+   "time": 97.87,
+   "weight": 0.99,
+   "note_time": 96.58
+  },
+  {
+   "text": "from",
+   "time": 98.14,
+   "weight": 0.99,
+   "note_time": 97.4
+  },
+  {
+   "text": "Do",
+   "time": 99.1,
+   "weight": 0.75,
+   "note_time": 97.81
+  },
+  {
+   "text": "do",
+   "time": 99.39,
+   "weight": 0.75,
+   "note_time": 98.01
+  },
+  {
+   "text": "came",
+   "time": 99.68,
+   "weight": 0.98,
+   "note_time": 98.42
+  },
+  {
+   "text": "From",
+   "time": 100.14,
+   "weight": 0.32,
+   "note_time": 102.74
+  },
+  {
+   "text": "the",
+   "time": 104.24,
+   "weight": 0.98,
+   "note_time": 103.15
+  },
+  {
+   "text": "tribe",
+   "time": 104.7,
+   "weight": 0.97,
+   "note_time": 103.36
+  },
+  {
+   "text": "that",
+   "time": 105.2,
+   "weight": 0.96,
+   "note_time": 103.97
+  },
+  {
+   "text": "knew",
+   "time": 105.62,
+   "weight": 1.0,
+   "note_time": 104.18
+  },
+  {
+   "text": "his",
+   "time": 105.86,
+   "weight": 0.76,
+   "note_time": 104.59
+  },
+  {
+   "text": "name",
+   "time": 106.3,
+   "weight": 1.0,
+   "note_time": 105.0
+  },
+  {
+   "text": "He",
+   "time": 109.72,
+   "weight": 0.95,
+   "note_time": 109.11
+  },
+  {
+   "text": "ex",
+   "time": 110.76,
+   "weight": 0.98,
+   "note_time": 109.32
+  },
+  {
+   "text": "er",
+   "time": 111.11,
+   "weight": 0.98,
+   "note_time": 109.52
+  },
+  {
+   "text": "cised",
+   "time": 111.45,
+   "weight": 0.98,
+   "note_time": 109.93
+  },
+  {
+   "text": "his",
+   "time": 111.8,
+   "weight": 0.96,
+   "note_time": 110.55
+  },
+  {
+   "text": "of",
+   "time": 112.16,
+   "weight": 0.97,
+   "note_time": 110.75
+  },
+  {
+   "text": "fice",
+   "time": 112.41,
+   "weight": 0.97,
+   "note_time": 111.16
+  },
+  {
+   "text": "well",
+   "time": 112.66,
+   "weight": 0.94,
+   "note_time": 112.19
+  },
+  {
+   "text": "In",
+   "time": 113.74,
+   "weight": 0.37,
+   "note_time": 114.66
+  },
+  {
+   "text": "the",
+   "time": 116.2,
+   "weight": 0.97,
+   "note_time": 115.07
+  },
+  {
+   "text": "hill",
+   "time": 116.3,
+   "weight": 0.98,
+   "note_time": 115.89
+  },
+  {
+   "text": "where",
+   "time": 116.72,
+   "weight": 0.98,
+   "note_time": 116.3
+  },
+  {
+   "text": "the",
+   "time": 117.36,
+   "weight": 1.0,
+   "note_time": 116.71
+  },
+  {
+   "text": "shad",
+   "time": 117.74,
+   "weight": 0.99,
+   "note_time": 116.92
+  },
+  {
+   "text": "ows",
+   "time": 118.07,
+   "weight": 0.99,
+   "note_time": 117.12
+  },
+  {
+   "text": "fell",
+   "time": 118.4,
+   "weight": 1.0,
+   "note_time": 117.95
+  },
+  {
+   "text": "He",
+   "time": 119.42,
+   "weight": 0.36,
+   "note_time": 120.82
+  },
+  {
+   "text": "judged",
+   "time": 122.12,
+   "weight": 0.98,
+   "note_time": 121.23
+  },
+  {
+   "text": "Is",
+   "time": 122.7,
+   "weight": 1.0,
+   "note_time": 121.64
+  },
+  {
+   "text": "rael",
+   "time": 123.05,
+   "weight": 1.0,
+   "note_time": 122.47
+  },
+  {
+   "text": "for",
+   "time": 123.82,
+   "weight": 0.86,
+   "note_time": 123.29
+  },
+  {
+   "text": "twen-",
+   "time": 124.64,
+   "weight": 0.93,
+   "note_time": 124.11
+  },
+  {
+   "text": "ty-",
+   "time": 124.99,
+   "weight": 0.93,
+   "note_time": 124.52
+  },
+  {
+   "text": "three",
+   "time": 125.34,
+   "weight": 0.93,
+   "note_time": 124.93
+  },
+  {
+   "text": "Years",
+   "time": 127.4,
+   "weight": 0.92,
+   "note_time": 127.4
+  },
+  {
+   "text": "of",
+   "time": 128.8,
+   "weight": 1.0,
+   "note_time": 128.63
+  },
+  {
+   "text": "qui",
+   "time": 129.18,
+   "weight": 0.99,
+   "note_time": 128.84
+  },
+  {
+   "text": "et",
+   "time": 129.36,
+   "weight": 0.99,
+   "note_time": 129.45
+  },
+  {
+   "text": "and",
+   "time": 129.9,
+   "weight": 0.0,
+   "note_time": 129.86
+  },
+  {
+   "text": "sta",
+   "time": 130.44,
+   "weight": 0.0,
+   "note_time": 130.68
+  },
+  {
+   "text": "bil",
+   "time": 130.98,
+   "weight": 0.0,
+   "note_time": 131.1
+  },
+  {
+   "text": "i",
+   "time": 131.52,
+   "weight": 0.0,
+   "note_time": 131.71
+  },
+  {
+   "text": "ty",
+   "time": 132.06,
+   "weight": 0.0,
+   "note_time": 131.92
+  },
+  {
+   "text": "He",
+   "time": 132.6,
+   "weight": 0.95,
+   "note_time": 133.77
+  },
+  {
+   "text": "served",
+   "time": 134.0,
+   "weight": 1.0,
+   "note_time": 133.97
+  },
+  {
+   "text": "the",
+   "time": 135.4,
+   "weight": 0.99,
+   "note_time": 134.59
+  },
+  {
+   "text": "land",
+   "time": 135.64,
+   "weight": 0.99,
+   "note_time": 134.79
+  },
+  {
+   "text": "with",
+   "time": 136.2,
+   "weight": 0.99,
+   "note_time": 136.03
+  },
+  {
+   "text": "gen",
+   "time": 137.28,
+   "weight": 1.0,
+   "note_time": 136.44
+  },
+  {
+   "text": "tle",
+   "time": 137.61,
+   "weight": 1.0,
+   "note_time": 137.05
+  },
+  {
+   "text": "care",
+   "time": 137.94,
+   "weight": 1.0,
+   "note_time": 137.67
+  },
+  {
+   "text": "A",
+   "time": 139.17,
+   "weight": 0.0,
+   "note_time": 140.34
+  },
+  {
+   "text": "judge",
+   "time": 140.4,
+   "weight": 0.75,
+   "note_time": 140.55
+  },
+  {
+   "text": "who",
+   "time": 141.78,
+   "weight": 0.99,
+   "note_time": 140.96
+  },
+  {
+   "text": "lived",
+   "time": 142.14,
+   "weight": 0.99,
+   "note_time": 141.37
+  },
+  {
+   "text": "with",
+   "time": 142.66,
+   "weight": 0.4,
+   "note_time": 142.81
+  },
+  {
+   "text": "out",
+   "time": 143.01,
+   "weight": 0.4,
+   "note_time": 143.01
+  },
+  {
+   "text": "a",
+   "time": 144.16,
+   "weight": 0.99,
+   "note_time": 143.84
+  },
+  {
+   "text": "scare",
+   "time": 144.92,
+   "weight": 1.0,
+   "note_time": 144.25
+  },
+  {
+   "text": "Then",
+   "time": 151.94,
+   "weight": 0.62,
+   "note_time": 152.05
+  },
+  {
+   "text": "he",
+   "time": 152.94,
+   "weight": 0.7,
+   "note_time": 152.26
+  },
+  {
+   "text": "died",
+   "time": 153.3,
+   "weight": 1.0,
+   "note_time": 152.67
+  },
+  {
+   "text": "and",
+   "time": 153.72,
+   "weight": 0.98,
+   "note_time": 153.29
+  },
+  {
+   "text": "found",
+   "time": 154.24,
+   "weight": 1.0,
+   "note_time": 153.49
+  },
+  {
+   "text": "his",
+   "time": 154.68,
+   "weight": 0.97,
+   "note_time": 154.11
+  },
+  {
+   "text": "rest",
+   "time": 155.16,
+   "weight": 1.0,
+   "note_time": 154.93
+  },
+  {
+   "text": "Bu",
+   "time": 158.8,
+   "weight": 0.95,
+   "note_time": 158.63
+  },
+  {
+   "text": "ried",
+   "time": 159.15,
+   "weight": 0.95,
+   "note_time": 158.84
+  },
+  {
+   "text": "in",
+   "time": 159.8,
+   "weight": 1.0,
+   "note_time": 159.04
+  },
+  {
+   "text": "Sha",
+   "time": 160.12,
+   "weight": 0.91,
+   "note_time": 159.45
+  },
+  {
+   "text": "mir",
+   "time": 160.47,
+   "weight": 0.91,
+   "note_time": 159.66
+  },
+  {
+   "text": "where",
+   "time": 160.94,
+   "weight": 0.86,
+   "note_time": 160.27
+  },
+  {
+   "text": "he",
+   "time": 161.4,
+   "weight": 0.97,
+   "note_time": 161.1
+  },
+  {
+   "text": "blessed",
+   "time": 161.9,
+   "weight": 0.55,
+   "note_time": 161.92
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "9 of 22 lyric lines sit clearly on their notes; 13 are uncertain and printed in grey italics."
+}

@@ -1,0 +1,1074 @@
+{
+ "id": "person-simon-seloten-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-simon-seloten-hymn",
+ "offset_seconds": -6.520000000000117,
+ "words_heard": 115,
+ "words": 115,
+ "lines": [
+  {
+   "text": "When day came he called his disciples near",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He chose twelve of them to draw him near",
+   "heard": 9,
+   "words": 9,
+   "error_s": 0.51,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Simon whom he named the Cananaean",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Stood within the list of those chosen",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Gave them power over all demons there",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And authority to heal the pain",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sent them out to proclaim the kingdom",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.77,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of God and heal the sick again",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.38,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "In the upper room they gathered close",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.0,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "With one mind they devoted themselves to prayer",
+   "heard": 8,
+   "words": 8,
+   "error_s": 0.88,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Peter John and James and Andrew",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.87,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Philip Thomas Bartholomew and more",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.36,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Matthew James and Simon the Zealot",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.19,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Judas son of James were there",
+   "heard": 7,
+   "words": 7,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Mary the mother of Jesus too",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.42,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And his brothers joined in prayer",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.1,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Simon the Cananaean stands in the list",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.15,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "When",
+   "time": 19.58,
+   "weight": 0.34,
+   "note_time": 19.58
+  },
+  {
+   "text": "day",
+   "time": 20.94,
+   "weight": 0.99,
+   "note_time": 20.0
+  },
+  {
+   "text": "came",
+   "time": 21.44,
+   "weight": 1.0,
+   "note_time": 20.83
+  },
+  {
+   "text": "he",
+   "time": 22.16,
+   "weight": 0.18,
+   "note_time": 21.25
+  },
+  {
+   "text": "called",
+   "time": 22.64,
+   "weight": 1.0,
+   "note_time": 21.46
+  },
+  {
+   "text": "his",
+   "time": 23.36,
+   "weight": 0.94,
+   "note_time": 22.08
+  },
+  {
+   "text": "dis",
+   "time": 24.0,
+   "weight": 0.99,
+   "note_time": 22.92
+  },
+  {
+   "text": "ci",
+   "time": 24.28,
+   "weight": 0.99,
+   "note_time": 24.58
+  },
+  {
+   "text": "ples",
+   "time": 24.56,
+   "weight": 0.99,
+   "note_time": 24.79
+  },
+  {
+   "text": "near",
+   "time": 24.84,
+   "weight": 0.99,
+   "note_time": 25.42
+  },
+  {
+   "text": "He",
+   "time": 26.0,
+   "weight": 0.7,
+   "note_time": 26.25
+  },
+  {
+   "text": "chose",
+   "time": 27.46,
+   "weight": 0.99,
+   "note_time": 26.46
+  },
+  {
+   "text": "twelve",
+   "time": 27.9,
+   "weight": 0.86,
+   "note_time": 28.12
+  },
+  {
+   "text": "of",
+   "time": 28.58,
+   "weight": 1.0,
+   "note_time": 28.33
+  },
+  {
+   "text": "them",
+   "time": 29.26,
+   "weight": 1.0,
+   "note_time": 28.75
+  },
+  {
+   "text": "to",
+   "time": 29.54,
+   "weight": 0.95,
+   "note_time": 29.58
+  },
+  {
+   "text": "draw",
+   "time": 30.92,
+   "weight": 1.0,
+   "note_time": 31.67
+  },
+  {
+   "text": "him",
+   "time": 31.26,
+   "weight": 0.97,
+   "note_time": 32.08
+  },
+  {
+   "text": "near",
+   "time": 31.72,
+   "weight": 1.0,
+   "note_time": 32.29
+  },
+  {
+   "text": "Si",
+   "time": 32.54,
+   "weight": 0.08,
+   "note_time": 32.92
+  },
+  {
+   "text": "mon",
+   "time": 32.89,
+   "weight": 0.08,
+   "note_time": 33.12
+  },
+  {
+   "text": "whom",
+   "time": 34.62,
+   "weight": 0.98,
+   "note_time": 34.58
+  },
+  {
+   "text": "he",
+   "time": 35.08,
+   "weight": 0.62,
+   "note_time": 34.79
+  },
+  {
+   "text": "named",
+   "time": 35.64,
+   "weight": 0.99,
+   "note_time": 35.83
+  },
+  {
+   "text": "the",
+   "time": 36.58,
+   "weight": 0.76,
+   "note_time": 36.25
+  },
+  {
+   "text": "Ca",
+   "time": 37.24,
+   "weight": 0.28,
+   "note_time": 37.08
+  },
+  {
+   "text": "na",
+   "time": 37.59,
+   "weight": 0.28,
+   "note_time": 37.29
+  },
+  {
+   "text": "naean",
+   "time": 37.94,
+   "weight": 0.28,
+   "note_time": 38.33
+  },
+  {
+   "text": "Stood",
+   "time": 39.14,
+   "weight": 0.32,
+   "note_time": 38.96
+  },
+  {
+   "text": "with",
+   "time": 40.68,
+   "weight": 0.99,
+   "note_time": 39.58
+  },
+  {
+   "text": "in",
+   "time": 41.03,
+   "weight": 0.99,
+   "note_time": 39.79
+  },
+  {
+   "text": "the",
+   "time": 41.42,
+   "weight": 1.0,
+   "note_time": 42.08
+  },
+  {
+   "text": "list",
+   "time": 42.1,
+   "weight": 0.96,
+   "note_time": 42.29
+  },
+  {
+   "text": "of",
+   "time": 42.7,
+   "weight": 0.39,
+   "note_time": 42.92
+  },
+  {
+   "text": "those",
+   "time": 44.34,
+   "weight": 0.99,
+   "note_time": 43.75
+  },
+  {
+   "text": "cho",
+   "time": 44.94,
+   "weight": 0.99,
+   "note_time": 45.83
+  },
+  {
+   "text": "sen",
+   "time": 45.29,
+   "weight": 0.99,
+   "note_time": 46.25
+  },
+  {
+   "text": "Gave",
+   "time": 46.54,
+   "weight": 0.22,
+   "note_time": 46.67
+  },
+  {
+   "text": "them",
+   "time": 48.38,
+   "weight": 0.99,
+   "note_time": 47.08
+  },
+  {
+   "text": "pow",
+   "time": 48.68,
+   "weight": 0.99,
+   "note_time": 47.29
+  },
+  {
+   "text": "er",
+   "time": 48.89,
+   "weight": 0.99,
+   "note_time": 47.92
+  },
+  {
+   "text": "o",
+   "time": 49.1,
+   "weight": 1.0,
+   "note_time": 48.12
+  },
+  {
+   "text": "ver",
+   "time": 49.45,
+   "weight": 1.0,
+   "note_time": 48.96
+  },
+  {
+   "text": "all",
+   "time": 50.0,
+   "weight": 1.0,
+   "note_time": 49.38
+  },
+  {
+   "text": "de",
+   "time": 50.6,
+   "weight": 0.99,
+   "note_time": 50.0
+  },
+  {
+   "text": "mons",
+   "time": 50.95,
+   "weight": 0.99,
+   "note_time": 52.92
+  },
+  {
+   "text": "there",
+   "time": 51.56,
+   "weight": 0.87,
+   "note_time": 53.12
+  },
+  {
+   "text": "And",
+   "time": 52.92,
+   "weight": 0.33,
+   "note_time": 53.33
+  },
+  {
+   "text": "au",
+   "time": 54.96,
+   "weight": 0.99,
+   "note_time": 53.75
+  },
+  {
+   "text": "thor",
+   "time": 55.12,
+   "weight": 0.99,
+   "note_time": 53.96
+  },
+  {
+   "text": "i",
+   "time": 55.27,
+   "weight": 0.99,
+   "note_time": 54.58
+  },
+  {
+   "text": "ty",
+   "time": 55.43,
+   "weight": 0.99,
+   "note_time": 54.79
+  },
+  {
+   "text": "to",
+   "time": 55.58,
+   "weight": 1.0,
+   "note_time": 55.42
+  },
+  {
+   "text": "heal",
+   "time": 56.72,
+   "weight": 1.0,
+   "note_time": 56.25
+  },
+  {
+   "text": "the",
+   "time": 57.18,
+   "weight": 0.97,
+   "note_time": 56.46
+  },
+  {
+   "text": "pain",
+   "time": 58.32,
+   "weight": 0.99,
+   "note_time": 59.17
+  },
+  {
+   "text": "Sent",
+   "time": 58.74,
+   "weight": 0.06,
+   "note_time": 59.58
+  },
+  {
+   "text": "them",
+   "time": 61.14,
+   "weight": 0.99,
+   "note_time": 59.79
+  },
+  {
+   "text": "out",
+   "time": 61.58,
+   "weight": 1.0,
+   "note_time": 60.83
+  },
+  {
+   "text": "to",
+   "time": 62.04,
+   "weight": 0.97,
+   "note_time": 61.25
+  },
+  {
+   "text": "pro",
+   "time": 62.78,
+   "weight": 0.99,
+   "note_time": 61.46
+  },
+  {
+   "text": "claim",
+   "time": 63.1,
+   "weight": 0.99,
+   "note_time": 62.5
+  },
+  {
+   "text": "the",
+   "time": 63.42,
+   "weight": 0.96,
+   "note_time": 62.92
+  },
+  {
+   "text": "kin",
+   "time": 64.48,
+   "weight": 0.79,
+   "note_time": 63.75
+  },
+  {
+   "text": "gdom",
+   "time": 64.83,
+   "weight": 0.79,
+   "note_time": 63.96
+  },
+  {
+   "text": "Of",
+   "time": 65.24,
+   "weight": 0.75,
+   "note_time": 66.25
+  },
+  {
+   "text": "God",
+   "time": 66.3,
+   "weight": 0.4,
+   "note_time": 66.46
+  },
+  {
+   "text": "and",
+   "time": 68.46,
+   "weight": 0.61,
+   "note_time": 67.08
+  },
+  {
+   "text": "heal",
+   "time": 68.92,
+   "weight": 0.99,
+   "note_time": 67.29
+  },
+  {
+   "text": "the",
+   "time": 69.3,
+   "weight": 1.0,
+   "note_time": 67.92
+  },
+  {
+   "text": "sick",
+   "time": 69.74,
+   "weight": 1.0,
+   "note_time": 68.33
+  },
+  {
+   "text": "a",
+   "time": 70.18,
+   "weight": 0.98,
+   "note_time": 69.58
+  },
+  {
+   "text": "gain",
+   "time": 70.53,
+   "weight": 0.98,
+   "note_time": 69.79
+  },
+  {
+   "text": "In",
+   "time": 75.14,
+   "weight": 0.66,
+   "note_time": 75.0
+  },
+  {
+   "text": "the",
+   "time": 76.54,
+   "weight": 1.0,
+   "note_time": 75.42
+  },
+  {
+   "text": "up",
+   "time": 76.94,
+   "weight": 0.97,
+   "note_time": 75.62
+  },
+  {
+   "text": "per",
+   "time": 77.2,
+   "weight": 0.97,
+   "note_time": 76.04
+  },
+  {
+   "text": "room",
+   "time": 77.46,
+   "weight": 1.0,
+   "note_time": 76.46
+  },
+  {
+   "text": "they",
+   "time": 78.24,
+   "weight": 0.75,
+   "note_time": 77.92
+  },
+  {
+   "text": "gath",
+   "time": 79.42,
+   "weight": 0.99,
+   "note_time": 78.33
+  },
+  {
+   "text": "ered",
+   "time": 79.71,
+   "weight": 0.99,
+   "note_time": 78.75
+  },
+  {
+   "text": "close",
+   "time": 80.0,
+   "weight": 1.0,
+   "note_time": 79.58
+  },
+  {
+   "text": "With",
+   "time": 81.08,
+   "weight": 0.86,
+   "note_time": 81.04
+  },
+  {
+   "text": "one",
+   "time": 82.16,
+   "weight": 1.0,
+   "note_time": 81.25
+  },
+  {
+   "text": "mind",
+   "time": 82.72,
+   "weight": 1.0,
+   "note_time": 81.67
+  },
+  {
+   "text": "they",
+   "time": 83.28,
+   "weight": 0.95,
+   "note_time": 82.08
+  },
+  {
+   "text": "de",
+   "time": 83.5,
+   "weight": 1.0,
+   "note_time": 82.29
+  },
+  {
+   "text": "vot",
+   "time": 83.77,
+   "weight": 1.0,
+   "note_time": 82.92
+  },
+  {
+   "text": "ed",
+   "time": 84.03,
+   "weight": 1.0,
+   "note_time": 83.12
+  },
+  {
+   "text": "them",
+   "time": 84.3,
+   "weight": 1.0,
+   "note_time": 83.75
+  },
+  {
+   "text": "selves",
+   "time": 84.65,
+   "weight": 1.0,
+   "note_time": 84.58
+  },
+  {
+   "text": "to",
+   "time": 85.22,
+   "weight": 0.4,
+   "note_time": 85.83
+  },
+  {
+   "text": "prayer",
+   "time": 87.06,
+   "weight": 0.99,
+   "note_time": 86.25
+  },
+  {
+   "text": "Pe",
+   "time": 87.6,
+   "weight": 0.26,
+   "note_time": 88.33
+  },
+  {
+   "text": "ter",
+   "time": 87.95,
+   "weight": 0.26,
+   "note_time": 88.54
+  },
+  {
+   "text": "John",
+   "time": 89.8,
+   "weight": 1.0,
+   "note_time": 88.96
+  },
+  {
+   "text": "and",
+   "time": 90.5,
+   "weight": 0.62,
+   "note_time": 89.58
+  },
+  {
+   "text": "James",
+   "time": 90.9,
+   "weight": 1.0,
+   "note_time": 90.0
+  },
+  {
+   "text": "and",
+   "time": 91.96,
+   "weight": 0.92,
+   "note_time": 91.67
+  },
+  {
+   "text": "An",
+   "time": 93.0,
+   "weight": 0.4,
+   "note_time": 92.92
+  },
+  {
+   "text": "drew",
+   "time": 93.35,
+   "weight": 0.4,
+   "note_time": 93.75
+  },
+  {
+   "text": "Phi",
+   "time": 94.82,
+   "weight": 0.63,
+   "note_time": 95.0
+  },
+  {
+   "text": "lip",
+   "time": 95.17,
+   "weight": 0.63,
+   "note_time": 95.21
+  },
+  {
+   "text": "Tho",
+   "time": 96.24,
+   "weight": 1.0,
+   "note_time": 95.62
+  },
+  {
+   "text": "mas",
+   "time": 96.59,
+   "weight": 1.0,
+   "note_time": 96.04
+  },
+  {
+   "text": "Bar",
+   "time": 97.1,
+   "weight": 0.39,
+   "note_time": 96.67
+  },
+  {
+   "text": "tho",
+   "time": 97.45,
+   "weight": 0.39,
+   "note_time": 97.5
+  },
+  {
+   "text": "lo",
+   "time": 97.8,
+   "weight": 0.39,
+   "note_time": 97.92
+  },
+  {
+   "text": "mew",
+   "time": 98.15,
+   "weight": 0.39,
+   "note_time": 98.12
+  },
+  {
+   "text": "and",
+   "time": 99.26,
+   "weight": 1.0,
+   "note_time": 99.17
+  },
+  {
+   "text": "more",
+   "time": 100.2,
+   "weight": 0.99,
+   "note_time": 99.58
+  },
+  {
+   "text": "Mat",
+   "time": 103.3,
+   "weight": 0.9,
+   "note_time": 103.33
+  },
+  {
+   "text": "thew",
+   "time": 103.65,
+   "weight": 0.9,
+   "note_time": 103.75
+  },
+  {
+   "text": "James",
+   "time": 104.5,
+   "weight": 1.0,
+   "note_time": 103.96
+  },
+  {
+   "text": "and",
+   "time": 105.3,
+   "weight": 0.98,
+   "note_time": 104.58
+  },
+  {
+   "text": "Si",
+   "time": 105.42,
+   "weight": 1.0,
+   "note_time": 104.79
+  },
+  {
+   "text": "mon",
+   "time": 105.77,
+   "weight": 1.0,
+   "note_time": 105.42
+  },
+  {
+   "text": "the",
+   "time": 106.12,
+   "weight": 0.8,
+   "note_time": 106.04
+  },
+  {
+   "text": "Zea",
+   "time": 106.86,
+   "weight": 0.88,
+   "note_time": 106.67
+  },
+  {
+   "text": "lot",
+   "time": 107.21,
+   "weight": 0.88,
+   "note_time": 107.29
+  },
+  {
+   "text": "And",
+   "time": 108.06,
+   "weight": 0.34,
+   "note_time": 109.58
+  },
+  {
+   "text": "Ju",
+   "time": 110.2,
+   "weight": 0.8,
+   "note_time": 110.0
+  },
+  {
+   "text": "das",
+   "time": 110.51,
+   "weight": 0.8,
+   "note_time": 110.42
+  },
+  {
+   "text": "son",
+   "time": 110.84,
+   "weight": 0.96,
+   "note_time": 110.62
+  },
+  {
+   "text": "of",
+   "time": 111.62,
+   "weight": 1.0,
+   "note_time": 111.25
+  },
+  {
+   "text": "James",
+   "time": 111.9,
+   "weight": 1.0,
+   "note_time": 111.46
+  },
+  {
+   "text": "were",
+   "time": 112.52,
+   "weight": 1.0,
+   "note_time": 112.5
+  },
+  {
+   "text": "there",
+   "time": 113.04,
+   "weight": 1.0,
+   "note_time": 112.71
+  },
+  {
+   "text": "Ma",
+   "time": 115.7,
+   "weight": 0.77,
+   "note_time": 116.67
+  },
+  {
+   "text": "ry",
+   "time": 116.05,
+   "weight": 0.77,
+   "note_time": 117.08
+  },
+  {
+   "text": "the",
+   "time": 117.54,
+   "weight": 0.99,
+   "note_time": 117.92
+  },
+  {
+   "text": "moth",
+   "time": 118.3,
+   "weight": 0.93,
+   "note_time": 118.12
+  },
+  {
+   "text": "er",
+   "time": 118.62,
+   "weight": 0.93,
+   "note_time": 118.54
+  },
+  {
+   "text": "of",
+   "time": 118.94,
+   "weight": 1.0,
+   "note_time": 119.58
+  },
+  {
+   "text": "Je",
+   "time": 120.06,
+   "weight": 1.0,
+   "note_time": 120.0
+  },
+  {
+   "text": "sus",
+   "time": 120.41,
+   "weight": 1.0,
+   "note_time": 120.83
+  },
+  {
+   "text": "too",
+   "time": 121.18,
+   "weight": 0.98,
+   "note_time": 121.67
+  },
+  {
+   "text": "And",
+   "time": 122.06,
+   "weight": 0.2,
+   "note_time": 124.58
+  },
+  {
+   "text": "his",
+   "time": 124.84,
+   "weight": 0.63,
+   "note_time": 124.79
+  },
+  {
+   "text": "broth",
+   "time": 125.02,
+   "weight": 0.99,
+   "note_time": 125.0
+  },
+  {
+   "text": "ers",
+   "time": 125.23,
+   "weight": 0.99,
+   "note_time": 125.21
+  },
+  {
+   "text": "joined",
+   "time": 125.44,
+   "weight": 0.95,
+   "note_time": 125.62
+  },
+  {
+   "text": "in",
+   "time": 126.1,
+   "weight": 1.0,
+   "note_time": 126.25
+  },
+  {
+   "text": "prayer",
+   "time": 126.56,
+   "weight": 1.0,
+   "note_time": 127.08
+  },
+  {
+   "text": "Si",
+   "time": 158.14,
+   "weight": 0.83,
+   "note_time": 160.0
+  },
+  {
+   "text": "mon",
+   "time": 158.49,
+   "weight": 0.83,
+   "note_time": 160.42
+  },
+  {
+   "text": "the",
+   "time": 159.54,
+   "weight": 0.82,
+   "note_time": 160.83
+  },
+  {
+   "text": "Ca",
+   "time": 160.1,
+   "weight": 0.74,
+   "note_time": 161.25
+  },
+  {
+   "text": "na",
+   "time": 160.45,
+   "weight": 0.74,
+   "note_time": 161.46
+  },
+  {
+   "text": "naean",
+   "time": 160.8,
+   "weight": 0.74,
+   "note_time": 162.08
+  },
+  {
+   "text": "stands",
+   "time": 161.46,
+   "weight": 0.29,
+   "note_time": 163.33
+  },
+  {
+   "text": "in",
+   "time": 163.66,
+   "weight": 0.98,
+   "note_time": 164.17
+  },
+  {
+   "text": "the",
+   "time": 163.92,
+   "weight": 0.98,
+   "note_time": 164.79
+  },
+  {
+   "text": "list",
+   "time": 164.3,
+   "weight": 0.79,
+   "note_time": 165.42
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "15 of 17 lyric lines sit clearly on their notes; 2 are uncertain and printed in grey italics."
+}

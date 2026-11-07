@@ -1,0 +1,1016 @@
+{
+ "id": "person-jarah-children",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-jarah-children",
+ "offset_seconds": -10.180000000000039,
+ "words_heard": 92,
+ "words": 97,
+ "lines": [
+  {
+   "text": "Ahaz was the father of Jarah",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.37,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Jarah was the father of Alemeth",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.59,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Azmaveth, and Zimri his child",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.63,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zimri was the father of Moza",
+   "heard": 5,
+   "words": 6,
+   "error_s": 1.32,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From the line of Saul they came",
+   "heard": 7,
+   "words": 7,
+   "error_s": 1.23,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Descendants in the genealogy",
+   "heard": 4,
+   "words": 4,
+   "error_s": 1.53,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Names recorded in the book",
+   "heard": 5,
+   "words": 5,
+   "error_s": 1.47,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Jarah and his sons are named",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.07,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Jehoaddah is another name",
+   "heard": 4,
+   "words": 4,
+   "error_s": 2.22,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "In the chapter eight account",
+   "heard": 4,
+   "words": 5,
+   "error_s": 1.54,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Same sons listed in the text",
+   "heard": 6,
+   "words": 6,
+   "error_s": 2.62,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Alemeth, Azmaveth, and Zimri",
+   "heard": 2,
+   "words": 4,
+   "error_s": 2.66,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "From the line of Saul they came",
+   "heard": 7,
+   "words": 7,
+   "error_s": 3.76,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Descendants in the genealogy",
+   "heard": 4,
+   "words": 4,
+   "error_s": 5.61,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Names recorded in the book",
+   "heard": 5,
+   "words": 5,
+   "error_s": 6.02,
+   "tie_split": true,
+   "uncertain": true
+  },
+  {
+   "text": "Jarah and his sons are named",
+   "heard": 6,
+   "words": 6,
+   "error_s": 6.48,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Ahaz fathered him in the list",
+   "heard": 5,
+   "words": 6,
+   "error_s": 4.86,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A line of Benjamin remains",
+   "heard": 5,
+   "words": 5,
+   "error_s": 5.74,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "A",
+   "time": 23.3,
+   "weight": 0.51,
+   "note_time": 21.08
+  },
+  {
+   "text": "haz",
+   "time": 23.3,
+   "weight": 0.51,
+   "note_time": 21.49
+  },
+  {
+   "text": "was",
+   "time": 23.3,
+   "weight": 0.99,
+   "note_time": 21.89
+  },
+  {
+   "text": "the",
+   "time": 23.3,
+   "weight": 1.0,
+   "note_time": 22.5
+  },
+  {
+   "text": "fa",
+   "time": 23.92,
+   "weight": 1.0,
+   "note_time": 22.7
+  },
+  {
+   "text": "ther",
+   "time": 24.2,
+   "weight": 1.0,
+   "note_time": 22.91
+  },
+  {
+   "text": "of",
+   "time": 24.48,
+   "weight": 1.0,
+   "note_time": 23.11
+  },
+  {
+   "text": "Ja",
+   "time": 25.1,
+   "weight": 0.4,
+   "note_time": 25.95
+  },
+  {
+   "text": "rah",
+   "time": 25.45,
+   "weight": 0.4,
+   "note_time": 26.55
+  },
+  {
+   "text": "Ja",
+   "time": 26.02,
+   "weight": 0.38,
+   "note_time": 26.76
+  },
+  {
+   "text": "rah",
+   "time": 26.37,
+   "weight": 0.38,
+   "note_time": 27.16
+  },
+  {
+   "text": "was",
+   "time": 29.16,
+   "weight": 1.0,
+   "note_time": 27.57
+  },
+  {
+   "text": "the",
+   "time": 29.66,
+   "weight": 1.0,
+   "note_time": 27.97
+  },
+  {
+   "text": "fa",
+   "time": 30.22,
+   "weight": 1.0,
+   "note_time": 28.78
+  },
+  {
+   "text": "ther",
+   "time": 30.52,
+   "weight": 1.0,
+   "note_time": 29.19
+  },
+  {
+   "text": "of",
+   "time": 30.82,
+   "weight": 1.0,
+   "note_time": 32.43
+  },
+  {
+   "text": "A",
+   "time": 31.4,
+   "weight": 0.15,
+   "note_time": 32.84
+  },
+  {
+   "text": "le",
+   "time": 31.75,
+   "weight": 0.15,
+   "note_time": 33.24
+  },
+  {
+   "text": "meth",
+   "time": 32.1,
+   "weight": 0.15,
+   "note_time": 33.85
+  },
+  {
+   "text": "Az",
+   "time": 32.48,
+   "weight": 0.21,
+   "note_time": 34.05
+  },
+  {
+   "text": "ma",
+   "time": 32.83,
+   "weight": 0.21,
+   "note_time": 34.46
+  },
+  {
+   "text": "veth,",
+   "time": 33.18,
+   "weight": 0.21,
+   "note_time": 35.27
+  },
+  {
+   "text": "and",
+   "time": 36.16,
+   "weight": 0.95,
+   "note_time": 35.68
+  },
+  {
+   "text": "Zim",
+   "time": 36.36,
+   "weight": 0.77,
+   "note_time": 35.88
+  },
+  {
+   "text": "ri",
+   "time": 36.71,
+   "weight": 0.77,
+   "note_time": 36.08
+  },
+  {
+   "text": "his",
+   "time": 37.18,
+   "weight": 0.57,
+   "note_time": 38.92
+  },
+  {
+   "text": "child",
+   "time": 37.94,
+   "weight": 0.98,
+   "note_time": 39.53
+  },
+  {
+   "text": "Zim",
+   "time": 40.64,
+   "weight": 0.66,
+   "note_time": 39.73
+  },
+  {
+   "text": "ri",
+   "time": 40.99,
+   "weight": 0.66,
+   "note_time": 40.14
+  },
+  {
+   "text": "was",
+   "time": 41.86,
+   "weight": 0.98,
+   "note_time": 40.54
+  },
+  {
+   "text": "the",
+   "time": 42.38,
+   "weight": 0.94,
+   "note_time": 41.15
+  },
+  {
+   "text": "fa",
+   "time": 42.86,
+   "weight": 0.99,
+   "note_time": 41.35
+  },
+  {
+   "text": "ther",
+   "time": 43.18,
+   "weight": 0.99,
+   "note_time": 41.76
+  },
+  {
+   "text": "of",
+   "time": 43.5,
+   "weight": 1.0,
+   "note_time": 45.2
+  },
+  {
+   "text": "Mo",
+   "time": 43.99,
+   "weight": 0.0,
+   "note_time": 45.41
+  },
+  {
+   "text": "za",
+   "time": 44.49,
+   "weight": 0.0,
+   "note_time": 45.81
+  },
+  {
+   "text": "From",
+   "time": 44.98,
+   "weight": 0.17,
+   "note_time": 46.22
+  },
+  {
+   "text": "the",
+   "time": 47.84,
+   "weight": 0.99,
+   "note_time": 46.82
+  },
+  {
+   "text": "line",
+   "time": 48.38,
+   "weight": 0.98,
+   "note_time": 47.03
+  },
+  {
+   "text": "of",
+   "time": 48.88,
+   "weight": 1.0,
+   "note_time": 47.64
+  },
+  {
+   "text": "Saul",
+   "time": 49.06,
+   "weight": 0.97,
+   "note_time": 47.84
+  },
+  {
+   "text": "they",
+   "time": 49.58,
+   "weight": 0.93,
+   "note_time": 48.45
+  },
+  {
+   "text": "came",
+   "time": 50.3,
+   "weight": 1.0,
+   "note_time": 48.65
+  },
+  {
+   "text": "De",
+   "time": 53.44,
+   "weight": 0.95,
+   "note_time": 51.89
+  },
+  {
+   "text": "scen",
+   "time": 53.79,
+   "weight": 0.95,
+   "note_time": 52.5
+  },
+  {
+   "text": "dants",
+   "time": 54.14,
+   "weight": 0.95,
+   "note_time": 52.7
+  },
+  {
+   "text": "in",
+   "time": 54.66,
+   "weight": 0.99,
+   "note_time": 53.11
+  },
+  {
+   "text": "the",
+   "time": 55.04,
+   "weight": 0.99,
+   "note_time": 53.51
+  },
+  {
+   "text": "ge",
+   "time": 55.42,
+   "weight": 0.4,
+   "note_time": 54.12
+  },
+  {
+   "text": "neal",
+   "time": 55.77,
+   "weight": 0.4,
+   "note_time": 54.32
+  },
+  {
+   "text": "o",
+   "time": 56.12,
+   "weight": 0.4,
+   "note_time": 54.73
+  },
+  {
+   "text": "gy",
+   "time": 56.47,
+   "weight": 0.4,
+   "note_time": 55.14
+  },
+  {
+   "text": "Names",
+   "time": 57.12,
+   "weight": 0.4,
+   "note_time": 58.38
+  },
+  {
+   "text": "re",
+   "time": 60.78,
+   "weight": 1.0,
+   "note_time": 58.58
+  },
+  {
+   "text": "cor",
+   "time": 60.97,
+   "weight": 1.0,
+   "note_time": 59.19
+  },
+  {
+   "text": "ded",
+   "time": 61.17,
+   "weight": 1.0,
+   "note_time": 59.59
+  },
+  {
+   "text": "in",
+   "time": 61.36,
+   "weight": 1.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "the",
+   "time": 62.26,
+   "weight": 0.99,
+   "note_time": 61.22
+  },
+  {
+   "text": "book",
+   "time": 62.78,
+   "weight": 0.77,
+   "note_time": 61.62
+  },
+  {
+   "text": "Ja",
+   "time": 65.66,
+   "weight": 0.53,
+   "note_time": 68.11
+  },
+  {
+   "text": "rah",
+   "time": 66.01,
+   "weight": 0.53,
+   "note_time": 68.31
+  },
+  {
+   "text": "and",
+   "time": 67.06,
+   "weight": 0.98,
+   "note_time": 68.72
+  },
+  {
+   "text": "his",
+   "time": 67.66,
+   "weight": 0.96,
+   "note_time": 69.73
+  },
+  {
+   "text": "sons",
+   "time": 68.02,
+   "weight": 0.99,
+   "note_time": 70.34
+  },
+  {
+   "text": "are",
+   "time": 68.52,
+   "weight": 0.99,
+   "note_time": 70.54
+  },
+  {
+   "text": "named",
+   "time": 69.58,
+   "weight": 1.0,
+   "note_time": 70.74
+  },
+  {
+   "text": "Je",
+   "time": 75.5,
+   "weight": 0.53,
+   "note_time": 70.95
+  },
+  {
+   "text": "hoad",
+   "time": 75.85,
+   "weight": 0.53,
+   "note_time": 71.35
+  },
+  {
+   "text": "dah",
+   "time": 76.2,
+   "weight": 0.53,
+   "note_time": 74.59
+  },
+  {
+   "text": "is",
+   "time": 76.9,
+   "weight": 0.98,
+   "note_time": 75.0
+  },
+  {
+   "text": "an",
+   "time": 77.88,
+   "weight": 1.0,
+   "note_time": 75.2
+  },
+  {
+   "text": "oth",
+   "time": 78.11,
+   "weight": 1.0,
+   "note_time": 75.81
+  },
+  {
+   "text": "er",
+   "time": 78.35,
+   "weight": 1.0,
+   "note_time": 76.22
+  },
+  {
+   "text": "name",
+   "time": 78.58,
+   "weight": 1.0,
+   "note_time": 77.43
+  },
+  {
+   "text": "In",
+   "time": 81.24,
+   "weight": 0.69,
+   "note_time": 77.64
+  },
+  {
+   "text": "the",
+   "time": 82.64,
+   "weight": 0.99,
+   "note_time": 77.84
+  },
+  {
+   "text": "chap",
+   "time": 82.9,
+   "weight": 0.68,
+   "note_time": 81.08
+  },
+  {
+   "text": "ter",
+   "time": 83.11,
+   "weight": 0.68,
+   "note_time": 81.89
+  },
+  {
+   "text": "eight",
+   "time": 83.74,
+   "weight": 0.0,
+   "note_time": 82.7
+  },
+  {
+   "text": "ac",
+   "time": 84.36,
+   "weight": 0.98,
+   "note_time": 83.11
+  },
+  {
+   "text": "count",
+   "time": 84.71,
+   "weight": 0.98,
+   "note_time": 83.51
+  },
+  {
+   "text": "Same",
+   "time": 87.48,
+   "weight": 0.94,
+   "note_time": 84.12
+  },
+  {
+   "text": "sons",
+   "time": 88.88,
+   "weight": 0.91,
+   "note_time": 84.32
+  },
+  {
+   "text": "list",
+   "time": 89.62,
+   "weight": 0.98,
+   "note_time": 87.57
+  },
+  {
+   "text": "ed",
+   "time": 89.97,
+   "weight": 0.98,
+   "note_time": 87.77
+  },
+  {
+   "text": "in",
+   "time": 90.7,
+   "weight": 1.0,
+   "note_time": 87.97
+  },
+  {
+   "text": "the",
+   "time": 91.4,
+   "weight": 1.0,
+   "note_time": 88.78
+  },
+  {
+   "text": "text",
+   "time": 91.72,
+   "weight": 0.99,
+   "note_time": 89.19
+  },
+  {
+   "text": "A",
+   "time": 92.52,
+   "weight": 0.0,
+   "note_time": 89.39
+  },
+  {
+   "text": "le",
+   "time": 93.33,
+   "weight": 0.0,
+   "note_time": 90.41
+  },
+  {
+   "text": "meth,",
+   "time": 94.13,
+   "weight": 0.0,
+   "note_time": 90.81
+  },
+  {
+   "text": "Az",
+   "time": 94.93,
+   "weight": 0.0,
+   "note_time": 91.22
+  },
+  {
+   "text": "ma",
+   "time": 95.73,
+   "weight": 0.0,
+   "note_time": 94.05
+  },
+  {
+   "text": "veth,",
+   "time": 96.54,
+   "weight": 0.0,
+   "note_time": 94.66
+  },
+  {
+   "text": "and",
+   "time": 97.34,
+   "weight": 0.95,
+   "note_time": 94.86
+  },
+  {
+   "text": "Zim",
+   "time": 98.02,
+   "weight": 0.96,
+   "note_time": 95.27
+  },
+  {
+   "text": "ri",
+   "time": 98.34,
+   "weight": 0.96,
+   "note_time": 95.68
+  },
+  {
+   "text": "From",
+   "time": 99.38,
+   "weight": 0.29,
+   "note_time": 96.28
+  },
+  {
+   "text": "the",
+   "time": 101.04,
+   "weight": 0.99,
+   "note_time": 96.49
+  },
+  {
+   "text": "line",
+   "time": 102.04,
+   "weight": 0.97,
+   "note_time": 96.89
+  },
+  {
+   "text": "of",
+   "time": 102.56,
+   "weight": 1.0,
+   "note_time": 97.3
+  },
+  {
+   "text": "Saul",
+   "time": 102.74,
+   "weight": 0.71,
+   "note_time": 100.34
+  },
+  {
+   "text": "they",
+   "time": 103.24,
+   "weight": 0.95,
+   "note_time": 100.54
+  },
+  {
+   "text": "came",
+   "time": 103.92,
+   "weight": 1.0,
+   "note_time": 100.95
+  },
+  {
+   "text": "De",
+   "time": 107.02,
+   "weight": 0.97,
+   "note_time": 101.35
+  },
+  {
+   "text": "scen",
+   "time": 107.37,
+   "weight": 0.97,
+   "note_time": 101.96
+  },
+  {
+   "text": "dants",
+   "time": 107.72,
+   "weight": 0.97,
+   "note_time": 102.16
+  },
+  {
+   "text": "in",
+   "time": 108.38,
+   "weight": 1.0,
+   "note_time": 102.77
+  },
+  {
+   "text": "the",
+   "time": 108.72,
+   "weight": 0.99,
+   "note_time": 102.97
+  },
+  {
+   "text": "ge",
+   "time": 109.12,
+   "weight": 0.4,
+   "note_time": 103.58
+  },
+  {
+   "text": "neal",
+   "time": 109.47,
+   "weight": 0.4,
+   "note_time": 103.78
+  },
+  {
+   "text": "o",
+   "time": 109.82,
+   "weight": 0.4,
+   "note_time": 107.03
+  },
+  {
+   "text": "gy",
+   "time": 110.17,
+   "weight": 0.4,
+   "note_time": 107.64
+  },
+  {
+   "text": "Names",
+   "time": 113.12,
+   "weight": 0.99,
+   "note_time": 107.84
+  },
+  {
+   "text": "re",
+   "time": 114.48,
+   "weight": 0.99,
+   "note_time": 108.24
+  },
+  {
+   "text": "cor",
+   "time": 114.67,
+   "weight": 0.99,
+   "note_time": 108.65
+  },
+  {
+   "text": "ded",
+   "time": 114.85,
+   "weight": 0.99,
+   "note_time": 109.26
+  },
+  {
+   "text": "in",
+   "time": 115.04,
+   "weight": 1.0,
+   "note_time": 109.46
+  },
+  {
+   "text": "the",
+   "time": 115.92,
+   "weight": 0.99,
+   "note_time": 109.86
+  },
+  {
+   "text": "book",
+   "time": 116.46,
+   "weight": 0.76,
+   "note_time": 110.27
+  },
+  {
+   "text": "Ja",
+   "time": 119.4,
+   "weight": 0.28,
+   "note_time": 113.51
+  },
+  {
+   "text": "rah",
+   "time": 119.75,
+   "weight": 0.28,
+   "note_time": 113.72
+  },
+  {
+   "text": "and",
+   "time": 120.6,
+   "weight": 0.62,
+   "note_time": 114.32
+  },
+  {
+   "text": "his",
+   "time": 121.28,
+   "weight": 0.84,
+   "note_time": 114.73
+  },
+  {
+   "text": "sons",
+   "time": 121.72,
+   "weight": 0.95,
+   "note_time": 115.14
+  },
+  {
+   "text": "are",
+   "time": 122.24,
+   "weight": 0.86,
+   "note_time": 116.35
+  },
+  {
+   "text": "named",
+   "time": 123.24,
+   "weight": 0.93,
+   "note_time": 116.76
+  },
+  {
+   "text": "A",
+   "time": 133.23,
+   "weight": 0.0,
+   "note_time": 145.95
+  },
+  {
+   "text": "haz",
+   "time": 143.23,
+   "weight": 0.0,
+   "note_time": 147.57
+  },
+  {
+   "text": "fa",
+   "time": 153.22,
+   "weight": 0.94,
+   "note_time": 148.38
+  },
+  {
+   "text": "thered",
+   "time": 153.57,
+   "weight": 0.94,
+   "note_time": 148.78
+  },
+  {
+   "text": "him",
+   "time": 154.62,
+   "weight": 0.96,
+   "note_time": 149.19
+  },
+  {
+   "text": "in",
+   "time": 154.88,
+   "weight": 0.99,
+   "note_time": 150.0
+  },
+  {
+   "text": "the",
+   "time": 155.36,
+   "weight": 0.99,
+   "note_time": 150.61
+  },
+  {
+   "text": "list",
+   "time": 155.96,
+   "weight": 0.96,
+   "note_time": 150.81
+  },
+  {
+   "text": "A",
+   "time": 157.0,
+   "weight": 0.45,
+   "note_time": 152.23
+  },
+  {
+   "text": "line",
+   "time": 158.12,
+   "weight": 0.99,
+   "note_time": 152.43
+  },
+  {
+   "text": "of",
+   "time": 158.64,
+   "weight": 1.0,
+   "note_time": 152.84
+  },
+  {
+   "text": "Ben",
+   "time": 159.12,
+   "weight": 0.33,
+   "note_time": 153.65
+  },
+  {
+   "text": "ja",
+   "time": 159.41,
+   "weight": 0.33,
+   "note_time": 154.05
+  },
+  {
+   "text": "min",
+   "time": 159.69,
+   "weight": 0.33,
+   "note_time": 154.86
+  },
+  {
+   "text": "re",
+   "time": 159.98,
+   "weight": 0.39,
+   "note_time": 155.47
+  },
+  {
+   "text": "mains",
+   "time": 160.33,
+   "weight": 0.39,
+   "note_time": 155.68
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "1 of 18 lyric lines sit clearly on their notes; 17 are uncertain and printed in grey italics."
+}

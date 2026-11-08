@@ -1,0 +1,76 @@
+{
+  "id": "person-alfeus-acoustic",
+  "title": "James Son of Alphaeus",
+  "kind": "person",
+  "anchor": {
+    "person": "alfeus"
+  },
+  "references": [
+    {
+      "bookId": 40,
+      "chapter": 10,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 41,
+      "chapter": 3,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 42,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 44,
+      "chapter": 1,
+      "verseStart": 13,
+      "verseEnd": 13
+    },
+    {
+      "bookId": 41,
+      "chapter": 15,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 41,
+      "chapter": 16,
+      "verseStart": 1,
+      "verseEnd": 1
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "love",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "alfeus",
+      "jesus",
+      "matteus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, soft piano, gentle cello, light percussion, reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nTwelve names written in the scroll\nPhilip and Bartholomew\nMatthew the tax collector\nThomas stands in the row\n\n[Chorus]\nJames son of Alphaeus\nThaddaeus follows close\nIn the lists of the apostles\nTheir names are softly known\n\n[Verse]\nUpper room where they stayed\nPeter and John are there\nJames and Andrew together\nPhilip and Thomas share\n\n[Chorus]\nJames son of Alphaeus\nThaddaeus follows close\nIn the lists of the apostles\nTheir names are softly known\n\n[Bridge]\nWomen watching from afar\nMary mother of James\nSalome by her side\nWaiting for the dawn\n\n[Outro]\nSpices bought to anoint\nThe Sabbath is over\nJames son of Alphaeus\nIn the story forever",
+    "cot": "full",
+    "seed": 31469
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person-jair-hymn",
+  "title": "Havvoth Jair",
+  "kind": "person",
+  "anchor": {
+    "person": "jair"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 5,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jair",
+      "tola",
+      "jefta"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, hymn, male solo voice, solo, choir, harp, flute, soft percussion, warm, 90 BPM",
+    "lyrics": "[Verse]\nAfter Tola rose Jair the Gileadite\nHe judged Israel for twenty-two years\nHis thirty sons rode on thirty donkeys\nIn the land of Gilead they were there\n\n[Verse]\nThey had thirty towns in that region\nCalled Havvoth Jair to this day\nThe Gileadite led the people\nWith strength and purpose in his way\n\n[Verse]\nHis sons rode their donkey colts\nAcross the hills of Gilead\nThe towns bore his name forever\nA legacy in the wild and the shade\n\n[Verse]\nThen Jair died his time had come\nBuried in Kamon at last\nHe judged Israel with faithfulness\nA judge in the ancient past\n\n[Outro]\nHavvoth Jair remains to this day",
+    "cot": "full",
+    "seed": 31474
+  }
+}

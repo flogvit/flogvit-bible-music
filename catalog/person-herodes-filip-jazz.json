@@ -1,0 +1,60 @@
+{
+  "id": "person-herodes-filip-jazz",
+  "title": "You Are the Christ",
+  "kind": "person",
+  "anchor": {
+    "person": "herodes-filip"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 1
+    },
+    {
+      "bookId": 40,
+      "chapter": 16,
+      "verseStart": 13,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 41,
+      "chapter": 8,
+      "verseStart": 27,
+      "verseEnd": 29
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "herodes-filip",
+      "herodes-den-store",
+      "herodes-antipas",
+      "jesus",
+      "peter"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male smooth jazz voice, upright bass, piano, brushed drums, saxophone, warm and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nIn the fifteenth year of Tiberius\nPontius Pilate ruled the land\nHerod tetrarch in Galilee\nPhilip ruled across the land\nIturaea and Trachonitis\nLysanias held Abilene\nHistory set the stage in time\nFor what would come to be\n\n[Chorus]\nWho do people say that I am\nJohn the Baptist some declare\nOthers whisper it is Elijah\nJeremiah or a prophet there\nBut who do you say that I am\nSimon Peter stood up to say\nYou are the Christ the Son\nOf the living God today\n\n[Verse]\nJesus came to Caesarea Philippi\nInto the region near the sea\nHe asked the disciples who they know\nWhat the crowds were saying free\nThey listed names of ancient seers\nProphets long ago had died\nBut the question turned to them alone\nTo let the truth inside\n\n[Chorus]\nWho do people say that I am\nJohn the Baptist some declare\nOthers whisper it is Elijah\nJeremiah or a prophet there\nBut who do you say that I am\nSimon Peter stood up to say\nYou are the Christ the Son\nOf the living God today\n\n[Bridge]\nIn the villages around the city\nTeaching on the way to go\nThe disciples walked with Jesus\nIn Philip's tetrarchy's glow\nThe question echoes through the ages\nWho is the Son of Man\nPeter's answer stands as witness\nThe Messiah of all lands\n\n[Outro]\nYou are the Christ the Son\nOf the living God",
+    "cot": "full",
+    "seed": 31473
+  }
+}

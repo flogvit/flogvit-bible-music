@@ -1,0 +1,65 @@
+{
+  "id": "person-maria-kleopas-hustru-choral",
+  "title": "Standing By The Cross",
+  "kind": "person",
+  "anchor": {
+    "person": "maria-kleopas-hustru"
+  },
+  "references": [
+    {
+      "bookId": 43,
+      "chapter": 19,
+      "verseStart": 25,
+      "verseEnd": 25
+    },
+    {
+      "bookId": 40,
+      "chapter": 27,
+      "verseStart": 55,
+      "verseEnd": 56
+    },
+    {
+      "bookId": 41,
+      "chapter": 15,
+      "verseStart": 40,
+      "verseEnd": 47
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "salvation",
+      "faith"
+    ],
+    "themes": [
+      "kjerlighet",
+      "frelsen",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "maria-kleopas-hustru",
+      "jesus",
+      "maria-jesu-mor",
+      "maria-magdalena",
+      "kleopas"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn female solo voice with choral harmony, organ, cello, flute, harp, soft drums, reverent and mournful mood, 72 BPM",
+    "lyrics": "[Verse]\nStanding by the cross of Jesus were his mother\nHis mother's sister and Mary the wife of Clopas\nMary Magdalene watched the suffering\nThey followed him from Galilee with care\nServing his needs in the quiet hours\n\n[Verse]\nMany women were there watching from a distance\nThey had followed Jesus from Galilee to Jerusalem\nCaring for his needs while he was there\nNow they stood before the place of death\nThe day of Preparation was nearly done\n\n[Verse]\nIt was evening and the Sabbath was near\nJoseph of Arimathea went boldly to Pilate\nHe asked for the body of Jesus\nPilate was surprised that he was already dead\nThe centurion confirmed the final breath\n\n[Verse]\nJoseph bought a linen cloth for the burial\nHe took him down and wrapped him in the linen\nLaid him in a tomb cut out of rock\nThen he rolled a stone against the entrance\nMary Magdalene saw where he was laid\n\n[Verse]\nMary the mother of Joses saw the place\nShe witnessed the grave and the rolling stone\nFaithful witness at the cross and tomb\nThey kept the memory of his suffering\nThe women watched in the fading light",
+    "cot": "full",
+    "seed": 31475
+  }
+}

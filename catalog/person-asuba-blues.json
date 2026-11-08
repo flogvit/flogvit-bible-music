@@ -1,0 +1,55 @@
+{
+  "id": "person-asuba-blues",
+  "title": "Azubah's Sons",
+  "kind": "person",
+  "anchor": {
+    "person": "asuba"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 18,
+      "verseEnd": 18
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 19,
+      "verseEnd": 19
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "nade",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "asuba",
+      "kaleb",
+      "hesron",
+      "jeriot"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female soul voice, solo with subtle choir, upright bass, piano, Hammond organ, slow blues, 80 BPM",
+    "lyrics": "[Verse]\nCaleb son of Hezron\nHad children by his wife\nAzubah gave birth\nTo Jesher and Shobab\nArdon stood with them\nIn the line of Judah\n\n[Chorus]\nAzubah's sons are named\nIn the genealogy\nJesher Shobab Ardon\nFrom her womb they came\n\n[Verse]\nWhen Azubah died\nCaleb took Ephrath\nShe bore him Hur\nA new branch grew\nFrom her life to death\nThe record remains\n\n[Chorus]\nAzubah's sons are named\nIn the genealogy\nJesher Shobab Ardon\nFrom her womb they came\n\n[Bridge]\nFrom Hezron's grandson\nTo the tribe of Judah\nA woman in the list\nConnecting the lines\n\n[Outro]\nAzubah's sons are named\nJesher Shobab Ardon",
+    "cot": "full",
+    "seed": 31471
+  }
+}

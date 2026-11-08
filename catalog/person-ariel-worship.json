@@ -1,0 +1,61 @@
+{
+  "id": "person-ariel-worship",
+  "title": "Ministers for the House",
+  "kind": "person",
+  "anchor": {
+    "person": "ariel"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 16,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 15,
+      "chapter": 8,
+      "verseStart": 21,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "menigheten",
+      "bonn"
+    ],
+    "stories": [],
+    "persons": [
+      "ariel",
+      "esra",
+      "sjemaja",
+      "elnatan",
+      "jarib"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, worship, male solo with choir, piano, acoustic guitar, strings, soft drums, reverent and hopeful, 80 BPM",
+    "lyrics": "[Verse]\nAssembled at the river's bend\nWe camped for three days near the end\nI reviewed the priests and people all\nBut found no Levites standing tall\n\n[Pre-Chorus]\nSo I called the leaders forth\nWith urgent words upon their mouth\nTo Casiphia they must go\nAnd find the servants we need so\n\n[Chorus]\nBring us ministers for the house\nOf our God who is the source\nWith gracious hand upon our side\nThey answered to the sacred guide\n\n[Verse]\nSent to Iddo with clear command\nTo bring the servants of our land\nThe gracious hand of our God was there\nAnd answered with abundant care\n\n[Chorus]\nBring us ministers for the house\nOf our God who is the source\nWith gracious hand upon our side\nThey answered to the sacred guide\n\n[Verse]\nSherebiah came from Mahli's line\nEighteen men with him to shine\nHashabiah and Jeshaiah joined\nTwenty men in faith combined\n\n[Chorus]\nBring us ministers for the house\nOf our God who is the source\nWith gracious hand upon our side\nThey answered to the sacred guide\n\n[Outro]\nTwo hundred and twenty souls registered by name\nServing the house without shame",
+    "cot": "full",
+    "seed": 31470
+  }
+}

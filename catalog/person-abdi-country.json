@@ -1,0 +1,62 @@
+{
+  "id": "person-abdi-country",
+  "title": "My Servant",
+  "kind": "person",
+  "anchor": {
+    "person": "abdi"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 6,
+      "verseStart": 29,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 14,
+      "chapter": 29,
+      "verseStart": 12,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 15,
+      "chapter": 10,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "country"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "abdi",
+      "hiskia",
+      "esra",
+      "etan"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and storytelling, acoustic guitar, fiddle, banjo, upright bass, soft percussion, nostalgic and reverent mood, 85 BPM",
+    "lyrics": "[Verse]\nSon of Malluch in the line of Merari\nAncestor to Ethan who sang with prayer\nIn David’s court the music stood\nWhere holy songs were understood\n\n[Chorus]\nMy servant, my servant\nName that carries the weight of years\nFrom the temple’s song to the valley’s dust\nMy servant, my servant\n\n[Verse]\nKish stepped forward in the king’s decree\nTo cleanse the house and set it free\nThey carried out the unclean things\nTo where the Kidron river sings\n\n[Chorus]\nMy servant, my servant\nName that carries the weight of years\nFrom the temple’s song to the valley’s dust\nMy servant, my servant\n\n[Bridge]\nSon of Elam in the foreign land\nSent away by Ezra’s guiding hand\nTo keep the covenant pure and true\nA faithful heart in the exile’s view\n\n[Chorus]\nMy servant, my servant\nName that carries the weight of years\nFrom the temple’s song to the valley’s dust\nMy servant, my servant\n\n[Outro]\nThree lives, one name, a servant’s call\nStanding firm to answer God’s call",
+    "cot": "full",
+    "seed": 31468
+  }
+}

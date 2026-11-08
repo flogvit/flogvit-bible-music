@@ -1,0 +1,55 @@
+{
+  "id": "person-goliat-pop",
+  "title": "The Battle Belongs to the Lord",
+  "kind": "person",
+  "anchor": {
+    "person": "goliat"
+  },
+  "references": [
+    {
+      "bookId": 9,
+      "chapter": 17,
+      "verseStart": 4,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 9,
+      "chapter": 17,
+      "verseStart": 32,
+      "verseEnd": 37
+    },
+    {
+      "bookId": 9,
+      "chapter": 17,
+      "verseStart": 45,
+      "verseEnd": 51
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "goliat",
+      "david",
+      "saul"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, powerful and clear, acoustic guitar, piano, strings, soft drums, uplifting and heroic mood, 85 BPM",
+    "lyrics": "[Verse]\nA champion rose from the camp of the foe\nGoliath from Gath with a bronze coat\nSix cubits and a span he stood tall\nWith a spear like a weaver's beam wall\nHe shouted out to the ranks of Israel\nDefying the armies of the living God\n\n[Chorus]\nYou come with sword and spear and javelin\nBut I come in the name of the Lord\nThe battle belongs to the Lord alone\nHe will hand you over to the one\n\n[Verse]\nFor forty days he came morning and night\nTaunting the soldiers in the light\nSaul and the people were shaken with fear\nBut a young shepherd was drawing near\nHe had faced lions and bears in the field\nAnd rescued the lamb with strength revealed\n\n[Pre-Chorus]\nYour servant has killed both lion and bear\nThis uncircumcised Philistine is there\nHe defied the armies of the living God\nWho rescues me from the paw's hold\n\n[Chorus]\nYou come with sword and spear and javelin\nBut I come in the name of the Lord\nThe battle belongs to the Lord alone\nHe will hand you over to the one\n\n[Verse]\nDavid reached into his bag for a stone\nSlung it hard at the giant's throne\nThe stone sank into his forehead deep\nAnd the giant fell to the ground in sleep\nDavid took the sword from the sheath\nCut off the head in the heat of death\n\n[Chorus]\nYou come with sword and spear and javelin\nBut I come in the name of the Lord\nThe battle belongs to the Lord alone\nHe will hand you over to the one\n\n[Bridge]\nThen the whole earth will know that Israel has a God\nAnd all gathered here will know the Lord is good\nHe does not save with sword or spear\nBut the battle belongs to the one who is here\n\n[Outro]\nThe Philistines fled when their hero was gone\nDavid stood triumphed over the one\nThe battle belongs to the Lord",
+    "cot": "full",
+    "seed": 31472
+  }
+}

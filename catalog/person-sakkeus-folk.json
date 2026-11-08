@@ -1,0 +1,62 @@
+{
+  "id": "person-sakkeus-folk",
+  "title": "Save What Was Lost",
+  "kind": "person",
+  "anchor": {
+    "person": "sakkeus"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 19,
+      "verseStart": 1,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 42,
+      "chapter": 19,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 42,
+      "chapter": 19,
+      "verseStart": 8,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "faith",
+      "salvation",
+      "mercy"
+    ],
+    "themes": [
+      "nade",
+      "frelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "sakkeus",
+      "jesus"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male folk voice, solo, acoustic guitar, banjo, soft percussion, warm mood, 90 BPM",
+    "lyrics": "[Verse]\nJesus entered Jericho\nWalking down the street\nA rich man named Zacchaeus\nChief collector of the fee\nHe was short and crowded out\nCould not see the face\nSo he ran ahead in haste\nTo find a better place\n\n[Chorus]\nZacchaeus hurry down\nStay at your house today\nSalvation has come to this house\nSon of Abraham now\n\n[Verse]\nHe climbed a sycamore tree\nTo watch Him pass by\nBut Jesus looked up and spoke\nWith a gentle eye\nHe welcomed Him with joy\nWhile the crowd grumbled loud\nSaying He went to stay\nWith a sinful man about\n\n[Chorus]\nZacchaeus hurry down\nStay at your house today\nSalvation has come to this house\nSon of Abraham now\n\n[Bridge]\nI give half to the poor\nAll that I possess\nI pay back four times over\nEvery loss I confess\n\n[Outro]\nThe Son of Man came to seek\nTo save what was lost",
+    "cot": "full",
+    "seed": 31476
+  }
+}

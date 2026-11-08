@@ -1,0 +1,1010 @@
+{
+ "id": "person-sjelef-hymn",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-sjelef-hymn",
+ "offset_seconds": -4.380000000000162,
+ "words_heard": 97,
+ "words": 100,
+ "lines": [
+  {
+   "text": "Joktan fathered Almodad",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.98,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sheleph came next in the line",
+   "heard": 6,
+   "words": 6,
+   "error_s": 1.02,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Hazarmaveth and Jerah",
+   "heard": 3,
+   "words": 3,
+   "error_s": 1.08,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the east they drew near",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sons of Shem after the Flood",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.23,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Descendants of Noah's blood",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.35,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A family tree from the start",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.29,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the land of the east part",
+   "heard": 4,
+   "words": 7,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Thirteen sons in the list",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.97,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Of Joktan's lineage distinct",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "In the mountain regions high",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.7,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Under the open sky",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.55,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Genesis records their names",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.45,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Chronicles repeats the same",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.3,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "From the beginning of days",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.05,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "To the light of our eyes",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.09,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Part of the nations spread",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.26,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "After the Tower's head",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.24,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Scattered across the land",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.18,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "By the Father's command",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.25,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sheleph remains in the text",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.22,
+   "tie_split": false,
+   "uncertain": false
+  }
+ ],
+ "syllables": [
+  {
+   "text": "Jok",
+   "time": 17.04,
+   "weight": 0.62,
+   "note_time": 16.62
+  },
+  {
+   "text": "tan",
+   "time": 17.39,
+   "weight": 0.62,
+   "note_time": 16.82
+  },
+  {
+   "text": "fa",
+   "time": 18.04,
+   "weight": 0.92,
+   "note_time": 17.03
+  },
+  {
+   "text": "thered",
+   "time": 18.39,
+   "weight": 0.92,
+   "note_time": 17.43
+  },
+  {
+   "text": "Al",
+   "time": 18.88,
+   "weight": 0.51,
+   "note_time": 17.64
+  },
+  {
+   "text": "mo",
+   "time": 19.22,
+   "weight": 0.51,
+   "note_time": 18.24
+  },
+  {
+   "text": "dad",
+   "time": 19.56,
+   "weight": 0.51,
+   "note_time": 18.45
+  },
+  {
+   "text": "She",
+   "time": 19.9,
+   "weight": 0.35,
+   "note_time": 19.46
+  },
+  {
+   "text": "leph",
+   "time": 20.25,
+   "weight": 0.35,
+   "note_time": 19.66
+  },
+  {
+   "text": "came",
+   "time": 20.9,
+   "weight": 0.99,
+   "note_time": 19.86
+  },
+  {
+   "text": "next",
+   "time": 21.12,
+   "weight": 1.0,
+   "note_time": 20.27
+  },
+  {
+   "text": "in",
+   "time": 21.64,
+   "weight": 1.0,
+   "note_time": 20.68
+  },
+  {
+   "text": "the",
+   "time": 21.96,
+   "weight": 0.97,
+   "note_time": 20.88
+  },
+  {
+   "text": "line",
+   "time": 22.1,
+   "weight": 1.0,
+   "note_time": 21.08
+  },
+  {
+   "text": "Ha",
+   "time": 22.64,
+   "weight": 0.24,
+   "note_time": 23.31
+  },
+  {
+   "text": "zar",
+   "time": 22.99,
+   "weight": 0.24,
+   "note_time": 23.51
+  },
+  {
+   "text": "ma",
+   "time": 23.34,
+   "weight": 0.24,
+   "note_time": 23.72
+  },
+  {
+   "text": "veth",
+   "time": 23.69,
+   "weight": 0.24,
+   "note_time": 23.92
+  },
+  {
+   "text": "and",
+   "time": 25.28,
+   "weight": 0.98,
+   "note_time": 24.12
+  },
+  {
+   "text": "Jer",
+   "time": 25.4,
+   "weight": 0.53,
+   "note_time": 24.32
+  },
+  {
+   "text": "ah",
+   "time": 25.75,
+   "weight": 0.53,
+   "note_time": 24.93
+  },
+  {
+   "text": "In",
+   "time": 26.24,
+   "weight": 0.42,
+   "note_time": 25.54
+  },
+  {
+   "text": "the",
+   "time": 26.82,
+   "weight": 0.99,
+   "note_time": 25.74
+  },
+  {
+   "text": "east",
+   "time": 26.98,
+   "weight": 0.72,
+   "note_time": 25.95
+  },
+  {
+   "text": "they",
+   "time": 27.46,
+   "weight": 0.88,
+   "note_time": 26.55
+  },
+  {
+   "text": "drew",
+   "time": 27.76,
+   "weight": 0.99,
+   "note_time": 26.96
+  },
+  {
+   "text": "near",
+   "time": 28.16,
+   "weight": 1.0,
+   "note_time": 27.57
+  },
+  {
+   "text": "Sons",
+   "time": 28.84,
+   "weight": 0.39,
+   "note_time": 29.59
+  },
+  {
+   "text": "of",
+   "time": 30.9,
+   "weight": 1.0,
+   "note_time": 30.41
+  },
+  {
+   "text": "Shem",
+   "time": 31.02,
+   "weight": 0.96,
+   "note_time": 30.81
+  },
+  {
+   "text": "af",
+   "time": 31.44,
+   "weight": 0.85,
+   "note_time": 31.22
+  },
+  {
+   "text": "ter",
+   "time": 31.65,
+   "weight": 0.85,
+   "note_time": 31.42
+  },
+  {
+   "text": "the",
+   "time": 31.86,
+   "weight": 1.0,
+   "note_time": 32.23
+  },
+  {
+   "text": "Flood",
+   "time": 32.38,
+   "weight": 0.53,
+   "note_time": 32.43
+  },
+  {
+   "text": "De",
+   "time": 32.84,
+   "weight": 0.72,
+   "note_time": 32.84
+  },
+  {
+   "text": "scen",
+   "time": 33.19,
+   "weight": 0.72,
+   "note_time": 33.04
+  },
+  {
+   "text": "dants",
+   "time": 33.54,
+   "weight": 0.72,
+   "note_time": 33.24
+  },
+  {
+   "text": "of",
+   "time": 34.2,
+   "weight": 1.0,
+   "note_time": 33.65
+  },
+  {
+   "text": "Noah's",
+   "time": 34.26,
+   "weight": 0.99,
+   "note_time": 33.85
+  },
+  {
+   "text": "blood",
+   "time": 35.04,
+   "weight": 0.97,
+   "note_time": 34.05
+  },
+  {
+   "text": "A",
+   "time": 35.42,
+   "weight": 0.71,
+   "note_time": 35.47
+  },
+  {
+   "text": "fami",
+   "time": 36.54,
+   "weight": 0.99,
+   "note_time": 36.08
+  },
+  {
+   "text": "ly",
+   "time": 36.84,
+   "weight": 0.99,
+   "note_time": 36.28
+  },
+  {
+   "text": "tree",
+   "time": 37.14,
+   "weight": 1.0,
+   "note_time": 37.3
+  },
+  {
+   "text": "from",
+   "time": 37.52,
+   "weight": 0.93,
+   "note_time": 37.7
+  },
+  {
+   "text": "the",
+   "time": 38.42,
+   "weight": 1.0,
+   "note_time": 37.91
+  },
+  {
+   "text": "start",
+   "time": 38.8,
+   "weight": 1.0,
+   "note_time": 38.51
+  },
+  {
+   "text": "In",
+   "time": 39.22,
+   "weight": 0.79,
+   "note_time": 38.72
+  },
+  {
+   "text": "the",
+   "time": 39.72,
+   "weight": 1.0,
+   "note_time": 38.92
+  },
+  {
+   "text": "land",
+   "time": 39.84,
+   "weight": 0.95,
+   "note_time": 39.32
+  },
+  {
+   "text": "of",
+   "time": 40.38,
+   "weight": 0.99,
+   "note_time": 39.53
+  },
+  {
+   "text": "the",
+   "time": 41.4,
+   "weight": 0.0,
+   "note_time": 40.14
+  },
+  {
+   "text": "east",
+   "time": 42.42,
+   "weight": 0.0,
+   "note_time": 40.34
+  },
+  {
+   "text": "part",
+   "time": 43.44,
+   "weight": 0.0,
+   "note_time": 40.54
+  },
+  {
+   "text": "Thir",
+   "time": 44.46,
+   "weight": 0.89,
+   "note_time": 44.19
+  },
+  {
+   "text": "teen",
+   "time": 44.81,
+   "weight": 0.89,
+   "note_time": 44.39
+  },
+  {
+   "text": "sons",
+   "time": 45.58,
+   "weight": 0.96,
+   "note_time": 44.59
+  },
+  {
+   "text": "in",
+   "time": 45.96,
+   "weight": 0.98,
+   "note_time": 45.0
+  },
+  {
+   "text": "the",
+   "time": 46.34,
+   "weight": 0.73,
+   "note_time": 45.2
+  },
+  {
+   "text": "list",
+   "time": 46.46,
+   "weight": 0.97,
+   "note_time": 45.41
+  },
+  {
+   "text": "Of",
+   "time": 47.02,
+   "weight": 0.83,
+   "note_time": 46.82
+  },
+  {
+   "text": "Jok",
+   "time": 47.94,
+   "weight": 0.59,
+   "note_time": 47.23
+  },
+  {
+   "text": "tan's",
+   "time": 48.29,
+   "weight": 0.59,
+   "note_time": 47.84
+  },
+  {
+   "text": "lin",
+   "time": 48.88,
+   "weight": 0.99,
+   "note_time": 48.04
+  },
+  {
+   "text": "eage",
+   "time": 49.03,
+   "weight": 0.99,
+   "note_time": 48.24
+  },
+  {
+   "text": "dis",
+   "time": 49.18,
+   "weight": 0.97,
+   "note_time": 48.65
+  },
+  {
+   "text": "tinct",
+   "time": 49.53,
+   "weight": 0.97,
+   "note_time": 48.85
+  },
+  {
+   "text": "In",
+   "time": 50.84,
+   "weight": 0.99,
+   "note_time": 50.68
+  },
+  {
+   "text": "the",
+   "time": 51.88,
+   "weight": 1.0,
+   "note_time": 50.88
+  },
+  {
+   "text": "moun",
+   "time": 51.96,
+   "weight": 0.99,
+   "note_time": 51.08
+  },
+  {
+   "text": "tain",
+   "time": 52.19,
+   "weight": 0.99,
+   "note_time": 51.49
+  },
+  {
+   "text": "re",
+   "time": 52.42,
+   "weight": 0.99,
+   "note_time": 51.69
+  },
+  {
+   "text": "gions",
+   "time": 52.77,
+   "weight": 0.99,
+   "note_time": 52.09
+  },
+  {
+   "text": "high",
+   "time": 53.22,
+   "weight": 0.85,
+   "note_time": 52.7
+  },
+  {
+   "text": "Un",
+   "time": 53.84,
+   "weight": 0.95,
+   "note_time": 53.51
+  },
+  {
+   "text": "der",
+   "time": 54.19,
+   "weight": 0.95,
+   "note_time": 53.72
+  },
+  {
+   "text": "the",
+   "time": 54.6,
+   "weight": 1.0,
+   "note_time": 53.92
+  },
+  {
+   "text": "o",
+   "time": 54.94,
+   "weight": 1.0,
+   "note_time": 54.12
+  },
+  {
+   "text": "pen",
+   "time": 55.15,
+   "weight": 1.0,
+   "note_time": 54.53
+  },
+  {
+   "text": "sky",
+   "time": 55.36,
+   "weight": 0.98,
+   "note_time": 55.14
+  },
+  {
+   "text": "Gen",
+   "time": 56.84,
+   "weight": 0.4,
+   "note_time": 57.16
+  },
+  {
+   "text": "e",
+   "time": 57.19,
+   "weight": 0.4,
+   "note_time": 57.36
+  },
+  {
+   "text": "sis",
+   "time": 57.54,
+   "weight": 0.4,
+   "note_time": 57.57
+  },
+  {
+   "text": "re",
+   "time": 58.36,
+   "weight": 1.0,
+   "note_time": 57.97
+  },
+  {
+   "text": "cords",
+   "time": 58.71,
+   "weight": 1.0,
+   "note_time": 58.18
+  },
+  {
+   "text": "their",
+   "time": 59.06,
+   "weight": 1.0,
+   "note_time": 58.58
+  },
+  {
+   "text": "names",
+   "time": 59.62,
+   "weight": 0.99,
+   "note_time": 59.19
+  },
+  {
+   "text": "Chron",
+   "time": 60.18,
+   "weight": 0.81,
+   "note_time": 60.2
+  },
+  {
+   "text": "i",
+   "time": 60.53,
+   "weight": 0.81,
+   "note_time": 60.41
+  },
+  {
+   "text": "cles",
+   "time": 60.88,
+   "weight": 0.81,
+   "note_time": 60.61
+  },
+  {
+   "text": "re",
+   "time": 61.36,
+   "weight": 0.99,
+   "note_time": 60.81
+  },
+  {
+   "text": "peats",
+   "time": 61.54,
+   "weight": 0.99,
+   "note_time": 61.22
+  },
+  {
+   "text": "the",
+   "time": 61.72,
+   "weight": 0.99,
+   "note_time": 61.42
+  },
+  {
+   "text": "same",
+   "time": 62.26,
+   "weight": 1.0,
+   "note_time": 61.62
+  },
+  {
+   "text": "From",
+   "time": 63.18,
+   "weight": 0.74,
+   "note_time": 63.24
+  },
+  {
+   "text": "the",
+   "time": 64.12,
+   "weight": 1.0,
+   "note_time": 63.85
+  },
+  {
+   "text": "be",
+   "time": 64.7,
+   "weight": 0.99,
+   "note_time": 64.66
+  },
+  {
+   "text": "gin",
+   "time": 64.97,
+   "weight": 0.99,
+   "note_time": 65.07
+  },
+  {
+   "text": "ning",
+   "time": 65.25,
+   "weight": 0.99,
+   "note_time": 65.27
+  },
+  {
+   "text": "of",
+   "time": 65.52,
+   "weight": 1.0,
+   "note_time": 65.47
+  },
+  {
+   "text": "days",
+   "time": 66.1,
+   "weight": 0.99,
+   "note_time": 66.08
+  },
+  {
+   "text": "To",
+   "time": 66.42,
+   "weight": 0.26,
+   "note_time": 66.49
+  },
+  {
+   "text": "the",
+   "time": 66.82,
+   "weight": 1.0,
+   "note_time": 66.89
+  },
+  {
+   "text": "light",
+   "time": 67.04,
+   "weight": 0.99,
+   "note_time": 67.09
+  },
+  {
+   "text": "of",
+   "time": 67.66,
+   "weight": 1.0,
+   "note_time": 67.5
+  },
+  {
+   "text": "our",
+   "time": 68.0,
+   "weight": 1.0,
+   "note_time": 68.11
+  },
+  {
+   "text": "eyes",
+   "time": 68.54,
+   "weight": 0.4,
+   "note_time": 68.31
+  },
+  {
+   "text": "Part",
+   "time": 73.5,
+   "weight": 0.91,
+   "note_time": 73.78
+  },
+  {
+   "text": "of",
+   "time": 74.42,
+   "weight": 0.99,
+   "note_time": 74.19
+  },
+  {
+   "text": "the",
+   "time": 74.88,
+   "weight": 0.98,
+   "note_time": 74.39
+  },
+  {
+   "text": "na",
+   "time": 75.02,
+   "weight": 0.9,
+   "note_time": 74.59
+  },
+  {
+   "text": "tions",
+   "time": 75.23,
+   "weight": 0.9,
+   "note_time": 75.0
+  },
+  {
+   "text": "spread",
+   "time": 75.44,
+   "weight": 0.98,
+   "note_time": 75.41
+  },
+  {
+   "text": "Af",
+   "time": 77.18,
+   "weight": 0.91,
+   "note_time": 77.03
+  },
+  {
+   "text": "ter",
+   "time": 77.5,
+   "weight": 0.91,
+   "note_time": 77.43
+  },
+  {
+   "text": "the",
+   "time": 77.82,
+   "weight": 1.0,
+   "note_time": 77.64
+  },
+  {
+   "text": "Tow",
+   "time": 78.18,
+   "weight": 0.81,
+   "note_time": 77.84
+  },
+  {
+   "text": "er's",
+   "time": 78.53,
+   "weight": 0.81,
+   "note_time": 78.24
+  },
+  {
+   "text": "head",
+   "time": 79.02,
+   "weight": 0.99,
+   "note_time": 78.65
+  },
+  {
+   "text": "Scat",
+   "time": 80.18,
+   "weight": 0.99,
+   "note_time": 80.27
+  },
+  {
+   "text": "tered",
+   "time": 80.53,
+   "weight": 0.99,
+   "note_time": 80.68
+  },
+  {
+   "text": "ac",
+   "time": 81.1,
+   "weight": 1.0,
+   "note_time": 80.88
+  },
+  {
+   "text": "ross",
+   "time": 81.31,
+   "weight": 1.0,
+   "note_time": 81.08
+  },
+  {
+   "text": "the",
+   "time": 81.52,
+   "weight": 1.0,
+   "note_time": 81.49
+  },
+  {
+   "text": "land",
+   "time": 81.94,
+   "weight": 0.99,
+   "note_time": 81.69
+  },
+  {
+   "text": "By",
+   "time": 82.32,
+   "weight": 0.95,
+   "note_time": 82.3
+  },
+  {
+   "text": "the",
+   "time": 82.78,
+   "weight": 1.0,
+   "note_time": 82.5
+  },
+  {
+   "text": "Fa",
+   "time": 82.92,
+   "weight": 0.97,
+   "note_time": 82.7
+  },
+  {
+   "text": "ther's",
+   "time": 83.27,
+   "weight": 0.97,
+   "note_time": 83.31
+  },
+  {
+   "text": "com",
+   "time": 84.2,
+   "weight": 0.98,
+   "note_time": 83.92
+  },
+  {
+   "text": "mand",
+   "time": 84.41,
+   "weight": 0.98,
+   "note_time": 84.12
+  },
+  {
+   "text": "She",
+   "time": 90.4,
+   "weight": 0.7,
+   "note_time": 90.41
+  },
+  {
+   "text": "leph",
+   "time": 90.75,
+   "weight": 0.7,
+   "note_time": 90.81
+  },
+  {
+   "text": "re",
+   "time": 91.32,
+   "weight": 0.98,
+   "note_time": 91.01
+  },
+  {
+   "text": "mains",
+   "time": 91.54,
+   "weight": 0.98,
+   "note_time": 91.22
+  },
+  {
+   "text": "in",
+   "time": 91.76,
+   "weight": 0.99,
+   "note_time": 91.62
+  },
+  {
+   "text": "the",
+   "time": 92.88,
+   "weight": 0.99,
+   "note_time": 92.43
+  },
+  {
+   "text": "text",
+   "time": 93.02,
+   "weight": 0.22,
+   "note_time": 92.84
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "All 21 lyric lines sit on their notes."
+}

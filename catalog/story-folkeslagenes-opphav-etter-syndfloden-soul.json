@@ -1,0 +1,42 @@
+{
+  "id": "story-folkeslagenes-opphav-etter-syndfloden-soul",
+  "title": "Nations Spread Out Over the Earth",
+  "kind": "story",
+  "anchor": {
+    "story": "folkeslagenes-opphav-etter-syndfloden"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [
+      "folkeslagenes-opphav-etter-syndfloden"
+    ],
+    "persons": []
+  },
+  "lyricsMode": "mixed",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone soul voice with gospel choir, Hammond organ, upright bass, brushed drums, strings, slow ballad mood, 80 BPM",
+    "lyrics": "[Verse]\nThis is the family line of Noah\nShem and Ham and Japheth\nSons were born to them after the flood\n\n[Pre-Chorus]\nCoastland peoples spread out into their lands\nEach with its own language\nBy their clans within their nations\n\n[Chorus]\nFrom these the nations spread out over the earth\nShem and Ham and Japheth\nNations spread out over the earth\n\n[Verse]\nThe sons of Ham Cush Egypt Put\nAnd Canaan\nCush fathered Nimrod mighty on the earth\n\n[Pre-Chorus]\nHe was a mighty hunter before the LORD\nBeginning of his kingdom was Babel\nErech Akkad and Calneh in Shinar\n\n[Chorus]\nFrom these the nations spread out over the earth\nShem and Ham and Japheth\nNations spread out over the earth\n\n[Verse]\nSons were also born to Shem\nFather of all the sons of Eber\nElam Asshur Arpachshad Lud and Aram\n\n[Pre-Chorus]\nArpachshad fathered Shelah and Shelah fathered Eber\nPeleg named for the divided earth\nJoktan fathered many sons\n\n[Chorus]\nFrom these the nations spread out over the earth\nShem and Ham and Japheth\nNations spread out over the earth\n\n[Bridge]\nClans of Noah sons by family lines\nWithin their nations\n\n[Outro]\nFrom these the nations spread out over the earth\nAfter the flood",
+    "cot": "full",
+    "seed": 31465
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person-amon-amon-byens-overste-i-samaria-under-kong-akab-ballad",
+  "title": "Meager Rations",
+  "kind": "person",
+  "anchor": {
+    "person": "amon-amon-byens-overste-i-samaria-under-kong-akab"
+  },
+  "references": [
+    {
+      "bookId": 11,
+      "chapter": 22,
+      "verseStart": 26,
+      "verseEnd": 27
+    },
+    {
+      "bookId": 14,
+      "chapter": 18,
+      "verseStart": 25,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 11,
+      "chapter": 22,
+      "verseStart": 34,
+      "verseEnd": 37
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "amon-amon-byens-overste-i-samaria-under-kong-akab",
+      "akab",
+      "mika",
+      "josafat"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solemn solo male baritone, acoustic guitar, piano, cello, soft percussion, somber and reflective, 80 BPM",
+    "lyrics": "[Verse]\nThe king gave his command to the governor\nHand the prophet over to the city walls\nWith Joash the son of the crown\nKeep the man behind the bars\n\n[Pre-Chorus]\nSay thus says the king to the prisoner\nPut this man in prison for his words\nGive him only meager rations of bread\nAnd water until I return safely\n\n[Chorus]\nThe word of the Lord cannot be bound\nThough the governor keeps the door locked tight\nNo prison can hold the truth of God\nThe prophecy stands before the king\n\n[Verse]\nSomeone drew his bow at random aim\nStruck the king between the sections of armor\nTurn around and get me out of the fight\nFor I am wounded and dying now\n\n[Pre-Chorus]\nThe battle grew fierce that very day\nThe king was propped up in his chariot\nFacing the Arameans in the dust\nThat evening he died in the blood\n\n[Chorus]\nThe word of the Lord cannot be bound\nThough the governor keeps the door locked tight\nNo prison can hold the truth of God\nThe prophecy stands before the king\n\n[Bridge]\nA cry spread through the army at sunset\nEvery man to his own city and land\nThe king died and was brought to Samaria\nAnd they buried him in the ground\n\n[Outro]\nThe meager rations could not save him\nThe word of the Lord came true",
+    "cot": "full",
+    "seed": 31466
+  }
+}

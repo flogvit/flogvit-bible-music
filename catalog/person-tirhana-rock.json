@@ -1,0 +1,55 @@
+{
+  "id": "person-tirhana-rock",
+  "title": "Lineage of Judah",
+  "kind": "person",
+  "anchor": {
+    "person": "tirhana"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 48,
+      "verseEnd": 48
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 42,
+      "verseEnd": 50
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 18,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "tirhana",
+      "kaleb",
+      "hesron",
+      "juda"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone, powerful and steady, electric guitar, acoustic guitar, bass, drums, moody and reverent, 90 BPM",
+    "lyrics": "[Verse]\nRoots go deep in the promised land\nWhere the shadows of ancestors stand\nCaleb son of Hezron strong\nHis lineage is the song we sing\nAzubah bore the sons of light\nJesher Shobab and Ardon tight\nBut when she died he found new grace\nEphrath bore the Hur who has a place\n\n[Chorus]\nMaacah bore the sons of the line\nSheber and Tirhanah aligned\nThrough the concubine the blood flows on\nIn the genealogy of Judah known\n\n[Verse]\nEphah brought Haran Moza and Gazez\nHarans father the one who came in last\nJahdai sons like Regem and Jotham\nGeshan Pelet Ephah standing out\nMaacah again with Sheber and Tirhanah\nShaaph the father of Madmannah\nSheva father of Macbenah too\nAnd Gibea rises in the dew\n\n[Chorus]\nMaacah bore the sons of the line\nSheber and Tirhanah aligned\nThrough the concubine the blood flows on\nIn the genealogy of Judah known\n\n[Bridge]\nCaleb daughter Acsah stands apart\nIn the record of the fathers heart\nDescendants of Caleb clear to see\nThe tribe of Judah set free\n\n[Outro]\nThese are the descendants of Caleb\nThe sons of Hur the firstborn of Ephrathah\nShobal father of Kiriath Jearim\nThe line is marked for all to hear",
+    "cot": "full",
+    "seed": 31463
+  }
+}

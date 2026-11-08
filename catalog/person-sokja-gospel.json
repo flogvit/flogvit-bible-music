@@ -1,0 +1,69 @@
+{
+  "id": "person-sokja-gospel",
+  "title": "Settled in Their Towns",
+  "kind": "person",
+  "anchor": {
+    "person": "sokja"
+  },
+  "references": [
+    {
+      "bookId": 15,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 15,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 16,
+      "chapter": 7,
+      "verseStart": 5,
+      "verseEnd": 7
+    },
+    {
+      "bookId": 16,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 15,
+      "chapter": 6,
+      "verseStart": 16,
+      "verseEnd": 18
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sokja",
+      "esra",
+      "serubabel",
+      "josva"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice with warm choir, acoustic guitar, piano, strings, hand drums, hopeful and steady mood, 75 BPM",
+    "lyrics": "[Verse]\nThese are the people of the province who came up out of the captivity\nNebuchadnezzar king of Babylon had carried them away\nThey returned to Jerusalem and Judah, each to his own town\nWith Zerubbabel and Jeshua leading the way\n\n[Verse]\nWhen the seventh month came the Israelites were settled in their towns\nThe people gathered as one in Jerusalem to stand\nJeshua and Zerubbabel set to work with their kinsmen\nTo rebuild the altar of the God of Israel\n\n[Chorus]\nSettled in their towns, the families are registered\nRestoring worship in the place God has blessed\nThe ears of all the people are attentive to the Law\nWe are one again, returning home\n\n[Verse]\nThey set the altar on its foundations in dread of surrounding lands\nOffering burnt offerings to the LORD both morning and evening\nEzra brought the Book of the Law to the square before the Water Gate\nReading from daybreak until midday to the men and women\n\n[Chorus]\nSettled in their towns, the families are registered\nRestoring worship in the place God has blessed\nThe ears of all the people are attentive to the Law\nWe are one again, returning home\n\n[Bridge]\nThe priests and Levites and the rest of the returned exiles\nCelebrated the dedication of this house of God with joy\nHundred bulls, two hundred rams, and four hundred lambs\nTwelve male goats for the tribes, sin offering complete\n\n[Outro]\nInstalled in their groups for the service of God in Jerusalem\nAs prescribed in the book of Moses, we stand",
+    "cot": "full",
+    "seed": 31461
+  }
+}

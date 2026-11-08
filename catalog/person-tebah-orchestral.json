@@ -1,0 +1,67 @@
+{
+  "id": "person-tebah-orchestral",
+  "title": "Firstborn of Reumah",
+  "kind": "person",
+  "anchor": {
+    "person": "tebah"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verseStart": 20,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verseStart": 27,
+      "verseEnd": 29
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "tebah",
+      "abraham",
+      "nakor",
+      "reuma",
+      "milka-nakors-kone"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female mezzo-soprano solo, choir, harp, flute, strings, soft percussion, solemn and reflective, 80 BPM",
+    "lyrics": "[Verse]\nAfter the mountain and the ram\nAbraham heard the news again\nHis brother Nahor had more sons\nBorn in the distant land\n\n[Chorus]\nHis concubine Reumah bore\nFour sons to the old clan\nTebah was the firstborn son\nWritten in the genealogy\n\n[Verse]\nGaham Tahash and Maacah\nFollowed in the list\nNames from the Mesopotamian shore\nWhere the patriarchs dwell\n\n[Chorus]\nHis concubine Reumah bore\nFour sons to the old clan\nTebah was the firstborn son\nWritten in the genealogy\n\n[Chorus]\nHis concubine Reumah bore\nFour sons to the old clan\nTebah was the firstborn son\nWritten in the genealogy\n\n[Outro]\nA name in the family tree\nRoots from Ur of the Chaldees",
+    "cot": "full",
+    "seed": 31462
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person-appajim-celtic",
+  "title": "Son of Appaim: Ishi",
+  "kind": "person",
+  "anchor": {
+    "person": "appajim"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 30,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 25,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "appajim",
+      "jerahmeel",
+      "nadab-sjammais-sonn",
+      "seled",
+      "jisji"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, Solo male voice, warm and resonant, solo with choir, acoustic guitar, fiddle, bodhran, celtic harp, mood is solemn and historical, tempo 80 BPM",
+    "lyrics": "[Verse]\nRooted deep in the soil of Judah\nThe branch of Jerahmeel grew\nHezron's firstborn led the way\nRam and Bunah in their day\nOren and Ozem stood beside\nAhijah walking with pride\nAnother wife named Atarah\nMother of Onam in the earth\n\n[Verse]\nShammai and Jada were born\nFrom Onam's line in the dawn\nShammai's sons were Nadab and Abishur\nAbishur's wife bore the fruit\nAbihail gave birth to Ahban\nMolid joined in the clan\nNadab's sons were Seled and Appaim\nSeled died without children's claim\n\n[Chorus]\nBut Appaim carried the name\nSole heir in the house of fame\nThe son of Appaim was Ishi\nWho walked in the faithful day\nSheshan came after Ishi\nAnd Ahlai closed the way\nThe genealogy stands and tells\nOf the tribe that never falls\n\n[Verse]\nThe sons of Sheshan followed on\nAhlai kept the tradition\nRecording names for inheritance\nTribal rights in the land\nFrom Judah down through Jerahmeel\nThe lines were kept whole and real\nNo brother's line was lost in the dark\nFor Appaim left his mark\n\n[Chorus]\nBut Appaim carried the name\nSole heir in the house of fame\nThe son of Appaim was Ishi\nWho walked in the faithful day\nSheshan came after Ishi\nAnd Ahlai closed the way\nThe genealogy stands and tells\nOf the tribe that never falls\n\n[Outro]\nSon of Appaim, Ishi\nThe line continues on\nSheshan, Ahlai, the end\nOf the chronicle's song",
+    "cot": "full",
+    "seed": 31467
+  }
+}

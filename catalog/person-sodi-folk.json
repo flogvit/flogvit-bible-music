@@ -1,0 +1,69 @@
+{
+  "id": "person-sodi-folk",
+  "title": "Gaddiel Son of Sodi",
+  "kind": "person",
+  "anchor": {
+    "person": "sodi"
+  },
+  "references": [
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 10,
+      "verseEnd": 10
+    },
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 1,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 21,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 4,
+      "chapter": 13,
+      "verseStart": 27,
+      "verseEnd": 33
+    },
+    {
+      "bookId": 4,
+      "chapter": 14,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sodi",
+      "gaddiel",
+      "moses"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, solo male folk voice, acoustic guitar, soft fiddle, gentle percussion, warm and narrative, 80 BPM",
+    "lyrics": "[Verse]\nFrom the tribe of Zebulun stood a man\nGaddiel son of Sodi was his name\nMoses sent him from the Wilderness of Paran\nTo scout the land as the Lord did command\n\n[Verse]\nHe walked through the Negev up to Hebron\nSaw the giants there, the strong and the seven\nThey cut a cluster in the Valley of Eshcol\nAnd carried it on a pole for the whole\n\n[Chorus]\nForty days they wandered out\nAnd came back to show the fruit\nThe land flows with milk and honey\nBut the people are too strong to suit\n\n[Verse]\nThey reported to the congregation\nIn Kadesh by the wilderness land\nCaleb spoke to quiet the fear\nBut others said we cannot stand\n\n[Chorus]\nForty days they wandered out\nAnd came back to show the fruit\nThe land flows with milk and honey\nBut the people are too strong to suit\n\n[Bridge]\nWe seemed like grasshoppers in their eyes\nDevoured by the land we spied\nThe congregation wept through the night\nGrumbling loud against their guide\n\n[Outro]\nBack to Egypt they wished to go\nLeaving the promise to break",
+    "cot": "full",
+    "seed": 31460
+  }
+}

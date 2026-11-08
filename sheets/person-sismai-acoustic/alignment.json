@@ -1,0 +1,1708 @@
+{
+ "id": "person-sismai-acoustic",
+ "song": "/Users/vhanssen/WebstormProjects/flogvit/music/YuE/outputs/catalog/person-sismai-acoustic",
+ "offset_seconds": -2.2600000000002076,
+ "words_heard": 118,
+ "words": 142,
+ "lines": [
+  {
+   "text": "These were the sons of Israel",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.48,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Reuben, Simeon, Levi, Judah",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Issachar, Zebulun, Dan",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Joseph, Benjamin, Naphtali",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.61,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Gad, and Asher stood as one",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.52,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Judah had five sons in all",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.62,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Er, Onan, and Shelah there",
+   "heard": 4,
+   "words": 5,
+   "error_s": 1.11,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Tamar bore Perez and Zerah",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.81,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Eleasah fathered Sismai",
+   "heard": 2,
+   "words": 3,
+   "error_s": 0.76,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Sismai fathered Shallum",
+   "heard": 1,
+   "words": 4,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Sismai fathered Shallum",
+   "heard": 1,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "A line of Judah's name",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.91,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jerahmeel, Hezron's firstborn",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.89,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ram, Bunah, Oren, Ozem",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ahijah joined in the tree",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.68,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ram, his firstborn, sired more",
+   "heard": 4,
+   "words": 5,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Maaz, Jamin, and Eker",
+   "heard": 2,
+   "words": 4,
+   "error_s": 1.14,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sheshan had no sons at all",
+   "heard": 6,
+   "words": 6,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Only daughters in his house",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.69,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "He gave his daughter to Jarha",
+   "heard": 5,
+   "words": 6,
+   "error_s": 0.78,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Eleasah fathered Sismai",
+   "heard": 2,
+   "words": 3,
+   "error_s": 0.74,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "And Sismai fathered Shallum",
+   "heard": 2,
+   "words": 4,
+   "error_s": 0.4,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Sismai fathered Shallum",
+   "heard": 2,
+   "words": 3,
+   "error_s": 0.44,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "A line of Judah's name",
+   "heard": 5,
+   "words": 5,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Attai fathered Nathan then",
+   "heard": 3,
+   "words": 4,
+   "error_s": 0.79,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Nathan fathered Zabad's son",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.84,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Zabad sired Ephlal, yes",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.82,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Ephlal sired Obed's line",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.9,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Obed sired Jehu, then",
+   "heard": 4,
+   "words": 4,
+   "error_s": 0.57,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Jehu sired Azariah",
+   "heard": 3,
+   "words": 3,
+   "error_s": 0.66,
+   "tie_split": false,
+   "uncertain": false
+  },
+  {
+   "text": "Azariah sired Helez",
+   "heard": 3,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Helez sired Eleasah",
+   "heard": 0,
+   "words": 3,
+   "error_s": null,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "Eleasah fathered Sismai",
+   "heard": 2,
+   "words": 3,
+   "error_s": 5.66,
+   "tie_split": false,
+   "uncertain": true
+  },
+  {
+   "text": "And Sismai fathered Shallum",
+   "heard": 2,
+   "words": 4,
+   "error_s": 6.05,
+   "tie_split": false,
+   "uncertain": true
+  }
+ ],
+ "syllables": [
+  {
+   "text": "These",
+   "time": 14.16,
+   "weight": 0.72,
+   "note_time": 14.4
+  },
+  {
+   "text": "were",
+   "time": 15.56,
+   "weight": 0.98,
+   "note_time": 15.4
+  },
+  {
+   "text": "the",
+   "time": 16.3,
+   "weight": 0.99,
+   "note_time": 15.8
+  },
+  {
+   "text": "sons",
+   "time": 16.54,
+   "weight": 0.97,
+   "note_time": 16.4
+  },
+  {
+   "text": "of",
+   "time": 17.08,
+   "weight": 1.0,
+   "note_time": 16.6
+  },
+  {
+   "text": "Is",
+   "time": 17.58,
+   "weight": 0.94,
+   "note_time": 17.0
+  },
+  {
+   "text": "rael",
+   "time": 17.91,
+   "weight": 0.94,
+   "note_time": 17.4
+  },
+  {
+   "text": "Reu",
+   "time": 18.24,
+   "weight": 0.28,
+   "note_time": 18.4
+  },
+  {
+   "text": "ben,",
+   "time": 18.59,
+   "weight": 0.28,
+   "note_time": 18.6
+  },
+  {
+   "text": "Sime",
+   "time": 19.37,
+   "weight": 0.0,
+   "note_time": 19.2
+  },
+  {
+   "text": "on,",
+   "time": 20.14,
+   "weight": 0.0,
+   "note_time": 19.4
+  },
+  {
+   "text": "Le",
+   "time": 20.92,
+   "weight": 0.99,
+   "note_time": 19.8
+  },
+  {
+   "text": "vi,",
+   "time": 21.05,
+   "weight": 0.99,
+   "note_time": 20.4
+  },
+  {
+   "text": "Ju",
+   "time": 21.18,
+   "weight": 0.32,
+   "note_time": 20.6
+  },
+  {
+   "text": "dah",
+   "time": 21.53,
+   "weight": 0.32,
+   "note_time": 20.8
+  },
+  {
+   "text": "Is",
+   "time": 22.02,
+   "weight": 0.33,
+   "note_time": 24.0
+  },
+  {
+   "text": "sac",
+   "time": 22.37,
+   "weight": 0.33,
+   "note_time": 24.2
+  },
+  {
+   "text": "har,",
+   "time": 22.72,
+   "weight": 0.33,
+   "note_time": 24.6
+  },
+  {
+   "text": "Ze",
+   "time": 25.96,
+   "weight": 0.95,
+   "note_time": 25.2
+  },
+  {
+   "text": "bu",
+   "time": 26.3,
+   "weight": 0.95,
+   "note_time": 25.4
+  },
+  {
+   "text": "lun,",
+   "time": 26.64,
+   "weight": 0.95,
+   "note_time": 25.8
+  },
+  {
+   "text": "Dan",
+   "time": 26.98,
+   "weight": 0.53,
+   "note_time": 26.2
+  },
+  {
+   "text": "Jo",
+   "time": 27.34,
+   "weight": 0.85,
+   "note_time": 27.2
+  },
+  {
+   "text": "seph,",
+   "time": 27.69,
+   "weight": 0.85,
+   "note_time": 28.0
+  },
+  {
+   "text": "Ben",
+   "time": 28.82,
+   "weight": 0.4,
+   "note_time": 28.8
+  },
+  {
+   "text": "ja",
+   "time": 29.17,
+   "weight": 0.4,
+   "note_time": 29.2
+  },
+  {
+   "text": "min,",
+   "time": 29.52,
+   "weight": 0.4,
+   "note_time": 29.4
+  },
+  {
+   "text": "Nap",
+   "time": 30.52,
+   "weight": 0.99,
+   "note_time": 29.8
+  },
+  {
+   "text": "hta",
+   "time": 30.81,
+   "weight": 0.99,
+   "note_time": 30.2
+  },
+  {
+   "text": "li",
+   "time": 31.11,
+   "weight": 0.99,
+   "note_time": 30.4
+  },
+  {
+   "text": "Gad,",
+   "time": 31.4,
+   "weight": 0.39,
+   "note_time": 31.2
+  },
+  {
+   "text": "and",
+   "time": 32.32,
+   "weight": 0.98,
+   "note_time": 31.8
+  },
+  {
+   "text": "Ash",
+   "time": 32.76,
+   "weight": 0.93,
+   "note_time": 32.4
+  },
+  {
+   "text": "er",
+   "time": 33.11,
+   "weight": 0.93,
+   "note_time": 32.6
+  },
+  {
+   "text": "stood",
+   "time": 33.46,
+   "weight": 0.98,
+   "note_time": 33.0
+  },
+  {
+   "text": "as",
+   "time": 33.72,
+   "weight": 1.0,
+   "note_time": 33.2
+  },
+  {
+   "text": "one",
+   "time": 34.26,
+   "weight": 0.98,
+   "note_time": 33.4
+  },
+  {
+   "text": "Ju",
+   "time": 34.82,
+   "weight": 0.98,
+   "note_time": 34.4
+  },
+  {
+   "text": "dah",
+   "time": 35.17,
+   "weight": 0.98,
+   "note_time": 34.6
+  },
+  {
+   "text": "had",
+   "time": 35.62,
+   "weight": 0.99,
+   "note_time": 35.0
+  },
+  {
+   "text": "five",
+   "time": 36.14,
+   "weight": 0.94,
+   "note_time": 35.4
+  },
+  {
+   "text": "sons",
+   "time": 36.56,
+   "weight": 1.0,
+   "note_time": 36.0
+  },
+  {
+   "text": "in",
+   "time": 37.22,
+   "weight": 0.97,
+   "note_time": 36.4
+  },
+  {
+   "text": "all",
+   "time": 37.6,
+   "weight": 1.0,
+   "note_time": 36.6
+  },
+  {
+   "text": "Er,",
+   "time": 39.88,
+   "weight": 0.0,
+   "note_time": 40.0
+  },
+  {
+   "text": "O",
+   "time": 42.16,
+   "weight": 0.66,
+   "note_time": 40.8
+  },
+  {
+   "text": "nan,",
+   "time": 42.51,
+   "weight": 0.66,
+   "note_time": 41.4
+  },
+  {
+   "text": "and",
+   "time": 43.14,
+   "weight": 0.53,
+   "note_time": 42.0
+  },
+  {
+   "text": "She",
+   "time": 43.3,
+   "weight": 0.76,
+   "note_time": 42.2
+  },
+  {
+   "text": "lah",
+   "time": 43.54,
+   "weight": 0.76,
+   "note_time": 42.6
+  },
+  {
+   "text": "there",
+   "time": 43.78,
+   "weight": 0.88,
+   "note_time": 43.2
+  },
+  {
+   "text": "Ta",
+   "time": 47.0,
+   "weight": 0.91,
+   "note_time": 46.4
+  },
+  {
+   "text": "mar",
+   "time": 47.35,
+   "weight": 0.91,
+   "note_time": 46.6
+  },
+  {
+   "text": "bore",
+   "time": 47.96,
+   "weight": 0.83,
+   "note_time": 47.2
+  },
+  {
+   "text": "Pe",
+   "time": 48.7,
+   "weight": 0.88,
+   "note_time": 47.8
+  },
+  {
+   "text": "rez",
+   "time": 49.05,
+   "weight": 0.88,
+   "note_time": 48.2
+  },
+  {
+   "text": "and",
+   "time": 49.48,
+   "weight": 1.0,
+   "note_time": 48.6
+  },
+  {
+   "text": "Ze",
+   "time": 49.92,
+   "weight": 0.99,
+   "note_time": 49.2
+  },
+  {
+   "text": "rah",
+   "time": 50.27,
+   "weight": 0.99,
+   "note_time": 49.4
+  },
+  {
+   "text": "E",
+   "time": 51.36,
+   "weight": 0.0,
+   "note_time": 52.4
+  },
+  {
+   "text": "lea",
+   "time": 52.45,
+   "weight": 0.0,
+   "note_time": 52.8
+  },
+  {
+   "text": "sah",
+   "time": 53.53,
+   "weight": 0.0,
+   "note_time": 53.6
+  },
+  {
+   "text": "fa",
+   "time": 54.62,
+   "weight": 0.15,
+   "note_time": 54.2
+  },
+  {
+   "text": "thered",
+   "time": 54.97,
+   "weight": 0.15,
+   "note_time": 54.8
+  },
+  {
+   "text": "Sis",
+   "time": 55.98,
+   "weight": 0.52,
+   "note_time": 55.2
+  },
+  {
+   "text": "mai",
+   "time": 56.33,
+   "weight": 0.52,
+   "note_time": 55.6
+  },
+  {
+   "text": "And",
+   "time": 58.78,
+   "weight": 0.45,
+   "note_time": 58.8
+  },
+  {
+   "text": "Sis",
+   "time": 59.06,
+   "weight": 0.0,
+   "note_time": 59.2
+  },
+  {
+   "text": "mai",
+   "time": 59.35,
+   "weight": 0.0,
+   "note_time": 60.0
+  },
+  {
+   "text": "fa",
+   "time": 59.63,
+   "weight": 0.0,
+   "note_time": 60.6
+  },
+  {
+   "text": "thered",
+   "time": 59.91,
+   "weight": 0.0,
+   "note_time": 61.2
+  },
+  {
+   "text": "Shal",
+   "time": 60.2,
+   "weight": 0.0,
+   "note_time": 61.6
+  },
+  {
+   "text": "lum",
+   "time": 60.48,
+   "weight": 0.0,
+   "note_time": 62.0
+  },
+  {
+   "text": "Sis",
+   "time": 60.77,
+   "weight": 0.0,
+   "note_time": 65.6
+  },
+  {
+   "text": "mai",
+   "time": 61.05,
+   "weight": 0.0,
+   "note_time": 66.4
+  },
+  {
+   "text": "fa",
+   "time": 61.33,
+   "weight": 0.0,
+   "note_time": 67.0
+  },
+  {
+   "text": "thered",
+   "time": 61.62,
+   "weight": 0.0,
+   "note_time": 67.6
+  },
+  {
+   "text": "Shal",
+   "time": 61.9,
+   "weight": 0.06,
+   "note_time": 68.0
+  },
+  {
+   "text": "lum",
+   "time": 62.25,
+   "weight": 0.06,
+   "note_time": 68.4
+  },
+  {
+   "text": "A",
+   "time": 66.8,
+   "weight": 0.0,
+   "note_time": 70.2
+  },
+  {
+   "text": "line",
+   "time": 71.34,
+   "weight": 0.89,
+   "note_time": 70.4
+  },
+  {
+   "text": "of",
+   "time": 71.62,
+   "weight": 1.0,
+   "note_time": 70.8
+  },
+  {
+   "text": "Ju",
+   "time": 71.96,
+   "weight": 1.0,
+   "note_time": 71.0
+  },
+  {
+   "text": "dah's",
+   "time": 72.31,
+   "weight": 1.0,
+   "note_time": 71.4
+  },
+  {
+   "text": "name",
+   "time": 72.7,
+   "weight": 0.99,
+   "note_time": 71.8
+  },
+  {
+   "text": "Jer",
+   "time": 79.62,
+   "weight": 0.47,
+   "note_time": 78.8
+  },
+  {
+   "text": "ah",
+   "time": 79.97,
+   "weight": 0.47,
+   "note_time": 79.0
+  },
+  {
+   "text": "meel,",
+   "time": 80.32,
+   "weight": 0.47,
+   "note_time": 79.4
+  },
+  {
+   "text": "Hez",
+   "time": 80.7,
+   "weight": 0.9,
+   "note_time": 79.8
+  },
+  {
+   "text": "ron's",
+   "time": 81.05,
+   "weight": 0.9,
+   "note_time": 80.2
+  },
+  {
+   "text": "first",
+   "time": 81.52,
+   "weight": 0.94,
+   "note_time": 80.6
+  },
+  {
+   "text": "born",
+   "time": 81.87,
+   "weight": 0.94,
+   "note_time": 81.0
+  },
+  {
+   "text": "Ram,",
+   "time": 82.6,
+   "weight": 0.41,
+   "note_time": 82.0
+  },
+  {
+   "text": "Bu",
+   "time": 83.3,
+   "weight": 0.63,
+   "note_time": 82.4
+  },
+  {
+   "text": "nah,",
+   "time": 83.6,
+   "weight": 0.63,
+   "note_time": 82.6
+  },
+  {
+   "text": "O",
+   "time": 83.9,
+   "weight": 0.48,
+   "note_time": 83.0
+  },
+  {
+   "text": "ren,",
+   "time": 84.25,
+   "weight": 0.48,
+   "note_time": 83.4
+  },
+  {
+   "text": "O",
+   "time": 84.7,
+   "weight": 0.68,
+   "note_time": 83.8
+  },
+  {
+   "text": "zem",
+   "time": 85.02,
+   "weight": 0.68,
+   "note_time": 84.2
+  },
+  {
+   "text": "A",
+   "time": 85.34,
+   "weight": 0.19,
+   "note_time": 85.6
+  },
+  {
+   "text": "hi",
+   "time": 85.69,
+   "weight": 0.19,
+   "note_time": 85.8
+  },
+  {
+   "text": "jah",
+   "time": 86.04,
+   "weight": 0.19,
+   "note_time": 86.2
+  },
+  {
+   "text": "joined",
+   "time": 87.14,
+   "weight": 0.8,
+   "note_time": 86.6
+  },
+  {
+   "text": "in",
+   "time": 87.76,
+   "weight": 1.0,
+   "note_time": 87.2
+  },
+  {
+   "text": "the",
+   "time": 88.4,
+   "weight": 0.99,
+   "note_time": 87.6
+  },
+  {
+   "text": "tree",
+   "time": 88.66,
+   "weight": 0.98,
+   "note_time": 87.8
+  },
+  {
+   "text": "Ram,",
+   "time": 91.98,
+   "weight": 0.79,
+   "note_time": 91.8
+  },
+  {
+   "text": "his",
+   "time": 93.18,
+   "weight": 0.96,
+   "note_time": 92.2
+  },
+  {
+   "text": "first",
+   "time": 93.4,
+   "weight": 0.99,
+   "note_time": 92.6
+  },
+  {
+   "text": "born,",
+   "time": 93.75,
+   "weight": 0.99,
+   "note_time": 93.0
+  },
+  {
+   "text": "si",
+   "time": 94.44,
+   "weight": 0.49,
+   "note_time": 93.6
+  },
+  {
+   "text": "red",
+   "time": 94.7,
+   "weight": 0.49,
+   "note_time": 93.8
+  },
+  {
+   "text": "more",
+   "time": 95.23,
+   "weight": 0.0,
+   "note_time": 94.2
+  },
+  {
+   "text": "Maaz,",
+   "time": 95.76,
+   "weight": 0.0,
+   "note_time": 94.8
+  },
+  {
+   "text": "Ja",
+   "time": 96.28,
+   "weight": 0.0,
+   "note_time": 95.4
+  },
+  {
+   "text": "min,",
+   "time": 96.81,
+   "weight": 0.0,
+   "note_time": 95.8
+  },
+  {
+   "text": "and",
+   "time": 97.34,
+   "weight": 0.97,
+   "note_time": 96.2
+  },
+  {
+   "text": "Ek",
+   "time": 97.7,
+   "weight": 0.28,
+   "note_time": 96.6
+  },
+  {
+   "text": "er",
+   "time": 97.99,
+   "weight": 0.28,
+   "note_time": 97.0
+  },
+  {
+   "text": "She",
+   "time": 98.28,
+   "weight": 0.28,
+   "note_time": 98.4
+  },
+  {
+   "text": "shan",
+   "time": 98.63,
+   "weight": 0.28,
+   "note_time": 98.6
+  },
+  {
+   "text": "had",
+   "time": 99.78,
+   "weight": 0.99,
+   "note_time": 99.0
+  },
+  {
+   "text": "no",
+   "time": 100.1,
+   "weight": 1.0,
+   "note_time": 99.4
+  },
+  {
+   "text": "sons",
+   "time": 100.54,
+   "weight": 1.0,
+   "note_time": 100.0
+  },
+  {
+   "text": "at",
+   "time": 101.18,
+   "weight": 1.0,
+   "note_time": 100.4
+  },
+  {
+   "text": "all",
+   "time": 101.54,
+   "weight": 1.0,
+   "note_time": 100.6
+  },
+  {
+   "text": "On",
+   "time": 104.7,
+   "weight": 0.3,
+   "note_time": 104.8
+  },
+  {
+   "text": "ly",
+   "time": 105.05,
+   "weight": 0.3,
+   "note_time": 105.2
+  },
+  {
+   "text": "daugh",
+   "time": 106.06,
+   "weight": 0.91,
+   "note_time": 105.4
+  },
+  {
+   "text": "ters",
+   "time": 106.41,
+   "weight": 0.91,
+   "note_time": 105.8
+  },
+  {
+   "text": "in",
+   "time": 106.92,
+   "weight": 0.99,
+   "note_time": 106.2
+  },
+  {
+   "text": "his",
+   "time": 107.38,
+   "weight": 0.44,
+   "note_time": 106.6
+  },
+  {
+   "text": "house",
+   "time": 107.74,
+   "weight": 0.98,
+   "note_time": 107.0
+  },
+  {
+   "text": "He",
+   "time": 108.36,
+   "weight": 0.35,
+   "note_time": 111.0
+  },
+  {
+   "text": "gave",
+   "time": 111.9,
+   "weight": 1.0,
+   "note_time": 111.2
+  },
+  {
+   "text": "his",
+   "time": 112.38,
+   "weight": 0.95,
+   "note_time": 111.6
+  },
+  {
+   "text": "daugh",
+   "time": 112.74,
+   "weight": 0.95,
+   "note_time": 111.8
+  },
+  {
+   "text": "ter",
+   "time": 113.0,
+   "weight": 0.95,
+   "note_time": 112.2
+  },
+  {
+   "text": "to",
+   "time": 113.26,
+   "weight": 0.99,
+   "note_time": 112.6
+  },
+  {
+   "text": "Jar",
+   "time": 114.18,
+   "weight": 0.0,
+   "note_time": 113.0
+  },
+  {
+   "text": "ha",
+   "time": 115.1,
+   "weight": 0.0,
+   "note_time": 114.0
+  },
+  {
+   "text": "E",
+   "time": 116.02,
+   "weight": 0.0,
+   "note_time": 116.4
+  },
+  {
+   "text": "lea",
+   "time": 116.94,
+   "weight": 0.0,
+   "note_time": 116.8
+  },
+  {
+   "text": "sah",
+   "time": 117.86,
+   "weight": 0.0,
+   "note_time": 117.6
+  },
+  {
+   "text": "fa",
+   "time": 118.78,
+   "weight": 0.83,
+   "note_time": 118.2
+  },
+  {
+   "text": "thered",
+   "time": 119.13,
+   "weight": 0.83,
+   "note_time": 118.8
+  },
+  {
+   "text": "Sis",
+   "time": 120.14,
+   "weight": 0.65,
+   "note_time": 119.2
+  },
+  {
+   "text": "mai",
+   "time": 120.49,
+   "weight": 0.65,
+   "note_time": 119.6
+  },
+  {
+   "text": "And",
+   "time": 121.14,
+   "weight": 0.35,
+   "note_time": 122.8
+  },
+  {
+   "text": "Sis",
+   "time": 122.47,
+   "weight": 0.0,
+   "note_time": 123.2
+  },
+  {
+   "text": "mai",
+   "time": 123.79,
+   "weight": 0.0,
+   "note_time": 124.0
+  },
+  {
+   "text": "fa",
+   "time": 125.12,
+   "weight": 0.97,
+   "note_time": 124.6
+  },
+  {
+   "text": "thered",
+   "time": 125.47,
+   "weight": 0.97,
+   "note_time": 125.2
+  },
+  {
+   "text": "Shal",
+   "time": 126.69,
+   "weight": 0.0,
+   "note_time": 125.6
+  },
+  {
+   "text": "lum",
+   "time": 127.91,
+   "weight": 0.0,
+   "note_time": 126.0
+  },
+  {
+   "text": "Sis",
+   "time": 129.12,
+   "weight": 0.0,
+   "note_time": 129.6
+  },
+  {
+   "text": "mai",
+   "time": 130.34,
+   "weight": 0.0,
+   "note_time": 130.4
+  },
+  {
+   "text": "fa",
+   "time": 131.56,
+   "weight": 0.52,
+   "note_time": 131.0
+  },
+  {
+   "text": "thered",
+   "time": 131.91,
+   "weight": 0.52,
+   "note_time": 131.6
+  },
+  {
+   "text": "Shal",
+   "time": 132.88,
+   "weight": 0.38,
+   "note_time": 132.0
+  },
+  {
+   "text": "lum",
+   "time": 133.23,
+   "weight": 0.38,
+   "note_time": 132.4
+  },
+  {
+   "text": "A",
+   "time": 133.78,
+   "weight": 0.75,
+   "note_time": 134.2
+  },
+  {
+   "text": "line",
+   "time": 135.26,
+   "weight": 0.98,
+   "note_time": 134.4
+  },
+  {
+   "text": "of",
+   "time": 135.7,
+   "weight": 0.99,
+   "note_time": 134.8
+  },
+  {
+   "text": "Ju",
+   "time": 135.96,
+   "weight": 0.99,
+   "note_time": 135.0
+  },
+  {
+   "text": "dah's",
+   "time": 136.31,
+   "weight": 0.99,
+   "note_time": 135.4
+  },
+  {
+   "text": "name",
+   "time": 136.7,
+   "weight": 0.98,
+   "note_time": 135.8
+  },
+  {
+   "text": "At",
+   "time": 139.35,
+   "weight": 0.0,
+   "note_time": 143.2
+  },
+  {
+   "text": "tai",
+   "time": 141.99,
+   "weight": 0.0,
+   "note_time": 143.4
+  },
+  {
+   "text": "fa",
+   "time": 144.64,
+   "weight": 0.95,
+   "note_time": 143.8
+  },
+  {
+   "text": "thered",
+   "time": 144.99,
+   "weight": 0.95,
+   "note_time": 144.2
+  },
+  {
+   "text": "Nat",
+   "time": 145.5,
+   "weight": 0.92,
+   "note_time": 144.6
+  },
+  {
+   "text": "han",
+   "time": 145.73,
+   "weight": 0.92,
+   "note_time": 145.0
+  },
+  {
+   "text": "then",
+   "time": 145.96,
+   "weight": 0.66,
+   "note_time": 145.4
+  },
+  {
+   "text": "Nat",
+   "time": 146.84,
+   "weight": 0.4,
+   "note_time": 149.6
+  },
+  {
+   "text": "han",
+   "time": 147.19,
+   "weight": 0.4,
+   "note_time": 149.8
+  },
+  {
+   "text": "fa",
+   "time": 150.84,
+   "weight": 0.97,
+   "note_time": 150.2
+  },
+  {
+   "text": "thered",
+   "time": 151.19,
+   "weight": 0.97,
+   "note_time": 150.6
+  },
+  {
+   "text": "Z",
+   "time": 151.94,
+   "weight": 0.65,
+   "note_time": 151.0
+  },
+  {
+   "text": "abad's",
+   "time": 152.29,
+   "weight": 0.65,
+   "note_time": 151.4
+  },
+  {
+   "text": "son",
+   "time": 152.84,
+   "weight": 0.98,
+   "note_time": 152.0
+  },
+  {
+   "text": "Z",
+   "time": 156.02,
+   "weight": 0.22,
+   "note_time": 156.0
+  },
+  {
+   "text": "abad",
+   "time": 156.37,
+   "weight": 0.22,
+   "note_time": 156.2
+  },
+  {
+   "text": "si",
+   "time": 157.42,
+   "weight": 0.28,
+   "note_time": 156.6
+  },
+  {
+   "text": "red",
+   "time": 157.74,
+   "weight": 0.28,
+   "note_time": 157.0
+  },
+  {
+   "text": "Ep",
+   "time": 158.24,
+   "weight": 0.5,
+   "note_time": 157.4
+  },
+  {
+   "text": "hlal,",
+   "time": 158.59,
+   "weight": 0.5,
+   "note_time": 157.8
+  },
+  {
+   "text": "yes",
+   "time": 159.22,
+   "weight": 0.82,
+   "note_time": 158.4
+  },
+  {
+   "text": "Ep",
+   "time": 159.56,
+   "weight": 0.3,
+   "note_time": 162.4
+  },
+  {
+   "text": "hlal",
+   "time": 159.91,
+   "weight": 0.3,
+   "note_time": 162.6
+  },
+  {
+   "text": "si",
+   "time": 164.0,
+   "weight": 0.99,
+   "note_time": 163.2
+  },
+  {
+   "text": "red",
+   "time": 164.35,
+   "weight": 0.99,
+   "note_time": 163.4
+  },
+  {
+   "text": "O",
+   "time": 164.7,
+   "weight": 0.8,
+   "note_time": 163.8
+  },
+  {
+   "text": "bed's",
+   "time": 165.05,
+   "weight": 0.8,
+   "note_time": 164.2
+  },
+  {
+   "text": "line",
+   "time": 165.7,
+   "weight": 0.92,
+   "note_time": 164.8
+  },
+  {
+   "text": "O",
+   "time": 168.82,
+   "weight": 0.98,
+   "note_time": 168.8
+  },
+  {
+   "text": "bed",
+   "time": 169.17,
+   "weight": 0.98,
+   "note_time": 169.0
+  },
+  {
+   "text": "si",
+   "time": 170.22,
+   "weight": 0.82,
+   "note_time": 169.6
+  },
+  {
+   "text": "red",
+   "time": 170.57,
+   "weight": 0.82,
+   "note_time": 170.0
+  },
+  {
+   "text": "Je",
+   "time": 171.04,
+   "weight": 0.8,
+   "note_time": 170.2
+  },
+  {
+   "text": "hu,",
+   "time": 171.35,
+   "weight": 0.8,
+   "note_time": 170.6
+  },
+  {
+   "text": "then",
+   "time": 171.66,
+   "weight": 0.88,
+   "note_time": 171.2
+  },
+  {
+   "text": "Je",
+   "time": 172.38,
+   "weight": 0.38,
+   "note_time": 175.2
+  },
+  {
+   "text": "hu",
+   "time": 172.73,
+   "weight": 0.38,
+   "note_time": 175.4
+  },
+  {
+   "text": "si",
+   "time": 176.54,
+   "weight": 0.7,
+   "note_time": 176.0
+  },
+  {
+   "text": "red",
+   "time": 176.89,
+   "weight": 0.7,
+   "note_time": 176.4
+  },
+  {
+   "text": "A",
+   "time": 177.36,
+   "weight": 0.93,
+   "note_time": 176.6
+  },
+  {
+   "text": "za",
+   "time": 177.71,
+   "weight": 0.93,
+   "note_time": 177.0
+  },
+  {
+   "text": "riah",
+   "time": 178.06,
+   "weight": 0.93,
+   "note_time": 177.4
+  },
+  {
+   "text": "A",
+   "time": 177.5,
+   "weight": 0.15,
+   "note_time": 181.6
+  },
+  {
+   "text": "za",
+   "time": 177.85,
+   "weight": 0.15,
+   "note_time": 181.8
+  },
+  {
+   "text": "riah",
+   "time": 178.2,
+   "weight": 0.15,
+   "note_time": 182.4
+  },
+  {
+   "text": "si",
+   "time": 178.9,
+   "weight": 0.06,
+   "note_time": 182.8
+  },
+  {
+   "text": "red",
+   "time": 179.25,
+   "weight": 0.06,
+   "note_time": 183.0
+  },
+  {
+   "text": "He",
+   "time": 183.14,
+   "weight": 0.06,
+   "note_time": 183.4
+  },
+  {
+   "text": "lez",
+   "time": 183.49,
+   "weight": 0.06,
+   "note_time": 184.0
+  },
+  {
+   "text": "He",
+   "time": 184.01,
+   "weight": 0.0,
+   "note_time": 188.0
+  },
+  {
+   "text": "lez",
+   "time": 184.52,
+   "weight": 0.0,
+   "note_time": 188.2
+  },
+  {
+   "text": "si",
+   "time": 185.04,
+   "weight": 0.0,
+   "note_time": 188.8
+  },
+  {
+   "text": "red",
+   "time": 185.55,
+   "weight": 0.0,
+   "note_time": 189.2
+  },
+  {
+   "text": "E",
+   "time": 186.07,
+   "weight": 0.0,
+   "note_time": 189.4
+  },
+  {
+   "text": "lea",
+   "time": 186.58,
+   "weight": 0.0,
+   "note_time": 189.8
+  },
+  {
+   "text": "sah",
+   "time": 187.1,
+   "weight": 0.0,
+   "note_time": 190.4
+  },
+  {
+   "text": "E",
+   "time": 187.61,
+   "weight": 0.0,
+   "note_time": 193.2
+  },
+  {
+   "text": "lea",
+   "time": 188.13,
+   "weight": 0.0,
+   "note_time": 193.6
+  },
+  {
+   "text": "sah",
+   "time": 188.64,
+   "weight": 0.0,
+   "note_time": 194.4
+  },
+  {
+   "text": "fa",
+   "time": 189.16,
+   "weight": 0.84,
+   "note_time": 195.0
+  },
+  {
+   "text": "thered",
+   "time": 189.51,
+   "weight": 0.84,
+   "note_time": 195.6
+  },
+  {
+   "text": "Sis",
+   "time": 190.56,
+   "weight": 0.58,
+   "note_time": 196.0
+  },
+  {
+   "text": "mai",
+   "time": 190.91,
+   "weight": 0.58,
+   "note_time": 196.4
+  },
+  {
+   "text": "And",
+   "time": 193.02,
+   "weight": 0.83,
+   "note_time": 199.6
+  },
+  {
+   "text": "Sis",
+   "time": 193.88,
+   "weight": 0.0,
+   "note_time": 200.0
+  },
+  {
+   "text": "mai",
+   "time": 194.74,
+   "weight": 0.0,
+   "note_time": 200.8
+  },
+  {
+   "text": "fa",
+   "time": 195.6,
+   "weight": 0.98,
+   "note_time": 201.4
+  },
+  {
+   "text": "thered",
+   "time": 195.95,
+   "weight": 0.98,
+   "note_time": 202.0
+  },
+  {
+   "text": "Shal",
+   "time": 196.35,
+   "weight": 0.0,
+   "note_time": 202.4
+  },
+  {
+   "text": "lum",
+   "time": 196.75,
+   "weight": 0.0,
+   "note_time": 202.8
+  }
+ ],
+ "chord_sheet_pages": 1,
+ "lilypond_warnings": [],
+ "quality": "28 of 34 lyric lines sit clearly on their notes; 6 are uncertain and printed in grey italics."
+}

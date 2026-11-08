@@ -1,0 +1,68 @@
+{
+  "id": "person-midjan-folk",
+  "title": "Sent Eastward to the Land of the East",
+  "kind": "person",
+  "anchor": {
+    "person": "midjan"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 5,
+      "verseEnd": 6
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 32,
+      "verseEnd": 33
+    }
+  ],
+  "tags": {
+    "style": [
+      "folk"
+    ],
+    "sentiment": [
+      "promise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "midjan",
+      "abraham",
+      "isak",
+      "ismael",
+      "ketura"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice with soft choir backing, acoustic guitar, banjo, fiddle, gentle percussion, melancholic and storytelling, 85 BPM",
+    "lyrics": "[Verse]\nAbraham took another wife named Keturah\nShe bore him sons of a different line\nMidian was born before the end came\nOne of the six who were his\n\n[Verse]\nHe gave everything he owned to Isaac\nBut to the sons of his concubines he gave gifts\nWhile he was still alive he sent them away\nEastward to the land of the east\n\n[Chorus]\nSent eastward to the land of the east\nAway from the inheritance of Isaac\nTo the sons of his concubines he gave gifts\nA separate path in the eastern light\n\n[Verse]\nEphah and Epher and Hanoch too\nAbida and Eldaah are named\nThe sons of Midian were the children\nOf Keturah in the ancient days\n\n[Chorus]\nSent eastward to the land of the east\nAway from the inheritance of Isaac\nTo the sons of his concubines he gave gifts\nA separate path in the eastern light\n\n[Bridge]\nAll these were the sons of Keturah\nRecorded in the books of Chronicles\nMidian the ancestor of the clans\nLived in the areas south and east\n\n[Chorus]\nSent eastward to the land of the east\nAway from the inheritance of Isaac\nTo the sons of his concubines he gave gifts\nA separate path in the eastern light\n\n[Outro]\nEastward to the land of the east\nSent away while he was still alive",
+    "cot": "full",
+    "seed": 31444
+  }
+}

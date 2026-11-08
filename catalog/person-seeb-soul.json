@@ -1,0 +1,60 @@
+{
+  "id": "person-seeb-soul",
+  "title": "Sons of Shem",
+  "kind": "person",
+  "anchor": {
+    "person": "seeb"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 7,
+      "verseEnd": 28
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verseStart": 3,
+      "verseEnd": 3
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 32
+    }
+  ],
+  "tags": {
+    "style": [
+      "soul"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "holiness",
+      "faith"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "seeb",
+      "adam",
+      "set",
+      "noah"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male baritone soul, solo voice with gospel choir, upright piano, Hammond organ, warm electric bass, soft drums, reverent and gentle mood, 72 BPM",
+    "lyrics": "[Verse]\nFrom the sons of Cush, Seba is named\nHavilah, Sabtah, and Raamah\nThe sons of Raamah, Sheba and Dedan\nA line of nations, known by name\nCush fathered Nimrod, mighty on earth\nA hunter before the Lord, it is said\nLike Nimrod, a mighty hunter\nKingdoms of Babel, Erech, and Akkad\n\n[Chorus]\nSons of Shem, the older brother\nFather of all the sons of Eber\nElam, Asshur, Arpachshad\nLud, and Aram, by their clans\n\n[Verse]\nArpachshad fathered Shelah\nShelah fathered Eber, the line\nTwo sons were born to Eber\nPeleg, for the earth was divided\nJoktan fathered Almodad\nSheleph, Hazarmaveth, Jerah\nHadoram, Uzal, Diklah\nObal, Abimael, and Sheba\n\n[Chorus]\nSons of Shem, the older brother\nFather of all the sons of Eber\nElam, Asshur, Arpachshad\nLud, and Aram, by their clans\n\n[Bridge]\nJokshan fathered Sheba and Dedan\nThe sons of Dedan, Asshurim\nLetushim, and Leummim born\nKeturah bore Zimran, Jokshan\nMedan, Midian, Ishbak, Shuah\nThe lineage spreads, the branches grow\n\n[Outro]\nShem, Arpachshad, Shelah\nEber, Peleg, Reu, Serug\nNahor, Terah, Abram\nThat is Abraham, the father\n\n[Chorus]\nSons of Shem, the older brother\nFather of all the sons of Eber\nElam, Asshur, Arpachshad\nLud, and Aram, by their clans",
+    "cot": "full",
+    "seed": 31449
+  }
+}

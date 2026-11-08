@@ -1,0 +1,68 @@
+{
+  "id": "person-mesjesabel-choral",
+  "title": "The Wall Is Finished",
+  "kind": "person",
+  "anchor": {
+    "person": "mesjesabel"
+  },
+  "references": [
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 4,
+      "verseEnd": 4
+    },
+    {
+      "bookId": 16,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 16,
+      "chapter": 6,
+      "verseStart": 15,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 16,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 3
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [
+      "praise",
+      "promise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "guds-hellighet"
+    ],
+    "stories": [],
+    "persons": [
+      "mesjesabel",
+      "nehemja",
+      "berekja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male tenor solo with choir, organ, strings, timpani, choral, solemn, 72 BPM",
+    "lyrics": "[Verse]\nEliashib the high priest began\nRebuilding the Sheep Gate again\nThey consecrated it with care\nSet doors and bolted them there\n\n[Verse]\nNext to them Meremoth worked on\nRepairs for the city strong\nMeshullam son of Berechiah\nMade repairs as the wall grew\n\n[Verse]\nZadok son of Baana joined\nNext to them their labor joined\nMen of Tekoa made repairs\nBut nobles would not lift their cares\n\n[Verse]\nOn the twenty-fifth of Elul\nThe wall was finished, it was full\nIn fifty-two days it stood\nAgainst all the enemy’s mood\n\n[Outro]\nThey knew it was our God",
+    "cot": "full",
+    "seed": 31443
+  }
+}

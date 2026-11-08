@@ -1,0 +1,68 @@
+{
+  "id": "person-omar-rock",
+  "title": "Chief Omar",
+  "kind": "person",
+  "anchor": {
+    "person": "omar"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 11,
+      "verseEnd": 11
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 15,
+      "verseEnd": 15
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 36,
+      "verseEnd": 36
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 9,
+      "verseEnd": 16
+    }
+  ],
+  "tags": {
+    "style": [
+      "rock"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "omar",
+      "esau",
+      "elifas",
+      "teman",
+      "amalek"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with deep choir, electric guitar, bass guitar, drums, acoustic guitar, organ, serious and grounded mood, 80 BPM",
+    "lyrics": "[Verse]\nIn the hill country of Seir the line began\nEsau the father of the Edomites is named\nEliphaz his firstborn son from Adah came\nAnd the chiefs among his descendants rose to fame\n\n[Chorus]\nChief Teman and Chief Omar stand tall\nChief Zepho and Chief Kenaz answer the call\nDescended from Eliphaz in the land of Edom\nTheir history is written in the family song\n\n[Verse]\nThe sons of Eliphaz are listed by name\nTeman Omar Zepho Gatam and Kenaz are the same\nThey formed the foundation of the tribes so dear\nSettled in the mountains for generations near\n\n[Chorus]\nChief Teman and Chief Omar stand tall\nChief Zepho and Chief Kenaz answer the call\nDescended from Eliphaz in the land of Edom\nTheir history is written in the family song\n\n[Bridge]\nFrom Adam to the end the genealogy flows\nOne Chronicles confirms what the record knows\nOmar is a chief in the line of Esau\nHis place in the history is firmly drawn\n\n[Outro]\nChief Omar is named in the book of Genesis\nA tribal leader in the land of Edom",
+    "cot": "full",
+    "seed": 31447
+  }
+}

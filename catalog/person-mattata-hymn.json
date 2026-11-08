@@ -1,0 +1,65 @@
+{
+  "id": "person-mattata-hymn",
+  "title": "Steadfast Love",
+  "kind": "person",
+  "anchor": {
+    "person": "mattata"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 31,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 10,
+      "chapter": 7,
+      "verseStart": 12,
+      "verseEnd": 16
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 23,
+      "verseEnd": 38
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant",
+      "salvation"
+    ],
+    "themes": [
+      "pakten",
+      "frelsen",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "mattata",
+      "jesus",
+      "david",
+      "natan",
+      "menna"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, solemn male baritone solo, acoustic guitar, piano, cello, soft strings, reflective, 72 BPM",
+    "lyrics": "[Verse]\nThe son of Melea, the son of Menna\nThe son of Mattatha, the son of Nathan\nA name held tight in the royal chain\nA link within the blood and rain\n\n[Verse]\nWhen your days are done and you rest\nWith your fathers in the dust and west\nI will raise up your offspring near\nFrom your own body, clear and dear\n\n[Verse]\nHe is the one who builds a house\nFor my name, without a single doubt\nI will establish his throne\nIn the garden of the bone and stone\n\n[Verse]\nI will be a father to him\nAnd he shall be a son to him\nWhen he does wrong, I will discipline\nWith the rod of men, with a human line\n\n[Verse]\nBut my steadfast love will never depart\nAs I took it from Saul, my heart\nYour house and kingdom endure before\nYour throne is established once and for ever\n\n[Outro]\nThe son of Adam, the son of God",
+    "cot": "full",
+    "seed": 31442
+  }
+}

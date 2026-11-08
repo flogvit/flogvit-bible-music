@@ -1,0 +1,57 @@
+{
+  "id": "person-mattat-jazz",
+  "title": "Son of Matthat",
+  "kind": "person",
+  "anchor": {
+    "person": "mattat"
+  },
+  "references": [
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 24,
+      "verseEnd": 24
+    },
+    {
+      "bookId": 42,
+      "chapter": 3,
+      "verseStart": 23,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith",
+      "covenant"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "mattat",
+      "jesus",
+      "david",
+      "levi-lukas-slektslinje",
+      "eli"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female solo voice, warm and intimate, upright bass, brushed drums, piano, muted trumpet, saxophone, smooth jazz mood, 90 BPM",
+    "lyrics": "[Verse]\nThe line goes back through years unknown\nFrom Levi's name to Jannai's throne\nJoseph is the fifth in the row\nA thread that only God knows\n\n[Pre-Chorus]\nBetween the ages, waiting still\nHis place is listed, quiet, mild\nIn the book of Luke's record\nHis name is held with sacred accord\n\n[Chorus]\nHe is the son of Matthat\nThe son of Levi, that is that\nIn the chain from David's day\nThe promise held in ordinary way\n\n[Verse]\nAmos follows, then Nahum\nEsli and Naggai come with him\nMaath and Semein stand by\nJosech and Joda, under the sky\n\n[Pre-Chorus]\nJoanan and Rhesa appear\nZerubbabel is there\nShealtiel and Neri follow close\nMelchi and Addi, lost in the prose\n\n[Chorus]\nHe is the son of Matthat\nThe son of Levi, that is that\nIn the chain from David's day\nThe promise held in ordinary way\n\n[Verse]\nCosam and Elmadam stand\nEr and Joshua, as required by hand\nEliezer and Jorim near\nMatthat again, Levi is dear\n\n[Pre-Chorus]\nSimeon and Judah are named\nJoseph and Jonam, in the game\nEliakim and Melea seen\nMenna and Mattatha, the ancient dream\n\n[Chorus]\nHe is the son of Matthat\nThe son of Levi, that is that\nIn the chain from David's day\nThe promise held in ordinary way\n\n[Bridge]\nNathan and David end the list\nA faithful link, a holy gist\nFrom Adam down to Jesus' face\nGod kept the promise in time and space\n\n[Outro]\nThe son of Matthat\nRemembered in the chain of days",
+    "cot": "full",
+    "seed": 31441
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person-naham-gospel",
+  "title": "Brother of the Sister",
+  "kind": "person",
+  "anchor": {
+    "person": "naham"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 19,
+      "verseEnd": 19
+    },
+    {
+      "bookId": 6,
+      "chapter": 15,
+      "verseStart": 44,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 6,
+      "chapter": 21,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 13,
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 23
+    }
+  ],
+  "tags": {
+    "style": [
+      "gospel"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "love"
+    ],
+    "themes": [
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "naham",
+      "hodija",
+      "egla",
+      "esjtemoa"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, deep male voice with gospel choir, piano, organ, drums, bass, cello, solemn and reflective mood, 80 BPM",
+    "lyrics": "[Verse]\nA name is written in the scroll\nAmong the sons of Judah\nThe record keeps the family whole\nThough few have heard his name\n\n[Verse]\nHe is the brother of the wife\nOf Hodiah known in Judea\nHer sister stands within the life\nA thread of ancient lineage\n\n[Chorus]\nFather of Keilah the Garmite\nAnd Eshtemoa the Maacathite\nHis name is bound to holy ground\nIn the tribal record found\n\n[Verse]\nKeilah stands with Akzib near\nAnd Mareshah in the list\nNine towns with their villages appear\nIn the allotted land of bliss\n\n[Verse]\nEshtemoa with its pastureland\nWhere shepherds keep their flocks\nPart of the inheritance planned\nFor the sons of Judah\n\n[Chorus]\nFather of Keilah the Garmite\nAnd Eshtemoa the Maacathite\nHis name is bound to holy ground\nIn the tribal record found\n\n[Outro]\nA name preserved in the book\nFor those who search and look",
+    "cot": "full",
+    "seed": 31445
+  }
+}

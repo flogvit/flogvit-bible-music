@@ -1,0 +1,55 @@
+{
+  "id": "person-obil-orchestral",
+  "title": "In Charge of the Camels",
+  "kind": "person",
+  "anchor": {
+    "person": "obil"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 27,
+      "verseStart": 30,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 13,
+      "chapter": 27,
+      "verseStart": 25,
+      "verseEnd": 31
+    }
+  ],
+  "tags": {
+    "style": [
+      "orchestral"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "obedience",
+      "faith",
+      "holiness"
+    ],
+    "themes": [
+      "david",
+      "guds-trofasthet"
+    ],
+    "stories": [],
+    "persons": [
+      "obil",
+      "david",
+      "jahseja"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with full choir, harp, flute, strings, timpani, solemn and majestic, 90 BPM",
+    "lyrics": "[Verse]\nObil the Ishmaelite stands\nAmidst the lists of David's hand\nIn charge of the camels he is known\nA servant to the throne alone\n\n[Verse]\nHe works beside Jehdeiah of Meronoth\nWho watches over the she-donkeys\nThe fields and flocks are all managed\nBy men of wisdom and by angels\n\n[Chorus]\nObil the Ishmaelite was in charge of the camels\nHe holds the reins of David's wealth\nA name recorded in the chronicles\nIn the service of the king's health\n\n[Verse]\nFrom storehouses in towns and villages\nTo herds that graze in Sharon land\nThe administration is complete\nAs the text of scripture plans\n\n[Chorus]\nObil the Ishmaelite was in charge of the camels\nHe holds the reins of David's wealth\nA name recorded in the chronicles\nIn the service of the king's health\n\n[Bridge]\nJaziz the Hagrite keeps the flocks\nWhile Shitrai tends the Sharon hills\nTogether they manage the property\nOf the king who the people fills\n\n[Chorus]\nObil the Ishmaelite was in charge of the camels\nHe holds the reins of David's wealth\nA name recorded in the chronicles\nIn the service of the king's health\n\n[Outro]\nObil the Ishmaelite was in charge of the camels\nHis duty in the record remains",
+    "cot": "full",
+    "seed": 31446
+  }
+}

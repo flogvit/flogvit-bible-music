@@ -1,0 +1,51 @@
+{
+  "id": "person-jabal-pop",
+  "title": "Father of Tents",
+  "kind": "person",
+  "anchor": {
+    "person": "jabal"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 20,
+      "verseEnd": 20
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verseStart": 19,
+      "verseEnd": 24
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "jabal",
+      "kain",
+      "lamek-metusaels-sonn-etterkommer-av-kain",
+      "ada",
+      "jubal"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo vocal, warm baritone character, acoustic guitar, gentle strings, soft drums, piano, hopeful and contemplative mood, 85 BPM",
+    "lyrics": "[Verse]\nLamech took two wives for himself\nOne was named Adah, the other Zillah\nAdah gave birth to a son\nHis name was Jabal in the land\n\n[Chorus]\nHe was the father of those who live in tents\nAnd keep livestock under the open sky\nWalking the paths that he had made\nA nomadic life beginning to rise\n\n[Verse]\nIn the line of Cain he stood\nPart of a family growing wide\nJubal played the lyre and pipe\nTubal-Cain forged the bronze and iron\n\n[Chorus]\nHe was the father of those who live in tents\nAnd keep livestock under the open sky\nWalking the paths that he had made\nA nomadic life beginning to rise\n\n[Bridge]\nBefore the flood the world was young\nCultural pioneers finding their way\nTents and flocks in the ancient days\nLiving out the promise of the land\n\n[Outro]\nFather of those who live in tents\nKeeping the livestock through the years",
+    "cot": "full",
+    "seed": 31440
+  }
+}

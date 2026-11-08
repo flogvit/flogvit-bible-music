@@ -1,0 +1,54 @@
+{
+  "id": "person-raham-children",
+  "title": "Line of Shema",
+  "kind": "person",
+  "anchor": {
+    "person": "raham"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 44,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 42,
+      "verseEnd": 45
+    }
+  ],
+  "tags": {
+    "style": [
+      "children"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "tro"
+    ],
+    "stories": [],
+    "persons": [
+      "raham",
+      "kaleb",
+      "shema-hebrons-sonn",
+      "jorkeam",
+      "maon"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, gentle female solo voice with soft choir, acoustic guitar, piano, flute, harp, warm and nostalgic mood, 90 BPM",
+    "lyrics": "[Verse]\nIn the land where Caleb walked\nThe sons of Jerahmeel’s kin\nMesha the firstborn stood\nFather of Ziph the old hill\nHebron’s sons came forth\nKorah and Tappuah there\nRekem and Shema\nRoots in the southern ground\n\n[Pre-Chorus]\nFrom the branch of Shema\nA name is clearly known\nRaham was his son\nPart of Judah’s line\n\n[Chorus]\nShema fathered Raham\nRaham was father of Jorkeam\nThe bloodline flows on\nIn the promised land\n\n[Verse]\nRekem fathered Shammai\nShammai had a son\nMaon was his name\nFather of Beth Zur\nThe towns they founded\nMark the history\nOf this tribe in Judah\nSettled in the earth\n\n[Chorus]\nShema fathered Raham\nRaham was father of Jorkeam\nThe bloodline flows on\nIn the promised land\n\n[Bridge]\nFrom Hebron to the hills\nThe names are recorded here\nA branch of Caleb’s house\nKept in the book of years\n\n[Outro]\nRaham and Jorkeam\nLine of Shema stands",
+    "cot": "full",
+    "seed": 31448
+  }
+}

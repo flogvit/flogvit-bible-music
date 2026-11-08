@@ -1,0 +1,66 @@
+{
+  "id": "person-sjearja-pop",
+  "title": "Six Sons of Azel",
+  "kind": "person",
+  "anchor": {
+    "person": "sjearja"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 38,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 44,
+      "verseEnd": 44
+    },
+    {
+      "bookId": 13,
+      "chapter": 8,
+      "verseStart": 33,
+      "verseEnd": 38
+    },
+    {
+      "bookId": 13,
+      "chapter": 9,
+      "verseStart": 43,
+      "verseEnd": 44
+    }
+  ],
+  "tags": {
+    "style": [
+      "pop"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "faith"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten"
+    ],
+    "stories": [],
+    "persons": [
+      "sjearja",
+      "saul",
+      "jonatan",
+      "mefiboset",
+      "mika"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm female solo voice with soft choir support, acoustic guitar, piano, cello, gentle percussion, peaceful and reflective mood, 85 BPM",
+    "lyrics": "[Verse]\nNer fathered Kish\nKish fathered Saul\nSaul fathered Jonathan\nMalchishua Abinadab\nEshbaal followed on\nThe line of the house\nWas kept in the book\nOf the tribe of Benjamin\n\n[Chorus]\nAzel had six sons\nAnd these are their names\nAzrikam and Bocheru\nIshmael and Sheariah\nObadiah and Hanan\nAll these were the sons\n\n[Verse]\nJonathan had Merib-baal\nMerib-baal fathered Micah\nPithon Melech and Tarea\nAhaz was his son\nJehoaddah came next\nAlemeth Azmaveth\nZimri fathered Moza\nMoza fathered Binea\n\n[Chorus]\nAzel had six sons\nAnd these are their names\nAzrikam and Bocheru\nIshmael and Sheariah\nObadiah and Hanan\nAll these were the sons\n\n[Bridge]\nRaphah was his son\nEleasah his son\nAzel was his son\nThe record is clear\nIn chapter nine again\nThe names are listed\nSix sons of Azel\nThe lineage is true\n\n[Chorus]\nAzel had six sons\nAnd these are their names\nAzrikam and Bocheru\nIshmael and Sheariah\nObadiah and Hanan\nAll these were the sons\n\n[Outro]\nSheariah is named\nIn the royal house\nThe descendants of Saul\nAre preserved in song",
+    "cot": "full",
+    "seed": 31456
+  }
+}

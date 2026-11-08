@@ -1,0 +1,67 @@
+{
+  "id": "person-sjefo-jazz",
+  "title": "Sons of Shobal",
+  "kind": "person",
+  "anchor": {
+    "person": "sjefo"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 23,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 20,
+      "verseEnd": 23
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 1,
+      "chapter": 36,
+      "verseStart": 29,
+      "verseEnd": 30
+    }
+  ],
+  "tags": {
+    "style": [
+      "jazz"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "guds-trofasthet",
+      "pakten",
+      "visdom"
+    ],
+    "stories": [],
+    "persons": [
+      "sjefo",
+      "esau",
+      "seir",
+      "sjobal",
+      "timna"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, female jazz vocal, smooth, upright bass, piano, acoustic guitar, brushed drums, mellow mood, 90 BPM",
+    "lyrics": "[Verse]\nIn the land where the Horites once stood\nBefore Esau came to claim the land\nLotan and Shobal and Zibeon\nAnah and Dishon in the sun\nEzer and Dishan held the place\nChiefs of the clans in the ancient days\nTimna was Lotan's sister true\nAnd Shobal had sons who bore his name\n\n[Chorus]\nAlvan and Manahath and Ebal\nShepho and Onam in the line\nThese were the sons of Shobal's house\nLiving in the land of Seir\nAlyan and Manahath again\nEbal and Shephi and Onam\nRecorded in the book of days\nPart of Edom's early fame\n\n[Verse]\nThe Horite chiefs held clan by clan\nIn the land of Seir they dwelt\nBefore the descendants of Esau\nCame to take their inheritance\nThe genealogy lists them clear\nFrom Genesis to Chronicles' page\nZepho is found in the list of sons\nWithin the structure of the tribe\n\n[Chorus]\nAlvan and Manahath and Ebal\nShepho and Onam in the line\nThese were the sons of Shobal's house\nLiving in the land of Seir\nAlyan and Manahath again\nEbal and Shephi and Onam\nRecorded in the book of days\nPart of Edom's early fame\n\n[Outro]\nSons of Shobal in the land\nNames preserved for the generations",
+    "cot": "full",
+    "seed": 31457
+  }
+}

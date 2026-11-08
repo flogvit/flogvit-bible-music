@@ -1,0 +1,54 @@
+{
+  "id": "person-sjelef-hymn",
+  "title": "Joktan's Son",
+  "kind": "person",
+  "anchor": {
+    "person": "sjelef"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verseStart": 26,
+      "verseEnd": 26
+    },
+    {
+      "bookId": 13,
+      "chapter": 1,
+      "verseStart": 20,
+      "verseEnd": 20
+    }
+  ],
+  "tags": {
+    "style": [
+      "hymn"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "salvation"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjelef",
+      "sem",
+      "eber",
+      "peleg",
+      "joktan"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo voice, solemn and narrative, acoustic guitar, strings, piano, organ, harp, hymn, 80 BPM",
+    "lyrics": "[Verse]\nJoktan fathered Almodad\nSheleph came next in the line\nHazarmaveth and Jerah\nIn the east they drew near\n\n[Verse]\nSons of Shem after the Flood\nDescendants of Noah's blood\nA family tree from the start\nIn the land of the east part\n\n[Verse]\nThirteen sons in the list\nOf Joktan's lineage distinct\nIn the mountain regions high\nUnder the open sky\n\n[Verse]\nGenesis records their names\nChronicles repeats the same\nFrom the beginning of days\nTo the light of our eyes\n\n[Verse]\nPart of the nations spread\nAfter the Tower's head\nScattered across the land\nBy the Father's command\n\n[Outro]\nSheleph remains in the text",
+    "cot": "full",
+    "seed": 31458
+  }
+}

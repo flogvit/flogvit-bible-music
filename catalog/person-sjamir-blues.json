@@ -1,0 +1,55 @@
+{
+  "id": "person-sjamir-blues",
+  "title": "Buried in Shamir",
+  "kind": "person",
+  "anchor": {
+    "person": "sjamir"
+  },
+  "references": [
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 2
+    },
+    {
+      "bookId": 7,
+      "chapter": 10,
+      "verseStart": 2,
+      "verseEnd": 2
+    }
+  ],
+  "tags": {
+    "style": [
+      "blues"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [
+      "funeral"
+    ],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sjamir",
+      "tola",
+      "jair",
+      "debora",
+      "gideon"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male voice, gritty solo with backing choir, acoustic guitar, upright bass, light percussion, mournful mood, 80 BPM",
+    "lyrics": "[Verse]\nTola son of Puah stood up\nA man of Issachar by blood\nHe rose to deliver Israel\nFrom the weight of the flood\nHe lived in Shamir the hill\nIn the country of Ephraim still\nA place where the shadows lie\nAnd the quiet winds blow by\n\n[Chorus]\nHe judged Israel twenty-three years\nAnd then he died and was buried there\nIn Shamir the hill country of Ephraim\nResting in the earth so deep and dim\n\n[Verse]\nHe maintained the law and order\nIn times of peace and calm\nNo great wars to fight or fear\nJust the daily toil and work\nThe minor judge among them all\nKeeping the people true\nIn the hill country of Ephraim\nWhere the roots run deep and blue\n\n[Chorus]\nHe judged Israel twenty-three years\nAnd then he died and was buried there\nIn Shamir the hill country of Ephraim\nResting in the earth so deep and dim\n\n[Bridge]\nAfter Abimelech he rose\nTo stand in the justice line\nTola son of Puah known\nIn the heart of Issachar's vine\n\n[Outro]\nHe judged Israel twenty-three years\nAnd then he died and was buried there",
+    "cot": "full",
+    "seed": 31455
+  }
+}

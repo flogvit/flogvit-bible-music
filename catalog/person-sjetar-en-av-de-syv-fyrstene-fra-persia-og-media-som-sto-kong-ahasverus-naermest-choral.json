@@ -1,0 +1,65 @@
+{
+  "id": "person-sjetar-en-av-de-syv-fyrstene-fra-persia-og-media-som-sto-kong-ahasverus-naermest-choral",
+  "title": "Seven Officials",
+  "kind": "person",
+  "anchor": {
+    "person": "sjetar-en-av-de-syv-fyrstene-fra-persia-og-media-som-sto-kong-ahasverus-naermest"
+  },
+  "references": [
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 12
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 13,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 17,
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 21
+    }
+  ],
+  "tags": {
+    "style": [
+      "choral"
+    ],
+    "sentiment": [],
+    "liturgy": [],
+    "theme": [],
+    "themes": [
+      "moses",
+      "josef",
+      "abraham",
+      "david"
+    ],
+    "stories": [],
+    "persons": [
+      "sjetar-en-av-de-syv-fyrstene-fra-persia-og-media-som-sto-kong-ahasverus-naermest",
+      "ahasverus",
+      "karsjena",
+      "admata",
+      "tarsjisj"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "form": "strophic",
+  "request": {
+    "style": "English, male solo, choir, harp, strings, flute, oboe, solemn, 72 BPM",
+    "lyrics": "[Verse]\nThe seventh day the wine was bright\nThe king commanded eunuchs to the light\nTo bring the queen with royal crown\nTo show her beauty to the town\n\n[Verse]\nBut Queen Vashti refused to come\nHer face against the king's command\nThe anger burned within his heart\nA crisis at the court apart\n\n[Verse]\nHe sought the wise who knew the times\nTo judge the matter in the lines\nFor it was custom for the king\nTo ask the laws on which he cling\n\n[Verse]\nCarshena Shethar Admatha\nTarshish Meres and Marsena\nWith Memucan the seven men\nHolding the highest ranks again\n\n[Verse]\nMemucan spoke before the throne\nThe queen has wronged the king alone\nBut all the officials and the land\nWill see her refusal in the hand\n\n[Verse]\nThe women will despise their men\nAnd speak the words of her again\nSo let the decree be written out\nTo ban her from the king's account\n\n[Verse]\nGive the position to a woman wise\nWho is better in his eyes\nSo all the women from the least\nWill honor every husband's beast\n\n[Verse]\nThe advice pleased the king and all\nHe did as Memucan did call\nAnd wrote the law in Persia's book\nTo seal the fate with iron look\n\n[Outro]\nSeven officials held the rank",
+    "cot": "full",
+    "seed": 31459
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "person-sitri-worship",
+  "title": "Care of the Sanctuary",
+  "kind": "person",
+  "anchor": {
+    "person": "sitri"
+  },
+  "references": [
+    {
+      "bookId": 2,
+      "chapter": 6,
+      "verseStart": 22,
+      "verseEnd": 22
+    },
+    {
+      "bookId": 4,
+      "chapter": 3,
+      "verseStart": 27,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 3,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 5
+    },
+    {
+      "bookId": 4,
+      "chapter": 3,
+      "verseStart": 5,
+      "verseEnd": 10
+    }
+  ],
+  "tags": {
+    "style": [
+      "worship"
+    ],
+    "sentiment": [
+      "promise",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "holiness",
+      "covenant"
+    ],
+    "themes": [
+      "guds-hellighet",
+      "pakten",
+      "ydmykhet"
+    ],
+    "stories": [],
+    "persons": [
+      "sitri",
+      "moses",
+      "aron",
+      "kehat",
+      "levi-leas-sonn"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male solo voice, warm and reverent, acoustic guitar, piano, strings, soft drums, peaceful, 80 BPM",
+    "lyrics": "[Verse]\nSons of Uzziel stand in the line\nMishael and Elzaphan and Sithri\nFrom the household of Kohath they came\nLevites chosen to bear the name\n\n[Chorus]\nThey camp on the south side of the tent\nGuarding the holy things that the Lord sent\nThe ark and the table and the lampstand bright\nThey carry the work of the sanctuary night and day\n\n[Verse]\nWhen fire came from before the Lord\nAnd consumed Nadab and Abihu\nMoses called the sons of Uzziel\nCome carry them out from the camp\n\n[Chorus]\nThey camp on the south side of the tent\nGuarding the holy things that the Lord sent\nThe ark and the table and the lampstand bright\nThey carry the work of the sanctuary night and day\n\n[Bridge]\nAmong those who draw near to me\nI will show myself holy says the Lord\nBefore all the people I am glorified\nIn silence Aaron stands before God\n\n[Outro]\nEight thousand six hundred men\nCharged with the care of the holy things\nA gift to Aaron and his sons\nTo guard the priesthood of Israel",
+    "cot": "full",
+    "seed": 31454
+  }
+}

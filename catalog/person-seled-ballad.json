@@ -1,0 +1,62 @@
+{
+  "id": "person-seled-ballad",
+  "title": "Seled Without Children",
+  "kind": "person",
+  "anchor": {
+    "person": "seled"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 30,
+      "verseEnd": 30
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 25,
+      "verseEnd": 31
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 3,
+      "verseEnd": 5
+    }
+  ],
+  "tags": {
+    "style": [
+      "ballad"
+    ],
+    "sentiment": [
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy"
+    ],
+    "themes": [
+      "david",
+      "frykt",
+      "penger",
+      "skapelsen"
+    ],
+    "stories": [],
+    "persons": [
+      "seled",
+      "juda",
+      "jerahmeel",
+      "nadab-sjammais-sonn",
+      "appajim"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, cello, piano, soft strings, moderate tempo 80 BPM",
+    "lyrics": "[Verse]\nSons of Judah, line by line\nEr, Onan, and Shelah shine\nBath-shua gave these three\nThe firstborn Er was not seen\nBy the Lord with favor, no\nHis path ended, it is so\nTamar bore Perez and Zerah\nJudah had five sons, no fear\n\n[Verse]\nPerez gave Hezron, Hamul\nHezron's firstborn, Ram the full\nBunah, Oren, Ozem, Ahijah\nRam's sons: Maaz, Jamin, Eker\nJerahmeel had Atarah too\nShe was Onam's mother, true\nShammai and Jada, Onam's seed\nNadab and Abishur, indeed\n\n[Pre-Chorus]\nAbishur's wife, Abihail\nBore Ahban and Molid, faithful\nNadab's sons, two names here\nSeled and Appaim, so clear\n\n[Chorus]\nSeled died without children\nHis line stopped, his story ended\nAppaim walked on ahead\nIshi, Sheshan, Ahlai fed\nA record kept in Chronicles\nNames preserved, not forgotten\n\n[Verse]\nJerahmeel's clan, Judah's part\nHistory after the exile's art\nWho lived, who died, who stayed\nThe genealogy, the weight\nSeled's life, briefly known\nWithout children, alone\nBut the book holds his name\nIn the tribe, same as flame\n\n[Chorus]\nSeled died without children\nHis line stopped, his story ended\nAppaim walked on ahead\nIshi, Sheshan, Ahlai fed\nA record kept in Chronicles\nNames preserved, not forgotten\n\n[Outro]\nSeled died without children\nRemembered in the text",
+    "cot": "full",
+    "seed": 31450
+  }
+}

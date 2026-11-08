@@ -1,0 +1,55 @@
+{
+  "id": "person-sered-celtic",
+  "title": "Sered, the Firstborn",
+  "kind": "person",
+  "anchor": {
+    "person": "sered"
+  },
+  "references": [
+    {
+      "bookId": 1,
+      "chapter": 46,
+      "verseStart": 14,
+      "verseEnd": 14
+    },
+    {
+      "bookId": 4,
+      "chapter": 26,
+      "verseStart": 26,
+      "verseEnd": 26
+    }
+  ],
+  "tags": {
+    "style": [
+      "celtic"
+    ],
+    "sentiment": [
+      "praise",
+      "comfort"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith"
+    ],
+    "themes": [
+      "abraham"
+    ],
+    "stories": [],
+    "persons": [
+      "sered",
+      "jakob-israel",
+      "sebulon",
+      "elon",
+      "jahleel"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, male baritone solo with soft choir, acoustic guitar, fiddle, bodhran, harp, cello, solemn and reflective mood, 75 BPM",
+    "lyrics": "[Verse]\nA name in the list of the sons\nSered from the line of Zebulun\nFirst of three, a bloodline drawn\nIn the census of the old world known\n\n[Chorus]\nFrom Sered, the Seredite clan\nThe name is written in the sand\nA son of Zebulun, faithful and true\nIn the record of Jacob's crew\n\n[Verse]\nSeventy souls went down to Egypt\nDuring the famine, time and light\nJoseph held power in that land\nWhile the family crossed the strand\n\n[Chorus]\nFrom Sered, the Seredite clan\nThe name is written in the sand\nA son of Zebulun, faithful and true\nIn the record of Jacob's crew\n\n[Verse]\nOn the plains of Moab, the count\nThe clans are listed, no doubt\nSered, Elon, and Jahleel\nThe lineage of the tribe is real\n\n[Bridge]\nFrom the firstborn to the final name\nThe history of Israel's fame\nIn the books of Chronicles, we see\nThe roots of the tribes set free\n\n[Outro]\nSered, the first of the three\nA name in the genealogy\nFrom Zebulun, a line so true\nThe Seredite clan, standing new",
+    "cot": "full",
+    "seed": 31451
+  }
+}

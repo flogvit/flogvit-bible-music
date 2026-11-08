@@ -1,0 +1,60 @@
+{
+  "id": "person-sismai-acoustic",
+  "title": "Eleasah Fathered Sismai",
+  "kind": "person",
+  "anchor": {
+    "person": "sismai"
+  },
+  "references": [
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 40,
+      "verseEnd": 40
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 25,
+      "verseEnd": 41
+    },
+    {
+      "bookId": 13,
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 4
+    }
+  ],
+  "tags": {
+    "style": [
+      "acoustic"
+    ],
+    "sentiment": [
+      "comfort",
+      "praise"
+    ],
+    "liturgy": [],
+    "theme": [
+      "mercy",
+      "faith",
+      "holiness"
+    ],
+    "themes": [],
+    "stories": [],
+    "persons": [
+      "sismai",
+      "elisa",
+      "sjallum",
+      "jerahmeel",
+      "juda"
+    ]
+  },
+  "lyricsMode": "thematic",
+  "textSource": "osen",
+  "request": {
+    "style": "English, warm male solo voice, acoustic guitar, soft piano, cello, gentle percussion, nostalgic and reverent mood, 80 BPM",
+    "lyrics": "[Verse]\nThese were the sons of Israel\nReuben, Simeon, Levi, Judah\nIssachar, Zebulun, Dan\nJoseph, Benjamin, Naphtali\nGad, and Asher stood as one\nJudah had five sons in all\nEr, Onan, and Shelah there\nTamar bore Perez and Zerah\n\n[Chorus]\nEleasah fathered Sismai\nAnd Sismai fathered Shallum\nSismai fathered Shallum\nA line of Judah's name\n\n[Verse]\nJerahmeel, Hezron's firstborn\nRam, Bunah, Oren, Ozem\nAhijah joined in the tree\nRam, his firstborn, sired more\nMaaz, Jamin, and Eker\nSheshan had no sons at all\nOnly daughters in his house\nHe gave his daughter to Jarha\n\n[Chorus]\nEleasah fathered Sismai\nAnd Sismai fathered Shallum\nSismai fathered Shallum\nA line of Judah's name\n\n[Bridge]\nAttai fathered Nathan then\nNathan fathered Zabad's son\nZabad sired Ephlal, yes\nEphlal sired Obed's line\nObed sired Jehu, then\nJehu sired Azariah\nAzariah sired Helez\nHelez sired Eleasah\n\n[Outro]\nEleasah fathered Sismai\nAnd Sismai fathered Shallum",
+    "cot": "full",
+    "seed": 31453
+  }
+}
